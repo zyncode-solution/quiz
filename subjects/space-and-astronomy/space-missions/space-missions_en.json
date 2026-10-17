@@ -1,0 +1,9005 @@
+{
+  "total_questions": 500,
+  "questions": [
+    {
+      "question": "In what year were both Voyager 1 and Voyager 2 launched?",
+      "options": [
+        {
+          "option": "1979"
+        },
+        {
+          "option": "1975"
+        },
+        {
+          "option": "1981"
+        },
+        {
+          "option": "1977",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which planet did Voyager 2 visit that Voyager 1 did not?",
+      "options": [
+        {
+          "option": "Mars"
+        },
+        {
+          "option": "Saturn"
+        },
+        {
+          "option": "Neptune",
+          "is_answer": true
+        },
+        {
+          "option": "Jupiter"
+        }
+      ]
+    },
+    {
+      "question": "What is the name of the phonograph record carried by both Voyager spacecraft?",
+      "options": [
+        {
+          "option": "Silver Disc"
+        },
+        {
+          "option": "Earth Message"
+        },
+        {
+          "option": "Voyager Archive"
+        },
+        {
+          "option": "Golden Record",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What famous photograph was taken by Voyager 1 from a distance of 6 billion kilometers?",
+      "options": [
+        {
+          "option": "Blue Marble"
+        },
+        {
+          "option": "Deep Field"
+        },
+        {
+          "option": "Pale Blue Dot",
+          "is_answer": true
+        },
+        {
+          "option": "Earthrise"
+        }
+      ]
+    },
+    {
+      "question": "Which boundary did Voyager 1 cross to enter interstellar space?",
+      "options": [
+        {
+          "option": "Asteroid Belt"
+        },
+        {
+          "option": "Kuiper Belt"
+        },
+        {
+          "option": "Oort Cloud"
+        },
+        {
+          "option": "Heliopause",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which planet's moon, Triton, was studied by Voyager 2?",
+      "options": [
+        {
+          "option": "Saturn"
+        },
+        {
+          "option": "Uranus"
+        },
+        {
+          "option": "Jupiter"
+        },
+        {
+          "option": "Neptune",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the primary power source for the Voyager spacecraft?",
+      "options": [
+        {
+          "option": "Nuclear Fission"
+        },
+        {
+          "option": "Solar Panels"
+        },
+        {
+          "option": "Radioisotope Thermoelectric Generators",
+          "is_answer": true
+        },
+        {
+          "option": "Chemical Batteries"
+        }
+      ]
+    },
+    {
+      "question": "Voyager 2 is the only spacecraft to have performed a flyby of which planet?",
+      "options": [
+        {
+          "option": "Jupiter"
+        },
+        {
+          "option": "Mars"
+        },
+        {
+          "option": "Uranus",
+          "is_answer": true
+        },
+        {
+          "option": "Saturn"
+        }
+      ]
+    },
+    {
+      "question": "Who was the primary scientist associated with the Golden Record project?",
+      "options": [
+        {
+          "option": "Carl Sagan",
+          "is_answer": true
+        },
+        {
+          "option": "Stephen Hawking"
+        },
+        {
+          "option": "Neil deGrasse Tyson"
+        },
+        {
+          "option": "Edwin Hubble"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is NOT on the Golden Record?",
+      "options": [
+        {
+          "option": "Greetings in 55 languages"
+        },
+        {
+          "option": "Music from various cultures"
+        },
+        {
+          "option": "A map of the Milky Way",
+          "is_answer": true
+        },
+        {
+          "option": "Sounds of wind and rain"
+        }
+      ]
+    },
+    {
+      "question": "What was the main purpose of the Voyager mission?",
+      "options": [
+        {
+          "option": "Studying the Sun"
+        },
+        {
+          "option": "Landing on Mars"
+        },
+        {
+          "option": "Mapping the Moon"
+        },
+        {
+          "option": "Grand Tour of the outer planets",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which planet's rings were discovered to be complex by Voyager 1?",
+      "options": [
+        {
+          "option": "Neptune"
+        },
+        {
+          "option": "Uranus"
+        },
+        {
+          "option": "Jupiter"
+        },
+        {
+          "option": "Saturn",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In what year did Voyager 1 officially enter interstellar space?",
+      "options": [
+        {
+          "option": "2020"
+        },
+        {
+          "option": "2005"
+        },
+        {
+          "option": "2012",
+          "is_answer": true
+        },
+        {
+          "option": "2015"
+        }
+      ]
+    },
+    {
+      "question": "Which moon of Jupiter was found to have active volcanoes by Voyager 1?",
+      "options": [
+        {
+          "option": "Ganymede"
+        },
+        {
+          "option": "Callisto"
+        },
+        {
+          "option": "Europa"
+        },
+        {
+          "option": "Io",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the speed of Voyager 1 relative to the Sun?",
+      "options": [
+        {
+          "option": "About 17 km/s",
+          "is_answer": true
+        },
+        {
+          "option": "About 5 km/s"
+        },
+        {
+          "option": "About 100 km/s"
+        },
+        {
+          "option": "About 50 km/s"
+        }
+      ]
+    },
+    {
+      "question": "Which agency launched the Voyager missions?",
+      "options": [
+        {
+          "option": "ISRO"
+        },
+        {
+          "option": "NASA",
+          "is_answer": true
+        },
+        {
+          "option": "Roscosmos"
+        },
+        {
+          "option": "ESA"
+        }
+      ]
+    },
+    {
+      "question": "What is the primary communication method for Voyager?",
+      "options": [
+        {
+          "option": "Satellite Radio"
+        },
+        {
+          "option": "Bluetooth"
+        },
+        {
+          "option": "Optical Laser"
+        },
+        {
+          "option": "Deep Space Network",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which planet's magnetic field was found to be tilted by Voyager 2?",
+      "options": [
+        {
+          "option": "Jupiter"
+        },
+        {
+          "option": "Neptune"
+        },
+        {
+          "option": "Uranus",
+          "is_answer": true
+        },
+        {
+          "option": "Saturn"
+        }
+      ]
+    },
+    {
+      "question": "What is the 'Pale Blue Dot' referring to?",
+      "options": [
+        {
+          "option": "Neptune"
+        },
+        {
+          "option": "Venus"
+        },
+        {
+          "option": "Mars"
+        },
+        {
+          "option": "Earth",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many years after launch did Voyager 2 reach Neptune?",
+      "options": [
+        {
+          "option": "12 years",
+          "is_answer": true
+        },
+        {
+          "option": "5 years"
+        },
+        {
+          "option": "20 years"
+        },
+        {
+          "option": "30 years"
+        }
+      ]
+    },
+    {
+      "question": "When was the James Webb Space Telescope launched?",
+      "options": [
+        {
+          "option": "December 2021",
+          "is_answer": true
+        },
+        {
+          "option": "January 2022"
+        },
+        {
+          "option": "July 2021"
+        },
+        {
+          "option": "December 2020"
+        }
+      ]
+    },
+    {
+      "question": "Which rocket was used to launch the JWST?",
+      "options": [
+        {
+          "option": "Ariane 5",
+          "is_answer": true
+        },
+        {
+          "option": "Delta IV Heavy"
+        },
+        {
+          "option": "Atlas V"
+        },
+        {
+          "option": "Falcon 9"
+        }
+      ]
+    },
+    {
+      "question": "What is the primary mirror diameter of the JWST?",
+      "options": [
+        {
+          "option": "2.4 meters"
+        },
+        {
+          "option": "5 meters"
+        },
+        {
+          "option": "10 meters"
+        },
+        {
+          "option": "6.5 meters",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What material is used to coat the JWST's mirrors?",
+      "options": [
+        {
+          "option": "Aluminum"
+        },
+        {
+          "option": "Beryllium"
+        },
+        {
+          "option": "Gold",
+          "is_answer": true
+        },
+        {
+          "option": "Silver"
+        }
+      ]
+    },
+    {
+      "question": "Where is the JWST located in space?",
+      "options": [
+        {
+          "option": "Moon Orbit"
+        },
+        {
+          "option": "Sun-Earth L2",
+          "is_answer": true
+        },
+        {
+          "option": "Low Earth Orbit"
+        },
+        {
+          "option": "Sun-Earth L1"
+        }
+      ]
+    },
+    {
+      "question": "How many layers does the JWST sunshield have?",
+      "options": [
+        {
+          "option": "Three"
+        },
+        {
+          "option": "One"
+        },
+        {
+          "option": "Five",
+          "is_answer": true
+        },
+        {
+          "option": "Seven"
+        }
+      ]
+    },
+    {
+      "question": "Which part of the electromagnetic spectrum does JWST primarily observe?",
+      "options": [
+        {
+          "option": "Visible light"
+        },
+        {
+          "option": "X-ray"
+        },
+        {
+          "option": "Ultraviolet"
+        },
+        {
+          "option": "Infrared",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the primary structural material of the JWST mirrors?",
+      "options": [
+        {
+          "option": "Titanium"
+        },
+        {
+          "option": "Aluminum"
+        },
+        {
+          "option": "Beryllium",
+          "is_answer": true
+        },
+        {
+          "option": "Carbon Fiber"
+        }
+      ]
+    },
+    {
+      "question": "Which space agencies collaborated on the JWST mission?",
+      "options": [
+        {
+          "option": "ESA, CNSA, NASA"
+        },
+        {
+          "option": "NASA, ISRO, ESA"
+        },
+        {
+          "option": "NASA, ESA, CSA",
+          "is_answer": true
+        },
+        {
+          "option": "NASA, Roscosmos, JAXA"
+        }
+      ]
+    },
+    {
+      "question": "What is the main purpose of the JWST sunshield?",
+      "options": [
+        {
+          "option": "To keep the telescope cold",
+          "is_answer": true
+        },
+        {
+          "option": "To protect from micrometeoroids"
+        },
+        {
+          "option": "To generate electricity"
+        },
+        {
+          "option": "To focus light"
+        }
+      ]
+    },
+    {
+      "question": "How many segments make up the JWST primary mirror?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "18",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "What type of orbit does the JWST follow?",
+      "options": [
+        {
+          "option": "Halo orbit",
+          "is_answer": true
+        },
+        {
+          "option": "Elliptical orbit"
+        },
+        {
+          "option": "Polar orbit"
+        },
+        {
+          "option": "Geostationary orbit"
+        }
+      ]
+    },
+    {
+      "question": "The JWST is considered the successor to which telescope?",
+      "options": [
+        {
+          "option": "Hubble",
+          "is_answer": true
+        },
+        {
+          "option": "Spitzer"
+        },
+        {
+          "option": "Chandra"
+        },
+        {
+          "option": "Kepler"
+        }
+      ]
+    },
+    {
+      "question": "What is the approximate distance of L2 from Earth?",
+      "options": [
+        {
+          "option": "400,000 km"
+        },
+        {
+          "option": "10,000 km"
+        },
+        {
+          "option": "1.5 million km",
+          "is_answer": true
+        },
+        {
+          "option": "150 million km"
+        }
+      ]
+    },
+    {
+      "question": "Which instrument on JWST is used for near-infrared imaging?",
+      "options": [
+        {
+          "option": "MIRI"
+        },
+        {
+          "option": "NIRSpec"
+        },
+        {
+          "option": "NIRCam",
+          "is_answer": true
+        },
+        {
+          "option": "FGS"
+        }
+      ]
+    },
+    {
+      "question": "What is the primary mission goal of JWST?",
+      "options": [
+        {
+          "option": "Map the Earth's surface"
+        },
+        {
+          "option": "Study the Sun's corona"
+        },
+        {
+          "option": "Search for black holes in our solar system"
+        },
+        {
+          "option": "Observe the first stars and galaxies",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the temperature on the cold side of the JWST sunshield?",
+      "options": [
+        {
+          "option": "Above 0°C"
+        },
+        {
+          "option": "Below -230°C",
+          "is_answer": true
+        },
+        {
+          "option": "Around 50°C"
+        },
+        {
+          "option": "Room temperature"
+        }
+      ]
+    },
+    {
+      "question": "How does the JWST communicate with Earth?",
+      "options": [
+        {
+          "option": "Deep Space Network",
+          "is_answer": true
+        },
+        {
+          "option": "Direct radio link"
+        },
+        {
+          "option": "Satellite relay"
+        },
+        {
+          "option": "Optical laser"
+        }
+      ]
+    },
+    {
+      "question": "What is the shape of the JWST primary mirror?",
+      "options": [
+        {
+          "option": "Circular"
+        },
+        {
+          "option": "Hexagonal",
+          "is_answer": true
+        },
+        {
+          "option": "Rectangular"
+        },
+        {
+          "option": "Square"
+        }
+      ]
+    },
+    {
+      "question": "Which instrument on JWST is designed for mid-infrared observations?",
+      "options": [
+        {
+          "option": "FGS"
+        },
+        {
+          "option": "NIRCam"
+        },
+        {
+          "option": "NIRSpec"
+        },
+        {
+          "option": "MIRI",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "On what date did the Apollo 11 lunar module land on the Moon?",
+      "options": [
+        {
+          "option": "August 20, 1969"
+        },
+        {
+          "option": "July 16, 1969"
+        },
+        {
+          "option": "July 20, 1969",
+          "is_answer": true
+        },
+        {
+          "option": "July 24, 1969"
+        }
+      ]
+    },
+    {
+      "question": "Which rocket was used to launch the Apollo 11 mission?",
+      "options": [
+        {
+          "option": "Falcon 9"
+        },
+        {
+          "option": "Atlas V"
+        },
+        {
+          "option": "Saturn V",
+          "is_answer": true
+        },
+        {
+          "option": "Titan II"
+        }
+      ]
+    },
+    {
+      "question": "Who was the first human to step onto the lunar surface?",
+      "options": [
+        {
+          "option": "Yuri Gagarin"
+        },
+        {
+          "option": "Buzz Aldrin"
+        },
+        {
+          "option": "Michael Collins"
+        },
+        {
+          "option": "Neil Armstrong",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the name of the lunar region where Apollo 11 landed?",
+      "options": [
+        {
+          "option": "Crater Tycho"
+        },
+        {
+          "option": "Sea of Tranquility",
+          "is_answer": true
+        },
+        {
+          "option": "Sea of Serenity"
+        },
+        {
+          "option": "Ocean of Storms"
+        }
+      ]
+    },
+    {
+      "question": "Who was the pilot of the Apollo 11 Command Module who stayed in lunar orbit?",
+      "options": [
+        {
+          "option": "Buzz Aldrin"
+        },
+        {
+          "option": "Michael Collins",
+          "is_answer": true
+        },
+        {
+          "option": "Jim Lovell"
+        },
+        {
+          "option": "Neil Armstrong"
+        }
+      ]
+    },
+    {
+      "question": "What famous phrase did Neil Armstrong say upon stepping onto the Moon?",
+      "options": [
+        {
+          "option": "To infinity and beyond"
+        },
+        {
+          "option": "One small step for man",
+          "is_answer": true
+        },
+        {
+          "option": "A giant leap for mankind"
+        },
+        {
+          "option": "The Eagle has landed"
+        }
+      ]
+    },
+    {
+      "question": "How many astronauts walked on the Moon during the Apollo 11 mission?",
+      "options": [
+        {
+          "option": "Four"
+        },
+        {
+          "option": "One"
+        },
+        {
+          "option": "Three"
+        },
+        {
+          "option": "Two",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What was the name of the Lunar Module that landed on the Moon?",
+      "options": [
+        {
+          "option": "Columbia"
+        },
+        {
+          "option": "Falcon"
+        },
+        {
+          "option": "Eagle",
+          "is_answer": true
+        },
+        {
+          "option": "Discovery"
+        }
+      ]
+    },
+    {
+      "question": "What was the primary purpose of collecting lunar samples?",
+      "options": [
+        {
+          "option": "Building materials"
+        },
+        {
+          "option": "Scientific analysis",
+          "is_answer": true
+        },
+        {
+          "option": "Souvenirs"
+        },
+        {
+          "option": "Fuel production"
+        }
+      ]
+    },
+    {
+      "question": "Which space agency conducted the Apollo 11 mission?",
+      "options": [
+        {
+          "option": "ESA"
+        },
+        {
+          "option": "Roscosmos"
+        },
+        {
+          "option": "ISRO"
+        },
+        {
+          "option": "NASA",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How long did the Apollo 11 astronauts spend on the lunar surface?",
+      "options": [
+        {
+          "option": "About 1 week"
+        },
+        {
+          "option": "About 2 hours"
+        },
+        {
+          "option": "About 48 hours"
+        },
+        {
+          "option": "About 21 hours",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What was the name of the Command Module for Apollo 11?",
+      "options": [
+        {
+          "option": "Eagle"
+        },
+        {
+          "option": "Odyssey"
+        },
+        {
+          "option": "Endeavour"
+        },
+        {
+          "option": "Columbia",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What did the astronauts leave on the Moon to commemorate their landing?",
+      "options": [
+        {
+          "option": "A plaque",
+          "is_answer": true
+        },
+        {
+          "option": "A telescope"
+        },
+        {
+          "option": "A rover"
+        },
+        {
+          "option": "A flag"
+        }
+      ]
+    },
+    {
+      "question": "Which U.S. President set the goal of landing a man on the Moon?",
+      "options": [
+        {
+          "option": "John F. Kennedy",
+          "is_answer": true
+        },
+        {
+          "option": "Dwight Eisenhower"
+        },
+        {
+          "option": "Lyndon B. Johnson"
+        },
+        {
+          "option": "Richard Nixon"
+        }
+      ]
+    },
+    {
+      "question": "What was the primary fuel used by the Saturn V rocket?",
+      "options": [
+        {
+          "option": "Solar power"
+        },
+        {
+          "option": "Liquid oxygen and kerosene",
+          "is_answer": true
+        },
+        {
+          "option": "Nuclear energy"
+        },
+        {
+          "option": "Solid rocket fuel"
+        }
+      ]
+    },
+    {
+      "question": "How many stages did the Saturn V rocket have?",
+      "options": [
+        {
+          "option": "Three",
+          "is_answer": true
+        },
+        {
+          "option": "Five"
+        },
+        {
+          "option": "Two"
+        },
+        {
+          "option": "Four"
+        }
+      ]
+    },
+    {
+      "question": "What was the main scientific goal of the Apollo 11 mission?",
+      "options": [
+        {
+          "option": "Lunar exploration and sample return",
+          "is_answer": true
+        },
+        {
+          "option": "Mining for gold"
+        },
+        {
+          "option": "Building a base"
+        },
+        {
+          "option": "Searching for aliens"
+        }
+      ]
+    },
+    {
+      "question": "What was the name of the launch site for Apollo 11?",
+      "options": [
+        {
+          "option": "Cape Canaveral"
+        },
+        {
+          "option": "Houston"
+        },
+        {
+          "option": "Edwards Air Force Base"
+        },
+        {
+          "option": "Kennedy Space Center",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What was the total weight of lunar samples brought back by Apollo 11?",
+      "options": [
+        {
+          "option": "50 kg"
+        },
+        {
+          "option": "100 kg"
+        },
+        {
+          "option": "5 kg"
+        },
+        {
+          "option": "21.5 kg",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In which ocean did the Apollo 11 command module splash down?",
+      "options": [
+        {
+          "option": "Arctic Ocean"
+        },
+        {
+          "option": "Pacific Ocean",
+          "is_answer": true
+        },
+        {
+          "option": "Indian Ocean"
+        },
+        {
+          "option": "Atlantic Ocean"
+        }
+      ]
+    },
+    {
+      "question": "In what year was the Hubble Space Telescope launched?",
+      "options": [
+        {
+          "option": "1985"
+        },
+        {
+          "option": "1995"
+        },
+        {
+          "option": "2000"
+        },
+        {
+          "option": "1990",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which Space Shuttle mission carried the Hubble Space Telescope into orbit?",
+      "options": [
+        {
+          "option": "STS-109"
+        },
+        {
+          "option": "STS-61"
+        },
+        {
+          "option": "STS-31",
+          "is_answer": true
+        },
+        {
+          "option": "STS-51"
+        }
+      ]
+    },
+    {
+      "question": "What was the primary optical defect discovered in Hubble's mirror shortly after launch?",
+      "options": [
+        {
+          "option": "Chromatic aberration"
+        },
+        {
+          "option": "Coma"
+        },
+        {
+          "option": "Spherical aberration",
+          "is_answer": true
+        },
+        {
+          "option": "Astigmatism"
+        }
+      ]
+    },
+    {
+      "question": "Which servicing mission was responsible for installing the COSTAR corrective optics?",
+      "options": [
+        {
+          "option": "STS-61",
+          "is_answer": true
+        },
+        {
+          "option": "STS-31"
+        },
+        {
+          "option": "STS-103"
+        },
+        {
+          "option": "STS-82"
+        }
+      ]
+    },
+    {
+      "question": "What is the name of the famous deep-field image that revealed thousands of distant galaxies?",
+      "options": [
+        {
+          "option": "Hubble Galaxy Survey"
+        },
+        {
+          "option": "Hubble Deep Field",
+          "is_answer": true
+        },
+        {
+          "option": "Hubble Star Map"
+        },
+        {
+          "option": "Hubble Wide View"
+        }
+      ]
+    },
+    {
+      "question": "Hubble orbits which celestial body?",
+      "options": [
+        {
+          "option": "Moon"
+        },
+        {
+          "option": "Sun"
+        },
+        {
+          "option": "Earth",
+          "is_answer": true
+        },
+        {
+          "option": "Mars"
+        }
+      ]
+    },
+    {
+      "question": "Who is the Hubble Space Telescope named after?",
+      "options": [
+        {
+          "option": "Carl Sagan"
+        },
+        {
+          "option": "Isaac Newton"
+        },
+        {
+          "option": "Edwin Hubble",
+          "is_answer": true
+        },
+        {
+          "option": "Galileo Galilei"
+        }
+      ]
+    },
+    {
+      "question": "What type of telescope is the Hubble Space Telescope?",
+      "options": [
+        {
+          "option": "X-ray telescope"
+        },
+        {
+          "option": "Refracting telescope"
+        },
+        {
+          "option": "Radio telescope"
+        },
+        {
+          "option": "Reflecting telescope",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which agency manages the Hubble Space Telescope?",
+      "options": [
+        {
+          "option": "NASA",
+          "is_answer": true
+        },
+        {
+          "option": "Roscosmos"
+        },
+        {
+          "option": "ESA"
+        },
+        {
+          "option": "ISRO"
+        }
+      ]
+    },
+    {
+      "question": "What was the primary purpose of the COSTAR instrument?",
+      "options": [
+        {
+          "option": "Measuring star temperature"
+        },
+        {
+          "option": "Correcting spherical aberration",
+          "is_answer": true
+        },
+        {
+          "option": "Capturing infrared light"
+        },
+        {
+          "option": "Stabilizing the telescope"
+        }
+      ]
+    },
+    {
+      "question": "How many servicing missions were conducted for Hubble?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the approximate diameter of Hubble's primary mirror?",
+      "options": [
+        {
+          "option": "1.5 meters"
+        },
+        {
+          "option": "5.0 meters"
+        },
+        {
+          "option": "2.4 meters",
+          "is_answer": true
+        },
+        {
+          "option": "3.2 meters"
+        }
+      ]
+    },
+    {
+      "question": "Hubble primarily observes in which spectrum of light?",
+      "options": [
+        {
+          "option": "Gamma rays only"
+        },
+        {
+          "option": "Microwaves only"
+        },
+        {
+          "option": "Visible and Ultraviolet",
+          "is_answer": true
+        },
+        {
+          "option": "Radio waves only"
+        }
+      ]
+    },
+    {
+      "question": "Which space shuttle launched Hubble in 1990?",
+      "options": [
+        {
+          "option": "Challenger"
+        },
+        {
+          "option": "Discovery",
+          "is_answer": true
+        },
+        {
+          "option": "Endeavour"
+        },
+        {
+          "option": "Atlantis"
+        }
+      ]
+    },
+    {
+      "question": "What is the main advantage of placing a telescope in space?",
+      "options": [
+        {
+          "option": "Easier to repair"
+        },
+        {
+          "option": "Avoiding atmospheric distortion",
+          "is_answer": true
+        },
+        {
+          "option": "Being closer to stars"
+        },
+        {
+          "option": "Less solar radiation"
+        }
+      ]
+    },
+    {
+      "question": "Which instrument was replaced by COSTAR during the first servicing mission?",
+      "options": [
+        {
+          "option": "Faint Object Camera"
+        },
+        {
+          "option": "Spectrograph"
+        },
+        {
+          "option": "Wide Field Camera"
+        },
+        {
+          "option": "High Speed Photometer",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Hubble has helped scientists determine the approximate age of the universe to be:",
+      "options": [
+        {
+          "option": "4.5 billion years"
+        },
+        {
+          "option": "20 billion years"
+        },
+        {
+          "option": "10 billion years"
+        },
+        {
+          "option": "13.8 billion years",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the name of the successor to the Hubble Space Telescope?",
+      "options": [
+        {
+          "option": "Spitzer Space Telescope"
+        },
+        {
+          "option": "Kepler Space Telescope"
+        },
+        {
+          "option": "Chandra X-ray Observatory"
+        },
+        {
+          "option": "James Webb Space Telescope",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a famous nebula imaged by Hubble?",
+      "options": [
+        {
+          "option": "Pillars of Creation",
+          "is_answer": true
+        },
+        {
+          "option": "Orion Nebula"
+        },
+        {
+          "option": "Crab Nebula"
+        },
+        {
+          "option": "Horsehead Nebula"
+        }
+      ]
+    },
+    {
+      "question": "How does Hubble communicate with Earth?",
+      "options": [
+        {
+          "option": "Fiber optic cables"
+        },
+        {
+          "option": "Radio waves",
+          "is_answer": true
+        },
+        {
+          "option": "Sound waves"
+        },
+        {
+          "option": "Laser beams"
+        }
+      ]
+    },
+    {
+      "question": "In what year was the New Horizons spacecraft launched from Earth?",
+      "options": [
+        {
+          "option": "2008"
+        },
+        {
+          "option": "2006",
+          "is_answer": true
+        },
+        {
+          "option": "2010"
+        },
+        {
+          "option": "2004"
+        }
+      ]
+    },
+    {
+      "question": "Which planet did New Horizons use for a gravity assist to increase its speed?",
+      "options": [
+        {
+          "option": "Jupiter",
+          "is_answer": true
+        },
+        {
+          "option": "Mars"
+        },
+        {
+          "option": "Saturn"
+        },
+        {
+          "option": "Venus"
+        }
+      ]
+    },
+    {
+      "question": "In which month and year did the historic Pluto flyby occur?",
+      "options": [
+        {
+          "option": "July 2015",
+          "is_answer": true
+        },
+        {
+          "option": "July 2012"
+        },
+        {
+          "option": "June 2014"
+        },
+        {
+          "option": "August 2016"
+        }
+      ]
+    },
+    {
+      "question": "What is the name of the prominent heart-shaped feature on Pluto?",
+      "options": [
+        {
+          "option": "Charon Basin"
+        },
+        {
+          "option": "Kuiper Crater"
+        },
+        {
+          "option": "Tombaugh Regio",
+          "is_answer": true
+        },
+        {
+          "option": "Sputnik Planitia"
+        }
+      ]
+    },
+    {
+      "question": "Which Kuiper Belt object did New Horizons visit in 2019?",
+      "options": [
+        {
+          "option": "Haumea"
+        },
+        {
+          "option": "Makemake"
+        },
+        {
+          "option": "Arrokoth",
+          "is_answer": true
+        },
+        {
+          "option": "Eris"
+        }
+      ]
+    },
+    {
+      "question": "What record did the New Horizons launch hold?",
+      "options": [
+        {
+          "option": "Heaviest payload"
+        },
+        {
+          "option": "Longest duration mission"
+        },
+        {
+          "option": "Fastest launch from Earth",
+          "is_answer": true
+        },
+        {
+          "option": "Most expensive mission"
+        }
+      ]
+    },
+    {
+      "question": "What is the primary mission of the New Horizons spacecraft?",
+      "options": [
+        {
+          "option": "Land on Mars"
+        },
+        {
+          "option": "Study Pluto and the Kuiper Belt",
+          "is_answer": true
+        },
+        {
+          "option": "Orbit the Sun"
+        },
+        {
+          "option": "Search for aliens"
+        }
+      ]
+    },
+    {
+      "question": "Who is the namesake of the Tombaugh Regio on Pluto?",
+      "options": [
+        {
+          "option": "Edwin Hubble"
+        },
+        {
+          "option": "Percival Lowell"
+        },
+        {
+          "option": "Carl Sagan"
+        },
+        {
+          "option": "Clyde Tombaugh",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the shape of the object Arrokoth?",
+      "options": [
+        {
+          "option": "Ringed planet"
+        },
+        {
+          "option": "Irregular asteroid"
+        },
+        {
+          "option": "Two-lobed (snowman-like)",
+          "is_answer": true
+        },
+        {
+          "option": "Perfect sphere"
+        }
+      ]
+    },
+    {
+      "question": "Which agency launched New Horizons?",
+      "options": [
+        {
+          "option": "ISRO"
+        },
+        {
+          "option": "NASA",
+          "is_answer": true
+        },
+        {
+          "option": "Roscosmos"
+        },
+        {
+          "option": "ESA"
+        }
+      ]
+    },
+    {
+      "question": "What is the Kuiper Belt?",
+      "options": [
+        {
+          "option": "A cloud of gas in deep space"
+        },
+        {
+          "option": "A region of icy bodies beyond Neptune",
+          "is_answer": true
+        },
+        {
+          "option": "A ring around Saturn"
+        },
+        {
+          "option": "An asteroid belt between Mars and Jupiter"
+        }
+      ]
+    },
+    {
+      "question": "Approximately how long did it take for New Horizons to reach Pluto?",
+      "options": [
+        {
+          "option": "20 years"
+        },
+        {
+          "option": "15 years"
+        },
+        {
+          "option": "5 years"
+        },
+        {
+          "option": "9.5 years",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What was the primary goal of the Jupiter flyby?",
+      "options": [
+        {
+          "option": "To refuel"
+        },
+        {
+          "option": "To land on Jupiter"
+        },
+        {
+          "option": "Gravity assist to speed up",
+          "is_answer": true
+        },
+        {
+          "option": "To study Jupiter's moons"
+        }
+      ]
+    },
+    {
+      "question": "Which moon of Pluto is the largest?",
+      "options": [
+        {
+          "option": "Charon",
+          "is_answer": true
+        },
+        {
+          "option": "Hydra"
+        },
+        {
+          "option": "Kerberos"
+        },
+        {
+          "option": "Nix"
+        }
+      ]
+    },
+    {
+      "question": "What type of mission was New Horizons?",
+      "options": [
+        {
+          "option": "Flyby",
+          "is_answer": true
+        },
+        {
+          "option": "Rover"
+        },
+        {
+          "option": "Lander"
+        },
+        {
+          "option": "Orbiter"
+        }
+      ]
+    },
+    {
+      "question": "What was the name of the mission that discovered Pluto in 1930?",
+      "options": [
+        {
+          "option": "Pioneer 10"
+        },
+        {
+          "option": "Not a space mission (Ground-based)",
+          "is_answer": true
+        },
+        {
+          "option": "Voyager 1"
+        },
+        {
+          "option": "New Horizons"
+        }
+      ]
+    },
+    {
+      "question": "What color is the surface of Pluto generally described as?",
+      "options": [
+        {
+          "option": "Deep blue"
+        },
+        {
+          "option": "Jet black"
+        },
+        {
+          "option": "Pure white"
+        },
+        {
+          "option": "Reddish-brown",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the distance of Pluto from the Sun compared to Earth?",
+      "options": [
+        {
+          "option": "Much closer"
+        },
+        {
+          "option": "Slightly closer"
+        },
+        {
+          "option": "About the same"
+        },
+        {
+          "option": "Much farther",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What was the main scientific instrument used to take photos of Pluto?",
+      "options": [
+        {
+          "option": "Magnetometer"
+        },
+        {
+          "option": "Radar"
+        },
+        {
+          "option": "LORRI",
+          "is_answer": true
+        },
+        {
+          "option": "Spectrometer"
+        }
+      ]
+    },
+    {
+      "question": "What is the significance of the Arrokoth flyby?",
+      "options": [
+        {
+          "option": "First mission to the Sun"
+        },
+        {
+          "option": "First landing on a moon"
+        },
+        {
+          "option": "First mission to Mars"
+        },
+        {
+          "option": "Farthest object ever explored",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In what year did the Cassini-Huygens spacecraft arrive at Saturn?",
+      "options": [
+        {
+          "option": "2012"
+        },
+        {
+          "option": "2000"
+        },
+        {
+          "option": "2004",
+          "is_answer": true
+        },
+        {
+          "option": "2008"
+        }
+      ]
+    },
+    {
+      "question": "Which moon of Saturn was found to have a subsurface ocean and active geysers by Cassini?",
+      "options": [
+        {
+          "option": "Titan"
+        },
+        {
+          "option": "Enceladus",
+          "is_answer": true
+        },
+        {
+          "option": "Rhea"
+        },
+        {
+          "option": "Mimas"
+        }
+      ]
+    },
+    {
+      "question": "The Huygens probe landed on which moon of Saturn in 2005?",
+      "options": [
+        {
+          "option": "Enceladus"
+        },
+        {
+          "option": "Titan",
+          "is_answer": true
+        },
+        {
+          "option": "Iapetus"
+        },
+        {
+          "option": "Dione"
+        }
+      ]
+    },
+    {
+      "question": "What was the name of the final phase of the Cassini mission in 2017?",
+      "options": [
+        {
+          "option": "Saturn Impact"
+        },
+        {
+          "option": "Grand Finale",
+          "is_answer": true
+        },
+        {
+          "option": "Mission End"
+        },
+        {
+          "option": "Final Descent"
+        }
+      ]
+    },
+    {
+      "question": "Which space agency built the Huygens probe?",
+      "options": [
+        {
+          "option": "NASA"
+        },
+        {
+          "option": "Roscosmos"
+        },
+        {
+          "option": "ISRO"
+        },
+        {
+          "option": "ESA",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What was the primary goal of the Cassini-Huygens mission?",
+      "options": [
+        {
+          "option": "Search for Mars life"
+        },
+        {
+          "option": "Study Saturn and its moons",
+          "is_answer": true
+        },
+        {
+          "option": "Land on Jupiter"
+        },
+        {
+          "option": "Map the Sun"
+        }
+      ]
+    },
+    {
+      "question": "How did the Cassini mission end in 2017?",
+      "options": [
+        {
+          "option": "Shutting down in orbit"
+        },
+        {
+          "option": "Crashing into Titan"
+        },
+        {
+          "option": "Diving into Saturn's atmosphere",
+          "is_answer": true
+        },
+        {
+          "option": "Flying out of the solar system"
+        }
+      ]
+    },
+    {
+      "question": "Which planet did the Cassini-Huygens mission explore?",
+      "options": [
+        {
+          "option": "Uranus"
+        },
+        {
+          "option": "Saturn",
+          "is_answer": true
+        },
+        {
+          "option": "Jupiter"
+        },
+        {
+          "option": "Neptune"
+        }
+      ]
+    },
+    {
+      "question": "What is the largest moon of Saturn that Huygens visited?",
+      "options": [
+        {
+          "option": "Dione"
+        },
+        {
+          "option": "Rhea"
+        },
+        {
+          "option": "Tethys"
+        },
+        {
+          "option": "Titan",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Cassini was a joint mission between NASA and which other agency?",
+      "options": [
+        {
+          "option": "JAXA"
+        },
+        {
+          "option": "CSA"
+        },
+        {
+          "option": "ESA",
+          "is_answer": true
+        },
+        {
+          "option": "CNSA"
+        }
+      ]
+    },
+    {
+      "question": "What did Cassini discover about Enceladus's geysers?",
+      "options": [
+        {
+          "option": "They are made of pure oxygen"
+        },
+        {
+          "option": "They are made of liquid gold"
+        },
+        {
+          "option": "They spray water ice and organic particles",
+          "is_answer": true
+        },
+        {
+          "option": "They are volcanic lava"
+        }
+      ]
+    },
+    {
+      "question": "In what year did the Huygens probe land on Titan?",
+      "options": [
+        {
+          "option": "2005",
+          "is_answer": true
+        },
+        {
+          "option": "2007"
+        },
+        {
+          "option": "2006"
+        },
+        {
+          "option": "2004"
+        }
+      ]
+    },
+    {
+      "question": "What was the main purpose of the Grand Finale?",
+      "options": [
+        {
+          "option": "To take photos of Earth"
+        },
+        {
+          "option": "To prevent contamination of Saturn's moons",
+          "is_answer": true
+        },
+        {
+          "option": "To land on the rings"
+        },
+        {
+          "option": "To test new engines"
+        }
+      ]
+    },
+    {
+      "question": "Which feature of Saturn did Cassini study extensively?",
+      "options": [
+        {
+          "option": "The core temperature"
+        },
+        {
+          "option": "The magnetic field reversal"
+        },
+        {
+          "option": "The asteroid belt"
+        },
+        {
+          "option": "The ring system",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What kind of power source did the Cassini spacecraft use?",
+      "options": [
+        {
+          "option": "Chemical batteries"
+        },
+        {
+          "option": "Nuclear fission reactor"
+        },
+        {
+          "option": "Solar panels"
+        },
+        {
+          "option": "Radioisotope Thermoelectric Generator",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many years did Cassini orbit Saturn?",
+      "options": [
+        {
+          "option": "5 years"
+        },
+        {
+          "option": "20 years"
+        },
+        {
+          "option": "13 years",
+          "is_answer": true
+        },
+        {
+          "option": "2 years"
+        }
+      ]
+    },
+    {
+      "question": "What was the name of the probe that landed on Titan?",
+      "options": [
+        {
+          "option": "Pioneer"
+        },
+        {
+          "option": "Huygens",
+          "is_answer": true
+        },
+        {
+          "option": "Cassini"
+        },
+        {
+          "option": "Voyager"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a moon of Saturn that Cassini studied?",
+      "options": [
+        {
+          "option": "Phobos"
+        },
+        {
+          "option": "Europa"
+        },
+        {
+          "option": "Iapetus",
+          "is_answer": true
+        },
+        {
+          "option": "Deimos"
+        }
+      ]
+    },
+    {
+      "question": "What did the Huygens probe reveal about Titan's surface?",
+      "options": [
+        {
+          "option": "It is covered in sand"
+        },
+        {
+          "option": "It has active volcanoes"
+        },
+        {
+          "option": "It is made of solid ice"
+        },
+        {
+          "option": "It has liquid methane lakes",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What was the main reason for the Cassini mission's end?",
+      "options": [
+        {
+          "option": "Budget cuts"
+        },
+        {
+          "option": "Collision with a moon"
+        },
+        {
+          "option": "Running out of fuel",
+          "is_answer": true
+        },
+        {
+          "option": "Communication failure"
+        }
+      ]
+    },
+    {
+      "question": "In what year was the Curiosity rover launched?",
+      "options": [
+        {
+          "option": "2013"
+        },
+        {
+          "option": "2011",
+          "is_answer": true
+        },
+        {
+          "option": "2007"
+        },
+        {
+          "option": "2009"
+        }
+      ]
+    },
+    {
+      "question": "What is the name of the crater where Curiosity landed?",
+      "options": [
+        {
+          "option": "Gale Crater",
+          "is_answer": true
+        },
+        {
+          "option": "Endeavour Crater"
+        },
+        {
+          "option": "Gusev Crater"
+        },
+        {
+          "option": "Jezero Crater"
+        }
+      ]
+    },
+    {
+      "question": "Which landing method was used by Curiosity to reach the Martian surface?",
+      "options": [
+        {
+          "option": "Airbags"
+        },
+        {
+          "option": "Sky Crane",
+          "is_answer": true
+        },
+        {
+          "option": "Retro-rockets"
+        },
+        {
+          "option": "Parachute only"
+        }
+      ]
+    },
+    {
+      "question": "What is the primary scientific goal of the Curiosity mission?",
+      "options": [
+        {
+          "option": "Search for alien life"
+        },
+        {
+          "option": "Collect soil for Earth return"
+        },
+        {
+          "option": "Assess Mars' habitability",
+          "is_answer": true
+        },
+        {
+          "option": "Map the entire planet"
+        }
+      ]
+    },
+    {
+      "question": "Which instrument on Curiosity is used to identify minerals in rocks?",
+      "options": [
+        {
+          "option": "MastCam"
+        },
+        {
+          "option": "SAM"
+        },
+        {
+          "option": "CheMin",
+          "is_answer": true
+        },
+        {
+          "option": "RAD"
+        }
+      ]
+    },
+    {
+      "question": "What does the SAM instrument stand for on Curiosity?",
+      "options": [
+        {
+          "option": "Space Atmospheric Monitor"
+        },
+        {
+          "option": "Soil Assessment Machine"
+        },
+        {
+          "option": "Sample Analysis at Mars",
+          "is_answer": true
+        },
+        {
+          "option": "Surface Analysis Module"
+        }
+      ]
+    },
+    {
+      "question": "Curiosity found evidence of what type of environment in Gale Crater?",
+      "options": [
+        {
+          "option": "Glacial ice sheets"
+        },
+        {
+          "option": "Ancient freshwater lake",
+          "is_answer": true
+        },
+        {
+          "option": "Volcanic activity"
+        },
+        {
+          "option": "Global ocean"
+        }
+      ]
+    },
+    {
+      "question": "In what month and year did Curiosity land on Mars?",
+      "options": [
+        {
+          "option": "August 2013"
+        },
+        {
+          "option": "September 2012"
+        },
+        {
+          "option": "August 2012",
+          "is_answer": true
+        },
+        {
+          "option": "July 2011"
+        }
+      ]
+    },
+    {
+      "question": "What is the power source for the Curiosity rover?",
+      "options": [
+        {
+          "option": "Radioisotope Thermoelectric Generator",
+          "is_answer": true
+        },
+        {
+          "option": "Lithium-ion batteries"
+        },
+        {
+          "option": "Solar panels"
+        },
+        {
+          "option": "Wind turbines"
+        }
+      ]
+    },
+    {
+      "question": "What is the name of the mountain Curiosity is climbing inside Gale Crater?",
+      "options": [
+        {
+          "option": "Ascraeus Mons"
+        },
+        {
+          "option": "Mount Everest"
+        },
+        {
+          "option": "Olympus Mons"
+        },
+        {
+          "option": "Mount Sharp",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which organization built and operates the Curiosity rover?",
+      "options": [
+        {
+          "option": "NASA",
+          "is_answer": true
+        },
+        {
+          "option": "ESA"
+        },
+        {
+          "option": "ISRO"
+        },
+        {
+          "option": "SpaceX"
+        }
+      ]
+    },
+    {
+      "question": "What is the official name of the mission that sent Curiosity to Mars?",
+      "options": [
+        {
+          "option": "Viking 1"
+        },
+        {
+          "option": "Mars Exploration Rover"
+        },
+        {
+          "option": "Pathfinder"
+        },
+        {
+          "option": "Mars Science Laboratory",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many wheels does the Curiosity rover have?",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "What is the primary purpose of the CheMin instrument?",
+      "options": [
+        {
+          "option": "Radiation detection"
+        },
+        {
+          "option": "Atmospheric pressure"
+        },
+        {
+          "option": "High-resolution imaging"
+        },
+        {
+          "option": "Mineralogy analysis",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the name of the landing site within Gale Crater?",
+      "options": [
+        {
+          "option": "Bradbury Landing",
+          "is_answer": true
+        },
+        {
+          "option": "Columbia Memorial Station"
+        },
+        {
+          "option": "Opportunity Landing"
+        },
+        {
+          "option": "Carl Sagan Memorial Station"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a key finding of the Curiosity rover?",
+      "options": [
+        {
+          "option": "Discovery of liquid water rivers"
+        },
+        {
+          "option": "Presence of organic molecules",
+          "is_answer": true
+        },
+        {
+          "option": "Evidence of ancient forests"
+        },
+        {
+          "option": "Detection of alien structures"
+        }
+      ]
+    },
+    {
+      "question": "What is the size of the Curiosity rover compared to previous rovers?",
+      "options": [
+        {
+          "option": "Size of a microwave"
+        },
+        {
+          "option": "About the size of a car",
+          "is_answer": true
+        },
+        {
+          "option": "Size of a small dog"
+        },
+        {
+          "option": "Size of a bus"
+        }
+      ]
+    },
+    {
+      "question": "What is the main function of the RAD instrument on Curiosity?",
+      "options": [
+        {
+          "option": "Remote Analysis Device"
+        },
+        {
+          "option": "Radioactive Analysis"
+        },
+        {
+          "option": "Radiation Assessment",
+          "is_answer": true
+        },
+        {
+          "option": "Rover Atmospheric Data"
+        }
+      ]
+    },
+    {
+      "question": "How does Curiosity communicate with Earth?",
+      "options": [
+        {
+          "option": "Directly to Earth stations"
+        },
+        {
+          "option": "Via deep space balloons"
+        },
+        {
+          "option": "Via lunar relays"
+        },
+        {
+          "option": "Via Mars orbiters",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the duration of the Curiosity mission?",
+      "options": [
+        {
+          "option": "Exactly 10 years"
+        },
+        {
+          "option": "Extended mission (ongoing)",
+          "is_answer": true
+        },
+        {
+          "option": "Exactly 2 years"
+        },
+        {
+          "option": "Exactly 5 years"
+        }
+      ]
+    },
+    {
+      "question": "In what year was the Galileo spacecraft launched?",
+      "options": [
+        {
+          "option": "1989",
+          "is_answer": true
+        },
+        {
+          "option": "1992"
+        },
+        {
+          "option": "1985"
+        },
+        {
+          "option": "1995"
+        }
+      ]
+    },
+    {
+      "question": "What was the primary target of the Galileo mission?",
+      "options": [
+        {
+          "option": "Venus"
+        },
+        {
+          "option": "Saturn"
+        },
+        {
+          "option": "Mars"
+        },
+        {
+          "option": "Jupiter",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What did the Galileo mission deploy into Jupiter's atmosphere?",
+      "options": [
+        {
+          "option": "An atmospheric probe",
+          "is_answer": true
+        },
+        {
+          "option": "A lander"
+        },
+        {
+          "option": "A balloon"
+        },
+        {
+          "option": "A rover"
+        }
+      ]
+    },
+    {
+      "question": "In which year did the Galileo mission end by deorbiting into Jupiter?",
+      "options": [
+        {
+          "option": "2003",
+          "is_answer": true
+        },
+        {
+          "option": "1999"
+        },
+        {
+          "option": "2001"
+        },
+        {
+          "option": "2005"
+        }
+      ]
+    },
+    {
+      "question": "Which moon of Jupiter showed evidence of a subsurface ocean via Galileo?",
+      "options": [
+        {
+          "option": "Phobos"
+        },
+        {
+          "option": "Deimos"
+        },
+        {
+          "option": "Europa",
+          "is_answer": true
+        },
+        {
+          "option": "Titan"
+        }
+      ]
+    },
+    {
+      "question": "Besides Europa, which other moons showed evidence of subsurface oceans?",
+      "options": [
+        {
+          "option": "Io and Amalthea"
+        },
+        {
+          "option": "Callisto and Ganymede",
+          "is_answer": true
+        },
+        {
+          "option": "Himalia and Elara"
+        },
+        {
+          "option": "Pasiphae and Sinope"
+        }
+      ]
+    },
+    {
+      "question": "Which space agency launched the Galileo mission?",
+      "options": [
+        {
+          "option": "ISRO"
+        },
+        {
+          "option": "NASA",
+          "is_answer": true
+        },
+        {
+          "option": "ESA"
+        },
+        {
+          "option": "Roscosmos"
+        }
+      ]
+    },
+    {
+      "question": "What was the main purpose of the Galileo atmospheric probe?",
+      "options": [
+        {
+          "option": "To take photos of the rings"
+        },
+        {
+          "option": "To measure atmospheric composition",
+          "is_answer": true
+        },
+        {
+          "option": "To search for life on the surface"
+        },
+        {
+          "option": "To map the magnetic field"
+        }
+      ]
+    },
+    {
+      "question": "How long did the Galileo mission last?",
+      "options": [
+        {
+          "option": "14 years",
+          "is_answer": true
+        },
+        {
+          "option": "5 years"
+        },
+        {
+          "option": "20 years"
+        },
+        {
+          "option": "2 years"
+        }
+      ]
+    },
+    {
+      "question": "What was the name of the orbiter that accompanied the probe?",
+      "options": [
+        {
+          "option": "Galileo Orbiter",
+          "is_answer": true
+        },
+        {
+          "option": "Voyager 3"
+        },
+        {
+          "option": "Jupiter Explorer"
+        },
+        {
+          "option": "Cassini"
+        }
+      ]
+    },
+    {
+      "question": "Which planet's gravity did Galileo use for a gravity assist?",
+      "options": [
+        {
+          "option": "Venus and Earth",
+          "is_answer": true
+        },
+        {
+          "option": "Uranus and Pluto"
+        },
+        {
+          "option": "Mercury and Neptune"
+        },
+        {
+          "option": "Mars and Saturn"
+        }
+      ]
+    },
+    {
+      "question": "What was the primary reason for deorbiting Galileo into Jupiter?",
+      "options": [
+        {
+          "option": "To end the mission budget"
+        },
+        {
+          "option": "To prevent contamination of moons",
+          "is_answer": true
+        },
+        {
+          "option": "To test the heat shield"
+        },
+        {
+          "option": "To save fuel"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a moon of Jupiter studied by Galileo?",
+      "options": [
+        {
+          "option": "Io",
+          "is_answer": true
+        },
+        {
+          "option": "Titan"
+        },
+        {
+          "option": "Charon"
+        },
+        {
+          "option": "Triton"
+        }
+      ]
+    },
+    {
+      "question": "What did the Galileo probe discover about Jupiter's atmosphere?",
+      "options": [
+        {
+          "option": "It had no wind"
+        },
+        {
+          "option": "It was made of solid ice"
+        },
+        {
+          "option": "It was made of pure oxygen"
+        },
+        {
+          "option": "It was drier than expected",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The Galileo mission provided the first direct observation of what event?",
+      "options": [
+        {
+          "option": "A new ring formation"
+        },
+        {
+          "option": "A volcanic eruption on Earth"
+        },
+        {
+          "option": "Comet Shoemaker-Levy 9 impact",
+          "is_answer": true
+        },
+        {
+          "option": "A solar eclipse on Jupiter"
+        }
+      ]
+    },
+    {
+      "question": "What was the main power source for the Galileo spacecraft?",
+      "options": [
+        {
+          "option": "Solar panels"
+        },
+        {
+          "option": "Chemical batteries"
+        },
+        {
+          "option": "Nuclear fission reactor"
+        },
+        {
+          "option": "Radioisotope Thermoelectric Generators",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a major discovery of the Galileo mission regarding Europa?",
+      "options": [
+        {
+          "option": "Presence of forests"
+        },
+        {
+          "option": "Evidence of a liquid water ocean",
+          "is_answer": true
+        },
+        {
+          "option": "Active cities"
+        },
+        {
+          "option": "A solid metal core"
+        }
+      ]
+    },
+    {
+      "question": "What was the name of the launch vehicle for Galileo?",
+      "options": [
+        {
+          "option": "Falcon 9"
+        },
+        {
+          "option": "Space Shuttle Atlantis",
+          "is_answer": true
+        },
+        {
+          "option": "Saturn V"
+        },
+        {
+          "option": "Atlas V"
+        }
+      ]
+    },
+    {
+      "question": "How many years did it take for Galileo to reach Jupiter?",
+      "options": [
+        {
+          "option": "6 years",
+          "is_answer": true
+        },
+        {
+          "option": "10 years"
+        },
+        {
+          "option": "2 years"
+        },
+        {
+          "option": "1 year"
+        }
+      ]
+    },
+    {
+      "question": "What was the primary scientific focus of the Galileo mission?",
+      "options": [
+        {
+          "option": "Interstellar space"
+        },
+        {
+          "option": "The asteroid belt"
+        },
+        {
+          "option": "Jupiter and its moons",
+          "is_answer": true
+        },
+        {
+          "option": "The Sun"
+        }
+      ]
+    },
+    {
+      "question": "On which date was Chandrayaan-1 launched?",
+      "options": [
+        {
+          "option": "22 July 2019"
+        },
+        {
+          "option": "14 November 2008"
+        },
+        {
+          "option": "15 August 2007"
+        },
+        {
+          "option": "22 October 2008",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which launch vehicle was used to launch Chandrayaan-1?",
+      "options": [
+        {
+          "option": "PSLV-C11",
+          "is_answer": true
+        },
+        {
+          "option": "GSLV-F10"
+        },
+        {
+          "option": "PSLV-C25"
+        },
+        {
+          "option": "GSLV-Mk III"
+        }
+      ]
+    },
+    {
+      "question": "What was the name of the probe that impacted the lunar surface during the Chandrayaan-1 mission?",
+      "options": [
+        {
+          "option": "Vikram Lander"
+        },
+        {
+          "option": "Lunar Orbiter"
+        },
+        {
+          "option": "Pragyan Rover"
+        },
+        {
+          "option": "Moon Impact Probe (MIP)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which NASA instrument on Chandrayaan-1 confirmed the presence of water molecules on the Moon?",
+      "options": [
+        {
+          "option": "Deep Space Network"
+        },
+        {
+          "option": "Apollo Seismic Array"
+        },
+        {
+          "option": "Lunar Reconnaissance Orbiter"
+        },
+        {
+          "option": "Moon Mineralogy Mapper (M3)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Chandrayaan-1 was India's first mission to which celestial body?",
+      "options": [
+        {
+          "option": "Moon",
+          "is_answer": true
+        },
+        {
+          "option": "Mars"
+        },
+        {
+          "option": "Venus"
+        },
+        {
+          "option": "Sun"
+        }
+      ]
+    },
+    {
+      "question": "What was the primary objective of the Moon Impact Probe (MIP)?",
+      "options": [
+        {
+          "option": "To demonstrate technology for landing on the Moon",
+          "is_answer": true
+        },
+        {
+          "option": "To map the entire lunar surface"
+        },
+        {
+          "option": "To collect lunar soil samples"
+        },
+        {
+          "option": "To search for alien life"
+        }
+      ]
+    },
+    {
+      "question": "Which space agency launched Chandrayaan-1?",
+      "options": [
+        {
+          "option": "ESA"
+        },
+        {
+          "option": "NASA"
+        },
+        {
+          "option": "ISRO",
+          "is_answer": true
+        },
+        {
+          "option": "Roscosmos"
+        }
+      ]
+    },
+    {
+      "question": "In which year did Chandrayaan-1 officially end its mission?",
+      "options": [
+        {
+          "option": "2010"
+        },
+        {
+          "option": "2009",
+          "is_answer": true
+        },
+        {
+          "option": "2008"
+        },
+        {
+          "option": "2012"
+        }
+      ]
+    },
+    {
+      "question": "What was the main discovery made by the Moon Mineralogy Mapper (M3)?",
+      "options": [
+        {
+          "option": "Water molecules on the lunar surface",
+          "is_answer": true
+        },
+        {
+          "option": "Presence of gold deposits"
+        },
+        {
+          "option": "Liquid water oceans"
+        },
+        {
+          "option": "Active volcanic activity"
+        }
+      ]
+    },
+    {
+      "question": "Where was Chandrayaan-1 launched from?",
+      "options": [
+        {
+          "option": "Satish Dhawan Space Centre",
+          "is_answer": true
+        },
+        {
+          "option": "Thumba Equatorial Rocket Launching Station"
+        },
+        {
+          "option": "Kalam Satellite Launch Centre"
+        },
+        {
+          "option": "Vikram Sarabhai Space Centre"
+        }
+      ]
+    },
+    {
+      "question": "How many payloads did Chandrayaan-1 carry?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "11",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What was the approximate duration of the Chandrayaan-1 mission?",
+      "options": [
+        {
+          "option": "312 days",
+          "is_answer": true
+        },
+        {
+          "option": "2 years"
+        },
+        {
+          "option": "5 years"
+        },
+        {
+          "option": "100 days"
+        }
+      ]
+    },
+    {
+      "question": "Which country provided the Moon Mineralogy Mapper (M3) instrument?",
+      "options": [
+        {
+          "option": "Russia"
+        },
+        {
+          "option": "USA",
+          "is_answer": true
+        },
+        {
+          "option": "Germany"
+        },
+        {
+          "option": "France"
+        }
+      ]
+    },
+    {
+      "question": "What was the primary goal of the Chandrayaan-1 mission?",
+      "options": [
+        {
+          "option": "Mining helium-3"
+        },
+        {
+          "option": "Building a lunar base"
+        },
+        {
+          "option": "High-resolution mapping of the lunar surface",
+          "is_answer": true
+        },
+        {
+          "option": "Landing a human on the Moon"
+        }
+      ]
+    },
+    {
+      "question": "What was the weight of the Moon Impact Probe (MIP) at launch?",
+      "options": [
+        {
+          "option": "50 kg"
+        },
+        {
+          "option": "29 kg",
+          "is_answer": true
+        },
+        {
+          "option": "100 kg"
+        },
+        {
+          "option": "10 kg"
+        }
+      ]
+    },
+    {
+      "question": "Chandrayaan-1 orbited the Moon at an altitude of approximately how many kilometers?",
+      "options": [
+        {
+          "option": "1000 km"
+        },
+        {
+          "option": "50 km"
+        },
+        {
+          "option": "100 km",
+          "is_answer": true
+        },
+        {
+          "option": "500 km"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following was NOT a major finding of Chandrayaan-1?",
+      "options": [
+        {
+          "option": "Discovery of liquid water lakes",
+          "is_answer": true
+        },
+        {
+          "option": "Mapping of lunar minerals"
+        },
+        {
+          "option": "Presence of water molecules"
+        },
+        {
+          "option": "Detection of magnesium and aluminum"
+        }
+      ]
+    },
+    {
+      "question": "The Chandrayaan-1 mission helped in confirming the presence of which element on the Moon?",
+      "options": [
+        {
+          "option": "Neon"
+        },
+        {
+          "option": "Argon"
+        },
+        {
+          "option": "Water",
+          "is_answer": true
+        },
+        {
+          "option": "Methane"
+        }
+      ]
+    },
+    {
+      "question": "Who was the Chairman of ISRO during the launch of Chandrayaan-1?",
+      "options": [
+        {
+          "option": "A.S. Kiran Kumar"
+        },
+        {
+          "option": "G. Madhavan Nair",
+          "is_answer": true
+        },
+        {
+          "option": "K. Sivan"
+        },
+        {
+          "option": "Satish Dhawan"
+        }
+      ]
+    },
+    {
+      "question": "What was the total cost of the Chandrayaan-1 mission?",
+      "options": [
+        {
+          "option": "Approximately 1000 Crore INR"
+        },
+        {
+          "option": "Approximately 386 Crore INR",
+          "is_answer": true
+        },
+        {
+          "option": "Approximately 100 Crore INR"
+        },
+        {
+          "option": "Approximately 50 Crore INR"
+        }
+      ]
+    },
+    {
+      "question": "On which date was the Chandrayaan-2 mission launched?",
+      "options": [
+        {
+          "option": "22 July 2019",
+          "is_answer": true
+        },
+        {
+          "option": "1 July 2019"
+        },
+        {
+          "option": "15 August 2019"
+        },
+        {
+          "option": "22 June 2019"
+        }
+      ]
+    },
+    {
+      "question": "Which launch vehicle was used to launch Chandrayaan-2?",
+      "options": [
+        {
+          "option": "PSLV-C11"
+        },
+        {
+          "option": "GSLV Mk III",
+          "is_answer": true
+        },
+        {
+          "option": "GSLV Mk II"
+        },
+        {
+          "option": "ASLV"
+        }
+      ]
+    },
+    {
+      "question": "What was the name of the lander module of Chandrayaan-2?",
+      "options": [
+        {
+          "option": "Dhruv"
+        },
+        {
+          "option": "Pragyan"
+        },
+        {
+          "option": "Vikram",
+          "is_answer": true
+        },
+        {
+          "option": "Aryabhata"
+        }
+      ]
+    },
+    {
+      "question": "What was the name of the rover carried by Chandrayaan-2?",
+      "options": [
+        {
+          "option": "Rohini"
+        },
+        {
+          "option": "Pragyan",
+          "is_answer": true
+        },
+        {
+          "option": "Vikram"
+        },
+        {
+          "option": "Bhaskara"
+        }
+      ]
+    },
+    {
+      "question": "What happened to the Vikram lander during its landing attempt?",
+      "options": [
+        {
+          "option": "Hard landing",
+          "is_answer": true
+        },
+        {
+          "option": "Orbital decay"
+        },
+        {
+          "option": "Soft landing"
+        },
+        {
+          "option": "Mid-air explosion"
+        }
+      ]
+    },
+    {
+      "question": "Is the Chandrayaan-2 Orbiter still operational?",
+      "options": [
+        {
+          "option": "Only partially"
+        },
+        {
+          "option": "Yes",
+          "is_answer": true
+        },
+        {
+          "option": "Lost contact"
+        },
+        {
+          "option": "No"
+        }
+      ]
+    },
+    {
+      "question": "Which space agency launched the Chandrayaan-2 mission?",
+      "options": [
+        {
+          "option": "ESA"
+        },
+        {
+          "option": "Roscosmos"
+        },
+        {
+          "option": "NASA"
+        },
+        {
+          "option": "ISRO",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What was the primary objective of the Chandrayaan-2 Orbiter?",
+      "options": [
+        {
+          "option": "Solar observation"
+        },
+        {
+          "option": "Sample return"
+        },
+        {
+          "option": "Human landing"
+        },
+        {
+          "option": "Lunar mapping and study",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Where was the Chandrayaan-2 mission launched from?",
+      "options": [
+        {
+          "option": "Thumba Equatorial Rocket Launching Station"
+        },
+        {
+          "option": "Satish Dhawan Space Centre",
+          "is_answer": true
+        },
+        {
+          "option": "Kalam Satellite Launch Complex"
+        },
+        {
+          "option": "Vikram Sarabhai Space Centre"
+        }
+      ]
+    },
+    {
+      "question": "What is the name of the GSLV Mk III rocket used for Chandrayaan-2?",
+      "options": [
+        {
+          "option": "Vajra"
+        },
+        {
+          "option": "Prithvi"
+        },
+        {
+          "option": "Agni"
+        },
+        {
+          "option": "Bahubali",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many modules did the Chandrayaan-2 spacecraft consist of?",
+      "options": [
+        {
+          "option": "One"
+        },
+        {
+          "option": "Two"
+        },
+        {
+          "option": "Three",
+          "is_answer": true
+        },
+        {
+          "option": "Four"
+        }
+      ]
+    },
+    {
+      "question": "What was the intended landing site of the Vikram lander?",
+      "options": [
+        {
+          "option": "Lunar South Pole",
+          "is_answer": true
+        },
+        {
+          "option": "Far side of the moon"
+        },
+        {
+          "option": "Lunar North Pole"
+        },
+        {
+          "option": "Equatorial region"
+        }
+      ]
+    },
+    {
+      "question": "Who was the ISRO Chairman during the Chandrayaan-2 mission?",
+      "options": [
+        {
+          "option": "K. Sivan",
+          "is_answer": true
+        },
+        {
+          "option": "K. Radhakrishnan"
+        },
+        {
+          "option": "S. Somanath"
+        },
+        {
+          "option": "A.S. Kiran Kumar"
+        }
+      ]
+    },
+    {
+      "question": "What was the main purpose of the Pragyan rover?",
+      "options": [
+        {
+          "option": "Orbital photography"
+        },
+        {
+          "option": "Radiation monitoring"
+        },
+        {
+          "option": "Communication relay"
+        },
+        {
+          "option": "In-situ chemical analysis",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these was NOT a part of the Chandrayaan-2 mission?",
+      "options": [
+        {
+          "option": "Lander"
+        },
+        {
+          "option": "Rover"
+        },
+        {
+          "option": "Orbiter"
+        },
+        {
+          "option": "Atmospheric probe",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The Chandrayaan-2 mission was designed to explore which part of the Moon?",
+      "options": [
+        {
+          "option": "Equator"
+        },
+        {
+          "option": "Far side"
+        },
+        {
+          "option": "Mare Tranquillitatis"
+        },
+        {
+          "option": "South Polar region",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many days did it take for Chandrayaan-2 to reach lunar orbit?",
+      "options": [
+        {
+          "option": "30 days"
+        },
+        {
+          "option": "15 days"
+        },
+        {
+          "option": "60 days"
+        },
+        {
+          "option": "48 days",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What was the total weight of the Chandrayaan-2 spacecraft?",
+      "options": [
+        {
+          "option": "2500 kg"
+        },
+        {
+          "option": "1200 kg"
+        },
+        {
+          "option": "5000 kg"
+        },
+        {
+          "option": "3850 kg",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the primary power source for the Chandrayaan-2 Orbiter?",
+      "options": [
+        {
+          "option": "Fuel cells"
+        },
+        {
+          "option": "Lithium-ion batteries"
+        },
+        {
+          "option": "Solar panels",
+          "is_answer": true
+        },
+        {
+          "option": "Nuclear battery"
+        }
+      ]
+    },
+    {
+      "question": "Which orbit did the Chandrayaan-2 Orbiter enter after reaching the Moon?",
+      "options": [
+        {
+          "option": "Elliptical orbit"
+        },
+        {
+          "option": "Polar orbit"
+        },
+        {
+          "option": "Geostationary orbit"
+        },
+        {
+          "option": "100 km circular orbit",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the primary landing site of the Perseverance rover?",
+      "options": [
+        {
+          "option": "Jezero Crater",
+          "is_answer": true
+        },
+        {
+          "option": "Gale Crater"
+        },
+        {
+          "option": "Elysium Planitia"
+        },
+        {
+          "option": "Valles Marineris"
+        }
+      ]
+    },
+    {
+      "question": "How many total flights did the Ingenuity helicopter complete on Mars?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "72",
+          "is_answer": true
+        },
+        {
+          "option": "50"
+        }
+      ]
+    },
+    {
+      "question": "What is the primary scientific goal of the Perseverance rover regarding samples?",
+      "options": [
+        {
+          "option": "Building a permanent base"
+        },
+        {
+          "option": "Caching samples for future return to Earth",
+          "is_answer": true
+        },
+        {
+          "option": "Mapping the entire planet"
+        },
+        {
+          "option": "Mining for gold"
+        }
+      ]
+    },
+    {
+      "question": "Which mission launched the Perseverance rover and Ingenuity helicopter?",
+      "options": [
+        {
+          "option": "Viking 1975"
+        },
+        {
+          "option": "Pathfinder 1997"
+        },
+        {
+          "option": "Curiosity 2012"
+        },
+        {
+          "option": "Mars 2020",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What geological feature is Jezero Crater known for?",
+      "options": [
+        {
+          "option": "Volcanic mountain range"
+        },
+        {
+          "option": "Ancient river delta",
+          "is_answer": true
+        },
+        {
+          "option": "Frozen ice lake"
+        },
+        {
+          "option": "Deep ocean trench"
+        }
+      ]
+    },
+    {
+      "question": "What was the main achievement of the Ingenuity helicopter?",
+      "options": [
+        {
+          "option": "First landing on a moon"
+        },
+        {
+          "option": "First solar-powered rover"
+        },
+        {
+          "option": "First human transport on Mars"
+        },
+        {
+          "option": "First powered flight on another planet",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What power source does the Perseverance rover use?",
+      "options": [
+        {
+          "option": "Lithium-ion batteries only"
+        },
+        {
+          "option": "Solar panels"
+        },
+        {
+          "option": "Wind turbines"
+        },
+        {
+          "option": "Multi-Mission Radioisotope Thermoelectric Generator",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the name of the robotic arm instrument used to study rock composition?",
+      "options": [
+        {
+          "option": "Mastcam-Z"
+        },
+        {
+          "option": "RIMFAX"
+        },
+        {
+          "option": "SuperCam"
+        },
+        {
+          "option": "PIXL",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How does Perseverance communicate with Earth?",
+      "options": [
+        {
+          "option": "Via Mars orbiters",
+          "is_answer": true
+        },
+        {
+          "option": "Direct laser beam"
+        },
+        {
+          "option": "Underground cables"
+        },
+        {
+          "option": "Satellite phone"
+        }
+      ]
+    },
+    {
+      "question": "What is the primary purpose of the MOXIE experiment on Perseverance?",
+      "options": [
+        {
+          "option": "Analyzing radiation levels"
+        },
+        {
+          "option": "Testing Martian soil for water"
+        },
+        {
+          "option": "Producing oxygen from Martian CO2",
+          "is_answer": true
+        },
+        {
+          "option": "Measuring wind speed"
+        }
+      ]
+    },
+    {
+      "question": "Which agency built the Perseverance rover?",
+      "options": [
+        {
+          "option": "SpaceX"
+        },
+        {
+          "option": "ISRO"
+        },
+        {
+          "option": "ESA"
+        },
+        {
+          "option": "NASA",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the name of the helicopter that accompanied Perseverance?",
+      "options": [
+        {
+          "option": "Opportunity"
+        },
+        {
+          "option": "Spirit"
+        },
+        {
+          "option": "Curiosity"
+        },
+        {
+          "option": "Ingenuity",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the main objective of the Perseverance mission regarding life?",
+      "options": [
+        {
+          "option": "Find current alien civilizations"
+        },
+        {
+          "option": "Search for signs of ancient microbial life",
+          "is_answer": true
+        },
+        {
+          "option": "Plant human colonies"
+        },
+        {
+          "option": "Study Martian weather patterns"
+        }
+      ]
+    },
+    {
+      "question": "What is the name of the landing system used by Perseverance?",
+      "options": [
+        {
+          "option": "Retro-rockets only"
+        },
+        {
+          "option": "Parachute only"
+        },
+        {
+          "option": "Sky Crane",
+          "is_answer": true
+        },
+        {
+          "option": "Airbags"
+        }
+      ]
+    },
+    {
+      "question": "How long is a Martian day (Sol) compared to an Earth day?",
+      "options": [
+        {
+          "option": "Slightly longer than an Earth day",
+          "is_answer": true
+        },
+        {
+          "option": "Exactly the same"
+        },
+        {
+          "option": "Slightly shorter than an Earth day"
+        },
+        {
+          "option": "Twice as long"
+        }
+      ]
+    },
+    {
+      "question": "What is the primary material of the sample tubes carried by Perseverance?",
+      "options": [
+        {
+          "option": "Carbon fiber"
+        },
+        {
+          "option": "Titanium",
+          "is_answer": true
+        },
+        {
+          "option": "Aluminum"
+        },
+        {
+          "option": "Steel"
+        }
+      ]
+    },
+    {
+      "question": "Which instrument on Perseverance uses a laser to vaporize rock?",
+      "options": [
+        {
+          "option": "PIXL"
+        },
+        {
+          "option": "MEDA"
+        },
+        {
+          "option": "SHERLOC"
+        },
+        {
+          "option": "SuperCam",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the name of the rover's onboard weather station?",
+      "options": [
+        {
+          "option": "MEDA",
+          "is_answer": true
+        },
+        {
+          "option": "Mastcam-Z"
+        },
+        {
+          "option": "SuperCam"
+        },
+        {
+          "option": "RIMFAX"
+        }
+      ]
+    },
+    {
+      "question": "What is the primary purpose of the RIMFAX instrument?",
+      "options": [
+        {
+          "option": "Recording audio"
+        },
+        {
+          "option": "Taking high-resolution photos"
+        },
+        {
+          "option": "Ground-penetrating radar for subsurface study",
+          "is_answer": true
+        },
+        {
+          "option": "Analyzing atmospheric gases"
+        }
+      ]
+    },
+    {
+      "question": "What was the name of the landing site region on Mars?",
+      "options": [
+        {
+          "option": "Acidalia Planitia"
+        },
+        {
+          "option": "Olympus Mons"
+        },
+        {
+          "option": "Jezero Crater",
+          "is_answer": true
+        },
+        {
+          "option": "Hellas Planitia"
+        }
+      ]
+    },
+    {
+      "question": "On which date did Chandrayaan-3 successfully perform a soft landing on the Moon?",
+      "options": [
+        {
+          "option": "23 August 2023",
+          "is_answer": true
+        },
+        {
+          "option": "23 September 2023"
+        },
+        {
+          "option": "15 August 2023"
+        },
+        {
+          "option": "14 July 2023"
+        }
+      ]
+    },
+    {
+      "question": "What is the name of the lander module of Chandrayaan-3?",
+      "options": [
+        {
+          "option": "Vikram",
+          "is_answer": true
+        },
+        {
+          "option": "Dhruv"
+        },
+        {
+          "option": "Pragyan"
+        },
+        {
+          "option": "Bahubali"
+        }
+      ]
+    },
+    {
+      "question": "What is the name of the rover carried by Chandrayaan-3?",
+      "options": [
+        {
+          "option": "Vikram"
+        },
+        {
+          "option": "Rohini"
+        },
+        {
+          "option": "Aryabhata"
+        },
+        {
+          "option": "Pragyan",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which launch vehicle was used to launch Chandrayaan-3?",
+      "options": [
+        {
+          "option": "GSLV-Mk III"
+        },
+        {
+          "option": "PSLV-C56"
+        },
+        {
+          "option": "ASLV"
+        },
+        {
+          "option": "LVM3-M4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "On which date was Chandrayaan-3 launched from Sriharikota?",
+      "options": [
+        {
+          "option": "23 August 2023"
+        },
+        {
+          "option": "14 July 2023",
+          "is_answer": true
+        },
+        {
+          "option": "1 July 2023"
+        },
+        {
+          "option": "14 August 2023"
+        }
+      ]
+    },
+    {
+      "question": "Which region of the Moon did Chandrayaan-3 target for its landing?",
+      "options": [
+        {
+          "option": "South Pole",
+          "is_answer": true
+        },
+        {
+          "option": "North Pole"
+        },
+        {
+          "option": "Equator"
+        },
+        {
+          "option": "Far Side"
+        }
+      ]
+    },
+    {
+      "question": "What is the significance of 23 August in India's space history?",
+      "options": [
+        {
+          "option": "ISRO Foundation Day"
+        },
+        {
+          "option": "Chandrayaan-1 Launch Day"
+        },
+        {
+          "option": "National Space Day",
+          "is_answer": true
+        },
+        {
+          "option": "Rocketry Day"
+        }
+      ]
+    },
+    {
+      "question": "Which space agency successfully executed the Chandrayaan-3 mission?",
+      "options": [
+        {
+          "option": "Roscosmos"
+        },
+        {
+          "option": "NASA"
+        },
+        {
+          "option": "ISRO",
+          "is_answer": true
+        },
+        {
+          "option": "ESA"
+        }
+      ]
+    },
+    {
+      "question": "Where is the Satish Dhawan Space Centre located?",
+      "options": [
+        {
+          "option": "Sriharikota",
+          "is_answer": true
+        },
+        {
+          "option": "Thiruvananthapuram"
+        },
+        {
+          "option": "Ahmedabad"
+        },
+        {
+          "option": "Bengaluru"
+        }
+      ]
+    },
+    {
+      "question": "What was the primary objective of the Pragyan rover?",
+      "options": [
+        {
+          "option": "In-situ chemical analysis of lunar surface",
+          "is_answer": true
+        },
+        {
+          "option": "Mapping the entire Moon"
+        },
+        {
+          "option": "Returning samples to Earth"
+        },
+        {
+          "option": "Human exploration"
+        }
+      ]
+    },
+    {
+      "question": "How many days did it take for Chandrayaan-3 to reach the Moon?",
+      "options": [
+        {
+          "option": "40 days",
+          "is_answer": true
+        },
+        {
+          "option": "20 days"
+        },
+        {
+          "option": "60 days"
+        },
+        {
+          "option": "10 days"
+        }
+      ]
+    },
+    {
+      "question": "Which country became the first to land near the lunar south pole?",
+      "options": [
+        {
+          "option": "India",
+          "is_answer": true
+        },
+        {
+          "option": "USA"
+        },
+        {
+          "option": "Russia"
+        },
+        {
+          "option": "China"
+        }
+      ]
+    },
+    {
+      "question": "What was the total weight of the Chandrayaan-3 spacecraft?",
+      "options": [
+        {
+          "option": "3900 kg",
+          "is_answer": true
+        },
+        {
+          "option": "1500 kg"
+        },
+        {
+          "option": "2500 kg"
+        },
+        {
+          "option": "5000 kg"
+        }
+      ]
+    },
+    {
+      "question": "What is the name of the propulsion module in Chandrayaan-3?",
+      "options": [
+        {
+          "option": "Command Module"
+        },
+        {
+          "option": "Service Module"
+        },
+        {
+          "option": "Propulsion Module",
+          "is_answer": true
+        },
+        {
+          "option": "Orbiter"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a key feature of the Vikram lander?",
+      "options": [
+        {
+          "option": "Solar Sails"
+        },
+        {
+          "option": "Human Life Support"
+        },
+        {
+          "option": "Hazard Detection and Avoidance Camera",
+          "is_answer": true
+        },
+        {
+          "option": "Nuclear Reactor"
+        }
+      ]
+    },
+    {
+      "question": "Who was the Chairman of ISRO during the Chandrayaan-3 mission?",
+      "options": [
+        {
+          "option": "A.S. Kiran Kumar"
+        },
+        {
+          "option": "Satish Dhawan"
+        },
+        {
+          "option": "S. Somanath",
+          "is_answer": true
+        },
+        {
+          "option": "K. Sivan"
+        }
+      ]
+    },
+    {
+      "question": "What was the primary goal of the Chandrayaan-3 mission?",
+      "options": [
+        {
+          "option": "Demonstrate safe and soft landing",
+          "is_answer": true
+        },
+        {
+          "option": "Search for aliens"
+        },
+        {
+          "option": "Mine lunar minerals"
+        },
+        {
+          "option": "Build a lunar base"
+        }
+      ]
+    },
+    {
+      "question": "How many wheels did the Pragyan rover have?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What was the approximate cost of the Chandrayaan-3 mission?",
+      "options": [
+        {
+          "option": "500 Crore INR"
+        },
+        {
+          "option": "615 Crore INR",
+          "is_answer": true
+        },
+        {
+          "option": "2000 Crore INR"
+        },
+        {
+          "option": "1000 Crore INR"
+        }
+      ]
+    },
+    {
+      "question": "Which organization developed the LVM3-M4 rocket?",
+      "options": [
+        {
+          "option": "DRDO"
+        },
+        {
+          "option": "BHEL"
+        },
+        {
+          "option": "ISRO",
+          "is_answer": true
+        },
+        {
+          "option": "HAL"
+        }
+      ]
+    },
+    {
+      "question": "What was the launch date of the Mars Orbiter Mission (MOM)?",
+      "options": [
+        {
+          "option": "24 September 2014"
+        },
+        {
+          "option": "1 July 2015"
+        },
+        {
+          "option": "5 November 2013",
+          "is_answer": true
+        },
+        {
+          "option": "15 August 2012"
+        }
+      ]
+    },
+    {
+      "question": "Which launch vehicle was used to launch the Mars Orbiter Mission?",
+      "options": [
+        {
+          "option": "GSLV-Mk III"
+        },
+        {
+          "option": "PSLV-C25",
+          "is_answer": true
+        },
+        {
+          "option": "GSLV-F05"
+        },
+        {
+          "option": "PSLV-C11"
+        }
+      ]
+    },
+    {
+      "question": "On which date did Mangalyaan successfully enter Mars orbit?",
+      "options": [
+        {
+          "option": "5 November 2013"
+        },
+        {
+          "option": "26 January 2015"
+        },
+        {
+          "option": "24 September 2014",
+          "is_answer": true
+        },
+        {
+          "option": "15 August 2014"
+        }
+      ]
+    },
+    {
+      "question": "What was the approximate cost of the Mars Orbiter Mission?",
+      "options": [
+        {
+          "option": "$74 million",
+          "is_answer": true
+        },
+        {
+          "option": "$25 million"
+        },
+        {
+          "option": "$150 million"
+        },
+        {
+          "option": "$450 million"
+        }
+      ]
+    },
+    {
+      "question": "Which space agency launched the Mars Orbiter Mission?",
+      "options": [
+        {
+          "option": "ESA"
+        },
+        {
+          "option": "ISRO",
+          "is_answer": true
+        },
+        {
+          "option": "NASA"
+        },
+        {
+          "option": "CNSA"
+        }
+      ]
+    },
+    {
+      "question": "How long was the intended mission life of Mangalyaan?",
+      "options": [
+        {
+          "option": "10 years"
+        },
+        {
+          "option": "5 years"
+        },
+        {
+          "option": "2 years"
+        },
+        {
+          "option": "6 months",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "India became the first nation to reach Mars orbit on its first attempt. Which country was the second?",
+      "options": [
+        {
+          "option": "Russia"
+        },
+        {
+          "option": "China"
+        },
+        {
+          "option": "USA"
+        },
+        {
+          "option": "None",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the full form of MOM in the context of Indian space missions?",
+      "options": [
+        {
+          "option": "Mars Orbit Module"
+        },
+        {
+          "option": "Mission Of Mars"
+        },
+        {
+          "option": "Mars Orbiter Mission",
+          "is_answer": true
+        },
+        {
+          "option": "Mars Observation Mission"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following instruments was carried by Mangalyaan?",
+      "options": [
+        {
+          "option": "Synthetic Aperture Radar"
+        },
+        {
+          "option": "Gravity Probe"
+        },
+        {
+          "option": "Methane Sensor for Mars (MSM)",
+          "is_answer": true
+        },
+        {
+          "option": "Lunar Laser Ranging"
+        }
+      ]
+    },
+    {
+      "question": "Where was the Mars Orbiter Mission launched from?",
+      "options": [
+        {
+          "option": "Vikram Sarabhai Space Centre"
+        },
+        {
+          "option": "Thumba Equatorial Rocket Launching Station"
+        },
+        {
+          "option": "Kalam Satellite Launch Complex"
+        },
+        {
+          "option": "Satish Dhawan Space Centre",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many years did the Mangalyaan mission operate?",
+      "options": [
+        {
+          "option": "Exactly 3 years"
+        },
+        {
+          "option": "Over 7 years",
+          "is_answer": true
+        },
+        {
+          "option": "1 year"
+        },
+        {
+          "option": "10 years"
+        }
+      ]
+    },
+    {
+      "question": "What was the primary objective of the Mars Orbiter Mission?",
+      "options": [
+        {
+          "option": "To explore Martian surface features and atmosphere",
+          "is_answer": true
+        },
+        {
+          "option": "To bring back soil samples"
+        },
+        {
+          "option": "To land a rover on Mars"
+        },
+        {
+          "option": "To establish a human colony"
+        }
+      ]
+    },
+    {
+      "question": "Which color is often associated with the planet Mars, which the mission studied?",
+      "options": [
+        {
+          "option": "Red",
+          "is_answer": true
+        },
+        {
+          "option": "Blue"
+        },
+        {
+          "option": "Yellow"
+        },
+        {
+          "option": "Green"
+        }
+      ]
+    },
+    {
+      "question": "What was the name of the camera used on Mangalyaan to capture images of Mars?",
+      "options": [
+        {
+          "option": "High Resolution Imaging Science Experiment"
+        },
+        {
+          "option": "Mars Colour Camera (MCC)",
+          "is_answer": true
+        },
+        {
+          "option": "Panoramic Camera"
+        },
+        {
+          "option": "Mars Orbiter Camera"
+        }
+      ]
+    },
+    {
+      "question": "The Mars Orbiter Mission was a major milestone for which country?",
+      "options": [
+        {
+          "option": "Japan"
+        },
+        {
+          "option": "Brazil"
+        },
+        {
+          "option": "Germany"
+        },
+        {
+          "option": "India",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What was the weight of the Mangalyaan spacecraft at launch?",
+      "options": [
+        {
+          "option": "500 kg"
+        },
+        {
+          "option": "1,337 kg",
+          "is_answer": true
+        },
+        {
+          "option": "800 kg"
+        },
+        {
+          "option": "2,500 kg"
+        }
+      ]
+    },
+    {
+      "question": "Which orbit did the Mangalyaan spacecraft enter around Mars?",
+      "options": [
+        {
+          "option": "Polar orbit"
+        },
+        {
+          "option": "Geostationary orbit"
+        },
+        {
+          "option": "Highly elliptical orbit",
+          "is_answer": true
+        },
+        {
+          "option": "Circular orbit"
+        }
+      ]
+    },
+    {
+      "question": "What was the main reason for the cost-effectiveness of the Mars Orbiter Mission?",
+      "options": [
+        {
+          "option": "Using foreign technology"
+        },
+        {
+          "option": "Reducing the mission duration"
+        },
+        {
+          "option": "Skipping safety tests"
+        },
+        {
+          "option": "Smart engineering and modular design",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a key scientific goal of the Mars Orbiter Mission?",
+      "options": [
+        {
+          "option": "Study of Martian surface and mineralogy",
+          "is_answer": true
+        },
+        {
+          "option": "Building a base on Mars"
+        },
+        {
+          "option": "Searching for alien life"
+        },
+        {
+          "option": "Mapping the entire solar system"
+        }
+      ]
+    },
+    {
+      "question": "When did the Mars Orbiter Mission officially conclude its operations?",
+      "options": [
+        {
+          "option": "2018"
+        },
+        {
+          "option": "2015"
+        },
+        {
+          "option": "2022",
+          "is_answer": true
+        },
+        {
+          "option": "2020"
+        }
+      ]
+    },
+    {
+      "question": "What is the primary destination of the Aditya-L1 mission?",
+      "options": [
+        {
+          "option": "Lagrange Point 1 (L1)",
+          "is_answer": true
+        },
+        {
+          "option": "Lagrange Point 2 (L2)"
+        },
+        {
+          "option": "Mars Orbit"
+        },
+        {
+          "option": "The Moon's South Pole"
+        }
+      ]
+    },
+    {
+      "question": "On which date was the Aditya-L1 mission launched?",
+      "options": [
+        {
+          "option": "15 August 2023"
+        },
+        {
+          "option": "23 August 2023"
+        },
+        {
+          "option": "2 September 2023",
+          "is_answer": true
+        },
+        {
+          "option": "1 July 2023"
+        }
+      ]
+    },
+    {
+      "question": "How many scientific payloads does Aditya-L1 carry?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "Which phenomenon is Aditya-L1 primarily designed to study?",
+      "options": [
+        {
+          "option": "Black Hole formation"
+        },
+        {
+          "option": "Exoplanet atmospheres"
+        },
+        {
+          "option": "Solar Corona and CMEs",
+          "is_answer": true
+        },
+        {
+          "option": "Lunar seismic activity"
+        }
+      ]
+    },
+    {
+      "question": "What type of orbit does Aditya-L1 maintain around L1?",
+      "options": [
+        {
+          "option": "Polar orbit"
+        },
+        {
+          "option": "Halo orbit",
+          "is_answer": true
+        },
+        {
+          "option": "Elliptical orbit"
+        },
+        {
+          "option": "Geostationary orbit"
+        }
+      ]
+    },
+    {
+      "question": "Which Indian space agency launched Aditya-L1?",
+      "options": [
+        {
+          "option": "DRDO"
+        },
+        {
+          "option": "HAL"
+        },
+        {
+          "option": "NASA"
+        },
+        {
+          "option": "ISRO",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What does 'CME' stand for in the context of solar studies?",
+      "options": [
+        {
+          "option": "Coronal Mass Ejection",
+          "is_answer": true
+        },
+        {
+          "option": "Central Magnetic Energy"
+        },
+        {
+          "option": "Coronal Mass Expansion"
+        },
+        {
+          "option": "Cosmic Matter Emission"
+        }
+      ]
+    },
+    {
+      "question": "Why is the L1 point ideal for solar observation?",
+      "options": [
+        {
+          "option": "Presence of atmosphere"
+        },
+        {
+          "option": "High gravity"
+        },
+        {
+          "option": "Uninterrupted view of the Sun",
+          "is_answer": true
+        },
+        {
+          "option": "Proximity to Earth's core"
+        }
+      ]
+    },
+    {
+      "question": "Which layer of the Sun is Aditya-L1 primarily studying?",
+      "options": [
+        {
+          "option": "Corona",
+          "is_answer": true
+        },
+        {
+          "option": "Core"
+        },
+        {
+          "option": "Radiative Zone"
+        },
+        {
+          "option": "Photosphere"
+        }
+      ]
+    },
+    {
+      "question": "What is the approximate distance of L1 from Earth?",
+      "options": [
+        {
+          "option": "1.5 million km",
+          "is_answer": true
+        },
+        {
+          "option": "384,000 km"
+        },
+        {
+          "option": "50,000 km"
+        },
+        {
+          "option": "150 million km"
+        }
+      ]
+    },
+    {
+      "question": "Which launch vehicle was used for Aditya-L1?",
+      "options": [
+        {
+          "option": "GSLV Mk III"
+        },
+        {
+          "option": "LVM3-M4"
+        },
+        {
+          "option": "PSLV-C57",
+          "is_answer": true
+        },
+        {
+          "option": "PSLV-C11"
+        }
+      ]
+    },
+    {
+      "question": "What is the main goal of studying solar wind?",
+      "options": [
+        {
+          "option": "Understand space weather",
+          "is_answer": true
+        },
+        {
+          "option": "Measure Earth's temperature"
+        },
+        {
+          "option": "Map the Moon's surface"
+        },
+        {
+          "option": "Study asteroid composition"
+        }
+      ]
+    },
+    {
+      "question": "Aditya-L1 is India's first mission dedicated to:",
+      "options": [
+        {
+          "option": "Lunar exploration"
+        },
+        {
+          "option": "Deep space communication"
+        },
+        {
+          "option": "Solar observatory",
+          "is_answer": true
+        },
+        {
+          "option": "Mars exploration"
+        }
+      ]
+    },
+    {
+      "question": "What is the primary function of the VELC instrument on Aditya-L1?",
+      "options": [
+        {
+          "option": "X-ray imaging"
+        },
+        {
+          "option": "Coronagraphy",
+          "is_answer": true
+        },
+        {
+          "option": "Particle detection"
+        },
+        {
+          "option": "Magnetometry"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is NOT a payload on Aditya-L1?",
+      "options": [
+        {
+          "option": "SUIT"
+        },
+        {
+          "option": "Lunar Rover",
+          "is_answer": true
+        },
+        {
+          "option": "PAPA"
+        },
+        {
+          "option": "ASPEX"
+        }
+      ]
+    },
+    {
+      "question": "The study of coronal heating is important because:",
+      "options": [
+        {
+          "option": "The corona is hotter than the surface",
+          "is_answer": true
+        },
+        {
+          "option": "It affects ocean tides"
+        },
+        {
+          "option": "It determines planetary rotation"
+        },
+        {
+          "option": "It helps predict earthquakes"
+        }
+      ]
+    },
+    {
+      "question": "What is the full form of L1 in Lagrange Point 1?",
+      "options": [
+        {
+          "option": "Light Point 1"
+        },
+        {
+          "option": "Lunar Point 1"
+        },
+        {
+          "option": "Lagrange Point 1",
+          "is_answer": true
+        },
+        {
+          "option": "Launch Point 1"
+        }
+      ]
+    },
+    {
+      "question": "Aditya-L1 helps in understanding which solar activity?",
+      "options": [
+        {
+          "option": "Volcanic eruptions"
+        },
+        {
+          "option": "Tidal waves"
+        },
+        {
+          "option": "Solar flares",
+          "is_answer": true
+        },
+        {
+          "option": "Glacial melting"
+        }
+      ]
+    },
+    {
+      "question": "Who is the primary agency responsible for the Aditya-L1 mission?",
+      "options": [
+        {
+          "option": "ISRO",
+          "is_answer": true
+        },
+        {
+          "option": "JAXA"
+        },
+        {
+          "option": "ESA"
+        },
+        {
+          "option": "NASA"
+        }
+      ]
+    },
+    {
+      "question": "What is the main purpose of the SUIT payload on Aditya-L1?",
+      "options": [
+        {
+          "option": "Surface Temperature Mapping"
+        },
+        {
+          "option": "Solar Ultraviolet Imaging",
+          "is_answer": true
+        },
+        {
+          "option": "Solar Under-surface Tracking"
+        },
+        {
+          "option": "Spacecraft Utility Inspection"
+        }
+      ]
+    },
+    {
+      "question": "On which date was ISRO's XPoSat mission launched?",
+      "options": [
+        {
+          "option": "1 January 2024",
+          "is_answer": true
+        },
+        {
+          "option": "26 January 2024"
+        },
+        {
+          "option": "1 July 2023"
+        },
+        {
+          "option": "15 August 2023"
+        }
+      ]
+    },
+    {
+      "question": "Which launch vehicle was used to launch XPoSat?",
+      "options": [
+        {
+          "option": "PSLV-C58",
+          "is_answer": true
+        },
+        {
+          "option": "SSLV-D2"
+        },
+        {
+          "option": "GSLV Mk III"
+        },
+        {
+          "option": "PSLV-C57"
+        }
+      ]
+    },
+    {
+      "question": "What is the primary scientific objective of XPoSat?",
+      "options": [
+        {
+          "option": "Solar wind monitoring"
+        },
+        {
+          "option": "Gamma-ray burst detection"
+        },
+        {
+          "option": "Exoplanet imaging"
+        },
+        {
+          "option": "X-ray polarimetry",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "XPoSat is the world's second satellite-based X-ray polarimetry mission. Which was the first?",
+      "options": [
+        {
+          "option": "NASA IXPE",
+          "is_answer": true
+        },
+        {
+          "option": "Suzaku"
+        },
+        {
+          "option": "ESA XMM-Newton"
+        },
+        {
+          "option": "Chandra X-ray Observatory"
+        }
+      ]
+    },
+    {
+      "question": "What is the name of the primary payload on XPoSat?",
+      "options": [
+        {
+          "option": "APXS"
+        },
+        {
+          "option": "LRA"
+        },
+        {
+          "option": "XSPECT"
+        },
+        {
+          "option": "POLIX",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which organization developed the XPoSat mission?",
+      "options": [
+        {
+          "option": "ESA"
+        },
+        {
+          "option": "ISRO",
+          "is_answer": true
+        },
+        {
+          "option": "NASA"
+        },
+        {
+          "option": "JAXA"
+        }
+      ]
+    },
+    {
+      "question": "What does the acronym POLIX stand for in the context of XPoSat?",
+      "options": [
+        {
+          "option": "Polarimeter Instrument in X-rays",
+          "is_answer": true
+        },
+        {
+          "option": "Polarimetry Observation Instrument"
+        },
+        {
+          "option": "Polarized Light X-ray"
+        },
+        {
+          "option": "Polarization Imaging X-ray"
+        }
+      ]
+    },
+    {
+      "question": "Besides POLIX, what is the other payload onboard XPoSat?",
+      "options": [
+        {
+          "option": "XSPECT",
+          "is_answer": true
+        },
+        {
+          "option": "CUBES"
+        },
+        {
+          "option": "RAD"
+        },
+        {
+          "option": "TIS"
+        }
+      ]
+    },
+    {
+      "question": "What is the intended orbit for XPoSat?",
+      "options": [
+        {
+          "option": "Sun-Synchronous Orbit"
+        },
+        {
+          "option": "Geostationary Orbit"
+        },
+        {
+          "option": "Lagrange Point L1"
+        },
+        {
+          "option": "Low Earth Orbit",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "XPoSat aims to study the polarization of X-rays from which type of sources?",
+      "options": [
+        {
+          "option": "Bright astronomical sources",
+          "is_answer": true
+        },
+        {
+          "option": "Solar flares"
+        },
+        {
+          "option": "Cometary tails"
+        },
+        {
+          "option": "Planetary atmospheres"
+        }
+      ]
+    },
+    {
+      "question": "What is the primary function of the XSPECT payload on XPoSat?",
+      "options": [
+        {
+          "option": "X-ray Imaging"
+        },
+        {
+          "option": "Polarization Measurement"
+        },
+        {
+          "option": "X-ray Spectroscopy and Timing",
+          "is_answer": true
+        },
+        {
+          "option": "Radiation Shielding"
+        }
+      ]
+    },
+    {
+      "question": "Which institute built the POLIX instrument?",
+      "options": [
+        {
+          "option": "VSSC"
+        },
+        {
+          "option": "Raman Research Institute",
+          "is_answer": true
+        },
+        {
+          "option": "ISAC"
+        },
+        {
+          "option": "Physical Research Laboratory"
+        }
+      ]
+    },
+    {
+      "question": "What is the mission life of XPoSat?",
+      "options": [
+        {
+          "option": "2 years"
+        },
+        {
+          "option": "5 years",
+          "is_answer": true
+        },
+        {
+          "option": "1 year"
+        },
+        {
+          "option": "10 years"
+        }
+      ]
+    },
+    {
+      "question": "XPoSat was launched from which space center?",
+      "options": [
+        {
+          "option": "Vikram Sarabhai Space Centre"
+        },
+        {
+          "option": "Thumba Equatorial Rocket Launching Station"
+        },
+        {
+          "option": "Satish Dhawan Space Centre",
+          "is_answer": true
+        },
+        {
+          "option": "Kalam Satellite Launch Complex"
+        }
+      ]
+    },
+    {
+      "question": "What does XPoSat stand for?",
+      "options": [
+        {
+          "option": "X-ray Power Satellite"
+        },
+        {
+          "option": "X-ray Photon Satellite"
+        },
+        {
+          "option": "X-ray Positioning Satellite"
+        },
+        {
+          "option": "X-ray Polarimeter Satellite",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a key scientific goal of XPoSat?",
+      "options": [
+        {
+          "option": "Understanding emission mechanisms from astronomical sources",
+          "is_answer": true
+        },
+        {
+          "option": "Studying the Moon's surface"
+        },
+        {
+          "option": "Monitoring space debris"
+        },
+        {
+          "option": "Mapping the Earth's magnetic field"
+        }
+      ]
+    },
+    {
+      "question": "The XPoSat mission is designed to operate in which energy band?",
+      "options": [
+        {
+          "option": "8-30 keV",
+          "is_answer": true
+        },
+        {
+          "option": "0.1-1 keV"
+        },
+        {
+          "option": "1-5 keV"
+        },
+        {
+          "option": "50-100 keV"
+        }
+      ]
+    },
+    {
+      "question": "What is the significance of X-ray polarimetry in astronomy?",
+      "options": [
+        {
+          "option": "It detects gravitational waves"
+        },
+        {
+          "option": "It measures the distance to stars"
+        },
+        {
+          "option": "It reveals the geometry and emission processes of celestial objects",
+          "is_answer": true
+        },
+        {
+          "option": "It maps the dark matter distribution"
+        }
+      ]
+    },
+    {
+      "question": "Which type of celestial objects are primary targets for XPoSat?",
+      "options": [
+        {
+          "option": "Comets and meteors"
+        },
+        {
+          "option": "Pulsars, X-ray binaries, and AGN",
+          "is_answer": true
+        },
+        {
+          "option": "Galaxies and nebulae"
+        },
+        {
+          "option": "Planets and asteroids"
+        }
+      ]
+    },
+    {
+      "question": "What is the name of the satellite bus used for XPoSat?",
+      "options": [
+        {
+          "option": "I-2K bus"
+        },
+        {
+          "option": "I-3K bus"
+        },
+        {
+          "option": "IMS-2 bus",
+          "is_answer": true
+        },
+        {
+          "option": "I-1K bus"
+        }
+      ]
+    },
+    {
+      "question": "On which date was ASTROSAT launched?",
+      "options": [
+        {
+          "option": "28 September 2015",
+          "is_answer": true
+        },
+        {
+          "option": "22 October 2008"
+        },
+        {
+          "option": "15 August 2014"
+        },
+        {
+          "option": "12 January 2018"
+        }
+      ]
+    },
+    {
+      "question": "Which launch vehicle was used to launch ASTROSAT?",
+      "options": [
+        {
+          "option": "GSLV-F09"
+        },
+        {
+          "option": "PSLV-C11"
+        },
+        {
+          "option": "GSLV-Mk III"
+        },
+        {
+          "option": "PSLV-C30",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "ASTROSAT is India's first dedicated what?",
+      "options": [
+        {
+          "option": "Lunar rover"
+        },
+        {
+          "option": "Mars orbiter"
+        },
+        {
+          "option": "Multi-wavelength space observatory",
+          "is_answer": true
+        },
+        {
+          "option": "Communication satellite"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following spectral bands does ASTROSAT observe simultaneously?",
+      "options": [
+        {
+          "option": "Optical, UV, and X-ray",
+          "is_answer": true
+        },
+        {
+          "option": "Gamma-ray only"
+        },
+        {
+          "option": "Radio and Infrared"
+        },
+        {
+          "option": "Visible light only"
+        }
+      ]
+    },
+    {
+      "question": "What is the primary scientific objective of ASTROSAT regarding celestial objects?",
+      "options": [
+        {
+          "option": "Studying black holes and neutron stars",
+          "is_answer": true
+        },
+        {
+          "option": "Searching for alien life"
+        },
+        {
+          "option": "Mapping the Earth's surface"
+        },
+        {
+          "option": "Monitoring weather patterns"
+        }
+      ]
+    },
+    {
+      "question": "Which organization developed and operates ASTROSAT?",
+      "options": [
+        {
+          "option": "DRDO"
+        },
+        {
+          "option": "ISRO",
+          "is_answer": true
+        },
+        {
+          "option": "ESA"
+        },
+        {
+          "option": "NASA"
+        }
+      ]
+    },
+    {
+      "question": "What is the approximate orbital altitude of ASTROSAT?",
+      "options": [
+        {
+          "option": "400 km"
+        },
+        {
+          "option": "36,000 km"
+        },
+        {
+          "option": "650 km",
+          "is_answer": true
+        },
+        {
+          "option": "1,500 km"
+        }
+      ]
+    },
+    {
+      "question": "Which instrument on ASTROSAT is used for X-ray imaging?",
+      "options": [
+        {
+          "option": "CZTI"
+        },
+        {
+          "option": "LAXPC"
+        },
+        {
+          "option": "UVIT"
+        },
+        {
+          "option": "Soft X-ray Telescope (SXT)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What does the acronym 'UVIT' stand for in ASTROSAT?",
+      "options": [
+        {
+          "option": "Ultra-Violet Intensity Tracker"
+        },
+        {
+          "option": "Ultraviolet Imaging Telescope",
+          "is_answer": true
+        },
+        {
+          "option": "Universal Video Imaging Tool"
+        },
+        {
+          "option": "Unified Velocity Imaging Telescope"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a key feature of ASTROSAT's observation capability?",
+      "options": [
+        {
+          "option": "Deep space communication relay"
+        },
+        {
+          "option": "Planetary surface drilling"
+        },
+        {
+          "option": "Simultaneous multi-wavelength observation",
+          "is_answer": true
+        },
+        {
+          "option": "Solar wind measurement"
+        }
+      ]
+    },
+    {
+      "question": "How many main scientific payloads does ASTROSAT carry?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "What is the primary purpose of the LAXPC instrument on ASTROSAT?",
+      "options": [
+        {
+          "option": "Lunar Area X-ray Positioning Center"
+        },
+        {
+          "option": "Laser Atmospheric X-ray Physics Camera"
+        },
+        {
+          "option": "Light Analysis X-ray Polarimeter Core"
+        },
+        {
+          "option": "Large Area X-ray Proportional Counter",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "ASTROSAT was launched from which space center?",
+      "options": [
+        {
+          "option": "Vikram Sarabhai Space Centre"
+        },
+        {
+          "option": "Kalam Satellite Launch Centre"
+        },
+        {
+          "option": "Thumba Equatorial Rocket Launching Station"
+        },
+        {
+          "option": "Satish Dhawan Space Centre",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which type of orbit does ASTROSAT follow?",
+      "options": [
+        {
+          "option": "Geostationary orbit"
+        },
+        {
+          "option": "Near-Earth equatorial orbit",
+          "is_answer": true
+        },
+        {
+          "option": "Sun-synchronous orbit"
+        },
+        {
+          "option": "Highly elliptical orbit"
+        }
+      ]
+    },
+    {
+      "question": "What is the full form of CZTI in the context of ASTROSAT?",
+      "options": [
+        {
+          "option": "Celestial Z-ray Tracking Imager"
+        },
+        {
+          "option": "Central Zenith Telescope Interface"
+        },
+        {
+          "option": "Cosmic Zone Tracking Instrument"
+        },
+        {
+          "option": "Cadmium Zinc Telluride Imager",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "ASTROSAT helps in studying which high-energy phenomena?",
+      "options": [
+        {
+          "option": "X-ray binaries and AGN",
+          "is_answer": true
+        },
+        {
+          "option": "Ocean currents"
+        },
+        {
+          "option": "Atmospheric ozone"
+        },
+        {
+          "option": "Volcanic eruptions"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a payload on ASTROSAT?",
+      "options": [
+        {
+          "option": "RADAR"
+        },
+        {
+          "option": "LIDAR"
+        },
+        {
+          "option": "SAR"
+        },
+        {
+          "option": "SXT",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the mission life of ASTROSAT?",
+      "options": [
+        {
+          "option": "5 years (extended)",
+          "is_answer": true
+        },
+        {
+          "option": "1 year"
+        },
+        {
+          "option": "2 years"
+        },
+        {
+          "option": "10 years"
+        }
+      ]
+    },
+    {
+      "question": "ASTROSAT provides data to which community?",
+      "options": [
+        {
+          "option": "Only Indian military"
+        },
+        {
+          "option": "General public for navigation"
+        },
+        {
+          "option": "Private commercial firms only"
+        },
+        {
+          "option": "Global scientific community",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is a key scientific goal of ASTROSAT?",
+      "options": [
+        {
+          "option": "Understanding high-energy processes in binary star systems",
+          "is_answer": true
+        },
+        {
+          "option": "Monitoring forest fires"
+        },
+        {
+          "option": "Tracking migratory birds"
+        },
+        {
+          "option": "Measuring soil moisture"
+        }
+      ]
+    },
+    {
+      "question": "Which space agency launched the Rosetta mission to Comet 67P?",
+      "options": [
+        {
+          "option": "JAXA"
+        },
+        {
+          "option": "European Space Agency (ESA)",
+          "is_answer": true
+        },
+        {
+          "option": "Roscosmos"
+        },
+        {
+          "option": "NASA"
+        }
+      ]
+    },
+    {
+      "question": "What was the name of the lander that touched down on Comet 67P?",
+      "options": [
+        {
+          "option": "Huygens"
+        },
+        {
+          "option": "Curiosity"
+        },
+        {
+          "option": "Philae",
+          "is_answer": true
+        },
+        {
+          "option": "Perseverance"
+        }
+      ]
+    },
+    {
+      "question": "In what year did the Rosetta spacecraft reach Comet 67P?",
+      "options": [
+        {
+          "option": "2016"
+        },
+        {
+          "option": "2010"
+        },
+        {
+          "option": "2014",
+          "is_answer": true
+        },
+        {
+          "option": "2012"
+        }
+      ]
+    },
+    {
+      "question": "What is the full name of the comet visited by the Rosetta mission?",
+      "options": [
+        {
+          "option": "67P/Tempel-Tuttle"
+        },
+        {
+          "option": "67P/Halley-Bopp"
+        },
+        {
+          "option": "67P/Swift-Tuttle"
+        },
+        {
+          "option": "67P/Churyumov-Gerasimenko",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What was the primary goal of analyzing water vapor on Comet 67P?",
+      "options": [
+        {
+          "option": "To study solar wind"
+        },
+        {
+          "option": "To measure the comet's mass"
+        },
+        {
+          "option": "To search for alien life"
+        },
+        {
+          "option": "To determine if comets brought water to Earth",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which isotope ratio in the comet's water was compared to Earth's oceans?",
+      "options": [
+        {
+          "option": "Nitrogen-14 to Nitrogen-15"
+        },
+        {
+          "option": "Deuterium to Hydrogen (D/H)",
+          "is_answer": true
+        },
+        {
+          "option": "Carbon-12 to Carbon-13"
+        },
+        {
+          "option": "Oxygen-16 to Oxygen-18"
+        }
+      ]
+    },
+    {
+      "question": "What caused the Philae lander to bounce upon its first landing attempt?",
+      "options": [
+        {
+          "option": "Failure of the harpoon anchoring system",
+          "is_answer": true
+        },
+        {
+          "option": "Lack of solar power"
+        },
+        {
+          "option": "Extreme heat"
+        },
+        {
+          "option": "High gravity"
+        }
+      ]
+    },
+    {
+      "question": "How long did the Rosetta mission last in total?",
+      "options": [
+        {
+          "option": "8 years"
+        },
+        {
+          "option": "20 years"
+        },
+        {
+          "option": "12 years",
+          "is_answer": true
+        },
+        {
+          "option": "5 years"
+        }
+      ]
+    },
+    {
+      "question": "What was the final fate of the Rosetta spacecraft?",
+      "options": [
+        {
+          "option": "Lost in deep space"
+        },
+        {
+          "option": "Burned up in Earth's atmosphere"
+        },
+        {
+          "option": "Left the solar system"
+        },
+        {
+          "option": "Controlled impact on the comet",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which instrument on Rosetta was used to analyze the comet's composition?",
+      "options": [
+        {
+          "option": "Kepler"
+        },
+        {
+          "option": "ROSINA",
+          "is_answer": true
+        },
+        {
+          "option": "Voyager"
+        },
+        {
+          "option": "Hubble"
+        }
+      ]
+    },
+    {
+      "question": "What shape is Comet 67P often described as?",
+      "options": [
+        {
+          "option": "Rubber duck",
+          "is_answer": true
+        },
+        {
+          "option": "Cigar-shaped"
+        },
+        {
+          "option": "Flat disk"
+        },
+        {
+          "option": "Spherical"
+        }
+      ]
+    },
+    {
+      "question": "What was the primary power source for the Philae lander?",
+      "options": [
+        {
+          "option": "Chemical fuel"
+        },
+        {
+          "option": "Solar panels",
+          "is_answer": true
+        },
+        {
+          "option": "Nuclear battery"
+        },
+        {
+          "option": "Wind energy"
+        }
+      ]
+    },
+    {
+      "question": "What did the Rosetta mission discover about the comet's water?",
+      "options": [
+        {
+          "option": "It is pure ice"
+        },
+        {
+          "option": "It is different from Earth's ocean water",
+          "is_answer": true
+        },
+        {
+          "option": "It is identical to Earth's water"
+        },
+        {
+          "option": "It contains no hydrogen"
+        }
+      ]
+    },
+    {
+      "question": "How many times did Philae bounce before settling on the comet?",
+      "options": [
+        {
+          "option": "Never bounced"
+        },
+        {
+          "option": "Three times"
+        },
+        {
+          "option": "Once"
+        },
+        {
+          "option": "Twice",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What was the main scientific objective of the Rosetta mission?",
+      "options": [
+        {
+          "option": "To study the origin of the solar system",
+          "is_answer": true
+        },
+        {
+          "option": "To map the entire galaxy"
+        },
+        {
+          "option": "To study black holes"
+        },
+        {
+          "option": "To find a new planet"
+        }
+      ]
+    },
+    {
+      "question": "Which comet was the target of the Rosetta mission?",
+      "options": [
+        {
+          "option": "67P/Churyumov-Gerasimenko",
+          "is_answer": true
+        },
+        {
+          "option": "Comet Shoemaker-Levy 9"
+        },
+        {
+          "option": "Halley's Comet"
+        },
+        {
+          "option": "Comet Hale-Bopp"
+        }
+      ]
+    },
+    {
+      "question": "What was the name of the Rosetta mission's orbiter?",
+      "options": [
+        {
+          "option": "Rosetta",
+          "is_answer": true
+        },
+        {
+          "option": "Giotto"
+        },
+        {
+          "option": "Cassini"
+        },
+        {
+          "option": "Philae"
+        }
+      ]
+    },
+    {
+      "question": "What was the primary material found on the surface of Comet 67P?",
+      "options": [
+        {
+          "option": "Molten lava"
+        },
+        {
+          "option": "Liquid water"
+        },
+        {
+          "option": "Pure gold"
+        },
+        {
+          "option": "Dust and ice",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What was the approximate distance of Comet 67P from the Sun when Rosetta arrived?",
+      "options": [
+        {
+          "option": "4 AU",
+          "is_answer": true
+        },
+        {
+          "option": "1 AU"
+        },
+        {
+          "option": "0.5 AU"
+        },
+        {
+          "option": "10 AU"
+        }
+      ]
+    },
+    {
+      "question": "Which country provided the main support for the Philae lander?",
+      "options": [
+        {
+          "option": "United Kingdom"
+        },
+        {
+          "option": "France"
+        },
+        {
+          "option": "Germany (DLR)",
+          "is_answer": true
+        },
+        {
+          "option": "Italy"
+        }
+      ]
+    },
+    {
+      "question": "What type of propulsion system did the Dawn spacecraft use?",
+      "options": [
+        {
+          "option": "Chemical rockets"
+        },
+        {
+          "option": "Nuclear thermal propulsion"
+        },
+        {
+          "option": "Ion propulsion",
+          "is_answer": true
+        },
+        {
+          "option": "Solar sails"
+        }
+      ]
+    },
+    {
+      "question": "Which two celestial bodies did the Dawn mission orbit?",
+      "options": [
+        {
+          "option": "Vesta and Eros"
+        },
+        {
+          "option": "Vesta and Ceres",
+          "is_answer": true
+        },
+        {
+          "option": "Ceres and Pallas"
+        },
+        {
+          "option": "Ceres and Hygiea"
+        }
+      ]
+    },
+    {
+      "question": "What substance was discovered in the bright spots of Ceres' Occator crater?",
+      "options": [
+        {
+          "option": "Water ice"
+        },
+        {
+          "option": "Solid carbon dioxide"
+        },
+        {
+          "option": "Sodium carbonate",
+          "is_answer": true
+        },
+        {
+          "option": "Frozen methane"
+        }
+      ]
+    },
+    {
+      "question": "In what year did the Dawn spacecraft arrive at Vesta?",
+      "options": [
+        {
+          "option": "2009"
+        },
+        {
+          "option": "2011",
+          "is_answer": true
+        },
+        {
+          "option": "2015"
+        },
+        {
+          "option": "2013"
+        }
+      ]
+    },
+    {
+      "question": "When did the Dawn mission officially end at Ceres?",
+      "options": [
+        {
+          "option": "2016"
+        },
+        {
+          "option": "2020"
+        },
+        {
+          "option": "2019"
+        },
+        {
+          "option": "2018",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which space agency launched the Dawn mission?",
+      "options": [
+        {
+          "option": "JAXA"
+        },
+        {
+          "option": "NASA",
+          "is_answer": true
+        },
+        {
+          "option": "ESA"
+        },
+        {
+          "option": "Roscosmos"
+        }
+      ]
+    },
+    {
+      "question": "What is Ceres classified as in our solar system?",
+      "options": [
+        {
+          "option": "Asteroid"
+        },
+        {
+          "option": "Dwarf planet",
+          "is_answer": true
+        },
+        {
+          "option": "Comet"
+        },
+        {
+          "option": "Moon"
+        }
+      ]
+    },
+    {
+      "question": "What is Vesta primarily classified as?",
+      "options": [
+        {
+          "option": "Planet"
+        },
+        {
+          "option": "Moon"
+        },
+        {
+          "option": "Dwarf planet"
+        },
+        {
+          "option": "Asteroid",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What was the primary goal of the Dawn mission?",
+      "options": [
+        {
+          "option": "Search for alien life"
+        },
+        {
+          "option": "Map the entire asteroid belt"
+        },
+        {
+          "option": "Study the early solar system",
+          "is_answer": true
+        },
+        {
+          "option": "Test new communication lasers"
+        }
+      ]
+    },
+    {
+      "question": "Which crater on Ceres is famous for its bright spots?",
+      "options": [
+        {
+          "option": "Occator",
+          "is_answer": true
+        },
+        {
+          "option": "Haulani"
+        },
+        {
+          "option": "Dantu"
+        },
+        {
+          "option": "Kerwan"
+        }
+      ]
+    },
+    {
+      "question": "How many main targets did the Dawn spacecraft visit?",
+      "options": [
+        {
+          "option": "Four"
+        },
+        {
+          "option": "One"
+        },
+        {
+          "option": "Two",
+          "is_answer": true
+        },
+        {
+          "option": "Three"
+        }
+      ]
+    },
+    {
+      "question": "What was the main power source for the Dawn spacecraft?",
+      "options": [
+        {
+          "option": "Solar panels",
+          "is_answer": true
+        },
+        {
+          "option": "Batteries"
+        },
+        {
+          "option": "Radioisotope thermoelectric generator"
+        },
+        {
+          "option": "Fuel cells"
+        }
+      ]
+    },
+    {
+      "question": "Where is the asteroid belt located?",
+      "options": [
+        {
+          "option": "Between Jupiter and Saturn"
+        },
+        {
+          "option": "Beyond Neptune"
+        },
+        {
+          "option": "Between Earth and Mars"
+        },
+        {
+          "option": "Between Mars and Jupiter",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What was the name of the mission that studied Vesta and Ceres?",
+      "options": [
+        {
+          "option": "New Horizons"
+        },
+        {
+          "option": "Cassini"
+        },
+        {
+          "option": "Dawn",
+          "is_answer": true
+        },
+        {
+          "option": "Voyager"
+        }
+      ]
+    },
+    {
+      "question": "What did the Dawn mission confirm about the bright spots on Ceres?",
+      "options": [
+        {
+          "option": "They are metallic rocks"
+        },
+        {
+          "option": "They are volcanic vents"
+        },
+        {
+          "option": "They are salt deposits",
+          "is_answer": true
+        },
+        {
+          "option": "They are ice caps"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a characteristic of ion propulsion?",
+      "options": [
+        {
+          "option": "Short travel time"
+        },
+        {
+          "option": "Uses chemical combustion"
+        },
+        {
+          "option": "High thrust"
+        },
+        {
+          "option": "High efficiency",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Dawn was the first spacecraft to orbit which two extraterrestrial bodies?",
+      "options": [
+        {
+          "option": "Two different objects in the solar system",
+          "is_answer": true
+        },
+        {
+          "option": "Two planets"
+        },
+        {
+          "option": "Two moons of Jupiter"
+        },
+        {
+          "option": "Two comets"
+        }
+      ]
+    },
+    {
+      "question": "What is the approximate diameter of Ceres?",
+      "options": [
+        {
+          "option": "940 km",
+          "is_answer": true
+        },
+        {
+          "option": "500 km"
+        },
+        {
+          "option": "2000 km"
+        },
+        {
+          "option": "100 km"
+        }
+      ]
+    },
+    {
+      "question": "What is the shape of Vesta?",
+      "options": [
+        {
+          "option": "Perfect sphere"
+        },
+        {
+          "option": "Flat disk"
+        },
+        {
+          "option": "Cube"
+        },
+        {
+          "option": "Irregular/Oblate spheroid",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What happened to the Dawn spacecraft after its mission ended?",
+      "options": [
+        {
+          "option": "It returned to Earth"
+        },
+        {
+          "option": "It crashed into Vesta"
+        },
+        {
+          "option": "It remained in orbit around Ceres",
+          "is_answer": true
+        },
+        {
+          "option": "It was sent to Jupiter"
+        }
+      ]
+    },
+    {
+      "question": "What was the primary objective of NASA's DART mission?",
+      "options": [
+        {
+          "option": "To capture an asteroid into Earth's orbit"
+        },
+        {
+          "option": "To test asteroid deflection via kinetic impact",
+          "is_answer": true
+        },
+        {
+          "option": "To mine minerals from an asteroid"
+        },
+        {
+          "option": "To land a rover on an asteroid"
+        }
+      ]
+    },
+    {
+      "question": "Which asteroid moonlet was the target of the DART impact?",
+      "options": [
+        {
+          "option": "Dimorphos",
+          "is_answer": true
+        },
+        {
+          "option": "Didymos"
+        },
+        {
+          "option": "Bennu"
+        },
+        {
+          "option": "Ryugu"
+        }
+      ]
+    },
+    {
+      "question": "In what year did the DART spacecraft impact Dimorphos?",
+      "options": [
+        {
+          "option": "2021"
+        },
+        {
+          "option": "2023"
+        },
+        {
+          "option": "2022",
+          "is_answer": true
+        },
+        {
+          "option": "2020"
+        }
+      ]
+    },
+    {
+      "question": "By how much time was the orbital period of Dimorphos shortened after the impact?",
+      "options": [
+        {
+          "option": "45 minutes"
+        },
+        {
+          "option": "15 minutes"
+        },
+        {
+          "option": "10 minutes"
+        },
+        {
+          "option": "32 minutes",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the name of the larger asteroid that Dimorphos orbits?",
+      "options": [
+        {
+          "option": "Dimorphos"
+        },
+        {
+          "option": "Eros"
+        },
+        {
+          "option": "Didymos",
+          "is_answer": true
+        },
+        {
+          "option": "Ceres"
+        }
+      ]
+    },
+    {
+      "question": "What type of propulsion did the DART spacecraft use?",
+      "options": [
+        {
+          "option": "Ion thrusters only"
+        },
+        {
+          "option": "Solar electric propulsion",
+          "is_answer": true
+        },
+        {
+          "option": "Nuclear thermal propulsion"
+        },
+        {
+          "option": "Chemical rockets"
+        }
+      ]
+    },
+    {
+      "question": "Which space agency led the DART mission?",
+      "options": [
+        {
+          "option": "NASA",
+          "is_answer": true
+        },
+        {
+          "option": "ISRO"
+        },
+        {
+          "option": "ESA"
+        },
+        {
+          "option": "SpaceX"
+        }
+      ]
+    },
+    {
+      "question": "What was the primary goal of the DART mission regarding planetary defense?",
+      "options": [
+        {
+          "option": "Mapping the asteroid belt"
+        },
+        {
+          "option": "Demonstrating asteroid deflection technology",
+          "is_answer": true
+        },
+        {
+          "option": "Searching for water on asteroids"
+        },
+        {
+          "option": "Studying asteroid composition"
+        }
+      ]
+    },
+    {
+      "question": "In what year was the DART mission launched?",
+      "options": [
+        {
+          "option": "2020"
+        },
+        {
+          "option": "2021",
+          "is_answer": true
+        },
+        {
+          "option": "2022"
+        },
+        {
+          "option": "2019"
+        }
+      ]
+    },
+    {
+      "question": "What was the name of the camera system used by DART for navigation?",
+      "options": [
+        {
+          "option": "DRACO",
+          "is_answer": true
+        },
+        {
+          "option": "L'LORRI"
+        },
+        {
+          "option": "NavCam"
+        },
+        {
+          "option": "HiRISE"
+        }
+      ]
+    },
+    {
+      "question": "Did the DART mission successfully change the orbit of Dimorphos?",
+      "options": [
+        {
+          "option": "The mission failed"
+        },
+        {
+          "option": "No"
+        },
+        {
+          "option": "Yes",
+          "is_answer": true
+        },
+        {
+          "option": "Only slightly"
+        }
+      ]
+    },
+    {
+      "question": "What was the mass of the DART spacecraft at launch?",
+      "options": [
+        {
+          "option": "Approximately 610 kg",
+          "is_answer": true
+        },
+        {
+          "option": "Approximately 200 kg"
+        },
+        {
+          "option": "Approximately 5000 kg"
+        },
+        {
+          "option": "Approximately 1000 kg"
+        }
+      ]
+    },
+    {
+      "question": "Which launch vehicle was used to send DART into space?",
+      "options": [
+        {
+          "option": "Ariane 5"
+        },
+        {
+          "option": "SpaceX Falcon 9",
+          "is_answer": true
+        },
+        {
+          "option": "Delta IV Heavy"
+        },
+        {
+          "option": "Atlas V"
+        }
+      ]
+    },
+    {
+      "question": "What is the primary scientific purpose of studying the Didymos system?",
+      "options": [
+        {
+          "option": "To understand binary asteroid systems",
+          "is_answer": true
+        },
+        {
+          "option": "To find alien life"
+        },
+        {
+          "option": "To measure Earth's gravity"
+        },
+        {
+          "option": "To study solar flares"
+        }
+      ]
+    },
+    {
+      "question": "What was the speed of the DART spacecraft at the moment of impact?",
+      "options": [
+        {
+          "option": "Approximately 20 km/s"
+        },
+        {
+          "option": "Approximately 15 km/s"
+        },
+        {
+          "option": "Approximately 1 km/s"
+        },
+        {
+          "option": "Approximately 6.6 km/s",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the term for the technique used by DART to deflect the asteroid?",
+      "options": [
+        {
+          "option": "Nuclear explosive device"
+        },
+        {
+          "option": "Ion beam shepherd"
+        },
+        {
+          "option": "Kinetic impactor",
+          "is_answer": true
+        },
+        {
+          "option": "Gravity tractor"
+        }
+      ]
+    },
+    {
+      "question": "Which small satellite accompanied DART to observe the impact?",
+      "options": [
+        {
+          "option": "MarCO"
+        },
+        {
+          "option": "Cubesat-1"
+        },
+        {
+          "option": "CAPSTONE"
+        },
+        {
+          "option": "LICIACube",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What was the main source of power for the DART spacecraft?",
+      "options": [
+        {
+          "option": "Batteries only"
+        },
+        {
+          "option": "Radioisotope thermoelectric generator"
+        },
+        {
+          "option": "Fuel cells"
+        },
+        {
+          "option": "Solar panels",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How long did it take for the DART mission to reach its target after launch?",
+      "options": [
+        {
+          "option": "About 5 years"
+        },
+        {
+          "option": "About 6 months"
+        },
+        {
+          "option": "About 10 months",
+          "is_answer": true
+        },
+        {
+          "option": "About 2 years"
+        }
+      ]
+    },
+    {
+      "question": "What is the primary goal of the Hera mission, which will follow up on DART?",
+      "options": [
+        {
+          "option": "To crash into another asteroid"
+        },
+        {
+          "option": "To build a base on the asteroid"
+        },
+        {
+          "option": "To bring samples back to Earth"
+        },
+        {
+          "option": "To perform a detailed survey of the Didymos system",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which two space agencies are collaborating on the BepiColombo mission?",
+      "options": [
+        {
+          "option": "ISRO and JAXA"
+        },
+        {
+          "option": "Roscosmos and NASA"
+        },
+        {
+          "option": "ESA and JAXA",
+          "is_answer": true
+        },
+        {
+          "option": "NASA and ESA"
+        }
+      ]
+    },
+    {
+      "question": "In what year was the BepiColombo mission launched?",
+      "options": [
+        {
+          "option": "2012"
+        },
+        {
+          "option": "2018",
+          "is_answer": true
+        },
+        {
+          "option": "2020"
+        },
+        {
+          "option": "2015"
+        }
+      ]
+    },
+    {
+      "question": "What is the primary destination of the BepiColombo mission?",
+      "options": [
+        {
+          "option": "Venus"
+        },
+        {
+          "option": "Jupiter"
+        },
+        {
+          "option": "Mercury",
+          "is_answer": true
+        },
+        {
+          "option": "Mars"
+        }
+      ]
+    },
+    {
+      "question": "Which propulsion system does BepiColombo use for its long journey?",
+      "options": [
+        {
+          "option": "Chemical rockets"
+        },
+        {
+          "option": "Solar sails"
+        },
+        {
+          "option": "Electric propulsion",
+          "is_answer": true
+        },
+        {
+          "option": "Nuclear thermal"
+        }
+      ]
+    },
+    {
+      "question": "How many orbiters are part of the BepiColombo mission?",
+      "options": [
+        {
+          "option": "One"
+        },
+        {
+          "option": "Three"
+        },
+        {
+          "option": "Four"
+        },
+        {
+          "option": "Two",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the name of the orbiter provided by ESA?",
+      "options": [
+        {
+          "option": "Mercury Atmospheric Probe"
+        },
+        {
+          "option": "Mercury Magnetospheric Orbiter (MMO)"
+        },
+        {
+          "option": "Mercury Planetary Orbiter (MPO)",
+          "is_answer": true
+        },
+        {
+          "option": "Mercury Surface Lander"
+        }
+      ]
+    },
+    {
+      "question": "What is the name of the orbiter provided by JAXA?",
+      "options": [
+        {
+          "option": "Mercury Surface Lander"
+        },
+        {
+          "option": "Mercury Planetary Orbiter (MPO)"
+        },
+        {
+          "option": "Mercury Atmospheric Probe"
+        },
+        {
+          "option": "Mercury Magnetospheric Orbiter (MMO)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "To reach Mercury, BepiColombo performs multiple flybys of which planets?",
+      "options": [
+        {
+          "option": "Saturn and Venus"
+        },
+        {
+          "option": "Mars and Jupiter"
+        },
+        {
+          "option": "Earth and Mars"
+        },
+        {
+          "option": "Earth, Venus, and Mercury",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the primary scientific goal of the MMO (Mio) orbiter?",
+      "options": [
+        {
+          "option": "Map the surface topography"
+        },
+        {
+          "option": "Search for liquid water"
+        },
+        {
+          "option": "Analyze atmospheric composition"
+        },
+        {
+          "option": "Study Mercury's magnetic field",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the primary scientific goal of the MPO orbiter?",
+      "options": [
+        {
+          "option": "Characterize Mercury's surface and interior",
+          "is_answer": true
+        },
+        {
+          "option": "Measure plasma density"
+        },
+        {
+          "option": "Study solar wind interaction"
+        },
+        {
+          "option": "Observe auroras"
+        }
+      ]
+    },
+    {
+      "question": "What is the nickname given to the JAXA Mercury Magnetospheric Orbiter?",
+      "options": [
+        {
+          "option": "Colombo"
+        },
+        {
+          "option": "Mercury-1"
+        },
+        {
+          "option": "Bepi"
+        },
+        {
+          "option": "Mio",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Why does BepiColombo need to use flybys?",
+      "options": [
+        {
+          "option": "To save fuel by using gravity assist"
+        },
+        {
+          "option": "To speed up to reach the outer solar system"
+        },
+        {
+          "option": "To avoid solar radiation"
+        },
+        {
+          "option": "To slow down and enter Mercury's orbit",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which Italian scientist is the mission named after?",
+      "options": [
+        {
+          "option": "Galileo Galilei"
+        },
+        {
+          "option": "Giuseppe 'Bepi' Colombo",
+          "is_answer": true
+        },
+        {
+          "option": "Enrico Fermi"
+        },
+        {
+          "option": "Leonardo da Vinci"
+        }
+      ]
+    },
+    {
+      "question": "What is the main challenge of exploring Mercury?",
+      "options": [
+        {
+          "option": "Distance from Earth"
+        },
+        {
+          "option": "High gravity"
+        },
+        {
+          "option": "Lack of atmosphere"
+        },
+        {
+          "option": "Extreme heat and proximity to the Sun",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many flybys of Mercury will BepiColombo perform before entering orbit?",
+      "options": [
+        {
+          "option": "Two"
+        },
+        {
+          "option": "Six",
+          "is_answer": true
+        },
+        {
+          "option": "Ten"
+        },
+        {
+          "option": "One"
+        }
+      ]
+    },
+    {
+      "question": "What is the name of the module that carries the two orbiters to Mercury?",
+      "options": [
+        {
+          "option": "Mercury Transfer Module (MTM)",
+          "is_answer": true
+        },
+        {
+          "option": "Mercury Propulsion Unit"
+        },
+        {
+          "option": "Mercury Carrier Module"
+        },
+        {
+          "option": "Mercury Cruise Stage"
+        }
+      ]
+    },
+    {
+      "question": "What type of propulsion does the Mercury Transfer Module (MTM) use?",
+      "options": [
+        {
+          "option": "Chemical propulsion"
+        },
+        {
+          "option": "Ion thrusters"
+        },
+        {
+          "option": "Nuclear propulsion"
+        },
+        {
+          "option": "Solar electric propulsion",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "When is BepiColombo expected to arrive at Mercury?",
+      "options": [
+        {
+          "option": "2030"
+        },
+        {
+          "option": "2028"
+        },
+        {
+          "option": "2025",
+          "is_answer": true
+        },
+        {
+          "option": "2022"
+        }
+      ]
+    },
+    {
+      "question": "Which planet's gravity is used to slow down the spacecraft during the journey?",
+      "options": [
+        {
+          "option": "Venus",
+          "is_answer": true
+        },
+        {
+          "option": "Mars"
+        },
+        {
+          "option": "Saturn"
+        },
+        {
+          "option": "Jupiter"
+        }
+      ]
+    },
+    {
+      "question": "What is the primary power source for the BepiColombo spacecraft?",
+      "options": [
+        {
+          "option": "Solar panels",
+          "is_answer": true
+        },
+        {
+          "option": "Radioisotope thermoelectric generators"
+        },
+        {
+          "option": "Batteries"
+        },
+        {
+          "option": "Fuel cells"
+        }
+      ]
+    },
+    {
+      "question": "In what year was the Juno spacecraft launched?",
+      "options": [
+        {
+          "option": "2011",
+          "is_answer": true
+        },
+        {
+          "option": "2009"
+        },
+        {
+          "option": "2013"
+        },
+        {
+          "option": "2015"
+        }
+      ]
+    },
+    {
+      "question": "What type of orbit does Juno maintain around Jupiter?",
+      "options": [
+        {
+          "option": "Equatorial orbit"
+        },
+        {
+          "option": "Lagrangian orbit"
+        },
+        {
+          "option": "Geostationary orbit"
+        },
+        {
+          "option": "Polar orbit",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which instrument on Juno is used to study the deep atmosphere's water abundance?",
+      "options": [
+        {
+          "option": "Microwave Radiometer",
+          "is_answer": true
+        },
+        {
+          "option": "Gravity Science Instrument"
+        },
+        {
+          "option": "JunoCam"
+        },
+        {
+          "option": "Magnetometer"
+        }
+      ]
+    },
+    {
+      "question": "What is one of the primary objectives of the Juno mission regarding Jupiter's interior?",
+      "options": [
+        {
+          "option": "Core density",
+          "is_answer": true
+        },
+        {
+          "option": "Atmospheric pressure"
+        },
+        {
+          "option": "Ring composition"
+        },
+        {
+          "option": "Surface temperature"
+        }
+      ]
+    },
+    {
+      "question": "Juno is primarily designed to study Jupiter's what?",
+      "options": [
+        {
+          "option": "Auroras",
+          "is_answer": true
+        },
+        {
+          "option": "Asteroid belt"
+        },
+        {
+          "option": "Moon collisions"
+        },
+        {
+          "option": "Solar wind"
+        }
+      ]
+    },
+    {
+      "question": "Which space agency is responsible for the Juno mission?",
+      "options": [
+        {
+          "option": "Roscosmos"
+        },
+        {
+          "option": "ISRO"
+        },
+        {
+          "option": "ESA"
+        },
+        {
+          "option": "NASA",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What powers the Juno spacecraft?",
+      "options": [
+        {
+          "option": "Solar panels",
+          "is_answer": true
+        },
+        {
+          "option": "Nuclear batteries"
+        },
+        {
+          "option": "Ion thrusters"
+        },
+        {
+          "option": "Chemical fuel"
+        }
+      ]
+    },
+    {
+      "question": "How many main solar arrays does Juno have?",
+      "options": [
+        {
+          "option": "Six"
+        },
+        {
+          "option": "Two"
+        },
+        {
+          "option": "Three",
+          "is_answer": true
+        },
+        {
+          "option": "Four"
+        }
+      ]
+    },
+    {
+      "question": "What is the name of the camera on Juno that provides public images?",
+      "options": [
+        {
+          "option": "JupiterCam"
+        },
+        {
+          "option": "DeepCam"
+        },
+        {
+          "option": "PolarCam"
+        },
+        {
+          "option": "JunoCam",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Juno's mission helps scientists understand the origin of which planet?",
+      "options": [
+        {
+          "option": "Mars"
+        },
+        {
+          "option": "Venus"
+        },
+        {
+          "option": "Saturn"
+        },
+        {
+          "option": "Jupiter",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the primary goal of the Juno mission regarding Jupiter's magnetic field?",
+      "options": [
+        {
+          "option": "Ignoring it"
+        },
+        {
+          "option": "Heating it"
+        },
+        {
+          "option": "Mapping it",
+          "is_answer": true
+        },
+        {
+          "option": "Neutralizing it"
+        }
+      ]
+    },
+    {
+      "question": "Juno orbits Jupiter in a way that avoids what?",
+      "options": [
+        {
+          "option": "Asteroid impacts"
+        },
+        {
+          "option": "Radiation belts",
+          "is_answer": true
+        },
+        {
+          "option": "Moon gravity"
+        },
+        {
+          "option": "Solar flares"
+        }
+      ]
+    },
+    {
+      "question": "What is the approximate duration of one orbit of Juno around Jupiter?",
+      "options": [
+        {
+          "option": "53 days",
+          "is_answer": true
+        },
+        {
+          "option": "100 days"
+        },
+        {
+          "option": "10 days"
+        },
+        {
+          "option": "365 days"
+        }
+      ]
+    },
+    {
+      "question": "Juno's gravity science instrument measures what?",
+      "options": [
+        {
+          "option": "Cloud height"
+        },
+        {
+          "option": "Wind speed"
+        },
+        {
+          "option": "Surface color"
+        },
+        {
+          "option": "Mass distribution",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a major focus of Juno's atmospheric study?",
+      "options": [
+        {
+          "option": "Volcanic activity"
+        },
+        {
+          "option": "Moon orbits"
+        },
+        {
+          "option": "Water abundance",
+          "is_answer": true
+        },
+        {
+          "option": "Ring dust"
+        }
+      ]
+    },
+    {
+      "question": "Juno was built to withstand what extreme environment?",
+      "options": [
+        {
+          "option": "High radiation",
+          "is_answer": true
+        },
+        {
+          "option": "High vacuum"
+        },
+        {
+          "option": "Low gravity"
+        },
+        {
+          "option": "Extreme cold"
+        }
+      ]
+    },
+    {
+      "question": "What is the main purpose of the Juno mission's microwave radiometer?",
+      "options": [
+        {
+          "option": "Measuring heat"
+        },
+        {
+          "option": "Tracking moons"
+        },
+        {
+          "option": "Detecting water",
+          "is_answer": true
+        },
+        {
+          "option": "Taking photos"
+        }
+      ]
+    },
+    {
+      "question": "Juno's mission is part of which NASA program?",
+      "options": [
+        {
+          "option": "Artemis"
+        },
+        {
+          "option": "Voyager"
+        },
+        {
+          "option": "New Frontiers",
+          "is_answer": true
+        },
+        {
+          "option": "Apollo"
+        }
+      ]
+    },
+    {
+      "question": "What does Juno study about Jupiter's core?",
+      "options": [
+        {
+          "option": "Rotation speed"
+        },
+        {
+          "option": "Density",
+          "is_answer": true
+        },
+        {
+          "option": "Chemical composition"
+        },
+        {
+          "option": "Temperature"
+        }
+      ]
+    },
+    {
+      "question": "Juno's polar orbit allows it to observe what?",
+      "options": [
+        {
+          "option": "Equatorial storms"
+        },
+        {
+          "option": "Moon eclipses"
+        },
+        {
+          "option": "Auroras",
+          "is_answer": true
+        },
+        {
+          "option": "Ring shadows"
+        }
+      ]
+    },
+    {
+      "question": "Which module was the first to be launched for the International Space Station in 1998?",
+      "options": [
+        {
+          "option": "Zarya",
+          "is_answer": true
+        },
+        {
+          "option": "Unity"
+        },
+        {
+          "option": "Columbus"
+        },
+        {
+          "option": "Destiny"
+        }
+      ]
+    },
+    {
+      "question": "The Zarya module was launched into orbit using which launch vehicle?",
+      "options": [
+        {
+          "option": "Ariane 5"
+        },
+        {
+          "option": "Proton",
+          "is_answer": true
+        },
+        {
+          "option": "Falcon 9"
+        },
+        {
+          "option": "Atlas V"
+        }
+      ]
+    },
+    {
+      "question": "In which year did continuous human occupation of the ISS begin?",
+      "options": [
+        {
+          "option": "2002"
+        },
+        {
+          "option": "2005"
+        },
+        {
+          "option": "2000",
+          "is_answer": true
+        },
+        {
+          "option": "1998"
+        }
+      ]
+    },
+    {
+      "question": "Which mission marked the beginning of continuous human occupation on the ISS?",
+      "options": [
+        {
+          "option": "Expedition 2"
+        },
+        {
+          "option": "STS-88"
+        },
+        {
+          "option": "STS-92"
+        },
+        {
+          "option": "Expedition 1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the name of the primary United States laboratory module on the ISS?",
+      "options": [
+        {
+          "option": "Unity"
+        },
+        {
+          "option": "Tranquility"
+        },
+        {
+          "option": "Harmony"
+        },
+        {
+          "option": "Destiny",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which module was the first US-built component of the ISS?",
+      "options": [
+        {
+          "option": "Unity",
+          "is_answer": true
+        },
+        {
+          "option": "Destiny"
+        },
+        {
+          "option": "Zarya"
+        },
+        {
+          "option": "Kibo"
+        }
+      ]
+    },
+    {
+      "question": "Which country provided the Kibo laboratory module for the ISS?",
+      "options": [
+        {
+          "option": "Canada"
+        },
+        {
+          "option": "Russia"
+        },
+        {
+          "option": "Japan",
+          "is_answer": true
+        },
+        {
+          "option": "USA"
+        }
+      ]
+    },
+    {
+      "question": "The Columbus laboratory module is a contribution from which space agency?",
+      "options": [
+        {
+          "option": "ESA",
+          "is_answer": true
+        },
+        {
+          "option": "NASA"
+        },
+        {
+          "option": "JAXA"
+        },
+        {
+          "option": "Roscosmos"
+        }
+      ]
+    },
+    {
+      "question": "Which node connects the Zarya and Unity modules?",
+      "options": [
+        {
+          "option": "Harmony"
+        },
+        {
+          "option": "Tranquility"
+        },
+        {
+          "option": "Cupola"
+        },
+        {
+          "option": "Unity",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the primary purpose of the ISS?",
+      "options": [
+        {
+          "option": "Asteroid mining"
+        },
+        {
+          "option": "Scientific research",
+          "is_answer": true
+        },
+        {
+          "option": "Military surveillance"
+        },
+        {
+          "option": "Space tourism"
+        }
+      ]
+    },
+    {
+      "question": "Which module serves as the primary docking port for visiting spacecraft?",
+      "options": [
+        {
+          "option": "Columbus"
+        },
+        {
+          "option": "Kibo"
+        },
+        {
+          "option": "Destiny"
+        },
+        {
+          "option": "Unity",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In what year was the Destiny laboratory module added to the ISS?",
+      "options": [
+        {
+          "option": "2001",
+          "is_answer": true
+        },
+        {
+          "option": "2005"
+        },
+        {
+          "option": "1998"
+        },
+        {
+          "option": "2010"
+        }
+      ]
+    },
+    {
+      "question": "Which country is responsible for the Zarya module?",
+      "options": [
+        {
+          "option": "Japan"
+        },
+        {
+          "option": "Russia",
+          "is_answer": true
+        },
+        {
+          "option": "USA"
+        },
+        {
+          "option": "Germany"
+        }
+      ]
+    },
+    {
+      "question": "The ISS orbits the Earth at approximately what altitude?",
+      "options": [
+        {
+          "option": "50 km"
+        },
+        {
+          "option": "1000 km"
+        },
+        {
+          "option": "100 km"
+        },
+        {
+          "option": "400 km",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a major international partner in the ISS program?",
+      "options": [
+        {
+          "option": "Australia"
+        },
+        {
+          "option": "China"
+        },
+        {
+          "option": "India"
+        },
+        {
+          "option": "Canada",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The Kibo module is also known as what?",
+      "options": [
+        {
+          "option": "European Laboratory"
+        },
+        {
+          "option": "US Node"
+        },
+        {
+          "option": "Japanese Experiment Module",
+          "is_answer": true
+        },
+        {
+          "option": "Russian Research Module"
+        }
+      ]
+    },
+    {
+      "question": "Which space shuttle mission delivered the Unity node to the ISS?",
+      "options": [
+        {
+          "option": "STS-92"
+        },
+        {
+          "option": "STS-88",
+          "is_answer": true
+        },
+        {
+          "option": "STS-100"
+        },
+        {
+          "option": "STS-110"
+        }
+      ]
+    },
+    {
+      "question": "What is the full form of ISS?",
+      "options": [
+        {
+          "option": "Integrated Space System"
+        },
+        {
+          "option": "Interstellar Space Station"
+        },
+        {
+          "option": "International Satellite System"
+        },
+        {
+          "option": "International Space Station",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which module was added to the ISS to provide a panoramic view of Earth?",
+      "options": [
+        {
+          "option": "Unity"
+        },
+        {
+          "option": "Zarya"
+        },
+        {
+          "option": "Cupola",
+          "is_answer": true
+        },
+        {
+          "option": "Destiny"
+        }
+      ]
+    },
+    {
+      "question": "How many main international partners are involved in the ISS?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "In what year was the Parker Solar Probe launched?",
+      "options": [
+        {
+          "option": "2012"
+        },
+        {
+          "option": "2020"
+        },
+        {
+          "option": "2015"
+        },
+        {
+          "option": "2018",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the primary material used in the Parker Solar Probe's heat shield?",
+      "options": [
+        {
+          "option": "Ceramic tiles"
+        },
+        {
+          "option": "Aluminum foil"
+        },
+        {
+          "option": "Carbon-composite",
+          "is_answer": true
+        },
+        {
+          "option": "Titanium alloy"
+        }
+      ]
+    },
+    {
+      "question": "What is the main goal of the Parker Solar Probe mission?",
+      "options": [
+        {
+          "option": "Study the solar corona",
+          "is_answer": true
+        },
+        {
+          "option": "Search for exoplanets"
+        },
+        {
+          "option": "Map the asteroid belt"
+        },
+        {
+          "option": "Land on the Sun"
+        }
+      ]
+    },
+    {
+      "question": "How close does the Parker Solar Probe get to the Sun's surface?",
+      "options": [
+        {
+          "option": "1 million km"
+        },
+        {
+          "option": "50 million km"
+        },
+        {
+          "option": "10 million km"
+        },
+        {
+          "option": "6.2 million km",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which layer of the Sun is the Parker Solar Probe flying through?",
+      "options": [
+        {
+          "option": "Chromosphere"
+        },
+        {
+          "option": "Photosphere"
+        },
+        {
+          "option": "Corona",
+          "is_answer": true
+        },
+        {
+          "option": "Core"
+        }
+      ]
+    },
+    {
+      "question": "What is the name of the heat shield protecting the probe?",
+      "options": [
+        {
+          "option": "Heat Barrier"
+        },
+        {
+          "option": "Sun Guard"
+        },
+        {
+          "option": "Solar Shield"
+        },
+        {
+          "option": "Thermal Protection System",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the primary source of power for the Parker Solar Probe?",
+      "options": [
+        {
+          "option": "Solar panels",
+          "is_answer": true
+        },
+        {
+          "option": "Nuclear battery"
+        },
+        {
+          "option": "Chemical fuel"
+        },
+        {
+          "option": "Wind energy"
+        }
+      ]
+    },
+    {
+      "question": "Which space agency launched the Parker Solar Probe?",
+      "options": [
+        {
+          "option": "Roscosmos"
+        },
+        {
+          "option": "ESA"
+        },
+        {
+          "option": "NASA",
+          "is_answer": true
+        },
+        {
+          "option": "ISRO"
+        }
+      ]
+    },
+    {
+      "question": "The Parker Solar Probe is named after which solar physicist?",
+      "options": [
+        {
+          "option": "Albert Einstein"
+        },
+        {
+          "option": "Carl Sagan"
+        },
+        {
+          "option": "Isaac Newton"
+        },
+        {
+          "option": "Eugene Parker",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What phenomenon does the probe help scientists understand better?",
+      "options": [
+        {
+          "option": "Solar wind acceleration",
+          "is_answer": true
+        },
+        {
+          "option": "Sunspots"
+        },
+        {
+          "option": "Planetary orbits"
+        },
+        {
+          "option": "Galaxy formation"
+        }
+      ]
+    },
+    {
+      "question": "What is the approximate temperature the heat shield faces?",
+      "options": [
+        {
+          "option": "10,000 degrees Celsius"
+        },
+        {
+          "option": "100 degrees Celsius"
+        },
+        {
+          "option": "500 degrees Celsius"
+        },
+        {
+          "option": "1,400 degrees Celsius",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many times is the probe expected to orbit the Sun?",
+      "options": [
+        {
+          "option": "24 times",
+          "is_answer": true
+        },
+        {
+          "option": "100 times"
+        },
+        {
+          "option": "2 times"
+        },
+        {
+          "option": "5 times"
+        }
+      ]
+    },
+    {
+      "question": "What is the shape of the Parker Solar Probe's orbit?",
+      "options": [
+        {
+          "option": "Hyperbolic"
+        },
+        {
+          "option": "Square"
+        },
+        {
+          "option": "Circular"
+        },
+        {
+          "option": "Elliptical",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which planet's gravity is used to adjust the probe's orbit?",
+      "options": [
+        {
+          "option": "Earth"
+        },
+        {
+          "option": "Mars"
+        },
+        {
+          "option": "Venus",
+          "is_answer": true
+        },
+        {
+          "option": "Jupiter"
+        }
+      ]
+    },
+    {
+      "question": "What is the main purpose of the solar corona study?",
+      "options": [
+        {
+          "option": "Observe solar eclipses"
+        },
+        {
+          "option": "Count sunspots"
+        },
+        {
+          "option": "Understand solar heating",
+          "is_answer": true
+        },
+        {
+          "option": "Measure solar weight"
+        }
+      ]
+    },
+    {
+      "question": "What is the speed of the Parker Solar Probe at its fastest?",
+      "options": [
+        {
+          "option": "690,000 km/h",
+          "is_answer": true
+        },
+        {
+          "option": "50,000 km/h"
+        },
+        {
+          "option": "1,000,000 km/h"
+        },
+        {
+          "option": "100,000 km/h"
+        }
+      ]
+    },
+    {
+      "question": "What is the color of the heat shield?",
+      "options": [
+        {
+          "option": "Gold"
+        },
+        {
+          "option": "Silver"
+        },
+        {
+          "option": "White",
+          "is_answer": true
+        },
+        {
+          "option": "Black"
+        }
+      ]
+    },
+    {
+      "question": "The probe is designed to withstand extreme what?",
+      "options": [
+        {
+          "option": "Gravity and magnetism"
+        },
+        {
+          "option": "Radiation and heat",
+          "is_answer": true
+        },
+        {
+          "option": "Vacuum and dust"
+        },
+        {
+          "option": "Cold and pressure"
+        }
+      ]
+    },
+    {
+      "question": "What is the primary mission duration?",
+      "options": [
+        {
+          "option": "50 years"
+        },
+        {
+          "option": "7 years",
+          "is_answer": true
+        },
+        {
+          "option": "20 years"
+        },
+        {
+          "option": "1 year"
+        }
+      ]
+    },
+    {
+      "question": "What is the main challenge of the Parker Solar Probe mission?",
+      "options": [
+        {
+          "option": "Communication delay"
+        },
+        {
+          "option": "Lack of oxygen"
+        },
+        {
+          "option": "Space debris"
+        },
+        {
+          "option": "Extreme heat",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What primary method do both Kepler and TESS use to detect exoplanets?",
+      "options": [
+        {
+          "option": "Transit method",
+          "is_answer": true
+        },
+        {
+          "option": "Radial velocity"
+        },
+        {
+          "option": "Direct imaging"
+        },
+        {
+          "option": "Gravitational microlensing"
+        }
+      ]
+    },
+    {
+      "question": "In what year was the Kepler space telescope launched?",
+      "options": [
+        {
+          "option": "2009",
+          "is_answer": true
+        },
+        {
+          "option": "2005"
+        },
+        {
+          "option": "2015"
+        },
+        {
+          "option": "2012"
+        }
+      ]
+    },
+    {
+      "question": "What is the primary goal of the TESS mission?",
+      "options": [
+        {
+          "option": "Studying the atmosphere of Mars"
+        },
+        {
+          "option": "Surveying nearby bright stars for exoplanets",
+          "is_answer": true
+        },
+        {
+          "option": "Searching for black holes in the Milky Way"
+        },
+        {
+          "option": "Mapping the dark matter of the universe"
+        }
+      ]
+    },
+    {
+      "question": "Approximately how many confirmed exoplanets did the Kepler mission discover?",
+      "options": [
+        {
+          "option": "Over 2,600",
+          "is_answer": true
+        },
+        {
+          "option": "Exactly 1,000"
+        },
+        {
+          "option": "Under 500"
+        },
+        {
+          "option": "Over 10,000"
+        }
+      ]
+    },
+    {
+      "question": "What does the acronym TESS stand for?",
+      "options": [
+        {
+          "option": "Total Exoplanet Search System"
+        },
+        {
+          "option": "Transiting Exoplanet Survey Satellite",
+          "is_answer": true
+        },
+        {
+          "option": "Thermal Exoplanet Scanning Satellite"
+        },
+        {
+          "option": "Telescope for Exoplanetary Stellar Studies"
+        }
+      ]
+    },
+    {
+      "question": "Which region of the sky did the original Kepler mission focus on?",
+      "options": [
+        {
+          "option": "The entire sky equally"
+        },
+        {
+          "option": "A single patch in Cygnus and Lyra",
+          "is_answer": true
+        },
+        {
+          "option": "The Galactic Center"
+        },
+        {
+          "option": "Only the North Celestial Pole"
+        }
+      ]
+    },
+    {
+      "question": "What is the main difference between Kepler and TESS in terms of survey area?",
+      "options": [
+        {
+          "option": "TESS surveys the whole sky, Kepler focused on one patch",
+          "is_answer": true
+        },
+        {
+          "option": "TESS only looks at galaxies, Kepler looks at stars"
+        },
+        {
+          "option": "Kepler surveyed the whole sky, TESS focused on one patch"
+        },
+        {
+          "option": "Kepler only looked at the Sun, TESS looks at other stars"
+        }
+      ]
+    },
+    {
+      "question": "What is a 'transit' in the context of exoplanet discovery?",
+      "options": [
+        {
+          "option": "A planet colliding with another"
+        },
+        {
+          "option": "A star exploding"
+        },
+        {
+          "option": "A planet moving behind its star"
+        },
+        {
+          "option": "A planet passing in front of its star",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which agency launched the Kepler mission?",
+      "options": [
+        {
+          "option": "ESA"
+        },
+        {
+          "option": "SpaceX"
+        },
+        {
+          "option": "NASA",
+          "is_answer": true
+        },
+        {
+          "option": "ISRO"
+        }
+      ]
+    },
+    {
+      "question": "What happens to the brightness of a star during a transit?",
+      "options": [
+        {
+          "option": "It remains constant"
+        },
+        {
+          "option": "It dips slightly",
+          "is_answer": true
+        },
+        {
+          "option": "It increases significantly"
+        },
+        {
+          "option": "It flickers randomly"
+        }
+      ]
+    },
+    {
+      "question": "When did the Kepler mission officially end?",
+      "options": [
+        {
+          "option": "2015"
+        },
+        {
+          "option": "2018",
+          "is_answer": true
+        },
+        {
+          "option": "2020"
+        },
+        {
+          "option": "2012"
+        }
+      ]
+    },
+    {
+      "question": "What type of stars does TESS primarily target?",
+      "options": [
+        {
+          "option": "Nearby bright stars",
+          "is_answer": true
+        },
+        {
+          "option": "Distant faint galaxies"
+        },
+        {
+          "option": "Only neutron stars"
+        },
+        {
+          "option": "Only red giants"
+        }
+      ]
+    },
+    {
+      "question": "What is the 'Habitable Zone'?",
+      "options": [
+        {
+          "option": "The outer edge of a galaxy"
+        },
+        {
+          "option": "The space between two stars"
+        },
+        {
+          "option": "The region where liquid water can exist on a planet",
+          "is_answer": true
+        },
+        {
+          "option": "The area closest to a black hole"
+        }
+      ]
+    },
+    {
+      "question": "Which mission was designed to find Earth-sized planets orbiting Sun-like stars?",
+      "options": [
+        {
+          "option": "Hubble"
+        },
+        {
+          "option": "James Webb"
+        },
+        {
+          "option": "TESS"
+        },
+        {
+          "option": "Kepler",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many cameras does TESS use to survey the sky?",
+      "options": [
+        {
+          "option": "One"
+        },
+        {
+          "option": "Eight"
+        },
+        {
+          "option": "Four",
+          "is_answer": true
+        },
+        {
+          "option": "Two"
+        }
+      ]
+    },
+    {
+      "question": "What was the main cause of the end of the Kepler mission?",
+      "options": [
+        {
+          "option": "Collision with debris"
+        },
+        {
+          "option": "Running out of fuel",
+          "is_answer": true
+        },
+        {
+          "option": "Loss of communication"
+        },
+        {
+          "option": "Solar panel failure"
+        }
+      ]
+    },
+    {
+      "question": "Which mission is considered the successor to Kepler in terms of transit surveys?",
+      "options": [
+        {
+          "option": "TESS",
+          "is_answer": true
+        },
+        {
+          "option": "Galileo"
+        },
+        {
+          "option": "Voyager"
+        },
+        {
+          "option": "Cassini"
+        }
+      ]
+    },
+    {
+      "question": "What is the primary data product produced by TESS?",
+      "options": [
+        {
+          "option": "Light curves",
+          "is_answer": true
+        },
+        {
+          "option": "Infrared images"
+        },
+        {
+          "option": "Radio signals"
+        },
+        {
+          "option": "Magnetic field maps"
+        }
+      ]
+    },
+    {
+      "question": "Kepler's mission was primarily focused on which type of stars?",
+      "options": [
+        {
+          "option": "Quasars"
+        },
+        {
+          "option": "White dwarfs"
+        },
+        {
+          "option": "Pulsars"
+        },
+        {
+          "option": "Main sequence stars",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the orbital period of a planet that causes a transit every 365 days?",
+      "options": [
+        {
+          "option": "One week"
+        },
+        {
+          "option": "One day"
+        },
+        {
+          "option": "One month"
+        },
+        {
+          "option": "One year",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the primary objective of the Artemis II mission?",
+      "options": [
+        {
+          "option": "A crewed lunar flyby",
+          "is_answer": true
+        },
+        {
+          "option": "Establishing a permanent base"
+        },
+        {
+          "option": "A robotic lunar landing"
+        },
+        {
+          "option": "Testing deep space mining"
+        }
+      ]
+    },
+    {
+      "question": "Which mission is planned to return humans to the lunar surface?",
+      "options": [
+        {
+          "option": "Artemis IV"
+        },
+        {
+          "option": "Artemis III",
+          "is_answer": true
+        },
+        {
+          "option": "Artemis V"
+        },
+        {
+          "option": "Artemis I"
+        }
+      ]
+    },
+    {
+      "question": "What does the acronym NISAR stand for?",
+      "options": [
+        {
+          "option": "NASA-ISRO Synthetic Aperture Radar",
+          "is_answer": true
+        },
+        {
+          "option": "National Indian Space Aperture Radar"
+        },
+        {
+          "option": "NASA-ISRO Science Analysis Radar"
+        },
+        {
+          "option": "NASA-ISRO Satellite Advanced Radar"
+        }
+      ]
+    },
+    {
+      "question": "Which two space agencies are collaborating on the NISAR mission?",
+      "options": [
+        {
+          "option": "NASA and ESA"
+        },
+        {
+          "option": "ISRO and JAXA"
+        },
+        {
+          "option": "NASA and ISRO",
+          "is_answer": true
+        },
+        {
+          "option": "ESA and Roscosmos"
+        }
+      ]
+    },
+    {
+      "question": "What type of radar system does NISAR utilize?",
+      "options": [
+        {
+          "option": "Dual-frequency radar",
+          "is_answer": true
+        },
+        {
+          "option": "Single-frequency radar"
+        },
+        {
+          "option": "Infrared thermal radar"
+        },
+        {
+          "option": "Optical imaging radar"
+        }
+      ]
+    },
+    {
+      "question": "Which region of the Moon is the primary target for Artemis III landing?",
+      "options": [
+        {
+          "option": "Lunar Equator"
+        },
+        {
+          "option": "Mare Tranquillitatis"
+        },
+        {
+          "option": "Lunar South Pole",
+          "is_answer": true
+        },
+        {
+          "option": "Far side of the Moon"
+        }
+      ]
+    },
+    {
+      "question": "What is the main purpose of the NISAR mission?",
+      "options": [
+        {
+          "option": "Earth observation",
+          "is_answer": true
+        },
+        {
+          "option": "Lunar mapping"
+        },
+        {
+          "option": "Mars exploration"
+        },
+        {
+          "option": "Asteroid tracking"
+        }
+      ]
+    },
+    {
+      "question": "Which rocket is designed to launch the Artemis missions?",
+      "options": [
+        {
+          "option": "Atlas V"
+        },
+        {
+          "option": "Starship"
+        },
+        {
+          "option": "Falcon Heavy"
+        },
+        {
+          "option": "Space Launch System (SLS)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "NISAR will use which two radar frequencies?",
+      "options": [
+        {
+          "option": "C-band and Ku-band"
+        },
+        {
+          "option": "VHF and UHF"
+        },
+        {
+          "option": "L-band and S-band",
+          "is_answer": true
+        },
+        {
+          "option": "X-band and K-band"
+        }
+      ]
+    },
+    {
+      "question": "What is the name of the spacecraft that will carry the Artemis II crew?",
+      "options": [
+        {
+          "option": "Dragon"
+        },
+        {
+          "option": "Starliner"
+        },
+        {
+          "option": "Orion",
+          "is_answer": true
+        },
+        {
+          "option": "Apollo"
+        }
+      ]
+    },
+    {
+      "question": "How often will NISAR be able to observe the entire Earth?",
+      "options": [
+        {
+          "option": "Every year"
+        },
+        {
+          "option": "Every month"
+        },
+        {
+          "option": "Every 12 days",
+          "is_answer": true
+        },
+        {
+          "option": "Every 24 hours"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a key scientific goal of the Artemis program?",
+      "options": [
+        {
+          "option": "Searching for alien life"
+        },
+        {
+          "option": "Building a space elevator"
+        },
+        {
+          "option": "Studying lunar water ice",
+          "is_answer": true
+        },
+        {
+          "option": "Mapping the solar system"
+        }
+      ]
+    },
+    {
+      "question": "What is the primary benefit of NISAR's dual-frequency radar?",
+      "options": [
+        {
+          "option": "Deep space communication"
+        },
+        {
+          "option": "High-resolution Earth surface imaging",
+          "is_answer": true
+        },
+        {
+          "option": "Atmospheric temperature measurement"
+        },
+        {
+          "option": "Solar flare monitoring"
+        }
+      ]
+    },
+    {
+      "question": "How many astronauts are planned for the Artemis II mission?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "NISAR is designed to monitor which of the following?",
+      "options": [
+        {
+          "option": "Solar wind speed"
+        },
+        {
+          "option": "Ecosystem disturbances and ice sheets",
+          "is_answer": true
+        },
+        {
+          "option": "Jupiter's moons"
+        },
+        {
+          "option": "Interstellar dust clouds"
+        }
+      ]
+    },
+    {
+      "question": "What is the name of the lunar gateway station associated with Artemis?",
+      "options": [
+        {
+          "option": "Moon Station One"
+        },
+        {
+          "option": "Lunar Base Alpha"
+        },
+        {
+          "option": "Lunar Gateway",
+          "is_answer": true
+        },
+        {
+          "option": "Artemis Hub"
+        }
+      ]
+    },
+    {
+      "question": "Which country is providing the launch vehicle for NISAR?",
+      "options": [
+        {
+          "option": "USA (NASA)"
+        },
+        {
+          "option": "India (ISRO)",
+          "is_answer": true
+        },
+        {
+          "option": "Japan (JAXA)"
+        },
+        {
+          "option": "Russia (Roscosmos)"
+        }
+      ]
+    },
+    {
+      "question": "What is the main goal of the Artemis III mission?",
+      "options": [
+        {
+          "option": "Landing humans on the Moon",
+          "is_answer": true
+        },
+        {
+          "option": "Orbiting Mars"
+        },
+        {
+          "option": "Building a space station"
+        },
+        {
+          "option": "Testing new solar panels"
+        }
+      ]
+    },
+    {
+      "question": "NISAR will help scientists understand which Earth process?",
+      "options": [
+        {
+          "option": "Ocean tide patterns only"
+        },
+        {
+          "option": "Deep sea volcanic activity"
+        },
+        {
+          "option": "Crustal deformation and climate change",
+          "is_answer": true
+        },
+        {
+          "option": "Solar radiation absorption"
+        }
+      ]
+    },
+    {
+      "question": "Which Artemis mission will be the first to include a woman and a person of color?",
+      "options": [
+        {
+          "option": "Artemis IV"
+        },
+        {
+          "option": "Artemis III",
+          "is_answer": true
+        },
+        {
+          "option": "Artemis I"
+        },
+        {
+          "option": "Artemis II"
+        }
+      ]
+    }
+  ]
+}

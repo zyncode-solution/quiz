@@ -1,0 +1,9005 @@
+{
+  "total_questions": 500,
+  "questions": [
+    {
+      "question": "Evaluate: 10 + 2 * 3",
+      "options": [
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "36"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: (10 + 2) * 3",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "36",
+          "is_answer": true
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: 20 - 4 / 2",
+      "options": [
+        {
+          "option": "18",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: (20 - 4) / 2",
+      "options": [
+        {
+          "option": "16"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: 5 + 5 * 5 - 5",
+      "options": [
+        {
+          "option": "25",
+          "is_answer": true
+        },
+        {
+          "option": "35"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "45"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: 12 / 3 * 2",
+      "options": [
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: 12 / (3 * 2)",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: 3^2 + 4",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "13",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: 2 * (3 + 1)^2",
+      "options": [
+        {
+          "option": "14"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "64"
+        },
+        {
+          "option": "32",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: 100 - 10 * 5 + 2",
+      "options": [
+        {
+          "option": "92"
+        },
+        {
+          "option": "52",
+          "is_answer": true
+        },
+        {
+          "option": "47"
+        },
+        {
+          "option": "452"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: 15 + 5 / 5",
+      "options": [
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: (15 + 5) / 5",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: 8 + 2 * 3^2",
+      "options": [
+        {
+          "option": "14"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "26",
+          "is_answer": true
+        },
+        {
+          "option": "90"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: 50 - 2 * (5 + 5)",
+      "options": [
+        {
+          "option": "30",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "480"
+        },
+        {
+          "option": "40"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: 6 / 2 * 3",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: 6 / (2 * 3)",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: 4 + 4 / 4 - 4",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: 2^3 - 2",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: 10 * 2 + 8 / 2",
+      "options": [
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "28"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: 10 * (2 + 8) / 2",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "28"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "50",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Convert the improper fraction 7/3 into a mixed number.",
+      "options": [
+        {
+          "option": "1 2/3"
+        },
+        {
+          "option": "2 1/3",
+          "is_answer": true
+        },
+        {
+          "option": "2 2/3"
+        },
+        {
+          "option": "3 1/2"
+        }
+      ]
+    },
+    {
+      "question": "What is 1/4 + 2/4?",
+      "options": [
+        {
+          "option": "3/8"
+        },
+        {
+          "option": "3/4",
+          "is_answer": true
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "2/8"
+        }
+      ]
+    },
+    {
+      "question": "Calculate: 3/5 * 2/3",
+      "options": [
+        {
+          "option": "2/5",
+          "is_answer": true
+        },
+        {
+          "option": "6/15"
+        },
+        {
+          "option": "5/8"
+        },
+        {
+          "option": "1/5"
+        }
+      ]
+    },
+    {
+      "question": "Convert 2 3/4 into an improper fraction.",
+      "options": [
+        {
+          "option": "10/4"
+        },
+        {
+          "option": "11/4",
+          "is_answer": true
+        },
+        {
+          "option": "8/4"
+        },
+        {
+          "option": "9/4"
+        }
+      ]
+    },
+    {
+      "question": "What is 5/6 - 1/6?",
+      "options": [
+        {
+          "option": "4/0"
+        },
+        {
+          "option": "4/12"
+        },
+        {
+          "option": "1/6"
+        },
+        {
+          "option": "2/3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Divide 1/2 by 1/4.",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "1/8"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a proper fraction?",
+      "options": [
+        {
+          "option": "3/4",
+          "is_answer": true
+        },
+        {
+          "option": "4/3"
+        },
+        {
+          "option": "7/2"
+        },
+        {
+          "option": "5/5"
+        }
+      ]
+    },
+    {
+      "question": "What is 1/2 + 1/3?",
+      "options": [
+        {
+          "option": "1/5"
+        },
+        {
+          "option": "2/6"
+        },
+        {
+          "option": "5/6",
+          "is_answer": true
+        },
+        {
+          "option": "2/5"
+        }
+      ]
+    },
+    {
+      "question": "Calculate: 4/7 divided by 2.",
+      "options": [
+        {
+          "option": "4/14"
+        },
+        {
+          "option": "2/14"
+        },
+        {
+          "option": "2/7",
+          "is_answer": true
+        },
+        {
+          "option": "8/7"
+        }
+      ]
+    },
+    {
+      "question": "Convert 15/4 to a mixed number.",
+      "options": [
+        {
+          "option": "4 1/4"
+        },
+        {
+          "option": "3 1/4"
+        },
+        {
+          "option": "2 3/4"
+        },
+        {
+          "option": "3 3/4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is 3/4 * 4/3?",
+      "options": [
+        {
+          "option": "7/7"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "12/12"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "Subtract 1/5 from 4/5.",
+      "options": [
+        {
+          "option": "5/5"
+        },
+        {
+          "option": "3/5",
+          "is_answer": true
+        },
+        {
+          "option": "3/0"
+        },
+        {
+          "option": "1/5"
+        }
+      ]
+    },
+    {
+      "question": "Which fraction is equivalent to 1/2?",
+      "options": [
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "2/1"
+        },
+        {
+          "option": "3/2"
+        },
+        {
+          "option": "2/4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is 2/3 * 3/4?",
+      "options": [
+        {
+          "option": "5/7"
+        },
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "1/2",
+          "is_answer": true
+        },
+        {
+          "option": "6/7"
+        }
+      ]
+    },
+    {
+      "question": "Convert 5 1/2 into an improper fraction.",
+      "options": [
+        {
+          "option": "6/2"
+        },
+        {
+          "option": "5/2"
+        },
+        {
+          "option": "10/2"
+        },
+        {
+          "option": "11/2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is 7/8 - 3/8?",
+      "options": [
+        {
+          "option": "1/2",
+          "is_answer": true
+        },
+        {
+          "option": "4/0"
+        },
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "4/16"
+        }
+      ]
+    },
+    {
+      "question": "Divide 3/4 by 3/4.",
+      "options": [
+        {
+          "option": "9/16"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "3/4"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is an improper fraction?",
+      "options": [
+        {
+          "option": "5/9"
+        },
+        {
+          "option": "3/4"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "9/5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is 1/5 + 2/5?",
+      "options": [
+        {
+          "option": "1/5"
+        },
+        {
+          "option": "3/10"
+        },
+        {
+          "option": "3/5",
+          "is_answer": true
+        },
+        {
+          "option": "2/5"
+        }
+      ]
+    },
+    {
+      "question": "Calculate: 1/3 * 6.",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "6/3"
+        },
+        {
+          "option": "1/18"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "What is the HCF of 12 and 18?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "Using prime factorization, what is the HCF of 24 and 36?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the HCF of 15 and 25?",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "Find the HCF of 48 and 60 using the Euclidean algorithm.",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "Simplify the fraction 14/21 by dividing both by their HCF.",
+      "options": [
+        {
+          "option": "7/10"
+        },
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "2/3",
+          "is_answer": true
+        },
+        {
+          "option": "2/7"
+        }
+      ]
+    },
+    {
+      "question": "What is the HCF of two prime numbers, 7 and 11?",
+      "options": [
+        {
+          "option": "77"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "11"
+        }
+      ]
+    },
+    {
+      "question": "Find the HCF of 20, 30, and 40.",
+      "options": [
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "What is the HCF of 100 and 150?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "75"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "50",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Simplify the fraction 25/75.",
+      "options": [
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "1/5"
+        },
+        {
+          "option": "1/3",
+          "is_answer": true
+        },
+        {
+          "option": "5/15"
+        }
+      ]
+    },
+    {
+      "question": "What is the HCF of 18, 27, and 36?",
+      "options": [
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "The HCF of two numbers is 8. Which of these could be the numbers?",
+      "options": [
+        {
+          "option": "16 and 24",
+          "is_answer": true
+        },
+        {
+          "option": "8 and 10"
+        },
+        {
+          "option": "12 and 20"
+        },
+        {
+          "option": "4 and 12"
+        }
+      ]
+    },
+    {
+      "question": "What is the HCF of 13 and 39?",
+      "options": [
+        {
+          "option": "13",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "39"
+        }
+      ]
+    },
+    {
+      "question": "Find the HCF of 56 and 70.",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "14",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "Simplify 42/56 using their HCF.",
+      "options": [
+        {
+          "option": "6/8"
+        },
+        {
+          "option": "3/4",
+          "is_answer": true
+        },
+        {
+          "option": "2/3"
+        },
+        {
+          "option": "7/8"
+        }
+      ]
+    },
+    {
+      "question": "What is the HCF of 17 and 23?",
+      "options": [
+        {
+          "option": "23"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "17"
+        },
+        {
+          "option": "391"
+        }
+      ]
+    },
+    {
+      "question": "Find the HCF of 81 and 27.",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "81"
+        },
+        {
+          "option": "27",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "What is the HCF of 45 and 60?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the HCF of two numbers is 1, they are called:",
+      "options": [
+        {
+          "option": "Co-prime",
+          "is_answer": true
+        },
+        {
+          "option": "Composite"
+        },
+        {
+          "option": "Even"
+        },
+        {
+          "option": "Prime"
+        }
+      ]
+    },
+    {
+      "question": "What is the HCF of 14, 28, and 42?",
+      "options": [
+        {
+          "option": "14",
+          "is_answer": true
+        },
+        {
+          "option": "21"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "Simplify 30/45.",
+      "options": [
+        {
+          "option": "5/9"
+        },
+        {
+          "option": "2/3",
+          "is_answer": true
+        },
+        {
+          "option": "3/5"
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is the smallest prime number?",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "What is the prime factorization of 12?",
+      "options": [
+        {
+          "option": "3 * 4"
+        },
+        {
+          "option": "2^2 * 3",
+          "is_answer": true
+        },
+        {
+          "option": "2 * 2 * 2"
+        },
+        {
+          "option": "2 * 6"
+        }
+      ]
+    },
+    {
+      "question": "Which number is neither prime nor composite?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "What is the only even prime number?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "According to the Fundamental Theorem of Arithmetic, every integer greater than 1 can be represented as a product of what?",
+      "options": [
+        {
+          "option": "Odd numbers"
+        },
+        {
+          "option": "Prime numbers",
+          "is_answer": true
+        },
+        {
+          "option": "Even numbers"
+        },
+        {
+          "option": "Composite numbers"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a prime number?",
+      "options": [
+        {
+          "option": "27"
+        },
+        {
+          "option": "21"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "13",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The Sieve of Eratosthenes is an ancient algorithm used to find what?",
+      "options": [
+        {
+          "option": "Even numbers"
+        },
+        {
+          "option": "Multiples of 5"
+        },
+        {
+          "option": "Square roots"
+        },
+        {
+          "option": "Prime numbers",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the prime factorization of 30?",
+      "options": [
+        {
+          "option": "2 * 3 * 5",
+          "is_answer": true
+        },
+        {
+          "option": "2 * 15"
+        },
+        {
+          "option": "3 * 10"
+        },
+        {
+          "option": "5 * 6"
+        }
+      ]
+    },
+    {
+      "question": "How many prime numbers are there between 1 and 10?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is a composite number?",
+      "options": [
+        {
+          "option": "11"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the prime factorization of 100?",
+      "options": [
+        {
+          "option": "2^2 * 5^2",
+          "is_answer": true
+        },
+        {
+          "option": "10 * 10"
+        },
+        {
+          "option": "4 * 25"
+        },
+        {
+          "option": "2 * 50"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is NOT a prime number?",
+      "options": [
+        {
+          "option": "17"
+        },
+        {
+          "option": "23"
+        },
+        {
+          "option": "21",
+          "is_answer": true
+        },
+        {
+          "option": "19"
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of the first three prime numbers?",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "Which number is the only prime number ending in 5?",
+      "options": [
+        {
+          "option": "35"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "What is the prime factorization of 18?",
+      "options": [
+        {
+          "option": "2 * 3 * 3"
+        },
+        {
+          "option": "2 * 9"
+        },
+        {
+          "option": "2 * 3^2",
+          "is_answer": true
+        },
+        {
+          "option": "3 * 6"
+        }
+      ]
+    },
+    {
+      "question": "A prime number has exactly how many factors?",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a pair of twin primes?",
+      "options": [
+        {
+          "option": "3 and 5",
+          "is_answer": true
+        },
+        {
+          "option": "7 and 11"
+        },
+        {
+          "option": "2 and 3"
+        },
+        {
+          "option": "13 and 19"
+        }
+      ]
+    },
+    {
+      "question": "What is the prime factorization of 42?",
+      "options": [
+        {
+          "option": "2 * 3 * 7",
+          "is_answer": true
+        },
+        {
+          "option": "2 * 21"
+        },
+        {
+          "option": "3 * 14"
+        },
+        {
+          "option": "6 * 7"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is a prime number?",
+      "options": [
+        {
+          "option": "33"
+        },
+        {
+          "option": "39"
+        },
+        {
+          "option": "35"
+        },
+        {
+          "option": "31",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the prime factorization of 20?",
+      "options": [
+        {
+          "option": "2 * 2 * 2 * 2"
+        },
+        {
+          "option": "2^2 * 5",
+          "is_answer": true
+        },
+        {
+          "option": "2 * 10"
+        },
+        {
+          "option": "4 * 5"
+        }
+      ]
+    },
+    {
+      "question": "What is the place value of the digit 7 in the number 45.672?",
+      "options": [
+        {
+          "option": "Units"
+        },
+        {
+          "option": "Hundredths",
+          "is_answer": true
+        },
+        {
+          "option": "Tenths"
+        },
+        {
+          "option": "Thousandths"
+        }
+      ]
+    },
+    {
+      "question": "What is 0.5 + 0.25?",
+      "options": [
+        {
+          "option": "0.30"
+        },
+        {
+          "option": "0.70"
+        },
+        {
+          "option": "0.80"
+        },
+        {
+          "option": "0.75",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Round 4.567 to the nearest tenth.",
+      "options": [
+        {
+          "option": "4.5"
+        },
+        {
+          "option": "4.7"
+        },
+        {
+          "option": "4.6",
+          "is_answer": true
+        },
+        {
+          "option": "4.57"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is a terminating decimal?",
+      "options": [
+        {
+          "option": "0.666..."
+        },
+        {
+          "option": "0.25",
+          "is_answer": true
+        },
+        {
+          "option": "0.1414..."
+        },
+        {
+          "option": "0.333..."
+        }
+      ]
+    },
+    {
+      "question": "What is 1.2 multiplied by 0.3?",
+      "options": [
+        {
+          "option": "3.6"
+        },
+        {
+          "option": "0.36",
+          "is_answer": true
+        },
+        {
+          "option": "0.39"
+        },
+        {
+          "option": "0.036"
+        }
+      ]
+    },
+    {
+      "question": "Convert 3/4 into a decimal.",
+      "options": [
+        {
+          "option": "0.8"
+        },
+        {
+          "option": "0.43"
+        },
+        {
+          "option": "0.75",
+          "is_answer": true
+        },
+        {
+          "option": "0.7"
+        }
+      ]
+    },
+    {
+      "question": "What is 5.0 - 2.35?",
+      "options": [
+        {
+          "option": "3.35"
+        },
+        {
+          "option": "2.75"
+        },
+        {
+          "option": "2.35"
+        },
+        {
+          "option": "2.65",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Round 12.345 to the nearest hundredth.",
+      "options": [
+        {
+          "option": "12.35",
+          "is_answer": true
+        },
+        {
+          "option": "12.4"
+        },
+        {
+          "option": "12.34"
+        },
+        {
+          "option": "12.3"
+        }
+      ]
+    },
+    {
+      "question": "Which decimal is larger: 0.4 or 0.39?",
+      "options": [
+        {
+          "option": "They are equal"
+        },
+        {
+          "option": "0.4",
+          "is_answer": true
+        },
+        {
+          "option": "Cannot be determined"
+        },
+        {
+          "option": "0.39"
+        }
+      ]
+    },
+    {
+      "question": "What is 0.8 divided by 2?",
+      "options": [
+        {
+          "option": "0.82"
+        },
+        {
+          "option": "0.4",
+          "is_answer": true
+        },
+        {
+          "option": "0.04"
+        },
+        {
+          "option": "4.0"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of 0.1 x 0.1?",
+      "options": [
+        {
+          "option": "0.001"
+        },
+        {
+          "option": "0.01",
+          "is_answer": true
+        },
+        {
+          "option": "0.1"
+        },
+        {
+          "option": "1.0"
+        }
+      ]
+    },
+    {
+      "question": "Which fraction is equivalent to 0.5?",
+      "options": [
+        {
+          "option": "1/2",
+          "is_answer": true
+        },
+        {
+          "option": "1/5"
+        },
+        {
+          "option": "5/100"
+        },
+        {
+          "option": "2/5"
+        }
+      ]
+    },
+    {
+      "question": "Round 0.99 to the nearest whole number.",
+      "options": [
+        {
+          "option": "1.1"
+        },
+        {
+          "option": "0.9"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "What is 2.5 + 3.7?",
+      "options": [
+        {
+          "option": "5.2"
+        },
+        {
+          "option": "6.2",
+          "is_answer": true
+        },
+        {
+          "option": "5.12"
+        },
+        {
+          "option": "6.12"
+        }
+      ]
+    },
+    {
+      "question": "How do you write 7/100 as a decimal?",
+      "options": [
+        {
+          "option": "0.7"
+        },
+        {
+          "option": "0.07",
+          "is_answer": true
+        },
+        {
+          "option": "0.007"
+        },
+        {
+          "option": "7.0"
+        }
+      ]
+    },
+    {
+      "question": "What is 10.0 divided by 0.1?",
+      "options": [
+        {
+          "option": "0.1"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "100",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a non-terminating decimal?",
+      "options": [
+        {
+          "option": "0.333...",
+          "is_answer": true
+        },
+        {
+          "option": "0.125"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0.25"
+        }
+      ]
+    },
+    {
+      "question": "What is 4.2 - 1.1?",
+      "options": [
+        {
+          "option": "3.1",
+          "is_answer": true
+        },
+        {
+          "option": "4.1"
+        },
+        {
+          "option": "3.2"
+        },
+        {
+          "option": "3.0"
+        }
+      ]
+    },
+    {
+      "question": "What is the place value of 5 in 0.005?",
+      "options": [
+        {
+          "option": "Units"
+        },
+        {
+          "option": "Hundredths"
+        },
+        {
+          "option": "Thousandths",
+          "is_answer": true
+        },
+        {
+          "option": "Tenths"
+        }
+      ]
+    },
+    {
+      "question": "Round 5.444 to the nearest tenth.",
+      "options": [
+        {
+          "option": "5.4",
+          "is_answer": true
+        },
+        {
+          "option": "5.0"
+        },
+        {
+          "option": "5.44"
+        },
+        {
+          "option": "5.5"
+        }
+      ]
+    },
+    {
+      "question": "What is the LCM of 12 and 18?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "36",
+          "is_answer": true
+        },
+        {
+          "option": "72"
+        }
+      ]
+    },
+    {
+      "question": "If the product of two numbers is 120 and their HCF is 4, what is their LCM?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "480"
+        },
+        {
+          "option": "30",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "What is the LCM of 8, 12, and 20?",
+      "options": [
+        {
+          "option": "60"
+        },
+        {
+          "option": "240"
+        },
+        {
+          "option": "120",
+          "is_answer": true
+        },
+        {
+          "option": "40"
+        }
+      ]
+    },
+    {
+      "question": "The prime factorization of two numbers are 2^3 * 3^2 and 2^2 * 3^3. What is their LCM?",
+      "options": [
+        {
+          "option": "2^6 * 3^6"
+        },
+        {
+          "option": "2^3 * 3^3",
+          "is_answer": true
+        },
+        {
+          "option": "2^2 * 3^2"
+        },
+        {
+          "option": "2^5 * 3^5"
+        }
+      ]
+    },
+    {
+      "question": "What is the LCM of two prime numbers, 7 and 11?",
+      "options": [
+        {
+          "option": "77",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "If LCM(a, b) = 60 and HCF(a, b) = 5, and one number is 15, what is the other number?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "300"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "75"
+        }
+      ]
+    },
+    {
+      "question": "What is the LCM of 15, 25, and 30?",
+      "options": [
+        {
+          "option": "45"
+        },
+        {
+          "option": "75"
+        },
+        {
+          "option": "150",
+          "is_answer": true
+        },
+        {
+          "option": "300"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is always true for two positive integers a and b?",
+      "options": [
+        {
+          "option": "a - b = LCM(a, b) - HCF(a, b)"
+        },
+        {
+          "option": "a + b = LCM(a, b) + HCF(a, b)"
+        },
+        {
+          "option": "a / b = LCM(a, b) / HCF(a, b)"
+        },
+        {
+          "option": "a * b = LCM(a, b) * HCF(a, b)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the LCM of 10, 15, and 20?",
+      "options": [
+        {
+          "option": "60",
+          "is_answer": true
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "200"
+        }
+      ]
+    },
+    {
+      "question": "Find the LCM of 24 and 36.",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "72",
+          "is_answer": true
+        },
+        {
+          "option": "144"
+        }
+      ]
+    },
+    {
+      "question": "What is the LCM of 5, 10, and 15?",
+      "options": [
+        {
+          "option": "45"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "30",
+          "is_answer": true
+        },
+        {
+          "option": "60"
+        }
+      ]
+    },
+    {
+      "question": "The LCM of two numbers is 180 and their HCF is 12. If one number is 36, what is the other?",
+      "options": [
+        {
+          "option": "72"
+        },
+        {
+          "option": "60",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "What is the LCM of 9 and 12?",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "108"
+        },
+        {
+          "option": "72"
+        },
+        {
+          "option": "36",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the LCM of 4, 6, and 8?",
+      "options": [
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "48"
+        }
+      ]
+    },
+    {
+      "question": "If HCF of two numbers is 1, the numbers are called:",
+      "options": [
+        {
+          "option": "Co-prime",
+          "is_answer": true
+        },
+        {
+          "option": "Odd"
+        },
+        {
+          "option": "Composite"
+        },
+        {
+          "option": "Even"
+        }
+      ]
+    },
+    {
+      "question": "What is the LCM of 14 and 21?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "21"
+        },
+        {
+          "option": "84"
+        },
+        {
+          "option": "42",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the LCM of 16 and 24.",
+      "options": [
+        {
+          "option": "32"
+        },
+        {
+          "option": "96"
+        },
+        {
+          "option": "48",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "What is the LCM of 3, 4, and 5?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "60",
+          "is_answer": true
+        },
+        {
+          "option": "120"
+        }
+      ]
+    },
+    {
+      "question": "The LCM of two consecutive numbers (n and n+1) is:",
+      "options": [
+        {
+          "option": "n * (n+1)",
+          "is_answer": true
+        },
+        {
+          "option": "n + (n+1)"
+        },
+        {
+          "option": "n+1"
+        },
+        {
+          "option": "n"
+        }
+      ]
+    },
+    {
+      "question": "What is the LCM of 20 and 30?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "60",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "120"
+        }
+      ]
+    },
+    {
+      "question": "What is the unit digit of 7^4?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "What is the unit digit of 2^10?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "What is the unit digit of 3^13?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the unit digit of 4^101?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "What is the unit digit of 9^50?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the unit digit of 8^5?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "What is the unit digit of 7^100?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "What is the unit digit of 2^202?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "What is the unit digit of 3^20?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the unit digit of 8^40?",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "What is the unit digit of 4^2023?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the unit digit of 9^101?",
+      "options": [
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "What is the unit digit of 2^3 * 3^2?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "What is the unit digit of 7^2 * 8^2?",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "What is the unit digit of 3^4 + 2^4?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "What is the unit digit of 7^5?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the unit digit of 8^12?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the unit digit of 2^5 * 3^5?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "What is the unit digit of 9^2 + 4^2?",
+      "options": [
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "What is the unit digit of 3^3 * 7^3?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following numbers is divisible by 2?",
+      "options": [
+        {
+          "option": "457"
+        },
+        {
+          "option": "459"
+        },
+        {
+          "option": "456",
+          "is_answer": true
+        },
+        {
+          "option": "461"
+        }
+      ]
+    },
+    {
+      "question": "A number is divisible by 3 if the sum of its digits is divisible by:",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "A number is divisible by 4 if its last two digits are divisible by:",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following numbers is divisible by 5?",
+      "options": [
+        {
+          "option": "122"
+        },
+        {
+          "option": "127"
+        },
+        {
+          "option": "125",
+          "is_answer": true
+        },
+        {
+          "option": "123"
+        }
+      ]
+    },
+    {
+      "question": "A number is divisible by 6 if it is divisible by both:",
+      "options": [
+        {
+          "option": "2 and 5"
+        },
+        {
+          "option": "2 and 3",
+          "is_answer": true
+        },
+        {
+          "option": "3 and 4"
+        },
+        {
+          "option": "2 and 4"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following numbers is divisible by 9?",
+      "options": [
+        {
+          "option": "730"
+        },
+        {
+          "option": "728"
+        },
+        {
+          "option": "731"
+        },
+        {
+          "option": "729",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A number is divisible by 10 if its last digit is:",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "A number is divisible by 8 if its last three digits are divisible by:",
+      "options": [
+        {
+          "option": "16"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following numbers is divisible by 11?",
+      "options": [
+        {
+          "option": "122"
+        },
+        {
+          "option": "123"
+        },
+        {
+          "option": "124"
+        },
+        {
+          "option": "121",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A number is divisible by 12 if it is divisible by both:",
+      "options": [
+        {
+          "option": "2 and 6"
+        },
+        {
+          "option": "4 and 6"
+        },
+        {
+          "option": "2 and 3"
+        },
+        {
+          "option": "3 and 4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of the following numbers is divisible by 7?",
+      "options": [
+        {
+          "option": "50"
+        },
+        {
+          "option": "49",
+          "is_answer": true
+        },
+        {
+          "option": "51"
+        },
+        {
+          "option": "52"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following numbers is divisible by 13?",
+      "options": [
+        {
+          "option": "28"
+        },
+        {
+          "option": "26",
+          "is_answer": true
+        },
+        {
+          "option": "27"
+        },
+        {
+          "option": "29"
+        }
+      ]
+    },
+    {
+      "question": "Is 100 divisible by 4?",
+      "options": [
+        {
+          "option": "No"
+        },
+        {
+          "option": "Maybe"
+        },
+        {
+          "option": "Yes",
+          "is_answer": true
+        },
+        {
+          "option": "Only if divided by 2"
+        }
+      ]
+    },
+    {
+      "question": "A number is divisible by 9 if the sum of its digits is a multiple of:",
+      "options": [
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "Which of these numbers is divisible by 2, 3, and 5?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "30",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "A number ending in 0 is always divisible by:",
+      "options": [
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "13"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is divisible by 8?",
+      "options": [
+        {
+          "option": "164"
+        },
+        {
+          "option": "162"
+        },
+        {
+          "option": "166"
+        },
+        {
+          "option": "160",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A number is divisible by 2 if its last digit is:",
+      "options": [
+        {
+          "option": "Multiple of 3"
+        },
+        {
+          "option": "Odd"
+        },
+        {
+          "option": "Prime"
+        },
+        {
+          "option": "Even",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is divisible by 3?",
+      "options": [
+        {
+          "option": "112"
+        },
+        {
+          "option": "118"
+        },
+        {
+          "option": "115"
+        },
+        {
+          "option": "111",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Is 143 divisible by 11?",
+      "options": [
+        {
+          "option": "Only by 13"
+        },
+        {
+          "option": "Yes",
+          "is_answer": true
+        },
+        {
+          "option": "Only by 7"
+        },
+        {
+          "option": "No"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of 5 cubed (5^3)?",
+      "options": [
+        {
+          "option": "125",
+          "is_answer": true
+        },
+        {
+          "option": "625"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "150"
+        }
+      ]
+    },
+    {
+      "question": "What is the cube root of 27?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is a perfect cube?",
+      "options": [
+        {
+          "option": "64",
+          "is_answer": true
+        },
+        {
+          "option": "80"
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "100"
+        }
+      ]
+    },
+    {
+      "question": "What is the cube of 10?",
+      "options": [
+        {
+          "option": "1000",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "10000"
+        }
+      ]
+    },
+    {
+      "question": "What is the cube root of 1000?",
+      "options": [
+        {
+          "option": "100"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "50"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If a number ends in 7, what is the last digit of its cube?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of 8 cubed (8^3)?",
+      "options": [
+        {
+          "option": "448"
+        },
+        {
+          "option": "256"
+        },
+        {
+          "option": "64"
+        },
+        {
+          "option": "512",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the cube root of 216?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the cube of 12?",
+      "options": [
+        {
+          "option": "144"
+        },
+        {
+          "option": "1200"
+        },
+        {
+          "option": "1728",
+          "is_answer": true
+        },
+        {
+          "option": "1600"
+        }
+      ]
+    },
+    {
+      "question": "What is the cube root of 343?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "17"
+        },
+        {
+          "option": "13"
+        }
+      ]
+    },
+    {
+      "question": "What is the cube of 20?",
+      "options": [
+        {
+          "option": "8000",
+          "is_answer": true
+        },
+        {
+          "option": "400"
+        },
+        {
+          "option": "2000"
+        },
+        {
+          "option": "4000"
+        }
+      ]
+    },
+    {
+      "question": "What is the cube root of 1331?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "11",
+          "is_answer": true
+        },
+        {
+          "option": "19"
+        },
+        {
+          "option": "13"
+        }
+      ]
+    },
+    {
+      "question": "If a number ends in 2, what is the last digit of its cube?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "What is the cube of 9?",
+      "options": [
+        {
+          "option": "243"
+        },
+        {
+          "option": "729",
+          "is_answer": true
+        },
+        {
+          "option": "656"
+        },
+        {
+          "option": "81"
+        }
+      ]
+    },
+    {
+      "question": "What is the cube root of 512?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the cube of 15?",
+      "options": [
+        {
+          "option": "3000"
+        },
+        {
+          "option": "3375",
+          "is_answer": true
+        },
+        {
+          "option": "1500"
+        },
+        {
+          "option": "225"
+        }
+      ]
+    },
+    {
+      "question": "What is the cube root of 1728?",
+      "options": [
+        {
+          "option": "14"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the cube of 4?",
+      "options": [
+        {
+          "option": "32"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "64",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the cube root of 64?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the cube of 13?",
+      "options": [
+        {
+          "option": "2000"
+        },
+        {
+          "option": "169"
+        },
+        {
+          "option": "1300"
+        },
+        {
+          "option": "2197",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the square of 12?",
+      "options": [
+        {
+          "option": "122"
+        },
+        {
+          "option": "154"
+        },
+        {
+          "option": "144",
+          "is_answer": true
+        },
+        {
+          "option": "169"
+        }
+      ]
+    },
+    {
+      "question": "What is the square root of 225?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "35"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is a perfect square?",
+      "options": [
+        {
+          "option": "60"
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "50"
+        },
+        {
+          "option": "49",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the square root of 400 using prime factorization.",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Between which two integers does the square root of 10 lie?",
+      "options": [
+        {
+          "option": "2 and 3"
+        },
+        {
+          "option": "1 and 2"
+        },
+        {
+          "option": "4 and 5"
+        },
+        {
+          "option": "3 and 4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the square of 25?",
+      "options": [
+        {
+          "option": "550"
+        },
+        {
+          "option": "625",
+          "is_answer": true
+        },
+        {
+          "option": "525"
+        },
+        {
+          "option": "650"
+        }
+      ]
+    },
+    {
+      "question": "Which number is the square root of 196?",
+      "options": [
+        {
+          "option": "14",
+          "is_answer": true
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "What is the square root of 64?",
+      "options": [
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is NOT a perfect square?",
+      "options": [
+        {
+          "option": "49"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "36"
+        }
+      ]
+    },
+    {
+      "question": "The square root of 81 is:",
+      "options": [
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "11"
+        }
+      ]
+    },
+    {
+      "question": "What is the square of 7?",
+      "options": [
+        {
+          "option": "42"
+        },
+        {
+          "option": "35"
+        },
+        {
+          "option": "49",
+          "is_answer": true
+        },
+        {
+          "option": "14"
+        }
+      ]
+    },
+    {
+      "question": "Estimate the square root of 50 to the nearest whole number.",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "What is the square root of 100?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "50"
+        }
+      ]
+    },
+    {
+      "question": "Which number squared equals 169?",
+      "options": [
+        {
+          "option": "13",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "17"
+        },
+        {
+          "option": "14"
+        }
+      ]
+    },
+    {
+      "question": "What is the square of 20?",
+      "options": [
+        {
+          "option": "400",
+          "is_answer": true
+        },
+        {
+          "option": "800"
+        },
+        {
+          "option": "200"
+        },
+        {
+          "option": "40"
+        }
+      ]
+    },
+    {
+      "question": "The square root of 1 is:",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is equal to 36?",
+      "options": [
+        {
+          "option": "6 squared",
+          "is_answer": true
+        },
+        {
+          "option": "12 times 3"
+        },
+        {
+          "option": "9 times 3"
+        },
+        {
+          "option": "18 times 2"
+        }
+      ]
+    },
+    {
+      "question": "What is the square root of 256?",
+      "options": [
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "What is the square of 9?",
+      "options": [
+        {
+          "option": "90"
+        },
+        {
+          "option": "81",
+          "is_answer": true
+        },
+        {
+          "option": "72"
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "Which number is a perfect square between 10 and 20?",
+      "options": [
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "Simplify the ratio 12:18.",
+      "options": [
+        {
+          "option": "3:4"
+        },
+        {
+          "option": "4:6"
+        },
+        {
+          "option": "1:2"
+        },
+        {
+          "option": "2:3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Divide 20 in the ratio 2:3.",
+      "options": [
+        {
+          "option": "5 and 15"
+        },
+        {
+          "option": "6 and 14"
+        },
+        {
+          "option": "8 and 12",
+          "is_answer": true
+        },
+        {
+          "option": "10 and 10"
+        }
+      ]
+    },
+    {
+      "question": "If A:B = 1:2 and B:C = 3:4, find A:B:C.",
+      "options": [
+        {
+          "option": "1:3:4"
+        },
+        {
+          "option": "3:6:8",
+          "is_answer": true
+        },
+        {
+          "option": "1:2:4"
+        },
+        {
+          "option": "3:2:4"
+        }
+      ]
+    },
+    {
+      "question": "Simplify the ratio 25:100.",
+      "options": [
+        {
+          "option": "1:4",
+          "is_answer": true
+        },
+        {
+          "option": "1:5"
+        },
+        {
+          "option": "1:3"
+        },
+        {
+          "option": "2:5"
+        }
+      ]
+    },
+    {
+      "question": "Divide 45 into three parts in the ratio 1:2:2.",
+      "options": [
+        {
+          "option": "10, 15, 20"
+        },
+        {
+          "option": "5, 20, 20"
+        },
+        {
+          "option": "15, 15, 15"
+        },
+        {
+          "option": "9, 18, 18",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Simplify 0.5 : 1.5.",
+      "options": [
+        {
+          "option": "1:3",
+          "is_answer": true
+        },
+        {
+          "option": "1:4"
+        },
+        {
+          "option": "1:2"
+        },
+        {
+          "option": "2:3"
+        }
+      ]
+    },
+    {
+      "question": "If x:y = 3:5 and y:z = 2:3, what is x:z?",
+      "options": [
+        {
+          "option": "2:5",
+          "is_answer": true
+        },
+        {
+          "option": "3:2"
+        },
+        {
+          "option": "5:6"
+        },
+        {
+          "option": "1:2"
+        }
+      ]
+    },
+    {
+      "question": "Divide 60 in the ratio 7:5.",
+      "options": [
+        {
+          "option": "35 and 25",
+          "is_answer": true
+        },
+        {
+          "option": "40 and 20"
+        },
+        {
+          "option": "30 and 30"
+        },
+        {
+          "option": "42 and 18"
+        }
+      ]
+    },
+    {
+      "question": "Simplify 1/2 : 1/3.",
+      "options": [
+        {
+          "option": "2:3"
+        },
+        {
+          "option": "1:6"
+        },
+        {
+          "option": "3:2",
+          "is_answer": true
+        },
+        {
+          "option": "6:1"
+        }
+      ]
+    },
+    {
+      "question": "If 3A = 2B, find A:B.",
+      "options": [
+        {
+          "option": "4:6"
+        },
+        {
+          "option": "1:1"
+        },
+        {
+          "option": "2:3",
+          "is_answer": true
+        },
+        {
+          "option": "3:2"
+        }
+      ]
+    },
+    {
+      "question": "Divide 100 into ratio 1:4.",
+      "options": [
+        {
+          "option": "20 and 80",
+          "is_answer": true
+        },
+        {
+          "option": "25 and 75"
+        },
+        {
+          "option": "40 and 60"
+        },
+        {
+          "option": "10 and 90"
+        }
+      ]
+    },
+    {
+      "question": "Simplify 400g : 2kg.",
+      "options": [
+        {
+          "option": "1:5",
+          "is_answer": true
+        },
+        {
+          "option": "1:2"
+        },
+        {
+          "option": "4:20"
+        },
+        {
+          "option": "2:5"
+        }
+      ]
+    },
+    {
+      "question": "If A:B:C = 2:3:5 and the sum is 100, what is B?",
+      "options": [
+        {
+          "option": "50"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "30",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Simplify 1.2 : 0.4.",
+      "options": [
+        {
+          "option": "2:1"
+        },
+        {
+          "option": "4:12"
+        },
+        {
+          "option": "1:3"
+        },
+        {
+          "option": "3:1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Divide 72 in the ratio 5:4.",
+      "options": [
+        {
+          "option": "36 and 36"
+        },
+        {
+          "option": "50 and 22"
+        },
+        {
+          "option": "45 and 27"
+        },
+        {
+          "option": "40 and 32",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Simplify 15 minutes : 1 hour.",
+      "options": [
+        {
+          "option": "15:1"
+        },
+        {
+          "option": "1:6"
+        },
+        {
+          "option": "1:4",
+          "is_answer": true
+        },
+        {
+          "option": "1:15"
+        }
+      ]
+    },
+    {
+      "question": "If A:B = 2:5 and B:C = 5:3, find A:C.",
+      "options": [
+        {
+          "option": "2:3",
+          "is_answer": true
+        },
+        {
+          "option": "5:2"
+        },
+        {
+          "option": "1:1"
+        },
+        {
+          "option": "3:2"
+        }
+      ]
+    },
+    {
+      "question": "Divide 84 in the ratio 3:4.",
+      "options": [
+        {
+          "option": "42 and 42"
+        },
+        {
+          "option": "36 and 48",
+          "is_answer": true
+        },
+        {
+          "option": "28 and 56"
+        },
+        {
+          "option": "30 and 54"
+        }
+      ]
+    },
+    {
+      "question": "Simplify 10:20:30.",
+      "options": [
+        {
+          "option": "10:2:3"
+        },
+        {
+          "option": "1:1:1"
+        },
+        {
+          "option": "1:2:3",
+          "is_answer": true
+        },
+        {
+          "option": "2:4:6"
+        }
+      ]
+    },
+    {
+      "question": "If 2A = 3B = 4C, find A:B:C.",
+      "options": [
+        {
+          "option": "3:2:1"
+        },
+        {
+          "option": "4:3:2"
+        },
+        {
+          "option": "6:4:3",
+          "is_answer": true
+        },
+        {
+          "option": "2:3:4"
+        }
+      ]
+    },
+    {
+      "question": "If 5 pens cost 25 rupees, what is the cost of 8 pens?",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "40",
+          "is_answer": true
+        },
+        {
+          "option": "45"
+        },
+        {
+          "option": "35"
+        }
+      ]
+    },
+    {
+      "question": "If 10 workers can build a wall in 6 days, how many days will 15 workers take to build the same wall?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "A car travels 120 km in 2 hours. How far will it travel in 5 hours at the same speed?",
+      "options": [
+        {
+          "option": "300",
+          "is_answer": true
+        },
+        {
+          "option": "360"
+        },
+        {
+          "option": "240"
+        },
+        {
+          "option": "200"
+        }
+      ]
+    },
+    {
+      "question": "If 4 kg of sugar costs 160 rupees, what is the cost of 1 kg of sugar?",
+      "options": [
+        {
+          "option": "40",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "50"
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "If 6 pipes can fill a tank in 20 minutes, how long will 8 pipes take to fill the same tank?",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If 3 books cost 450 rupees, what is the cost of 7 books?",
+      "options": [
+        {
+          "option": "900"
+        },
+        {
+          "option": "1200"
+        },
+        {
+          "option": "750"
+        },
+        {
+          "option": "1050",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A train covers 300 km in 4 hours. How much time will it take to cover 450 km?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If 12 men can finish a task in 10 days, how many men are needed to finish it in 5 days?",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "If 2 liters of milk cost 100 rupees, what is the cost of 5 liters?",
+      "options": [
+        {
+          "option": "200"
+        },
+        {
+          "option": "250",
+          "is_answer": true
+        },
+        {
+          "option": "150"
+        },
+        {
+          "option": "300"
+        }
+      ]
+    },
+    {
+      "question": "If 8 machines produce 400 items in an hour, how many items will 5 machines produce in an hour?",
+      "options": [
+        {
+          "option": "200"
+        },
+        {
+          "option": "300"
+        },
+        {
+          "option": "350"
+        },
+        {
+          "option": "250",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If 15 workers can complete a job in 4 days, how many days will 20 workers take?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If 7 kg of rice costs 350 rupees, what is the cost of 10 kg?",
+      "options": [
+        {
+          "option": "400"
+        },
+        {
+          "option": "450"
+        },
+        {
+          "option": "500",
+          "is_answer": true
+        },
+        {
+          "option": "550"
+        }
+      ]
+    },
+    {
+      "question": "A car consumes 5 liters of fuel for 100 km. How much fuel is needed for 250 km?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "7.5"
+        },
+        {
+          "option": "12.5",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "If 9 men can do a work in 8 days, how many days will 12 men take?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "If 20 notebooks cost 400 rupees, what is the cost of 12 notebooks?",
+      "options": [
+        {
+          "option": "280"
+        },
+        {
+          "option": "300"
+        },
+        {
+          "option": "240",
+          "is_answer": true
+        },
+        {
+          "option": "200"
+        }
+      ]
+    },
+    {
+      "question": "If 10 taps fill a pool in 12 hours, how many hours will 6 taps take?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "If 5 kg of apples cost 600 rupees, what is the cost of 2 kg?",
+      "options": [
+        {
+          "option": "200"
+        },
+        {
+          "option": "300"
+        },
+        {
+          "option": "240",
+          "is_answer": true
+        },
+        {
+          "option": "120"
+        }
+      ]
+    },
+    {
+      "question": "If 3 workers can paint a room in 6 hours, how many hours will 9 workers take?",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "If 15 pens cost 75 rupees, what is the cost of 20 pens?",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "100",
+          "is_answer": true
+        },
+        {
+          "option": "80"
+        },
+        {
+          "option": "90"
+        }
+      ]
+    },
+    {
+      "question": "If 4 people can finish a project in 15 days, how many days will 6 people take?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "What is 1/4 expressed as a percentage?",
+      "options": [
+        {
+          "option": "40%"
+        },
+        {
+          "option": "10%"
+        },
+        {
+          "option": "25%",
+          "is_answer": true
+        },
+        {
+          "option": "20%"
+        }
+      ]
+    },
+    {
+      "question": "What is 20% of 500?",
+      "options": [
+        {
+          "option": "200"
+        },
+        {
+          "option": "50"
+        },
+        {
+          "option": "100",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "Convert 0.75 to a percentage.",
+      "options": [
+        {
+          "option": "0.75%"
+        },
+        {
+          "option": "750%"
+        },
+        {
+          "option": "7.5%"
+        },
+        {
+          "option": "75%",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If a price increases from 100 to 120, what is the percentage increase?",
+      "options": [
+        {
+          "option": "10%"
+        },
+        {
+          "option": "15%"
+        },
+        {
+          "option": "20%",
+          "is_answer": true
+        },
+        {
+          "option": "25%"
+        }
+      ]
+    },
+    {
+      "question": "What is 50% of 80?",
+      "options": [
+        {
+          "option": "80"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "40",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Convert 3/5 to a percentage.",
+      "options": [
+        {
+          "option": "60%",
+          "is_answer": true
+        },
+        {
+          "option": "30%"
+        },
+        {
+          "option": "40%"
+        },
+        {
+          "option": "50%"
+        }
+      ]
+    },
+    {
+      "question": "What is 10% of 150?",
+      "options": [
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "If a value decreases from 200 to 150, what is the percentage decrease?",
+      "options": [
+        {
+          "option": "20%"
+        },
+        {
+          "option": "10%"
+        },
+        {
+          "option": "50%"
+        },
+        {
+          "option": "25%",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is 25% of 200?",
+      "options": [
+        {
+          "option": "100"
+        },
+        {
+          "option": "50",
+          "is_answer": true
+        },
+        {
+          "option": "75"
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "Convert 0.1 to a percentage.",
+      "options": [
+        {
+          "option": "10%",
+          "is_answer": true
+        },
+        {
+          "option": "100%"
+        },
+        {
+          "option": "0.1%"
+        },
+        {
+          "option": "1%"
+        }
+      ]
+    },
+    {
+      "question": "What is 5% of 200?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Convert 1/2 to a percentage.",
+      "options": [
+        {
+          "option": "25%"
+        },
+        {
+          "option": "10%"
+        },
+        {
+          "option": "75%"
+        },
+        {
+          "option": "50%",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is 40% of 300?",
+      "options": [
+        {
+          "option": "80"
+        },
+        {
+          "option": "150"
+        },
+        {
+          "option": "120",
+          "is_answer": true
+        },
+        {
+          "option": "100"
+        }
+      ]
+    },
+    {
+      "question": "Convert 0.05 to a percentage.",
+      "options": [
+        {
+          "option": "50%"
+        },
+        {
+          "option": "0.5%"
+        },
+        {
+          "option": "5%",
+          "is_answer": true
+        },
+        {
+          "option": "0.05%"
+        }
+      ]
+    },
+    {
+      "question": "What is 15% of 200?",
+      "options": [
+        {
+          "option": "30",
+          "is_answer": true
+        },
+        {
+          "option": "45"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "Convert 4/5 to a percentage.",
+      "options": [
+        {
+          "option": "20%"
+        },
+        {
+          "option": "40%"
+        },
+        {
+          "option": "80%",
+          "is_answer": true
+        },
+        {
+          "option": "60%"
+        }
+      ]
+    },
+    {
+      "question": "What is 75% of 400?",
+      "options": [
+        {
+          "option": "100"
+        },
+        {
+          "option": "300",
+          "is_answer": true
+        },
+        {
+          "option": "350"
+        },
+        {
+          "option": "200"
+        }
+      ]
+    },
+    {
+      "question": "Convert 0.25 to a percentage.",
+      "options": [
+        {
+          "option": "25%",
+          "is_answer": true
+        },
+        {
+          "option": "0.25%"
+        },
+        {
+          "option": "250%"
+        },
+        {
+          "option": "2.5%"
+        }
+      ]
+    },
+    {
+      "question": "What is 12% of 50?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Convert 1/5 to a percentage.",
+      "options": [
+        {
+          "option": "5%"
+        },
+        {
+          "option": "25%"
+        },
+        {
+          "option": "20%",
+          "is_answer": true
+        },
+        {
+          "option": "10%"
+        }
+      ]
+    },
+    {
+      "question": "What is the arithmetic mean of the set {10, 20, 30}?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "60"
+        }
+      ]
+    },
+    {
+      "question": "If the sum of 5 numbers is 100, what is their average?",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "500"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Calculate the weighted average if values are 10 (weight 2) and 20 (weight 3).",
+      "options": [
+        {
+          "option": "17"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "What happens to the average if every number in a set is increased by 5?",
+      "options": [
+        {
+          "option": "Increases by 2.5"
+        },
+        {
+          "option": "Decreases by 5"
+        },
+        {
+          "option": "Remains same"
+        },
+        {
+          "option": "Increases by 5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The average of 4 numbers is 10. If a new number 20 is added, what is the new sum?",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "60",
+          "is_answer": true
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "50"
+        }
+      ]
+    },
+    {
+      "question": "What is the average of the first 5 natural numbers?",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "If the average of 10 items is 50, what is the total sum?",
+      "options": [
+        {
+          "option": "50"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "500",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "Which formula represents the weighted mean?",
+      "options": [
+        {
+          "option": "Average of weights"
+        },
+        {
+          "option": "Sum of weights / Sum of values"
+        },
+        {
+          "option": "Sum of values / Number of values"
+        },
+        {
+          "option": "Sum of (value * weight) / Sum of weights",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If you remove a value equal to the current average from a set, what happens to the average?",
+      "options": [
+        {
+          "option": "Increases"
+        },
+        {
+          "option": "Decreases"
+        },
+        {
+          "option": "Remains unchanged",
+          "is_answer": true
+        },
+        {
+          "option": "Becomes zero"
+        }
+      ]
+    },
+    {
+      "question": "What is the average of 0, 5, and 10?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "7.5"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "If the average of 5 numbers is 20, and one number 10 is removed, what is the new sum?",
+      "options": [
+        {
+          "option": "80"
+        },
+        {
+          "option": "110"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "90",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The average of 3 numbers is 7. If each is multiplied by 2, what is the new average?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "21"
+        },
+        {
+          "option": "10.5"
+        },
+        {
+          "option": "14",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the weighted average of 10 (weight 1) and 30 (weight 1)?",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "If the average of x, y, and z is 10, what is x + y + z?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "30",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "100"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a property of the arithmetic mean?",
+      "options": [
+        {
+          "option": "It cannot be a decimal"
+        },
+        {
+          "option": "It is always equal to the median"
+        },
+        {
+          "option": "It is affected by outliers",
+          "is_answer": true
+        },
+        {
+          "option": "It is the most frequent value"
+        }
+      ]
+    },
+    {
+      "question": "If 5, 5, 5, 5 are the numbers, what is their average?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "What is the average of the first 3 even numbers (2, 4, 6)?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "If the sum of 10 numbers is 200, what is the average?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "200"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In a weighted average, if all weights are equal, what does it become?",
+      "options": [
+        {
+          "option": "Zero"
+        },
+        {
+          "option": "Median"
+        },
+        {
+          "option": "Simple average",
+          "is_answer": true
+        },
+        {
+          "option": "Weighted sum"
+        }
+      ]
+    },
+    {
+      "question": "What is the average of 10 and 20?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "Convert 72 km/h into m/s.",
+      "options": [
+        {
+          "option": "18 m/s"
+        },
+        {
+          "option": "20 m/s",
+          "is_answer": true
+        },
+        {
+          "option": "15 m/s"
+        },
+        {
+          "option": "25 m/s"
+        }
+      ]
+    },
+    {
+      "question": "A car travels 150 km in 3 hours. What is its speed?",
+      "options": [
+        {
+          "option": "40 km/h"
+        },
+        {
+          "option": "45 km/h"
+        },
+        {
+          "option": "60 km/h"
+        },
+        {
+          "option": "50 km/h",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How much distance will a train cover in 4 hours at a speed of 80 km/h?",
+      "options": [
+        {
+          "option": "320 km",
+          "is_answer": true
+        },
+        {
+          "option": "240 km"
+        },
+        {
+          "option": "280 km"
+        },
+        {
+          "option": "360 km"
+        }
+      ]
+    },
+    {
+      "question": "Convert 36 km/h into m/s.",
+      "options": [
+        {
+          "option": "5 m/s"
+        },
+        {
+          "option": "8 m/s"
+        },
+        {
+          "option": "10 m/s",
+          "is_answer": true
+        },
+        {
+          "option": "12 m/s"
+        }
+      ]
+    },
+    {
+      "question": "How long will it take to travel 200 km at a speed of 50 km/h?",
+      "options": [
+        {
+          "option": "4 hours",
+          "is_answer": true
+        },
+        {
+          "option": "2 hours"
+        },
+        {
+          "option": "3 hours"
+        },
+        {
+          "option": "5 hours"
+        }
+      ]
+    },
+    {
+      "question": "If a cyclist travels at 15 m/s, what is the speed in km/h?",
+      "options": [
+        {
+          "option": "48 km/h"
+        },
+        {
+          "option": "45 km/h"
+        },
+        {
+          "option": "60 km/h"
+        },
+        {
+          "option": "54 km/h",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A bus travels 240 km in 4 hours. Find the speed.",
+      "options": [
+        {
+          "option": "50 km/h"
+        },
+        {
+          "option": "60 km/h",
+          "is_answer": true
+        },
+        {
+          "option": "70 km/h"
+        },
+        {
+          "option": "55 km/h"
+        }
+      ]
+    },
+    {
+      "question": "Convert 90 km/h into m/s.",
+      "options": [
+        {
+          "option": "20 m/s"
+        },
+        {
+          "option": "30 m/s"
+        },
+        {
+          "option": "15 m/s"
+        },
+        {
+          "option": "25 m/s",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A runner runs at 5 m/s. How far will they go in 60 seconds?",
+      "options": [
+        {
+          "option": "300 meters",
+          "is_answer": true
+        },
+        {
+          "option": "200 meters"
+        },
+        {
+          "option": "350 meters"
+        },
+        {
+          "option": "250 meters"
+        }
+      ]
+    },
+    {
+      "question": "If a car travels 100 km in 2 hours, what is its speed?",
+      "options": [
+        {
+          "option": "40 km/h"
+        },
+        {
+          "option": "50 km/h",
+          "is_answer": true
+        },
+        {
+          "option": "30 km/h"
+        },
+        {
+          "option": "60 km/h"
+        }
+      ]
+    },
+    {
+      "question": "Convert 10 m/s into km/h.",
+      "options": [
+        {
+          "option": "40 km/h"
+        },
+        {
+          "option": "25 km/h"
+        },
+        {
+          "option": "30 km/h"
+        },
+        {
+          "option": "36 km/h",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A train travels at 120 km/h. How far does it go in 2 hours?",
+      "options": [
+        {
+          "option": "280 km"
+        },
+        {
+          "option": "240 km",
+          "is_answer": true
+        },
+        {
+          "option": "200 km"
+        },
+        {
+          "option": "220 km"
+        }
+      ]
+    },
+    {
+      "question": "How much time is needed to travel 450 km at 90 km/h?",
+      "options": [
+        {
+          "option": "6 hours"
+        },
+        {
+          "option": "4 hours"
+        },
+        {
+          "option": "5 hours",
+          "is_answer": true
+        },
+        {
+          "option": "3 hours"
+        }
+      ]
+    },
+    {
+      "question": "Convert 54 km/h into m/s.",
+      "options": [
+        {
+          "option": "20 m/s"
+        },
+        {
+          "option": "12 m/s"
+        },
+        {
+          "option": "10 m/s"
+        },
+        {
+          "option": "15 m/s",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A cyclist travels 60 km in 3 hours. What is the speed?",
+      "options": [
+        {
+          "option": "20 km/h",
+          "is_answer": true
+        },
+        {
+          "option": "10 km/h"
+        },
+        {
+          "option": "15 km/h"
+        },
+        {
+          "option": "25 km/h"
+        }
+      ]
+    },
+    {
+      "question": "If a car moves at 20 m/s, how far will it travel in 10 seconds?",
+      "options": [
+        {
+          "option": "100 meters"
+        },
+        {
+          "option": "200 meters",
+          "is_answer": true
+        },
+        {
+          "option": "250 meters"
+        },
+        {
+          "option": "150 meters"
+        }
+      ]
+    },
+    {
+      "question": "Convert 20 m/s into km/h.",
+      "options": [
+        {
+          "option": "60 km/h"
+        },
+        {
+          "option": "65 km/h"
+        },
+        {
+          "option": "72 km/h",
+          "is_answer": true
+        },
+        {
+          "option": "80 km/h"
+        }
+      ]
+    },
+    {
+      "question": "A plane flies 1000 km in 2 hours. What is its speed?",
+      "options": [
+        {
+          "option": "450 km/h"
+        },
+        {
+          "option": "600 km/h"
+        },
+        {
+          "option": "400 km/h"
+        },
+        {
+          "option": "500 km/h",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How long will it take to travel 300 km at 60 km/h?",
+      "options": [
+        {
+          "option": "3 hours"
+        },
+        {
+          "option": "5 hours",
+          "is_answer": true
+        },
+        {
+          "option": "4 hours"
+        },
+        {
+          "option": "6 hours"
+        }
+      ]
+    },
+    {
+      "question": "Convert 126 km/h into m/s.",
+      "options": [
+        {
+          "option": "25 m/s"
+        },
+        {
+          "option": "35 m/s",
+          "is_answer": true
+        },
+        {
+          "option": "40 m/s"
+        },
+        {
+          "option": "30 m/s"
+        }
+      ]
+    },
+    {
+      "question": "If 5 pens cost 25 dollars, what is the cost of 1 pen?",
+      "options": [
+        {
+          "option": "10 dollars"
+        },
+        {
+          "option": "20 dollars"
+        },
+        {
+          "option": "2 dollars"
+        },
+        {
+          "option": "5 dollars",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A car travels 120 km in 2 hours. How far does it travel in 1 hour?",
+      "options": [
+        {
+          "option": "60 km",
+          "is_answer": true
+        },
+        {
+          "option": "120 km"
+        },
+        {
+          "option": "30 km"
+        },
+        {
+          "option": "240 km"
+        }
+      ]
+    },
+    {
+      "question": "If 3 kg of apples cost 150 rupees, how much do 7 kg of apples cost?",
+      "options": [
+        {
+          "option": "500 rupees"
+        },
+        {
+          "option": "450 rupees"
+        },
+        {
+          "option": "150 rupees"
+        },
+        {
+          "option": "350 rupees",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If 4 notebooks cost 80 dollars, what is the cost of 10 notebooks?",
+      "options": [
+        {
+          "option": "80 dollars"
+        },
+        {
+          "option": "400 dollars"
+        },
+        {
+          "option": "100 dollars"
+        },
+        {
+          "option": "200 dollars",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A worker earns 400 dollars in 4 days. How much does he earn in 1 day?",
+      "options": [
+        {
+          "option": "40 dollars"
+        },
+        {
+          "option": "50 dollars"
+        },
+        {
+          "option": "200 dollars"
+        },
+        {
+          "option": "100 dollars",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If 6 liters of milk cost 300 rupees, what is the cost of 1 liter?",
+      "options": [
+        {
+          "option": "30 rupees"
+        },
+        {
+          "option": "50 rupees",
+          "is_answer": true
+        },
+        {
+          "option": "60 rupees"
+        },
+        {
+          "option": "100 rupees"
+        }
+      ]
+    },
+    {
+      "question": "If 2 shirts cost 40 dollars, what is the cost of 5 shirts?",
+      "options": [
+        {
+          "option": "200 dollars"
+        },
+        {
+          "option": "80 dollars"
+        },
+        {
+          "option": "40 dollars"
+        },
+        {
+          "option": "100 dollars",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A machine produces 500 items in 5 hours. How many items does it produce in 1 hour?",
+      "options": [
+        {
+          "option": "100 items",
+          "is_answer": true
+        },
+        {
+          "option": "50 items"
+        },
+        {
+          "option": "500 items"
+        },
+        {
+          "option": "250 items"
+        }
+      ]
+    },
+    {
+      "question": "If 8 pencils cost 24 rupees, what is the cost of 1 pencil?",
+      "options": [
+        {
+          "option": "6 rupees"
+        },
+        {
+          "option": "8 rupees"
+        },
+        {
+          "option": "4 rupees"
+        },
+        {
+          "option": "3 rupees",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If 10 kg of rice costs 500 rupees, what is the cost of 2 kg of rice?",
+      "options": [
+        {
+          "option": "200 rupees"
+        },
+        {
+          "option": "250 rupees"
+        },
+        {
+          "option": "50 rupees"
+        },
+        {
+          "option": "100 rupees",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If 3 tickets cost 30 dollars, what is the cost of 1 ticket?",
+      "options": [
+        {
+          "option": "15 dollars"
+        },
+        {
+          "option": "5 dollars"
+        },
+        {
+          "option": "10 dollars",
+          "is_answer": true
+        },
+        {
+          "option": "3 dollars"
+        }
+      ]
+    },
+    {
+      "question": "A train travels 300 km in 3 hours. How far does it travel in 5 hours?",
+      "options": [
+        {
+          "option": "500 km",
+          "is_answer": true
+        },
+        {
+          "option": "300 km"
+        },
+        {
+          "option": "100 km"
+        },
+        {
+          "option": "600 km"
+        }
+      ]
+    },
+    {
+      "question": "If 4 boxes contain 40 chocolates, how many chocolates are in 1 box?",
+      "options": [
+        {
+          "option": "10 chocolates",
+          "is_answer": true
+        },
+        {
+          "option": "20 chocolates"
+        },
+        {
+          "option": "4 chocolates"
+        },
+        {
+          "option": "5 chocolates"
+        }
+      ]
+    },
+    {
+      "question": "If 7 pens cost 70 rupees, what is the cost of 12 pens?",
+      "options": [
+        {
+          "option": "100 rupees"
+        },
+        {
+          "option": "70 rupees"
+        },
+        {
+          "option": "140 rupees"
+        },
+        {
+          "option": "120 rupees",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If 5 books cost 250 dollars, what is the cost of 1 book?",
+      "options": [
+        {
+          "option": "50 dollars",
+          "is_answer": true
+        },
+        {
+          "option": "25 dollars"
+        },
+        {
+          "option": "5 dollars"
+        },
+        {
+          "option": "100 dollars"
+        }
+      ]
+    },
+    {
+      "question": "A fan rotates 1200 times in 2 minutes. How many times does it rotate in 1 minute?",
+      "options": [
+        {
+          "option": "1200 times"
+        },
+        {
+          "option": "300 times"
+        },
+        {
+          "option": "600 times",
+          "is_answer": true
+        },
+        {
+          "option": "200 times"
+        }
+      ]
+    },
+    {
+      "question": "If 9 kg of sugar costs 360 rupees, what is the cost of 1 kg?",
+      "options": [
+        {
+          "option": "40 rupees",
+          "is_answer": true
+        },
+        {
+          "option": "9 rupees"
+        },
+        {
+          "option": "20 rupees"
+        },
+        {
+          "option": "36 rupees"
+        }
+      ]
+    },
+    {
+      "question": "If 2 liters of juice cost 10 dollars, what is the cost of 6 liters?",
+      "options": [
+        {
+          "option": "10 dollars"
+        },
+        {
+          "option": "20 dollars"
+        },
+        {
+          "option": "30 dollars",
+          "is_answer": true
+        },
+        {
+          "option": "40 dollars"
+        }
+      ]
+    },
+    {
+      "question": "If 5 chairs cost 500 rupees, what is the cost of 1 chair?",
+      "options": [
+        {
+          "option": "100 rupees",
+          "is_answer": true
+        },
+        {
+          "option": "200 rupees"
+        },
+        {
+          "option": "50 rupees"
+        },
+        {
+          "option": "250 rupees"
+        }
+      ]
+    },
+    {
+      "question": "If 4 bags cost 200 dollars, what is the cost of 3 bags?",
+      "options": [
+        {
+          "option": "200 dollars"
+        },
+        {
+          "option": "150 dollars",
+          "is_answer": true
+        },
+        {
+          "option": "50 dollars"
+        },
+        {
+          "option": "100 dollars"
+        }
+      ]
+    },
+    {
+      "question": "If A can complete a work in 10 days, what fraction of the work does A complete in 1 day?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "1/10",
+          "is_answer": true
+        },
+        {
+          "option": "1/5"
+        },
+        {
+          "option": "1/20"
+        }
+      ]
+    },
+    {
+      "question": "A can do a job in 6 days and B in 3 days. How long will they take to finish it together?",
+      "options": [
+        {
+          "option": "4.5 days"
+        },
+        {
+          "option": "9 days"
+        },
+        {
+          "option": "3 days"
+        },
+        {
+          "option": "2 days",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If a man completes 1/4 of a work in 2 days, how many days will he take to complete the whole work?",
+      "options": [
+        {
+          "option": "2 days"
+        },
+        {
+          "option": "6 days"
+        },
+        {
+          "option": "4 days"
+        },
+        {
+          "option": "8 days",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A does 1/5 of work in 1 day. How many days will A take to finish the entire work?",
+      "options": [
+        {
+          "option": "5 days",
+          "is_answer": true
+        },
+        {
+          "option": "2.5 days"
+        },
+        {
+          "option": "10 days"
+        },
+        {
+          "option": "1 day"
+        }
+      ]
+    },
+    {
+      "question": "If A takes 12 days and B takes 24 days to finish a task, how long will they take working together?",
+      "options": [
+        {
+          "option": "8 days",
+          "is_answer": true
+        },
+        {
+          "option": "12 days"
+        },
+        {
+          "option": "36 days"
+        },
+        {
+          "option": "18 days"
+        }
+      ]
+    },
+    {
+      "question": "A can paint a wall in 4 days. What part of the wall is painted in 3 days?",
+      "options": [
+        {
+          "option": "2/3"
+        },
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "3/4",
+          "is_answer": true
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "If 2 workers take 5 days to complete a task, how many days would 1 worker take?",
+      "options": [
+        {
+          "option": "5 days"
+        },
+        {
+          "option": "10 days",
+          "is_answer": true
+        },
+        {
+          "option": "2.5 days"
+        },
+        {
+          "option": "20 days"
+        }
+      ]
+    },
+    {
+      "question": "A completes 1/3 of a work in 3 days. How much work will he complete in 6 days?",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "2/3",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "1/3"
+        }
+      ]
+    },
+    {
+      "question": "If A can do a work in 20 days, what is his 5-day work fraction?",
+      "options": [
+        {
+          "option": "1/4",
+          "is_answer": true
+        },
+        {
+          "option": "1/5"
+        },
+        {
+          "option": "1/20"
+        },
+        {
+          "option": "5/20"
+        }
+      ]
+    },
+    {
+      "question": "A and B together finish a work in 4 days. If A alone takes 12 days, how long does B take?",
+      "options": [
+        {
+          "option": "16 days"
+        },
+        {
+          "option": "6 days",
+          "is_answer": true
+        },
+        {
+          "option": "8 days"
+        },
+        {
+          "option": "12 days"
+        }
+      ]
+    },
+    {
+      "question": "If 5 men can do a work in 10 days, how many days will 10 men take?",
+      "options": [
+        {
+          "option": "10 days"
+        },
+        {
+          "option": "5 days",
+          "is_answer": true
+        },
+        {
+          "option": "20 days"
+        },
+        {
+          "option": "2 days"
+        }
+      ]
+    },
+    {
+      "question": "A does 1/2 of work in 4 days. How many days to finish the remaining work?",
+      "options": [
+        {
+          "option": "6 days"
+        },
+        {
+          "option": "2 days"
+        },
+        {
+          "option": "8 days"
+        },
+        {
+          "option": "4 days",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If A's 1-day work is 1/8, how many days does he take to finish the work?",
+      "options": [
+        {
+          "option": "1/8 days"
+        },
+        {
+          "option": "4 days"
+        },
+        {
+          "option": "16 days"
+        },
+        {
+          "option": "8 days",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A takes 10 days and B takes 15 days. Working together, what fraction of work is done in 1 day?",
+      "options": [
+        {
+          "option": "1/6",
+          "is_answer": true
+        },
+        {
+          "option": "1/25"
+        },
+        {
+          "option": "1/15"
+        },
+        {
+          "option": "1/10"
+        }
+      ]
+    },
+    {
+      "question": "If 3 people can build a wall in 6 days, how many days for 1 person?",
+      "options": [
+        {
+          "option": "6 days"
+        },
+        {
+          "option": "3 days"
+        },
+        {
+          "option": "18 days",
+          "is_answer": true
+        },
+        {
+          "option": "9 days"
+        }
+      ]
+    },
+    {
+      "question": "A completes 1/10 of work in 2 days. How much work is done in 5 days?",
+      "options": [
+        {
+          "option": "1/10"
+        },
+        {
+          "option": "1/5"
+        },
+        {
+          "option": "1/4",
+          "is_answer": true
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "If A can do a work in 30 days, what part of the work is done in 10 days?",
+      "options": [
+        {
+          "option": "1/10"
+        },
+        {
+          "option": "1/3",
+          "is_answer": true
+        },
+        {
+          "option": "3/10"
+        },
+        {
+          "option": "1/30"
+        }
+      ]
+    },
+    {
+      "question": "A and B finish a task in 5 days. If B takes 10 days alone, how long does A take?",
+      "options": [
+        {
+          "option": "10 days",
+          "is_answer": true
+        },
+        {
+          "option": "20 days"
+        },
+        {
+          "option": "15 days"
+        },
+        {
+          "option": "5 days"
+        }
+      ]
+    },
+    {
+      "question": "If 4 machines produce 400 items in 4 days, how many items does 1 machine produce in 1 day?",
+      "options": [
+        {
+          "option": "100"
+        },
+        {
+          "option": "400"
+        },
+        {
+          "option": "25",
+          "is_answer": true
+        },
+        {
+          "option": "50"
+        }
+      ]
+    },
+    {
+      "question": "A can finish a work in 8 days. What is the work done by A in 2 days?",
+      "options": [
+        {
+          "option": "2/8"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "1/4",
+          "is_answer": true
+        },
+        {
+          "option": "1/8"
+        }
+      ]
+    },
+    {
+      "question": "Calculate the Simple Interest on $500 at 5% per annum for 2 years.",
+      "options": [
+        {
+          "option": "$100"
+        },
+        {
+          "option": "$75"
+        },
+        {
+          "option": "$50",
+          "is_answer": true
+        },
+        {
+          "option": "$25"
+        }
+      ]
+    },
+    {
+      "question": "Find the total amount if the Principal is $1000 and Simple Interest is $200.",
+      "options": [
+        {
+          "option": "$200"
+        },
+        {
+          "option": "$1000"
+        },
+        {
+          "option": "$800"
+        },
+        {
+          "option": "$1200",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If Simple Interest is $60, Principal is $200, and Time is 2 years, what is the Rate of interest?",
+      "options": [
+        {
+          "option": "20%"
+        },
+        {
+          "option": "5%"
+        },
+        {
+          "option": "15%",
+          "is_answer": true
+        },
+        {
+          "option": "10%"
+        }
+      ]
+    },
+    {
+      "question": "How long will it take for $1000 to earn $100 interest at 5% per annum?",
+      "options": [
+        {
+          "option": "5 years"
+        },
+        {
+          "option": "1 year"
+        },
+        {
+          "option": "2 years",
+          "is_answer": true
+        },
+        {
+          "option": "10 years"
+        }
+      ]
+    },
+    {
+      "question": "Calculate Simple Interest on $2000 at 10% for 3 years.",
+      "options": [
+        {
+          "option": "$600",
+          "is_answer": true
+        },
+        {
+          "option": "$300"
+        },
+        {
+          "option": "$200"
+        },
+        {
+          "option": "$400"
+        }
+      ]
+    },
+    {
+      "question": "Find the Principal if Simple Interest is $40, Rate is 4%, and Time is 2 years.",
+      "options": [
+        {
+          "option": "$1000"
+        },
+        {
+          "option": "$400"
+        },
+        {
+          "option": "$500",
+          "is_answer": true
+        },
+        {
+          "option": "$200"
+        }
+      ]
+    },
+    {
+      "question": "What is the Simple Interest on $5000 at 2% for 1 year?",
+      "options": [
+        {
+          "option": "$200"
+        },
+        {
+          "option": "$50"
+        },
+        {
+          "option": "$100",
+          "is_answer": true
+        },
+        {
+          "option": "$250"
+        }
+      ]
+    },
+    {
+      "question": "If the total amount is $1500 and the Principal is $1200, what is the Simple Interest?",
+      "options": [
+        {
+          "option": "$300",
+          "is_answer": true
+        },
+        {
+          "option": "$1500"
+        },
+        {
+          "option": "$200"
+        },
+        {
+          "option": "$1200"
+        }
+      ]
+    },
+    {
+      "question": "Find the rate of interest if $500 earns $50 in 2 years.",
+      "options": [
+        {
+          "option": "10%"
+        },
+        {
+          "option": "4%"
+        },
+        {
+          "option": "2%"
+        },
+        {
+          "option": "5%",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Calculate Simple Interest on $800 at 5% for 4 years.",
+      "options": [
+        {
+          "option": "$80"
+        },
+        {
+          "option": "$160",
+          "is_answer": true
+        },
+        {
+          "option": "$40"
+        },
+        {
+          "option": "$200"
+        }
+      ]
+    },
+    {
+      "question": "If Principal is $3000, Rate is 2%, and Time is 5 years, find the Simple Interest.",
+      "options": [
+        {
+          "option": "$100"
+        },
+        {
+          "option": "$600"
+        },
+        {
+          "option": "$300",
+          "is_answer": true
+        },
+        {
+          "option": "$150"
+        }
+      ]
+    },
+    {
+      "question": "How much interest will $2000 earn at 3% per annum in 2 years?",
+      "options": [
+        {
+          "option": "$60"
+        },
+        {
+          "option": "$300"
+        },
+        {
+          "option": "$200"
+        },
+        {
+          "option": "$120",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the time required for $400 to become $480 at 5% simple interest.",
+      "options": [
+        {
+          "option": "4 years",
+          "is_answer": true
+        },
+        {
+          "option": "10 years"
+        },
+        {
+          "option": "2 years"
+        },
+        {
+          "option": "5 years"
+        }
+      ]
+    },
+    {
+      "question": "Calculate the total amount for $1000 at 4% for 3 years.",
+      "options": [
+        {
+          "option": "$1040"
+        },
+        {
+          "option": "$1120",
+          "is_answer": true
+        },
+        {
+          "option": "$120"
+        },
+        {
+          "option": "$1000"
+        }
+      ]
+    },
+    {
+      "question": "If Simple Interest is $20, Principal is $100, and Time is 1 year, what is the Rate?",
+      "options": [
+        {
+          "option": "2%"
+        },
+        {
+          "option": "5%"
+        },
+        {
+          "option": "20%",
+          "is_answer": true
+        },
+        {
+          "option": "10%"
+        }
+      ]
+    },
+    {
+      "question": "What is the Simple Interest on $600 at 4% for 2 years?",
+      "options": [
+        {
+          "option": "$48",
+          "is_answer": true
+        },
+        {
+          "option": "$96"
+        },
+        {
+          "option": "$24"
+        },
+        {
+          "option": "$12"
+        }
+      ]
+    },
+    {
+      "question": "Find the Principal if Simple Interest is $100, Rate is 5%, and Time is 4 years.",
+      "options": [
+        {
+          "option": "$1000"
+        },
+        {
+          "option": "$250"
+        },
+        {
+          "option": "$200"
+        },
+        {
+          "option": "$500",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Calculate Simple Interest on $1500 at 2% for 3 years.",
+      "options": [
+        {
+          "option": "$45"
+        },
+        {
+          "option": "$150"
+        },
+        {
+          "option": "$30"
+        },
+        {
+          "option": "$90",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the interest is $50 on $500 for 1 year, what is the rate?",
+      "options": [
+        {
+          "option": "10%",
+          "is_answer": true
+        },
+        {
+          "option": "2%"
+        },
+        {
+          "option": "5%"
+        },
+        {
+          "option": "20%"
+        }
+      ]
+    },
+    {
+      "question": "Calculate the total amount if Principal is $2000 and Simple Interest is $150.",
+      "options": [
+        {
+          "option": "$2200"
+        },
+        {
+          "option": "$150"
+        },
+        {
+          "option": "$2000"
+        },
+        {
+          "option": "$2150",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the Selling Price (SP) is greater than the Cost Price (CP), what occurs?",
+      "options": [
+        {
+          "option": "Discount"
+        },
+        {
+          "option": "Profit",
+          "is_answer": true
+        },
+        {
+          "option": "Loss"
+        },
+        {
+          "option": "No change"
+        }
+      ]
+    },
+    {
+      "question": "What is the formula for Profit?",
+      "options": [
+        {
+          "option": "CP - SP"
+        },
+        {
+          "option": "SP + CP"
+        },
+        {
+          "option": "CP / SP"
+        },
+        {
+          "option": "SP - CP",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If a pen is bought for $10 and sold for $15, what is the profit?",
+      "options": [
+        {
+          "option": "$25"
+        },
+        {
+          "option": "$2.5"
+        },
+        {
+          "option": "$10"
+        },
+        {
+          "option": "$5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the formula for Loss?",
+      "options": [
+        {
+          "option": "CP - SP",
+          "is_answer": true
+        },
+        {
+          "option": "SP / CP"
+        },
+        {
+          "option": "CP + SP"
+        },
+        {
+          "option": "SP - CP"
+        }
+      ]
+    },
+    {
+      "question": "If CP = $50 and SP = $40, what is the loss?",
+      "options": [
+        {
+          "option": "$90"
+        },
+        {
+          "option": "$1.25"
+        },
+        {
+          "option": "$5"
+        },
+        {
+          "option": "$10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Profit percentage is calculated based on which value?",
+      "options": [
+        {
+          "option": "Discount"
+        },
+        {
+          "option": "Cost Price",
+          "is_answer": true
+        },
+        {
+          "option": "Selling Price"
+        },
+        {
+          "option": "Marked Price"
+        }
+      ]
+    },
+    {
+      "question": "If CP = $100 and Profit = $20, what is the Profit%?",
+      "options": [
+        {
+          "option": "10%"
+        },
+        {
+          "option": "100%"
+        },
+        {
+          "option": "5%"
+        },
+        {
+          "option": "20%",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the formula for Profit%?",
+      "options": [
+        {
+          "option": "(CP / Profit) * 100"
+        },
+        {
+          "option": "(Profit / SP) * 100"
+        },
+        {
+          "option": "(SP / Profit) * 100"
+        },
+        {
+          "option": "(Profit / CP) * 100",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Discount is calculated on which price?",
+      "options": [
+        {
+          "option": "Selling Price"
+        },
+        {
+          "option": "Cost Price"
+        },
+        {
+          "option": "Profit"
+        },
+        {
+          "option": "Marked Price",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If Marked Price = $200 and Discount = $20, what is the Selling Price?",
+      "options": [
+        {
+          "option": "$220"
+        },
+        {
+          "option": "$200"
+        },
+        {
+          "option": "$10"
+        },
+        {
+          "option": "$180",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If CP = $200 and Loss = $50, what is the SP?",
+      "options": [
+        {
+          "option": "$100"
+        },
+        {
+          "option": "$200"
+        },
+        {
+          "option": "$150",
+          "is_answer": true
+        },
+        {
+          "option": "$250"
+        }
+      ]
+    },
+    {
+      "question": "What is the formula for Loss%?",
+      "options": [
+        {
+          "option": "(Loss / SP) * 100"
+        },
+        {
+          "option": "(Loss / CP) * 100",
+          "is_answer": true
+        },
+        {
+          "option": "(SP / Loss) * 100"
+        },
+        {
+          "option": "(CP / Loss) * 100"
+        }
+      ]
+    },
+    {
+      "question": "If CP = $500 and Profit% = 10%, what is the Profit amount?",
+      "options": [
+        {
+          "option": "$5"
+        },
+        {
+          "option": "$50",
+          "is_answer": true
+        },
+        {
+          "option": "$500"
+        },
+        {
+          "option": "$550"
+        }
+      ]
+    },
+    {
+      "question": "If SP = $120 and CP = $100, what is the profit?",
+      "options": [
+        {
+          "option": "$10"
+        },
+        {
+          "option": "$120"
+        },
+        {
+          "option": "$20",
+          "is_answer": true
+        },
+        {
+          "option": "$220"
+        }
+      ]
+    },
+    {
+      "question": "If an item is sold at cost price, what is the profit?",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "100%"
+        },
+        {
+          "option": "Cannot be determined"
+        },
+        {
+          "option": "10%"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is true?",
+      "options": [
+        {
+          "option": "SP = Profit - CP"
+        },
+        {
+          "option": "SP = CP + Profit",
+          "is_answer": true
+        },
+        {
+          "option": "SP = CP + Loss"
+        },
+        {
+          "option": "SP = CP - Profit"
+        }
+      ]
+    },
+    {
+      "question": "If CP = $80 and SP = $80, what is the result?",
+      "options": [
+        {
+          "option": "No Profit No Loss",
+          "is_answer": true
+        },
+        {
+          "option": "Loss"
+        },
+        {
+          "option": "Profit"
+        },
+        {
+          "option": "Discount"
+        }
+      ]
+    },
+    {
+      "question": "If a shopkeeper gives a discount, the Selling Price will be?",
+      "options": [
+        {
+          "option": "Less than Marked Price",
+          "is_answer": true
+        },
+        {
+          "option": "Equal to Cost Price"
+        },
+        {
+          "option": "Equal to Marked Price"
+        },
+        {
+          "option": "More than Marked Price"
+        }
+      ]
+    },
+    {
+      "question": "If CP = $200 and Profit = $20, what is the SP?",
+      "options": [
+        {
+          "option": "$200"
+        },
+        {
+          "option": "$220",
+          "is_answer": true
+        },
+        {
+          "option": "$240"
+        },
+        {
+          "option": "$180"
+        }
+      ]
+    },
+    {
+      "question": "If Loss% = 10% and CP = $100, what is the Loss amount?",
+      "options": [
+        {
+          "option": "$10",
+          "is_answer": true
+        },
+        {
+          "option": "$90"
+        },
+        {
+          "option": "$100"
+        },
+        {
+          "option": "$1"
+        }
+      ]
+    },
+    {
+      "question": "What is the angle between the hour and minute hands of a clock at 3:15?",
+      "options": [
+        {
+          "option": "22.5 degrees"
+        },
+        {
+          "option": "7.5 degrees",
+          "is_answer": true
+        },
+        {
+          "option": "15 degrees"
+        },
+        {
+          "option": "0 degrees"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following years is a leap year?",
+      "options": [
+        {
+          "option": "1900"
+        },
+        {
+          "option": "2000",
+          "is_answer": true
+        },
+        {
+          "option": "2100"
+        },
+        {
+          "option": "2200"
+        }
+      ]
+    },
+    {
+      "question": "How many odd days are there in 100 years?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "At what time between 4 and 5 o'clock are the hands of a clock coincident?",
+      "options": [
+        {
+          "option": "22 minutes past 4"
+        },
+        {
+          "option": "25 minutes past 4"
+        },
+        {
+          "option": "21 9/11 minutes past 4",
+          "is_answer": true
+        },
+        {
+          "option": "20 minutes past 4"
+        }
+      ]
+    },
+    {
+      "question": "If today is Monday, what day will it be after 61 days?",
+      "options": [
+        {
+          "option": "Sunday",
+          "is_answer": true
+        },
+        {
+          "option": "Tuesday"
+        },
+        {
+          "option": "Saturday"
+        },
+        {
+          "option": "Monday"
+        }
+      ]
+    },
+    {
+      "question": "How many times do the hands of a clock coincide in a day?",
+      "options": [
+        {
+          "option": "11"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "22",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        }
+      ]
+    },
+    {
+      "question": "What is the angle traced by the minute hand in 20 minutes?",
+      "options": [
+        {
+          "option": "120 degrees",
+          "is_answer": true
+        },
+        {
+          "option": "180 degrees"
+        },
+        {
+          "option": "90 degrees"
+        },
+        {
+          "option": "60 degrees"
+        }
+      ]
+    },
+    {
+      "question": "Which day of the week was January 1, 2001?",
+      "options": [
+        {
+          "option": "Monday",
+          "is_answer": true
+        },
+        {
+          "option": "Wednesday"
+        },
+        {
+          "option": "Tuesday"
+        },
+        {
+          "option": "Sunday"
+        }
+      ]
+    },
+    {
+      "question": "How many leap years are there in 400 years?",
+      "options": [
+        {
+          "option": "97",
+          "is_answer": true
+        },
+        {
+          "option": "96"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "98"
+        }
+      ]
+    },
+    {
+      "question": "What is the angle between the hands of a clock at 9:00?",
+      "options": [
+        {
+          "option": "180 degrees"
+        },
+        {
+          "option": "270 degrees"
+        },
+        {
+          "option": "0 degrees"
+        },
+        {
+          "option": "90 degrees",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If a year starts on a Monday, what day will it end on (non-leap year)?",
+      "options": [
+        {
+          "option": "Monday",
+          "is_answer": true
+        },
+        {
+          "option": "Wednesday"
+        },
+        {
+          "option": "Tuesday"
+        },
+        {
+          "option": "Sunday"
+        }
+      ]
+    },
+    {
+      "question": "How many times in a day are the hands of a clock at right angles?",
+      "options": [
+        {
+          "option": "44",
+          "is_answer": true
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "22"
+        }
+      ]
+    },
+    {
+      "question": "The calendar for the year 2005 will be the same as which year?",
+      "options": [
+        {
+          "option": "2007"
+        },
+        {
+          "option": "2006"
+        },
+        {
+          "option": "2010"
+        },
+        {
+          "option": "2011",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many odd days are in a leap year?",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "What is the angle between the hands at 6:00?",
+      "options": [
+        {
+          "option": "0 degrees"
+        },
+        {
+          "option": "90 degrees"
+        },
+        {
+          "option": "360 degrees"
+        },
+        {
+          "option": "180 degrees",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is not a leap year?",
+      "options": [
+        {
+          "option": "2000"
+        },
+        {
+          "option": "2004"
+        },
+        {
+          "option": "2008"
+        },
+        {
+          "option": "1900",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many minutes does the minute hand gain over the hour hand in one hour?",
+      "options": [
+        {
+          "option": "55 minutes",
+          "is_answer": true
+        },
+        {
+          "option": "5 minutes"
+        },
+        {
+          "option": "50 minutes"
+        },
+        {
+          "option": "60 minutes"
+        }
+      ]
+    },
+    {
+      "question": "If 15th August 2011 was a Monday, what day was 15th August 2012?",
+      "options": [
+        {
+          "option": "Monday"
+        },
+        {
+          "option": "Wednesday",
+          "is_answer": true
+        },
+        {
+          "option": "Thursday"
+        },
+        {
+          "option": "Tuesday"
+        }
+      ]
+    },
+    {
+      "question": "What is the angle traced by the hour hand in 12 hours?",
+      "options": [
+        {
+          "option": "180 degrees"
+        },
+        {
+          "option": "90 degrees"
+        },
+        {
+          "option": "360 degrees",
+          "is_answer": true
+        },
+        {
+          "option": "720 degrees"
+        }
+      ]
+    },
+    {
+      "question": "How many odd days are in 300 years?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the square of 25 using the shortcut (n(n+1) followed by 25)?",
+      "options": [
+        {
+          "option": "525"
+        },
+        {
+          "option": "425"
+        },
+        {
+          "option": "725"
+        },
+        {
+          "option": "625",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Calculate 35 squared using the Vedic shortcut.",
+      "options": [
+        {
+          "option": "1225",
+          "is_answer": true
+        },
+        {
+          "option": "1325"
+        },
+        {
+          "option": "1125"
+        },
+        {
+          "option": "1025"
+        }
+      ]
+    },
+    {
+      "question": "What is 45 squared?",
+      "options": [
+        {
+          "option": "1925"
+        },
+        {
+          "option": "2025",
+          "is_answer": true
+        },
+        {
+          "option": "1825"
+        },
+        {
+          "option": "2125"
+        }
+      ]
+    },
+    {
+      "question": "Using the vertically and crosswise method, what is 12 x 13?",
+      "options": [
+        {
+          "option": "146"
+        },
+        {
+          "option": "156",
+          "is_answer": true
+        },
+        {
+          "option": "136"
+        },
+        {
+          "option": "166"
+        }
+      ]
+    },
+    {
+      "question": "What is 55 squared?",
+      "options": [
+        {
+          "option": "2925"
+        },
+        {
+          "option": "2825"
+        },
+        {
+          "option": "3125"
+        },
+        {
+          "option": "3025",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Calculate 11 x 14 using mental math.",
+      "options": [
+        {
+          "option": "154",
+          "is_answer": true
+        },
+        {
+          "option": "144"
+        },
+        {
+          "option": "134"
+        },
+        {
+          "option": "164"
+        }
+      ]
+    },
+    {
+      "question": "What is 65 squared?",
+      "options": [
+        {
+          "option": "4125"
+        },
+        {
+          "option": "4325"
+        },
+        {
+          "option": "4225",
+          "is_answer": true
+        },
+        {
+          "option": "4025"
+        }
+      ]
+    },
+    {
+      "question": "Using Vedic multiplication, what is 21 x 22?",
+      "options": [
+        {
+          "option": "422"
+        },
+        {
+          "option": "482"
+        },
+        {
+          "option": "462",
+          "is_answer": true
+        },
+        {
+          "option": "442"
+        }
+      ]
+    },
+    {
+      "question": "What is 75 squared?",
+      "options": [
+        {
+          "option": "5625",
+          "is_answer": true
+        },
+        {
+          "option": "5725"
+        },
+        {
+          "option": "5425"
+        },
+        {
+          "option": "5525"
+        }
+      ]
+    },
+    {
+      "question": "Calculate 13 x 12 mentally.",
+      "options": [
+        {
+          "option": "156",
+          "is_answer": true
+        },
+        {
+          "option": "136"
+        },
+        {
+          "option": "146"
+        },
+        {
+          "option": "166"
+        }
+      ]
+    },
+    {
+      "question": "What is 85 squared?",
+      "options": [
+        {
+          "option": "7325"
+        },
+        {
+          "option": "7025"
+        },
+        {
+          "option": "7225",
+          "is_answer": true
+        },
+        {
+          "option": "7125"
+        }
+      ]
+    },
+    {
+      "question": "Using the crosswise method, what is 23 x 11?",
+      "options": [
+        {
+          "option": "263"
+        },
+        {
+          "option": "243"
+        },
+        {
+          "option": "253",
+          "is_answer": true
+        },
+        {
+          "option": "233"
+        }
+      ]
+    },
+    {
+      "question": "What is 95 squared?",
+      "options": [
+        {
+          "option": "8925"
+        },
+        {
+          "option": "8825"
+        },
+        {
+          "option": "9125"
+        },
+        {
+          "option": "9025",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Calculate 15 x 11 mentally.",
+      "options": [
+        {
+          "option": "165",
+          "is_answer": true
+        },
+        {
+          "option": "155"
+        },
+        {
+          "option": "145"
+        },
+        {
+          "option": "175"
+        }
+      ]
+    },
+    {
+      "question": "What is 105 squared?",
+      "options": [
+        {
+          "option": "11125"
+        },
+        {
+          "option": "10825"
+        },
+        {
+          "option": "11025",
+          "is_answer": true
+        },
+        {
+          "option": "10925"
+        }
+      ]
+    },
+    {
+      "question": "Using Vedic math, what is 14 x 12?",
+      "options": [
+        {
+          "option": "158"
+        },
+        {
+          "option": "168",
+          "is_answer": true
+        },
+        {
+          "option": "178"
+        },
+        {
+          "option": "148"
+        }
+      ]
+    },
+    {
+      "question": "What is 115 squared?",
+      "options": [
+        {
+          "option": "13025"
+        },
+        {
+          "option": "13225",
+          "is_answer": true
+        },
+        {
+          "option": "13325"
+        },
+        {
+          "option": "13125"
+        }
+      ]
+    },
+    {
+      "question": "Calculate 22 x 12 mentally.",
+      "options": [
+        {
+          "option": "244"
+        },
+        {
+          "option": "274"
+        },
+        {
+          "option": "264",
+          "is_answer": true
+        },
+        {
+          "option": "254"
+        }
+      ]
+    },
+    {
+      "question": "What is 125 squared?",
+      "options": [
+        {
+          "option": "15425"
+        },
+        {
+          "option": "15625",
+          "is_answer": true
+        },
+        {
+          "option": "15525"
+        },
+        {
+          "option": "15725"
+        }
+      ]
+    },
+    {
+      "question": "Using the shortcut, what is 31 x 11?",
+      "options": [
+        {
+          "option": "351"
+        },
+        {
+          "option": "321"
+        },
+        {
+          "option": "341",
+          "is_answer": true
+        },
+        {
+          "option": "331"
+        }
+      ]
+    },
+    {
+      "question": "What is the decimal equivalent of the binary number 1011?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "13"
+        },
+        {
+          "option": "11",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "Convert the decimal number 15 to hexadecimal.",
+      "options": [
+        {
+          "option": "D"
+        },
+        {
+          "option": "E"
+        },
+        {
+          "option": "F",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "What is the octal representation of the decimal number 8?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is the binary equivalent of decimal 5?",
+      "options": [
+        {
+          "option": "101",
+          "is_answer": true
+        },
+        {
+          "option": "111"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "110"
+        }
+      ]
+    },
+    {
+      "question": "What is the hexadecimal value of decimal 16?",
+      "options": [
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "11"
+        },
+        {
+          "option": "F"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "Convert binary 110 to decimal.",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the decimal equivalent of octal 12?",
+      "options": [
+        {
+          "option": "14"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "Which digit is not used in octal number system?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "What is the binary representation of decimal 3?",
+      "options": [
+        {
+          "option": "11",
+          "is_answer": true
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "01"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "Convert hexadecimal 1A to decimal.",
+      "options": [
+        {
+          "option": "16"
+        },
+        {
+          "option": "26",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "36"
+        }
+      ]
+    },
+    {
+      "question": "What is the octal equivalent of binary 111?",
+      "options": [
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "Which base is used in hexadecimal system?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Convert decimal 20 to binary.",
+      "options": [
+        {
+          "option": "10101"
+        },
+        {
+          "option": "10010"
+        },
+        {
+          "option": "11000"
+        },
+        {
+          "option": "10100",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the decimal value of hexadecimal F?",
+      "options": [
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "What is the binary equivalent of octal 4?",
+      "options": [
+        {
+          "option": "100",
+          "is_answer": true
+        },
+        {
+          "option": "011"
+        },
+        {
+          "option": "010"
+        },
+        {
+          "option": "101"
+        }
+      ]
+    },
+    {
+      "question": "Convert decimal 9 to octal.",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "11",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "What is the decimal value of binary 1000?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which symbol represents 10 in hexadecimal?",
+      "options": [
+        {
+          "option": "A",
+          "is_answer": true
+        },
+        {
+          "option": "D"
+        },
+        {
+          "option": "C"
+        },
+        {
+          "option": "B"
+        }
+      ]
+    },
+    {
+      "question": "Convert binary 101 to decimal.",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "What is the base of the binary number system?",
+      "options": [
+        {
+          "option": "16"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "If 10 workers can build 5 walls in 2 days, how many walls can 20 workers build in 4 days?",
+      "options": [
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "If 5 machines produce 50 units in 5 hours, how many units will 1 machine produce in 1 hour?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "If 8 men can finish a task in 10 days, how many men are needed to finish it in 5 days?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "If 12 workers can complete a project in 6 days, how many days will 18 workers take to complete the same project?",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "If 3 printers print 300 pages in 3 minutes, how many pages will 1 printer print in 1 minute?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "50"
+        },
+        {
+          "option": "300"
+        },
+        {
+          "option": "100",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If 4 tailors stitch 16 shirts in 4 days, how many shirts will 1 tailor stitch in 1 day?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "If 6 pipes fill a tank in 20 minutes, how long will 4 pipes take to fill the same tank?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "30",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If 20 men can dig 40 meters of a trench in 5 days, how many meters can 10 men dig in 5 days?",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "40"
+        }
+      ]
+    },
+    {
+      "question": "If 7 workers earn $700 in 7 days, how much will 1 worker earn in 1 day?",
+      "options": [
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "70"
+        }
+      ]
+    },
+    {
+      "question": "If 5 cooks prepare 15 meals in 3 hours, how many meals will 1 cook prepare in 1 hour?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If 9 machines make 900 toys in 9 days, how many toys will 1 machine make in 1 day?",
+      "options": [
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "90"
+        }
+      ]
+    },
+    {
+      "question": "If 15 students read 15 books in 15 days, how many books will 1 student read in 1 day?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "1/15",
+          "is_answer": true
+        },
+        {
+          "option": "225"
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "If 2 farmers plow 2 acres in 2 days, how many acres will 4 farmers plow in 4 days?",
+      "options": [
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "If 3 cats catch 3 mice in 3 minutes, how many cats are needed to catch 100 mice in 100 minutes?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "100"
+        }
+      ]
+    },
+    {
+      "question": "If 5 people can paint 5 rooms in 5 hours, how many hours will 1 person take to paint 1 room?",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "If 10 men can do a job in 12 days, how many men are needed to do the same job in 15 days?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "If 4 weavers weave 4 mats in 4 days, how many mats will 8 weavers weave in 8 days?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "If 20 workers build 10 houses in 10 days, how many houses will 10 workers build in 20 days?",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "If 6 clerks can type 6 pages in 6 minutes, how many pages will 1 clerk type in 6 minutes?",
+      "options": [
+        {
+          "option": "36"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "0.5"
+        }
+      ]
+    },
+    {
+      "question": "If 12 horses eat 12 bags of corn in 12 days, how many bags will 1 horse eat in 1 day?",
+      "options": [
+        {
+          "option": "1/12",
+          "is_answer": true
+        },
+        {
+          "option": "144"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "In what ratio must rice at $4.80/kg be mixed with rice at $5.40/kg to produce a mixture worth $5.10/kg?",
+      "options": [
+        {
+          "option": "2:3"
+        },
+        {
+          "option": "3:4"
+        },
+        {
+          "option": "1:2"
+        },
+        {
+          "option": "1:1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A merchant mixes two types of tea costing $20 and $30 per kg. If the mixture is sold at $26 per kg, what is the ratio of the two types?",
+      "options": [
+        {
+          "option": "1:2"
+        },
+        {
+          "option": "3:4"
+        },
+        {
+          "option": "2:3",
+          "is_answer": true
+        },
+        {
+          "option": "1:1"
+        }
+      ]
+    },
+    {
+      "question": "How many kilograms of sugar costing $9/kg must be mixed with 27kg of sugar costing $7/kg so that the mixture is worth $8.50/kg?",
+      "options": [
+        {
+          "option": "60kg"
+        },
+        {
+          "option": "81kg",
+          "is_answer": true
+        },
+        {
+          "option": "70kg"
+        },
+        {
+          "option": "90kg"
+        }
+      ]
+    },
+    {
+      "question": "A container contains 40 liters of milk. 4 liters are replaced by water. This process is repeated once more. How much milk is left?",
+      "options": [
+        {
+          "option": "36 liters"
+        },
+        {
+          "option": "35 liters"
+        },
+        {
+          "option": "30 liters"
+        },
+        {
+          "option": "32.4 liters",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Two vessels contain milk and water in the ratio 3:2 and 4:1. If they are mixed in equal quantities, what is the final ratio of milk to water?",
+      "options": [
+        {
+          "option": "6:1"
+        },
+        {
+          "option": "5:2"
+        },
+        {
+          "option": "7:3",
+          "is_answer": true
+        },
+        {
+          "option": "4:3"
+        }
+      ]
+    },
+    {
+      "question": "A mixture contains alcohol and water in the ratio 4:3. If 7 liters of water is added, the ratio becomes 4:5. What is the quantity of alcohol?",
+      "options": [
+        {
+          "option": "12 liters"
+        },
+        {
+          "option": "10 liters"
+        },
+        {
+          "option": "14 liters",
+          "is_answer": true
+        },
+        {
+          "option": "16 liters"
+        }
+      ]
+    },
+    {
+      "question": "In what ratio must water be mixed with milk costing $12/liter to gain 20% by selling the mixture at $12/liter?",
+      "options": [
+        {
+          "option": "1:6"
+        },
+        {
+          "option": "2:5"
+        },
+        {
+          "option": "1:5",
+          "is_answer": true
+        },
+        {
+          "option": "1:4"
+        }
+      ]
+    },
+    {
+      "question": "A mixture of 150 liters of wine and water contains 20% water. How much water must be added to make water 25%?",
+      "options": [
+        {
+          "option": "10 liters",
+          "is_answer": true
+        },
+        {
+          "option": "25 liters"
+        },
+        {
+          "option": "20 liters"
+        },
+        {
+          "option": "15 liters"
+        }
+      ]
+    },
+    {
+      "question": "Two alloys contain copper and tin in ratios 1:3 and 2:1. In what ratio should they be mixed to get a new alloy with copper and tin in ratio 3:5?",
+      "options": [
+        {
+          "option": "3:2"
+        },
+        {
+          "option": "2:3"
+        },
+        {
+          "option": "2:1",
+          "is_answer": true
+        },
+        {
+          "option": "1:2"
+        }
+      ]
+    },
+    {
+      "question": "A grocer mixes two varieties of pulses costing $15 and $20 per kg. If he sells the mixture at $18 per kg, what is the ratio of mixing?",
+      "options": [
+        {
+          "option": "1:2"
+        },
+        {
+          "option": "1:3"
+        },
+        {
+          "option": "3:2"
+        },
+        {
+          "option": "2:3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How much water must be added to 60 liters of milk at $1.5/liter so that the cost of the mixture becomes $1.2/liter?",
+      "options": [
+        {
+          "option": "20 liters"
+        },
+        {
+          "option": "10 liters"
+        },
+        {
+          "option": "12 liters"
+        },
+        {
+          "option": "15 liters",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A mixture of 40 liters of milk and water contains 10% water. How much water should be added to make it 20% water?",
+      "options": [
+        {
+          "option": "4 liters"
+        },
+        {
+          "option": "6 liters"
+        },
+        {
+          "option": "5 liters",
+          "is_answer": true
+        },
+        {
+          "option": "8 liters"
+        }
+      ]
+    },
+    {
+      "question": "Two liquids A and B are in the ratio 5:1 in a container. If 9 liters of the mixture is removed and replaced with liquid B, the ratio becomes 1:1. What was the initial quantity of A?",
+      "options": [
+        {
+          "option": "12 liters"
+        },
+        {
+          "option": "15 liters",
+          "is_answer": true
+        },
+        {
+          "option": "20 liters"
+        },
+        {
+          "option": "10 liters"
+        }
+      ]
+    },
+    {
+      "question": "A mixture of sugar and sand contains 10% sugar. How much sugar should be added to 50kg of this mixture to make it 20% sugar?",
+      "options": [
+        {
+          "option": "6.25kg",
+          "is_answer": true
+        },
+        {
+          "option": "10kg"
+        },
+        {
+          "option": "5kg"
+        },
+        {
+          "option": "7.5kg"
+        }
+      ]
+    },
+    {
+      "question": "A vessel contains 100 liters of wine. 10 liters are taken out and replaced by water. This is done twice. What is the final amount of wine?",
+      "options": [
+        {
+          "option": "90 liters"
+        },
+        {
+          "option": "81 liters",
+          "is_answer": true
+        },
+        {
+          "option": "85 liters"
+        },
+        {
+          "option": "80 liters"
+        }
+      ]
+    },
+    {
+      "question": "In what ratio must a grocer mix tea at $60/kg and $120/kg to sell the mixture at $100/kg?",
+      "options": [
+        {
+          "option": "1:3"
+        },
+        {
+          "option": "2:3"
+        },
+        {
+          "option": "3:4"
+        },
+        {
+          "option": "1:2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A mixture contains milk and water in the ratio 7:5. If 15 liters of water is added, the ratio becomes 7:8. What is the total quantity of milk?",
+      "options": [
+        {
+          "option": "25 liters"
+        },
+        {
+          "option": "40 liters"
+        },
+        {
+          "option": "35 liters",
+          "is_answer": true
+        },
+        {
+          "option": "30 liters"
+        }
+      ]
+    },
+    {
+      "question": "Two types of alloys have gold and silver in ratio 7:22 and 21:37. In what ratio should they be mixed to get a new alloy with gold and silver in ratio 25:62?",
+      "options": [
+        {
+          "option": "1:2"
+        },
+        {
+          "option": "4:5"
+        },
+        {
+          "option": "2:3"
+        },
+        {
+          "option": "3:4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A mixture of 80 liters of milk and water contains 10% water. How much milk should be added to make the water 5%?",
+      "options": [
+        {
+          "option": "80 liters",
+          "is_answer": true
+        },
+        {
+          "option": "40 liters"
+        },
+        {
+          "option": "60 liters"
+        },
+        {
+          "option": "50 liters"
+        }
+      ]
+    },
+    {
+      "question": "A merchant has 1000kg of sugar, part of which he sells at 8% profit and the rest at 18% profit. He gains 14% on the whole. What is the quantity sold at 8% profit?",
+      "options": [
+        {
+          "option": "400kg",
+          "is_answer": true
+        },
+        {
+          "option": "300kg"
+        },
+        {
+          "option": "500kg"
+        },
+        {
+          "option": "600kg"
+        }
+      ]
+    },
+    {
+      "question": "A shopkeeper has 200 kg of rice. He sells 1/4 of it at a 10% profit and the rest at cost price. What is the total profit in kg equivalent if he sells 1/4 of the total stock?",
+      "options": [
+        {
+          "option": "10 kg"
+        },
+        {
+          "option": "20 kg"
+        },
+        {
+          "option": "2 kg"
+        },
+        {
+          "option": "5 kg",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If 3/5 of a class of 50 students are girls, and 20% of the girls wear glasses, how many girls wear glasses?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "A worker earns $800 per week. He spends 1/2 on rent and 25% of the remainder on food. How much money is left?",
+      "options": [
+        {
+          "option": "$400"
+        },
+        {
+          "option": "$300",
+          "is_answer": true
+        },
+        {
+          "option": "$100"
+        },
+        {
+          "option": "$200"
+        }
+      ]
+    },
+    {
+      "question": "A tank is 2/3 full. If 30 liters are added, it becomes 4/5 full. What is the total capacity of the tank?",
+      "options": [
+        {
+          "option": "300 liters"
+        },
+        {
+          "option": "100 liters"
+        },
+        {
+          "option": "150 liters"
+        },
+        {
+          "option": "225 liters",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A book has 400 pages. You read 1/4 on Monday and 20% of the remaining on Tuesday. How many pages are left to read?",
+      "options": [
+        {
+          "option": "100 pages"
+        },
+        {
+          "option": "80 pages"
+        },
+        {
+          "option": "240 pages",
+          "is_answer": true
+        },
+        {
+          "option": "300 pages"
+        }
+      ]
+    },
+    {
+      "question": "A fruit seller has 120 apples. He sells 1/3 at $2 each and 1/2 of the remainder at $3 each. What is his total revenue?",
+      "options": [
+        {
+          "option": "$180"
+        },
+        {
+          "option": "$240"
+        },
+        {
+          "option": "$200",
+          "is_answer": true
+        },
+        {
+          "option": "$120"
+        }
+      ]
+    },
+    {
+      "question": "A car travels 60 km in 3/4 of an hour. How far will it travel in 2 hours at the same speed?",
+      "options": [
+        {
+          "option": "80 km"
+        },
+        {
+          "option": "120 km"
+        },
+        {
+          "option": "200 km"
+        },
+        {
+          "option": "160 km",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A recipe requires 2/5 kg of flour for 4 people. How much flour is needed for 10 people?",
+      "options": [
+        {
+          "option": "1 kg",
+          "is_answer": true
+        },
+        {
+          "option": "0.5 kg"
+        },
+        {
+          "option": "0.8 kg"
+        },
+        {
+          "option": "2 kg"
+        }
+      ]
+    },
+    {
+      "question": "A shirt costs $50. It is discounted by 20% and then a tax of 10% is added to the discounted price. What is the final price?",
+      "options": [
+        {
+          "option": "$55"
+        },
+        {
+          "option": "$44",
+          "is_answer": true
+        },
+        {
+          "option": "$40"
+        },
+        {
+          "option": "$45"
+        }
+      ]
+    },
+    {
+      "question": "If 1/5 of a number is 20, what is 50% of that number?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "50",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A bag contains 80 marbles. 1/4 are red, 25% are blue, and the rest are green. How many green marbles are there?",
+      "options": [
+        {
+          "option": "60"
+        },
+        {
+          "option": "40",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "A train travels 300 km in 4 hours. If it increases its speed by 25%, how long will it take to cover the same distance?",
+      "options": [
+        {
+          "option": "5 hours"
+        },
+        {
+          "option": "4 hours"
+        },
+        {
+          "option": "3.2 hours",
+          "is_answer": true
+        },
+        {
+          "option": "3 hours"
+        }
+      ]
+    },
+    {
+      "question": "A person saves 15% of their monthly income. If they save $300 per month, what is their annual income?",
+      "options": [
+        {
+          "option": "$30,000"
+        },
+        {
+          "option": "$2,000"
+        },
+        {
+          "option": "$24,000",
+          "is_answer": true
+        },
+        {
+          "option": "$15,000"
+        }
+      ]
+    },
+    {
+      "question": "A mixture of 40 liters contains milk and water in a ratio of 3:1. How much water must be added to make the ratio 2:1?",
+      "options": [
+        {
+          "option": "20 liters"
+        },
+        {
+          "option": "15 liters"
+        },
+        {
+          "option": "5 liters"
+        },
+        {
+          "option": "10 liters",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A rectangle has a length of 10 cm and a width of 1/2 of its length. If the length is increased by 20%, what is the new area?",
+      "options": [
+        {
+          "option": "72 sq cm"
+        },
+        {
+          "option": "60 sq cm",
+          "is_answer": true
+        },
+        {
+          "option": "50 sq cm"
+        },
+        {
+          "option": "55 sq cm"
+        }
+      ]
+    },
+    {
+      "question": "A worker can finish a job in 10 days. Another worker can finish it in 15 days. How long will it take if they work together?",
+      "options": [
+        {
+          "option": "8 days"
+        },
+        {
+          "option": "5 days"
+        },
+        {
+          "option": "12 days"
+        },
+        {
+          "option": "6 days",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A store sells a jacket for $120 after a 25% discount. What was the original price?",
+      "options": [
+        {
+          "option": "$145"
+        },
+        {
+          "option": "$150"
+        },
+        {
+          "option": "$160",
+          "is_answer": true
+        },
+        {
+          "option": "$180"
+        }
+      ]
+    },
+    {
+      "question": "A car consumes 5 liters of fuel for 60 km. How much fuel is needed for 150 km?",
+      "options": [
+        {
+          "option": "10 liters"
+        },
+        {
+          "option": "15 liters"
+        },
+        {
+          "option": "20 liters"
+        },
+        {
+          "option": "12.5 liters",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A sum of $1000 is divided between A and B in the ratio 2:3. How much does B get?",
+      "options": [
+        {
+          "option": "$500"
+        },
+        {
+          "option": "$300"
+        },
+        {
+          "option": "$400"
+        },
+        {
+          "option": "$600",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If 40% of a number is 80, what is 1/4 of that number?",
+      "options": [
+        {
+          "option": "100"
+        },
+        {
+          "option": "200"
+        },
+        {
+          "option": "50",
+          "is_answer": true
+        },
+        {
+          "option": "40"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9005 @@
+{
+  "total_questions": 500,
+  "questions": [
+    {
+      "question": "દ્વિઘાત સમીકરણ ax^2 + bx + c = 0 માટે વિવેચકનું સૂત્ર શું છે?",
+      "options": [
+        {
+          "option": "b^2 - 4ac",
+          "is_answer": true
+        },
+        {
+          "option": "b - 4ac"
+        },
+        {
+          "option": "a^2 - 4bc"
+        },
+        {
+          "option": "b^2 + 4ac"
+        }
+      ]
+    },
+    {
+      "question": "જો વિવેચક શૂન્ય હોય, તો બીજનું સ્વરૂપ કેવું હોય છે?",
+      "options": [
+        {
+          "option": "સંકર"
+        },
+        {
+          "option": "વાસ્તવિક અને સમાન",
+          "is_answer": true
+        },
+        {
+          "option": "અસંમેય"
+        },
+        {
+          "option": "વાસ્તવિક અને ભિન્ન"
+        }
+      ]
+    },
+    {
+      "question": "જો વિવેચક ઋણ હોય, તો બીજનું સ્વરૂપ કેવું હોય છે?",
+      "options": [
+        {
+          "option": "સંકર",
+          "is_answer": true
+        },
+        {
+          "option": "વાસ્તવિક અને ભિન્ન"
+        },
+        {
+          "option": "વાસ્તવિક અને સમાન"
+        },
+        {
+          "option": "સંમેય"
+        }
+      ]
+    },
+    {
+      "question": "સમીકરણ x^2 - 4x + 4 = 0 માટે વિવેચક શું છે?",
+      "options": [
+        {
+          "option": "16"
+        },
+        {
+          "option": "-16"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો વિવેચક ધન પૂર્ણવર્ગ હોય, તો બીજ કેવા હોય છે?",
+      "options": [
+        {
+          "option": "સંમેય અને ભિન્ન",
+          "is_answer": true
+        },
+        {
+          "option": "વાસ્તવિક અને સમાન"
+        },
+        {
+          "option": "સંકર"
+        },
+        {
+          "option": "અસંમેય અને ભિન્ન"
+        }
+      ]
+    },
+    {
+      "question": "સમીકરણ x^2 + x + 1 = 0 માટે વિવેચક શું છે?",
+      "options": [
+        {
+          "option": "-3",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "જો વિવેચક 5 હોય, તો બીજ કેવા હોય છે?",
+      "options": [
+        {
+          "option": "સંકર"
+        },
+        {
+          "option": "વાસ્તવિક અને સમાન"
+        },
+        {
+          "option": "સંમેય અને ભિન્ન"
+        },
+        {
+          "option": "અસંમેય અને ભિન્ન",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "2x^2 - 5x + 2 = 0 નો વિવેચક શું છે?",
+      "options": [
+        {
+          "option": "16"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "જો વિવેચક 16 હોય, તો બીજ કેવા હોય છે?",
+      "options": [
+        {
+          "option": "અસંમેય અને ભિન્ન"
+        },
+        {
+          "option": "સંકર"
+        },
+        {
+          "option": "વાસ્તવિક અને સમાન"
+        },
+        {
+          "option": "સંમેય અને ભિન્ન",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "કઈ શરત વાસ્તવિક અને ભિન્ન બીજ સૂચવે છે?",
+      "options": [
+        {
+          "option": "D = 1"
+        },
+        {
+          "option": "D > 0",
+          "is_answer": true
+        },
+        {
+          "option": "D < 0"
+        },
+        {
+          "option": "D = 0"
+        }
+      ]
+    },
+    {
+      "question": "x^2 - 3x + 2 = 0 માટે વિવેચક શું છે?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "જો D < 0 હોય, તો બીજ કેવા હોય છે?",
+      "options": [
+        {
+          "option": "વાસ્તવિક નથી",
+          "is_answer": true
+        },
+        {
+          "option": "વાસ્તવિક અને સમાન"
+        },
+        {
+          "option": "સંમેય"
+        },
+        {
+          "option": "વાસ્તવિક અને ભિન્ન"
+        }
+      ]
+    },
+    {
+      "question": "3x^2 + 2x + 1 = 0 નો વિવેચક શું છે?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "-8",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "જો વિવેચક 0 હોય, તો બીજ કેવા હોય છે?",
+      "options": [
+        {
+          "option": "સમાન",
+          "is_answer": true
+        },
+        {
+          "option": "કાલ્પનિક"
+        },
+        {
+          "option": "ભિન્ન"
+        },
+        {
+          "option": "સંકર"
+        }
+      ]
+    },
+    {
+      "question": "x^2 + 6x + 9 = 0 માટે વિવેચક શું છે?",
+      "options": [
+        {
+          "option": "36"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "-36"
+        }
+      ]
+    },
+    {
+      "question": "જો D એ પૂર્ણવર્ગ ન હોય તેવી ધન સંખ્યા હોય, તો બીજ કેવા હોય છે?",
+      "options": [
+        {
+          "option": "સમાન"
+        },
+        {
+          "option": "અસંમેય",
+          "is_answer": true
+        },
+        {
+          "option": "સંમેય"
+        },
+        {
+          "option": "સંકર"
+        }
+      ]
+    },
+    {
+      "question": "x^2 - 5x + 6 = 0 નો વિવેચક શું છે?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "જો બીજ વાસ્તવિક અને સમાન હોય, તો:",
+      "options": [
+        {
+          "option": "D < 0"
+        },
+        {
+          "option": "D = 1"
+        },
+        {
+          "option": "D = 0",
+          "is_answer": true
+        },
+        {
+          "option": "D > 0"
+        }
+      ]
+    },
+    {
+      "question": "4x^2 - 4x + 1 = 0 માટે વિવેચક શું છે?",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "-16"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "જો D = 12 હોય, તો બીજ કેવા હોય છે?",
+      "options": [
+        {
+          "option": "સંમેય અને ભિન્ન"
+        },
+        {
+          "option": "વાસ્તવિક અને સમાન"
+        },
+        {
+          "option": "સંકર"
+        },
+        {
+          "option": "અસંમેય અને ભિન્ન",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જ્યારે P(x) = x^2 - 3x + 2 ને (x - 1) વડે ભાગવામાં આવે ત્યારે શેષ શું મળે?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "અવયવ પ્રમેય મુજબ, જો P(c) = 0 હોય, તો નીચેનામાંથી કયું P(x) નો અવયવ છે?",
+      "options": [
+        {
+          "option": "(x + c)"
+        },
+        {
+          "option": "(x - c)",
+          "is_answer": true
+        },
+        {
+          "option": "(c - x)"
+        },
+        {
+          "option": "(x * c)"
+        }
+      ]
+    },
+    {
+      "question": "(x^2 + 5x + 6) ને (x + 2) વડે ભાગવા માટે સંશ્લેષિત ભાગાકાર (synthetic division) નો ઉપયોગ કરતી વખતે, બોક્સમાં કઈ કિંમત વપરાય છે?",
+      "options": [
+        {
+          "option": "-2",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "જ્યારે P(x) = x^3 + 1 ને (x + 1) વડે ભાગવામાં આવે ત્યારે શેષ શું મળે?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "જો (x - 3) એ P(x) નો અવયવ હોય, તો P(3) ની કિંમત શું થાય?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "-3"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "(x^2 - 9) ને (x - 3) વડે ભાગો. ભાગફળ શું મળે?",
+      "options": [
+        {
+          "option": "x + 9"
+        },
+        {
+          "option": "x - 9"
+        },
+        {
+          "option": "x + 3",
+          "is_answer": true
+        },
+        {
+          "option": "x - 3"
+        }
+      ]
+    },
+    {
+      "question": "કયું પ્રમેય જણાવે છે કે P(x) ને (x - a) વડે ભાગતા મળતી શેષ P(a) છે?",
+      "options": [
+        {
+          "option": "શેષ પ્રમેય",
+          "is_answer": true
+        },
+        {
+          "option": "અવયવ પ્રમેય"
+        },
+        {
+          "option": "બીજગણિતનું મૂળભૂત પ્રમેય"
+        },
+        {
+          "option": "સંમેય બીજ પ્રમેય"
+        }
+      ]
+    },
+    {
+      "question": "જ્યારે P(x) = 2x^2 + 4x - 5 ને (x - 1) વડે ભાગવામાં આવે ત્યારે શેષ શું મળે?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "-5"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "જો P(x) = x^2 + kx + 4 હોય અને (x - 2) તેનો અવયવ હોય, તો k ની કિંમત શું થાય?",
+      "options": [
+        {
+          "option": "-2"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "-4",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "સંશ્લેષિત ભાગાકારનો ઉપયોગ ફક્ત ત્યારે જ થઈ શકે જ્યારે ભાજક આ સ્વરૂપમાં હોય:",
+      "options": [
+        {
+          "option": "(x^2 - c)"
+        },
+        {
+          "option": "(ax^2 + b)"
+        },
+        {
+          "option": "(x^3 - c)"
+        },
+        {
+          "option": "(x - c)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જ્યારે P(x) = x^4 - 1 ને (x - 1) વડે ભાગવામાં આવે ત્યારે શેષ શું મળે?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "જો P(2) = 0 હોય, તો નીચેનામાંથી શું સાચું હોવું જોઈએ?",
+      "options": [
+        {
+          "option": "(x + 2) એ P(x) નો અવયવ છે"
+        },
+        {
+          "option": "(x - 2) એ P(x) નો અવયવ છે",
+          "is_answer": true
+        },
+        {
+          "option": "P(x) ને (x - 2) વડે ભાગતા શેષ 2 મળે"
+        },
+        {
+          "option": "x = -2 એ બીજ છે"
+        }
+      ]
+    },
+    {
+      "question": "(x^2 + 7x + 10) ને (x + 2) વડે ભાગો. ભાગફળ શું મળે?",
+      "options": [
+        {
+          "option": "x + 2"
+        },
+        {
+          "option": "x + 10"
+        },
+        {
+          "option": "x + 7"
+        },
+        {
+          "option": "x + 5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જ્યારે P(x) = 3x^2 - 2x + 1 ને (x + 1) વડે ભાગવામાં આવે ત્યારે શેષ શું મળે?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કયું P(x) = x^2 - 5x + 6 નું સંભવિત સંમેય બીજ છે?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો P(x) = x^3 - 8 હોય, તો P(2) શું થાય?",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "-8"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "જ્યારે (x^3 - 1) ને (x - 1) વડે ભાગવામાં આવે, ત્યારે શેષ કેટલી મળે?",
+      "options": [
+        {
+          "option": "-1"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "x"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "સંમેય બીજ પ્રમેય શું શોધવામાં મદદ કરે છે?",
+      "options": [
+        {
+          "option": "બહુપદીની ઘાત"
+        },
+        {
+          "option": "પદોની સંખ્યા"
+        },
+        {
+          "option": "શેષ"
+        },
+        {
+          "option": "સંભવિત સંમેય શૂન્યો",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો P(x) = x^2 + 2x + 1 હોય, તો P(-1) શું થાય?",
+      "options": [
+        {
+          "option": "-1"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "(x^2 - 4) ને (x - 2) વડે ભાગતા ભાગફળ શું મળે?",
+      "options": [
+        {
+          "option": "x + 2",
+          "is_answer": true
+        },
+        {
+          "option": "x - 2"
+        },
+        {
+          "option": "x + 4"
+        },
+        {
+          "option": "x - 4"
+        }
+      ]
+    },
+    {
+      "question": "x + 5 = 12 માટે x શોધો",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "17"
+        }
+      ]
+    },
+    {
+      "question": "3x = 15 માટે x શોધો",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "45"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "2x - 4 = 6 માટે x શોધો",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "x/2 = 8 માટે x શોધો",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "5x + 2 = 27 માટે x શોધો",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "4x - 7 = 9 માટે x શોધો",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "x/3 + 2 = 5 માટે x શોધો",
+      "options": [
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "7x = 49 માટે x શોધો",
+      "options": [
+        {
+          "option": "56"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "42"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "2x + 10 = 20 માટે x શોધો",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "6x - 3 = 21 માટે x શોધો",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "x/4 = 3 માટે x શોધો",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "8x + 4 = 36 માટે x શોધો",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "9x - 9 = 0 માટે x શોધો",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "2x/3 = 4 માટે x શોધો",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "10x - 5 = 45 માટે x શોધો",
+      "options": [
+        {
+          "option": "50"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "x + 15 = 30 માટે x શોધો",
+      "options": [
+        {
+          "option": "45"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "4x = 24 માટે x શોધો",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "28"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "3x + 6 = 18 માટે x શોધો",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "x/5 = 5 માટે x શોધો",
+      "options": [
+        {
+          "option": "25",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "7x - 2 = 12 માટે x શોધો",
+      "options": [
+        {
+          "option": "14"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "x + y = 5 અને x - y = 1 માટે x શોધો.",
+      "options": [
+        {
+          "option": "x = 3",
+          "is_answer": true
+        },
+        {
+          "option": "x = 4"
+        },
+        {
+          "option": "x = 1"
+        },
+        {
+          "option": "x = 2"
+        }
+      ]
+    },
+    {
+      "question": "સમીકરણ 2x + 3y = 5 અને 4x + 6y = 10 માટે નિશ્ચાયક D નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "જો 2x + y = 7 અને x - y = 2 હોય, તો y નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "y = 3"
+        },
+        {
+          "option": "y = 0"
+        },
+        {
+          "option": "y = 1",
+          "is_answer": true
+        },
+        {
+          "option": "y = 2"
+        }
+      ]
+    },
+    {
+      "question": "નિશ્ચાયકનો ઉપયોગ કરીને સમીકરણો ઉકેલવા માટે કઈ પદ્ધતિનો ઉપયોગ થાય છે?",
+      "options": [
+        {
+          "option": "આદેશની રીત"
+        },
+        {
+          "option": "લોપની રીત"
+        },
+        {
+          "option": "ક્રેમરનો નિયમ",
+          "is_answer": true
+        },
+        {
+          "option": "આલેખની રીત"
+        }
+      ]
+    },
+    {
+      "question": "ઉકેલો: 3x + 2y = 12 અને x + y = 5.",
+      "options": [
+        {
+          "option": "x = 1, y = 4"
+        },
+        {
+          "option": "x = 2, y = 3",
+          "is_answer": true
+        },
+        {
+          "option": "x = 3, y = 2"
+        },
+        {
+          "option": "x = 4, y = 1"
+        }
+      ]
+    },
+    {
+      "question": "સમીકરણ 5x - 2y = 1 અને 3x + y = 7 માં, x નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "x = 2.5"
+        },
+        {
+          "option": "x = 2"
+        },
+        {
+          "option": "x = 1"
+        },
+        {
+          "option": "x = 1.5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો D = 0 અને Dx = 0, Dy = 0 હોય, તો સમીકરણ સંહતિને:",
+      "options": [
+        {
+          "option": "એક પણ ઉકેલ ન હોય"
+        },
+        {
+          "option": "બરાબર બે ઉકેલ હોય"
+        },
+        {
+          "option": "અનન્ય ઉકેલ હોય"
+        },
+        {
+          "option": "અનંત ઉકેલો હોય",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "આદેશની રીતથી ઉકેલો: y = 2x અને x + y = 9.",
+      "options": [
+        {
+          "option": "x = 3, y = 6",
+          "is_answer": true
+        },
+        {
+          "option": "x = 2, y = 4"
+        },
+        {
+          "option": "x = 4, y = 8"
+        },
+        {
+          "option": "x = 1, y = 2"
+        }
+      ]
+    },
+    {
+      "question": "[[a, b], [c, d]] નો નિશ્ચાયક શું છે?",
+      "options": [
+        {
+          "option": "ab - cd"
+        },
+        {
+          "option": "ad + bc"
+        },
+        {
+          "option": "ad - bc",
+          "is_answer": true
+        },
+        {
+          "option": "ac - bd"
+        }
+      ]
+    },
+    {
+      "question": "ઉકેલો: x + 2y = 8 અને 2x + y = 7.",
+      "options": [
+        {
+          "option": "x = 1, y = 3.5"
+        },
+        {
+          "option": "x = 3, y = 2"
+        },
+        {
+          "option": "x = 4, y = 2"
+        },
+        {
+          "option": "x = 2, y = 3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "ક્રેમરના નિયમમાં, x ની ગણતરી કેવી રીતે થાય છે?",
+      "options": [
+        {
+          "option": "Dx / D",
+          "is_answer": true
+        },
+        {
+          "option": "D / Dy"
+        },
+        {
+          "option": "Dy / D"
+        },
+        {
+          "option": "D / Dx"
+        }
+      ]
+    },
+    {
+      "question": "ઉકેલો: 4x - 3y = 11 અને 2x + y = 3.",
+      "options": [
+        {
+          "option": "x = 3, y = 1"
+        },
+        {
+          "option": "x = 2, y = 1"
+        },
+        {
+          "option": "x = 2, y = -1",
+          "is_answer": true
+        },
+        {
+          "option": "x = 1, y = 1"
+        }
+      ]
+    },
+    {
+      "question": "જો 3x + 4y = 10 અને 2x - 2y = 0 હોય, તો x શું છે?",
+      "options": [
+        {
+          "option": "x = 0"
+        },
+        {
+          "option": "x = 2",
+          "is_answer": true
+        },
+        {
+          "option": "x = 3"
+        },
+        {
+          "option": "x = 1"
+        }
+      ]
+    },
+    {
+      "question": "સમીકરણ x + y = 10 અને x - y = 4 માં y નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "y = 4"
+        },
+        {
+          "option": "y = 3",
+          "is_answer": true
+        },
+        {
+          "option": "y = 7"
+        },
+        {
+          "option": "y = 6"
+        }
+      ]
+    },
+    {
+      "question": "આમાંથી કયું બે ચલવાળું સુરેખ સમીકરણ છે?",
+      "options": [
+        {
+          "option": "1/x + 1/y = 5"
+        },
+        {
+          "option": "x^2 + y = 5"
+        },
+        {
+          "option": "2x + 3y = 5",
+          "is_answer": true
+        },
+        {
+          "option": "xy = 5"
+        }
+      ]
+    },
+    {
+      "question": "ઉકેલો: 2x + 5y = 16 અને 3x - y = 5.",
+      "options": [
+        {
+          "option": "x = 3, y = 2",
+          "is_answer": true
+        },
+        {
+          "option": "x = 4, y = 1"
+        },
+        {
+          "option": "x = 2, y = 3"
+        },
+        {
+          "option": "x = 1, y = 4"
+        }
+      ]
+    },
+    {
+      "question": "જો D = 5, Dx = 10, Dy = 15 હોય, તો (x, y) શું થાય?",
+      "options": [
+        {
+          "option": "(2, 3)",
+          "is_answer": true
+        },
+        {
+          "option": "(1, 3)"
+        },
+        {
+          "option": "(3, 2)"
+        },
+        {
+          "option": "(2, 5)"
+        }
+      ]
+    },
+    {
+      "question": "ઉકેલો: x/2 + y = 4 અને x - y = 2.",
+      "options": [
+        {
+          "option": "x = 4, y = 2",
+          "is_answer": true
+        },
+        {
+          "option": "x = 6, y = 1"
+        },
+        {
+          "option": "x = 3, y = 3"
+        },
+        {
+          "option": "x = 2, y = 4"
+        }
+      ]
+    },
+    {
+      "question": "લોપની રીતમાં શું કરવામાં આવે છે?",
+      "options": [
+        {
+          "option": "આલેખ દોરવામાં આવે છે"
+        },
+        {
+          "option": "કિંમતો ધારવામાં આવે છે"
+        },
+        {
+          "option": "મેટ્રિક્સનો ઉપયોગ થાય છે"
+        },
+        {
+          "option": "એક ચલ દૂર કરવામાં આવે છે",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "ઉકેલો: 7x + 3y = 15 અને 2x + 3y = 5.",
+      "options": [
+        {
+          "option": "x = 2, y = 0"
+        },
+        {
+          "option": "x = 2, y = 1/3",
+          "is_answer": true
+        },
+        {
+          "option": "x = 1, y = 1"
+        },
+        {
+          "option": "x = 3, y = -2"
+        }
+      ]
+    },
+    {
+      "question": "દ્વિઘાત સમીકરણ ax^2 + bx + c = 0 માટે, બીજનો સરવાળો શું છે?",
+      "options": [
+        {
+          "option": "-c/a"
+        },
+        {
+          "option": "-b/a",
+          "is_answer": true
+        },
+        {
+          "option": "b/a"
+        },
+        {
+          "option": "c/a"
+        }
+      ]
+    },
+    {
+      "question": "દ્વિઘાત સમીકરણ ax^2 + bx + c = 0 માટે, બીજનો ગુણાકાર શું છે?",
+      "options": [
+        {
+          "option": "-c/a"
+        },
+        {
+          "option": "-b/a"
+        },
+        {
+          "option": "b/a"
+        },
+        {
+          "option": "c/a",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો x^2 - 5x + 6 = 0 ના બીજ આલ્ફા અને બીટા હોય, તો આલ્ફા + બીટા શું થાય?",
+      "options": [
+        {
+          "option": "-5"
+        },
+        {
+          "option": "-6"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "જો x^2 - 5x + 6 = 0 ના બીજ આલ્ફા અને બીટા હોય, તો આલ્ફા * બીટા શું થાય?",
+      "options": [
+        {
+          "option": "-5"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "-6"
+        }
+      ]
+    },
+    {
+      "question": "ત્રિઘાત સમીકરણ ax^3 + bx^2 + cx + d = 0 માટે, બીજનો સરવાળો શું છે?",
+      "options": [
+        {
+          "option": "-d/a"
+        },
+        {
+          "option": "-b/a",
+          "is_answer": true
+        },
+        {
+          "option": "b/a"
+        },
+        {
+          "option": "c/a"
+        }
+      ]
+    },
+    {
+      "question": "ત્રિઘાત સમીકરણ ax^3 + bx^2 + cx + d = 0 માટે, બીજનો ગુણાકાર શું છે?",
+      "options": [
+        {
+          "option": "c/a"
+        },
+        {
+          "option": "-c/a"
+        },
+        {
+          "option": "-d/a",
+          "is_answer": true
+        },
+        {
+          "option": "d/a"
+        }
+      ]
+    },
+    {
+      "question": "2x^2 - 8x + 3 = 0 માટે બીજનો સરવાળો શોધો.",
+      "options": [
+        {
+          "option": "-4"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "1.5"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "3x^2 + 6x - 9 = 0 માટે બીજનો ગુણાકાર શોધો.",
+      "options": [
+        {
+          "option": "-3",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "-2"
+        }
+      ]
+    },
+    {
+      "question": "જો બીજનો સરવાળો 7 અને ગુણાકાર 10 હોય, તો દ્વિઘાત સમીકરણ શું છે?",
+      "options": [
+        {
+          "option": "x^2 - 10x + 7 = 0"
+        },
+        {
+          "option": "x^2 - 7x + 10 = 0",
+          "is_answer": true
+        },
+        {
+          "option": "x^2 + 7x - 10 = 0"
+        },
+        {
+          "option": "x^2 + 7x + 10 = 0"
+        }
+      ]
+    },
+    {
+      "question": "x^2 + px + q = 0 માટે, બીજનો સરવાળો શું છે?",
+      "options": [
+        {
+          "option": "-q"
+        },
+        {
+          "option": "-p",
+          "is_answer": true
+        },
+        {
+          "option": "p"
+        },
+        {
+          "option": "q"
+        }
+      ]
+    },
+    {
+      "question": "જો x^2 - 4x + k = 0 નું એક બીજ 2 હોય, તો બીજું બીજ શું છે?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "-2"
+        }
+      ]
+    },
+    {
+      "question": "ax^2 + bx + c = 0 માં, જો a=1, b=0, c=-4 હોય, તો બીજ કયા છે?",
+      "options": [
+        {
+          "option": "2 and -2",
+          "is_answer": true
+        },
+        {
+          "option": "4 and -1"
+        },
+        {
+          "option": "0 and 4"
+        },
+        {
+          "option": "1 and -4"
+        }
+      ]
+    },
+    {
+      "question": "5x^2 - 10x + 2 = 0 ના બીજનો સરવાળો શું છે?",
+      "options": [
+        {
+          "option": "0.4"
+        },
+        {
+          "option": "-2"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "જો x^2 + bx + c = 0 ના બીજ સમાન હોય, તો:",
+      "options": [
+        {
+          "option": "b^2 = c"
+        },
+        {
+          "option": "b^2 = 4c",
+          "is_answer": true
+        },
+        {
+          "option": "b^2 = -4c"
+        },
+        {
+          "option": "b = c"
+        }
+      ]
+    },
+    {
+      "question": "ત્રિઘાત ax^3 + bx^2 + cx + d = 0 માટે, બે બીજનો ગુણાકારનો સરવાળો શું છે?",
+      "options": [
+        {
+          "option": "b/a"
+        },
+        {
+          "option": "c/a",
+          "is_answer": true
+        },
+        {
+          "option": "-c/a"
+        },
+        {
+          "option": "d/a"
+        }
+      ]
+    },
+    {
+      "question": "જો x^2 - kx + 8 = 0 ના બીજનો સરવાળો 6 હોય, તો k શું છે?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "-6"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો 2x^2 + 5x + k = 0 ના બીજનો ગુણાકાર 3 હોય, તો k શું છે?",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "1.5"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "x^2 - 7x + 12 = 0 ના બીજ કયા છે?",
+      "options": [
+        {
+          "option": "3 and 4",
+          "is_answer": true
+        },
+        {
+          "option": "1 and 12"
+        },
+        {
+          "option": "2 and 6"
+        },
+        {
+          "option": "-3 and -4"
+        }
+      ]
+    },
+    {
+      "question": "જો આલ્ફા અને બીટા એ x^2 + x + 1 = 0 ના બીજ હોય, તો આલ્ફા + બીટા શું છે?",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "ax^2 + bx + c = 0 માટે, બીજના વ્યસ્તનો સરવાળો શું છે?",
+      "options": [
+        {
+          "option": "-b/c",
+          "is_answer": true
+        },
+        {
+          "option": "-c/b"
+        },
+        {
+          "option": "c/b"
+        },
+        {
+          "option": "b/c"
+        }
+      ]
+    },
+    {
+      "question": "x^2 + 5x + 6 ના અવયવો શું છે?",
+      "options": [
+        {
+          "option": "(x+5)(x+1)"
+        },
+        {
+          "option": "(x-2)(x-3)"
+        },
+        {
+          "option": "(x+2)(x+3)",
+          "is_answer": true
+        },
+        {
+          "option": "(x+1)(x+6)"
+        }
+      ]
+    },
+    {
+      "question": "x^2 - 4x + 4 = 0 નો વિવેચક (discriminant) શું છે?",
+      "options": [
+        {
+          "option": "32"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "-16"
+        }
+      ]
+    },
+    {
+      "question": "x^2 - 9 = 0 માટે x શોધો",
+      "options": [
+        {
+          "option": "3, 3"
+        },
+        {
+          "option": "9, -9"
+        },
+        {
+          "option": "3, -3",
+          "is_answer": true
+        },
+        {
+          "option": "0, 9"
+        }
+      ]
+    },
+    {
+      "question": "કોઈપણ દ્વિઘાત સમીકરણ ax^2 + bx + c = 0 ઉકેલવા માટે કયા સૂત્રનો ઉપયોગ થાય છે?",
+      "options": [
+        {
+          "option": "(-b ± sqrt(b^2 - 4ac)) / a"
+        },
+        {
+          "option": "(-b ± sqrt(b^2 - 4ac)) / 2a",
+          "is_answer": true
+        },
+        {
+          "option": "(-b ± sqrt(b^2 + 4ac)) / 2a"
+        },
+        {
+          "option": "(b ± sqrt(b^2 - 4ac)) / 2a"
+        }
+      ]
+    },
+    {
+      "question": "x^2 - 7x + 12 ના અવયવો પાડો",
+      "options": [
+        {
+          "option": "(x-3)(x-4)",
+          "is_answer": true
+        },
+        {
+          "option": "(x+3)(x+4)"
+        },
+        {
+          "option": "(x-2)(x-6)"
+        },
+        {
+          "option": "(x-1)(x-12)"
+        }
+      ]
+    },
+    {
+      "question": "જો વિવેચક ઋણ હોય, તો બીજ કેવા હોય?",
+      "options": [
+        {
+          "option": "શૂન્ય"
+        },
+        {
+          "option": "વાસ્તવિક અને સમાન"
+        },
+        {
+          "option": "સંકર/કાલ્પનિક",
+          "is_answer": true
+        },
+        {
+          "option": "વાસ્તવિક અને ભિન્ન"
+        }
+      ]
+    },
+    {
+      "question": "x^2 + 2x + 1 = 0 માં x ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "x^2 - 25 ના અવયવો પાડો",
+      "options": [
+        {
+          "option": "(x-25)(x+1)"
+        },
+        {
+          "option": "(x-5)(x-5)"
+        },
+        {
+          "option": "(x+5)(x+5)"
+        },
+        {
+          "option": "(x-5)(x+5)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "x^2 - 5x + 6 = 0 ના બીજ શોધો",
+      "options": [
+        {
+          "option": "2, 3",
+          "is_answer": true
+        },
+        {
+          "option": "-2, -3"
+        },
+        {
+          "option": "1, 6"
+        },
+        {
+          "option": "-1, -6"
+        }
+      ]
+    },
+    {
+      "question": "ax^2 + bx + c = 0 માટે બીજનો સરવાળો શું થાય?",
+      "options": [
+        {
+          "option": "b/a"
+        },
+        {
+          "option": "-c/a"
+        },
+        {
+          "option": "-b/a",
+          "is_answer": true
+        },
+        {
+          "option": "c/a"
+        }
+      ]
+    },
+    {
+      "question": "ax^2 + bx + c = 0 માટે બીજનો ગુણાકાર શું થાય?",
+      "options": [
+        {
+          "option": "-c/a"
+        },
+        {
+          "option": "b/a"
+        },
+        {
+          "option": "c/a",
+          "is_answer": true
+        },
+        {
+          "option": "-b/a"
+        }
+      ]
+    },
+    {
+      "question": "x^2 + 4x + 4 = 0 ઉકેલો",
+      "options": [
+        {
+          "option": "x = 2"
+        },
+        {
+          "option": "x = -2",
+          "is_answer": true
+        },
+        {
+          "option": "x = 4"
+        },
+        {
+          "option": "x = -4"
+        }
+      ]
+    },
+    {
+      "question": "આમાંથી કયું દ્વિઘાત સમીકરણ છે?",
+      "options": [
+        {
+          "option": "x^3 + x^2 = 0"
+        },
+        {
+          "option": "x + 5 = 0"
+        },
+        {
+          "option": "1/x + 2 = 0"
+        },
+        {
+          "option": "x^2 + 3x + 2 = 0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "2x^2 + 5x + 3 ના અવયવો પાડો",
+      "options": [
+        {
+          "option": "(2x+3)(x+1)",
+          "is_answer": true
+        },
+        {
+          "option": "(2x-3)(x-1)"
+        },
+        {
+          "option": "(2x+3)(x-1)"
+        },
+        {
+          "option": "(2x+1)(x+3)"
+        }
+      ]
+    },
+    {
+      "question": "જો b^2 - 4ac > 0 હોય, તો બીજ કેવા હોય?",
+      "options": [
+        {
+          "option": "વાસ્તવિક અને ભિન્ન",
+          "is_answer": true
+        },
+        {
+          "option": "અવ્યાખ્યાયિત"
+        },
+        {
+          "option": "વાસ્તવિક અને સમાન"
+        },
+        {
+          "option": "સંકર"
+        }
+      ]
+    },
+    {
+      "question": "x^2 - 6x + 9 = 0 ઉકેલો",
+      "options": [
+        {
+          "option": "x = 6"
+        },
+        {
+          "option": "x = 9"
+        },
+        {
+          "option": "x = -3"
+        },
+        {
+          "option": "x = 3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "3x^2 - 7x + 2 = 0 માં x નો સહગુણક શું છે?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "-7",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "x^2 + 8x + 16 ના અવયવો પાડો",
+      "options": [
+        {
+          "option": "(x+2)(x+8)"
+        },
+        {
+          "option": "(x+4)(x-4)"
+        },
+        {
+          "option": "(x+4)^2",
+          "is_answer": true
+        },
+        {
+          "option": "(x+8)^2"
+        }
+      ]
+    },
+    {
+      "question": "દ્વિઘાત સૂત્ર કઈ પદ્ધતિ પરથી મેળવવામાં આવે છે?",
+      "options": [
+        {
+          "option": "પૂર્ણવર્ગની રીત",
+          "is_answer": true
+        },
+        {
+          "option": "અવયવીકરણ"
+        },
+        {
+          "option": "સંશ્લેષિત ભાગાકાર"
+        },
+        {
+          "option": "આલેખ"
+        }
+      ]
+    },
+    {
+      "question": "x^2 - x - 2 = 0 ઉકેલો",
+      "options": [
+        {
+          "option": "1, 2"
+        },
+        {
+          "option": "2, -1",
+          "is_answer": true
+        },
+        {
+          "option": "-1, -2"
+        },
+        {
+          "option": "-2, 1"
+        }
+      ]
+    },
+    {
+      "question": "અસમતા x - 5 > 0 માટે ઉકેલ ગણ શું છે?",
+      "options": [
+        {
+          "option": "(-∞, 5]"
+        },
+        {
+          "option": "(5, ∞)",
+          "is_answer": true
+        },
+        {
+          "option": "(-∞, 5)"
+        },
+        {
+          "option": "[5, ∞)"
+        }
+      ]
+    },
+    {
+      "question": "અસમતા 2x + 4 ≤ 0 ઉકેલો.",
+      "options": [
+        {
+          "option": "[-2, ∞)"
+        },
+        {
+          "option": "(-∞, -2]",
+          "is_answer": true
+        },
+        {
+          "option": "(-∞, 2]"
+        },
+        {
+          "option": "[2, ∞)"
+        }
+      ]
+    },
+    {
+      "question": "x² - 9 < 0 નો ઉકેલ શું છે?",
+      "options": [
+        {
+          "option": "(-3, 3]"
+        },
+        {
+          "option": "(-∞, -3) ∪ (3, ∞)"
+        },
+        {
+          "option": "[-3, 3)"
+        },
+        {
+          "option": "(-3, 3)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "x માટે ઉકેલો: x² - 5x + 6 ≥ 0.",
+      "options": [
+        {
+          "option": "(-∞, 2) ∪ (3, ∞)"
+        },
+        {
+          "option": "[2, 3]"
+        },
+        {
+          "option": "(-∞, 2] ∪ [3, ∞)",
+          "is_answer": true
+        },
+        {
+          "option": "(2, 3)"
+        }
+      ]
+    },
+    {
+      "question": "કયો અંતરાલ (x - 1)(x + 2) < 0 ને સંતોષે છે?",
+      "options": [
+        {
+          "option": "[-2, 1)"
+        },
+        {
+          "option": "(-2, 1]"
+        },
+        {
+          "option": "(-∞, -2) ∪ (1, ∞)"
+        },
+        {
+          "option": "(-2, 1)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "અસમતા -x + 3 > 0 ઉકેલો.",
+      "options": [
+        {
+          "option": "[3, ∞)"
+        },
+        {
+          "option": "(-∞, 3)",
+          "is_answer": true
+        },
+        {
+          "option": "(-∞, 3]"
+        },
+        {
+          "option": "(3, ∞)"
+        }
+      ]
+    },
+    {
+      "question": "x² + 4 > 0 નો ઉકેલ શું છે?",
+      "options": [
+        {
+          "option": "(-∞, 0)"
+        },
+        {
+          "option": "ખાલી ગણ"
+        },
+        {
+          "option": "(-∞, ∞)",
+          "is_answer": true
+        },
+        {
+          "option": "(0, ∞)"
+        }
+      ]
+    },
+    {
+      "question": "ઉકેલો: (x - 4)² ≤ 0.",
+      "options": [
+        {
+          "option": "[4, ∞)"
+        },
+        {
+          "option": "{4}",
+          "is_answer": true
+        },
+        {
+          "option": "ખાલી ગણ"
+        },
+        {
+          "option": "(-∞, 4]"
+        }
+      ]
+    },
+    {
+      "question": "x² - 2x - 8 ≤ 0 માટે ઉકેલ ગણ શોધો.",
+      "options": [
+        {
+          "option": "(-∞, -2] ∪ [4, ∞)"
+        },
+        {
+          "option": "(-∞, -2) ∪ (4, ∞)"
+        },
+        {
+          "option": "(-2, 4)"
+        },
+        {
+          "option": "[-2, 4]",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "ઉકેલો: x² + x - 6 > 0.",
+      "options": [
+        {
+          "option": "(-∞, -3) ∪ (2, ∞)",
+          "is_answer": true
+        },
+        {
+          "option": "(-3, 2)"
+        },
+        {
+          "option": "[-3, 2]"
+        },
+        {
+          "option": "(-∞, -3] ∪ [2, ∞)"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કયું 3x - 6 < 0 નો ઉકેલ છે?",
+      "options": [
+        {
+          "option": "(2, ∞)"
+        },
+        {
+          "option": "(-∞, 2]"
+        },
+        {
+          "option": "[2, ∞)"
+        },
+        {
+          "option": "(-∞, 2)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "ઉકેલો: x² - 1 > 0.",
+      "options": [
+        {
+          "option": "(-∞, -1) ∪ (1, ∞)",
+          "is_answer": true
+        },
+        {
+          "option": "[-1, 1]"
+        },
+        {
+          "option": "(-∞, -1] ∪ [1, ∞)"
+        },
+        {
+          "option": "(-1, 1)"
+        }
+      ]
+    },
+    {
+      "question": "(x + 5)(x - 2) ≥ 0 નો ઉકેલ શું છે?",
+      "options": [
+        {
+          "option": "[-5, 2]"
+        },
+        {
+          "option": "(-∞, -5] ∪ [2, ∞)",
+          "is_answer": true
+        },
+        {
+          "option": "(-∞, -5) ∪ (2, ∞)"
+        },
+        {
+          "option": "(-5, 2)"
+        }
+      ]
+    },
+    {
+      "question": "ઉકેલો: -2x + 8 ≤ 0.",
+      "options": [
+        {
+          "option": "[4, ∞)",
+          "is_answer": true
+        },
+        {
+          "option": "(4, ∞)"
+        },
+        {
+          "option": "(-∞, 4)"
+        },
+        {
+          "option": "(-∞, 4]"
+        }
+      ]
+    },
+    {
+      "question": "x² + 2x + 1 ≤ 0 માટે ઉકેલ શોધો.",
+      "options": [
+        {
+          "option": "(-∞, -1]"
+        },
+        {
+          "option": "[-1, ∞)"
+        },
+        {
+          "option": "{-1}",
+          "is_answer": true
+        },
+        {
+          "option": "ખાલી ગણ"
+        }
+      ]
+    },
+    {
+      "question": "ઉકેલો: x² - 4x + 4 > 0.",
+      "options": [
+        {
+          "option": "[2, ∞)"
+        },
+        {
+          "option": "(-∞, 2]"
+        },
+        {
+          "option": "બધી વાસ્તવિક સંખ્યાઓ"
+        },
+        {
+          "option": "(-∞, 2) ∪ (2, ∞)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "(x - 3)(x + 4) ≤ 0 નો ઉકેલ શું છે?",
+      "options": [
+        {
+          "option": "(-4, 3)"
+        },
+        {
+          "option": "(-∞, -4] ∪ [3, ∞)"
+        },
+        {
+          "option": "(-∞, -4) ∪ (3, ∞)"
+        },
+        {
+          "option": "[-4, 3]",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "ઉકેલો: 5x - 10 > 0.",
+      "options": [
+        {
+          "option": "(-∞, 2]"
+        },
+        {
+          "option": "[2, ∞)"
+        },
+        {
+          "option": "(2, ∞)",
+          "is_answer": true
+        },
+        {
+          "option": "(-∞, 2)"
+        }
+      ]
+    },
+    {
+      "question": "ઉકેલો: x² - 7x + 10 < 0.",
+      "options": [
+        {
+          "option": "(2, 5)",
+          "is_answer": true
+        },
+        {
+          "option": "[2, 5]"
+        },
+        {
+          "option": "(-∞, 2) ∪ (5, ∞)"
+        },
+        {
+          "option": "(-∞, 2] ∪ [5, ∞)"
+        }
+      ]
+    },
+    {
+      "question": "x² + 9 < 0 નો ઉકેલ શું છે?",
+      "options": [
+        {
+          "option": "(-∞, 0)"
+        },
+        {
+          "option": "બધી વાસ્તવિક સંખ્યાઓ"
+        },
+        {
+          "option": "ખાલી ગણ",
+          "is_answer": true
+        },
+        {
+          "option": "(0, ∞)"
+        }
+      ]
+    },
+    {
+      "question": "સાદું રૂપ આપો: a^3 * a^2",
+      "options": [
+        {
+          "option": "a^6"
+        },
+        {
+          "option": "a^1"
+        },
+        {
+          "option": "a^5",
+          "is_answer": true
+        },
+        {
+          "option": "a^9"
+        }
+      ]
+    },
+    {
+      "question": "સાદું રૂપ આપો: (a^2)^3",
+      "options": [
+        {
+          "option": "a^6",
+          "is_answer": true
+        },
+        {
+          "option": "a^5"
+        },
+        {
+          "option": "a^8"
+        },
+        {
+          "option": "a^1"
+        }
+      ]
+    },
+    {
+      "question": "સાદું રૂપ આપો: a^7 / a^3",
+      "options": [
+        {
+          "option": "a^10"
+        },
+        {
+          "option": "a^21"
+        },
+        {
+          "option": "a^4",
+          "is_answer": true
+        },
+        {
+          "option": "a^3"
+        }
+      ]
+    },
+    {
+      "question": "x માટે ઉકેલો: 2^x = 8",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "કોઈપણ શૂન્યતર સંખ્યાની 0 ઘાતનું મૂલ્ય શું થાય?",
+      "options": [
+        {
+          "option": "અવ્યાખ્યાયિત"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "તે સંખ્યા પોતે"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "સાદું રૂપ આપો: 3^2 * 3^4",
+      "options": [
+        {
+          "option": "9^6"
+        },
+        {
+          "option": "3^8"
+        },
+        {
+          "option": "3^2"
+        },
+        {
+          "option": "3^6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "x માટે ઉકેલો: 5^x = 25",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "સાદું રૂપ આપો: (x^3 * x^4) / x^2",
+      "options": [
+        {
+          "option": "x^1"
+        },
+        {
+          "option": "x^6"
+        },
+        {
+          "option": "x^5",
+          "is_answer": true
+        },
+        {
+          "option": "x^7"
+        }
+      ]
+    },
+    {
+      "question": "x માટે ઉકેલો: 3^(x+1) = 9",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "સાદું રૂપ આપો: (2^3)^2",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "64",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "a^m * a^n ને સાદું રૂપ આપવા માટે કયો નિયમ વપરાય છે?",
+      "options": [
+        {
+          "option": "a^(m-n)"
+        },
+        {
+          "option": "a^(m+n)",
+          "is_answer": true
+        },
+        {
+          "option": "a^(mn)"
+        },
+        {
+          "option": "a^(m/n)"
+        }
+      ]
+    },
+    {
+      "question": "x માટે ઉકેલો: 4^x = 64",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "સાદું રૂપ આપો: 10^5 / 10^2",
+      "options": [
+        {
+          "option": "10^7"
+        },
+        {
+          "option": "10^2.5"
+        },
+        {
+          "option": "10^3",
+          "is_answer": true
+        },
+        {
+          "option": "10^10"
+        }
+      ]
+    },
+    {
+      "question": "2^4 નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "સાદું રૂપ આપો: (x^2 * y^3)^2",
+      "options": [
+        {
+          "option": "x^2 * y^6"
+        },
+        {
+          "option": "x^4 * y^6",
+          "is_answer": true
+        },
+        {
+          "option": "x^4 * y^3"
+        },
+        {
+          "option": "x^4 * y^5"
+        }
+      ]
+    },
+    {
+      "question": "x માટે ઉકેલો: 2^(x-1) = 4",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "સાદું રૂપ આપો: (a^5)^0",
+      "options": [
+        {
+          "option": "a^5"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "a^0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "સાદું રૂપ આપો: 2^3 * 2^2 * 2^1",
+      "options": [
+        {
+          "option": "8^6"
+        },
+        {
+          "option": "2^5"
+        },
+        {
+          "option": "2^9"
+        },
+        {
+          "option": "2^6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "x માટે ઉકેલો: 10^x = 1000",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "સાદું રૂપ આપો: x^a / x^b",
+      "options": [
+        {
+          "option": "x^(ab)"
+        },
+        {
+          "option": "x^(a-b)",
+          "is_answer": true
+        },
+        {
+          "option": "x^(a/b)"
+        },
+        {
+          "option": "x^(a+b)"
+        }
+      ]
+    },
+    {
+      "question": "x માટે ઉકેલો: |x - 5| = 3",
+      "options": [
+        {
+          "option": "x = 8, x = 2",
+          "is_answer": true
+        },
+        {
+          "option": "x = 3, x = -3"
+        },
+        {
+          "option": "x = 8, x = -2"
+        },
+        {
+          "option": "x = -8, x = 2"
+        }
+      ]
+    },
+    {
+      "question": "અસમતા ઉકેલો: |x| < 4",
+      "options": [
+        {
+          "option": "x < 4"
+        },
+        {
+          "option": "-4 < x < 4",
+          "is_answer": true
+        },
+        {
+          "option": "x > -4"
+        },
+        {
+          "option": "x < 4 અથવા x > -4"
+        }
+      ]
+    },
+    {
+      "question": "x માટે ઉકેલો: |2x + 1| = 7",
+      "options": [
+        {
+          "option": "x = 3, x = -4",
+          "is_answer": true
+        },
+        {
+          "option": "x = -3, x = 4"
+        },
+        {
+          "option": "x = 3, x = 4"
+        },
+        {
+          "option": "x = 7, x = -7"
+        }
+      ]
+    },
+    {
+      "question": "|x - 2| > 5 નો ઉકેલ શું છે?",
+      "options": [
+        {
+          "option": "x > 7 અથવા x < -3",
+          "is_answer": true
+        },
+        {
+          "option": "x < -3"
+        },
+        {
+          "option": "-3 < x < 7"
+        },
+        {
+          "option": "x > 7"
+        }
+      ]
+    },
+    {
+      "question": "ઉકેલો: |x + 3| = 0",
+      "options": [
+        {
+          "option": "x = 3"
+        },
+        {
+          "option": "x = 0"
+        },
+        {
+          "option": "ઉકેલ નથી"
+        },
+        {
+          "option": "x = -3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "ઉકેલો: |x - 1| = -2",
+      "options": [
+        {
+          "option": "x = 3, x = -1"
+        },
+        {
+          "option": "x = 1, x = -2"
+        },
+        {
+          "option": "x = -1"
+        },
+        {
+          "option": "ઉકેલ નથી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "ઉકેલો: |3x - 6| = 9",
+      "options": [
+        {
+          "option": "x = 1, x = -5"
+        },
+        {
+          "option": "x = 9, x = -9"
+        },
+        {
+          "option": "x = 3, x = -3"
+        },
+        {
+          "option": "x = 5, x = -1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "ઉકેલો: |x + 4| < 2",
+      "options": [
+        {
+          "option": "x > -6"
+        },
+        {
+          "option": "-2 < x < 2"
+        },
+        {
+          "option": "x < -2"
+        },
+        {
+          "option": "-6 < x < -2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "ઉકેલો: |2x - 4| = 0",
+      "options": [
+        {
+          "option": "x = 4"
+        },
+        {
+          "option": "x = 0"
+        },
+        {
+          "option": "x = 2",
+          "is_answer": true
+        },
+        {
+          "option": "x = -2"
+        }
+      ]
+    },
+    {
+      "question": "ઉકેલો: |x + 5| > 3",
+      "options": [
+        {
+          "option": "-8 < x < -2"
+        },
+        {
+          "option": "x > -2 અથવા x < -8",
+          "is_answer": true
+        },
+        {
+          "option": "x < -8"
+        },
+        {
+          "option": "x > -2"
+        }
+      ]
+    },
+    {
+      "question": "x ની કઈ કિંમત |x - 3| = 5 નું સમાધાન કરે છે?",
+      "options": [
+        {
+          "option": "x = 8",
+          "is_answer": true
+        },
+        {
+          "option": "x = 2"
+        },
+        {
+          "option": "x = 5"
+        },
+        {
+          "option": "x = -5"
+        }
+      ]
+    },
+    {
+      "question": "ઉકેલો: |x| = 7",
+      "options": [
+        {
+          "option": "x = 7"
+        },
+        {
+          "option": "x = 7, x = -7",
+          "is_answer": true
+        },
+        {
+          "option": "ઉકેલ નથી"
+        },
+        {
+          "option": "x = -7"
+        }
+      ]
+    },
+    {
+      "question": "ઉકેલો: |x - 1| < 3",
+      "options": [
+        {
+          "option": "x > -2"
+        },
+        {
+          "option": "x < 4"
+        },
+        {
+          "option": "-2 < x < 4",
+          "is_answer": true
+        },
+        {
+          "option": "x < 3"
+        }
+      ]
+    },
+    {
+      "question": "ઉકેલો: |2x + 4| = 6",
+      "options": [
+        {
+          "option": "x = -1, x = 5"
+        },
+        {
+          "option": "x = 1, x = -5",
+          "is_answer": true
+        },
+        {
+          "option": "x = 2, x = -2"
+        },
+        {
+          "option": "x = 1, x = 5"
+        }
+      ]
+    },
+    {
+      "question": "ઉકેલો: |x - 4| > 0",
+      "options": [
+        {
+          "option": "x > 4"
+        },
+        {
+          "option": "x = 4"
+        },
+        {
+          "option": "x < 4"
+        },
+        {
+          "option": "x ≠ 4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "ઉકેલો: |x + 2| = 5",
+      "options": [
+        {
+          "option": "x = 5, x = -2"
+        },
+        {
+          "option": "x = 3, x = -7",
+          "is_answer": true
+        },
+        {
+          "option": "x = -3, x = 7"
+        },
+        {
+          "option": "x = 3, x = 7"
+        }
+      ]
+    },
+    {
+      "question": "ઉકેલો: |x - 6| < 1",
+      "options": [
+        {
+          "option": "x < 7"
+        },
+        {
+          "option": "x < 6"
+        },
+        {
+          "option": "x > 5"
+        },
+        {
+          "option": "5 < x < 7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "ઉકેલો: |3x| = 12",
+      "options": [
+        {
+          "option": "x = -4"
+        },
+        {
+          "option": "x = 36, x = -36"
+        },
+        {
+          "option": "x = 4"
+        },
+        {
+          "option": "x = 4, x = -4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "ઉકેલો: |x + 1| > 4",
+      "options": [
+        {
+          "option": "x < -5"
+        },
+        {
+          "option": "-5 < x < 3"
+        },
+        {
+          "option": "x > 3"
+        },
+        {
+          "option": "x > 3 અથવા x < -5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "ઉકેલો: |x - 2| = 2",
+      "options": [
+        {
+          "option": "x = 2, x = -2"
+        },
+        {
+          "option": "x = 4"
+        },
+        {
+          "option": "x = 0"
+        },
+        {
+          "option": "x = 4, x = 0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "(a + b)^2 નું વિસ્તરણ શું છે?",
+      "options": [
+        {
+          "option": "a^2 + ab + b^2"
+        },
+        {
+          "option": "a^2 - 2ab + b^2"
+        },
+        {
+          "option": "a^2 + 2ab + b^2",
+          "is_answer": true
+        },
+        {
+          "option": "a^2 + 2ab - b^2"
+        }
+      ]
+    },
+    {
+      "question": "(a - b)^2 નું વિસ્તરણ શું છે?",
+      "options": [
+        {
+          "option": "a^2 - ab + b^2"
+        },
+        {
+          "option": "a^2 + 2ab + b^2"
+        },
+        {
+          "option": "a^2 - 2ab - b^2"
+        },
+        {
+          "option": "a^2 - 2ab + b^2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "(a + b + c)^2 નું વિસ્તરણ શું છે?",
+      "options": [
+        {
+          "option": "a^2 + b^2 + c^2 - 2ab - 2bc - 2ca"
+        },
+        {
+          "option": "a^2 + b^2 + c^2 + 2ab + 2bc - 2ca"
+        },
+        {
+          "option": "a^2 + b^2 + c^2 + ab + bc + ca"
+        },
+        {
+          "option": "a^2 + b^2 + c^2 + 2ab + 2bc + 2ca",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "(a + b)^3 નું વિસ્તરણ શું છે?",
+      "options": [
+        {
+          "option": "a^3 - 3a^2b + 3ab^2 - b^3"
+        },
+        {
+          "option": "a^3 + a^2b + ab^2 + b^3"
+        },
+        {
+          "option": "a^3 + 3a^2b - 3ab^2 + b^3"
+        },
+        {
+          "option": "a^3 + 3a^2b + 3ab^2 + b^3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "(a - b)^3 નું વિસ્તરણ શું છે?",
+      "options": [
+        {
+          "option": "a^3 + 3a^2b + 3ab^2 + b^3"
+        },
+        {
+          "option": "a^3 - a^2b + ab^2 - b^3"
+        },
+        {
+          "option": "a^3 - 3a^2b - 3ab^2 - b^3"
+        },
+        {
+          "option": "a^3 - 3a^2b + 3ab^2 - b^3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "x^2 + 6x + 9 ના અવયવ પાડો.",
+      "options": [
+        {
+          "option": "(x + 6)^2"
+        },
+        {
+          "option": "(x + 3)^2",
+          "is_answer": true
+        },
+        {
+          "option": "(x + 9)^2"
+        },
+        {
+          "option": "(x + 3)(x - 3)"
+        }
+      ]
+    },
+    {
+      "question": "x^2 - 10x + 25 ના અવયવ પાડો.",
+      "options": [
+        {
+          "option": "(x - 5)^2",
+          "is_answer": true
+        },
+        {
+          "option": "(x - 5)(x + 5)"
+        },
+        {
+          "option": "(x + 5)^2"
+        },
+        {
+          "option": "(x - 10)^2"
+        }
+      ]
+    },
+    {
+      "question": "નિત્યસમનો ઉપયોગ કરીને (101)^2 ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "10201",
+          "is_answer": true
+        },
+        {
+          "option": "10101"
+        },
+        {
+          "option": "10001"
+        },
+        {
+          "option": "10401"
+        }
+      ]
+    },
+    {
+      "question": "નિત્યસમનો ઉપયોગ કરીને (99)^2 ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "9601"
+        },
+        {
+          "option": "9801",
+          "is_answer": true
+        },
+        {
+          "option": "9901"
+        },
+        {
+          "option": "9701"
+        }
+      ]
+    },
+    {
+      "question": "(2x + 3y)^2 નું વિસ્તરણ કરો.",
+      "options": [
+        {
+          "option": "4x^2 + 12xy + 9y^2",
+          "is_answer": true
+        },
+        {
+          "option": "4x^2 + 6xy + 9y^2"
+        },
+        {
+          "option": "4x^2 + 12xy + 3y^2"
+        },
+        {
+          "option": "2x^2 + 12xy + 3y^2"
+        }
+      ]
+    },
+    {
+      "question": "(x - 2y)^3 નું વિસ્તરણ કરો.",
+      "options": [
+        {
+          "option": "x^3 - 3x^2y + 3xy^2 - 2y^3"
+        },
+        {
+          "option": "x^3 - 6x^2y + 6xy^2 - 8y^3"
+        },
+        {
+          "option": "x^3 - 6x^2y + 12xy^2 - 8y^3",
+          "is_answer": true
+        },
+        {
+          "option": "x^3 - 2x^2y + 4xy^2 - 8y^3"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કયું (a + b)^3 - (a - b)^3 ને સમાન છે?",
+      "options": [
+        {
+          "option": "2b^3 - 6a^2b"
+        },
+        {
+          "option": "2a^3 + 6ab^2"
+        },
+        {
+          "option": "2b^3 + 6a^2b",
+          "is_answer": true
+        },
+        {
+          "option": "6a^2b - 2b^3"
+        }
+      ]
+    },
+    {
+      "question": "જો a+b+c=0 હોય, તો a^3+b^3+c^3 બરાબર શું થાય?",
+      "options": [
+        {
+          "option": "abc"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "3abc",
+          "is_answer": true
+        },
+        {
+          "option": "-3abc"
+        }
+      ]
+    },
+    {
+      "question": "(a + 2b + 3c)^2 નું વિસ્તરણ કરો.",
+      "options": [
+        {
+          "option": "a^2 + 4b^2 + 9c^2 + 4ab + 12bc + 6ac",
+          "is_answer": true
+        },
+        {
+          "option": "a^2 + 4b^2 + 9c^2 + 4ab + 6bc + 12ac"
+        },
+        {
+          "option": "a^2 + 2b^2 + 3c^2 + 4ab + 6bc + 3ac"
+        },
+        {
+          "option": "a^2 + 4b^2 + 9c^2 + 2ab + 6bc + 3ac"
+        }
+      ]
+    },
+    {
+      "question": "(x+y)^2 - (x-y)^2 નું સાદું રૂપ શું છે?",
+      "options": [
+        {
+          "option": "4xy",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "2xy"
+        },
+        {
+          "option": "2x^2 + 2y^2"
+        }
+      ]
+    },
+    {
+      "question": "8x^3 + y^3 ના અવયવ પાડો.",
+      "options": [
+        {
+          "option": "(2x + y)(4x^2 - 2xy + y^2)",
+          "is_answer": true
+        },
+        {
+          "option": "(2x - y)(4x^2 + 2xy + y^2)"
+        },
+        {
+          "option": "(2x + y)(4x^2 + 2xy + y^2)"
+        },
+        {
+          "option": "(2x + y)(2x^2 - 2xy + y^2)"
+        }
+      ]
+    },
+    {
+      "question": "(3a - 1)^3 નું વિસ્તરણ કરો.",
+      "options": [
+        {
+          "option": "27a^3 - 27a^2 + 9a - 1",
+          "is_answer": true
+        },
+        {
+          "option": "9a^3 - 27a^2 + 9a - 1"
+        },
+        {
+          "option": "27a^3 - 27a^2 + 3a - 1"
+        },
+        {
+          "option": "27a^3 - 9a^2 + 3a - 1"
+        }
+      ]
+    },
+    {
+      "question": "(a-b)^2 + (a+b)^2 ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "2(a^2 + b^2)",
+          "is_answer": true
+        },
+        {
+          "option": "4ab"
+        },
+        {
+          "option": "2(a^2 - b^2)"
+        },
+        {
+          "option": "a^2 + b^2"
+        }
+      ]
+    },
+    {
+      "question": "(x + 1/x)^2 નું વિસ્તરણ કરો.",
+      "options": [
+        {
+          "option": "x^2 + 2 + 1/x"
+        },
+        {
+          "option": "x^2 + 2 + 1/x^2",
+          "is_answer": true
+        },
+        {
+          "option": "x^2 + 2x + 1/x^2"
+        },
+        {
+          "option": "x^2 + 1 + 1/x^2"
+        }
+      ]
+    },
+    {
+      "question": "x^2 - y^2 ના અવયવ પાડો.",
+      "options": [
+        {
+          "option": "(x - y)(x + y)",
+          "is_answer": true
+        },
+        {
+          "option": "(x + y)(x + y)"
+        },
+        {
+          "option": "(x - y)(x - y)"
+        },
+        {
+          "option": "x^2 - 2xy + y^2"
+        }
+      ]
+    },
+    {
+      "question": "√75 નું સાદું રૂપ આપો.",
+      "options": [
+        {
+          "option": "3√5"
+        },
+        {
+          "option": "15√5"
+        },
+        {
+          "option": "25√3"
+        },
+        {
+          "option": "5√3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "(3 + √2) ની અનુબદ્ધ કરણી (conjugate) શું છે?",
+      "options": [
+        {
+          "option": "-3 - √2"
+        },
+        {
+          "option": "-3 + √2"
+        },
+        {
+          "option": "3 - √2",
+          "is_answer": true
+        },
+        {
+          "option": "3 + √2"
+        }
+      ]
+    },
+    {
+      "question": "1/√2 ના છેદનું સંમેયીકરણ કરો.",
+      "options": [
+        {
+          "option": "2√2"
+        },
+        {
+          "option": "√2/2",
+          "is_answer": true
+        },
+        {
+          "option": "√2"
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "x માટે ઉકેલો: √x = 5.",
+      "options": [
+        {
+          "option": "25",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "125"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "√20 + √45 નું સાદું રૂપ આપો.",
+      "options": [
+        {
+          "option": "2√5 + 3√5"
+        },
+        {
+          "option": "√65"
+        },
+        {
+          "option": "25√5"
+        },
+        {
+          "option": "5√5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "(√3)² ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "√3"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "1/(√3 - √2) નું સંમેયીકરણ કરો.",
+      "options": [
+        {
+          "option": "√3 + √2",
+          "is_answer": true
+        },
+        {
+          "option": "√3 - √2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "√2 - √3"
+        }
+      ]
+    },
+    {
+      "question": "√8 * √2 નું સાદું રૂપ આપો.",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "√16"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "x માટે ઉકેલો: √(x + 1) = 3.",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "√12 / √3 નું સાદું રૂપ આપો.",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "√4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "√5 - 2 ની અનુબદ્ધ કરણી શું છે?",
+      "options": [
+        {
+          "option": "√5 + 2",
+          "is_answer": true
+        },
+        {
+          "option": "√5 - 2"
+        },
+        {
+          "option": "2 - √5"
+        },
+        {
+          "option": "-√5 - 2"
+        }
+      ]
+    },
+    {
+      "question": "3√2 + 4√2 નું સાદું રૂપ આપો.",
+      "options": [
+        {
+          "option": "7√2",
+          "is_answer": true
+        },
+        {
+          "option": "12√2"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "7√4"
+        }
+      ]
+    },
+    {
+      "question": "√(16 + 9) ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "4 + 3"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "2/√5 નું સંમેયીકરણ કરો.",
+      "options": [
+        {
+          "option": "5/2"
+        },
+        {
+          "option": "2√5"
+        },
+        {
+          "option": "√5/2"
+        },
+        {
+          "option": "2√5/5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "√27 - √12 નું સાદું રૂપ આપો.",
+      "options": [
+        {
+          "option": "√15"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "3√3"
+        },
+        {
+          "option": "√3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "x માટે ઉકેલો: √x + 2 = 5.",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "√a * √b શું થાય?",
+      "options": [
+        {
+          "option": "√(ab)",
+          "is_answer": true
+        },
+        {
+          "option": "√(a+b)"
+        },
+        {
+          "option": "b√a"
+        },
+        {
+          "option": "a√b"
+        }
+      ]
+    },
+    {
+      "question": "(√2 + 1)(√2 - 1) નું સાદું રૂપ આપો.",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "√2"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "1/(2 + √3) નું સંમેયીકરણ કરો.",
+      "options": [
+        {
+          "option": "√3 - 2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2 - √3",
+          "is_answer": true
+        },
+        {
+          "option": "2 + √3"
+        }
+      ]
+    },
+    {
+      "question": "√50 નું સાદું રૂપ આપો.",
+      "options": [
+        {
+          "option": "25√2"
+        },
+        {
+          "option": "10√5"
+        },
+        {
+          "option": "5√2",
+          "is_answer": true
+        },
+        {
+          "option": "2√5"
+        }
+      ]
+    },
+    {
+      "question": "જો a + b + c = 0 હોય, તો a^3 + b^3 + c^3 ની કિંમત શું થાય?",
+      "options": [
+        {
+          "option": "abc"
+        },
+        {
+          "option": "3abc",
+          "is_answer": true
+        },
+        {
+          "option": "-3abc"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "a^3 + b^3 + c^3 - 3abc નું વિસ્તરણ શું છે?",
+      "options": [
+        {
+          "option": "(a+b+c)(a^2+b^2+c^2+ab+bc+ca)"
+        },
+        {
+          "option": "(a+b+c)(a^2+b^2+c^2)"
+        },
+        {
+          "option": "(a+b+c)(a^2+b^2+c^2-ab-bc-ca)",
+          "is_answer": true
+        },
+        {
+          "option": "(a-b-c)(a^2+b^2+c^2-ab-bc-ca)"
+        }
+      ]
+    },
+    {
+      "question": "જો a=1, b=2, c=-3 હોય, તો a^3 + b^3 + c^3 - 3abc ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "-18"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "કિંમત શોધો: 10^3 + 5^3 + (-15)^3.",
+      "options": [
+        {
+          "option": "-2250",
+          "is_answer": true
+        },
+        {
+          "option": "1125"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "2250"
+        }
+      ]
+    },
+    {
+      "question": "જો a+b+c=0 હોય, તો (a^3+b^3+c^3)/abc ની કિંમત શું થાય?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "-3"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કયો અવયવ a^3 + b^3 + c^3 - 3abc નો છે?",
+      "options": [
+        {
+          "option": "a-b-c"
+        },
+        {
+          "option": "a+b-c"
+        },
+        {
+          "option": "abc"
+        },
+        {
+          "option": "a+b+c",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો a^3 + b^3 + c^3 = 3abc હોય અને a+b+c શૂન્ય ન હોય, તો શું સાચું હોવું જોઈએ?",
+      "options": [
+        {
+          "option": "abc=0"
+        },
+        {
+          "option": "a^2+b^2+c^2=0"
+        },
+        {
+          "option": "a+b=c"
+        },
+        {
+          "option": "a=b=c",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "(x-y)^3 + (y-z)^3 + (z-x)^3 ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "-3(x-y)(y-z)(z-x)"
+        },
+        {
+          "option": "(x-y)(y-z)(z-x)"
+        },
+        {
+          "option": "3(x-y)(y-z)(z-x)",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "જો a=25, b=-15, c=-10 હોય, તો a^3 + b^3 + c^3 શોધો.",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "11250",
+          "is_answer": true
+        },
+        {
+          "option": "-11250"
+        },
+        {
+          "option": "2250"
+        }
+      ]
+    },
+    {
+      "question": "શું પદાવલિ a^3 + b^3 + c^3 - 3abc ને 1/2(a+b+c)[(a-b)^2 + (b-c)^2 + (c-a)^2] તરીકે લખી શકાય?",
+      "options": [
+        {
+          "option": "ખોટું"
+        },
+        {
+          "option": "માત્ર જો a=b=c"
+        },
+        {
+          "option": "માત્ર જો a+b+c=0"
+        },
+        {
+          "option": "સાચું",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો a+b+c=0 હોય, તો a^3+b^3+c^3 ની કિંમત શું થાય?",
+      "options": [
+        {
+          "option": "abc"
+        },
+        {
+          "option": "a^3+b^3+c^3"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "3abc",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "(1/2)^3 + (1/3)^3 - (5/6)^3 ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "3/36"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-3/36",
+          "is_answer": true
+        },
+        {
+          "option": "1/6"
+        }
+      ]
+    },
+    {
+      "question": "જો a+b+c=0 હોય, તો (a^2/bc) + (b^2/ac) + (c^2/ab) ની કિંમત શું થાય?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "abc"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "જો a+b+c=10 અને a^2+b^2+c^2-ab-bc-ca=5 હોય, તો a^3 + b^3 + c^3 - 3abc ની કિંમત શું થાય?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "50",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "જો a=x-y, b=y-z, c=z-x હોય, તો a^3+b^3+c^3 ની કિંમત શું થાય?",
+      "options": [
+        {
+          "option": "(x-y)(y-z)(z-x)"
+        },
+        {
+          "option": "x^3+y^3+z^3"
+        },
+        {
+          "option": "3(x-y)(y-z)(z-x)",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "a^3 + b^3 + c^3 - 3abc ના અવયવ પાડવા માટે કયા નિત્યસમનો ઉપયોગ થાય છે?",
+      "options": [
+        {
+          "option": "(a+b+c)(a^2+b^2+c^2+3abc)"
+        },
+        {
+          "option": "(a+b+c)(a^2+b^2+c^2-ab-bc-ca)",
+          "is_answer": true
+        },
+        {
+          "option": "(a+b+c)(a^2+b^2+c^2)"
+        },
+        {
+          "option": "(a+b+c)^3"
+        }
+      ]
+    },
+    {
+      "question": "જો a+b+c=0 હોય, તો a^3+b^3+c^3 - 3abc ની કિંમત શું થાય?",
+      "options": [
+        {
+          "option": "3abc"
+        },
+        {
+          "option": "a+b+c"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "a^2+b^2+c^2"
+        }
+      ]
+    },
+    {
+      "question": "જો a=10, b=10, c=-20 હોય, તો a^3+b^3+c^3 ની કિંમત શું થાય?",
+      "options": [
+        {
+          "option": "-6000",
+          "is_answer": true
+        },
+        {
+          "option": "3000"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "6000"
+        }
+      ]
+    },
+    {
+      "question": "જો a^3+b^3+c^3=3abc હોય અને a, b, c ભિન્ન શૂન્યતર સંખ્યાઓ હોય, તો (a+b+c) ની કિંમત શું થાય?",
+      "options": [
+        {
+          "option": "abc"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "પદાવલિ a^3+b^3+c^3-3abc ની કિંમત શૂન્ય ક્યારે થાય?",
+      "options": [
+        {
+          "option": "માત્ર a=b=c"
+        },
+        {
+          "option": "abc=0"
+        },
+        {
+          "option": "a+b+c=0 અથવા a=b=c",
+          "is_answer": true
+        },
+        {
+          "option": "માત્ર a+b+c=0"
+        }
+      ]
+    },
+    {
+      "question": "log_b(x) + log_b(y) ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "log_b(x/y)"
+        },
+        {
+          "option": "log_b(x^y)"
+        },
+        {
+          "option": "log_b(xy)",
+          "is_answer": true
+        },
+        {
+          "option": "log_b(x+y)"
+        }
+      ]
+    },
+    {
+      "question": "log_b(x) - log_b(y) ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "log_b(xy)"
+        },
+        {
+          "option": "log_b(x-y)"
+        },
+        {
+          "option": "log_b(x/y)",
+          "is_answer": true
+        },
+        {
+          "option": "log_b(x^y)"
+        }
+      ]
+    },
+    {
+      "question": "log_b(x^k) ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "log_b(x) + k"
+        },
+        {
+          "option": "k^log_b(x)"
+        },
+        {
+          "option": "log_b(k*x)"
+        },
+        {
+          "option": "k * log_b(x)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "પાયા c નો ઉપયોગ કરીને log_a(b) ની કિંમત શું થાય?",
+      "options": [
+        {
+          "option": "log_c(a) / log_c(b)"
+        },
+        {
+          "option": "log_c(b) - log_c(a)"
+        },
+        {
+          "option": "log_c(b) / log_c(a)",
+          "is_answer": true
+        },
+        {
+          "option": "log_c(b) * log_c(a)"
+        }
+      ]
+    },
+    {
+      "question": "log_b(1) ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "અવ્યાખ્યાયિત"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "b"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "log_b(b) ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "અવ્યાખ્યાયિત"
+        },
+        {
+          "option": "b"
+        }
+      ]
+    },
+    {
+      "question": "x માટે ઉકેલો: log_2(x) = 3",
+      "options": [
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "x માટે ઉકેલો: log_x(16) = 2",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "log_10(1000) ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "100"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "સાદું રૂપ આપો: log_5(25) + log_5(1)",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "log_b(b^n) ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "n*b"
+        },
+        {
+          "option": "b"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "n",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "કયું પદ 2 * log(x) ને સમાન છે?",
+      "options": [
+        {
+          "option": "log(2x)"
+        },
+        {
+          "option": "log(x) / 2"
+        },
+        {
+          "option": "log(x) + 2"
+        },
+        {
+          "option": "log(x^2)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "log_3(81) ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "27"
+        }
+      ]
+    },
+    {
+      "question": "x માટે ઉકેલો: log_5(x) = 0",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "અવ્યાખ્યાયિત"
+        }
+      ]
+    },
+    {
+      "question": "log_2(1/8) ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "-3",
+          "is_answer": true
+        },
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "-1/3"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કયું સાચું છે?",
+      "options": [
+        {
+          "option": "log(a/b) = log(a) / log(b)"
+        },
+        {
+          "option": "log(a+b) = log(a) + log(b)"
+        },
+        {
+          "option": "log(a*b) = log(a) + log(b)",
+          "is_answer": true
+        },
+        {
+          "option": "log(a^b) = log(a) * b"
+        }
+      ]
+    },
+    {
+      "question": "log_4(2) ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "0.5",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "x માટે ઉકેલો: log_x(x) = 1",
+      "options": [
+        {
+          "option": "x > 0, x ≠ 1",
+          "is_answer": true
+        },
+        {
+          "option": "x = 0"
+        },
+        {
+          "option": "બધી વાસ્તવિક સંખ્યાઓ"
+        },
+        {
+          "option": "x = 1"
+        }
+      ]
+    },
+    {
+      "question": "સાદું રૂપ આપો: log_b(x^2) - log_b(x)",
+      "options": [
+        {
+          "option": "log_b(x^2)"
+        },
+        {
+          "option": "log_b(x-1)"
+        },
+        {
+          "option": "log_b(2)"
+        },
+        {
+          "option": "log_b(x)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "log_10(0.1) ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "એક GP માં જ્યાં પ્રથમ પદ a=3 અને સામાન્ય ગુણોત્તર r=2 હોય, તેનું 5મું પદ શું છે?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "96"
+        },
+        {
+          "option": "48",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "એક GP માં જ્યાં a=2 અને r=3 હોય, તેના પ્રથમ 3 પદોનો સરવાળો શોધો.",
+      "options": [
+        {
+          "option": "54"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "26",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "a=1 અને r=0.5 ધરાવતી GP નો અનંત સુધીનો સરવાળો શું થાય?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "1.5"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "એક GP માં, જો પ્રથમ પદ 5 અને બીજું પદ 10 હોય, તો સામાન્ય ગુણોત્તર r શું છે?",
+      "options": [
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "GP: 81, 27, 9, ... નું 4થું પદ શું છે?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "27"
+        }
+      ]
+    },
+    {
+      "question": "અનંત GP નો સરવાળો નિશ્ચિત હોવા માટે, સામાન્ય ગુણોત્તર r વિશે શું સાચું હોવું જોઈએ?",
+      "options": [
+        {
+          "option": "|r| < 1",
+          "is_answer": true
+        },
+        {
+          "option": "r = 1"
+        },
+        {
+          "option": "r = 0"
+        },
+        {
+          "option": "|r| > 1"
+        }
+      ]
+    },
+    {
+      "question": "એક GP માં જ્યાં a=1 અને r=-2 હોય, તેનું 6ઠ્ઠું પદ શોધો.",
+      "options": [
+        {
+          "option": "32"
+        },
+        {
+          "option": "-64"
+        },
+        {
+          "option": "-32",
+          "is_answer": true
+        },
+        {
+          "option": "64"
+        }
+      ]
+    },
+    {
+      "question": "GP: 1, 2, 4, 8, ... ના પ્રથમ 4 પદોનો સરવાળો શું છે?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "31"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો GP નો અનંત સુધીનો સરવાળો 10 અને a=5 હોય, તો r શું છે?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0.5",
+          "is_answer": true
+        },
+        {
+          "option": "0.25"
+        }
+      ]
+    },
+    {
+      "question": "એક GP માં જ્યાં a=4 અને r=0.5 હોય, તેનું 3જું પદ શું છે?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "કયું સૂત્ર GP ના nમા પદને દર્શાવે છે?",
+      "options": [
+        {
+          "option": "a+(n-1)d"
+        },
+        {
+          "option": "a/r^(n-1)"
+        },
+        {
+          "option": "a*r^n"
+        },
+        {
+          "option": "a*r^(n-1)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "10, 5, 2.5, ... નો અનંત સુધીનો સરવાળો શોધો.",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો a=2 અને r=2 હોય, તો 5મું પદ શું છે?",
+      "options": [
+        {
+          "option": "64"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "32",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "GP: 100, -50, 25, ... નો સામાન્ય ગુણોત્તર શું છે?",
+      "options": [
+        {
+          "option": "-2"
+        },
+        {
+          "option": "-0.5",
+          "is_answer": true
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "એક GP માં જ્યાં a=10 અને r=0.1 હોય, તેના પ્રથમ 3 પદોનો સરવાળો ગણો.",
+      "options": [
+        {
+          "option": "12.1"
+        },
+        {
+          "option": "10.1"
+        },
+        {
+          "option": "11.1",
+          "is_answer": true
+        },
+        {
+          "option": "11"
+        }
+      ]
+    },
+    {
+      "question": "એક GP માં જ્યાં a=5 અને r=3 હોય, તેનું 2જું પદ શું છે?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "45"
+        }
+      ]
+    },
+    {
+      "question": "GP ના n પદોના સરવાળા માટે કયું સૂત્ર સાચું છે (r ≠ 1)?",
+      "options": [
+        {
+          "option": "a(r^n - 1)/(r + 1)"
+        },
+        {
+          "option": "a(r^n + 1)/(r + 1)"
+        },
+        {
+          "option": "a(r^n - 1)/(r - 1)",
+          "is_answer": true
+        },
+        {
+          "option": "a(1 - r^n)/(r - 1)"
+        }
+      ]
+    },
+    {
+      "question": "જો a=1 અને r=1/3 હોય, તો અનંત સુધીનો સરવાળો શું છે?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1.5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "એક GP માં જ્યાં a=2 અને r=4 હોય, તેનું 4થું પદ શું છે?",
+      "options": [
+        {
+          "option": "32"
+        },
+        {
+          "option": "256"
+        },
+        {
+          "option": "128",
+          "is_answer": true
+        },
+        {
+          "option": "64"
+        }
+      ]
+    },
+    {
+      "question": "જો પ્રથમ પદ 10 અને ત્રીજું પદ 40 હોય, તો સામાન્ય ગુણોત્તર r શું છે (r > 0 ધારીને)?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "AP: 2, 7, 12, ... નું 10મું પદ શોધો.",
+      "options": [
+        {
+          "option": "42"
+        },
+        {
+          "option": "47",
+          "is_answer": true
+        },
+        {
+          "option": "57"
+        },
+        {
+          "option": "52"
+        }
+      ]
+    },
+    {
+      "question": "AP: 10, 7, 4, ... નો સામાન્ય તફાવત શું છે?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "-7"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "-3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "AP: 1, 3, 5, 7, ... ના પ્રથમ 10 પદોનો સરવાળો શોધો.",
+      "options": [
+        {
+          "option": "100",
+          "is_answer": true
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "110"
+        },
+        {
+          "option": "90"
+        }
+      ]
+    },
+    {
+      "question": "જો પ્રથમ પદ a=5 અને સામાન્ય તફાવત d=2 હોય, તો 5મું પદ શું છે?",
+      "options": [
+        {
+          "option": "11"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "13",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "AP 21, 18, 15, ... નું કયું પદ -81 છે?",
+      "options": [
+        {
+          "option": "35th",
+          "is_answer": true
+        },
+        {
+          "option": "25th"
+        },
+        {
+          "option": "30th"
+        },
+        {
+          "option": "40th"
+        }
+      ]
+    },
+    {
+      "question": "પ્રથમ 20 પ્રાકૃતિક સંખ્યાઓનો સરવાળો શોધો.",
+      "options": [
+        {
+          "option": "220"
+        },
+        {
+          "option": "200"
+        },
+        {
+          "option": "190"
+        },
+        {
+          "option": "210",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો a=2 અને d=3 હોય, તો પ્રથમ 10 પદોનો સરવાળો શોધો.",
+      "options": [
+        {
+          "option": "145"
+        },
+        {
+          "option": "155",
+          "is_answer": true
+        },
+        {
+          "option": "165"
+        },
+        {
+          "option": "135"
+        }
+      ]
+    },
+    {
+      "question": "AP: 5, 10, 15, ... નું 20મું પદ શું છે?",
+      "options": [
+        {
+          "option": "95"
+        },
+        {
+          "option": "105"
+        },
+        {
+          "option": "110"
+        },
+        {
+          "option": "100",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "AP: -5, -1, 3, 7, ... નો સામાન્ય તફાવત શોધો.",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "-6"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "-4"
+        }
+      ]
+    },
+    {
+      "question": "AP ના પ્રથમ n પદોનો સરવાળો કયા સૂત્ર દ્વારા આપવામાં આવે છે?",
+      "options": [
+        {
+          "option": "n * (a + d)"
+        },
+        {
+          "option": "n/2 * (2a + (n-1)d)",
+          "is_answer": true
+        },
+        {
+          "option": "n * (2a + nd)"
+        },
+        {
+          "option": "n/2 * (a + (n-1)d)"
+        }
+      ]
+    },
+    {
+      "question": "જો ત્રીજું પદ 5 અને સાતમું પદ 13 હોય, તો સામાન્ય તફાવત શું છે?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "એક AP નું 11મું પદ શોધો જેનું પ્રથમ પદ -3 અને સામાન્ય તફાવત 4 છે.",
+      "options": [
+        {
+          "option": "41"
+        },
+        {
+          "option": "37",
+          "is_answer": true
+        },
+        {
+          "option": "33"
+        },
+        {
+          "option": "29"
+        }
+      ]
+    },
+    {
+      "question": "5 ના પ્રથમ 10 ગુણકોનો સરવાળો શું છે?",
+      "options": [
+        {
+          "option": "300"
+        },
+        {
+          "option": "250"
+        },
+        {
+          "option": "275",
+          "is_answer": true
+        },
+        {
+          "option": "225"
+        }
+      ]
+    },
+    {
+      "question": "એક AP માં, જો a=10 અને d=0 હોય, તો 100મું પદ શું છે?",
+      "options": [
+        {
+          "option": "100"
+        },
+        {
+          "option": "1000"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "AP: 2, 4, 6, ..., 20 નો સરવાળો શોધો.",
+      "options": [
+        {
+          "option": "110",
+          "is_answer": true
+        },
+        {
+          "option": "90"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "120"
+        }
+      ]
+    },
+    {
+      "question": "જો પ્રથમ n પદોનો સરવાળો n^2 હોય, તો પ્રથમ પદ શું છે?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "AP: 1/2, 1, 3/2, ... નું 5મું પદ શોધો.",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "4/2"
+        },
+        {
+          "option": "5/2",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "AP: 7, 13, 19, ..., 205 માં કેટલા પદો છે?",
+      "options": [
+        {
+          "option": "36"
+        },
+        {
+          "option": "35"
+        },
+        {
+          "option": "33"
+        },
+        {
+          "option": "34",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો સામાન્ય તફાવત -2 અને પ્રથમ પદ 10 હોય, તો 4થું પદ શું છે?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "AP ના nમા પદ માટેનું સૂત્ર શું છે?",
+      "options": [
+        {
+          "option": "a - (n-1)d"
+        },
+        {
+          "option": "a + (n-1)d",
+          "is_answer": true
+        },
+        {
+          "option": "a + (n+1)d"
+        },
+        {
+          "option": "a + nd"
+        }
+      ]
+    },
+    {
+      "question": "જો કોઈ શ્રેણી હાર્મોનિક પ્રોગ્રેસન (HP) માં હોય, તો તેના વ્યસ્ત પદો શેમાં હોય છે?",
+      "options": [
+        {
+          "option": "જિયોમેટ્રિક પ્રોગ્રેસન (GP)"
+        },
+        {
+          "option": "આમાંથી કોઈ નહીં"
+        },
+        {
+          "option": "હાર્મોનિક પ્રોગ્રેસન (HP)"
+        },
+        {
+          "option": "એરિથમેટિક પ્રોગ્રેસન (AP)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "કોઈપણ બે ધન સંખ્યાઓ a અને b માટે, AM, GM અને HM વચ્ચેનો સંબંધ શું છે?",
+      "options": [
+        {
+          "option": "AM * HM = GM^2",
+          "is_answer": true
+        },
+        {
+          "option": "AM * GM = HM^2"
+        },
+        {
+          "option": "AM + HM = 2 * GM"
+        },
+        {
+          "option": "GM * HM = AM^2"
+        }
+      ]
+    },
+    {
+      "question": "ધન વાસ્તવિક સંખ્યાઓ માટે AM, GM અને HM વચ્ચેનો સંબંધ કઈ અસમતા દર્શાવે છે?",
+      "options": [
+        {
+          "option": "AM >= HM >= GM"
+        },
+        {
+          "option": "GM >= AM >= HM"
+        },
+        {
+          "option": "HM >= GM >= AM"
+        },
+        {
+          "option": "AM >= GM >= HM",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "બે સંખ્યાઓ a અને b નો હાર્મોનિક મીન (HM) શું છે?",
+      "options": [
+        {
+          "option": "(a + b) / 2"
+        },
+        {
+          "option": "ab / (a + b)"
+        },
+        {
+          "option": "sqrt(ab)"
+        },
+        {
+          "option": "2ab / (a + b)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો HP નું ત્રીજું પદ 1/5 અને ચોથું પદ 1/7 હોય, તો પ્રથમ પદ શું છે?",
+      "options": [
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "1/11"
+        },
+        {
+          "option": "1/9"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો બે સંખ્યાઓનો AM અને HM અનુક્રમે 16 અને 9 હોય, તો તેમનો GM શું છે?",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "144"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "3 અને 6 નો હાર્મોનિક મીન શું છે?",
+      "options": [
+        {
+          "option": "3.5"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "4.5"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો a, b, c એ HP માં હોય, તો b એ શું છે?",
+      "options": [
+        {
+          "option": "a અને c નો હાર્મોનિક મીન",
+          "is_answer": true
+        },
+        {
+          "option": "a અને c નો એરિથમેટિક મીન"
+        },
+        {
+          "option": "આમાંથી કોઈ નહીં"
+        },
+        {
+          "option": "a અને c નો જિયોમેટ્રિક મીન"
+        }
+      ]
+    },
+    {
+      "question": "HP ના પદોનો વ્યસ્ત AP બનાવે છે. જો AP 1, 2, 3, 4 હોય, તો HP શું છે?",
+      "options": [
+        {
+          "option": "1/4, 1/3, 1/2, 1"
+        },
+        {
+          "option": "1, 2, 3, 4"
+        },
+        {
+          "option": "4, 3, 2, 1"
+        },
+        {
+          "option": "1, 1/2, 1/3, 1/4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "બે અલગ ધન સંખ્યાઓ માટે, AM હંમેશા:",
+      "options": [
+        {
+          "option": "HM ની બરાબર હોય છે"
+        },
+        {
+          "option": "આમાંથી કોઈ નહીં"
+        },
+        {
+          "option": "HM કરતા નાનો હોય છે"
+        },
+        {
+          "option": "HM કરતા મોટો હોય છે",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો બે સંખ્યાઓનો HM 4 અને AM 9 હોય, તો તેમનો GM શું છે?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "13"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        }
+      ]
+    },
+    {
+      "question": "કોઈપણ બે ધન સંખ્યાઓ a અને b માટે નીચેનામાંથી શું સાચું છે?",
+      "options": [
+        {
+          "option": "AM >= GM",
+          "is_answer": true
+        },
+        {
+          "option": "AM <= GM"
+        },
+        {
+          "option": "HM >= AM"
+        },
+        {
+          "option": "GM <= HM"
+        }
+      ]
+    },
+    {
+      "question": "જો 1/x, 1/(x+2), 1/(x+4) એ HP માં હોય, તો x શું છે?",
+      "options": [
+        {
+          "option": "કોઈપણ શૂન્યતર કિંમત",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "2 અને 4 નો હાર્મોનિક મીન શું છે?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8/3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો a, b, c એ HP માં હોય, તો (a-b)/(b-c) કોના બરાબર છે?",
+      "options": [
+        {
+          "option": "a/c",
+          "is_answer": true
+        },
+        {
+          "option": "c/a"
+        },
+        {
+          "option": "b/a"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "બે સંખ્યાઓનો HM 12 અને AM 27 છે. તેમનો GM શું છે?",
+      "options": [
+        {
+          "option": "324"
+        },
+        {
+          "option": "39"
+        },
+        {
+          "option": "18",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "જો શ્રેણી 1/2, 1/4, 1/6, 1/8 એ HP માં હોય, તો પાંચમું પદ શું છે?",
+      "options": [
+        {
+          "option": "1/10",
+          "is_answer": true
+        },
+        {
+          "option": "1/9"
+        },
+        {
+          "option": "1/5"
+        },
+        {
+          "option": "1/12"
+        }
+      ]
+    },
+    {
+      "question": "સંબંધ AM * HM = GM^2 કોના માટે સાચો છે?",
+      "options": [
+        {
+          "option": "કોઈપણ બે વાસ્તવિક સંખ્યાઓ"
+        },
+        {
+          "option": "માત્ર ધન પૂર્ણાંકો"
+        },
+        {
+          "option": "કોઈપણ બે ધન સંખ્યાઓ",
+          "is_answer": true
+        },
+        {
+          "option": "માત્ર ઋણ સંખ્યાઓ"
+        }
+      ]
+    },
+    {
+      "question": "જો a, b, c એ HP માં હોય, તો 1/a, 1/b, 1/c શેમાં હોય?",
+      "options": [
+        {
+          "option": "AP",
+          "is_answer": true
+        },
+        {
+          "option": "HP"
+        },
+        {
+          "option": "GP"
+        },
+        {
+          "option": "આમાંથી કોઈ નહીં"
+        }
+      ]
+    },
+    {
+      "question": "1 અને 1/3 નો હાર્મોનિક મીન શું છે?",
+      "options": [
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "1/2",
+          "is_answer": true
+        },
+        {
+          "option": "2/3"
+        },
+        {
+          "option": "3/4"
+        }
+      ]
+    },
+    {
+      "question": "(x + y)^n ના વિસ્તરણમાં પદોની સંખ્યા કેટલી હોય છે?",
+      "options": [
+        {
+          "option": "n - 1"
+        },
+        {
+          "option": "n + 1",
+          "is_answer": true
+        },
+        {
+          "option": "n"
+        },
+        {
+          "option": "2n"
+        }
+      ]
+    },
+    {
+      "question": "(1 + x)^n ના વિસ્તરણમાં x^n નો સહગુણક શું છે?",
+      "options": [
+        {
+          "option": "nCr"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "n"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "(a + b)^n ના વિસ્તરણમાં સામાન્ય પદ T_(r+1) શું છે?",
+      "options": [
+        {
+          "option": "nCr * a^(n-r) * b^(r+1)"
+        },
+        {
+          "option": "nCr * a^(n+r) * b^r"
+        },
+        {
+          "option": "nCr * a^r * b^(n-r)"
+        },
+        {
+          "option": "nCr * a^(n-r) * b^r",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "(x + y)^n માં દ્વિપદી સહગુણકોનો સરવાળો શું છે?",
+      "options": [
+        {
+          "option": "2^n",
+          "is_answer": true
+        },
+        {
+          "option": "2n"
+        },
+        {
+          "option": "n^2"
+        },
+        {
+          "option": "2^(n-1)"
+        }
+      ]
+    },
+    {
+      "question": "જો n યુગ્મ હોય, તો (x + y)^n માં મધ્યમ પદ કયું છે?",
+      "options": [
+        {
+          "option": "(n/2 + 1)મું પદ",
+          "is_answer": true
+        },
+        {
+          "option": "(n/2)મું પદ"
+        },
+        {
+          "option": "(n + 1)મું પદ"
+        },
+        {
+          "option": "(n/2 + 2)મું પદ"
+        }
+      ]
+    },
+    {
+      "question": "nC0 ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "n!"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "n"
+        }
+      ]
+    },
+    {
+      "question": "nCn ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "n"
+        },
+        {
+          "option": "n!"
+        }
+      ]
+    },
+    {
+      "question": "(1 + x)^4 માં x^2 નો સહગુણક શું છે?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "(x + y)^n માં સહગુણકોનો સરવાળો શું છે?",
+      "options": [
+        {
+          "option": "2^n",
+          "is_answer": true
+        },
+        {
+          "option": "n^2"
+        },
+        {
+          "option": "n"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "પાસ્કલના ત્રિકોણમાં, n-મી હરોળના ઘટકોનો સરવાળો શું છે (n=0 થી શરૂ કરીને)?",
+      "options": [
+        {
+          "option": "n"
+        },
+        {
+          "option": "2^n",
+          "is_answer": true
+        },
+        {
+          "option": "2^(n+1)"
+        },
+        {
+          "option": "n^2"
+        }
+      ]
+    },
+    {
+      "question": "nC1 ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "n",
+          "is_answer": true
+        },
+        {
+          "option": "n-1"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "જો n એકી હોય, તો (x + y)^n માં કેટલા મધ્યમ પદો હોય છે?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "(1 + x)^2 માં મધ્યમ પદનો સહગુણક શું છે?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કયું nCr ને સમાન છે?",
+      "options": [
+        {
+          "option": "nC(n-r)",
+          "is_answer": true
+        },
+        {
+          "option": "nCr-1"
+        },
+        {
+          "option": "rCn"
+        },
+        {
+          "option": "nCr+1"
+        }
+      ]
+    },
+    {
+      "question": "(x + 1/x)^2 માં અચળ પદ શું છે?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "5C2 ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "(a + b)^n માં, કોઈપણ પદમાં a અને b ના ઘાતાંકોનો સરવાળો હંમેશા કોના બરાબર હોય છે?",
+      "options": [
+        {
+          "option": "n-1"
+        },
+        {
+          "option": "n",
+          "is_answer": true
+        },
+        {
+          "option": "2n"
+        },
+        {
+          "option": "n+1"
+        }
+      ]
+    },
+    {
+      "question": "(1 + 2x)^3 માં x નો સહગુણક શું છે?",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "(1 + x)^4 ના વિસ્તરણમાં ત્રીજું પદ કયું છે?",
+      "options": [
+        {
+          "option": "4x^2"
+        },
+        {
+          "option": "x^2"
+        },
+        {
+          "option": "6x^2",
+          "is_answer": true
+        },
+        {
+          "option": "12x^2"
+        }
+      ]
+    },
+    {
+      "question": "દ્વિપદી સહગુણકો સંમિત હોય છે, એટલે કે nCr કોના બરાબર છે?",
+      "options": [
+        {
+          "option": "rCn"
+        },
+        {
+          "option": "nCr-1"
+        },
+        {
+          "option": "nC(n-r)",
+          "is_answer": true
+        },
+        {
+          "option": "nCr+1"
+        }
+      ]
+    },
+    {
+      "question": "જો A એ 2x3 શ્રેણિક હોય અને B એ 3x2 શ્રેણિક હોય, તો AB ગુણાકારના શ્રેણિકનું પરિમાણ શું હશે?",
+      "options": [
+        {
+          "option": "2x3"
+        },
+        {
+          "option": "3x2"
+        },
+        {
+          "option": "2x2",
+          "is_answer": true
+        },
+        {
+          "option": "3x3"
+        }
+      ]
+    },
+    {
+      "question": "2x3 શ્રેણિકનો પરિવર્તિત શ્રેણિક (transpose) શું થાય?",
+      "options": [
+        {
+          "option": "6x1"
+        },
+        {
+          "option": "2x3"
+        },
+        {
+          "option": "1x6"
+        },
+        {
+          "option": "3x2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "બે શ્રેણિકોના ગુણાકારનો પરિવર્તિત શ્રેણિક (AB)^T કયા ગુણધર્મ દ્વારા દર્શાવાય છે?",
+      "options": [
+        {
+          "option": "A * B"
+        },
+        {
+          "option": "B * A"
+        },
+        {
+          "option": "B^T * A^T",
+          "is_answer": true
+        },
+        {
+          "option": "A^T * B^T"
+        }
+      ]
+    },
+    {
+      "question": "શ્રેણિકના સરવાળા માટે કઈ શરતનું પાલન થવું જરૂરી છે?",
+      "options": [
+        {
+          "option": "શ્રેણિકમાં ઘટકોની સંખ્યા સમાન હોવી જોઈએ"
+        },
+        {
+          "option": "શ્રેણિક ચોરસ હોવા જોઈએ"
+        },
+        {
+          "option": "શ્રેણિકના પરિમાણ સમાન હોવા જોઈએ",
+          "is_answer": true
+        },
+        {
+          "option": "શ્રેણિક વ્યસ્ત હોવા જોઈએ"
+        }
+      ]
+    },
+    {
+      "question": "જો A = [[1, 2], [3, 4]] હોય, તો A^T શું થાય?",
+      "options": [
+        {
+          "option": "[[1, 3], [2, 4]]",
+          "is_answer": true
+        },
+        {
+          "option": "[[2, 1], [4, 3]]"
+        },
+        {
+          "option": "[[1, 2], [3, 4]]"
+        },
+        {
+          "option": "[[4, 3], [2, 1]]"
+        }
+      ]
+    },
+    {
+      "question": "શું શ્રેણિકનો ગુણાકાર ક્રમનો નિયમ પાળે છે (AB = BA)?",
+      "options": [
+        {
+          "option": "માત્ર એકમ શ્રેણિક માટે"
+        },
+        {
+          "option": "હા, હંમેશા"
+        },
+        {
+          "option": "ના, સામાન્ય રીતે નહીં",
+          "is_answer": true
+        },
+        {
+          "option": "માત્ર ચોરસ શ્રેણિક માટે"
+        }
+      ]
+    },
+    {
+      "question": "2x2 શ્રેણિકનો બીજા 2x2 શ્રેણિક સાથે સરવાળો કરવાથી શું પરિણામ મળે?",
+      "options": [
+        {
+          "option": "2x4 શ્રેણિક"
+        },
+        {
+          "option": "4x4 શ્રેણિક"
+        },
+        {
+          "option": "2x2 શ્રેણિક",
+          "is_answer": true
+        },
+        {
+          "option": "અદિશ કિંમત"
+        }
+      ]
+    },
+    {
+      "question": "જો A એ 3x3 શ્રેણિક હોય, તો (A^T)^T શું થાય?",
+      "options": [
+        {
+          "option": "A",
+          "is_answer": true
+        },
+        {
+          "option": "A^T"
+        },
+        {
+          "option": "I"
+        },
+        {
+          "option": "2A"
+        }
+      ]
+    },
+    {
+      "question": "શ્રેણિકના સરવાળા માટે નીચેનામાંથી શું સાચું છે?",
+      "options": [
+        {
+          "option": "(A + B) = AB"
+        },
+        {
+          "option": "(A + B)^T = A^T - B^T"
+        },
+        {
+          "option": "(A + B) = (A - B)"
+        },
+        {
+          "option": "(A + B) = (B + A)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો A એ 1x3 શ્રેણિક હોય અને B એ 3x1 શ્રેણિક હોય, તો AB નું પરિમાણ શું થાય?",
+      "options": [
+        {
+          "option": "3x3"
+        },
+        {
+          "option": "1x1",
+          "is_answer": true
+        },
+        {
+          "option": "1x3"
+        },
+        {
+          "option": "3x1"
+        }
+      ]
+    },
+    {
+      "question": "હાર સદિશ [1, 2, 3] નો પરિવર્તિત શ્રેણિક શું થાય?",
+      "options": [
+        {
+          "option": "અદિશ"
+        },
+        {
+          "option": "3x3 શ્રેણિક"
+        },
+        {
+          "option": "સ્તંભ સદિશ",
+          "is_answer": true
+        },
+        {
+          "option": "હાર સદિશ"
+        }
+      ]
+    },
+    {
+      "question": "જો A = [[0, 1], [1, 0]] હોય, તો A + A શું થાય?",
+      "options": [
+        {
+          "option": "[[0, 1], [1, 0]]"
+        },
+        {
+          "option": "[[1, 1], [1, 1]]"
+        },
+        {
+          "option": "[[0, 0], [0, 0]]"
+        },
+        {
+          "option": "[[0, 2], [2, 0]]",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "શું 2x3 શ્રેણિકનો ગુણાકાર 2x3 શ્રેણિક સાથે થઈ શકે?",
+      "options": [
+        {
+          "option": "ના",
+          "is_answer": true
+        },
+        {
+          "option": "માત્ર જો તે ચોરસ હોય"
+        },
+        {
+          "option": "હા"
+        },
+        {
+          "option": "માત્ર જો ઘટકો શૂન્ય હોય"
+        }
+      ]
+    },
+    {
+      "question": "(A + B)^T માટે નીચેનામાંથી શું સાચું છે?",
+      "options": [
+        {
+          "option": "A + B"
+        },
+        {
+          "option": "A^T + B^T",
+          "is_answer": true
+        },
+        {
+          "option": "B^T + A"
+        },
+        {
+          "option": "A^T * B^T"
+        }
+      ]
+    },
+    {
+      "question": "જો A ચોરસ શ્રેણિક હોય, તો A + A^T શું થાય?",
+      "options": [
+        {
+          "option": "એકમ શ્રેણિક"
+        },
+        {
+          "option": "શૂન્ય શ્રેણિક"
+        },
+        {
+          "option": "સંમિત શ્રેણિક",
+          "is_answer": true
+        },
+        {
+          "option": "વિસંમિત શ્રેણિક"
+        }
+      ]
+    },
+    {
+      "question": "2 કક્ષાનો એકમ શ્રેણિક કયો છે?",
+      "options": [
+        {
+          "option": "[[1, 0], [0, 1]]",
+          "is_answer": true
+        },
+        {
+          "option": "[[2, 0], [0, 2]]"
+        },
+        {
+          "option": "[[0, 1], [1, 0]]"
+        },
+        {
+          "option": "[[1, 1], [1, 1]]"
+        }
+      ]
+    },
+    {
+      "question": "જો A = [1, 2] અને B = [3, 4] હોય, તો શું A + B વ્યાખ્યાયિત છે?",
+      "options": [
+        {
+          "option": "ના"
+        },
+        {
+          "option": "માત્ર જો પરિવર્તિત કરવામાં આવે"
+        },
+        {
+          "option": "માત્ર જો ગુણાકાર કરવામાં આવે"
+        },
+        {
+          "option": "હા",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "શ્રેણિક A નો અદિશ k સાથે ગુણાકાર કરવાથી શું પરિણામ મળે?",
+      "options": [
+        {
+          "option": "માત્ર પ્રથમ હારને k વડે ગુણવામાં આવે છે"
+        },
+        {
+          "option": "માત્ર વિકર્ણને k વડે ગુણવામાં આવે છે"
+        },
+        {
+          "option": "શ્રેણિક બદલાતો નથી"
+        },
+        {
+          "option": "A ના દરેક ઘટકને k વડે ગુણવામાં આવે છે",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો A એ 2x2 શ્રેણિક હોય, તો (kA)^T શું થાય?",
+      "options": [
+        {
+          "option": "k * A^T",
+          "is_answer": true
+        },
+        {
+          "option": "k * A"
+        },
+        {
+          "option": "A^T"
+        },
+        {
+          "option": "k^2 * A^T"
+        }
+      ]
+    },
+    {
+      "question": "જુદા જુદા પરિમાણ ધરાવતા શ્રેણિકો માટે કઈ પ્રક્રિયા શક્ય નથી?",
+      "options": [
+        {
+          "option": "બીજા શ્રેણિક સાથે ગુણાકાર"
+        },
+        {
+          "option": "પરિવર્તિત શ્રેણિક"
+        },
+        {
+          "option": "અદિશ સાથે ગુણાકાર"
+        },
+        {
+          "option": "સરવાળો",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "i^2 નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "i"
+        },
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "-i"
+        }
+      ]
+    },
+    {
+      "question": "3 + 4i નો સંકર અનુબદ્ધ (complex conjugate) શું છે?",
+      "options": [
+        {
+          "option": "3 + 4i"
+        },
+        {
+          "option": "-3 + 4i"
+        },
+        {
+          "option": "-3 - 4i"
+        },
+        {
+          "option": "3 - 4i",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "z = 3 + 4i નો માનાંક (modulus) શું છે?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "સંકર સંખ્યા 5 - 2i નો કાલ્પનિક ભાગ કયો છે?",
+      "options": [
+        {
+          "option": "-2",
+          "is_answer": true
+        },
+        {
+          "option": "-2i"
+        },
+        {
+          "option": "2i"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "i^4 નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "i"
+        },
+        {
+          "option": "-i"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "z = -7 + 8i નો વાસ્તવિક ભાગ કયો છે?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "-7",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "-8"
+        }
+      ]
+    },
+    {
+      "question": "જો z = a + bi હોય, તો z * conjugate(z) શું થાય?",
+      "options": [
+        {
+          "option": "a^2 - b^2"
+        },
+        {
+          "option": "a^2 + b^2i"
+        },
+        {
+          "option": "a + b"
+        },
+        {
+          "option": "a^2 + b^2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "i^3 નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "i"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "-i",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "આર્ગેન્ડ સમતલમાં કઈ ધરી કાલ્પનિક ભાગ દર્શાવે છે?",
+      "options": [
+        {
+          "option": "ઉગમબિંદુ"
+        },
+        {
+          "option": "x-અક્ષ"
+        },
+        {
+          "option": "આમાંથી કોઈ નહીં"
+        },
+        {
+          "option": "y-અક્ષ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "(2 + 3i) અને (1 - i) નો સરવાળો શું થાય?",
+      "options": [
+        {
+          "option": "3 + 4i"
+        },
+        {
+          "option": "1 + 2i"
+        },
+        {
+          "option": "3 - 2i"
+        },
+        {
+          "option": "3 + 2i",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "z = 0 + 5i નો માનાંક શું છે?",
+      "options": [
+        {
+          "option": "-5"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "-5i નો અનુબદ્ધ શું છે?",
+      "options": [
+        {
+          "option": "-5i"
+        },
+        {
+          "option": "5i",
+          "is_answer": true
+        },
+        {
+          "option": "-5"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "i^0 નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "-1"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "i"
+        }
+      ]
+    },
+    {
+      "question": "આર્ગેન્ડ સમતલમાં કઈ ધરી વાસ્તવિક ભાગ દર્શાવે છે?",
+      "options": [
+        {
+          "option": "y-અક્ષ"
+        },
+        {
+          "option": "ઉગમબિંદુ"
+        },
+        {
+          "option": "x-અક્ષ",
+          "is_answer": true
+        },
+        {
+          "option": "આમાંથી કોઈ નહીં"
+        }
+      ]
+    },
+    {
+      "question": "(1 + i)^2 નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "2i",
+          "is_answer": true
+        },
+        {
+          "option": "1 + i"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "z = -3 + 0i નો માનાંક શું છે?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "-3"
+        }
+      ]
+    },
+    {
+      "question": "i અને -i નો ગુણાકાર શું થાય?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "i"
+        }
+      ]
+    },
+    {
+      "question": "7 નો અનુબદ્ધ શું છે?",
+      "options": [
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "-7i"
+        },
+        {
+          "option": "7i"
+        },
+        {
+          "option": "-7"
+        }
+      ]
+    },
+    {
+      "question": "i^5 નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "-1"
+        },
+        {
+          "option": "i",
+          "is_answer": true
+        },
+        {
+          "option": "-i"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "જો z = 2 + 2i હોય, તો |z| શું થાય?",
+      "options": [
+        {
+          "option": "sqrt(8)",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "sqrt(2)"
+        }
+      ]
+    },
+    {
+      "question": "2x2 શ્રેણિક [[1, 2], [3, 4]] નો નિશ્ચાયક શું છે?",
+      "options": [
+        {
+          "option": "-10"
+        },
+        {
+          "option": "-2",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "જો 3x3 નિશ્ચાયકની બે હાર સમાન હોય, તો તેનું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "-1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "નક્કી કરી શકાતું નથી"
+        }
+      ]
+    },
+    {
+      "question": "2x2 શ્રેણિક [[5, 0], [2, 3]] નો નિશ્ચાયક શોધો.",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "3x3 ક્રમના એકમ શ્રેણિક I નો નિશ્ચાયક શું છે?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "જો નિશ્ચાયકની એક હારને અદિશ k વડે ગુણવામાં આવે, તો નિશ્ચાયકનું મૂલ્ય:",
+      "options": [
+        {
+          "option": "k વડે ગુણાય છે",
+          "is_answer": true
+        },
+        {
+          "option": "k વડે ભાગાય છે"
+        },
+        {
+          "option": "k^2 વડે ગુણાય છે"
+        },
+        {
+          "option": "સમાન રહે છે"
+        }
+      ]
+    },
+    {
+      "question": "[[1, 0, 0], [0, 1, 0], [0, 0, 5]] નો નિશ્ચાયક શું છે?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "જો હારના તમામ ઘટકો શૂન્ય હોય, તો નિશ્ચાયકનું મૂલ્ય:",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "નક્કી કરી શકાતું નથી"
+        },
+        {
+          "option": "અવ્યાખ્યાયિત"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "[[2, 1], [1, 2]] નો નિશ્ચાયક શોધો.",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "જો શ્રેણિક A એ 3x3 હોય અને det(A) = 5 હોય, તો det(2A) શું થાય?",
+      "options": [
+        {
+          "option": "40",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "બધી હાર શૂન્ય હોય તેવા શ્રેણિકનો નિશ્ચાયક શું છે?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "અન્ય હાર પર આધાર રાખે છે"
+        },
+        {
+          "option": "અનંત"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "ત્રિકોણીય શ્રેણિકનો નિશ્ચાયક તેના કયા ઘટકોનો ગુણાકાર છે?",
+      "options": [
+        {
+          "option": "વિકર્ણ ઘટકો",
+          "is_answer": true
+        },
+        {
+          "option": "બિન-વિકર્ણ ઘટકો"
+        },
+        {
+          "option": "હારના ઘટકો"
+        },
+        {
+          "option": "સ્તંભના ઘટકો"
+        }
+      ]
+    },
+    {
+      "question": "[[0, 1], [1, 0]] નો નિશ્ચાયક શોધો.",
+      "options": [
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "જો નિશ્ચાયકના બે સ્તંભોની અદલાબદલી કરવામાં આવે, તો નિશ્ચાયકની નિશાની:",
+      "options": [
+        {
+          "option": "શૂન્ય થાય છે"
+        },
+        {
+          "option": "સમાન રહે છે"
+        },
+        {
+          "option": "બમણી થાય છે"
+        },
+        {
+          "option": "બદલાય છે",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "[[3, 0, 0], [0, 2, 0], [0, 0, 1]] નો નિશ્ચાયક શું છે?",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "જો det(A) = 0 હોય, તો શ્રેણિક A ને શું કહેવાય?",
+      "options": [
+        {
+          "option": "એકમ શ્રેણિક"
+        },
+        {
+          "option": "સામાન્ય (Non-singular)"
+        },
+        {
+          "option": "વિકર્ણ શ્રેણિક"
+        },
+        {
+          "option": "અસામાન્ય (Singular)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "[[1, 2, 3], [0, 1, 4], [0, 0, 1]] નો નિશ્ચાયક શોધો.",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "2x2 શ્રેણિક [[a, b], [c, d]] નો નિશ્ચાયક શું છે?",
+      "options": [
+        {
+          "option": "ad - bc",
+          "is_answer": true
+        },
+        {
+          "option": "ad + bc"
+        },
+        {
+          "option": "ac - bd"
+        },
+        {
+          "option": "ab - cd"
+        }
+      ]
+    },
+    {
+      "question": "જો સ્તંભના તમામ ઘટકોને k વડે ગુણવામાં આવે, તો નિશ્ચાયક:",
+      "options": [
+        {
+          "option": "અપરિવર્તિત રહે છે"
+        },
+        {
+          "option": "k વડે ગુણાય છે",
+          "is_answer": true
+        },
+        {
+          "option": "k^3 વડે ગુણાય છે"
+        },
+        {
+          "option": "k વડે ભાગાય છે"
+        }
+      ]
+    },
+    {
+      "question": "શ્રેણિક A ના પરિવર્તિત શ્રેણિક (transpose) નો નિશ્ચાયક શું છે?",
+      "options": [
+        {
+          "option": "det(A) નો ઋણ"
+        },
+        {
+          "option": "શૂન્ય"
+        },
+        {
+          "option": "det(A) જેટલો",
+          "is_answer": true
+        },
+        {
+          "option": "det(A) નો વ્યસ્ત"
+        }
+      ]
+    },
+    {
+      "question": "[[2, 0], [0, 2]] નો નિશ્ચાયક શું છે?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "ચોરસ શ્રેણિક A ના વ્યસ્ત માટેનું સૂત્ર શું છે?",
+      "options": [
+        {
+          "option": "A^(-1) = det(A) / adj(A)"
+        },
+        {
+          "option": "A^(-1) = adj(A) * det(A)"
+        },
+        {
+          "option": "A^(-1) = 1 / adj(A)"
+        },
+        {
+          "option": "A^(-1) = adj(A) / det(A)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "શ્રેણિક A વ્યસ્ત હોય તે માટે શું સાચું હોવું જોઈએ?",
+      "options": [
+        {
+          "option": "det(A) ≠ 0",
+          "is_answer": true
+        },
+        {
+          "option": "adj(A) = 0"
+        },
+        {
+          "option": "det(A) = 0"
+        },
+        {
+          "option": "A = 0"
+        }
+      ]
+    },
+    {
+      "question": "2x2 શ્રેણિક [[a, b], [c, d]] નો એડજોઈન્ટ (adj) શું છે?",
+      "options": [
+        {
+          "option": "[[a, -b], [-c, d]]"
+        },
+        {
+          "option": "[[d, -b], [-c, a]]",
+          "is_answer": true
+        },
+        {
+          "option": "[[a, c], [b, d]]"
+        },
+        {
+          "option": "[[d, b], [c, a]]"
+        }
+      ]
+    },
+    {
+      "question": "જો A એ n કક્ષાનો ચોરસ શ્રેણિક હોય, તો A * adj(A) શું થાય?",
+      "options": [
+        {
+          "option": "det(A)"
+        },
+        {
+          "option": "det(A) * I",
+          "is_answer": true
+        },
+        {
+          "option": "I"
+        },
+        {
+          "option": "adj(A)"
+        }
+      ]
+    },
+    {
+      "question": "3x3 કક્ષાના શ્રેણિક A ના એડજોઈન્ટનો નિશ્ચાયક શું થાય?",
+      "options": [
+        {
+          "option": "det(A)"
+        },
+        {
+          "option": "1 / det(A)"
+        },
+        {
+          "option": "(det(A))^3"
+        },
+        {
+          "option": "(det(A))^2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "એકમ શ્રેણિક I નો વ્યસ્ત શું છે?",
+      "options": [
+        {
+          "option": "I",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "det(I)"
+        },
+        {
+          "option": "adj(I)"
+        }
+      ]
+    },
+    {
+      "question": "જો A એ અસામાન્ય (singular) શ્રેણિક હોય, તો તેનો વ્યસ્ત:",
+      "options": [
+        {
+          "option": "0 છે"
+        },
+        {
+          "option": "I છે"
+        },
+        {
+          "option": "અસ્તિત્વ ધરાવતો નથી",
+          "is_answer": true
+        },
+        {
+          "option": "adj(A) છે"
+        }
+      ]
+    },
+    {
+      "question": "વિકર્ણ શ્રેણિકનો એડજોઈન્ટ શું હોય છે?",
+      "options": [
+        {
+          "option": "અદિશ શ્રેણિક"
+        },
+        {
+          "option": "એકમ શ્રેણિક"
+        },
+        {
+          "option": "વિકર્ણ શ્રેણિક",
+          "is_answer": true
+        },
+        {
+          "option": "શૂન્ય શ્રેણિક"
+        }
+      ]
+    },
+    {
+      "question": "બે શ્રેણિકોના ગુણાકારના વ્યસ્ત માટે કયો ગુણધર્મ સાચો છે?",
+      "options": [
+        {
+          "option": "(AB)^(-1) = B^(-1)A^(-1)",
+          "is_answer": true
+        },
+        {
+          "option": "(AB)^(-1) = AB"
+        },
+        {
+          "option": "(AB)^(-1) = BA"
+        },
+        {
+          "option": "(AB)^(-1) = A^(-1)B^(-1)"
+        }
+      ]
+    },
+    {
+      "question": "2x2 શ્રેણિક A માટે adj(adj(A)) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "A",
+          "is_answer": true
+        },
+        {
+          "option": "A^2"
+        },
+        {
+          "option": "adj(A)"
+        },
+        {
+          "option": "det(A) * A"
+        }
+      ]
+    },
+    {
+      "question": "જો AX = B હોય, તો ઉકેલ X કેવી રીતે મળે?",
+      "options": [
+        {
+          "option": "X = A/B"
+        },
+        {
+          "option": "X = B/A"
+        },
+        {
+          "option": "X = A^(-1)B",
+          "is_answer": true
+        },
+        {
+          "option": "X = BA^(-1)"
+        }
+      ]
+    },
+    {
+      "question": "ઘટક a_ij ના સહઅવયવને શેના દ્વારા દર્શાવવામાં આવે છે?",
+      "options": [
+        {
+          "option": "adj_ij"
+        },
+        {
+          "option": "M_ij"
+        },
+        {
+          "option": "C_ij",
+          "is_answer": true
+        },
+        {
+          "option": "det_ij"
+        }
+      ]
+    },
+    {
+      "question": "જો A સંમિત શ્રેણિક હોય, તો A^(-1) શું હોય?",
+      "options": [
+        {
+          "option": "વિસંમિત"
+        },
+        {
+          "option": "શૂન્ય"
+        },
+        {
+          "option": "વિકર્ણ"
+        },
+        {
+          "option": "સંમિત",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A^(-1) નો નિશ્ચાયક શું છે?",
+      "options": [
+        {
+          "option": "1 / det(A)",
+          "is_answer": true
+        },
+        {
+          "option": "det(A)"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-det(A)"
+        }
+      ]
+    },
+    {
+      "question": "અદિશ શ્રેણિકનો એડજોઈન્ટ શું છે?",
+      "options": [
+        {
+          "option": "શૂન્ય શ્રેણિક"
+        },
+        {
+          "option": "સંમિત શ્રેણિક"
+        },
+        {
+          "option": "અદિશ શ્રેણિક",
+          "is_answer": true
+        },
+        {
+          "option": "એકમ શ્રેણિક"
+        }
+      ]
+    },
+    {
+      "question": "જો det(A) = 5 હોય, તો 2x2 શ્રેણિક માટે det(adj(A)) શું થાય?",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "કોઈપણ ચોરસ શ્રેણિક A માટે નીચેનામાંથી શું સાચું છે?",
+      "options": [
+        {
+          "option": "A * adj(A) = I"
+        },
+        {
+          "option": "A * adj(A) = adj(A) * A",
+          "is_answer": true
+        },
+        {
+          "option": "A * adj(A) = 0"
+        },
+        {
+          "option": "A * adj(A) ≠ adj(A) * A"
+        }
+      ]
+    },
+    {
+      "question": "શ્રેણિકનો વ્યસ્ત ત્યારે જ અસ્તિત્વ ધરાવે છે જો તે:",
+      "options": [
+        {
+          "option": "શૂન્ય હોય"
+        },
+        {
+          "option": "લંબચોરસ હોય"
+        },
+        {
+          "option": "બિન-અસામાન્ય (non-singular) હોય",
+          "is_answer": true
+        },
+        {
+          "option": "અસામાન્ય (singular) હોય"
+        }
+      ]
+    },
+    {
+      "question": "જો A લંબકોણીય (orthogonal) શ્રેણિક હોય, તો A^(-1) કોના બરાબર થાય?",
+      "options": [
+        {
+          "option": "I"
+        },
+        {
+          "option": "A^T",
+          "is_answer": true
+        },
+        {
+          "option": "A"
+        },
+        {
+          "option": "adj(A)"
+        }
+      ]
+    },
+    {
+      "question": "સહઅવયવ શ્રેણિક એ કયા શ્રેણિકનો પરિવર્તિત (transpose) શ્રેણિક છે?",
+      "options": [
+        {
+          "option": "મૂળ શ્રેણિક"
+        },
+        {
+          "option": "નિશ્ચાયક શ્રેણિક"
+        },
+        {
+          "option": "એડજોઈન્ટ શ્રેણિક",
+          "is_answer": true
+        },
+        {
+          "option": "વ્યસ્ત શ્રેણિક"
+        }
+      ]
+    },
+    {
+      "question": "1/((x-1)(x+2)) માટે આંશિક અપૂર્ણાંક વિઘટનનું સાચું સ્વરૂપ કયું છે?",
+      "options": [
+        {
+          "option": "A/(x-1) - B/(x+2)"
+        },
+        {
+          "option": "(Ax+B)/(x-1) + C/(x+2)"
+        },
+        {
+          "option": "A/(x-1) + B/(x+2)",
+          "is_answer": true
+        },
+        {
+          "option": "A/(x-1)^2 + B/(x+2)"
+        }
+      ]
+    },
+    {
+      "question": "છેદમાં પુનરાવર્તિત સુરેખ અવયવ (x-a)^2 માટે કયા સ્વરૂપનો ઉપયોગ થાય છે?",
+      "options": [
+        {
+          "option": "(Ax+B)/(x-a)^2"
+        },
+        {
+          "option": "A/(x-a)^2"
+        },
+        {
+          "option": "A/(x-a) + B/(x-a)^2",
+          "is_answer": true
+        },
+        {
+          "option": "A/(x-a) + B/(x-a)"
+        }
+      ]
+    },
+    {
+      "question": "અવિભાજ્ય દ્વિઘાત અવયવ (x^2+1) માટે વિઘટનનું સ્વરૂપ શું છે?",
+      "options": [
+        {
+          "option": "A/x^2 + B/1"
+        },
+        {
+          "option": "(Ax+B)/(x^2+1)",
+          "is_answer": true
+        },
+        {
+          "option": "(Ax+B)/(x^2+1)^2"
+        },
+        {
+          "option": "A/(x^2+1)"
+        }
+      ]
+    },
+    {
+      "question": "પદાવલિ 1/(x(x-1)^2) માટે, સાચું વિઘટન માળખું શું છે?",
+      "options": [
+        {
+          "option": "A/x + B/(x-1) + C/(x-1)^2",
+          "is_answer": true
+        },
+        {
+          "option": "A/x + (Bx+C)/(x-1)^2"
+        },
+        {
+          "option": "A/x + B/(x-1) + C/(x-1)"
+        },
+        {
+          "option": "A/x + B/(x-1)^2"
+        }
+      ]
+    },
+    {
+      "question": "જો અંશની ઘાત છેદની ઘાત કરતા મોટી અથવા સમાન હોય, તો પહેલા શું કરવું જોઈએ?",
+      "options": [
+        {
+          "option": "બહુપદીનો લાંબો ભાગાકાર",
+          "is_answer": true
+        },
+        {
+          "option": "અંશના અવયવો પાડવા"
+        },
+        {
+          "option": "આંશિક અપૂર્ણાંક વિઘટન"
+        },
+        {
+          "option": "છેદને શૂન્ય તરીકે લેવો"
+        }
+      ]
+    },
+    {
+      "question": "1/((x^2+1)(x-2)) માટે આંશિક અપૂર્ણાંક સ્વરૂપ શું છે?",
+      "options": [
+        {
+          "option": "A/(x^2+1) + B/(x-2)"
+        },
+        {
+          "option": "A/(x^2+1) + B/(x-2)^2"
+        },
+        {
+          "option": "(Ax+B)/(x^2+1) + (Cx+D)/(x-2)"
+        },
+        {
+          "option": "(Ax+B)/(x^2+1) + C/(x-2)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "1/((x-1)(x-2)(x-3)) ના વિઘટનમાં, કેટલા અચળાંકો (A, B, C...) ની જરૂર છે?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "1/(x^2(x+1)) માટે સાચું વિઘટન શું છે?",
+      "options": [
+        {
+          "option": "A/x + B/(x+1)"
+        },
+        {
+          "option": "(Ax+B)/x^2 + C/(x+1)"
+        },
+        {
+          "option": "A/x + B/x^2 + C/(x+1)",
+          "is_answer": true
+        },
+        {
+          "option": "A/x^2 + B/(x+1)"
+        }
+      ]
+    },
+    {
+      "question": "આંશિક અપૂર્ણાંકમાં અચળાંકો શોધવા માટે કઈ પદ્ધતિનો સામાન્ય રીતે ઉપયોગ થાય છે?",
+      "options": [
+        {
+          "option": "સહગુણકોની સરખામણી",
+          "is_answer": true
+        },
+        {
+          "option": "સંશ્લેષિત ભાગાકાર"
+        },
+        {
+          "option": "દ્વિઘાત સૂત્ર"
+        },
+        {
+          "option": "ચોકડી ગુણાકાર"
+        }
+      ]
+    },
+    {
+      "question": "1/(x^2-4) નું વિઘટન શું છે?",
+      "options": [
+        {
+          "option": "(Ax+B)/(x^2-4)"
+        },
+        {
+          "option": "A/(x-2) + B/(x+2)",
+          "is_answer": true
+        },
+        {
+          "option": "A/(x-2) + B/(x-2)"
+        },
+        {
+          "option": "A/(x^2-4)"
+        }
+      ]
+    },
+    {
+      "question": "પુનરાવર્તિત દ્વિઘાત અવયવ (x^2+1)^2 માટે, સાચું સ્વરૂપ કયું છે?",
+      "options": [
+        {
+          "option": "(Ax+B)/(x^2+1) + (Cx+D)/(x^2+1)^2",
+          "is_answer": true
+        },
+        {
+          "option": "(Ax+B)/(x^2+1)^2"
+        },
+        {
+          "option": "A/(x^2+1) + B/(x^2+1)^2"
+        },
+        {
+          "option": "(Ax+B)/(x^2+1) + (Cx+D)/(x^2+1)"
+        }
+      ]
+    },
+    {
+      "question": "(x^3+1)/(x-1) ના વિઘટનનું પ્રથમ પગલું શું છે?",
+      "options": [
+        {
+          "option": "આંશિક વિઘટન"
+        },
+        {
+          "option": "x=1 લેવું"
+        },
+        {
+          "option": "છેદના અવયવ પાડવા"
+        },
+        {
+          "option": "બહુપદી ભાગાકાર",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "આમાંથી કઈ ઉચિત સંમેય પદાવલિ છે?",
+      "options": [
+        {
+          "option": "x^2/(x-1)"
+        },
+        {
+          "option": "(x^2+1)/x"
+        },
+        {
+          "option": "(x^3+1)/(x^2+1)"
+        },
+        {
+          "option": "x/(x^2+1)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "1/(x(x^2+1)) નું વિઘટન શું છે?",
+      "options": [
+        {
+          "option": "A/x + (Bx+C)/(x^2+1)",
+          "is_answer": true
+        },
+        {
+          "option": "A/x + B/(x^2+1)"
+        },
+        {
+          "option": "A/x + (Bx+C)/(x^2+1)^2"
+        },
+        {
+          "option": "(Ax+B)/x + C/(x^2+1)"
+        }
+      ]
+    },
+    {
+      "question": "જો છેદ (x-a)^3 હોય, તો વિઘટનમાં કયા પદો હોય છે?",
+      "options": [
+        {
+          "option": "A/(x-a) + B/(x-a)^2 + C/(x-a)^3",
+          "is_answer": true
+        },
+        {
+          "option": "A/(x-a)^3"
+        },
+        {
+          "option": "(Ax^2+Bx+C)/(x-a)^3"
+        },
+        {
+          "option": "A/(x-a) + B/(x-a)^3"
+        }
+      ]
+    },
+    {
+      "question": "1/((x-1)(x-2)) = A/(x-1) + B/(x-2) માં A ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "1/((x-1)(x-2)) = A/(x-1) + B/(x-2) માં B ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "આમાંથી કયો અવિભાજ્ય દ્વિઘાત અવયવ છે?",
+      "options": [
+        {
+          "option": "x^2+x+1",
+          "is_answer": true
+        },
+        {
+          "option": "x^2-x-2"
+        },
+        {
+          "option": "x^2-4"
+        },
+        {
+          "option": "x^2-1"
+        }
+      ]
+    },
+    {
+      "question": "આંશિક અપૂર્ણાંક વિઘટનનો મુખ્યત્વે કઈ કલનશાસ્ત્ર પ્રક્રિયા માટે ઉપયોગ થાય છે?",
+      "options": [
+        {
+          "option": "સાતત્ય"
+        },
+        {
+          "option": "સંકલન",
+          "is_answer": true
+        },
+        {
+          "option": "લક્ષ"
+        },
+        {
+          "option": "વિકલન"
+        }
+      ]
+    },
+    {
+      "question": "1/(x^2(x^2+1)) માટેનું સ્વરૂપ શું છે?",
+      "options": [
+        {
+          "option": "(Ax+B)/x^2 + C/(x^2+1)"
+        },
+        {
+          "option": "A/x + (Bx+C)/(x^2+1)"
+        },
+        {
+          "option": "A/x + B/x^2 + (Cx+D)/(x^2+1)",
+          "is_answer": true
+        },
+        {
+          "option": "A/x^2 + B/(x^2+1)"
+        }
+      ]
+    },
+    {
+      "question": "સંકર સંખ્યા z = 1 + i નું ધ્રુવીય સ્વરૂપ શું છે?",
+      "options": [
+        {
+          "option": "sqrt(2)(cos(pi/4) + i*sin(pi/4))",
+          "is_answer": true
+        },
+        {
+          "option": "sqrt(2)(cos(pi/2) + i*sin(pi/2))"
+        },
+        {
+          "option": "1(cos(pi/4) + i*sin(pi/4))"
+        },
+        {
+          "option": "2(cos(pi/4) + i*sin(pi/4))"
+        }
+      ]
+    },
+    {
+      "question": "ડી મોઇવરના પ્રમેય મુજબ, (cos(theta) + i*sin(theta))^n બરાબર શું થાય?",
+      "options": [
+        {
+          "option": "cos(n) + i*sin(n)"
+        },
+        {
+          "option": "cos(n*theta) + i*sin(n*theta)",
+          "is_answer": true
+        },
+        {
+          "option": "n*cos(theta) + i*n*sin(theta)"
+        },
+        {
+          "option": "cos(theta^n) + i*sin(theta^n)"
+        }
+      ]
+    },
+    {
+      "question": "e^(i*pi) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "i"
+        },
+        {
+          "option": "-i"
+        }
+      ]
+    },
+    {
+      "question": "સંકર સંખ્યા z = 3 - 4i નું માનાંક શું છે?",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "સંકર સંખ્યા z = -1 + i નો કોણાંક (argument) શું છે?",
+      "options": [
+        {
+          "option": "pi"
+        },
+        {
+          "option": "pi/2"
+        },
+        {
+          "option": "pi/4"
+        },
+        {
+          "option": "3*pi/4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "ડી મોઇવરના પ્રમેયનો ઉપયોગ કરીને (cos(pi/6) + i*sin(pi/6))^3 ની ગણતરી કરો.",
+      "options": [
+        {
+          "option": "i",
+          "is_answer": true
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "-i"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કયું cos(theta) + i*sin(theta) ને સમાન છે?",
+      "options": [
+        {
+          "option": "e^(theta)"
+        },
+        {
+          "option": "i*e^theta"
+        },
+        {
+          "option": "cos(i*theta)"
+        },
+        {
+          "option": "e^(i*theta)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "z = -i નું ધ્રુવીય સ્વરૂપ શું છે?",
+      "options": [
+        {
+          "option": "cos(0) + i*sin(0)"
+        },
+        {
+          "option": "cos(pi) + i*sin(pi)"
+        },
+        {
+          "option": "cos(3*pi/2) + i*sin(3*pi/2)",
+          "is_answer": true
+        },
+        {
+          "option": "cos(pi/2) + i*sin(pi/2)"
+        }
+      ]
+    },
+    {
+      "question": "(cos(pi/3) + i*sin(pi/3))^6 નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "-i"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "i"
+        }
+      ]
+    },
+    {
+      "question": "z = r(cos(theta) + i*sin(theta)) ની અનુબદ્ધ (conjugate) સંખ્યા શું છે?",
+      "options": [
+        {
+          "option": "r(cos(theta) + i*sin(theta))"
+        },
+        {
+          "option": "r(sin(theta) + i*cos(theta))"
+        },
+        {
+          "option": "r(cos(-theta) + i*sin(-theta))"
+        },
+        {
+          "option": "r(cos(theta) - i*sin(theta))",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો z = e^(i*pi/2) હોય, તો z નું લંબચોરસ સ્વરૂપ શું છે?",
+      "options": [
+        {
+          "option": "i",
+          "is_answer": true
+        },
+        {
+          "option": "-i"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "આમાંથી કયું cos(2*theta) ને સમાન છે?",
+      "options": [
+        {
+          "option": "Im(e^(i*2*theta))"
+        },
+        {
+          "option": "Re(e^(i*2*theta))",
+          "is_answer": true
+        },
+        {
+          "option": "sin(2*theta)"
+        },
+        {
+          "option": "e^(i*theta)"
+        }
+      ]
+    },
+    {
+      "question": "z = -1 નું ધ્રુવીય સ્વરૂપ શું છે?",
+      "options": [
+        {
+          "option": "cos(pi) + i*sin(pi)",
+          "is_answer": true
+        },
+        {
+          "option": "cos(0) + i*sin(0)"
+        },
+        {
+          "option": "cos(2*pi) + i*sin(2*pi)"
+        },
+        {
+          "option": "cos(pi/2) + i*sin(pi/2)"
+        }
+      ]
+    },
+    {
+      "question": "(cos(pi/4) + i*sin(pi/4))^4 નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "-i"
+        },
+        {
+          "option": "i"
+        },
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "ઓઈલરનું સૂત્ર જણાવે છે કે e^(i*theta) કોના બરાબર છે?",
+      "options": [
+        {
+          "option": "cos(theta) - i*sin(theta)"
+        },
+        {
+          "option": "cos(theta) + i*sin(theta)",
+          "is_answer": true
+        },
+        {
+          "option": "e*cos(theta)"
+        },
+        {
+          "option": "sin(theta) + i*cos(theta)"
+        }
+      ]
+    },
+    {
+      "question": "z = 2(cos(pi/6) + i*sin(pi/6)) નું માનાંક શું છે?",
+      "options": [
+        {
+          "option": "pi/6"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "sqrt(3)"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "જો z = r*e^(i*theta) હોય, તો z^n શું થાય?",
+      "options": [
+        {
+          "option": "r^n * e^(i*theta)"
+        },
+        {
+          "option": "r^n * e^(i*n*theta)",
+          "is_answer": true
+        },
+        {
+          "option": "n*r * e^(i*theta)"
+        },
+        {
+          "option": "r * e^(i*n*theta)"
+        }
+      ]
+    },
+    {
+      "question": "z = 1 નો કોણાંક શું છે?",
+      "options": [
+        {
+          "option": "2*pi"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "pi/2"
+        },
+        {
+          "option": "pi"
+        }
+      ]
+    },
+    {
+      "question": "e^(i*pi/2) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "-1"
+        },
+        {
+          "option": "i",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "-i"
+        }
+      ]
+    },
+    {
+      "question": "કઈ સંકર સંખ્યા cos(pi) + i*sin(pi) દ્વારા દર્શાવવામાં આવે છે?",
+      "options": [
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "-i"
+        },
+        {
+          "option": "i"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "f(x) = 1/x વિધેયનો પ્રદેશ શું છે?",
+      "options": [
+        {
+          "option": "તમામ વાસ્તવિક સંખ્યાઓ"
+        },
+        {
+          "option": "તમામ ધન વાસ્તવિક સંખ્યાઓ"
+        },
+        {
+          "option": "0 સિવાયના તમામ પૂર્ણાંકો"
+        },
+        {
+          "option": "0 સિવાયની તમામ વાસ્તવિક સંખ્યાઓ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કયું વિધેય એક-એક (injective) છે?",
+      "options": [
+        {
+          "option": "f(x) = x^2"
+        },
+        {
+          "option": "f(x) = |x|"
+        },
+        {
+          "option": "f(x) = 2x + 3",
+          "is_answer": true
+        },
+        {
+          "option": "f(x) = sin(x)"
+        }
+      ]
+    },
+    {
+      "question": "f(x) = x^2 નો વિસ્તાર શું છે?",
+      "options": [
+        {
+          "option": "[1, અનંત)"
+        },
+        {
+          "option": "[0, અનંત)",
+          "is_answer": true
+        },
+        {
+          "option": "(-અનંત, અનંત)"
+        },
+        {
+          "option": "(0, અનંત)"
+        }
+      ]
+    },
+    {
+      "question": "જે વિધેય એક-એક અને વ્યાપ્ત બંને હોય તેને શું કહેવાય?",
+      "options": [
+        {
+          "option": "અચળ"
+        },
+        {
+          "option": "વ્યસ્ત"
+        },
+        {
+          "option": "આવર્તનીય"
+        },
+        {
+          "option": "બાયજેક્ટિવ (Bijective)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો f(x) = x + 2 અને g(x) = x^2 હોય, તો f(g(x)) શું થાય?",
+      "options": [
+        {
+          "option": "x^2 + 4"
+        },
+        {
+          "option": "(x + 2)^2"
+        },
+        {
+          "option": "x^2 + 2",
+          "is_answer": true
+        },
+        {
+          "option": "x + 2"
+        }
+      ]
+    },
+    {
+      "question": "f(x) = sqrt(x) નો પ્રદેશ શું છે?",
+      "options": [
+        {
+          "option": "(0, અનંત)"
+        },
+        {
+          "option": "(-અનંત, અનંત)"
+        },
+        {
+          "option": "[0, અનંત)",
+          "is_answer": true
+        },
+        {
+          "option": "[1, અનંત)"
+        }
+      ]
+    },
+    {
+      "question": "R થી R પર કયું વિધેય વ્યાપ્ત (surjective) છે?",
+      "options": [
+        {
+          "option": "f(x) = x^2"
+        },
+        {
+          "option": "f(x) = |x|"
+        },
+        {
+          "option": "f(x) = x^3",
+          "is_answer": true
+        },
+        {
+          "option": "f(x) = e^x"
+        }
+      ]
+    },
+    {
+      "question": "f(x) = sin(x) નો વિસ્તાર શું છે?",
+      "options": [
+        {
+          "option": "[-1, 1]",
+          "is_answer": true
+        },
+        {
+          "option": "(-અનંત, અનંત)"
+        },
+        {
+          "option": "(-1, 1)"
+        },
+        {
+          "option": "[0, 1]"
+        }
+      ]
+    },
+    {
+      "question": "જો f(x) = 2x હોય, તો વ્યસ્ત વિધેય f^-1(x) શું થાય?",
+      "options": [
+        {
+          "option": "-2x"
+        },
+        {
+          "option": "x^2"
+        },
+        {
+          "option": "x/2",
+          "is_answer": true
+        },
+        {
+          "option": "2/x"
+        }
+      ]
+    },
+    {
+      "question": "f(x) = 1/(x-3) નો પ્રદેશ શું છે?",
+      "options": [
+        {
+          "option": "R"
+        },
+        {
+          "option": "R - {0}"
+        },
+        {
+          "option": "R - {-3}"
+        },
+        {
+          "option": "R - {3}",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "આમાંથી કયું વિધેય નથી?",
+      "options": [
+        {
+          "option": "y = 2x"
+        },
+        {
+          "option": "y = x^2"
+        },
+        {
+          "option": "y = 5"
+        },
+        {
+          "option": "x = y^2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "f(x) = e^x નો વિસ્તાર શું છે?",
+      "options": [
+        {
+          "option": "(-અનંત, અનંત)"
+        },
+        {
+          "option": "[0, અનંત)"
+        },
+        {
+          "option": "(0, અનંત)",
+          "is_answer": true
+        },
+        {
+          "option": "(1, અનંત)"
+        }
+      ]
+    },
+    {
+      "question": "વિધેય f: A -> B વ્યાપ્ત ક્યારે કહેવાય?",
+      "options": [
+        {
+          "option": "f(x) એક-એક હોય"
+        },
+        {
+          "option": "વિસ્તાર = સહ-પ્રદેશ",
+          "is_answer": true
+        },
+        {
+          "option": "f(x) અચળ હોય"
+        },
+        {
+          "option": "પ્રદેશ = સહ-પ્રદેશ"
+        }
+      ]
+    },
+    {
+      "question": "જો f(x) = x^2 અને g(x) = x+1 હોય, તો g(f(x)) શું થાય?",
+      "options": [
+        {
+          "option": "x^2 + 1",
+          "is_answer": true
+        },
+        {
+          "option": "x + 1"
+        },
+        {
+          "option": "(x+1)^2"
+        },
+        {
+          "option": "x^2 + x"
+        }
+      ]
+    },
+    {
+      "question": "f(x) = log(x) નો પ્રદેશ શું છે?",
+      "options": [
+        {
+          "option": "[0, અનંત)"
+        },
+        {
+          "option": "(0, અનંત)",
+          "is_answer": true
+        },
+        {
+          "option": "(1, અનંત)"
+        },
+        {
+          "option": "(-અનંત, અનંત)"
+        }
+      ]
+    },
+    {
+      "question": "કયું વિધેય અચળ વિધેય છે?",
+      "options": [
+        {
+          "option": "f(x) = 5x"
+        },
+        {
+          "option": "f(x) = x"
+        },
+        {
+          "option": "f(x) = x+5"
+        },
+        {
+          "option": "f(x) = 5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "તદેવ વિધેય (identity function) કેવી રીતે વ્યાખ્યાયિત થાય છે?",
+      "options": [
+        {
+          "option": "f(x) = 1"
+        },
+        {
+          "option": "f(x) = x^2"
+        },
+        {
+          "option": "f(x) = x",
+          "is_answer": true
+        },
+        {
+          "option": "f(x) = 0"
+        }
+      ]
+    },
+    {
+      "question": "f(x) = |x| નો વિસ્તાર શું છે?",
+      "options": [
+        {
+          "option": "(-અનંત, અનંત)"
+        },
+        {
+          "option": "(-અનંત, 0]"
+        },
+        {
+          "option": "(0, અનંત)"
+        },
+        {
+          "option": "[0, અનંત)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો f(x) = 3x - 1 હોય, તો f(2) શું થાય?",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "વિધેય એક-એક ક્યારે કહેવાય?",
+      "options": [
+        {
+          "option": "f(a) = f(b) પરથી a = b મળે",
+          "is_answer": true
+        },
+        {
+          "option": "f(a) = 0"
+        },
+        {
+          "option": "f(a) = f(b) પરથી a != b મળે"
+        },
+        {
+          "option": "f(a) = b"
+        }
+      ]
+    },
+    {
+      "question": "જો વિધેય f(x) નું વ્યસ્ત અસ્તિત્વ ધરાવતું હોય, તો f(x) અને f^(-1)(x) ના આલેખ વચ્ચેનો ભૌમિતિક સંબંધ શું છે?",
+      "options": [
+        {
+          "option": "90 ડિગ્રીનું પરિભ્રમણ"
+        },
+        {
+          "option": "y-અક્ષ પર પરાવર્તન"
+        },
+        {
+          "option": "x-અક્ષ પર પરાવર્તન"
+        },
+        {
+          "option": "y = x રેખા પર પરાવર્તન",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો બિંદુ (a, b) એ f(x) ના આલેખ પર હોય, તો કયું બિંદુ f^(-1)(x) ના આલેખ પર હોવું જોઈએ?",
+      "options": [
+        {
+          "option": "(1/a, 1/b)"
+        },
+        {
+          "option": "(b, a)",
+          "is_answer": true
+        },
+        {
+          "option": "(a, -b)"
+        },
+        {
+          "option": "(-a, b)"
+        }
+      ]
+    },
+    {
+      "question": "વિધેય f(x) = 2x + 3 નું વ્યસ્ત વિધેય શું છે?",
+      "options": [
+        {
+          "option": "f^(-1)(x) = x / 2 - 3"
+        },
+        {
+          "option": "f^(-1)(x) = (x - 3) / 2",
+          "is_answer": true
+        },
+        {
+          "option": "f^(-1)(x) = 3x + 2"
+        },
+        {
+          "option": "f^(-1)(x) = 2x - 3"
+        }
+      ]
+    },
+    {
+      "question": "જો f(x) નો પ્રદેશ [0, અનંત) અને વિસ્તાર [2, અનંત) હોય, તો f^(-1)(x) નો પ્રદેશ અને વિસ્તાર શું હશે?",
+      "options": [
+        {
+          "option": "પ્રદેશ: (-અનંત, 0], વિસ્તાર: (-અનંત, 2]"
+        },
+        {
+          "option": "પ્રદેશ: [2, અનંત), વિસ્તાર: (-અનંત, 0]"
+        },
+        {
+          "option": "પ્રદેશ: [0, અનંત), વિસ્તાર: [2, અનંત)"
+        },
+        {
+          "option": "પ્રદેશ: [2, અનંત), વિસ્તાર: [0, અનંત)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "વિધેયનું વ્યસ્ત હોવા માટે કઈ શરત પૂરી થવી જોઈએ?",
+      "options": [
+        {
+          "option": "તે સુરેખ વિધેય હોવું જોઈએ"
+        },
+        {
+          "option": "તે બહુપદી હોવી જોઈએ"
+        },
+        {
+          "option": "તે એક-એક (bijective) હોવું જોઈએ",
+          "is_answer": true
+        },
+        {
+          "option": "તે y-અક્ષની સાપેક્ષ સંમિત હોવું જોઈએ"
+        }
+      ]
+    },
+    {
+      "question": "f(x) = x^3 નું વ્યસ્ત વિધેય શું છે?",
+      "options": [
+        {
+          "option": "f^(-1)(x) = 3x"
+        },
+        {
+          "option": "f^(-1)(x) = x^3"
+        },
+        {
+          "option": "f^(-1)(x) = x નું ઘનમૂળ",
+          "is_answer": true
+        },
+        {
+          "option": "f^(-1)(x) = x^(1/3)"
+        }
+      ]
+    },
+    {
+      "question": "જો f(x) = 1/x હોય, તો f^(-1)(x) શું છે?",
+      "options": [
+        {
+          "option": "f^(-1)(x) = x"
+        },
+        {
+          "option": "f^(-1)(x) = -1/x"
+        },
+        {
+          "option": "f^(-1)(x) = x^2"
+        },
+        {
+          "option": "f^(-1)(x) = 1/x",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "આડી રેખાની કસોટી (Horizontal line test) નો ઉપયોગ વિધેય કેવું છે તે નક્કી કરવા માટે થાય છે?",
+      "options": [
+        {
+          "option": "એક-એક (One-to-one)",
+          "is_answer": true
+        },
+        {
+          "option": "સતત"
+        },
+        {
+          "option": "સંમિત"
+        },
+        {
+          "option": "વિકલનીય"
+        }
+      ]
+    },
+    {
+      "question": "જો f(x) = e^x હોય, તો વ્યસ્ત વિધેય શું છે?",
+      "options": [
+        {
+          "option": "f^(-1)(x) = x^e"
+        },
+        {
+          "option": "f^(-1)(x) = ln(x)",
+          "is_answer": true
+        },
+        {
+          "option": "f^(-1)(x) = log_10(x)"
+        },
+        {
+          "option": "f^(-1)(x) = 1/e^x"
+        }
+      ]
+    },
+    {
+      "question": "f(x) = x - 5 નું વ્યસ્ત વિધેય શું છે?",
+      "options": [
+        {
+          "option": "f^(-1)(x) = 1/(x-5)"
+        },
+        {
+          "option": "f^(-1)(x) = x - 5"
+        },
+        {
+          "option": "f^(-1)(x) = 5 - x"
+        },
+        {
+          "option": "f^(-1)(x) = x + 5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો f(f^(-1)(x)) = x હોય, તો આ શું સૂચવે છે?",
+      "options": [
+        {
+          "option": "વિધેય અચળ છે"
+        },
+        {
+          "option": "વિધેયો એકબીજાના વ્યસ્ત છે",
+          "is_answer": true
+        },
+        {
+          "option": "વિધેય વ્યાખ્યાયિત નથી"
+        },
+        {
+          "option": "વિધેયો સમાન છે"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કયું વિધેય પોતાનું જ વ્યસ્ત છે?",
+      "options": [
+        {
+          "option": "f(x) = 2x"
+        },
+        {
+          "option": "f(x) = x^2"
+        },
+        {
+          "option": "f(x) = -x",
+          "is_answer": true
+        },
+        {
+          "option": "f(x) = x + 1"
+        }
+      ]
+    },
+    {
+      "question": "જો x >= 0 માટે f(x) = sqrt(x) હોય, તો f^(-1)(x) નો પ્રદેશ શું છે?",
+      "options": [
+        {
+          "option": "બધી વાસ્તવિક સંખ્યાઓ"
+        },
+        {
+          "option": "x > 0"
+        },
+        {
+          "option": "x >= 0",
+          "is_answer": true
+        },
+        {
+          "option": "x <= 0"
+        }
+      ]
+    },
+    {
+      "question": "x >= 0 માટે f(x) = x^2 ના આલેખને y = x પર પરાવર્તિત કરવામાં આવે છે. પરિણામી વિધેય શું છે?",
+      "options": [
+        {
+          "option": "f^(-1)(x) = -sqrt(x)"
+        },
+        {
+          "option": "f^(-1)(x) = 1/x^2"
+        },
+        {
+          "option": "f^(-1)(x) = x^2"
+        },
+        {
+          "option": "f^(-1)(x) = sqrt(x)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો વિધેય ચુસ્ત રીતે વધતું હોય, તો તે કેવું હોવું જોઈએ?",
+      "options": [
+        {
+          "option": "આવર્તી"
+        },
+        {
+          "option": "વ્યસ્ત કરી શકાય તેવું (Invertible)",
+          "is_answer": true
+        },
+        {
+          "option": "અચળ"
+        },
+        {
+          "option": "અસતત"
+        }
+      ]
+    },
+    {
+      "question": "f(x) = 3x - 1 નું વ્યસ્ત વિધેય શું છે?",
+      "options": [
+        {
+          "option": "f^(-1)(x) = 1 / (3x - 1)"
+        },
+        {
+          "option": "f^(-1)(x) = 3x + 1"
+        },
+        {
+          "option": "f^(-1)(x) = (x - 1) / 3"
+        },
+        {
+          "option": "f^(-1)(x) = (x + 1) / 3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો f(x) = x^3 + 1 હોય, તો f^(-1)(x) શું છે?",
+      "options": [
+        {
+          "option": "f^(-1)(x) = x^(1/3) + 1"
+        },
+        {
+          "option": "f^(-1)(x) = (x + 1) નું ઘનમૂળ"
+        },
+        {
+          "option": "f^(-1)(x) = (x - 1) નું ઘનમૂળ",
+          "is_answer": true
+        },
+        {
+          "option": "f^(-1)(x) = x^3 - 1"
+        }
+      ]
+    },
+    {
+      "question": "આમાંથી કયા વિધેયનું વ્યસ્ત બધી વાસ્તવિક સંખ્યાઓ પર અસ્તિત્વ ધરાવતું નથી?",
+      "options": [
+        {
+          "option": "f(x) = 2x"
+        },
+        {
+          "option": "f(x) = x + 5"
+        },
+        {
+          "option": "f(x) = x^3"
+        },
+        {
+          "option": "f(x) = x^2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો f(x) નો આલેખ (2, 5) માંથી પસાર થતો હોય, તો f^(-1)(x) નો આલેખ કયા બિંદુમાંથી પસાર થવો જોઈએ?",
+      "options": [
+        {
+          "option": "(-2, -5)"
+        },
+        {
+          "option": "(1/2, 1/5)"
+        },
+        {
+          "option": "(2, 5)"
+        },
+        {
+          "option": "(5, 2)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "f(x) = 4 - x નું વ્યસ્ત વિધેય શું છે?",
+      "options": [
+        {
+          "option": "f^(-1)(x) = x + 4"
+        },
+        {
+          "option": "f^(-1)(x) = x - 4"
+        },
+        {
+          "option": "f^(-1)(x) = 4 - x",
+          "is_answer": true
+        },
+        {
+          "option": "f^(-1)(x) = 1 / (4 - x)"
+        }
+      ]
+    }
+  ]
+}

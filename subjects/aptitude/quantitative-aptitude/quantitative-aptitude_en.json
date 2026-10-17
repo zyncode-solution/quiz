@@ -1,0 +1,9005 @@
+{
+  "total_questions": 500,
+  "questions": [
+    {
+      "question": "Solve for x: 3x - 5 = 10",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "What is the solution of the linear equation 2x + 3 = 11?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "Find the value of y in the equation: 5y - 3 = 2y + 9",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "If x + y = 10 and x - y = 4, what is the value of x?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Solve the simultaneous equations: 2x + y = 7 and x - y = 2",
+      "options": [
+        {
+          "option": "x = 3, y = 1",
+          "is_answer": true
+        },
+        {
+          "option": "x = 4, y = -1"
+        },
+        {
+          "option": "x = 1, y = 5"
+        },
+        {
+          "option": "x = 2, y = 3"
+        }
+      ]
+    },
+    {
+      "question": "Find the value of x in: (x/2) + (x/3) = 10",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "For what value of k does the system of equations x + 2y = 3 and 2x + 4y = k have infinitely many solutions?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: 4(x - 2) = 3(x + 1)",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "11",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "If 3x + 2y = 12 and x = 4, find the value of y.",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of y in the system: 3x + y = 10 and 9x + 3y = 30?",
+      "options": [
+        {
+          "option": "y = 0"
+        },
+        {
+          "option": "Infinitely many solutions",
+          "is_answer": true
+        },
+        {
+          "option": "No solution"
+        },
+        {
+          "option": "Unique solution"
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: 7x - 2 = 5x + 8",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "The sum of two numbers is 25 and their difference is 5. Find the larger number.",
+      "options": [
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "Solve by substitution: y = 2x and x + y = 9",
+      "options": [
+        {
+          "option": "x = 2, y = 4"
+        },
+        {
+          "option": "x = 4, y = 8"
+        },
+        {
+          "option": "x = 3, y = 6",
+          "is_answer": true
+        },
+        {
+          "option": "x = 6, y = 3"
+        }
+      ]
+    },
+    {
+      "question": "Find the value of x if 0.3x + 0.4 = 0.5x + 0.2",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "1.5"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0.5"
+        }
+      ]
+    },
+    {
+      "question": "If 5x - 4y = 10 and 2x = 3y, find the value of x.",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of x in the equation: 2(x + 3) - 3(x - 1) = 6?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "Find the values of x and y for: x + 2y = 5 and 3x + 6y = 15",
+      "options": [
+        {
+          "option": "Infinitely many solutions",
+          "is_answer": true
+        },
+        {
+          "option": "No solution"
+        },
+        {
+          "option": "Unique solution (1, 2)"
+        },
+        {
+          "option": "Unique solution (2, 1)"
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: (2x - 1)/3 = (x + 2)/2",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "If the system x - y = 1 and x + ky = 5 has no solution, what is the value of k?",
+      "options": [
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "Find x if 4x/3 - 2 = 6",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the slope of the line passing through the points (2, 3) and (4, 7)?",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "-2"
+        }
+      ]
+    },
+    {
+      "question": "Find the slope of a line whose equation is 3x - 4y + 5 = 0.",
+      "options": [
+        {
+          "option": "-3/4"
+        },
+        {
+          "option": "3/4",
+          "is_answer": true
+        },
+        {
+          "option": "4/3"
+        },
+        {
+          "option": "-4/3"
+        }
+      ]
+    },
+    {
+      "question": "What is the equation of a line with slope 2 and y-intercept 3?",
+      "options": [
+        {
+          "option": "y = 2x + 3",
+          "is_answer": true
+        },
+        {
+          "option": "2x - y = 3"
+        },
+        {
+          "option": "y = 3x + 2"
+        },
+        {
+          "option": "y = -2x + 3"
+        }
+      ]
+    },
+    {
+      "question": "If two lines are perpendicular and the slope of one line is -2/3, what is the slope of the other line?",
+      "options": [
+        {
+          "option": "-2/3"
+        },
+        {
+          "option": "3/2",
+          "is_answer": true
+        },
+        {
+          "option": "2/3"
+        },
+        {
+          "option": "-3/2"
+        }
+      ]
+    },
+    {
+      "question": "Find the equation of the line passing through the point (1, 2) with a slope of 3.",
+      "options": [
+        {
+          "option": "y = 3x + 1"
+        },
+        {
+          "option": "y - 1 = 3(x - 2)"
+        },
+        {
+          "option": "y + 2 = 3(x + 1)"
+        },
+        {
+          "option": "y - 2 = 3(x - 1)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the slope of a line parallel to the x-axis?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "Undefined"
+        }
+      ]
+    },
+    {
+      "question": "What is the slope of a line parallel to the y-axis?",
+      "options": [
+        {
+          "option": "Undefined",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "Find the y-intercept of the line given by 2x + 5y = 10.",
+      "options": [
+        {
+          "option": "-2"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "What is the slope of the line passing through (-1, -2) and (-3, -4)?",
+      "options": [
+        {
+          "option": "-2"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "If two lines are parallel, what is the relationship between their slopes (m1 and m2)?",
+      "options": [
+        {
+          "option": "m1 * m2 = -1"
+        },
+        {
+          "option": "m1 + m2 = 0"
+        },
+        {
+          "option": "m1 * m2 = 1"
+        },
+        {
+          "option": "m1 = m2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the x-intercept of the line 4x - 3y = 12.",
+      "options": [
+        {
+          "option": "-4"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "-3"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "What is the slope of the line passing through (5, 2) and (5, 8)?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "Undefined",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "Find the equation of the line passing through the origin with a slope of -4.",
+      "options": [
+        {
+          "option": "y = 4x"
+        },
+        {
+          "option": "x + 4y = 0"
+        },
+        {
+          "option": "y = -4x + 1"
+        },
+        {
+          "option": "y = -4x",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the slope of a line that makes an angle of 45 degrees with the positive direction of the x-axis?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "Undefined"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "Find the slope of the line perpendicular to 5x + 2y - 7 = 0.",
+      "options": [
+        {
+          "option": "5/2"
+        },
+        {
+          "option": "-5/2"
+        },
+        {
+          "option": "-2/5"
+        },
+        {
+          "option": "2/5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of the following points lies on the line y = 3x - 1?",
+      "options": [
+        {
+          "option": "(2, 5)",
+          "is_answer": true
+        },
+        {
+          "option": "(0, 1)"
+        },
+        {
+          "option": "(3, 2)"
+        },
+        {
+          "option": "(1, 3)"
+        }
+      ]
+    },
+    {
+      "question": "What is the slope of the line passing through (0, 0) and (3, -9)?",
+      "options": [
+        {
+          "option": "-1/3"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "-3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the equation of the line with slope 0 passing through (4, -5).",
+      "options": [
+        {
+          "option": "x = 4"
+        },
+        {
+          "option": "x = -5"
+        },
+        {
+          "option": "y = 4"
+        },
+        {
+          "option": "y = -5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the y-intercept of the line y = -7x + 4?",
+      "options": [
+        {
+          "option": "-4"
+        },
+        {
+          "option": "-7"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "If a line passes through (2, 3) and has a slope of 1, what is its y-intercept?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "What is the discriminant of the quadratic equation 2x^2 - 4x + 3 = 0?",
+      "options": [
+        {
+          "option": "-4"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "-8",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "Find the nature of the roots of the quadratic equation 3x^2 - 5x + 2 = 0.",
+      "options": [
+        {
+          "option": "Rational and equal"
+        },
+        {
+          "option": "Complex and non-real"
+        },
+        {
+          "option": "Real and equal"
+        },
+        {
+          "option": "Real and distinct",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the discriminant of a quadratic equation is zero, what can be said about its roots?",
+      "options": [
+        {
+          "option": "Real and equal",
+          "is_answer": true
+        },
+        {
+          "option": "Real and distinct"
+        },
+        {
+          "option": "Imaginary"
+        },
+        {
+          "option": "Irrational"
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of the roots of the quadratic equation 4x^2 - 8x + 3 = 0?",
+      "options": [
+        {
+          "option": "3/4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "-2"
+        },
+        {
+          "option": "-3/4"
+        }
+      ]
+    },
+    {
+      "question": "What is the product of the roots of the quadratic equation 5x^2 + 10x - 3 = 0?",
+      "options": [
+        {
+          "option": "-2"
+        },
+        {
+          "option": "3/5"
+        },
+        {
+          "option": "-3/5",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "For what value of 'k' will the quadratic equation x^2 - 4x + k = 0 have real and equal roots?",
+      "options": [
+        {
+          "option": "-2"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "-4"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "If one root of the equation x^2 - 7x + 12 = 0 is 4, what is the other root?",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "-3"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "-4"
+        }
+      ]
+    },
+    {
+      "question": "What are the roots of the quadratic equation x^2 - 9 = 0?",
+      "options": [
+        {
+          "option": "-3, -3"
+        },
+        {
+          "option": "0, 3"
+        },
+        {
+          "option": "3, 3"
+        },
+        {
+          "option": "3, -3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the discriminant of the quadratic equation x^2 + x + 1 = 0?",
+      "options": [
+        {
+          "option": "-1"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "-3",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "If the roots of a quadratic equation are 2 and 3, form the equation.",
+      "options": [
+        {
+          "option": "x^2 - 5x + 6 = 0",
+          "is_answer": true
+        },
+        {
+          "option": "x^2 - 5x - 6 = 0"
+        },
+        {
+          "option": "x^2 + 5x - 6 = 0"
+        },
+        {
+          "option": "x^2 + 5x + 6 = 0"
+        }
+      ]
+    },
+    {
+      "question": "Find the sum of the roots of 2x^2 + 5x - 7 = 0.",
+      "options": [
+        {
+          "option": "-5/2",
+          "is_answer": true
+        },
+        {
+          "option": "5/2"
+        },
+        {
+          "option": "-7/2"
+        },
+        {
+          "option": "7/2"
+        }
+      ]
+    },
+    {
+      "question": "What is the nature of the roots of 2x^2 - 3x + 5 = 0?",
+      "options": [
+        {
+          "option": "Complex and non-real",
+          "is_answer": true
+        },
+        {
+          "option": "Real and equal"
+        },
+        {
+          "option": "Real and distinct"
+        },
+        {
+          "option": "Rational and distinct"
+        }
+      ]
+    },
+    {
+      "question": "If the product of roots of kx^2 - 2x + 3 = 0 is 1, find the value of k.",
+      "options": [
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "-3"
+        },
+        {
+          "option": "-1/3"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following equations has roots 5 and -5?",
+      "options": [
+        {
+          "option": "x^2 + 25 = 0"
+        },
+        {
+          "option": "x^2 - 25 = 0",
+          "is_answer": true
+        },
+        {
+          "option": "x^2 + 5x - 25 = 0"
+        },
+        {
+          "option": "x^2 - 5x = 0"
+        }
+      ]
+    },
+    {
+      "question": "Find the value of 'p' if the equation x^2 - px + 4 = 0 has equal roots.",
+      "options": [
+        {
+          "option": "-4"
+        },
+        {
+          "option": "±4",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "What is the product of the roots of 3x^2 - 12x + 15 = 0?",
+      "options": [
+        {
+          "option": "-5"
+        },
+        {
+          "option": "-4"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "Solve for x using the quadratic formula: x^2 - 5x + 6 = 0.",
+      "options": [
+        {
+          "option": "-2, -3"
+        },
+        {
+          "option": "2, -3"
+        },
+        {
+          "option": "-2, 3"
+        },
+        {
+          "option": "2, 3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the discriminant b^2 - 4ac > 0 and is a perfect square, the roots are:",
+      "options": [
+        {
+          "option": "Real, rational and distinct",
+          "is_answer": true
+        },
+        {
+          "option": "Real and equal"
+        },
+        {
+          "option": "Complex"
+        },
+        {
+          "option": "Real, irrational and distinct"
+        }
+      ]
+    },
+    {
+      "question": "Find the sum of the roots of the equation (x - 2)(x + 3) = 0.",
+      "options": [
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "-6"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "For what values of 'm' does the equation 9x^2 + mx + 4 = 0 have equal roots?",
+      "options": [
+        {
+          "option": "-12"
+        },
+        {
+          "option": "±12",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "±6"
+        }
+      ]
+    },
+    {
+      "question": "Find the distance between the points (2, 3) and (5, 7).",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "Find the midpoint of the line segment joining the points (1, 2) and (5, 6).",
+      "options": [
+        {
+          "option": "(4, 5)"
+        },
+        {
+          "option": "(3, 4)",
+          "is_answer": true
+        },
+        {
+          "option": "(3, 5)"
+        },
+        {
+          "option": "(2, 3)"
+        }
+      ]
+    },
+    {
+      "question": "What is the distance of the point (3, 4) from the origin?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "Find the distance between the points (-1, -3) and (5, 5).",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "If the midpoint of the line segment joining (2, p) and (6, 4) is (4, 5), find the value of p.",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "Find the distance between the points (a, 0) and (0, b).",
+      "options": [
+        {
+          "option": "a^2 + b^2"
+        },
+        {
+          "option": "sqrt(a + b)"
+        },
+        {
+          "option": "a + b"
+        },
+        {
+          "option": "sqrt(a^2 + b^2)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the coordinates of the point which divides the join of (-1, 7) and (4, -3) in the ratio 2:3.",
+      "options": [
+        {
+          "option": "(1, 2)"
+        },
+        {
+          "option": "(3, 1)"
+        },
+        {
+          "option": "(2, 3)"
+        },
+        {
+          "option": "(1, 3)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the distance between the points (0, 0) and (-5, -12)?",
+      "options": [
+        {
+          "option": "13",
+          "is_answer": true
+        },
+        {
+          "option": "17"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "Find the length of the diameter of a circle whose endpoints of a diameter are (2, 3) and (-2, 0).",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "sqrt(7)"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "Find the midpoint of the line segment joining (-3, 10) and (6, -2).",
+      "options": [
+        {
+          "option": "(3, 8)"
+        },
+        {
+          "option": "(1.5, 6)"
+        },
+        {
+          "option": "(4.5, 4)"
+        },
+        {
+          "option": "(1.5, 4)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the distance between (x, 2) and (3, 6) is 5, find the positive value of x.",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "Find the centroid of a triangle whose vertices are (1, 4), (2, -3) and (3, 2).",
+      "options": [
+        {
+          "option": "(3, 3)"
+        },
+        {
+          "option": "(2, 2)"
+        },
+        {
+          "option": "(2, 1)",
+          "is_answer": true
+        },
+        {
+          "option": "(1, 2)"
+        }
+      ]
+    },
+    {
+      "question": "Find the distance between (2, 3) and (2, -3).",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "Find the ratio in which the y-axis divides the line segment joining (5, -6) and (-1, -4).",
+      "options": [
+        {
+          "option": "3:2"
+        },
+        {
+          "option": "5:1",
+          "is_answer": true
+        },
+        {
+          "option": "1:5"
+        },
+        {
+          "option": "2:3"
+        }
+      ]
+    },
+    {
+      "question": "Find the perimeter of the triangle with vertices (0, 4), (0, 0) and (3, 0).",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "If the points (1, 2), (4, y), (x, 6) and (3, 5) are the vertices of a parallelogram taken in order, find (x, y).",
+      "options": [
+        {
+          "option": "(6, 3)",
+          "is_answer": true
+        },
+        {
+          "option": "(4, 2)"
+        },
+        {
+          "option": "(3, 6)"
+        },
+        {
+          "option": "(2, 4)"
+        }
+      ]
+    },
+    {
+      "question": "Find the point on the x-axis which is equidistant from (2, -5) and (-2, 9).",
+      "options": [
+        {
+          "option": "(-7, 0)",
+          "is_answer": true
+        },
+        {
+          "option": "(2, 0)"
+        },
+        {
+          "option": "(7, 0)"
+        },
+        {
+          "option": "(-2, 0)"
+        }
+      ]
+    },
+    {
+      "question": "Find the distance of the point (p, q) from the origin.",
+      "options": [
+        {
+          "option": "sqrt(p^2 + q^2)",
+          "is_answer": true
+        },
+        {
+          "option": "sqrt(p + q)"
+        },
+        {
+          "option": "p^2 + q^2"
+        },
+        {
+          "option": "p + q"
+        }
+      ]
+    },
+    {
+      "question": "Find the coordinates of the midpoint of the line segment joining (a + b, a - b) and (a - b, a + b).",
+      "options": [
+        {
+          "option": "(b, b)"
+        },
+        {
+          "option": "(a+b, a-b)"
+        },
+        {
+          "option": "(2a, 2b)"
+        },
+        {
+          "option": "(a, a)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the distance between the points (cos θ, sin θ) and (sin θ, -cos θ)?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "sqrt(2)",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "What is the remainder when the polynomial $P(x) = x^3 - 2x^2 + x - 5$ is divided by $(x - 2)$?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "-3",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "-5"
+        }
+      ]
+    },
+    {
+      "question": "If $(x - 1)$ is a factor of the polynomial $P(x) = 2x^3 + kx^2 + 3x - 5$, what is the value of $k$?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the remainder when $x^4 - 3x^2 + 2$ is divided by $(x + 2)$.",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "-2"
+        }
+      ]
+    },
+    {
+      "question": "For what value of $a$ is $(x - a)$ a factor of $x^3 - a^2x + x + 2a$?",
+      "options": [
+        {
+          "option": "-1"
+        },
+        {
+          "option": "-2/3",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2/3"
+        }
+      ]
+    },
+    {
+      "question": "What is the remainder when $P(x) = 3x^3 - 4x^2 + 7x - 8$ is divided by $(3x - 1)$?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "-58/27",
+          "is_answer": true
+        },
+        {
+          "option": "-2"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "If $x^51 + 51$ is divided by $x + 1$, the remainder is:",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "-50"
+        },
+        {
+          "option": "50",
+          "is_answer": true
+        },
+        {
+          "option": "51"
+        }
+      ]
+    },
+    {
+      "question": "Using the factor theorem, check if $(x + 2)$ is a factor of $x^3 + 3x^2 + 5x + 6$.",
+      "options": [
+        {
+          "option": "No, remainder is -4"
+        },
+        {
+          "option": "No, remainder is 4"
+        },
+        {
+          "option": "Yes, remainder is 2"
+        },
+        {
+          "option": "Yes, remainder is 0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the remainder when $2x^3 - 9x^2 + x + 12$ is divided by $(x - 3)$.",
+      "options": [
+        {
+          "option": "-6",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "If the polynomial $ax^3 + 3x^2 - 13$ and $2x^3 - 5x + a$ leave the same remainder when divided by $(x - 2)$, find $a$.",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "-5"
+        },
+        {
+          "option": "-3"
+        }
+      ]
+    },
+    {
+      "question": "What is the remainder when $x^3 - ax^2 + 6x - a$ is divided by $(x - a)$?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "5a",
+          "is_answer": true
+        },
+        {
+          "option": "6a"
+        },
+        {
+          "option": "a"
+        }
+      ]
+    },
+    {
+      "question": "If $x^2 + kx + 6$ is completely divisible by $(x - 2)$, then $k$ equals:",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "-5",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "Find the value of $m$ if $(x - 1)$ is a factor of $4x^3 + 3x^2 - 4x + m$.",
+      "options": [
+        {
+          "option": "-3",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "What is the remainder when $(x^3 - 2x^2 + x + 1)$ is divided by $(x - 2)$?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "-3"
+        }
+      ]
+    },
+    {
+      "question": "If $P(x) = x^4 - 2x^3 + 3x^2 - ax + b$ is divided by $(x - 1)$ and $(x + 1)$ and leaves remainders 5 and 19 respectively, find $a$ and $b$.",
+      "options": [
+        {
+          "option": "a = 7, b = -8"
+        },
+        {
+          "option": "a = -7, b = 8",
+          "is_answer": true
+        },
+        {
+          "option": "a = -1, b = -2"
+        },
+        {
+          "option": "a = 1, b = 2"
+        }
+      ]
+    },
+    {
+      "question": "Determine whether $(x + 1)$ is a factor of $x^3 + x^2 + x + 1$.",
+      "options": [
+        {
+          "option": "No, P(-1) = 1"
+        },
+        {
+          "option": "Yes, P(-1) = 0",
+          "is_answer": true
+        },
+        {
+          "option": "Yes, P(1) = 0"
+        },
+        {
+          "option": "No, P(-1) = -1"
+        }
+      ]
+    },
+    {
+      "question": "Find the remainder when $x^3 - 3x^2 + 4x - 13$ is divided by $(x - 3)$.",
+      "options": [
+        {
+          "option": "13"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If $x^140 + 2x^151 + k$ is divisible by $(x + 1)$, then the value of $k$ is:",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "-3"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "What is the remainder when $4x^3 - 12x^2 + 14x - 3$ is divided by $(2x - 1)$?",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "-2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "Find the value of $p$ for which the polynomial $x^3 + 4x^2 - px + 6$ is exactly divisible by $(x - 2)$.",
+      "options": [
+        {
+          "option": "-12"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "-15"
+        }
+      ]
+    },
+    {
+      "question": "If both $(x - 2)$ and $(x - 1/2)$ are factors of $px^2 + 5x + r$, then:",
+      "options": [
+        {
+          "option": "p = r",
+          "is_answer": true
+        },
+        {
+          "option": "p + r = 0"
+        },
+        {
+          "option": "2p = r"
+        },
+        {
+          "option": "p = 2r"
+        }
+      ]
+    },
+    {
+      "question": "Solve the inequality: -3x + 5 < 14",
+      "options": [
+        {
+          "option": "x < 3"
+        },
+        {
+          "option": "x > 3"
+        },
+        {
+          "option": "x > -3",
+          "is_answer": true
+        },
+        {
+          "option": "x < -3"
+        }
+      ]
+    },
+    {
+      "question": "Find the solution set for the absolute value inequality: |x - 2| ≤ 5",
+      "options": [
+        {
+          "option": "x ≥ 7 or x ≤ -3"
+        },
+        {
+          "option": "-7 ≤ x ≤ 3"
+        },
+        {
+          "option": "-3 ≤ x ≤ 7",
+          "is_answer": true
+        },
+        {
+          "option": "-5 ≤ x ≤ 5"
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: 2|x + 1| - 4 = 6",
+      "options": [
+        {
+          "option": "x = 6 or x = -4"
+        },
+        {
+          "option": "x = 5 or x = -5"
+        },
+        {
+          "option": "x = 4 or x = -6",
+          "is_answer": true
+        },
+        {
+          "option": "x = 2 or x = -3"
+        }
+      ]
+    },
+    {
+      "question": "What is the solution to the inequality 5 - 2x ≥ 11?",
+      "options": [
+        {
+          "option": "x ≥ 3"
+        },
+        {
+          "option": "x ≤ -3",
+          "is_answer": true
+        },
+        {
+          "option": "x ≥ -3"
+        },
+        {
+          "option": "x ≤ 3"
+        }
+      ]
+    },
+    {
+      "question": "Solve the modulus inequality: |3x - 1| > 8",
+      "options": [
+        {
+          "option": "x > 3 or x < -7/3",
+          "is_answer": true
+        },
+        {
+          "option": "x > 7/3 or x < -3"
+        },
+        {
+          "option": "-7/3 < x < 3"
+        },
+        {
+          "option": "-3 < x < 7/3"
+        }
+      ]
+    },
+    {
+      "question": "Find all real values of x satisfying |x| = -x",
+      "options": [
+        {
+          "option": "No solution"
+        },
+        {
+          "option": "x ≥ 0"
+        },
+        {
+          "option": "x ≤ 0",
+          "is_answer": true
+        },
+        {
+          "option": "x = 0"
+        }
+      ]
+    },
+    {
+      "question": "Solve the compound inequality: -2 ≤ 3x - 5 < 7",
+      "options": [
+        {
+          "option": "1 < x ≤ 4"
+        },
+        {
+          "option": "1 ≤ x ≤ 4"
+        },
+        {
+          "option": "1 ≤ x < 4",
+          "is_answer": true
+        },
+        {
+          "option": "-1 ≤ x < 4"
+        }
+      ]
+    },
+    {
+      "question": "Solve the equation: |2x - 3| = 5",
+      "options": [
+        {
+          "option": "x = -4 or x = -1"
+        },
+        {
+          "option": "x = 1 or x = -4"
+        },
+        {
+          "option": "x = 4 or x = 1"
+        },
+        {
+          "option": "x = 4 or x = -1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the solution of the inequality 4x - 7 ≥ 6x + 3?",
+      "options": [
+        {
+          "option": "x ≤ -5",
+          "is_answer": true
+        },
+        {
+          "option": "x ≥ -5"
+        },
+        {
+          "option": "x ≤ 5"
+        },
+        {
+          "option": "x ≥ 5"
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: |x + 3| + 2 < 7",
+      "options": [
+        {
+          "option": "x > 2 or x < -8"
+        },
+        {
+          "option": "-5 < x < 5"
+        },
+        {
+          "option": "-8 < x < 2",
+          "is_answer": true
+        },
+        {
+          "option": "-2 < x < 8"
+        }
+      ]
+    },
+    {
+      "question": "Find the range of x for which |x - 4| = x - 4",
+      "options": [
+        {
+          "option": "x < 4"
+        },
+        {
+          "option": "x > 4"
+        },
+        {
+          "option": "x ≥ 4",
+          "is_answer": true
+        },
+        {
+          "option": "x ≤ 4"
+        }
+      ]
+    },
+    {
+      "question": "Solve the inequality: (2x / 3) - 4 > (x / 2) + 1",
+      "options": [
+        {
+          "option": "x < 30"
+        },
+        {
+          "option": "x > 30",
+          "is_answer": true
+        },
+        {
+          "option": "x > 15"
+        },
+        {
+          "option": "x < 15"
+        }
+      ]
+    },
+    {
+      "question": "Solve the equation involving moduli: |x - 2| + |x + 1| = 5",
+      "options": [
+        {
+          "option": "x = 5 or x = -1"
+        },
+        {
+          "option": "x = 2 or x = -3"
+        },
+        {
+          "option": "x = 1 or x = -5"
+        },
+        {
+          "option": "x = 3 or x = -2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What are the integer solutions of |x| < 3?",
+      "options": [
+        {
+          "option": "-2, -1, 0, 1, 2",
+          "is_answer": true
+        },
+        {
+          "option": "-2, -1, 1, 2"
+        },
+        {
+          "option": "0, 1, 2"
+        },
+        {
+          "option": "-3, -2, -1, 0, 1, 2, 3"
+        }
+      ]
+    },
+    {
+      "question": "Solve the inequality: -5 < 2x + 3 ≤ 9",
+      "options": [
+        {
+          "option": "-4 < x ≤ 3",
+          "is_answer": true
+        },
+        {
+          "option": "-5 < x ≤ 3"
+        },
+        {
+          "option": "-4 ≤ x < 3"
+        },
+        {
+          "option": "-3 < x ≤ 4"
+        }
+      ]
+    },
+    {
+      "question": "Find the set of all real x such that |x - 5| < 0",
+      "options": [
+        {
+          "option": "x = 5"
+        },
+        {
+          "option": "x < 5"
+        },
+        {
+          "option": "All real numbers"
+        },
+        {
+          "option": "Empty set (No solution)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: 3(x - 2) < 2(x + 1)",
+      "options": [
+        {
+          "option": "x > 4"
+        },
+        {
+          "option": "x > 8"
+        },
+        {
+          "option": "x < 8",
+          "is_answer": true
+        },
+        {
+          "option": "x < 4"
+        }
+      ]
+    },
+    {
+      "question": "Solve the modulus equation: |5 - 2x| = 9",
+      "options": [
+        {
+          "option": "x = 7 or x = 2"
+        },
+        {
+          "option": "x = -2 or x = -7"
+        },
+        {
+          "option": "x = -2 or x = 7",
+          "is_answer": true
+        },
+        {
+          "option": "x = 2 or x = -7"
+        }
+      ]
+    },
+    {
+      "question": "If |x + 2| ≤ 4, what is the maximum value of x?",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "-2"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "Solve the inequality: x / (x - 2) ≥ 0",
+      "options": [
+        {
+          "option": "x < 0 or x ≥ 2"
+        },
+        {
+          "option": "x ≤ 0 or x > 2",
+          "is_answer": true
+        },
+        {
+          "option": "0 < x ≤ 2"
+        },
+        {
+          "option": "0 ≤ x < 2"
+        }
+      ]
+    },
+    {
+      "question": "What is the length of the hypotenuse of a right-angled triangle with legs of lengths 6 cm and 8 cm?",
+      "options": [
+        {
+          "option": "12 cm"
+        },
+        {
+          "option": "10 cm",
+          "is_answer": true
+        },
+        {
+          "option": "14 cm"
+        },
+        {
+          "option": "7 cm"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following sets of side lengths forms a Pythagorean triple?",
+      "options": [
+        {
+          "option": "4, 5, 6"
+        },
+        {
+          "option": "5, 12, 13",
+          "is_answer": true
+        },
+        {
+          "option": "2, 3, 4"
+        },
+        {
+          "option": "6, 8, 11"
+        }
+      ]
+    },
+    {
+      "question": "If a right-angled triangle has a hypotenuse of 17 cm and one leg of 8 cm, what is the length of the other leg?",
+      "options": [
+        {
+          "option": "25 cm"
+        },
+        {
+          "option": "9 cm"
+        },
+        {
+          "option": "12 cm"
+        },
+        {
+          "option": "15 cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "According to Thales Theorem (Basic Proportionality Theorem), if a line is drawn parallel to one side of a triangle to intersect the other two sides, then it divides the two sides in:",
+      "options": [
+        {
+          "option": "The ratio of their squares"
+        },
+        {
+          "option": "Inverse ratio"
+        },
+        {
+          "option": "The same ratio",
+          "is_answer": true
+        },
+        {
+          "option": "Equal halves"
+        }
+      ]
+    },
+    {
+      "question": "Two triangles are similar if their corresponding angles are equal. This similarity criterion is known as:",
+      "options": [
+        {
+          "option": "RHS similarity"
+        },
+        {
+          "option": "SSS similarity"
+        },
+        {
+          "option": "SAS similarity"
+        },
+        {
+          "option": "AAA similarity",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the areas of two similar triangles are in the ratio 9 : 16, what is the ratio of their corresponding sides?",
+      "options": [
+        {
+          "option": "3 : 8"
+        },
+        {
+          "option": "3 : 4",
+          "is_answer": true
+        },
+        {
+          "option": "81 : 256"
+        },
+        {
+          "option": "9 : 16"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is NOT a criterion for congruence of triangles?",
+      "options": [
+        {
+          "option": "ASA"
+        },
+        {
+          "option": "SAS"
+        },
+        {
+          "option": "AAA",
+          "is_answer": true
+        },
+        {
+          "option": "SSS"
+        }
+      ]
+    },
+    {
+      "question": "In a right-angled triangle, the lengths of the legs are 3x and 4x, and the hypotenuse is 20 cm. What is the value of x?",
+      "options": [
+        {
+          "option": "3 cm"
+        },
+        {
+          "option": "4 cm",
+          "is_answer": true
+        },
+        {
+          "option": "6 cm"
+        },
+        {
+          "option": "5 cm"
+        }
+      ]
+    },
+    {
+      "question": "If triangle ABC is congruent to triangle PQR, which of the following is definitely true?",
+      "options": [
+        {
+          "option": "AC = QR"
+        },
+        {
+          "option": "Area(ABC) != Area(PQR)"
+        },
+        {
+          "option": "BC = PR"
+        },
+        {
+          "option": "AB = PQ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The perimeter of a right-angled triangle whose sides are in the ratio 3:4:5 is 36 cm. What is the length of its hypotenuse?",
+      "options": [
+        {
+          "option": "15 cm",
+          "is_answer": true
+        },
+        {
+          "option": "12 cm"
+        },
+        {
+          "option": "20 cm"
+        },
+        {
+          "option": "9 cm"
+        }
+      ]
+    },
+    {
+      "question": "If a ladder 10 m long reaches a window 8 m high from the ground, how far is the foot of the ladder from the base of the wall?",
+      "options": [
+        {
+          "option": "2 m"
+        },
+        {
+          "option": "4 m"
+        },
+        {
+          "option": "5 m"
+        },
+        {
+          "option": "6 m",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Two triangles are similar with a scale factor of 2:3. If the perimeter of the smaller triangle is 30 cm, what is the perimeter of the larger triangle?",
+      "options": [
+        {
+          "option": "45 cm",
+          "is_answer": true
+        },
+        {
+          "option": "20 cm"
+        },
+        {
+          "option": "40 cm"
+        },
+        {
+          "option": "60 cm"
+        }
+      ]
+    },
+    {
+      "question": "In triangle ABC, DE is parallel to BC, intersecting AB at D and AC at E. If AD = 2 cm, DB = 3 cm, and AE = 4 cm, what is the length of EC?",
+      "options": [
+        {
+          "option": "5 cm"
+        },
+        {
+          "option": "6 cm",
+          "is_answer": true
+        },
+        {
+          "option": "4 cm"
+        },
+        {
+          "option": "8 cm"
+        }
+      ]
+    },
+    {
+      "question": "What is the length of the diagonal of a square whose side is 5√2 cm?",
+      "options": [
+        {
+          "option": "10 cm",
+          "is_answer": true
+        },
+        {
+          "option": "5√2 cm"
+        },
+        {
+          "option": "10√2 cm"
+        },
+        {
+          "option": "5 cm"
+        }
+      ]
+    },
+    {
+      "question": "If the corresponding altitudes of two similar triangles are in the ratio 4:9, what is the ratio of their areas?",
+      "options": [
+        {
+          "option": "4:9"
+        },
+        {
+          "option": "2:3"
+        },
+        {
+          "option": "16:81",
+          "is_answer": true
+        },
+        {
+          "option": "81:16"
+        }
+      ]
+    },
+    {
+      "question": "A man goes 15 meters due east and then 20 meters due north. How far is he from the starting point?",
+      "options": [
+        {
+          "option": "30 meters"
+        },
+        {
+          "option": "35 meters"
+        },
+        {
+          "option": "20 meters"
+        },
+        {
+          "option": "25 meters",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which Pythagorean triple contains the number 24 as one of its legs, given the hypotenuse is 26?",
+      "options": [
+        {
+          "option": "8, 24, 26"
+        },
+        {
+          "option": "7, 24, 25"
+        },
+        {
+          "option": "12, 24, 28"
+        },
+        {
+          "option": "10, 24, 26",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If two triangles have two pairs of corresponding sides proportional and the included angles equal, the similarity criterion is:",
+      "options": [
+        {
+          "option": "RHS similarity"
+        },
+        {
+          "option": "AAA similarity"
+        },
+        {
+          "option": "SAS similarity",
+          "is_answer": true
+        },
+        {
+          "option": "SSS similarity"
+        }
+      ]
+    },
+    {
+      "question": "What is the altitude of an equilateral triangle of side 12 cm?",
+      "options": [
+        {
+          "option": "6√3 cm",
+          "is_answer": true
+        },
+        {
+          "option": "12√3 cm"
+        },
+        {
+          "option": "6 cm"
+        },
+        {
+          "option": "4√3 cm"
+        }
+      ]
+    },
+    {
+      "question": "If the sides of a triangle are 7 cm, 24 cm, and 25 cm, what type of triangle is it?",
+      "options": [
+        {
+          "option": "Obtuse-angled triangle"
+        },
+        {
+          "option": "Equilateral triangle"
+        },
+        {
+          "option": "Right-angled triangle",
+          "is_answer": true
+        },
+        {
+          "option": "Acute-angled triangle"
+        }
+      ]
+    },
+    {
+      "question": "What is the angle between a tangent to a circle and the radius through the point of contact?",
+      "options": [
+        {
+          "option": "60 degrees"
+        },
+        {
+          "option": "45 degrees"
+        },
+        {
+          "option": "90 degrees",
+          "is_answer": true
+        },
+        {
+          "option": "180 degrees"
+        }
+      ]
+    },
+    {
+      "question": "From an external point P, two tangents PA and PB are drawn to a circle with centre O. If PA = 8 cm, what is the length of PB?",
+      "options": [
+        {
+          "option": "8 cm",
+          "is_answer": true
+        },
+        {
+          "option": "4 cm"
+        },
+        {
+          "option": "16 cm"
+        },
+        {
+          "option": "6 cm"
+        }
+      ]
+    },
+    {
+      "question": "A chord of length 16 cm is at a distance of 6 cm from the centre of a circle. What is the radius of the circle?",
+      "options": [
+        {
+          "option": "8 cm"
+        },
+        {
+          "option": "12 cm"
+        },
+        {
+          "option": "10 cm",
+          "is_answer": true
+        },
+        {
+          "option": "14 cm"
+        }
+      ]
+    },
+    {
+      "question": "If two chords AB and CD of a circle intersect internally at point P, which of the following relations is always true?",
+      "options": [
+        {
+          "option": "AP * AB = CP * CD"
+        },
+        {
+          "option": "AP + PB = CP + PD"
+        },
+        {
+          "option": "AP * PB = CP * PD",
+          "is_answer": true
+        },
+        {
+          "option": "AP * PC = BP * PD"
+        }
+      ]
+    },
+    {
+      "question": "According to the alternate segment theorem, the angle between a tangent and a chord through the point of contact is equal to:",
+      "options": [
+        {
+          "option": "Complementary angle"
+        },
+        {
+          "option": "Angle in the alternate segment",
+          "is_answer": true
+        },
+        {
+          "option": "Twice the angle in the alternate segment"
+        },
+        {
+          "option": "Angle at the centre"
+        }
+      ]
+    },
+    {
+      "question": "What is the maximum number of tangents that can be drawn to a circle from an external point?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "Infinite"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A circle has a radius of 5 cm. A chord is drawn at a distance of 3 cm from the centre. What is the length of the chord?",
+      "options": [
+        {
+          "option": "4 cm"
+        },
+        {
+          "option": "6 cm"
+        },
+        {
+          "option": "8 cm",
+          "is_answer": true
+        },
+        {
+          "option": "10 cm"
+        }
+      ]
+    },
+    {
+      "question": "If a chord AB of a circle subtends an angle of 90 degrees at the centre, what type of triangle is formed by joining A and B to the centre?",
+      "options": [
+        {
+          "option": "Obtuse-angled triangle"
+        },
+        {
+          "option": "Equilateral triangle"
+        },
+        {
+          "option": "Isosceles right-angled triangle",
+          "is_answer": true
+        },
+        {
+          "option": "Scalene triangle"
+        }
+      ]
+    },
+    {
+      "question": "The perpendicular from the centre of a circle to a chord:",
+      "options": [
+        {
+          "option": "Is equal to the chord"
+        },
+        {
+          "option": "Is twice the chord"
+        },
+        {
+          "option": "Is parallel to the chord"
+        },
+        {
+          "option": "Bisects the chord",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Two concentric circles are of radii 5 cm and 3 cm. Find the length of the chord of the larger circle which touches the smaller circle.",
+      "options": [
+        {
+          "option": "10 cm"
+        },
+        {
+          "option": "4 cm"
+        },
+        {
+          "option": "6 cm"
+        },
+        {
+          "option": "8 cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If two secants PAB and PCD are drawn to a circle from an external point P, which of the following is correct?",
+      "options": [
+        {
+          "option": "PA * AB = PC * CD"
+        },
+        {
+          "option": "PA * PB = PC * PD",
+          "is_answer": true
+        },
+        {
+          "option": "PA + PB = PC + PD"
+        },
+        {
+          "option": "PB * AB = PD * CD"
+        }
+      ]
+    },
+    {
+      "question": "Equal chords of a circle are equidistant from the:",
+      "options": [
+        {
+          "option": "Circumference"
+        },
+        {
+          "option": "Centre",
+          "is_answer": true
+        },
+        {
+          "option": "Tangent"
+        },
+        {
+          "option": "Diameter"
+        }
+      ]
+    },
+    {
+      "question": "The angle in a semicircle is always a:",
+      "options": [
+        {
+          "option": "Acute angle"
+        },
+        {
+          "option": "Obtuse angle"
+        },
+        {
+          "option": "Right angle",
+          "is_answer": true
+        },
+        {
+          "option": "Straight angle"
+        }
+      ]
+    },
+    {
+      "question": "If a tangent PT and a secant PAB are drawn to a circle from an external point P, then PT^2 is equal to:",
+      "options": [
+        {
+          "option": "PA * PB",
+          "is_answer": true
+        },
+        {
+          "option": "PA + PB"
+        },
+        {
+          "option": "PB * AB"
+        },
+        {
+          "option": "PA * AB"
+        }
+      ]
+    },
+    {
+      "question": "The length of tangents drawn from an external point to a circle are:",
+      "options": [
+        {
+          "option": "Perpendicular"
+        },
+        {
+          "option": "Equal",
+          "is_answer": true
+        },
+        {
+          "option": "Parallel"
+        },
+        {
+          "option": "Unequal"
+        }
+      ]
+    },
+    {
+      "question": "A line that intersects a circle at two distinct points is called a:",
+      "options": [
+        {
+          "option": "Secant",
+          "is_answer": true
+        },
+        {
+          "option": "Chord"
+        },
+        {
+          "option": "Diameter"
+        },
+        {
+          "option": "Tangent"
+        }
+      ]
+    },
+    {
+      "question": "If the angle between two tangents drawn from an external point P to a circle of radius r and centre O is 60 degrees, then the distance OP is:",
+      "options": [
+        {
+          "option": "sqrt(3)r"
+        },
+        {
+          "option": "r"
+        },
+        {
+          "option": "3r"
+        },
+        {
+          "option": "2r",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The chord of a circle of radius 10 cm subtends a right angle at the centre. Find the length of the chord.",
+      "options": [
+        {
+          "option": "5*sqrt(2) cm"
+        },
+        {
+          "option": "10 cm"
+        },
+        {
+          "option": "20 cm"
+        },
+        {
+          "option": "10*sqrt(2) cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many common tangents can be drawn to two disjoint circles that do not touch or intersect each other?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If a chord of a circle is equal to the radius of the circle, the angle subtended by the chord at the centre is:",
+      "options": [
+        {
+          "option": "45 degrees"
+        },
+        {
+          "option": "60 degrees",
+          "is_answer": true
+        },
+        {
+          "option": "30 degrees"
+        },
+        {
+          "option": "90 degrees"
+        }
+      ]
+    },
+    {
+      "question": "Find the area of a triangle whose sides are 13 cm, 14 cm, and 15 cm.",
+      "options": [
+        {
+          "option": "84 sq cm",
+          "is_answer": true
+        },
+        {
+          "option": "80 sq cm"
+        },
+        {
+          "option": "90 sq cm"
+        },
+        {
+          "option": "72 sq cm"
+        }
+      ]
+    },
+    {
+      "question": "What is the semi-perimeter of a triangle with side lengths 7 cm, 24 cm, and 25 cm?",
+      "options": [
+        {
+          "option": "56 cm"
+        },
+        {
+          "option": "28 cm",
+          "is_answer": true
+        },
+        {
+          "option": "14 cm"
+        },
+        {
+          "option": "25 cm"
+        }
+      ]
+    },
+    {
+      "question": "Find the area of an equilateral triangle with side 8 cm using Heron's formula (approx).",
+      "options": [
+        {
+          "option": "27.71 sq cm",
+          "is_answer": true
+        },
+        {
+          "option": "24.50 sq cm"
+        },
+        {
+          "option": "32.00 sq cm"
+        },
+        {
+          "option": "30.25 sq cm"
+        }
+      ]
+    },
+    {
+      "question": "The sides of a triangular field are 55 m, 60 m, and 65 m. Find its area.",
+      "options": [
+        {
+          "option": "1500 sq m",
+          "is_answer": true
+        },
+        {
+          "option": "1550 sq m"
+        },
+        {
+          "option": "1650 sq m"
+        },
+        {
+          "option": "1400 sq m"
+        }
+      ]
+    },
+    {
+      "question": "Find the area of a triangle with sides 9 cm, 10 cm, and 11 cm.",
+      "options": [
+        {
+          "option": "30 sq cm"
+        },
+        {
+          "option": "15 √2 sq cm"
+        },
+        {
+          "option": "45 sq cm"
+        },
+        {
+          "option": "30 √2 sq cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the perimeter of an equilateral triangle is 30 cm, find its area using Heron's formula.",
+      "options": [
+        {
+          "option": "50 √3 sq cm"
+        },
+        {
+          "option": "75 sq cm"
+        },
+        {
+          "option": "100 sq cm"
+        },
+        {
+          "option": "25 √3 sq cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The sides of a triangle are in the ratio 3 : 4 : 5 and its perimeter is 36 cm. Find its area.",
+      "options": [
+        {
+          "option": "60 sq cm"
+        },
+        {
+          "option": "108 sq cm"
+        },
+        {
+          "option": "72 sq cm"
+        },
+        {
+          "option": "54 sq cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the area of a triangle whose sides are 18 cm, 24 cm, and 30 cm.",
+      "options": [
+        {
+          "option": "150 sq cm"
+        },
+        {
+          "option": "180 sq cm"
+        },
+        {
+          "option": "240 sq cm"
+        },
+        {
+          "option": "216 sq cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is 's' in Heron's formula for a triangle with sides a, b, and c?",
+      "options": [
+        {
+          "option": "a + b + c"
+        },
+        {
+          "option": "(a + b + c) / 3"
+        },
+        {
+          "option": "(a + b + c) / 2",
+          "is_answer": true
+        },
+        {
+          "option": "sqrt(a * b * c)"
+        }
+      ]
+    },
+    {
+      "question": "Find the area of an isosceles triangle with equal sides 5 cm each and base 8 cm.",
+      "options": [
+        {
+          "option": "20 sq cm"
+        },
+        {
+          "option": "12 sq cm",
+          "is_answer": true
+        },
+        {
+          "option": "10 sq cm"
+        },
+        {
+          "option": "16 sq cm"
+        }
+      ]
+    },
+    {
+      "question": "The sides of a triangular plot are 3 cm, 4 cm, and 5 cm. What is its area?",
+      "options": [
+        {
+          "option": "6 sq cm",
+          "is_answer": true
+        },
+        {
+          "option": "12 sq cm"
+        },
+        {
+          "option": "10 sq cm"
+        },
+        {
+          "option": "7.5 sq cm"
+        }
+      ]
+    },
+    {
+      "question": "If the sides of a triangle are 11 m, 60 m, and 61 m, find its area.",
+      "options": [
+        {
+          "option": "660 sq m"
+        },
+        {
+          "option": "330 sq m",
+          "is_answer": true
+        },
+        {
+          "option": "360 sq m"
+        },
+        {
+          "option": "300 sq m"
+        }
+      ]
+    },
+    {
+      "question": "Find the area of a triangle with sides 24 cm, 26 cm, and 28 cm.",
+      "options": [
+        {
+          "option": "280 sq cm"
+        },
+        {
+          "option": "312 sq cm"
+        },
+        {
+          "option": "290.48 sq cm",
+          "is_answer": true
+        },
+        {
+          "option": "336 sq cm"
+        }
+      ]
+    },
+    {
+      "question": "The perimeter of a triangular garden is 42 m and its sides are in the ratio 6 : 7 : 8. Find the area.",
+      "options": [
+        {
+          "option": "14 √15 sq m"
+        },
+        {
+          "option": "21 √15 sq m",
+          "is_answer": true
+        },
+        {
+          "option": "28 √15 sq m"
+        },
+        {
+          "option": "42 √15 sq m"
+        }
+      ]
+    },
+    {
+      "question": "Find the area of a triangle whose sides are 20 cm, 21 cm, and 29 cm.",
+      "options": [
+        {
+          "option": "290 sq cm"
+        },
+        {
+          "option": "420 sq cm"
+        },
+        {
+          "option": "200 sq cm"
+        },
+        {
+          "option": "210 sq cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If each side of a triangle is doubled, what happens to its area calculated via Heron's formula?",
+      "options": [
+        {
+          "option": "Remains same"
+        },
+        {
+          "option": "Becomes 4 times",
+          "is_answer": true
+        },
+        {
+          "option": "Becomes 8 times"
+        },
+        {
+          "option": "Becomes 2 times"
+        }
+      ]
+    },
+    {
+      "question": "Find the area of a triangle with sides 10 cm, 24 cm, and 26 cm.",
+      "options": [
+        {
+          "option": "130 sq cm"
+        },
+        {
+          "option": "60 sq cm"
+        },
+        {
+          "option": "240 sq cm"
+        },
+        {
+          "option": "120 sq cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The sides of a triangle are 15 cm, 20 cm, and 25 cm. Find its area.",
+      "options": [
+        {
+          "option": "125 sq cm"
+        },
+        {
+          "option": "175 sq cm"
+        },
+        {
+          "option": "300 sq cm"
+        },
+        {
+          "option": "150 sq cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the area of an equilateral triangle with side 'a' using Heron's formula?",
+      "options": [
+        {
+          "option": "3 * a^2 / 4"
+        },
+        {
+          "option": "(√3 / 2) * a^2"
+        },
+        {
+          "option": "(√2 / 4) * a^2"
+        },
+        {
+          "option": "(√3 / 4) * a^2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the area of a triangle with side lengths 12 cm, 35 cm, and 37 cm.",
+      "options": [
+        {
+          "option": "180 sq cm"
+        },
+        {
+          "option": "420 sq cm"
+        },
+        {
+          "option": "222 sq cm"
+        },
+        {
+          "option": "210 sq cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the area of a parallelogram with a base of 12 cm and a height of 5 cm?",
+      "options": [
+        {
+          "option": "30 sq cm"
+        },
+        {
+          "option": "120 sq cm"
+        },
+        {
+          "option": "60 sq cm",
+          "is_answer": true
+        },
+        {
+          "option": "17 sq cm"
+        }
+      ]
+    },
+    {
+      "question": "Find the area of a rhombus whose diagonals are 8 cm and 10 cm respectively.",
+      "options": [
+        {
+          "option": "20 sq cm"
+        },
+        {
+          "option": "80 sq cm"
+        },
+        {
+          "option": "18 sq cm"
+        },
+        {
+          "option": "40 sq cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The parallel sides of a trapezoid are 10 cm and 12 cm, and the distance between them is 5 cm. What is its area?",
+      "options": [
+        {
+          "option": "60 sq cm"
+        },
+        {
+          "option": "50 sq cm"
+        },
+        {
+          "option": "110 sq cm"
+        },
+        {
+          "option": "55 sq cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the area of a parallelogram is 84 sq cm and its height is 7 cm, find its base.",
+      "options": [
+        {
+          "option": "21 cm"
+        },
+        {
+          "option": "14 cm"
+        },
+        {
+          "option": "10 cm"
+        },
+        {
+          "option": "12 cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In a rhombus, if one diagonal is 12 cm and the area is 96 sq cm, find the length of the other diagonal.",
+      "options": [
+        {
+          "option": "8 cm"
+        },
+        {
+          "option": "24 cm"
+        },
+        {
+          "option": "32 cm"
+        },
+        {
+          "option": "16 cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The area of a trapezoid is 140 sq cm. The sum of its parallel sides is 28 cm. Find the height.",
+      "options": [
+        {
+          "option": "14 cm"
+        },
+        {
+          "option": "10 cm",
+          "is_answer": true
+        },
+        {
+          "option": "5 cm"
+        },
+        {
+          "option": "20 cm"
+        }
+      ]
+    },
+    {
+      "question": "Find the area of a parallelogram whose base is 15.5 cm and height is 4 cm.",
+      "options": [
+        {
+          "option": "62 sq cm",
+          "is_answer": true
+        },
+        {
+          "option": "124 sq cm"
+        },
+        {
+          "option": "31 sq cm"
+        },
+        {
+          "option": "19.5 sq cm"
+        }
+      ]
+    },
+    {
+      "question": "The diagonals of a rhombus are 24 cm and 10 cm. Find the side length of the rhombus.",
+      "options": [
+        {
+          "option": "13 cm",
+          "is_answer": true
+        },
+        {
+          "option": "12 cm"
+        },
+        {
+          "option": "26 cm"
+        },
+        {
+          "option": "17 cm"
+        }
+      ]
+    },
+    {
+      "question": "A trapezoid has parallel sides of length 14 cm and 16 cm, and height 8 cm. What is the area?",
+      "options": [
+        {
+          "option": "112 sq cm"
+        },
+        {
+          "option": "120 sq cm",
+          "is_answer": true
+        },
+        {
+          "option": "240 sq cm"
+        },
+        {
+          "option": "60 sq cm"
+        }
+      ]
+    },
+    {
+      "question": "If the base of a parallelogram is tripled and the height is halved, how does the area change?",
+      "options": [
+        {
+          "option": "Becomes 1.5 times",
+          "is_answer": true
+        },
+        {
+          "option": "Becomes 3 times"
+        },
+        {
+          "option": "Becomes 6 times"
+        },
+        {
+          "option": "Remains same"
+        }
+      ]
+    },
+    {
+      "question": "The area of a rhombus is 150 sq cm. If one diagonal is 20 cm, find the other diagonal.",
+      "options": [
+        {
+          "option": "10 cm"
+        },
+        {
+          "option": "30 cm"
+        },
+        {
+          "option": "15 cm",
+          "is_answer": true
+        },
+        {
+          "option": "7.5 cm"
+        }
+      ]
+    },
+    {
+      "question": "In a trapezoid, the parallel sides are 20 cm and 30 cm. If the area is 250 sq cm, what is the height?",
+      "options": [
+        {
+          "option": "5 cm"
+        },
+        {
+          "option": "20 cm"
+        },
+        {
+          "option": "10 cm",
+          "is_answer": true
+        },
+        {
+          "option": "25 cm"
+        }
+      ]
+    },
+    {
+      "question": "What is the area of a parallelogram with base 2.5 m and height 1.6 m?",
+      "options": [
+        {
+          "option": "2 sq m"
+        },
+        {
+          "option": "8 sq m"
+        },
+        {
+          "option": "4 sq m",
+          "is_answer": true
+        },
+        {
+          "option": "4.1 sq m"
+        }
+      ]
+    },
+    {
+      "question": "Find the area of a rhombus whose side is 10 cm and one of its diagonals is 16 cm.",
+      "options": [
+        {
+          "option": "96 sq cm",
+          "is_answer": true
+        },
+        {
+          "option": "48 sq cm"
+        },
+        {
+          "option": "80 sq cm"
+        },
+        {
+          "option": "160 sq cm"
+        }
+      ]
+    },
+    {
+      "question": "The parallel sides of an isosceles trapezoid are 12 cm and 20 cm. If its non-parallel sides are 5 cm each, find its height.",
+      "options": [
+        {
+          "option": "3 cm",
+          "is_answer": true
+        },
+        {
+          "option": "2 cm"
+        },
+        {
+          "option": "4 cm"
+        },
+        {
+          "option": "5 cm"
+        }
+      ]
+    },
+    {
+      "question": "If the perimeter of a rhombus is 52 cm and its height is 7 cm, what is its area?",
+      "options": [
+        {
+          "option": "91 sq cm",
+          "is_answer": true
+        },
+        {
+          "option": "182 sq cm"
+        },
+        {
+          "option": "364 sq cm"
+        },
+        {
+          "option": "45.5 sq cm"
+        }
+      ]
+    },
+    {
+      "question": "The ratio of the parallel sides of a trapezoid is 2:3 and the height is 8 cm. If the area is 200 sq cm, find the lengths of the parallel sides.",
+      "options": [
+        {
+          "option": "16 cm and 24 cm",
+          "is_answer": true
+        },
+        {
+          "option": "20 cm and 30 cm"
+        },
+        {
+          "option": "8 cm and 12 cm"
+        },
+        {
+          "option": "10 cm and 15 cm"
+        }
+      ]
+    },
+    {
+      "question": "A parallelogram has adjacent sides 15 cm and 7 cm. If the distance between the 15 cm sides is 4 cm, what is the distance between the 7 cm sides?",
+      "options": [
+        {
+          "option": "8.57 cm",
+          "is_answer": true
+        },
+        {
+          "option": "15 cm"
+        },
+        {
+          "option": "4 cm"
+        },
+        {
+          "option": "7 cm"
+        }
+      ]
+    },
+    {
+      "question": "The diagonals of a rhombus are in the ratio 3:4. If its area is 96 sq cm, find the length of the longer diagonal.",
+      "options": [
+        {
+          "option": "24 cm"
+        },
+        {
+          "option": "16 cm",
+          "is_answer": true
+        },
+        {
+          "option": "20 cm"
+        },
+        {
+          "option": "12 cm"
+        }
+      ]
+    },
+    {
+      "question": "Find the area of a trapezoid whose parallel sides measure 25 cm and 15 cm, and the non-parallel sides form perpendiculars to them (i.e., height is 10 cm).",
+      "options": [
+        {
+          "option": "200 sq cm",
+          "is_answer": true
+        },
+        {
+          "option": "100 sq cm"
+        },
+        {
+          "option": "400 sq cm"
+        },
+        {
+          "option": "150 sq cm"
+        }
+      ]
+    },
+    {
+      "question": "What is the area of a square whose perimeter is 48 cm?",
+      "options": [
+        {
+          "option": "196 sq cm"
+        },
+        {
+          "option": "121 sq cm"
+        },
+        {
+          "option": "169 sq cm"
+        },
+        {
+          "option": "144 sq cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the area of a rectangle with length 15 cm and breadth 10 cm.",
+      "options": [
+        {
+          "option": "25 sq cm"
+        },
+        {
+          "option": "125 sq cm"
+        },
+        {
+          "option": "150 sq cm",
+          "is_answer": true
+        },
+        {
+          "option": "50 sq cm"
+        }
+      ]
+    },
+    {
+      "question": "What is the circumference of a circle with radius 7 cm? (Use pi = 22/7)",
+      "options": [
+        {
+          "option": "22 cm"
+        },
+        {
+          "option": "44 cm",
+          "is_answer": true
+        },
+        {
+          "option": "88 cm"
+        },
+        {
+          "option": "154 cm"
+        }
+      ]
+    },
+    {
+      "question": "Find the area of a circle with radius 14 cm. (Use pi = 22/7)",
+      "options": [
+        {
+          "option": "616 sq cm",
+          "is_answer": true
+        },
+        {
+          "option": "308 sq cm"
+        },
+        {
+          "option": "1232 sq cm"
+        },
+        {
+          "option": "88 sq cm"
+        }
+      ]
+    },
+    {
+      "question": "What is the perimeter of a rectangle of length 20 cm and width 12 cm?",
+      "options": [
+        {
+          "option": "32 cm"
+        },
+        {
+          "option": "240 cm"
+        },
+        {
+          "option": "56 cm"
+        },
+        {
+          "option": "64 cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the side of a square is increased to twice its length, its area becomes how many times the original area?",
+      "options": [
+        {
+          "option": "4 times",
+          "is_answer": true
+        },
+        {
+          "option": "8 times"
+        },
+        {
+          "option": "2 times"
+        },
+        {
+          "option": "16 times"
+        }
+      ]
+    },
+    {
+      "question": "Find the area of a semicircle with radius 7 cm. (Use pi = 22/7)",
+      "options": [
+        {
+          "option": "77 sq cm",
+          "is_answer": true
+        },
+        {
+          "option": "154 sq cm"
+        },
+        {
+          "option": "44 sq cm"
+        },
+        {
+          "option": "38.5 sq cm"
+        }
+      ]
+    },
+    {
+      "question": "Calculate the perimeter of a semicircle with radius 7 cm. (Use pi = 22/7)",
+      "options": [
+        {
+          "option": "36 cm",
+          "is_answer": true
+        },
+        {
+          "option": "44 cm"
+        },
+        {
+          "option": "22 cm"
+        },
+        {
+          "option": "29 cm"
+        }
+      ]
+    },
+    {
+      "question": "Find the area of a sector of a circle with radius 21 cm and central angle 60 degrees. (Use pi = 22/7)",
+      "options": [
+        {
+          "option": "462 sq cm"
+        },
+        {
+          "option": "115.5 sq cm"
+        },
+        {
+          "option": "231 sq cm",
+          "is_answer": true
+        },
+        {
+          "option": "693 sq cm"
+        }
+      ]
+    },
+    {
+      "question": "What is the length of an arc of a circle of radius 14 cm subtending an angle of 90 degrees at the center? (Use pi = 22/7)",
+      "options": [
+        {
+          "option": "88 cm"
+        },
+        {
+          "option": "11 cm"
+        },
+        {
+          "option": "22 cm",
+          "is_answer": true
+        },
+        {
+          "option": "44 cm"
+        }
+      ]
+    },
+    {
+      "question": "The diagonal of a square is 10 cm. Find its area.",
+      "options": [
+        {
+          "option": "50 sq cm",
+          "is_answer": true
+        },
+        {
+          "option": "100 sq cm"
+        },
+        {
+          "option": "75 sq cm"
+        },
+        {
+          "option": "25 sq cm"
+        }
+      ]
+    },
+    {
+      "question": "If the perimeter of a circle is equal to the perimeter of a square, and the square's side is 22 cm, find the radius of the circle. (Use pi = 22/7)",
+      "options": [
+        {
+          "option": "14 cm",
+          "is_answer": true
+        },
+        {
+          "option": "7 cm"
+        },
+        {
+          "option": "21 cm"
+        },
+        {
+          "option": "28 cm"
+        }
+      ]
+    },
+    {
+      "question": "Find the area of a square whose diagonal is 8√2 cm.",
+      "options": [
+        {
+          "option": "16 sq cm"
+        },
+        {
+          "option": "32 sq cm"
+        },
+        {
+          "option": "128 sq cm"
+        },
+        {
+          "option": "64 sq cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The length of a rectangle is twice its breadth. If its perimeter is 60 cm, find its length.",
+      "options": [
+        {
+          "option": "15 cm"
+        },
+        {
+          "option": "30 cm"
+        },
+        {
+          "option": "10 cm"
+        },
+        {
+          "option": "20 cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the area of a circle whose circumference is 88 cm? (Use pi = 22/7)",
+      "options": [
+        {
+          "option": "308 sq cm"
+        },
+        {
+          "option": "1232 sq cm"
+        },
+        {
+          "option": "154 sq cm"
+        },
+        {
+          "option": "616 sq cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the perimeter of a sector of a circle with radius 14 cm and central angle 90 degrees. (Use pi = 22/7)",
+      "options": [
+        {
+          "option": "28 cm"
+        },
+        {
+          "option": "36 cm"
+        },
+        {
+          "option": "50 cm",
+          "is_answer": true
+        },
+        {
+          "option": "44 cm"
+        }
+      ]
+    },
+    {
+      "question": "If the radius of a circle is decreased by 50%, by what percentage does its area decrease?",
+      "options": [
+        {
+          "option": "75%",
+          "is_answer": true
+        },
+        {
+          "option": "50%"
+        },
+        {
+          "option": "100%"
+        },
+        {
+          "option": "25%"
+        }
+      ]
+    },
+    {
+      "question": "A rectangular park is 40 m long and 30 m wide. Find the length of its diagonal.",
+      "options": [
+        {
+          "option": "70 m"
+        },
+        {
+          "option": "50 m",
+          "is_answer": true
+        },
+        {
+          "option": "35 m"
+        },
+        {
+          "option": "60 m"
+        }
+      ]
+    },
+    {
+      "question": "Find the area of a ring (circular path) formed by two concentric circles of radii 7 cm and 14 cm. (Use pi = 22/7)",
+      "options": [
+        {
+          "option": "308 sq cm"
+        },
+        {
+          "option": "154 sq cm"
+        },
+        {
+          "option": "462 sq cm",
+          "is_answer": true
+        },
+        {
+          "option": "616 sq cm"
+        }
+      ]
+    },
+    {
+      "question": "The perimeter of a square and a rectangle are equal. If the area of the square is 81 sq cm and the rectangle's length is 10 cm, find its breadth.",
+      "options": [
+        {
+          "option": "7.5 cm"
+        },
+        {
+          "option": "10 cm"
+        },
+        {
+          "option": "8 cm",
+          "is_answer": true
+        },
+        {
+          "option": "9 cm"
+        }
+      ]
+    },
+    {
+      "question": "Find the volume of a cuboid whose length is 12 cm, breadth is 8 cm, and height is 5 cm.",
+      "options": [
+        {
+          "option": "400 cubic cm"
+        },
+        {
+          "option": "480 cubic cm",
+          "is_answer": true
+        },
+        {
+          "option": "450 cubic cm"
+        },
+        {
+          "option": "520 cubic cm"
+        }
+      ]
+    },
+    {
+      "question": "What is the total surface area of a cube whose side length is 6 cm?",
+      "options": [
+        {
+          "option": "144 square cm"
+        },
+        {
+          "option": "256 square cm"
+        },
+        {
+          "option": "216 square cm",
+          "is_answer": true
+        },
+        {
+          "option": "180 square cm"
+        }
+      ]
+    },
+    {
+      "question": "Find the length of the longest rod that can be placed in a room of dimensions 10m x 10m x 5m.",
+      "options": [
+        {
+          "option": "15 meters",
+          "is_answer": true
+        },
+        {
+          "option": "20 meters"
+        },
+        {
+          "option": "25 meters"
+        },
+        {
+          "option": "10.5 meters"
+        }
+      ]
+    },
+    {
+      "question": "The volume of a cube is 512 cubic cm. Find its total surface area.",
+      "options": [
+        {
+          "option": "384 square cm",
+          "is_answer": true
+        },
+        {
+          "option": "192 square cm"
+        },
+        {
+          "option": "512 square cm"
+        },
+        {
+          "option": "256 square cm"
+        }
+      ]
+    },
+    {
+      "question": "If the total surface area of a cuboid is 1300 sq cm, and its length is 15 cm and breadth is 10 cm, find its height.",
+      "options": [
+        {
+          "option": "15 cm"
+        },
+        {
+          "option": "25 cm"
+        },
+        {
+          "option": "30 cm"
+        },
+        {
+          "option": "20 cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the diagonal of a cuboid with dimensions 3 cm, 4 cm, and 12 cm.",
+      "options": [
+        {
+          "option": "19 cm"
+        },
+        {
+          "option": "10 cm"
+        },
+        {
+          "option": "7 cm"
+        },
+        {
+          "option": "13 cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The cost of painting the four walls of a cuboidal room 15m long, 10m wide, and 7m high at Rs. 5 per sq meter is:",
+      "options": [
+        {
+          "option": "Rs. 2500"
+        },
+        {
+          "option": "Rs. 1250"
+        },
+        {
+          "option": "Rs. 3500"
+        },
+        {
+          "option": "Rs. 1750",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the side of a cube is increased by 50%, by what percentage does its volume increase?",
+      "options": [
+        {
+          "option": "300%"
+        },
+        {
+          "option": "125%"
+        },
+        {
+          "option": "237.5%",
+          "is_answer": true
+        },
+        {
+          "option": "150%"
+        }
+      ]
+    },
+    {
+      "question": "Find the volume of a cube whose diagonal is 6√3 cm.",
+      "options": [
+        {
+          "option": "108 cubic cm"
+        },
+        {
+          "option": "216 cubic cm",
+          "is_answer": true
+        },
+        {
+          "option": "512 cubic cm"
+        },
+        {
+          "option": "72 cubic cm"
+        }
+      ]
+    },
+    {
+      "question": "The dimensions of a cuboid are in the ratio 3:2:1 and its total surface area is 88 sq cm. Find its volume.",
+      "options": [
+        {
+          "option": "24 cubic cm"
+        },
+        {
+          "option": "96 cubic cm"
+        },
+        {
+          "option": "36 cubic cm"
+        },
+        {
+          "option": "48 cubic cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many small cubes of side 2 cm can be formed from a solid cuboid of dimensions 16cm x 8cm x 4cm?",
+      "options": [
+        {
+          "option": "16"
+        },
+        {
+          "option": "64"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "32",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the total surface area of a cube is equal to 6 times its volume numerically, then the length of its side is:",
+      "options": [
+        {
+          "option": "6 units"
+        },
+        {
+          "option": "2 units"
+        },
+        {
+          "option": "1 unit",
+          "is_answer": true
+        },
+        {
+          "option": "3 units"
+        }
+      ]
+    },
+    {
+      "question": "What is the length of the diagonal of a cube whose volume is 729 cubic cm?",
+      "options": [
+        {
+          "option": "9 cm"
+        },
+        {
+          "option": "3√3 cm"
+        },
+        {
+          "option": "9√3 cm",
+          "is_answer": true
+        },
+        {
+          "option": "81 cm"
+        }
+      ]
+    },
+    {
+      "question": "A rectangular water tank is 6m long, 5m wide, and 4.5m deep. How many liters of water can it hold? (1 cubic meter = 1000 liters)",
+      "options": [
+        {
+          "option": "13,500 liters"
+        },
+        {
+          "option": "135,000 liters",
+          "is_answer": true
+        },
+        {
+          "option": "1,350 liters"
+        },
+        {
+          "option": "1,350,000 liters"
+        }
+      ]
+    },
+    {
+      "question": "The areas of three adjacent faces of a cuboid are X, Y, and Z. Its volume V is given by:",
+      "options": [
+        {
+          "option": "V = X + Y + Z"
+        },
+        {
+          "option": "V = √(X+Y+Z)"
+        },
+        {
+          "option": "V = √(XYZ)",
+          "is_answer": true
+        },
+        {
+          "option": "V = XYZ"
+        }
+      ]
+    },
+    {
+      "question": "If the side of a cube is doubled, its surface area increases by a factor of:",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "Find the lateral surface area of a cuboid of length 10 cm, breadth 6 cm, and height 5 cm.",
+      "options": [
+        {
+          "option": "300 square cm"
+        },
+        {
+          "option": "200 square cm"
+        },
+        {
+          "option": "160 square cm",
+          "is_answer": true
+        },
+        {
+          "option": "120 square cm"
+        }
+      ]
+    },
+    {
+      "question": "Two cubes have volumes in the ratio 27:64. The ratio of their surface areas is:",
+      "options": [
+        {
+          "option": "9:16",
+          "is_answer": true
+        },
+        {
+          "option": "81:256"
+        },
+        {
+          "option": "27:64"
+        },
+        {
+          "option": "3:4"
+        }
+      ]
+    },
+    {
+      "question": "What is the length of the edge of a cube if its total surface area is 96 square cm?",
+      "options": [
+        {
+          "option": "16 cm"
+        },
+        {
+          "option": "4 cm",
+          "is_answer": true
+        },
+        {
+          "option": "6 cm"
+        },
+        {
+          "option": "8 cm"
+        }
+      ]
+    },
+    {
+      "question": "A cuboidal block of metal is 36 cm by 24 cm by 18 cm. It is melted and recast into small cubes of side 6 cm each. How many cubes are formed?",
+      "options": [
+        {
+          "option": "48"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "72",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        }
+      ]
+    },
+    {
+      "question": "What is the formula for the curved surface area of a hemisphere with radius r?",
+      "options": [
+        {
+          "option": "3πr²"
+        },
+        {
+          "option": "4πr²"
+        },
+        {
+          "option": "2πr²",
+          "is_answer": true
+        },
+        {
+          "option": "πr²"
+        }
+      ]
+    },
+    {
+      "question": "What is the formula for the total surface area of a solid hemisphere with radius r?",
+      "options": [
+        {
+          "option": "4πr²"
+        },
+        {
+          "option": "2πr²"
+        },
+        {
+          "option": "3πr²",
+          "is_answer": true
+        },
+        {
+          "option": "πr²"
+        }
+      ]
+    },
+    {
+      "question": "What is the volume of a hemisphere with radius r?",
+      "options": [
+        {
+          "option": "2πr³"
+        },
+        {
+          "option": "(1/3)πr³"
+        },
+        {
+          "option": "(4/3)πr³"
+        },
+        {
+          "option": "(2/3)πr³",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the curved surface area of a hemisphere of radius 7 cm. (Use π = 22/7)",
+      "options": [
+        {
+          "option": "154 cm²"
+        },
+        {
+          "option": "462 cm²"
+        },
+        {
+          "option": "308 cm²",
+          "is_answer": true
+        },
+        {
+          "option": "616 cm²"
+        }
+      ]
+    },
+    {
+      "question": "Find the total surface area of a solid hemisphere of radius 7 cm. (Use π = 22/7)",
+      "options": [
+        {
+          "option": "616 cm²"
+        },
+        {
+          "option": "308 cm²"
+        },
+        {
+          "option": "154 cm²"
+        },
+        {
+          "option": "462 cm²",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the volume of a hemisphere of radius 3 cm. (Use π = 22/7)",
+      "options": [
+        {
+          "option": "56.57 cm³",
+          "is_answer": true
+        },
+        {
+          "option": "18.86 cm³"
+        },
+        {
+          "option": "28.28 cm³"
+        },
+        {
+          "option": "113.14 cm³"
+        }
+      ]
+    },
+    {
+      "question": "If the curved surface area of a hemisphere is 396 cm², find its radius. (Use π = 22/7)",
+      "options": [
+        {
+          "option": "7.95 cm",
+          "is_answer": true
+        },
+        {
+          "option": "10.5 cm"
+        },
+        {
+          "option": "14 cm"
+        },
+        {
+          "option": "7 cm"
+        }
+      ]
+    },
+    {
+      "question": "If the total surface area of a solid hemisphere is 4158 cm², find its radius. (Use π = 22/7)",
+      "options": [
+        {
+          "option": "7 cm"
+        },
+        {
+          "option": "28 cm"
+        },
+        {
+          "option": "14 cm"
+        },
+        {
+          "option": "21 cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the volume of a hemisphere whose radius is 6 cm? (Use π = 3.14)",
+      "options": [
+        {
+          "option": "150.72 cm³"
+        },
+        {
+          "option": "452.16 cm³",
+          "is_answer": true
+        },
+        {
+          "option": "904.32 cm³"
+        },
+        {
+          "option": "226.08 cm³"
+        }
+      ]
+    },
+    {
+      "question": "Find the ratio of the total surface area to the curved surface area of a solid hemisphere.",
+      "options": [
+        {
+          "option": "3 : 2",
+          "is_answer": true
+        },
+        {
+          "option": "1 : 2"
+        },
+        {
+          "option": "2 : 1"
+        },
+        {
+          "option": "2 : 3"
+        }
+      ]
+    },
+    {
+      "question": "If the radius of a hemisphere is doubled, how does its volume change?",
+      "options": [
+        {
+          "option": "Becomes 2 times"
+        },
+        {
+          "option": "Becomes 4 times"
+        },
+        {
+          "option": "Becomes 16 times"
+        },
+        {
+          "option": "Becomes 8 times",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the radius of a hemisphere is tripled, how does its curved surface area change?",
+      "options": [
+        {
+          "option": "Becomes 3 times"
+        },
+        {
+          "option": "Becomes 6 times"
+        },
+        {
+          "option": "Becomes 27 times"
+        },
+        {
+          "option": "Becomes 9 times",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the curved surface area of a hemisphere with diameter 14 cm. (Use π = 22/7)",
+      "options": [
+        {
+          "option": "616 cm²"
+        },
+        {
+          "option": "154 cm²"
+        },
+        {
+          "option": "308 cm²",
+          "is_answer": true
+        },
+        {
+          "option": "462 cm²"
+        }
+      ]
+    },
+    {
+      "question": "What is the volume of a hemisphere with diameter 21 cm? (Use π = 22/7)",
+      "options": [
+        {
+          "option": "1212.75 cm³"
+        },
+        {
+          "option": "4851 cm³"
+        },
+        {
+          "option": "2425.5 cm³",
+          "is_answer": true
+        },
+        {
+          "option": "3638.25 cm³"
+        }
+      ]
+    },
+    {
+      "question": "If the volume of a hemisphere is 19404 cm³, find its radius. (Use π = 22/7)",
+      "options": [
+        {
+          "option": "21 cm",
+          "is_answer": true
+        },
+        {
+          "option": "7 cm"
+        },
+        {
+          "option": "28 cm"
+        },
+        {
+          "option": "14 cm"
+        }
+      ]
+    },
+    {
+      "question": "Find the total surface area of a hemisphere whose diameter is 28 cm. (Use π = 22/7)",
+      "options": [
+        {
+          "option": "2464 cm²"
+        },
+        {
+          "option": "1232 cm²"
+        },
+        {
+          "option": "3696 cm²",
+          "is_answer": true
+        },
+        {
+          "option": "1848 cm²"
+        }
+      ]
+    },
+    {
+      "question": "The curved surface area of a hemisphere is 56.52 cm². Find its radius. (Use π = 3.14)",
+      "options": [
+        {
+          "option": "9 cm"
+        },
+        {
+          "option": "3 cm",
+          "is_answer": true
+        },
+        {
+          "option": "4.5 cm"
+        },
+        {
+          "option": "6 cm"
+        }
+      ]
+    },
+    {
+      "question": "A hemisphere bowl has inner radius 3.5 cm. What is the volume of water it can hold? (Use π = 22/7)",
+      "options": [
+        {
+          "option": "89.83 cm³",
+          "is_answer": true
+        },
+        {
+          "option": "179.67 cm³"
+        },
+        {
+          "option": "26.95 cm³"
+        },
+        {
+          "option": "53.9 cm³"
+        }
+      ]
+    },
+    {
+      "question": "If the numerical value of the volume of a hemisphere is equal to the numerical value of its curved surface area, find its radius.",
+      "options": [
+        {
+          "option": "2 units"
+        },
+        {
+          "option": "1.5 units"
+        },
+        {
+          "option": "4 units"
+        },
+        {
+          "option": "3 units",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the total surface area of a hemisphere of radius 10 cm. (Use π = 3.14)",
+      "options": [
+        {
+          "option": "314 cm²"
+        },
+        {
+          "option": "1256 cm²"
+        },
+        {
+          "option": "942 cm²",
+          "is_answer": true
+        },
+        {
+          "option": "628 cm²"
+        }
+      ]
+    },
+    {
+      "question": "Find the 5th term of the geometric progression: 3, 6, 12, 24, ...",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "96"
+        },
+        {
+          "option": "48",
+          "is_answer": true
+        },
+        {
+          "option": "192"
+        }
+      ]
+    },
+    {
+      "question": "What is the 7th term of the GP whose first term is 2 and common ratio is 3?",
+      "options": [
+        {
+          "option": "4374"
+        },
+        {
+          "option": "729"
+        },
+        {
+          "option": "486"
+        },
+        {
+          "option": "1458",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the sum of the first 6 terms of the GP: 1, 2, 4, 8, ...",
+      "options": [
+        {
+          "option": "127"
+        },
+        {
+          "option": "31"
+        },
+        {
+          "option": "63",
+          "is_answer": true
+        },
+        {
+          "option": "255"
+        }
+      ]
+    },
+    {
+      "question": "What is the sum to infinity of the GP: 8, 4, 2, 1, ...?",
+      "options": [
+        {
+          "option": "32"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In a GP, if the 3rd term is 12 and the 6th term is 96, find the first term 'a'.",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "1.5"
+        }
+      ]
+    },
+    {
+      "question": "Find the common ratio of a GP whose 1st term is 5 and 4th term is 135.",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "27"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "What is the 10th term of the GP: 1, 2, 4, 8, ...?",
+      "options": [
+        {
+          "option": "1024"
+        },
+        {
+          "option": "256"
+        },
+        {
+          "option": "512",
+          "is_answer": true
+        },
+        {
+          "option": "2048"
+        }
+      ]
+    },
+    {
+      "question": "Find the sum of the infinite GP: 9, 3, 1, 1/3, ...",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "13.5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the sum of first 3 terms of a GP is 21 and the sum of their squares is 189, find the common ratio (r > 1).",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "1.5"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "Which term of the GP: 5, 10, 20, 40, ... is 1280?",
+      "options": [
+        {
+          "option": "8th"
+        },
+        {
+          "option": "10th"
+        },
+        {
+          "option": "9th",
+          "is_answer": true
+        },
+        {
+          "option": "7th"
+        }
+      ]
+    },
+    {
+      "question": "Find the 4th term of the GP: 64, 32, 16, 8, ...",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Calculate the sum of the first 5 terms of the GP: 2, 6, 18, 54, ...",
+      "options": [
+        {
+          "option": "121"
+        },
+        {
+          "option": "484"
+        },
+        {
+          "option": "81"
+        },
+        {
+          "option": "242",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the 2nd term of a GP is 2 and the 5th term is 1/4, find the 8th term.",
+      "options": [
+        {
+          "option": "1/64"
+        },
+        {
+          "option": "1/8"
+        },
+        {
+          "option": "1/32",
+          "is_answer": true
+        },
+        {
+          "option": "1/16"
+        }
+      ]
+    },
+    {
+      "question": "Find the sum of the infinite GP: 0.6, 0.06, 0.006, ...",
+      "options": [
+        {
+          "option": "3/5"
+        },
+        {
+          "option": "2/3",
+          "is_answer": true
+        },
+        {
+          "option": "6/99"
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "If three numbers are in GP such that their product is 27 and their sum is 13, find the middle term.",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "27"
+        }
+      ]
+    },
+    {
+      "question": "What is the common ratio of the GP: -3, 6, -12, 24, ...?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "-2",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "-3"
+        }
+      ]
+    },
+    {
+      "question": "Find the 6th term of the GP: 1/2, 1/4, 1/8, 1/16, ...",
+      "options": [
+        {
+          "option": "1/256"
+        },
+        {
+          "option": "1/128"
+        },
+        {
+          "option": "1/64",
+          "is_answer": true
+        },
+        {
+          "option": "1/32"
+        }
+      ]
+    },
+    {
+      "question": "If the first term of a GP is 7 and the nth term is 448 with common ratio 2, find the value of n.",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the sum of the first 4 terms of a GP where a = 5 and r = 3.",
+      "options": [
+        {
+          "option": "160"
+        },
+        {
+          "option": "80"
+        },
+        {
+          "option": "200",
+          "is_answer": true
+        },
+        {
+          "option": "400"
+        }
+      ]
+    },
+    {
+      "question": "What is the 5th term of the GP: 16, -8, 4, -2, ...?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "-2"
+        }
+      ]
+    },
+    {
+      "question": "Find the 10th term of the Arithmetic Progression: 2, 7, 12, ...",
+      "options": [
+        {
+          "option": "42"
+        },
+        {
+          "option": "47",
+          "is_answer": true
+        },
+        {
+          "option": "37"
+        },
+        {
+          "option": "52"
+        }
+      ]
+    },
+    {
+      "question": "What is the 11th term of the AP: -3, -1/2, 2, ...?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "-20"
+        },
+        {
+          "option": "22",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the sum of the first 22 terms of the AP: 8, 3, -2, ...",
+      "options": [
+        {
+          "option": "-979",
+          "is_answer": true
+        },
+        {
+          "option": "-1012"
+        },
+        {
+          "option": "-961"
+        },
+        {
+          "option": "979"
+        }
+      ]
+    },
+    {
+      "question": "Which term of the AP: 3, 8, 13, 18, ... is 78?",
+      "options": [
+        {
+          "option": "15th"
+        },
+        {
+          "option": "18th"
+        },
+        {
+          "option": "16th",
+          "is_answer": true
+        },
+        {
+          "option": "17th"
+        }
+      ]
+    },
+    {
+      "question": "Find the number of terms in the finite AP: 7, 13, 19, ..., 205",
+      "options": [
+        {
+          "option": "34",
+          "is_answer": true
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "33"
+        },
+        {
+          "option": "35"
+        }
+      ]
+    },
+    {
+      "question": "Find the 30th term of the AP: 10, 7, 4, ...",
+      "options": [
+        {
+          "option": "-87"
+        },
+        {
+          "option": "-85"
+        },
+        {
+          "option": "77"
+        },
+        {
+          "option": "-77",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the sum of the first 10 terms of the AP: 2, 7, 12, ...",
+      "options": [
+        {
+          "option": "225"
+        },
+        {
+          "option": "245",
+          "is_answer": true
+        },
+        {
+          "option": "250"
+        },
+        {
+          "option": "235"
+        }
+      ]
+    },
+    {
+      "question": "If the 3rd and the 9th terms of an AP are 4 and -8 respectively, which term of this AP is zero?",
+      "options": [
+        {
+          "option": "6th"
+        },
+        {
+          "option": "4th"
+        },
+        {
+          "option": "7th"
+        },
+        {
+          "option": "5th",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Determine the AP whose 3rd term is 16 and the 7th term exceeds the 5th term by 12.",
+      "options": [
+        {
+          "option": "4, 10, 16, 22, ...",
+          "is_answer": true
+        },
+        {
+          "option": "3, 9, 15, 21, ..."
+        },
+        {
+          "option": "6, 11, 16, 21, ..."
+        },
+        {
+          "option": "2, 8, 14, 20, ..."
+        }
+      ]
+    },
+    {
+      "question": "Find the 20th term from the last term (towards the first term) of the AP: 3, 8, 13, ..., 253.",
+      "options": [
+        {
+          "option": "163"
+        },
+        {
+          "option": "158",
+          "is_answer": true
+        },
+        {
+          "option": "148"
+        },
+        {
+          "option": "153"
+        }
+      ]
+    },
+    {
+      "question": "Find the sum of the first 24 terms of the list of numbers whose nth term is given by a_n = 3 + 2n.",
+      "options": [
+        {
+          "option": "632"
+        },
+        {
+          "option": "680"
+        },
+        {
+          "option": "650"
+        },
+        {
+          "option": "672",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the sum of the first 15 multiples of 8.",
+      "options": [
+        {
+          "option": "920"
+        },
+        {
+          "option": "960",
+          "is_answer": true
+        },
+        {
+          "option": "940"
+        },
+        {
+          "option": "980"
+        }
+      ]
+    },
+    {
+      "question": "Find the sum of the odd numbers between 0 and 50.",
+      "options": [
+        {
+          "option": "650"
+        },
+        {
+          "option": "600"
+        },
+        {
+          "option": "625",
+          "is_answer": true
+        },
+        {
+          "option": "550"
+        }
+      ]
+    },
+    {
+      "question": "How many two-digit numbers are divisible by 3?",
+      "options": [
+        {
+          "option": "29"
+        },
+        {
+          "option": "33"
+        },
+        {
+          "option": "31"
+        },
+        {
+          "option": "30",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the sum of the first n terms of an AP is given by S_n = 4n - n^2, what is the first term (S_1)?",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "Find the sum of the first 15 terms of the AP: 1, 4, 7, 10, ...",
+      "options": [
+        {
+          "option": "310"
+        },
+        {
+          "option": "325",
+          "is_answer": true
+        },
+        {
+          "option": "315"
+        },
+        {
+          "option": "340"
+        }
+      ]
+    },
+    {
+      "question": "If the numbers a, 7, b, 23 form an AP, find the values of a and b respectively.",
+      "options": [
+        {
+          "option": "1, 15"
+        },
+        {
+          "option": "0, 15"
+        },
+        {
+          "option": "-1, 15",
+          "is_answer": true
+        },
+        {
+          "option": "-1, 14"
+        }
+      ]
+    },
+    {
+      "question": "In an AP, if a = 7, d = 3, n = 8, find a_n.",
+      "options": [
+        {
+          "option": "26"
+        },
+        {
+          "option": "31"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "28",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the common difference of an AP whose first term is 5 and the sum of the first 4 terms is half the sum of the next 4 terms.",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "Which term of the AP: 21, 18, 15, ... is 0?",
+      "options": [
+        {
+          "option": "6th"
+        },
+        {
+          "option": "8th",
+          "is_answer": true
+        },
+        {
+          "option": "9th"
+        },
+        {
+          "option": "7th"
+        }
+      ]
+    },
+    {
+      "question": "Find the volume of a cylinder with radius 7 cm and height 10 cm. (Use pi = 22/7)",
+      "options": [
+        {
+          "option": "770 cm³"
+        },
+        {
+          "option": "3080 cm³"
+        },
+        {
+          "option": "154 cm³"
+        },
+        {
+          "option": "1540 cm³",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the curved surface area of a cylinder of radius 3.5 cm and height 20 cm? (Use pi = 22/7)",
+      "options": [
+        {
+          "option": "440 cm²",
+          "is_answer": true
+        },
+        {
+          "option": "220 cm²"
+        },
+        {
+          "option": "154 cm²"
+        },
+        {
+          "option": "880 cm²"
+        }
+      ]
+    },
+    {
+      "question": "Find the volume of a right circular cone with radius 6 cm and height 7 cm. (Use pi = 22/7)",
+      "options": [
+        {
+          "option": "528 cm³"
+        },
+        {
+          "option": "132 cm³"
+        },
+        {
+          "option": "792 cm³"
+        },
+        {
+          "option": "264 cm³",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the slant height of a cone whose base radius is 3 cm and height is 4 cm?",
+      "options": [
+        {
+          "option": "7 cm"
+        },
+        {
+          "option": "12 cm"
+        },
+        {
+          "option": "25 cm"
+        },
+        {
+          "option": "5 cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the surface area of a sphere of radius 7 cm. (Use pi = 22/7)",
+      "options": [
+        {
+          "option": "308 cm²"
+        },
+        {
+          "option": "1232 cm²"
+        },
+        {
+          "option": "154 cm²"
+        },
+        {
+          "option": "616 cm²",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the volume of a sphere with radius 3 cm. (Use pi = 22/7)",
+      "options": [
+        {
+          "option": "226.28 cm³"
+        },
+        {
+          "option": "113.14 cm³",
+          "is_answer": true
+        },
+        {
+          "option": "37.71 cm³"
+        },
+        {
+          "option": "150.50 cm³"
+        }
+      ]
+    },
+    {
+      "question": "If the radius of a cylinder is doubled and height remains the same, the volume becomes how many times of the original?",
+      "options": [
+        {
+          "option": "No change"
+        },
+        {
+          "option": "8 times"
+        },
+        {
+          "option": "2 times"
+        },
+        {
+          "option": "4 times",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the total surface area of a solid hemisphere of radius 7 cm. (Use pi = 22/7)",
+      "options": [
+        {
+          "option": "462 cm²",
+          "is_answer": true
+        },
+        {
+          "option": "308 cm²"
+        },
+        {
+          "option": "616 cm²"
+        },
+        {
+          "option": "154 cm²"
+        }
+      ]
+    },
+    {
+      "question": "What is the curved surface area of a cone of radius 7 cm and slant height 10 cm? (Use pi = 22/7)",
+      "options": [
+        {
+          "option": "110 cm²"
+        },
+        {
+          "option": "440 cm²"
+        },
+        {
+          "option": "154 cm²"
+        },
+        {
+          "option": "220 cm²",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The curved surface area of a cylinder is 880 cm² and its height is 20 cm. Find its radius. (Use pi = 22/7)",
+      "options": [
+        {
+          "option": "3.5 cm"
+        },
+        {
+          "option": "21 cm"
+        },
+        {
+          "option": "14 cm"
+        },
+        {
+          "option": "7 cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the volume and surface area of a sphere are numerically equal, what is the radius of the sphere?",
+      "options": [
+        {
+          "option": "pi units"
+        },
+        {
+          "option": "6 units"
+        },
+        {
+          "option": "3 units",
+          "is_answer": true
+        },
+        {
+          "option": "4 units"
+        }
+      ]
+    },
+    {
+      "question": "Find the volume of a cone whose base area is 154 cm² and height is 12 cm. (Use pi = 22/7)",
+      "options": [
+        {
+          "option": "616 cm³",
+          "is_answer": true
+        },
+        {
+          "option": "1848 cm³"
+        },
+        {
+          "option": "308 cm³"
+        },
+        {
+          "option": "924 cm³"
+        }
+      ]
+    },
+    {
+      "question": "A cylindrical tank has a radius of 14 m and height of 5 m. Find the capacity of the tank in cubic meters. (Use pi = 22/7)",
+      "options": [
+        {
+          "option": "3080 m³",
+          "is_answer": true
+        },
+        {
+          "option": "6160 m³"
+        },
+        {
+          "option": "1540 m³"
+        },
+        {
+          "option": "770 m³"
+        }
+      ]
+    },
+    {
+      "question": "The radii of two spheres are in the ratio 2:3. What is the ratio of their volumes?",
+      "options": [
+        {
+          "option": "4:9"
+        },
+        {
+          "option": "2:3"
+        },
+        {
+          "option": "16:81"
+        },
+        {
+          "option": "8:27",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the height of a given cone is tripled while its radius remains constant, its volume becomes:",
+      "options": [
+        {
+          "option": "3 times",
+          "is_answer": true
+        },
+        {
+          "option": "9 times"
+        },
+        {
+          "option": "6 times"
+        },
+        {
+          "option": "1/3 times"
+        }
+      ]
+    },
+    {
+      "question": "Find the total surface area of a solid cylinder of radius 7 cm and height 10 cm. (Use pi = 22/7)",
+      "options": [
+        {
+          "option": "440 cm²"
+        },
+        {
+          "option": "308 cm²"
+        },
+        {
+          "option": "748 cm²",
+          "is_answer": true
+        },
+        {
+          "option": "1540 cm²"
+        }
+      ]
+    },
+    {
+      "question": "What is the volume of a hemisphere of radius 6 cm? (Use pi = 3.14)",
+      "options": [
+        {
+          "option": "452.16 cm³",
+          "is_answer": true
+        },
+        {
+          "option": "904.32 cm³"
+        },
+        {
+          "option": "113.04 cm³"
+        },
+        {
+          "option": "226.08 cm³"
+        }
+      ]
+    },
+    {
+      "question": "A conical tent is 10 m high and the radius of its base is 24 m. Find the slant height of the tent.",
+      "options": [
+        {
+          "option": "25 m"
+        },
+        {
+          "option": "34 m"
+        },
+        {
+          "option": "26 m",
+          "is_answer": true
+        },
+        {
+          "option": "14 m"
+        }
+      ]
+    },
+    {
+      "question": "The surface areas of two spheres are in the ratio 1:4. What is the ratio of their radii?",
+      "options": [
+        {
+          "option": "1:2",
+          "is_answer": true
+        },
+        {
+          "option": "1:8"
+        },
+        {
+          "option": "1:4"
+        },
+        {
+          "option": "1:16"
+        }
+      ]
+    },
+    {
+      "question": "If a solid sphere of radius 3 cm is melted and recast into a cylindrical wire of radius 1 cm, find the length of the wire.",
+      "options": [
+        {
+          "option": "12 cm"
+        },
+        {
+          "option": "36 cm",
+          "is_answer": true
+        },
+        {
+          "option": "108 cm"
+        },
+        {
+          "option": "27 cm"
+        }
+      ]
+    },
+    {
+      "question": "A solid metallic sphere of radius 6 cm is melted and recast into small spherical pellets of radius 2 cm each. How many such pellets can be made?",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "27",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "36"
+        }
+      ]
+    },
+    {
+      "question": "A metallic cylinder of radius 3 cm and height 5 cm is melted and recast into small spherical balls of radius 1 cm. Find the number of balls formed.",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "45",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A metallic sphere of radius 4 cm is melted and drawn into a long wire of uniform circular cross-section of radius 2 mm (0.2 cm). Find the length of the wire.",
+      "options": [
+        {
+          "option": "320.00 cm"
+        },
+        {
+          "option": "426.67 cm"
+        },
+        {
+          "option": "106.67 cm"
+        },
+        {
+          "option": "213.33 cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A solid right circular cylinder of radius 7 cm and height 10 cm is melted to form a solid sphere. What is the radius of the sphere?",
+      "options": [
+        {
+          "option": "7 cm",
+          "is_answer": true
+        },
+        {
+          "option": "21 cm"
+        },
+        {
+          "option": "3.5 cm"
+        },
+        {
+          "option": "14 cm"
+        }
+      ]
+    },
+    {
+      "question": "How many spherical bullets of radius 1 cm can be made from a solid lead cylinder of base radius 4 cm and height 12 cm?",
+      "options": [
+        {
+          "option": "192",
+          "is_answer": true
+        },
+        {
+          "option": "64"
+        },
+        {
+          "option": "256"
+        },
+        {
+          "option": "128"
+        }
+      ]
+    },
+    {
+      "question": "A metallic cone of radius 6 cm and height 12 cm is melted and recast into solid spheres of radius 2 cm each. Find the number of spheres formed.",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "27"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "A metallic sphere of radius 9 cm is melted and recast into a cylinder of radius 6 cm. Find the height of the cylinder.",
+      "options": [
+        {
+          "option": "9 cm"
+        },
+        {
+          "option": "27 cm",
+          "is_answer": true
+        },
+        {
+          "option": "18 cm"
+        },
+        {
+          "option": "13.5 cm"
+        }
+      ]
+    },
+    {
+      "question": "A copper wire of diameter 1 cm and length 8 m is melted to form a solid sphere. The radius of the sphere is:",
+      "options": [
+        {
+          "option": "1 cm"
+        },
+        {
+          "option": "2 cm",
+          "is_answer": true
+        },
+        {
+          "option": "8 cm"
+        },
+        {
+          "option": "4 cm"
+        }
+      ]
+    },
+    {
+      "question": "Three solid spheres of radii 6 cm, 8 cm, and 10 cm are melted to form a single solid sphere. The radius of the new sphere is:",
+      "options": [
+        {
+          "option": "12 cm",
+          "is_answer": true
+        },
+        {
+          "option": "14 cm"
+        },
+        {
+          "option": "16 cm"
+        },
+        {
+          "option": "24 cm"
+        }
+      ]
+    },
+    {
+      "question": "A solid metallic cuboid of dimensions 9 cm x 11 cm x 12 cm is melted and recast into a solid sphere of radius 6 cm. Find the radius of the sphere, wait, let's change: find how many such spheres of radius 3 cm can be made.",
+      "options": [
+        {
+          "option": "28"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "21"
+        }
+      ]
+    },
+    {
+      "question": "A cylindrical bucket, 32 cm high and with radius of base 18 cm, is filled with sand. This bucket is emptied on the ground and a conical heap of sand is formed. If the height of the conical heap is 24 cm, the radius of its base is:",
+      "options": [
+        {
+          "option": "24 cm"
+        },
+        {
+          "option": "36 cm",
+          "is_answer": true
+        },
+        {
+          "option": "12 cm"
+        },
+        {
+          "option": "18 cm"
+        }
+      ]
+    },
+    {
+      "question": "Water flows out through a circular pipe whose internal radius is 1 cm, at the rate of 80 cm/sec into an empty cylindrical tank of radius 40 cm. By how much will the level of water rise in 30 minutes?",
+      "options": [
+        {
+          "option": "60 cm"
+        },
+        {
+          "option": "45 cm"
+        },
+        {
+          "option": "180 cm"
+        },
+        {
+          "option": "90 cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A solid metal sphere of radius 5 cm is melted and recast into a conical shape. If the radius of the base of the cone is 5 cm, find its height.",
+      "options": [
+        {
+          "option": "25 cm"
+        },
+        {
+          "option": "10 cm"
+        },
+        {
+          "option": "15 cm"
+        },
+        {
+          "option": "20 cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If a solid sphere of radius 3 cm is melted to form a wire of radius 0.2 cm, what is the length of the wire?",
+      "options": [
+        {
+          "option": "900 cm",
+          "is_answer": true
+        },
+        {
+          "option": "450 cm"
+        },
+        {
+          "option": "225 cm"
+        },
+        {
+          "option": "1800 cm"
+        }
+      ]
+    },
+    {
+      "question": "A solid cylinder of radius 4 cm and height 9 cm is melted and recast into a sphere. The surface area of the sphere is:",
+      "options": [
+        {
+          "option": "72π cm²"
+        },
+        {
+          "option": "36π cm²"
+        },
+        {
+          "option": "144π cm²",
+          "is_answer": true
+        },
+        {
+          "option": "288π cm²"
+        }
+      ]
+    },
+    {
+      "question": "A hollow sphere of internal and external radii 2 cm and 4 cm respectively is melted to form a solid cylinder of base radius 2 cm. Find the height of the cylinder.",
+      "options": [
+        {
+          "option": "14/3 cm"
+        },
+        {
+          "option": "7 cm"
+        },
+        {
+          "option": "28/3 cm",
+          "is_answer": true
+        },
+        {
+          "option": "56/3 cm"
+        }
+      ]
+    },
+    {
+      "question": "A metallic solid hemisphere of radius 7 cm is melted and recast into a right circular cone of base radius 7 cm. Find the height of the cone.",
+      "options": [
+        {
+          "option": "7 cm"
+        },
+        {
+          "option": "14 cm",
+          "is_answer": true
+        },
+        {
+          "option": "28 cm"
+        },
+        {
+          "option": "21 cm"
+        }
+      ]
+    },
+    {
+      "question": "How many spherical balls each of 1 cm radius can be made by melting a hemispherical bowl of internal radius 6 cm and external radius 8 cm?",
+      "options": [
+        {
+          "option": "304",
+          "is_answer": true
+        },
+        {
+          "option": "76"
+        },
+        {
+          "option": "608"
+        },
+        {
+          "option": "152"
+        }
+      ]
+    },
+    {
+      "question": "A cylindrical metallic rod of diameter 8 cm and height 9 cm is melted and recast into small spherical beads, each of diameter 2 cm. Find the number of beads.",
+      "options": [
+        {
+          "option": "72"
+        },
+        {
+          "option": "108"
+        },
+        {
+          "option": "216",
+          "is_answer": true
+        },
+        {
+          "option": "144"
+        }
+      ]
+    },
+    {
+      "question": "A cylindrical container of radius 6 cm and height 15 cm is filled with ice cream. The whole ice cream is distributed to 10 children in equal cones having hemispherical tops. If the height of the conical portion is twice the radius of its base, find the radius of the ice cream cone.",
+      "options": [
+        {
+          "option": "1.5 cm"
+        },
+        {
+          "option": "4.5 cm"
+        },
+        {
+          "option": "3 cm",
+          "is_answer": true
+        },
+        {
+          "option": "6 cm"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of log_2(32)?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: log_3(x) = 4",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "64"
+        },
+        {
+          "option": "27"
+        },
+        {
+          "option": "81",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: log_10(1000)",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: log_5(1)",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "Find the value of log_e(e^5)",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "e^5"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "Solve the equation: log_2(x) + log_2(x - 3) = 2",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "What is log_a(xy) equal to?",
+      "options": [
+        {
+          "option": "log_a(x) - log_a(y)"
+        },
+        {
+          "option": "log_a(x) * log_a(y)"
+        },
+        {
+          "option": "log_a(x) + log_a(y)",
+          "is_answer": true
+        },
+        {
+          "option": "y * log_a(x)"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: log_4(64)",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: log_10(x) + log_10(2) = 1",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of log_3(1/9)?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "-2",
+          "is_answer": true
+        },
+        {
+          "option": "-3"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: 2 * log_10(5) + log_10(4)",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: log_x(8) = 3",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is log_b(x^n) equal to?",
+      "options": [
+        {
+          "option": "n * log_b(x)",
+          "is_answer": true
+        },
+        {
+          "option": "n^log_b(x)"
+        },
+        {
+          "option": "x * log_b(n)"
+        },
+        {
+          "option": "log_b(n) + log_b(x)"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: log_2(1/8)",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "-3",
+          "is_answer": true
+        },
+        {
+          "option": "-2"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "Find x if log_5(x - 1) = 2",
+      "options": [
+        {
+          "option": "11"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "26",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of log_7(7)?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "49"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: log_10(50) - log_10(5)",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "45"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: 3^x = 81",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "27"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: ln(e)",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "e"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "infinity"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of log_2(log_3(81))?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the angle between the hour and minute hands of a clock at 3:30?",
+      "options": [
+        {
+          "option": "60°"
+        },
+        {
+          "option": "75°",
+          "is_answer": true
+        },
+        {
+          "option": "90°"
+        },
+        {
+          "option": "105°"
+        }
+      ]
+    },
+    {
+      "question": "Find the angle between the hands of a clock at 4:20.",
+      "options": [
+        {
+          "option": "20°"
+        },
+        {
+          "option": "0°"
+        },
+        {
+          "option": "15°"
+        },
+        {
+          "option": "10°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the angle between the clock hands at 7:15?",
+      "options": [
+        {
+          "option": "135°"
+        },
+        {
+          "option": "112.5°"
+        },
+        {
+          "option": "120°"
+        },
+        {
+          "option": "127.5°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "At 2:40, what is the angle between the two hands of a clock?",
+      "options": [
+        {
+          "option": "190°",
+          "is_answer": true
+        },
+        {
+          "option": "195°"
+        },
+        {
+          "option": "170°"
+        },
+        {
+          "option": "180°"
+        }
+      ]
+    },
+    {
+      "question": "Find the angle between the hands of a clock when the time is 8:20.",
+      "options": [
+        {
+          "option": "140°"
+        },
+        {
+          "option": "125°"
+        },
+        {
+          "option": "120°"
+        },
+        {
+          "option": "130°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the angle between the hour and minute hands at 10:10?",
+      "options": [
+        {
+          "option": "105°"
+        },
+        {
+          "option": "115°",
+          "is_answer": true
+        },
+        {
+          "option": "120°"
+        },
+        {
+          "option": "110°"
+        }
+      ]
+    },
+    {
+      "question": "Calculate the angle between the hands of a clock at 5:10.",
+      "options": [
+        {
+          "option": "90°"
+        },
+        {
+          "option": "85°"
+        },
+        {
+          "option": "100°"
+        },
+        {
+          "option": "95°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "At 6:00, the angle between the hands of a clock is:",
+      "options": [
+        {
+          "option": "90°"
+        },
+        {
+          "option": "360°"
+        },
+        {
+          "option": "0°"
+        },
+        {
+          "option": "180°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the angle between the clock hands at 1:25?",
+      "options": [
+        {
+          "option": "60°"
+        },
+        {
+          "option": "45°"
+        },
+        {
+          "option": "55°"
+        },
+        {
+          "option": "52.5°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the angle between the hands of a clock at 9:35.",
+      "options": [
+        {
+          "option": "75°"
+        },
+        {
+          "option": "82.5°"
+        },
+        {
+          "option": "70°"
+        },
+        {
+          "option": "77.5°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the angle between the hands at 11:50?",
+      "options": [
+        {
+          "option": "105°"
+        },
+        {
+          "option": "100°"
+        },
+        {
+          "option": "95°",
+          "is_answer": true
+        },
+        {
+          "option": "90°"
+        }
+      ]
+    },
+    {
+      "question": "At 12:15, what is the angle between the clock hands?",
+      "options": [
+        {
+          "option": "90°"
+        },
+        {
+          "option": "82.5°",
+          "is_answer": true
+        },
+        {
+          "option": "85°"
+        },
+        {
+          "option": "75°"
+        }
+      ]
+    },
+    {
+      "question": "Find the angle between the clock hands at 3:15.",
+      "options": [
+        {
+          "option": "10°"
+        },
+        {
+          "option": "7.5°",
+          "is_answer": true
+        },
+        {
+          "option": "0°"
+        },
+        {
+          "option": "15°"
+        }
+      ]
+    },
+    {
+      "question": "What is the angle between the hands of a clock at 5:45?",
+      "options": [
+        {
+          "option": "90°"
+        },
+        {
+          "option": "105°"
+        },
+        {
+          "option": "97.5°",
+          "is_answer": true
+        },
+        {
+          "option": "100°"
+        }
+      ]
+    },
+    {
+      "question": "At 8:30, find the angle between the hour and minute hands.",
+      "options": [
+        {
+          "option": "75°",
+          "is_answer": true
+        },
+        {
+          "option": "60°"
+        },
+        {
+          "option": "80°"
+        },
+        {
+          "option": "90°"
+        }
+      ]
+    },
+    {
+      "question": "What is the angle between the clock hands at 2:20?",
+      "options": [
+        {
+          "option": "45°"
+        },
+        {
+          "option": "50°",
+          "is_answer": true
+        },
+        {
+          "option": "60°"
+        },
+        {
+          "option": "40°"
+        }
+      ]
+    },
+    {
+      "question": "Find the angle between the hands of a clock at 10:25.",
+      "options": [
+        {
+          "option": "197.5°",
+          "is_answer": true
+        },
+        {
+          "option": "190°"
+        },
+        {
+          "option": "180°"
+        },
+        {
+          "option": "200°"
+        }
+      ]
+    },
+    {
+      "question": "What is the angle between the hands of a clock at 4:50?",
+      "options": [
+        {
+          "option": "155°",
+          "is_answer": true
+        },
+        {
+          "option": "145°"
+        },
+        {
+          "option": "160°"
+        },
+        {
+          "option": "150°"
+        }
+      ]
+    },
+    {
+      "question": "At 7:00, what is the angle between the clock hands?",
+      "options": [
+        {
+          "option": "180°"
+        },
+        {
+          "option": "150°",
+          "is_answer": true
+        },
+        {
+          "option": "210°"
+        },
+        {
+          "option": "120°"
+        }
+      ]
+    },
+    {
+      "question": "Find the angle between the clock hands at 1:00.",
+      "options": [
+        {
+          "option": "30°",
+          "is_answer": true
+        },
+        {
+          "option": "60°"
+        },
+        {
+          "option": "15°"
+        },
+        {
+          "option": "45°"
+        }
+      ]
+    },
+    {
+      "question": "What is the relationship between Arithmetic Mean (AM), Geometric Mean (GM), and Harmonic Mean (HM) of two positive numbers?",
+      "options": [
+        {
+          "option": "AM = GM = HM"
+        },
+        {
+          "option": "AM * HM = GM^2",
+          "is_answer": true
+        },
+        {
+          "option": "AM * GM = HM^2"
+        },
+        {
+          "option": "AM + HM = GM"
+        }
+      ]
+    },
+    {
+      "question": "If the 3rd term of an HP is 1/5 and the 5th term is 1/9, find the 1st term of the HP.",
+      "options": [
+        {
+          "option": "1/7"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "For any set of positive real numbers, which of the following inequalities is always true?",
+      "options": [
+        {
+          "option": "GM >= AM >= HM"
+        },
+        {
+          "option": "AM >= HM >= GM"
+        },
+        {
+          "option": "AM >= GM >= HM",
+          "is_answer": true
+        },
+        {
+          "option": "HM >= GM >= AM"
+        }
+      ]
+    },
+    {
+      "question": "Find the Harmonic Mean of 2 and 8.",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "16/5",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "If the AM of two numbers is 10 and their GM is 8, find their HM.",
+      "options": [
+        {
+          "option": "6.4",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "12.5"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "If a, b, c are in HP, then which of the following is in AP?",
+      "options": [
+        {
+          "option": "a/b, b/c, c/a"
+        },
+        {
+          "option": "a-b, b-c, c-a"
+        },
+        {
+          "option": "1/a, 1/b, 1/c",
+          "is_answer": true
+        },
+        {
+          "option": "a^2, b^2, c^2"
+        }
+      ]
+    },
+    {
+      "question": "What condition must be met for AM = GM = HM among positive numbers?",
+      "options": [
+        {
+          "option": "All numbers must be identical",
+          "is_answer": true
+        },
+        {
+          "option": "Numbers must sum to zero"
+        },
+        {
+          "option": "Numbers must be in GP"
+        },
+        {
+          "option": "Numbers must be in AP"
+        }
+      ]
+    },
+    {
+      "question": "If the 2nd term of an HP is 1/4 and the 4th term is 1/6, what is the 6th term?",
+      "options": [
+        {
+          "option": "1/8",
+          "is_answer": true
+        },
+        {
+          "option": "1/12"
+        },
+        {
+          "option": "1/10"
+        },
+        {
+          "option": "1/7"
+        }
+      ]
+    },
+    {
+      "question": "What is the Harmonic Mean of 3, 4, and 12?",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "19/3"
+        }
+      ]
+    },
+    {
+      "question": "If AM of two positive numbers is 25 and HM is 9, find their GM.",
+      "options": [
+        {
+          "option": "17"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If a, b, c are in HP, then the expression a/(b+c-a) + c/(a+b-c) equals:",
+      "options": [
+        {
+          "option": "2b/(b)",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "Which term of the HP 1/3, 1/5, 1/7, ... is 1/21?",
+      "options": [
+        {
+          "option": "10th",
+          "is_answer": true
+        },
+        {
+          "option": "11th"
+        },
+        {
+          "option": "9th"
+        },
+        {
+          "option": "12th"
+        }
+      ]
+    },
+    {
+      "question": "If x, y, z are in HP, then y is called the:",
+      "options": [
+        {
+          "option": "Geometric Mean between x and z"
+        },
+        {
+          "option": "Arithmetic Mean between x and z"
+        },
+        {
+          "option": "Square root of x and z"
+        },
+        {
+          "option": "Harmonic Mean between x and z",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the AM of two numbers is 5 and GM is 4, what is the larger of the two numbers?",
+      "options": [
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "If each term of an HP is multiplied by a non-zero constant k, the resulting sequence is:",
+      "options": [
+        {
+          "option": "A GP"
+        },
+        {
+          "option": "An AP"
+        },
+        {
+          "option": "Neither AP nor GP nor HP"
+        },
+        {
+          "option": "An HP",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the HM of 1, 2, and 3?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "11/18"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "18/11",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If a, b, c are in HP, then (a-b)/(b-c) is equal to:",
+      "options": [
+        {
+          "option": "a/c",
+          "is_answer": true
+        },
+        {
+          "option": "b/a"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "c/a"
+        }
+      ]
+    },
+    {
+      "question": "The Harmonic Mean of two numbers is 4 and their Arithmetic Mean is 9. Find their Geometric Mean.",
+      "options": [
+        {
+          "option": "13"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "36"
+        }
+      ]
+    },
+    {
+      "question": "If p-th, q-th, and r-th terms of an HP are a, b, c respectively, then (q-r)bc + (r-p)ca + (p-q)ab is:",
+      "options": [
+        {
+          "option": "abc"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "pqr"
+        }
+      ]
+    },
+    {
+      "question": "If the roots of a quadratic equation are in the ratio m:n, and their AM and HM are evaluated, which relation always holds for positive roots?",
+      "options": [
+        {
+          "option": "AM + HM = GM"
+        },
+        {
+          "option": "HM >= AM"
+        },
+        {
+          "option": "GM >= AM"
+        },
+        {
+          "option": "AM * HM = GM^2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many odd days are there in a normal year?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many odd days are there in a leap year?",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "How many odd days are there in 100 years?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "How many odd days are there in 400 years?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "What day of the week was it on 15th August 1947?",
+      "options": [
+        {
+          "option": "Thursday"
+        },
+        {
+          "option": "Wednesday"
+        },
+        {
+          "option": "Saturday"
+        },
+        {
+          "option": "Friday",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What day of the week was it on 26th January 1950?",
+      "options": [
+        {
+          "option": "Thursday",
+          "is_answer": true
+        },
+        {
+          "option": "Friday"
+        },
+        {
+          "option": "Wednesday"
+        },
+        {
+          "option": "Tuesday"
+        }
+      ]
+    },
+    {
+      "question": "How many leap years are there in 100 consecutive years?",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "26"
+        },
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "How many odd days are there in 200 years?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "How many odd days are there in 300 years?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "If today is Monday, what day will it be after 61 days?",
+      "options": [
+        {
+          "option": "Saturday",
+          "is_answer": true
+        },
+        {
+          "option": "Monday"
+        },
+        {
+          "option": "Sunday"
+        },
+        {
+          "option": "Friday"
+        }
+      ]
+    },
+    {
+      "question": "The last day of a century cannot be which of the following?",
+      "options": [
+        {
+          "option": "Wednesday"
+        },
+        {
+          "option": "Friday"
+        },
+        {
+          "option": "Tuesday",
+          "is_answer": true
+        },
+        {
+          "option": "Monday"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is a leap year?",
+      "options": [
+        {
+          "option": "1800"
+        },
+        {
+          "option": "1900"
+        },
+        {
+          "option": "2000",
+          "is_answer": true
+        },
+        {
+          "option": "2100"
+        }
+      ]
+    },
+    {
+      "question": "The calendar for the year 2005 will be the same as for the year:",
+      "options": [
+        {
+          "option": "2010"
+        },
+        {
+          "option": "2016"
+        },
+        {
+          "option": "2012"
+        },
+        {
+          "option": "2011",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If 1st January 2004 was a Thursday, what day of the week was 1st January 2005?",
+      "options": [
+        {
+          "option": "Saturday",
+          "is_answer": true
+        },
+        {
+          "option": "Friday"
+        },
+        {
+          "option": "Thursday"
+        },
+        {
+          "option": "Sunday"
+        }
+      ]
+    },
+    {
+      "question": "How many days are there from 26th January 2004 to 15th May 2004 (inclusive)?",
+      "options": [
+        {
+          "option": "112"
+        },
+        {
+          "option": "109"
+        },
+        {
+          "option": "111",
+          "is_answer": true
+        },
+        {
+          "option": "110"
+        }
+      ]
+    },
+    {
+      "question": "What was the day on 2nd October 1869 (Mahatma Gandhi's birthday)?",
+      "options": [
+        {
+          "option": "Friday"
+        },
+        {
+          "option": "Saturday",
+          "is_answer": true
+        },
+        {
+          "option": "Sunday"
+        },
+        {
+          "option": "Monday"
+        }
+      ]
+    },
+    {
+      "question": "Maximum gap between two successive leap years is:",
+      "options": [
+        {
+          "option": "12 years"
+        },
+        {
+          "option": "8 years",
+          "is_answer": true
+        },
+        {
+          "option": "5 years"
+        },
+        {
+          "option": "4 years"
+        }
+      ]
+    },
+    {
+      "question": "If a leap year starts on Sunday, on which day will it end?",
+      "options": [
+        {
+          "option": "Saturday"
+        },
+        {
+          "option": "Tuesday"
+        },
+        {
+          "option": "Monday",
+          "is_answer": true
+        },
+        {
+          "option": "Sunday"
+        }
+      ]
+    },
+    {
+      "question": "Which day of the week can be the first day of a century?",
+      "options": [
+        {
+          "option": "Wednesday"
+        },
+        {
+          "option": "Monday",
+          "is_answer": true
+        },
+        {
+          "option": "Tuesday"
+        },
+        {
+          "option": "Thursday"
+        }
+      ]
+    },
+    {
+      "question": "How many times does the 29th day of the month occur in 400 consecutive years?",
+      "options": [
+        {
+          "option": "4800"
+        },
+        {
+          "option": "4500"
+        },
+        {
+          "option": "4497",
+          "is_answer": true
+        },
+        {
+          "option": "4400"
+        }
+      ]
+    },
+    {
+      "question": "How many times do the hands of a clock coincide in a day (24 hours)?",
+      "options": [
+        {
+          "option": "24 times"
+        },
+        {
+          "option": "44 times"
+        },
+        {
+          "option": "22 times",
+          "is_answer": true
+        },
+        {
+          "option": "11 times"
+        }
+      ]
+    },
+    {
+      "question": "How many times do the hands of a clock point in opposite directions in 12 hours?",
+      "options": [
+        {
+          "option": "10 times"
+        },
+        {
+          "option": "12 times"
+        },
+        {
+          "option": "11 times",
+          "is_answer": true
+        },
+        {
+          "option": "22 times"
+        }
+      ]
+    },
+    {
+      "question": "How many times do the hands of a clock form a right angle in 24 hours?",
+      "options": [
+        {
+          "option": "24 times"
+        },
+        {
+          "option": "44 times",
+          "is_answer": true
+        },
+        {
+          "option": "48 times"
+        },
+        {
+          "option": "22 times"
+        }
+      ]
+    },
+    {
+      "question": "At what time between 4 and 5 o'clock do the hands of a clock coincide?",
+      "options": [
+        {
+          "option": "21 9/11 minutes past 4",
+          "is_answer": true
+        },
+        {
+          "option": "22 minutes past 4"
+        },
+        {
+          "option": "21 minutes past 4"
+        },
+        {
+          "option": "20 minutes past 4"
+        }
+      ]
+    },
+    {
+      "question": "At what time between 7 and 8 o'clock are the hands of a clock in opposite directions?",
+      "options": [
+        {
+          "option": "5 5/11 minutes past 7",
+          "is_answer": true
+        },
+        {
+          "option": "6 minutes past 7"
+        },
+        {
+          "option": "7 5/11 minutes past 7"
+        },
+        {
+          "option": "5 minutes past 7"
+        }
+      ]
+    },
+    {
+      "question": "At what time between 3 and 4 o'clock are the hands of a clock at right angles?",
+      "options": [
+        {
+          "option": "30 minutes past 3"
+        },
+        {
+          "option": "32 minutes past 3"
+        },
+        {
+          "option": "33 minutes past 3"
+        },
+        {
+          "option": "32 8/11 minutes past 3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many times do the hands of a clock coincide in 12 hours?",
+      "options": [
+        {
+          "option": "10 times"
+        },
+        {
+          "option": "22 times"
+        },
+        {
+          "option": "11 times",
+          "is_answer": true
+        },
+        {
+          "option": "12 times"
+        }
+      ]
+    },
+    {
+      "question": "How many times do the hands of a clock form a right angle in 12 hours?",
+      "options": [
+        {
+          "option": "11 times"
+        },
+        {
+          "option": "24 times"
+        },
+        {
+          "option": "22 times",
+          "is_answer": true
+        },
+        {
+          "option": "44 times"
+        }
+      ]
+    },
+    {
+      "question": "At what time between 2 and 3 o'clock do the hands of a clock coincide?",
+      "options": [
+        {
+          "option": "10 10/11 minutes past 2",
+          "is_answer": true
+        },
+        {
+          "option": "10 minutes past 2"
+        },
+        {
+          "option": "9 9/11 minutes past 2"
+        },
+        {
+          "option": "11 minutes past 2"
+        }
+      ]
+    },
+    {
+      "question": "At what time between 5 and 6 o'clock are the hands of a clock in opposite directions?",
+      "options": [
+        {
+          "option": "53 5/11 minutes past 5"
+        },
+        {
+          "option": "54 6/11 minutes past 5",
+          "is_answer": true
+        },
+        {
+          "option": "55 minutes past 5"
+        },
+        {
+          "option": "54 minutes past 5"
+        }
+      ]
+    },
+    {
+      "question": "Find the time between 9 and 10 o'clock when the hands of a clock are at right angles.",
+      "options": [
+        {
+          "option": "32 8/11 minutes past 9",
+          "is_answer": true
+        },
+        {
+          "option": "30 minutes past 9"
+        },
+        {
+          "option": "35 minutes past 9"
+        },
+        {
+          "option": "33 minutes past 9"
+        }
+      ]
+    },
+    {
+      "question": "How many times in 24 hours are the hands of a clock in opposite directions?",
+      "options": [
+        {
+          "option": "24 times"
+        },
+        {
+          "option": "11 times"
+        },
+        {
+          "option": "44 times"
+        },
+        {
+          "option": "22 times",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "At what time between 10 and 11 o'clock do the hands of a clock coincide?",
+      "options": [
+        {
+          "option": "50 minutes past 10"
+        },
+        {
+          "option": "55 minutes past 10"
+        },
+        {
+          "option": "53 minutes past 10"
+        },
+        {
+          "option": "54 6/11 minutes past 10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "At what time between 8 and 9 o'clock are the hands of a clock in opposite directions?",
+      "options": [
+        {
+          "option": "10 10/11 minutes past 8",
+          "is_answer": true
+        },
+        {
+          "option": "9 minutes past 8"
+        },
+        {
+          "option": "12 minutes past 8"
+        },
+        {
+          "option": "11 minutes past 8"
+        }
+      ]
+    },
+    {
+      "question": "At what time between 1 and 2 o'clock are the hands of a clock at right angles?",
+      "options": [
+        {
+          "option": "21 9/11 minutes past 1",
+          "is_answer": true
+        },
+        {
+          "option": "20 minutes past 1"
+        },
+        {
+          "option": "21 minutes past 1"
+        },
+        {
+          "option": "22 minutes past 1"
+        }
+      ]
+    },
+    {
+      "question": "How many times do the minute and hour hands overlap in a week?",
+      "options": [
+        {
+          "option": "168 times"
+        },
+        {
+          "option": "264 times"
+        },
+        {
+          "option": "308 times",
+          "is_answer": true
+        },
+        {
+          "option": "336 times"
+        }
+      ]
+    },
+    {
+      "question": "At what time between 6 and 7 o'clock do the hands of a clock coincide?",
+      "options": [
+        {
+          "option": "35 minutes past 6"
+        },
+        {
+          "option": "30 minutes past 6"
+        },
+        {
+          "option": "33 minutes past 6"
+        },
+        {
+          "option": "32 8/11 minutes past 6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "At what time between 11 and 12 o'clock are the hands of a clock in opposite directions?",
+      "options": [
+        {
+          "option": "30 minutes past 11",
+          "is_answer": true
+        },
+        {
+          "option": "29 minutes past 11"
+        },
+        {
+          "option": "27 3/11 minutes past 11"
+        },
+        {
+          "option": "32 8/11 minutes past 11"
+        }
+      ]
+    },
+    {
+      "question": "At what time between 4 and 5 o'clock are the hands of a clock at right angles?",
+      "options": [
+        {
+          "option": "3 3/11 minutes past 4 and 36 6/11 minutes past 4"
+        },
+        {
+          "option": "5 5/11 minutes past 4 and 38 2/11 minutes past 4",
+          "is_answer": true
+        },
+        {
+          "option": "15 minutes past 4 and 45 minutes past 4"
+        },
+        {
+          "option": "10 minutes past 4 and 40 minutes past 4"
+        }
+      ]
+    },
+    {
+      "question": "How many times do the minute and hour hands of a clock form a straight line in 12 hours?",
+      "options": [
+        {
+          "option": "24 times"
+        },
+        {
+          "option": "22 times"
+        },
+        {
+          "option": "11 times",
+          "is_answer": true
+        },
+        {
+          "option": "12 times"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of sin(30°)?",
+      "options": [
+        {
+          "option": "1/2",
+          "is_answer": true
+        },
+        {
+          "option": "1/√3"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "√3/2"
+        }
+      ]
+    },
+    {
+      "question": "If tan(θ) = 1, what is the value of θ?",
+      "options": [
+        {
+          "option": "90°"
+        },
+        {
+          "option": "45°",
+          "is_answer": true
+        },
+        {
+          "option": "60°"
+        },
+        {
+          "option": "30°"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of cos(0°)?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "√3/2"
+        }
+      ]
+    },
+    {
+      "question": "In a right-angled triangle, sin(θ) is defined as:",
+      "options": [
+        {
+          "option": "Perpendicular / Hypotenuse",
+          "is_answer": true
+        },
+        {
+          "option": "Hypotenuse / Perpendicular"
+        },
+        {
+          "option": "Base / Hypotenuse"
+        },
+        {
+          "option": "Perpendicular / Base"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of tan(60°)?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "1/√3"
+        },
+        {
+          "option": "√3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the angle of elevation of the sun is 45°, the length of the shadow of a 10m high pole is:",
+      "options": [
+        {
+          "option": "10 m",
+          "is_answer": true
+        },
+        {
+          "option": "10√3 m"
+        },
+        {
+          "option": "20 m"
+        },
+        {
+          "option": "5 m"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of cosec(30°)?",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "√3/2"
+        },
+        {
+          "option": "2/√3"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of sec(45°)?",
+      "options": [
+        {
+          "option": "2/√3"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "√2",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "If the angle of elevation of a tower from a point 50m away from its foot is 60°, the height of the tower is:",
+      "options": [
+        {
+          "option": "50√3 m",
+          "is_answer": true
+        },
+        {
+          "option": "100 m"
+        },
+        {
+          "option": "50/√3 m"
+        },
+        {
+          "option": "25 m"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of cot(90°)?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "Not Defined"
+        },
+        {
+          "option": "√3"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The angle of depression of an object from a point 100m above the ground is 30°. The horizontal distance of the object from the point is:",
+      "options": [
+        {
+          "option": "100√3 m",
+          "is_answer": true
+        },
+        {
+          "option": "200 m"
+        },
+        {
+          "option": "100/√3 m"
+        },
+        {
+          "option": "50 m"
+        }
+      ]
+    },
+    {
+      "question": "What is sin²(θ) + cos²(θ) equal to?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "Depends on θ"
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "If sin(θ) = cos(θ), what is the acute angle θ?",
+      "options": [
+        {
+          "option": "45°",
+          "is_answer": true
+        },
+        {
+          "option": "30°"
+        },
+        {
+          "option": "0°"
+        },
+        {
+          "option": "60°"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of tan(0°)?",
+      "options": [
+        {
+          "option": "1/√3"
+        },
+        {
+          "option": "Not Defined"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "If a ladder 10m long reaches a window 10m high above the ground, the angle made by the ladder with the ground is:",
+      "options": [
+        {
+          "option": "45°"
+        },
+        {
+          "option": "90°",
+          "is_answer": true
+        },
+        {
+          "option": "60°"
+        },
+        {
+          "option": "30°"
+        }
+      ]
+    },
+    {
+      "question": "What is 1 + tan²(θ) equal to?",
+      "options": [
+        {
+          "option": "cosec²(θ)"
+        },
+        {
+          "option": "sec²(θ)",
+          "is_answer": true
+        },
+        {
+          "option": "cot²(θ)"
+        },
+        {
+          "option": "sin²(θ)"
+        }
+      ]
+    },
+    {
+      "question": "The angle of elevation of a cloud from a point h meters above a lake is θ. The height of the cloud above the lake is given by:",
+      "options": [
+        {
+          "option": "h / tan(θ)"
+        },
+        {
+          "option": "h * tan(θ)",
+          "is_answer": true
+        },
+        {
+          "option": "2h * tan(θ)"
+        },
+        {
+          "option": "h * cot(θ)"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of cos(90°)?",
+      "options": [
+        {
+          "option": "Not Defined"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "If the length of a shadow of a vertical pole is equal to √3 times its height, the angle of elevation of the sun is:",
+      "options": [
+        {
+          "option": "60°"
+        },
+        {
+          "option": "30°",
+          "is_answer": true
+        },
+        {
+          "option": "45°"
+        },
+        {
+          "option": "90°"
+        }
+      ]
+    },
+    {
+      "question": "What is the reciprocal of sin(θ)?",
+      "options": [
+        {
+          "option": "cosec(θ)",
+          "is_answer": true
+        },
+        {
+          "option": "cos(θ)"
+        },
+        {
+          "option": "cot(θ)"
+        },
+        {
+          "option": "sec(θ)"
+        }
+      ]
+    },
+    {
+      "question": "Find the volume of a frustum of a cone whose height is 12 cm, and radii of the ends are 7 cm and 3 cm. (Use pi = 22/7)",
+      "options": [
+        {
+          "option": "770 cm³"
+        },
+        {
+          "option": "920 cm³"
+        },
+        {
+          "option": "660 cm³"
+        },
+        {
+          "option": "880 cm³",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the curved surface area of a frustum of a cone with slant height 10 cm, and base radii 6 cm and 2 cm? (Use pi = 22/7)",
+      "options": [
+        {
+          "option": "220.00 cm²"
+        },
+        {
+          "option": "314.28 cm²"
+        },
+        {
+          "option": "251.43 cm²",
+          "is_answer": true
+        },
+        {
+          "option": "188.57 cm²"
+        }
+      ]
+    },
+    {
+      "question": "The radii of the circular ends of a solid frustum of a cone are 33 cm and 27 cm, and its slant height is 10 cm. Find its total surface area. (Use pi = 22/7)",
+      "options": [
+        {
+          "option": "5940.00 cm²"
+        },
+        {
+          "option": "7542.86 cm²",
+          "is_answer": true
+        },
+        {
+          "option": "6820.00 cm²"
+        },
+        {
+          "option": "8140.50 cm²"
+        }
+      ]
+    },
+    {
+      "question": "If the height of a frustum is 4 cm and the radii of the circular ends are 4 cm and 1 cm, find its slant height.",
+      "options": [
+        {
+          "option": "3 cm"
+        },
+        {
+          "option": "4 cm"
+        },
+        {
+          "option": "7 cm"
+        },
+        {
+          "option": "5 cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A bucket is in the form of a frustum of a cone. The radii of its top and bottom circular ends are 15 cm and 5 cm respectively. If the depth is 24 cm, find the capacity of the bucket in litres. (Use pi = 22/7)",
+      "options": [
+        {
+          "option": "9.2 litres"
+        },
+        {
+          "option": "7.5 litres"
+        },
+        {
+          "option": "8.8 litres",
+          "is_answer": true
+        },
+        {
+          "option": "6.4 litres"
+        }
+      ]
+    },
+    {
+      "question": "The slant height of a frustum of a cone is 5 cm and the perimeter of its circular ends are 18 cm and 6 cm. Find the curved surface area.",
+      "options": [
+        {
+          "option": "30 cm²"
+        },
+        {
+          "option": "120 cm²"
+        },
+        {
+          "option": "60 cm²",
+          "is_answer": true
+        },
+        {
+          "option": "90 cm²"
+        }
+      ]
+    },
+    {
+      "question": "The radii of the top and bottom ends of a frustum are 14 cm and 7 cm, and its height is 6 cm. What is its volume? (Use pi = 22/7)",
+      "options": [
+        {
+          "option": "1980 cm³"
+        },
+        {
+          "option": "1760 cm³"
+        },
+        {
+          "option": "2288 cm³",
+          "is_answer": true
+        },
+        {
+          "option": "2450 cm³"
+        }
+      ]
+    },
+    {
+      "question": "If the slant height 'l' of a frustum is given by sqrt(h^2 + (R - r)^2), what is the slant height when h = 8 cm, R = 12 cm, and r = 3 cm?",
+      "options": [
+        {
+          "option": "17 cm",
+          "is_answer": true
+        },
+        {
+          "option": "10 cm"
+        },
+        {
+          "option": "13 cm"
+        },
+        {
+          "option": "15 cm"
+        }
+      ]
+    },
+    {
+      "question": "A frustum of a right circular cone has a base radius of 8 cm, top radius of 4 cm, and a height of 3 cm. Find its volume. (Use pi = 3.14)",
+      "options": [
+        {
+          "option": "402.12 cm³"
+        },
+        {
+          "option": "251.20 cm³"
+        },
+        {
+          "option": "351.68 cm³",
+          "is_answer": true
+        },
+        {
+          "option": "301.44 cm³"
+        }
+      ]
+    },
+    {
+      "question": "Find the curved surface area of a frustum with upper radius 5 cm, lower radius 10 cm, and slant height 14 cm. (Use pi = 22/7)",
+      "options": [
+        {
+          "option": "440 cm²"
+        },
+        {
+          "option": "550 cm²"
+        },
+        {
+          "option": "770 cm²"
+        },
+        {
+          "option": "660 cm²",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If a cone is cut by a plane parallel to its base, the lower portion remaining is called a:",
+      "options": [
+        {
+          "option": "Sphere"
+        },
+        {
+          "option": "Cylinder"
+        },
+        {
+          "option": "Segment of a cone"
+        },
+        {
+          "option": "Frustum of a cone",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The radii of the ends of a frustum of height 4 cm are 3 cm and 6 cm. Find the total surface area of the frustum. (Use pi = 3.14)",
+      "options": [
+        {
+          "option": "210.50 cm²"
+        },
+        {
+          "option": "298.20 cm²"
+        },
+        {
+          "option": "254.34 cm²",
+          "is_answer": true
+        },
+        {
+          "option": "180.00 cm²"
+        }
+      ]
+    },
+    {
+      "question": "A frustum has a volume of 3050 cm³. If the height is 15 cm and the lower radius is 10 cm, what is the upper radius? (Use pi = 22/7, take approximation)",
+      "options": [
+        {
+          "option": "4 cm"
+        },
+        {
+          "option": "5 cm",
+          "is_answer": true
+        },
+        {
+          "option": "3 cm"
+        },
+        {
+          "option": "7 cm"
+        }
+      ]
+    },
+    {
+      "question": "What happens to the volume of a frustum if both its radii and height are doubled?",
+      "options": [
+        {
+          "option": "It becomes 8 times",
+          "is_answer": true
+        },
+        {
+          "option": "It remains the same"
+        },
+        {
+          "option": "It becomes 4 times"
+        },
+        {
+          "option": "It becomes 2 times"
+        }
+      ]
+    },
+    {
+      "question": "The curved surface area of a frustum of a cone is 1100 cm². If the sum of the radii of its circular ends is 35 cm, find its slant height. (Use pi = 22/7)",
+      "options": [
+        {
+          "option": "7 cm"
+        },
+        {
+          "option": "10 cm",
+          "is_answer": true
+        },
+        {
+          "option": "21 cm"
+        },
+        {
+          "option": "14 cm"
+        }
+      ]
+    },
+    {
+      "question": "Find the volume of a frustum whose upper radius is 2 cm, lower radius is 4 cm, and height is 9 cm. (Use pi = 22/7)",
+      "options": [
+        {
+          "option": "220 cm³"
+        },
+        {
+          "option": "198 cm³"
+        },
+        {
+          "option": "308 cm³"
+        },
+        {
+          "option": "264 cm³",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A drinking glass is in the shape of a frustum of a cone of height 14 cm. The diameters of its circular ends are 4 cm and 2 cm. Find the capacity of the glass. (Use pi = 22/7)",
+      "options": [
+        {
+          "option": "88.00 cm³"
+        },
+        {
+          "option": "95.33 cm³"
+        },
+        {
+          "option": "102.67 cm³",
+          "is_answer": true
+        },
+        {
+          "option": "124.50 cm³"
+        }
+      ]
+    },
+    {
+      "question": "If the slant height of a frustum is 5 cm and radii are 3 cm and 6 cm, what is the area of the base and top combined?",
+      "options": [
+        {
+          "option": "36 pi cm²"
+        },
+        {
+          "option": "54 pi cm²"
+        },
+        {
+          "option": "18 pi cm²"
+        },
+        {
+          "option": "45 pi cm²",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The slant height of a frustum is 13 cm and the difference between the radii of its circular ends is 5 cm. Find the height of the frustum.",
+      "options": [
+        {
+          "option": "12 cm",
+          "is_answer": true
+        },
+        {
+          "option": "10 cm"
+        },
+        {
+          "option": "8 cm"
+        },
+        {
+          "option": "14 cm"
+        }
+      ]
+    },
+    {
+      "question": "A bucket made of metal sheet is in the form of a frustum of a cone of height 28 cm with radii of lower and upper ends as 15 cm and 30 cm respectively. Find the cost of the metal sheet used at the rate of Rs. 5 per 100 cm² for the curved surface.",
+      "options": [
+        {
+          "option": "Rs. 330",
+          "is_answer": true
+        },
+        {
+          "option": "Rs. 290"
+        },
+        {
+          "option": "Rs. 250"
+        },
+        {
+          "option": "Rs. 410"
+        }
+      ]
+    },
+    {
+      "question": "A cylindrical tank has a radius of 7m and height 10m. A geometric progression of spheres with radii 1m, 1/2m, 1/4m, ... are dropped inside until it is half full of water initially. How many spheres of total volume can be accommodated if the tank can hold water up to the brim?",
+      "options": [
+        {
+          "option": "539 spheres"
+        },
+        {
+          "option": "269 spheres"
+        },
+        {
+          "option": "1078 spheres"
+        },
+        {
+          "option": "Infinite spheres sum is insufficient",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The side lengths of a right-angled triangle form an arithmetic progression. If the perimeter is 24 cm, what is the area of the triangle?",
+      "options": [
+        {
+          "option": "48 sq cm"
+        },
+        {
+          "option": "24 sq cm",
+          "is_answer": true
+        },
+        {
+          "option": "30 sq cm"
+        },
+        {
+          "option": "18 sq cm"
+        }
+      ]
+    },
+    {
+      "question": "A conical tent has a base radius of 7m and height 24m. Canvas costs Rs. 10 per square meter. If the cost increases in a geometric progression with common ratio 1.1 each year, what is the cost in year 3?",
+      "options": [
+        {
+          "option": "5500 Rs."
+        },
+        {
+          "option": "6655 Rs.",
+          "is_answer": true
+        },
+        {
+          "option": "7320 Rs."
+        },
+        {
+          "option": "6050 Rs."
+        }
+      ]
+    },
+    {
+      "question": "Find the sum of the infinite series whose terms are areas of squares where the first square has side 2, and each subsequent square has a side equal to half of the previous square.",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "32/3"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "16/3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A rectangular garden has dimensions such that length, breadth, and height of a fence form an arithmetic progression. If the sum of dimensions is 30m and total volume enclosed is 1000 cubic meters (treating it as a box), find the dimensions.",
+      "options": [
+        {
+          "option": "6m, 10m, 14m"
+        },
+        {
+          "option": "8m, 10m, 12m"
+        },
+        {
+          "option": "5m, 10m, 15m",
+          "is_answer": true
+        },
+        {
+          "option": "4m, 10m, 16m"
+        }
+      ]
+    },
+    {
+      "question": "The radii of three concentric circles form an AP. The difference between the radii of consecutive circles is 3 cm. If the area of the middle circle is 154 sq cm, find the radius of the outer circle.",
+      "options": [
+        {
+          "option": "13 cm"
+        },
+        {
+          "option": "4 cm"
+        },
+        {
+          "option": "10 cm",
+          "is_answer": true
+        },
+        {
+          "option": "7 cm"
+        }
+      ]
+    },
+    {
+      "question": "A wire is bent in the shape of a rectangle whose sides are in AP with common difference 2 and perimeter 40. If the same wire is straightened and rebent into a circle, what is the area of the circle?",
+      "options": [
+        {
+          "option": "154 sq cm"
+        },
+        {
+          "option": "616 sq cm"
+        },
+        {
+          "option": "88 sq cm"
+        },
+        {
+          "option": "125.71 sq cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The angles of a quadrilateral are in an Arithmetic Progression. If the greatest angle is double the least angle, find all the angles.",
+      "options": [
+        {
+          "option": "60°, 80°, 100°, 120°",
+          "is_answer": true
+        },
+        {
+          "option": "45°, 75°, 105°, 135°"
+        },
+        {
+          "option": "40°, 80°, 100°, 140°"
+        },
+        {
+          "option": "50°, 70°, 90°, 110°"
+        }
+      ]
+    },
+    {
+      "question": "A sphere is inscribed in a right circular cone of radius 6 cm and height 8 cm. What is the volume of the sphere?",
+      "options": [
+        {
+          "option": "904.78 cubic cm"
+        },
+        {
+          "option": "113.14 cubic cm",
+          "is_answer": true
+        },
+        {
+          "option": "150.72 cubic cm"
+        },
+        {
+          "option": "268.08 cubic cm"
+        }
+      ]
+    },
+    {
+      "question": "The populations of a town for 3 consecutive years form a geometric progression. If the product of populations is 27,000,000 and the middle year's population is 3000, what is the common ratio?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "3 or 1/3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A rectangular metallic sheet of dimensions 44 cm × 11 cm is rolled along its shorter side to form a cylinder. What is the volume of the cylinder?",
+      "options": [
+        {
+          "option": "338.8 cubic cm"
+        },
+        {
+          "option": "677.6 cubic cm",
+          "is_answer": true
+        },
+        {
+          "option": "1355.2 cubic cm"
+        },
+        {
+          "option": "169.4 cubic cm"
+        }
+      ]
+    },
+    {
+      "question": "The lengths of the three sides of a right triangle are consecutive even integers. Find the hypotenuse.",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "A solid metallic sphere of radius 6 cm is melted and recast into a sequence of small cones whose heights and radii follow an AP, specifically radii are 1, 2, 3 cm and heights are 3, 2, 1 cm respectively. How many such sets of cones are formed?",
+      "options": [
+        {
+          "option": "12 sets"
+        },
+        {
+          "option": "4 sets"
+        },
+        {
+          "option": "8 sets",
+          "is_answer": true
+        },
+        {
+          "option": "16 sets"
+        }
+      ]
+    },
+    {
+      "question": "Find the sum of the series: 1 + 2/3 + 4/9 + 8/27 + ... to infinity.",
+      "options": [
+        {
+          "option": "1.5"
+        },
+        {
+          "option": "Infinity"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The perimeter of a triangle is 30 cm and its sides are in AP. If the longest side is 13 cm, find the area of the triangle.",
+      "options": [
+        {
+          "option": "60 sq cm"
+        },
+        {
+          "option": "30 sq cm",
+          "is_answer": true
+        },
+        {
+          "option": "35 sq cm"
+        },
+        {
+          "option": "45 sq cm"
+        }
+      ]
+    },
+    {
+      "question": "A hollow cylindrical pipe has inner radius 3 cm, outer radius 5 cm, and length 14 cm. If it is melted to form a solid cube, what is the side length of the cube?",
+      "options": [
+        {
+          "option": "5 cm"
+        },
+        {
+          "option": "8 cm"
+        },
+        {
+          "option": "7 cm"
+        },
+        {
+          "option": "6 cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A ball is dropped from a height of 100 meters. Each time it bounces, it rebounds to 3/4th of its previous height. What is the total vertical distance the ball travels before coming to rest?",
+      "options": [
+        {
+          "option": "500 meters"
+        },
+        {
+          "option": "400 meters"
+        },
+        {
+          "option": "700 meters",
+          "is_answer": true
+        },
+        {
+          "option": "300 meters"
+        }
+      ]
+    },
+    {
+      "question": "The coordinates of the vertices of a triangle are (0,0), (6,0), and (0,8). A circle is inscribed in this triangle. Find the radius of the inscribed circle.",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the roots of a quadratic equation $x^2 - px + q = 0$ are in a geometric progression ratio 'r' (i.e., one root is 'r' times the other), then which of the following relations holds true between p, q, and r?",
+      "options": [
+        {
+          "option": "$pq = r^2$"
+        },
+        {
+          "option": "$p = q(r+1)$"
+        },
+        {
+          "option": "$p^2 = q^2 r$"
+        },
+        {
+          "option": "$p^2 q = q(r+1)^2$",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A conical flask of radius 5 cm and height 12 cm is completely filled with water. This water is poured into a cylindrical container of radius 10 cm. Find the height to which water rises in the cylinder.",
+      "options": [
+        {
+          "option": "2 cm"
+        },
+        {
+          "option": "3 cm"
+        },
+        {
+          "option": "1 cm",
+          "is_answer": true
+        },
+        {
+          "option": "4 cm"
+        }
+      ]
+    }
+  ]
+}

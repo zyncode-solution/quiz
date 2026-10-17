@@ -1,0 +1,9005 @@
+{
+  "total_questions": 500,
+  "questions": [
+    {
+      "question": "हल करें: 10 + 2 * 3",
+      "options": [
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "36"
+        }
+      ]
+    },
+    {
+      "question": "हल करें: (10 + 2) * 3",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "36",
+          "is_answer": true
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "हल करें: 20 - 4 / 2",
+      "options": [
+        {
+          "option": "18",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "हल करें: (20 - 4) / 2",
+      "options": [
+        {
+          "option": "16"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "हल करें: 5 + 5 * 5 - 5",
+      "options": [
+        {
+          "option": "25",
+          "is_answer": true
+        },
+        {
+          "option": "35"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "45"
+        }
+      ]
+    },
+    {
+      "question": "हल करें: 12 / 3 * 2",
+      "options": [
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "हल करें: 12 / (3 * 2)",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "हल करें: 3^2 + 4",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "13",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "हल करें: 2 * (3 + 1)^2",
+      "options": [
+        {
+          "option": "14"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "64"
+        },
+        {
+          "option": "32",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "हल करें: 100 - 10 * 5 + 2",
+      "options": [
+        {
+          "option": "92"
+        },
+        {
+          "option": "52",
+          "is_answer": true
+        },
+        {
+          "option": "47"
+        },
+        {
+          "option": "452"
+        }
+      ]
+    },
+    {
+      "question": "हल करें: 15 + 5 / 5",
+      "options": [
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "हल करें: (15 + 5) / 5",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "हल करें: 8 + 2 * 3^2",
+      "options": [
+        {
+          "option": "14"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "26",
+          "is_answer": true
+        },
+        {
+          "option": "90"
+        }
+      ]
+    },
+    {
+      "question": "हल करें: 50 - 2 * (5 + 5)",
+      "options": [
+        {
+          "option": "30",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "480"
+        },
+        {
+          "option": "40"
+        }
+      ]
+    },
+    {
+      "question": "हल करें: 6 / 2 * 3",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "हल करें: 6 / (2 * 3)",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "हल करें: 4 + 4 / 4 - 4",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "हल करें: 2^3 - 2",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "हल करें: 10 * 2 + 8 / 2",
+      "options": [
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "28"
+        }
+      ]
+    },
+    {
+      "question": "हल करें: 10 * (2 + 8) / 2",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "28"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "50",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "अनुचित भिन्न 7/3 को मिश्रित संख्या में बदलें।",
+      "options": [
+        {
+          "option": "1 2/3"
+        },
+        {
+          "option": "2 1/3",
+          "is_answer": true
+        },
+        {
+          "option": "2 2/3"
+        },
+        {
+          "option": "3 1/2"
+        }
+      ]
+    },
+    {
+      "question": "1/4 + 2/4 क्या होता है?",
+      "options": [
+        {
+          "option": "3/8"
+        },
+        {
+          "option": "3/4",
+          "is_answer": true
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "2/8"
+        }
+      ]
+    },
+    {
+      "question": "गणना करें: 3/5 * 2/3",
+      "options": [
+        {
+          "option": "2/5",
+          "is_answer": true
+        },
+        {
+          "option": "6/15"
+        },
+        {
+          "option": "5/8"
+        },
+        {
+          "option": "1/5"
+        }
+      ]
+    },
+    {
+      "question": "2 3/4 को अनुचित भिन्न में बदलें।",
+      "options": [
+        {
+          "option": "10/4"
+        },
+        {
+          "option": "11/4",
+          "is_answer": true
+        },
+        {
+          "option": "8/4"
+        },
+        {
+          "option": "9/4"
+        }
+      ]
+    },
+    {
+      "question": "5/6 - 1/6 क्या होता है?",
+      "options": [
+        {
+          "option": "4/0"
+        },
+        {
+          "option": "4/12"
+        },
+        {
+          "option": "1/6"
+        },
+        {
+          "option": "2/3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "1/2 को 1/4 से विभाजित करें।",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "1/8"
+        }
+      ]
+    },
+    {
+      "question": "इनमें से कौन सा उचित भिन्न है?",
+      "options": [
+        {
+          "option": "3/4",
+          "is_answer": true
+        },
+        {
+          "option": "4/3"
+        },
+        {
+          "option": "7/2"
+        },
+        {
+          "option": "5/5"
+        }
+      ]
+    },
+    {
+      "question": "1/2 + 1/3 क्या होता है?",
+      "options": [
+        {
+          "option": "1/5"
+        },
+        {
+          "option": "2/6"
+        },
+        {
+          "option": "5/6",
+          "is_answer": true
+        },
+        {
+          "option": "2/5"
+        }
+      ]
+    },
+    {
+      "question": "गणना करें: 4/7 को 2 से विभाजित करें।",
+      "options": [
+        {
+          "option": "4/14"
+        },
+        {
+          "option": "2/14"
+        },
+        {
+          "option": "2/7",
+          "is_answer": true
+        },
+        {
+          "option": "8/7"
+        }
+      ]
+    },
+    {
+      "question": "15/4 को मिश्रित संख्या में बदलें।",
+      "options": [
+        {
+          "option": "4 1/4"
+        },
+        {
+          "option": "3 1/4"
+        },
+        {
+          "option": "2 3/4"
+        },
+        {
+          "option": "3 3/4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "3/4 * 4/3 क्या होता है?",
+      "options": [
+        {
+          "option": "7/7"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "12/12"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "4/5 में से 1/5 घटाएं।",
+      "options": [
+        {
+          "option": "5/5"
+        },
+        {
+          "option": "3/5",
+          "is_answer": true
+        },
+        {
+          "option": "3/0"
+        },
+        {
+          "option": "1/5"
+        }
+      ]
+    },
+    {
+      "question": "कौन सा भिन्न 1/2 के बराबर है?",
+      "options": [
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "2/1"
+        },
+        {
+          "option": "3/2"
+        },
+        {
+          "option": "2/4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "2/3 * 3/4 क्या होता है?",
+      "options": [
+        {
+          "option": "5/7"
+        },
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "1/2",
+          "is_answer": true
+        },
+        {
+          "option": "6/7"
+        }
+      ]
+    },
+    {
+      "question": "5 1/2 को अनुचित भिन्न में बदलें।",
+      "options": [
+        {
+          "option": "6/2"
+        },
+        {
+          "option": "5/2"
+        },
+        {
+          "option": "10/2"
+        },
+        {
+          "option": "11/2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "7/8 - 3/8 क्या होता है?",
+      "options": [
+        {
+          "option": "1/2",
+          "is_answer": true
+        },
+        {
+          "option": "4/0"
+        },
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "4/16"
+        }
+      ]
+    },
+    {
+      "question": "3/4 को 3/4 से विभाजित करें।",
+      "options": [
+        {
+          "option": "9/16"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "3/4"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "इनमें से कौन सा अनुचित भिन्न है?",
+      "options": [
+        {
+          "option": "5/9"
+        },
+        {
+          "option": "3/4"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "9/5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "1/5 + 2/5 क्या होता है?",
+      "options": [
+        {
+          "option": "1/5"
+        },
+        {
+          "option": "3/10"
+        },
+        {
+          "option": "3/5",
+          "is_answer": true
+        },
+        {
+          "option": "2/5"
+        }
+      ]
+    },
+    {
+      "question": "गणना करें: 1/3 * 6",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "6/3"
+        },
+        {
+          "option": "1/18"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "12 और 18 का महत्तम समापवर्तक (HCF) क्या है?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "अभाज्य गुणनखंड विधि का उपयोग करके, 24 और 36 का HCF क्या है?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "15 और 25 का HCF क्या है?",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "यूक्लिड विभाजन एल्गोरिदम का उपयोग करके 48 और 60 का HCF ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "भिन्न 14/21 को उनके HCF से विभाजित करके सरल कीजिए।",
+      "options": [
+        {
+          "option": "7/10"
+        },
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "2/3",
+          "is_answer": true
+        },
+        {
+          "option": "2/7"
+        }
+      ]
+    },
+    {
+      "question": "दो अभाज्य संख्याओं 7 और 11 का HCF क्या है?",
+      "options": [
+        {
+          "option": "77"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "11"
+        }
+      ]
+    },
+    {
+      "question": "20, 30 और 40 का HCF ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "100 और 150 का HCF क्या है?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "75"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "50",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "भिन्न 25/75 को सरल कीजिए।",
+      "options": [
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "1/5"
+        },
+        {
+          "option": "1/3",
+          "is_answer": true
+        },
+        {
+          "option": "5/15"
+        }
+      ]
+    },
+    {
+      "question": "18, 27 और 36 का HCF क्या है?",
+      "options": [
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "दो संख्याओं का HCF 8 है। इनमें से कौन सी संख्याएँ हो सकती हैं?",
+      "options": [
+        {
+          "option": "16 और 24",
+          "is_answer": true
+        },
+        {
+          "option": "8 और 10"
+        },
+        {
+          "option": "12 और 20"
+        },
+        {
+          "option": "4 और 12"
+        }
+      ]
+    },
+    {
+      "question": "13 और 39 का HCF क्या है?",
+      "options": [
+        {
+          "option": "13",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "39"
+        }
+      ]
+    },
+    {
+      "question": "56 और 70 का HCF ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "14",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "42/56 को उनके HCF का उपयोग करके सरल कीजिए।",
+      "options": [
+        {
+          "option": "6/8"
+        },
+        {
+          "option": "3/4",
+          "is_answer": true
+        },
+        {
+          "option": "2/3"
+        },
+        {
+          "option": "7/8"
+        }
+      ]
+    },
+    {
+      "question": "17 और 23 का HCF क्या है?",
+      "options": [
+        {
+          "option": "23"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "17"
+        },
+        {
+          "option": "391"
+        }
+      ]
+    },
+    {
+      "question": "81 और 27 का HCF ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "81"
+        },
+        {
+          "option": "27",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "45 और 60 का HCF क्या है?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि दो संख्याओं का HCF 1 है, तो उन्हें क्या कहा जाता है?",
+      "options": [
+        {
+          "option": "सह-अभाज्य",
+          "is_answer": true
+        },
+        {
+          "option": "भाज्य"
+        },
+        {
+          "option": "सम"
+        },
+        {
+          "option": "अभाज्य"
+        }
+      ]
+    },
+    {
+      "question": "14, 28 और 42 का HCF क्या है?",
+      "options": [
+        {
+          "option": "14",
+          "is_answer": true
+        },
+        {
+          "option": "21"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "30/45 को सरल कीजिए।",
+      "options": [
+        {
+          "option": "5/9"
+        },
+        {
+          "option": "2/3",
+          "is_answer": true
+        },
+        {
+          "option": "3/5"
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सी सबसे छोटी अभाज्य संख्या है?",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "12 का अभाज्य गुणनखंडन क्या है?",
+      "options": [
+        {
+          "option": "3 * 4"
+        },
+        {
+          "option": "2^2 * 3",
+          "is_answer": true
+        },
+        {
+          "option": "2 * 2 * 2"
+        },
+        {
+          "option": "2 * 6"
+        }
+      ]
+    },
+    {
+      "question": "कौन सी संख्या न तो अभाज्य है और न ही भाज्य?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "एकमात्र सम अभाज्य संख्या कौन सी है?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "अंकगणित की आधारभूत प्रमेय के अनुसार, 1 से बड़ी प्रत्येक पूर्णांक संख्या को किसके गुणनफल के रूप में दर्शाया जा सकता है?",
+      "options": [
+        {
+          "option": "विषम संख्याएं"
+        },
+        {
+          "option": "अभाज्य संख्याएं",
+          "is_answer": true
+        },
+        {
+          "option": "सम संख्याएं"
+        },
+        {
+          "option": "भाज्य संख्याएं"
+        }
+      ]
+    },
+    {
+      "question": "इनमें से कौन सी अभाज्य संख्या है?",
+      "options": [
+        {
+          "option": "27"
+        },
+        {
+          "option": "21"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "13",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "इरेटोस्थनीज की छलनी (Sieve of Eratosthenes) का उपयोग क्या खोजने के लिए किया जाता है?",
+      "options": [
+        {
+          "option": "सम संख्याएं"
+        },
+        {
+          "option": "5 के गुणज"
+        },
+        {
+          "option": "वर्गमूल"
+        },
+        {
+          "option": "अभाज्य संख्याएं",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "30 का अभाज्य गुणनखंडन क्या है?",
+      "options": [
+        {
+          "option": "2 * 3 * 5",
+          "is_answer": true
+        },
+        {
+          "option": "2 * 15"
+        },
+        {
+          "option": "3 * 10"
+        },
+        {
+          "option": "5 * 6"
+        }
+      ]
+    },
+    {
+      "question": "1 और 10 के बीच कितनी अभाज्य संख्याएं हैं?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सी भाज्य संख्या है?",
+      "options": [
+        {
+          "option": "11"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "100 का अभाज्य गुणनखंडन क्या है?",
+      "options": [
+        {
+          "option": "2^2 * 5^2",
+          "is_answer": true
+        },
+        {
+          "option": "10 * 10"
+        },
+        {
+          "option": "4 * 25"
+        },
+        {
+          "option": "2 * 50"
+        }
+      ]
+    },
+    {
+      "question": "इनमें से कौन सी अभाज्य संख्या नहीं है?",
+      "options": [
+        {
+          "option": "17"
+        },
+        {
+          "option": "23"
+        },
+        {
+          "option": "21",
+          "is_answer": true
+        },
+        {
+          "option": "19"
+        }
+      ]
+    },
+    {
+      "question": "पहली तीन अभाज्य संख्याओं का योग क्या है?",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "कौन सी संख्या 5 पर समाप्त होने वाली एकमात्र अभाज्य संख्या है?",
+      "options": [
+        {
+          "option": "35"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "18 का अभाज्य गुणनखंडन क्या है?",
+      "options": [
+        {
+          "option": "2 * 3 * 3"
+        },
+        {
+          "option": "2 * 9"
+        },
+        {
+          "option": "2 * 3^2",
+          "is_answer": true
+        },
+        {
+          "option": "3 * 6"
+        }
+      ]
+    },
+    {
+      "question": "एक अभाज्य संख्या के ठीक कितने गुणनखंड होते हैं?",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "इनमें से कौन सा ट्विन प्राइम (जुड़वां अभाज्य) का जोड़ा है?",
+      "options": [
+        {
+          "option": "3 और 5",
+          "is_answer": true
+        },
+        {
+          "option": "7 और 11"
+        },
+        {
+          "option": "2 और 3"
+        },
+        {
+          "option": "13 और 19"
+        }
+      ]
+    },
+    {
+      "question": "42 का अभाज्य गुणनखंडन क्या है?",
+      "options": [
+        {
+          "option": "2 * 3 * 7",
+          "is_answer": true
+        },
+        {
+          "option": "2 * 21"
+        },
+        {
+          "option": "3 * 14"
+        },
+        {
+          "option": "6 * 7"
+        }
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सी अभाज्य संख्या है?",
+      "options": [
+        {
+          "option": "33"
+        },
+        {
+          "option": "39"
+        },
+        {
+          "option": "35"
+        },
+        {
+          "option": "31",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "20 का अभाज्य गुणनखंडन क्या है?",
+      "options": [
+        {
+          "option": "2 * 2 * 2 * 2"
+        },
+        {
+          "option": "2^2 * 5",
+          "is_answer": true
+        },
+        {
+          "option": "2 * 10"
+        },
+        {
+          "option": "4 * 5"
+        }
+      ]
+    },
+    {
+      "question": "संख्या 45.672 में अंक 7 का स्थानीय मान क्या है?",
+      "options": [
+        {
+          "option": "इकाई (Units)"
+        },
+        {
+          "option": "शतांश (Hundredths)",
+          "is_answer": true
+        },
+        {
+          "option": "दशांश (Tenths)"
+        },
+        {
+          "option": "सहस्त्रांश (Thousandths)"
+        }
+      ]
+    },
+    {
+      "question": "0.5 + 0.25 कितना होता है?",
+      "options": [
+        {
+          "option": "0.30"
+        },
+        {
+          "option": "0.70"
+        },
+        {
+          "option": "0.80"
+        },
+        {
+          "option": "0.75",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "4.567 को निकटतम दशांश तक पूर्णांकित करें।",
+      "options": [
+        {
+          "option": "4.5"
+        },
+        {
+          "option": "4.7"
+        },
+        {
+          "option": "4.6",
+          "is_answer": true
+        },
+        {
+          "option": "4.57"
+        }
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा शांत दशमलव (terminating decimal) है?",
+      "options": [
+        {
+          "option": "0.666..."
+        },
+        {
+          "option": "0.25",
+          "is_answer": true
+        },
+        {
+          "option": "0.1414..."
+        },
+        {
+          "option": "0.333..."
+        }
+      ]
+    },
+    {
+      "question": "1.2 का 0.3 से गुणा करने पर क्या प्राप्त होगा?",
+      "options": [
+        {
+          "option": "3.6"
+        },
+        {
+          "option": "0.36",
+          "is_answer": true
+        },
+        {
+          "option": "0.39"
+        },
+        {
+          "option": "0.036"
+        }
+      ]
+    },
+    {
+      "question": "3/4 को दशमलव में बदलें।",
+      "options": [
+        {
+          "option": "0.8"
+        },
+        {
+          "option": "0.43"
+        },
+        {
+          "option": "0.75",
+          "is_answer": true
+        },
+        {
+          "option": "0.7"
+        }
+      ]
+    },
+    {
+      "question": "5.0 - 2.35 कितना होता है?",
+      "options": [
+        {
+          "option": "3.35"
+        },
+        {
+          "option": "2.75"
+        },
+        {
+          "option": "2.35"
+        },
+        {
+          "option": "2.65",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "12.345 को निकटतम शतांश तक पूर्णांकित करें।",
+      "options": [
+        {
+          "option": "12.35",
+          "is_answer": true
+        },
+        {
+          "option": "12.4"
+        },
+        {
+          "option": "12.34"
+        },
+        {
+          "option": "12.3"
+        }
+      ]
+    },
+    {
+      "question": "कौन सा दशमलव बड़ा है: 0.4 या 0.39?",
+      "options": [
+        {
+          "option": "दोनों बराबर हैं"
+        },
+        {
+          "option": "0.4",
+          "is_answer": true
+        },
+        {
+          "option": "निर्धारित नहीं किया जा सकता"
+        },
+        {
+          "option": "0.39"
+        }
+      ]
+    },
+    {
+      "question": "0.8 को 2 से भाग देने पर क्या प्राप्त होगा?",
+      "options": [
+        {
+          "option": "0.82"
+        },
+        {
+          "option": "0.4",
+          "is_answer": true
+        },
+        {
+          "option": "0.04"
+        },
+        {
+          "option": "4.0"
+        }
+      ]
+    },
+    {
+      "question": "0.1 x 0.1 का मान क्या है?",
+      "options": [
+        {
+          "option": "0.001"
+        },
+        {
+          "option": "0.01",
+          "is_answer": true
+        },
+        {
+          "option": "0.1"
+        },
+        {
+          "option": "1.0"
+        }
+      ]
+    },
+    {
+      "question": "कौन सा भिन्न 0.5 के बराबर है?",
+      "options": [
+        {
+          "option": "1/2",
+          "is_answer": true
+        },
+        {
+          "option": "1/5"
+        },
+        {
+          "option": "5/100"
+        },
+        {
+          "option": "2/5"
+        }
+      ]
+    },
+    {
+      "question": "0.99 को निकटतम पूर्ण संख्या तक पूर्णांकित करें।",
+      "options": [
+        {
+          "option": "1.1"
+        },
+        {
+          "option": "0.9"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "2.5 + 3.7 कितना होता है?",
+      "options": [
+        {
+          "option": "5.2"
+        },
+        {
+          "option": "6.2",
+          "is_answer": true
+        },
+        {
+          "option": "5.12"
+        },
+        {
+          "option": "6.12"
+        }
+      ]
+    },
+    {
+      "question": "7/100 को दशमलव के रूप में कैसे लिखेंगे?",
+      "options": [
+        {
+          "option": "0.7"
+        },
+        {
+          "option": "0.07",
+          "is_answer": true
+        },
+        {
+          "option": "0.007"
+        },
+        {
+          "option": "7.0"
+        }
+      ]
+    },
+    {
+      "question": "10.0 को 0.1 से भाग देने पर क्या प्राप्त होगा?",
+      "options": [
+        {
+          "option": "0.1"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "100",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "इनमें से कौन सा अनवसानी (non-terminating) दशमलव है?",
+      "options": [
+        {
+          "option": "0.333...",
+          "is_answer": true
+        },
+        {
+          "option": "0.125"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0.25"
+        }
+      ]
+    },
+    {
+      "question": "4.2 - 1.1 कितना होता है?",
+      "options": [
+        {
+          "option": "3.1",
+          "is_answer": true
+        },
+        {
+          "option": "4.1"
+        },
+        {
+          "option": "3.2"
+        },
+        {
+          "option": "3.0"
+        }
+      ]
+    },
+    {
+      "question": "0.005 में 5 का स्थानीय मान क्या है?",
+      "options": [
+        {
+          "option": "इकाई (Units)"
+        },
+        {
+          "option": "शतांश (Hundredths)"
+        },
+        {
+          "option": "सहस्त्रांश (Thousandths)",
+          "is_answer": true
+        },
+        {
+          "option": "दशांश (Tenths)"
+        }
+      ]
+    },
+    {
+      "question": "5.444 को निकटतम दशांश तक पूर्णांकित करें।",
+      "options": [
+        {
+          "option": "5.4",
+          "is_answer": true
+        },
+        {
+          "option": "5.0"
+        },
+        {
+          "option": "5.44"
+        },
+        {
+          "option": "5.5"
+        }
+      ]
+    },
+    {
+      "question": "12 और 18 का लघुत्तम समापवर्त्य (LCM) क्या है?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "36",
+          "is_answer": true
+        },
+        {
+          "option": "72"
+        }
+      ]
+    },
+    {
+      "question": "यदि दो संख्याओं का गुणनफल 120 है और उनका HCF 4 है, तो उनका LCM क्या है?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "480"
+        },
+        {
+          "option": "30",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "8, 12 और 20 का LCM क्या है?",
+      "options": [
+        {
+          "option": "60"
+        },
+        {
+          "option": "240"
+        },
+        {
+          "option": "120",
+          "is_answer": true
+        },
+        {
+          "option": "40"
+        }
+      ]
+    },
+    {
+      "question": "दो संख्याओं का अभाज्य गुणनखंड 2^3 * 3^2 और 2^2 * 3^3 है। उनका LCM क्या है?",
+      "options": [
+        {
+          "option": "2^6 * 3^6"
+        },
+        {
+          "option": "2^3 * 3^3",
+          "is_answer": true
+        },
+        {
+          "option": "2^2 * 3^2"
+        },
+        {
+          "option": "2^5 * 3^5"
+        }
+      ]
+    },
+    {
+      "question": "दो अभाज्य संख्याओं 7 और 11 का LCM क्या है?",
+      "options": [
+        {
+          "option": "77",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "यदि LCM(a, b) = 60 और HCF(a, b) = 5 है, और एक संख्या 15 है, तो दूसरी संख्या क्या है?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "300"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "75"
+        }
+      ]
+    },
+    {
+      "question": "15, 25 और 30 का LCM क्या है?",
+      "options": [
+        {
+          "option": "45"
+        },
+        {
+          "option": "75"
+        },
+        {
+          "option": "150",
+          "is_answer": true
+        },
+        {
+          "option": "300"
+        }
+      ]
+    },
+    {
+      "question": "दो धनात्मक पूर्णांकों a और b के लिए निम्नलिखित में से क्या हमेशा सत्य है?",
+      "options": [
+        {
+          "option": "a - b = LCM(a, b) - HCF(a, b)"
+        },
+        {
+          "option": "a + b = LCM(a, b) + HCF(a, b)"
+        },
+        {
+          "option": "a / b = LCM(a, b) / HCF(a, b)"
+        },
+        {
+          "option": "a * b = LCM(a, b) * HCF(a, b)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "10, 15 और 20 का LCM क्या है?",
+      "options": [
+        {
+          "option": "60",
+          "is_answer": true
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "200"
+        }
+      ]
+    },
+    {
+      "question": "24 और 36 का LCM ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "72",
+          "is_answer": true
+        },
+        {
+          "option": "144"
+        }
+      ]
+    },
+    {
+      "question": "5, 10 और 15 का LCM क्या है?",
+      "options": [
+        {
+          "option": "45"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "30",
+          "is_answer": true
+        },
+        {
+          "option": "60"
+        }
+      ]
+    },
+    {
+      "question": "दो संख्याओं का LCM 180 है और उनका HCF 12 है। यदि एक संख्या 36 है, तो दूसरी संख्या क्या है?",
+      "options": [
+        {
+          "option": "72"
+        },
+        {
+          "option": "60",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "9 और 12 का LCM क्या है?",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "108"
+        },
+        {
+          "option": "72"
+        },
+        {
+          "option": "36",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "4, 6 और 8 का LCM क्या है?",
+      "options": [
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "48"
+        }
+      ]
+    },
+    {
+      "question": "यदि दो संख्याओं का HCF 1 है, तो उन संख्याओं को क्या कहा जाता है?",
+      "options": [
+        {
+          "option": "सह-अभाज्य (Co-prime)",
+          "is_answer": true
+        },
+        {
+          "option": "विषम"
+        },
+        {
+          "option": "भाज्य"
+        },
+        {
+          "option": "सम"
+        }
+      ]
+    },
+    {
+      "question": "14 और 21 का LCM क्या है?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "21"
+        },
+        {
+          "option": "84"
+        },
+        {
+          "option": "42",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "16 और 24 का LCM ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "32"
+        },
+        {
+          "option": "96"
+        },
+        {
+          "option": "48",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "3, 4 और 5 का LCM क्या है?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "60",
+          "is_answer": true
+        },
+        {
+          "option": "120"
+        }
+      ]
+    },
+    {
+      "question": "दो क्रमागत संख्याओं (n और n+1) का LCM क्या होता है?",
+      "options": [
+        {
+          "option": "n * (n+1)",
+          "is_answer": true
+        },
+        {
+          "option": "n + (n+1)"
+        },
+        {
+          "option": "n+1"
+        },
+        {
+          "option": "n"
+        }
+      ]
+    },
+    {
+      "question": "20 और 30 का LCM क्या है?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "60",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "120"
+        }
+      ]
+    },
+    {
+      "question": "7^4 का इकाई अंक क्या है?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "2^10 का इकाई अंक क्या है?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "3^13 का इकाई अंक क्या है?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "4^101 का इकाई अंक क्या है?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "9^50 का इकाई अंक क्या है?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "8^5 का इकाई अंक क्या है?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "7^100 का इकाई अंक क्या है?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "2^202 का इकाई अंक क्या है?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "3^20 का इकाई अंक क्या है?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "8^40 का इकाई अंक क्या है?",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "4^2023 का इकाई अंक क्या है?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "9^101 का इकाई अंक क्या है?",
+      "options": [
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "2^3 * 3^2 का इकाई अंक क्या है?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "7^2 * 8^2 का इकाई अंक क्या है?",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "3^4 + 2^4 का इकाई अंक क्या है?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "7^5 का इकाई अंक क्या है?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "8^12 का इकाई अंक क्या है?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "2^5 * 3^5 का इकाई अंक क्या है?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "9^2 + 4^2 का इकाई अंक क्या है?",
+      "options": [
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "3^3 * 7^3 का इकाई अंक क्या है?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सी संख्या 2 से विभाज्य है?",
+      "options": [
+        {
+          "option": "457"
+        },
+        {
+          "option": "459"
+        },
+        {
+          "option": "456",
+          "is_answer": true
+        },
+        {
+          "option": "461"
+        }
+      ]
+    },
+    {
+      "question": "यदि किसी संख्या के अंकों का योग किससे विभाज्य हो तो वह संख्या 3 से विभाज्य होती है?",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "यदि किसी संख्या के अंतिम दो अंक किससे विभाज्य हों तो वह संख्या 4 से विभाज्य होती है?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सी संख्या 5 से विभाज्य है?",
+      "options": [
+        {
+          "option": "122"
+        },
+        {
+          "option": "127"
+        },
+        {
+          "option": "125",
+          "is_answer": true
+        },
+        {
+          "option": "123"
+        }
+      ]
+    },
+    {
+      "question": "कोई संख्या 6 से विभाज्य तब होती है यदि वह किन दो संख्याओं से विभाज्य हो?",
+      "options": [
+        {
+          "option": "2 और 5"
+        },
+        {
+          "option": "2 और 3",
+          "is_answer": true
+        },
+        {
+          "option": "3 और 4"
+        },
+        {
+          "option": "2 और 4"
+        }
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सी संख्या 9 से विभाज्य है?",
+      "options": [
+        {
+          "option": "730"
+        },
+        {
+          "option": "728"
+        },
+        {
+          "option": "731"
+        },
+        {
+          "option": "729",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि किसी संख्या का अंतिम अंक क्या हो तो वह 10 से विभाज्य होती है?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "यदि किसी संख्या के अंतिम तीन अंक किससे विभाज्य हों तो वह संख्या 8 से विभाज्य होती है?",
+      "options": [
+        {
+          "option": "16"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सी संख्या 11 से विभाज्य है?",
+      "options": [
+        {
+          "option": "122"
+        },
+        {
+          "option": "123"
+        },
+        {
+          "option": "124"
+        },
+        {
+          "option": "121",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "कोई संख्या 12 से विभाज्य तब होती है यदि वह किन दो संख्याओं से विभाज्य हो?",
+      "options": [
+        {
+          "option": "2 और 6"
+        },
+        {
+          "option": "4 और 6"
+        },
+        {
+          "option": "2 और 3"
+        },
+        {
+          "option": "3 और 4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सी संख्या 7 से विभाज्य है?",
+      "options": [
+        {
+          "option": "50"
+        },
+        {
+          "option": "49",
+          "is_answer": true
+        },
+        {
+          "option": "51"
+        },
+        {
+          "option": "52"
+        }
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सी संख्या 13 से विभाज्य है?",
+      "options": [
+        {
+          "option": "28"
+        },
+        {
+          "option": "26",
+          "is_answer": true
+        },
+        {
+          "option": "27"
+        },
+        {
+          "option": "29"
+        }
+      ]
+    },
+    {
+      "question": "क्या 100, 4 से विभाज्य है?",
+      "options": [
+        {
+          "option": "नहीं"
+        },
+        {
+          "option": "शायद"
+        },
+        {
+          "option": "हाँ",
+          "is_answer": true
+        },
+        {
+          "option": "केवल 2 से विभाजित करने पर"
+        }
+      ]
+    },
+    {
+      "question": "यदि किसी संख्या के अंकों का योग किसका गुणज हो तो वह संख्या 9 से विभाज्य होती है?",
+      "options": [
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सी संख्या 2, 3 और 5 से विभाज्य है?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "30",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "0 पर समाप्त होने वाली संख्या हमेशा किससे विभाज्य होती है?",
+      "options": [
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "13"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सी संख्या 8 से विभाज्य है?",
+      "options": [
+        {
+          "option": "164"
+        },
+        {
+          "option": "162"
+        },
+        {
+          "option": "166"
+        },
+        {
+          "option": "160",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि किसी संख्या का अंतिम अंक क्या हो तो वह 2 से विभाज्य होती है?",
+      "options": [
+        {
+          "option": "3 का गुणज"
+        },
+        {
+          "option": "विषम"
+        },
+        {
+          "option": "अभाज्य"
+        },
+        {
+          "option": "सम",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सी संख्या 3 से विभाज्य है?",
+      "options": [
+        {
+          "option": "112"
+        },
+        {
+          "option": "118"
+        },
+        {
+          "option": "115"
+        },
+        {
+          "option": "111",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "क्या 143, 11 से विभाज्य है?",
+      "options": [
+        {
+          "option": "केवल 13 से"
+        },
+        {
+          "option": "हाँ",
+          "is_answer": true
+        },
+        {
+          "option": "केवल 7 से"
+        },
+        {
+          "option": "नहीं"
+        }
+      ]
+    },
+    {
+      "question": "5 का घन (5^3) क्या है?",
+      "options": [
+        {
+          "option": "125",
+          "is_answer": true
+        },
+        {
+          "option": "625"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "150"
+        }
+      ]
+    },
+    {
+      "question": "27 का घनमूल क्या है?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सी संख्या पूर्ण घन है?",
+      "options": [
+        {
+          "option": "64",
+          "is_answer": true
+        },
+        {
+          "option": "80"
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "100"
+        }
+      ]
+    },
+    {
+      "question": "10 का घन क्या है?",
+      "options": [
+        {
+          "option": "1000",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "10000"
+        }
+      ]
+    },
+    {
+      "question": "1000 का घनमूल क्या है?",
+      "options": [
+        {
+          "option": "100"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "50"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि किसी संख्या का अंतिम अंक 7 है, तो उसके घन का अंतिम अंक क्या होगा?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "8 का घन (8^3) क्या है?",
+      "options": [
+        {
+          "option": "448"
+        },
+        {
+          "option": "256"
+        },
+        {
+          "option": "64"
+        },
+        {
+          "option": "512",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "216 का घनमूल क्या है?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "12 का घन क्या है?",
+      "options": [
+        {
+          "option": "144"
+        },
+        {
+          "option": "1200"
+        },
+        {
+          "option": "1728",
+          "is_answer": true
+        },
+        {
+          "option": "1600"
+        }
+      ]
+    },
+    {
+      "question": "343 का घनमूल क्या है?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "17"
+        },
+        {
+          "option": "13"
+        }
+      ]
+    },
+    {
+      "question": "20 का घन क्या है?",
+      "options": [
+        {
+          "option": "8000",
+          "is_answer": true
+        },
+        {
+          "option": "400"
+        },
+        {
+          "option": "2000"
+        },
+        {
+          "option": "4000"
+        }
+      ]
+    },
+    {
+      "question": "1331 का घनमूल क्या है?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "11",
+          "is_answer": true
+        },
+        {
+          "option": "19"
+        },
+        {
+          "option": "13"
+        }
+      ]
+    },
+    {
+      "question": "यदि किसी संख्या का अंतिम अंक 2 है, तो उसके घन का अंतिम अंक क्या होगा?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "9 का घन क्या है?",
+      "options": [
+        {
+          "option": "243"
+        },
+        {
+          "option": "729",
+          "is_answer": true
+        },
+        {
+          "option": "656"
+        },
+        {
+          "option": "81"
+        }
+      ]
+    },
+    {
+      "question": "512 का घनमूल क्या है?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "15 का घन क्या है?",
+      "options": [
+        {
+          "option": "3000"
+        },
+        {
+          "option": "3375",
+          "is_answer": true
+        },
+        {
+          "option": "1500"
+        },
+        {
+          "option": "225"
+        }
+      ]
+    },
+    {
+      "question": "1728 का घनमूल क्या है?",
+      "options": [
+        {
+          "option": "14"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "4 का घन क्या है?",
+      "options": [
+        {
+          "option": "32"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "64",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "64 का घनमूल क्या है?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "13 का घन क्या है?",
+      "options": [
+        {
+          "option": "2000"
+        },
+        {
+          "option": "169"
+        },
+        {
+          "option": "1300"
+        },
+        {
+          "option": "2197",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "12 का वर्ग क्या है?",
+      "options": [
+        {
+          "option": "122"
+        },
+        {
+          "option": "154"
+        },
+        {
+          "option": "144",
+          "is_answer": true
+        },
+        {
+          "option": "169"
+        }
+      ]
+    },
+    {
+      "question": "225 का वर्गमूल क्या है?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "35"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सी संख्या पूर्ण वर्ग है?",
+      "options": [
+        {
+          "option": "60"
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "50"
+        },
+        {
+          "option": "49",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "अभाज्य गुणनखंड विधि का उपयोग करके 400 का वर्गमूल ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "10 का वर्गमूल किन दो पूर्णांकों के बीच स्थित है?",
+      "options": [
+        {
+          "option": "2 और 3"
+        },
+        {
+          "option": "1 और 2"
+        },
+        {
+          "option": "4 और 5"
+        },
+        {
+          "option": "3 और 4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "25 का वर्ग क्या है?",
+      "options": [
+        {
+          "option": "550"
+        },
+        {
+          "option": "625",
+          "is_answer": true
+        },
+        {
+          "option": "525"
+        },
+        {
+          "option": "650"
+        }
+      ]
+    },
+    {
+      "question": "कौन सी संख्या 196 का वर्गमूल है?",
+      "options": [
+        {
+          "option": "14",
+          "is_answer": true
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "64 का वर्गमूल क्या है?",
+      "options": [
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "इनमें से कौन सी संख्या पूर्ण वर्ग नहीं है?",
+      "options": [
+        {
+          "option": "49"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "36"
+        }
+      ]
+    },
+    {
+      "question": "81 का वर्गमूल है:",
+      "options": [
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "11"
+        }
+      ]
+    },
+    {
+      "question": "7 का वर्ग क्या है?",
+      "options": [
+        {
+          "option": "42"
+        },
+        {
+          "option": "35"
+        },
+        {
+          "option": "49",
+          "is_answer": true
+        },
+        {
+          "option": "14"
+        }
+      ]
+    },
+    {
+      "question": "50 के वर्गमूल का निकटतम पूर्णांक मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "100 का वर्गमूल क्या है?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "50"
+        }
+      ]
+    },
+    {
+      "question": "किस संख्या का वर्ग 169 होता है?",
+      "options": [
+        {
+          "option": "13",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "17"
+        },
+        {
+          "option": "14"
+        }
+      ]
+    },
+    {
+      "question": "20 का वर्ग क्या है?",
+      "options": [
+        {
+          "option": "400",
+          "is_answer": true
+        },
+        {
+          "option": "800"
+        },
+        {
+          "option": "200"
+        },
+        {
+          "option": "40"
+        }
+      ]
+    },
+    {
+      "question": "1 का वर्गमूल है:",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन 36 के बराबर है?",
+      "options": [
+        {
+          "option": "6 का वर्ग",
+          "is_answer": true
+        },
+        {
+          "option": "12 गुना 3"
+        },
+        {
+          "option": "9 गुना 3"
+        },
+        {
+          "option": "18 गुना 2"
+        }
+      ]
+    },
+    {
+      "question": "256 का वर्गमूल क्या है?",
+      "options": [
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "9 का वर्ग क्या है?",
+      "options": [
+        {
+          "option": "90"
+        },
+        {
+          "option": "81",
+          "is_answer": true
+        },
+        {
+          "option": "72"
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "10 और 20 के बीच कौन सी संख्या पूर्ण वर्ग है?",
+      "options": [
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "अनुपात 12:18 को सरल करें।",
+      "options": [
+        {
+          "option": "3:4"
+        },
+        {
+          "option": "4:6"
+        },
+        {
+          "option": "1:2"
+        },
+        {
+          "option": "2:3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "20 को 2:3 के अनुपात में विभाजित करें।",
+      "options": [
+        {
+          "option": "5 और 15"
+        },
+        {
+          "option": "6 और 14"
+        },
+        {
+          "option": "8 और 12",
+          "is_answer": true
+        },
+        {
+          "option": "10 और 10"
+        }
+      ]
+    },
+    {
+      "question": "यदि A:B = 1:2 और B:C = 3:4 है, तो A:B:C ज्ञात करें।",
+      "options": [
+        {
+          "option": "1:3:4"
+        },
+        {
+          "option": "3:6:8",
+          "is_answer": true
+        },
+        {
+          "option": "1:2:4"
+        },
+        {
+          "option": "3:2:4"
+        }
+      ]
+    },
+    {
+      "question": "अनुपात 25:100 को सरल करें।",
+      "options": [
+        {
+          "option": "1:4",
+          "is_answer": true
+        },
+        {
+          "option": "1:5"
+        },
+        {
+          "option": "1:3"
+        },
+        {
+          "option": "2:5"
+        }
+      ]
+    },
+    {
+      "question": "45 को 1:2:2 के अनुपात में तीन भागों में विभाजित करें।",
+      "options": [
+        {
+          "option": "10, 15, 20"
+        },
+        {
+          "option": "5, 20, 20"
+        },
+        {
+          "option": "15, 15, 15"
+        },
+        {
+          "option": "9, 18, 18",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "0.5 : 1.5 को सरल करें।",
+      "options": [
+        {
+          "option": "1:3",
+          "is_answer": true
+        },
+        {
+          "option": "1:4"
+        },
+        {
+          "option": "1:2"
+        },
+        {
+          "option": "2:3"
+        }
+      ]
+    },
+    {
+      "question": "यदि x:y = 3:5 और y:z = 2:3 है, तो x:z क्या है?",
+      "options": [
+        {
+          "option": "2:5",
+          "is_answer": true
+        },
+        {
+          "option": "3:2"
+        },
+        {
+          "option": "5:6"
+        },
+        {
+          "option": "1:2"
+        }
+      ]
+    },
+    {
+      "question": "60 को 7:5 के अनुपात में विभाजित करें।",
+      "options": [
+        {
+          "option": "35 और 25",
+          "is_answer": true
+        },
+        {
+          "option": "40 और 20"
+        },
+        {
+          "option": "30 और 30"
+        },
+        {
+          "option": "42 और 18"
+        }
+      ]
+    },
+    {
+      "question": "1/2 : 1/3 को सरल करें।",
+      "options": [
+        {
+          "option": "2:3"
+        },
+        {
+          "option": "1:6"
+        },
+        {
+          "option": "3:2",
+          "is_answer": true
+        },
+        {
+          "option": "6:1"
+        }
+      ]
+    },
+    {
+      "question": "यदि 3A = 2B है, तो A:B ज्ञात करें।",
+      "options": [
+        {
+          "option": "4:6"
+        },
+        {
+          "option": "1:1"
+        },
+        {
+          "option": "2:3",
+          "is_answer": true
+        },
+        {
+          "option": "3:2"
+        }
+      ]
+    },
+    {
+      "question": "100 को 1:4 के अनुपात में विभाजित करें।",
+      "options": [
+        {
+          "option": "20 और 80",
+          "is_answer": true
+        },
+        {
+          "option": "25 और 75"
+        },
+        {
+          "option": "40 और 60"
+        },
+        {
+          "option": "10 और 90"
+        }
+      ]
+    },
+    {
+      "question": "400g : 2kg को सरल करें।",
+      "options": [
+        {
+          "option": "1:5",
+          "is_answer": true
+        },
+        {
+          "option": "1:2"
+        },
+        {
+          "option": "4:20"
+        },
+        {
+          "option": "2:5"
+        }
+      ]
+    },
+    {
+      "question": "यदि A:B:C = 2:3:5 है और योग 100 है, तो B क्या है?",
+      "options": [
+        {
+          "option": "50"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "30",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "1.2 : 0.4 को सरल करें।",
+      "options": [
+        {
+          "option": "2:1"
+        },
+        {
+          "option": "4:12"
+        },
+        {
+          "option": "1:3"
+        },
+        {
+          "option": "3:1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "72 को 5:4 के अनुपात में विभाजित करें।",
+      "options": [
+        {
+          "option": "36 और 36"
+        },
+        {
+          "option": "50 और 22"
+        },
+        {
+          "option": "45 और 27"
+        },
+        {
+          "option": "40 और 32",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "15 मिनट : 1 घंटा को सरल करें।",
+      "options": [
+        {
+          "option": "15:1"
+        },
+        {
+          "option": "1:6"
+        },
+        {
+          "option": "1:4",
+          "is_answer": true
+        },
+        {
+          "option": "1:15"
+        }
+      ]
+    },
+    {
+      "question": "यदि A:B = 2:5 और B:C = 5:3 है, तो A:C ज्ञात करें।",
+      "options": [
+        {
+          "option": "2:3",
+          "is_answer": true
+        },
+        {
+          "option": "5:2"
+        },
+        {
+          "option": "1:1"
+        },
+        {
+          "option": "3:2"
+        }
+      ]
+    },
+    {
+      "question": "84 को 3:4 के अनुपात में विभाजित करें।",
+      "options": [
+        {
+          "option": "42 और 42"
+        },
+        {
+          "option": "36 और 48",
+          "is_answer": true
+        },
+        {
+          "option": "28 और 56"
+        },
+        {
+          "option": "30 और 54"
+        }
+      ]
+    },
+    {
+      "question": "10:20:30 को सरल करें।",
+      "options": [
+        {
+          "option": "10:2:3"
+        },
+        {
+          "option": "1:1:1"
+        },
+        {
+          "option": "1:2:3",
+          "is_answer": true
+        },
+        {
+          "option": "2:4:6"
+        }
+      ]
+    },
+    {
+      "question": "यदि 2A = 3B = 4C है, तो A:B:C ज्ञात करें।",
+      "options": [
+        {
+          "option": "3:2:1"
+        },
+        {
+          "option": "4:3:2"
+        },
+        {
+          "option": "6:4:3",
+          "is_answer": true
+        },
+        {
+          "option": "2:3:4"
+        }
+      ]
+    },
+    {
+      "question": "यदि 5 पेन की कीमत 25 रुपये है, तो 8 पेन की कीमत क्या होगी?",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "40",
+          "is_answer": true
+        },
+        {
+          "option": "45"
+        },
+        {
+          "option": "35"
+        }
+      ]
+    },
+    {
+      "question": "यदि 10 मजदूर एक दीवार 6 दिनों में बना सकते हैं, तो उसी दीवार को बनाने में 15 मजदूरों को कितने दिन लगेंगे?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "एक कार 2 घंटे में 120 किमी की यात्रा करती है। उसी गति से 5 घंटे में वह कितनी दूरी तय करेगी?",
+      "options": [
+        {
+          "option": "300",
+          "is_answer": true
+        },
+        {
+          "option": "360"
+        },
+        {
+          "option": "240"
+        },
+        {
+          "option": "200"
+        }
+      ]
+    },
+    {
+      "question": "यदि 4 किलो चीनी की कीमत 160 रुपये है, तो 1 किलो चीनी की कीमत क्या होगी?",
+      "options": [
+        {
+          "option": "40",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "50"
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "यदि 6 पाइप एक टंकी को 20 मिनट में भर सकते हैं, तो उसी टंकी को भरने में 8 पाइप को कितना समय लगेगा?",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि 3 किताबों की कीमत 450 रुपये है, तो 7 किताबों की कीमत क्या होगी?",
+      "options": [
+        {
+          "option": "900"
+        },
+        {
+          "option": "1200"
+        },
+        {
+          "option": "750"
+        },
+        {
+          "option": "1050",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक ट्रेन 4 घंटे में 300 किमी की दूरी तय करती है। 450 किमी की दूरी तय करने में उसे कितना समय लगेगा?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि 12 आदमी एक काम को 10 दिनों में पूरा कर सकते हैं, तो 5 दिनों में इसे पूरा करने के लिए कितने आदमियों की आवश्यकता होगी?",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "यदि 2 लीटर दूध की कीमत 100 रुपये है, तो 5 लीटर की कीमत क्या होगी?",
+      "options": [
+        {
+          "option": "200"
+        },
+        {
+          "option": "250",
+          "is_answer": true
+        },
+        {
+          "option": "150"
+        },
+        {
+          "option": "300"
+        }
+      ]
+    },
+    {
+      "question": "यदि 8 मशीनें एक घंटे में 400 वस्तुएं बनाती हैं, तो 5 मशीनें एक घंटे में कितनी वस्तुएं बनाएंगी?",
+      "options": [
+        {
+          "option": "200"
+        },
+        {
+          "option": "300"
+        },
+        {
+          "option": "350"
+        },
+        {
+          "option": "250",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि 15 मजदूर एक काम को 4 दिनों में पूरा कर सकते हैं, तो 20 मजदूरों को कितने दिन लगेंगे?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि 7 किलो चावल की कीमत 350 रुपये है, तो 10 किलो की कीमत क्या होगी?",
+      "options": [
+        {
+          "option": "400"
+        },
+        {
+          "option": "450"
+        },
+        {
+          "option": "500",
+          "is_answer": true
+        },
+        {
+          "option": "550"
+        }
+      ]
+    },
+    {
+      "question": "एक कार 100 किमी के लिए 5 लीटर ईंधन का उपयोग करती है। 250 किमी के लिए कितने ईंधन की आवश्यकता होगी?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "7.5"
+        },
+        {
+          "option": "12.5",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "यदि 9 आदमी एक काम को 8 दिनों में कर सकते हैं, तो 12 आदमियों को कितने दिन लगेंगे?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "यदि 20 नोटबुक की कीमत 400 रुपये है, तो 12 नोटबुक की कीमत क्या होगी?",
+      "options": [
+        {
+          "option": "280"
+        },
+        {
+          "option": "300"
+        },
+        {
+          "option": "240",
+          "is_answer": true
+        },
+        {
+          "option": "200"
+        }
+      ]
+    },
+    {
+      "question": "यदि 10 नल एक पूल को 12 घंटे में भरते हैं, तो 6 नलों को कितने घंटे लगेंगे?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "यदि 5 किलो सेब की कीमत 600 रुपये है, तो 2 किलो की कीमत क्या होगी?",
+      "options": [
+        {
+          "option": "200"
+        },
+        {
+          "option": "300"
+        },
+        {
+          "option": "240",
+          "is_answer": true
+        },
+        {
+          "option": "120"
+        }
+      ]
+    },
+    {
+      "question": "यदि 3 मजदूर एक कमरे को 6 घंटे में पेंट कर सकते हैं, तो 9 मजदूरों को कितने घंटे लगेंगे?",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "यदि 15 पेन की कीमत 75 रुपये है, तो 20 पेन की कीमत क्या होगी?",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "100",
+          "is_answer": true
+        },
+        {
+          "option": "80"
+        },
+        {
+          "option": "90"
+        }
+      ]
+    },
+    {
+      "question": "यदि 4 लोग एक प्रोजेक्ट को 15 दिनों में पूरा कर सकते हैं, तो 6 लोगों को कितने दिन लगेंगे?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "1/4 को प्रतिशत के रूप में कैसे व्यक्त किया जाता है?",
+      "options": [
+        {
+          "option": "40%"
+        },
+        {
+          "option": "10%"
+        },
+        {
+          "option": "25%",
+          "is_answer": true
+        },
+        {
+          "option": "20%"
+        }
+      ]
+    },
+    {
+      "question": "500 का 20% कितना होता है?",
+      "options": [
+        {
+          "option": "200"
+        },
+        {
+          "option": "50"
+        },
+        {
+          "option": "100",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "0.75 को प्रतिशत में बदलें।",
+      "options": [
+        {
+          "option": "0.75%"
+        },
+        {
+          "option": "750%"
+        },
+        {
+          "option": "7.5%"
+        },
+        {
+          "option": "75%",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि कीमत 100 से बढ़कर 120 हो जाती है, तो प्रतिशत वृद्धि क्या है?",
+      "options": [
+        {
+          "option": "10%"
+        },
+        {
+          "option": "15%"
+        },
+        {
+          "option": "20%",
+          "is_answer": true
+        },
+        {
+          "option": "25%"
+        }
+      ]
+    },
+    {
+      "question": "80 का 50% कितना होता है?",
+      "options": [
+        {
+          "option": "80"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "40",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "3/5 को प्रतिशत में बदलें।",
+      "options": [
+        {
+          "option": "60%",
+          "is_answer": true
+        },
+        {
+          "option": "30%"
+        },
+        {
+          "option": "40%"
+        },
+        {
+          "option": "50%"
+        }
+      ]
+    },
+    {
+      "question": "150 का 10% कितना होता है?",
+      "options": [
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "यदि मान 200 से घटकर 150 हो जाता है, तो प्रतिशत कमी क्या है?",
+      "options": [
+        {
+          "option": "20%"
+        },
+        {
+          "option": "10%"
+        },
+        {
+          "option": "50%"
+        },
+        {
+          "option": "25%",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "200 का 25% कितना होता है?",
+      "options": [
+        {
+          "option": "100"
+        },
+        {
+          "option": "50",
+          "is_answer": true
+        },
+        {
+          "option": "75"
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "0.1 को प्रतिशत में बदलें।",
+      "options": [
+        {
+          "option": "10%",
+          "is_answer": true
+        },
+        {
+          "option": "100%"
+        },
+        {
+          "option": "0.1%"
+        },
+        {
+          "option": "1%"
+        }
+      ]
+    },
+    {
+      "question": "200 का 5% कितना होता है?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "1/2 को प्रतिशत में बदलें।",
+      "options": [
+        {
+          "option": "25%"
+        },
+        {
+          "option": "10%"
+        },
+        {
+          "option": "75%"
+        },
+        {
+          "option": "50%",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "300 का 40% कितना होता है?",
+      "options": [
+        {
+          "option": "80"
+        },
+        {
+          "option": "150"
+        },
+        {
+          "option": "120",
+          "is_answer": true
+        },
+        {
+          "option": "100"
+        }
+      ]
+    },
+    {
+      "question": "0.05 को प्रतिशत में बदलें।",
+      "options": [
+        {
+          "option": "50%"
+        },
+        {
+          "option": "0.5%"
+        },
+        {
+          "option": "5%",
+          "is_answer": true
+        },
+        {
+          "option": "0.05%"
+        }
+      ]
+    },
+    {
+      "question": "200 का 15% कितना होता है?",
+      "options": [
+        {
+          "option": "30",
+          "is_answer": true
+        },
+        {
+          "option": "45"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "4/5 को प्रतिशत में बदलें।",
+      "options": [
+        {
+          "option": "20%"
+        },
+        {
+          "option": "40%"
+        },
+        {
+          "option": "80%",
+          "is_answer": true
+        },
+        {
+          "option": "60%"
+        }
+      ]
+    },
+    {
+      "question": "400 का 75% कितना होता है?",
+      "options": [
+        {
+          "option": "100"
+        },
+        {
+          "option": "300",
+          "is_answer": true
+        },
+        {
+          "option": "350"
+        },
+        {
+          "option": "200"
+        }
+      ]
+    },
+    {
+      "question": "0.25 को प्रतिशत में बदलें।",
+      "options": [
+        {
+          "option": "25%",
+          "is_answer": true
+        },
+        {
+          "option": "0.25%"
+        },
+        {
+          "option": "250%"
+        },
+        {
+          "option": "2.5%"
+        }
+      ]
+    },
+    {
+      "question": "50 का 12% कितना होता है?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "1/5 को प्रतिशत में बदलें।",
+      "options": [
+        {
+          "option": "5%"
+        },
+        {
+          "option": "25%"
+        },
+        {
+          "option": "20%",
+          "is_answer": true
+        },
+        {
+          "option": "10%"
+        }
+      ]
+    },
+    {
+      "question": "{10, 20, 30} सेट का अंकगणितीय माध्य (arithmetic mean) क्या है?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "60"
+        }
+      ]
+    },
+    {
+      "question": "यदि 5 संख्याओं का योग 100 है, तो उनका औसत क्या है?",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "500"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि मान 10 (भार 2) और 20 (भार 3) हैं, तो भारित औसत (weighted average) की गणना करें।",
+      "options": [
+        {
+          "option": "17"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "यदि किसी सेट की प्रत्येक संख्या में 5 की वृद्धि की जाती है, तो औसत पर क्या प्रभाव पड़ता है?",
+      "options": [
+        {
+          "option": "2.5 की वृद्धि होती है"
+        },
+        {
+          "option": "5 की कमी होती है"
+        },
+        {
+          "option": "समान रहता है"
+        },
+        {
+          "option": "5 की वृद्धि होती है",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "4 संख्याओं का औसत 10 है। यदि एक नई संख्या 20 जोड़ी जाती है, तो नया योग क्या होगा?",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "60",
+          "is_answer": true
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "50"
+        }
+      ]
+    },
+    {
+      "question": "प्रथम 5 प्राकृतिक संख्याओं का औसत क्या है?",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "यदि 10 वस्तुओं का औसत 50 है, तो कुल योग क्या है?",
+      "options": [
+        {
+          "option": "50"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "500",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "भारित माध्य (weighted mean) के लिए कौन सा सूत्र सही है?",
+      "options": [
+        {
+          "option": "भार का औसत"
+        },
+        {
+          "option": "भार का योग / मानों का योग"
+        },
+        {
+          "option": "मानों का योग / मानों की संख्या"
+        },
+        {
+          "option": "(मान * भार) का योग / भार का योग",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि आप किसी सेट से वर्तमान औसत के बराबर मान हटाते हैं, तो औसत पर क्या प्रभाव पड़ता है?",
+      "options": [
+        {
+          "option": "बढ़ता है"
+        },
+        {
+          "option": "घटता है"
+        },
+        {
+          "option": "अपरिवर्तित रहता है",
+          "is_answer": true
+        },
+        {
+          "option": "शून्य हो जाता है"
+        }
+      ]
+    },
+    {
+      "question": "0, 5, और 10 का औसत क्या है?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "7.5"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "यदि 5 संख्याओं का औसत 20 है, और एक संख्या 10 हटा दी जाती है, तो नया योग क्या है?",
+      "options": [
+        {
+          "option": "80"
+        },
+        {
+          "option": "110"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "90",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "3 संख्याओं का औसत 7 है। यदि प्रत्येक को 2 से गुणा किया जाए, तो नया औसत क्या होगा?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "21"
+        },
+        {
+          "option": "10.5"
+        },
+        {
+          "option": "14",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "10 (भार 1) और 30 (भार 1) का भारित औसत क्या है?",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "यदि x, y, और z का औसत 10 है, तो x + y + z क्या है?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "30",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "100"
+        }
+      ]
+    },
+    {
+      "question": "अंकगणितीय माध्य का गुणधर्म कौन सा है?",
+      "options": [
+        {
+          "option": "यह दशमलव नहीं हो सकता"
+        },
+        {
+          "option": "यह हमेशा माध्यिका (median) के बराबर होता है"
+        },
+        {
+          "option": "यह आउटलायर्स (outliers) से प्रभावित होता है",
+          "is_answer": true
+        },
+        {
+          "option": "यह सबसे अधिक बार आने वाला मान है"
+        }
+      ]
+    },
+    {
+      "question": "यदि संख्याएँ 5, 5, 5, 5 हैं, तो उनका औसत क्या है?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "प्रथम 3 सम संख्याओं (2, 4, 6) का औसत क्या है?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "यदि 10 संख्याओं का योग 200 है, तो औसत क्या है?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "200"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "भारित औसत में, यदि सभी भार समान हैं, तो यह क्या बन जाता है?",
+      "options": [
+        {
+          "option": "शून्य"
+        },
+        {
+          "option": "माध्यिका"
+        },
+        {
+          "option": "साधारण औसत",
+          "is_answer": true
+        },
+        {
+          "option": "भारित योग"
+        }
+      ]
+    },
+    {
+      "question": "10 और 20 का औसत क्या है?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "72 km/h को m/s में बदलें।",
+      "options": [
+        {
+          "option": "18 m/s"
+        },
+        {
+          "option": "20 m/s",
+          "is_answer": true
+        },
+        {
+          "option": "15 m/s"
+        },
+        {
+          "option": "25 m/s"
+        }
+      ]
+    },
+    {
+      "question": "एक कार 3 घंटे में 150 किमी की दूरी तय करती है। उसकी गति क्या है?",
+      "options": [
+        {
+          "option": "40 km/h"
+        },
+        {
+          "option": "45 km/h"
+        },
+        {
+          "option": "60 km/h"
+        },
+        {
+          "option": "50 km/h",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "80 km/h की गति से एक ट्रेन 4 घंटे में कितनी दूरी तय करेगी?",
+      "options": [
+        {
+          "option": "320 km",
+          "is_answer": true
+        },
+        {
+          "option": "240 km"
+        },
+        {
+          "option": "280 km"
+        },
+        {
+          "option": "360 km"
+        }
+      ]
+    },
+    {
+      "question": "36 km/h को m/s में बदलें।",
+      "options": [
+        {
+          "option": "5 m/s"
+        },
+        {
+          "option": "8 m/s"
+        },
+        {
+          "option": "10 m/s",
+          "is_answer": true
+        },
+        {
+          "option": "12 m/s"
+        }
+      ]
+    },
+    {
+      "question": "50 km/h की गति से 200 किमी की यात्रा करने में कितना समय लगेगा?",
+      "options": [
+        {
+          "option": "4 hours",
+          "is_answer": true
+        },
+        {
+          "option": "2 hours"
+        },
+        {
+          "option": "3 hours"
+        },
+        {
+          "option": "5 hours"
+        }
+      ]
+    },
+    {
+      "question": "यदि एक साइकिल चालक 15 m/s की गति से यात्रा करता है, तो km/h में गति क्या है?",
+      "options": [
+        {
+          "option": "48 km/h"
+        },
+        {
+          "option": "45 km/h"
+        },
+        {
+          "option": "60 km/h"
+        },
+        {
+          "option": "54 km/h",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक बस 4 घंटे में 240 किमी की यात्रा करती है। गति ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "50 km/h"
+        },
+        {
+          "option": "60 km/h",
+          "is_answer": true
+        },
+        {
+          "option": "70 km/h"
+        },
+        {
+          "option": "55 km/h"
+        }
+      ]
+    },
+    {
+      "question": "90 km/h को m/s में बदलें।",
+      "options": [
+        {
+          "option": "20 m/s"
+        },
+        {
+          "option": "30 m/s"
+        },
+        {
+          "option": "15 m/s"
+        },
+        {
+          "option": "25 m/s",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक धावक 5 m/s की गति से दौड़ता है। 60 सेकंड में वह कितनी दूर जाएगा?",
+      "options": [
+        {
+          "option": "300 meters",
+          "is_answer": true
+        },
+        {
+          "option": "200 meters"
+        },
+        {
+          "option": "350 meters"
+        },
+        {
+          "option": "250 meters"
+        }
+      ]
+    },
+    {
+      "question": "यदि एक कार 2 घंटे में 100 किमी की यात्रा करती है, तो उसकी गति क्या है?",
+      "options": [
+        {
+          "option": "40 km/h"
+        },
+        {
+          "option": "50 km/h",
+          "is_answer": true
+        },
+        {
+          "option": "30 km/h"
+        },
+        {
+          "option": "60 km/h"
+        }
+      ]
+    },
+    {
+      "question": "10 m/s को km/h में बदलें।",
+      "options": [
+        {
+          "option": "40 km/h"
+        },
+        {
+          "option": "25 km/h"
+        },
+        {
+          "option": "30 km/h"
+        },
+        {
+          "option": "36 km/h",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक ट्रेन 120 km/h की गति से यात्रा करती है। 2 घंटे में वह कितनी दूर जाएगी?",
+      "options": [
+        {
+          "option": "280 km"
+        },
+        {
+          "option": "240 km",
+          "is_answer": true
+        },
+        {
+          "option": "200 km"
+        },
+        {
+          "option": "220 km"
+        }
+      ]
+    },
+    {
+      "question": "90 km/h की गति से 450 किमी की यात्रा करने के लिए कितना समय चाहिए?",
+      "options": [
+        {
+          "option": "6 hours"
+        },
+        {
+          "option": "4 hours"
+        },
+        {
+          "option": "5 hours",
+          "is_answer": true
+        },
+        {
+          "option": "3 hours"
+        }
+      ]
+    },
+    {
+      "question": "54 km/h को m/s में बदलें।",
+      "options": [
+        {
+          "option": "20 m/s"
+        },
+        {
+          "option": "12 m/s"
+        },
+        {
+          "option": "10 m/s"
+        },
+        {
+          "option": "15 m/s",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक साइकिल चालक 3 घंटे में 60 किमी की यात्रा करता है। गति क्या है?",
+      "options": [
+        {
+          "option": "20 km/h",
+          "is_answer": true
+        },
+        {
+          "option": "10 km/h"
+        },
+        {
+          "option": "15 km/h"
+        },
+        {
+          "option": "25 km/h"
+        }
+      ]
+    },
+    {
+      "question": "यदि एक कार 20 m/s की गति से चलती है, तो 10 सेकंड में वह कितनी दूर जाएगी?",
+      "options": [
+        {
+          "option": "100 meters"
+        },
+        {
+          "option": "200 meters",
+          "is_answer": true
+        },
+        {
+          "option": "250 meters"
+        },
+        {
+          "option": "150 meters"
+        }
+      ]
+    },
+    {
+      "question": "20 m/s को km/h में बदलें।",
+      "options": [
+        {
+          "option": "60 km/h"
+        },
+        {
+          "option": "65 km/h"
+        },
+        {
+          "option": "72 km/h",
+          "is_answer": true
+        },
+        {
+          "option": "80 km/h"
+        }
+      ]
+    },
+    {
+      "question": "एक विमान 2 घंटे में 1000 किमी उड़ता है। उसकी गति क्या है?",
+      "options": [
+        {
+          "option": "450 km/h"
+        },
+        {
+          "option": "600 km/h"
+        },
+        {
+          "option": "400 km/h"
+        },
+        {
+          "option": "500 km/h",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "60 km/h की गति से 300 किमी की यात्रा करने में कितना समय लगेगा?",
+      "options": [
+        {
+          "option": "3 hours"
+        },
+        {
+          "option": "5 hours",
+          "is_answer": true
+        },
+        {
+          "option": "4 hours"
+        },
+        {
+          "option": "6 hours"
+        }
+      ]
+    },
+    {
+      "question": "126 km/h को m/s में बदलें।",
+      "options": [
+        {
+          "option": "25 m/s"
+        },
+        {
+          "option": "35 m/s",
+          "is_answer": true
+        },
+        {
+          "option": "40 m/s"
+        },
+        {
+          "option": "30 m/s"
+        }
+      ]
+    },
+    {
+      "question": "यदि 5 पेन की कीमत 25 डॉलर है, तो 1 पेन की कीमत क्या होगी?",
+      "options": [
+        {
+          "option": "10 डॉलर"
+        },
+        {
+          "option": "20 डॉलर"
+        },
+        {
+          "option": "2 डॉलर"
+        },
+        {
+          "option": "5 डॉलर",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक कार 2 घंटे में 120 किमी की यात्रा करती है। तो वह 1 घंटे में कितनी दूरी तय करेगी?",
+      "options": [
+        {
+          "option": "60 किमी",
+          "is_answer": true
+        },
+        {
+          "option": "120 किमी"
+        },
+        {
+          "option": "30 किमी"
+        },
+        {
+          "option": "240 किमी"
+        }
+      ]
+    },
+    {
+      "question": "यदि 3 किलो सेब की कीमत 150 रुपये है, तो 7 किलो सेब की कीमत कितनी होगी?",
+      "options": [
+        {
+          "option": "500 रुपये"
+        },
+        {
+          "option": "450 रुपये"
+        },
+        {
+          "option": "150 रुपये"
+        },
+        {
+          "option": "350 रुपये",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि 4 नोटबुक की कीमत 80 डॉलर है, तो 10 नोटबुक की कीमत कितनी होगी?",
+      "options": [
+        {
+          "option": "80 डॉलर"
+        },
+        {
+          "option": "400 डॉलर"
+        },
+        {
+          "option": "100 डॉलर"
+        },
+        {
+          "option": "200 डॉलर",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक मजदूर 4 दिनों में 400 डॉलर कमाता है। तो वह 1 दिन में कितना कमाता है?",
+      "options": [
+        {
+          "option": "40 डॉलर"
+        },
+        {
+          "option": "50 डॉलर"
+        },
+        {
+          "option": "200 डॉलर"
+        },
+        {
+          "option": "100 डॉलर",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि 6 लीटर दूध की कीमत 300 रुपये है, तो 1 लीटर की कीमत कितनी होगी?",
+      "options": [
+        {
+          "option": "30 रुपये"
+        },
+        {
+          "option": "50 रुपये",
+          "is_answer": true
+        },
+        {
+          "option": "60 रुपये"
+        },
+        {
+          "option": "100 रुपये"
+        }
+      ]
+    },
+    {
+      "question": "यदि 2 शर्ट की कीमत 40 डॉलर है, तो 5 शर्ट की कीमत कितनी होगी?",
+      "options": [
+        {
+          "option": "200 डॉलर"
+        },
+        {
+          "option": "80 डॉलर"
+        },
+        {
+          "option": "40 डॉलर"
+        },
+        {
+          "option": "100 डॉलर",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक मशीन 5 घंटे में 500 वस्तुएं बनाती है। तो वह 1 घंटे में कितनी वस्तुएं बनाती है?",
+      "options": [
+        {
+          "option": "100 वस्तुएं",
+          "is_answer": true
+        },
+        {
+          "option": "50 वस्तुएं"
+        },
+        {
+          "option": "500 वस्तुएं"
+        },
+        {
+          "option": "250 वस्तुएं"
+        }
+      ]
+    },
+    {
+      "question": "यदि 8 पेंसिल की कीमत 24 रुपये है, तो 1 पेंसिल की कीमत कितनी होगी?",
+      "options": [
+        {
+          "option": "6 रुपये"
+        },
+        {
+          "option": "8 रुपये"
+        },
+        {
+          "option": "4 रुपये"
+        },
+        {
+          "option": "3 रुपये",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि 10 किलो चावल की कीमत 500 रुपये है, तो 2 किलो चावल की कीमत कितनी होगी?",
+      "options": [
+        {
+          "option": "200 रुपये"
+        },
+        {
+          "option": "250 रुपये"
+        },
+        {
+          "option": "50 रुपये"
+        },
+        {
+          "option": "100 रुपये",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि 3 टिकट की कीमत 30 डॉलर है, तो 1 टिकट की कीमत कितनी होगी?",
+      "options": [
+        {
+          "option": "15 डॉलर"
+        },
+        {
+          "option": "5 डॉलर"
+        },
+        {
+          "option": "10 डॉलर",
+          "is_answer": true
+        },
+        {
+          "option": "3 डॉलर"
+        }
+      ]
+    },
+    {
+      "question": "एक ट्रेन 3 घंटे में 300 किमी की यात्रा करती है। तो वह 5 घंटे में कितनी दूरी तय करेगी?",
+      "options": [
+        {
+          "option": "500 किमी",
+          "is_answer": true
+        },
+        {
+          "option": "300 किमी"
+        },
+        {
+          "option": "100 किमी"
+        },
+        {
+          "option": "600 किमी"
+        }
+      ]
+    },
+    {
+      "question": "यदि 4 बक्सों में 40 चॉकलेट हैं, तो 1 बक्से में कितनी चॉकलेट होंगी?",
+      "options": [
+        {
+          "option": "10 चॉकलेट",
+          "is_answer": true
+        },
+        {
+          "option": "20 चॉकलेट"
+        },
+        {
+          "option": "4 चॉकलेट"
+        },
+        {
+          "option": "5 चॉकलेट"
+        }
+      ]
+    },
+    {
+      "question": "यदि 7 पेन की कीमत 70 रुपये है, तो 12 पेन की कीमत कितनी होगी?",
+      "options": [
+        {
+          "option": "100 रुपये"
+        },
+        {
+          "option": "70 रुपये"
+        },
+        {
+          "option": "140 रुपये"
+        },
+        {
+          "option": "120 रुपये",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि 5 किताबों की कीमत 250 डॉलर है, तो 1 किताब की कीमत कितनी होगी?",
+      "options": [
+        {
+          "option": "50 डॉलर",
+          "is_answer": true
+        },
+        {
+          "option": "25 डॉलर"
+        },
+        {
+          "option": "5 डॉलर"
+        },
+        {
+          "option": "100 डॉलर"
+        }
+      ]
+    },
+    {
+      "question": "एक पंखा 2 मिनट में 1200 बार घूमता है। तो वह 1 मिनट में कितनी बार घूमेगा?",
+      "options": [
+        {
+          "option": "1200 बार"
+        },
+        {
+          "option": "300 बार"
+        },
+        {
+          "option": "600 बार",
+          "is_answer": true
+        },
+        {
+          "option": "200 बार"
+        }
+      ]
+    },
+    {
+      "question": "यदि 9 किलो चीनी की कीमत 360 रुपये है, तो 1 किलो की कीमत कितनी होगी?",
+      "options": [
+        {
+          "option": "40 रुपये",
+          "is_answer": true
+        },
+        {
+          "option": "9 रुपये"
+        },
+        {
+          "option": "20 रुपये"
+        },
+        {
+          "option": "36 रुपये"
+        }
+      ]
+    },
+    {
+      "question": "यदि 2 लीटर जूस की कीमत 10 डॉलर है, तो 6 लीटर की कीमत कितनी होगी?",
+      "options": [
+        {
+          "option": "10 डॉलर"
+        },
+        {
+          "option": "20 डॉलर"
+        },
+        {
+          "option": "30 डॉलर",
+          "is_answer": true
+        },
+        {
+          "option": "40 डॉलर"
+        }
+      ]
+    },
+    {
+      "question": "यदि 5 कुर्सियों की कीमत 500 रुपये है, तो 1 कुर्सी की कीमत कितनी होगी?",
+      "options": [
+        {
+          "option": "100 रुपये",
+          "is_answer": true
+        },
+        {
+          "option": "200 रुपये"
+        },
+        {
+          "option": "50 रुपये"
+        },
+        {
+          "option": "250 रुपये"
+        }
+      ]
+    },
+    {
+      "question": "यदि 4 बैग की कीमत 200 डॉलर है, तो 3 बैग की कीमत कितनी होगी?",
+      "options": [
+        {
+          "option": "200 डॉलर"
+        },
+        {
+          "option": "150 डॉलर",
+          "is_answer": true
+        },
+        {
+          "option": "50 डॉलर"
+        },
+        {
+          "option": "100 डॉलर"
+        }
+      ]
+    },
+    {
+      "question": "यदि A एक कार्य को 10 दिनों में पूरा कर सकता है, तो A 1 दिन में कार्य का कितना भाग पूरा करेगा?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "1/10",
+          "is_answer": true
+        },
+        {
+          "option": "1/5"
+        },
+        {
+          "option": "1/20"
+        }
+      ]
+    },
+    {
+      "question": "A एक काम 6 दिनों में और B 3 दिनों में कर सकता है। दोनों मिलकर इसे कितने दिनों में पूरा करेंगे?",
+      "options": [
+        {
+          "option": "4.5 दिन"
+        },
+        {
+          "option": "9 दिन"
+        },
+        {
+          "option": "3 दिन"
+        },
+        {
+          "option": "2 दिन",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि एक व्यक्ति 2 दिनों में कार्य का 1/4 भाग पूरा करता है, तो पूरा कार्य करने में उसे कितने दिन लगेंगे?",
+      "options": [
+        {
+          "option": "2 दिन"
+        },
+        {
+          "option": "6 दिन"
+        },
+        {
+          "option": "4 दिन"
+        },
+        {
+          "option": "8 दिन",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A 1 दिन में कार्य का 1/5 भाग करता है। पूरा कार्य समाप्त करने में A को कितने दिन लगेंगे?",
+      "options": [
+        {
+          "option": "5 दिन",
+          "is_answer": true
+        },
+        {
+          "option": "2.5 दिन"
+        },
+        {
+          "option": "10 दिन"
+        },
+        {
+          "option": "1 दिन"
+        }
+      ]
+    },
+    {
+      "question": "यदि A को कार्य पूरा करने में 12 दिन और B को 24 दिन लगते हैं, तो वे मिलकर कितने दिनों में कार्य पूरा करेंगे?",
+      "options": [
+        {
+          "option": "8 दिन",
+          "is_answer": true
+        },
+        {
+          "option": "12 दिन"
+        },
+        {
+          "option": "36 दिन"
+        },
+        {
+          "option": "18 दिन"
+        }
+      ]
+    },
+    {
+      "question": "A 4 दिनों में एक दीवार पेंट कर सकता है। 3 दिनों में दीवार का कितना भाग पेंट होगा?",
+      "options": [
+        {
+          "option": "2/3"
+        },
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "3/4",
+          "is_answer": true
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "यदि 2 श्रमिकों को एक कार्य पूरा करने में 5 दिन लगते हैं, तो 1 श्रमिक को कितने दिन लगेंगे?",
+      "options": [
+        {
+          "option": "5 दिन"
+        },
+        {
+          "option": "10 दिन",
+          "is_answer": true
+        },
+        {
+          "option": "2.5 दिन"
+        },
+        {
+          "option": "20 दिन"
+        }
+      ]
+    },
+    {
+      "question": "A 3 दिनों में कार्य का 1/3 भाग पूरा करता है। 6 दिनों में वह कितना कार्य पूरा करेगा?",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "2/3",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "1/3"
+        }
+      ]
+    },
+    {
+      "question": "यदि A 20 दिनों में कार्य कर सकता है, तो उसका 5 दिनों का कार्य अंश क्या होगा?",
+      "options": [
+        {
+          "option": "1/4",
+          "is_answer": true
+        },
+        {
+          "option": "1/5"
+        },
+        {
+          "option": "1/20"
+        },
+        {
+          "option": "5/20"
+        }
+      ]
+    },
+    {
+      "question": "A और B मिलकर 4 दिनों में कार्य पूरा करते हैं। यदि A अकेला 12 दिन लेता है, तो B को कितना समय लगेगा?",
+      "options": [
+        {
+          "option": "16 दिन"
+        },
+        {
+          "option": "6 दिन",
+          "is_answer": true
+        },
+        {
+          "option": "8 दिन"
+        },
+        {
+          "option": "12 दिन"
+        }
+      ]
+    },
+    {
+      "question": "यदि 5 आदमी 10 दिनों में कार्य कर सकते हैं, तो 10 आदमियों को कितने दिन लगेंगे?",
+      "options": [
+        {
+          "option": "10 दिन"
+        },
+        {
+          "option": "5 दिन",
+          "is_answer": true
+        },
+        {
+          "option": "20 दिन"
+        },
+        {
+          "option": "2 दिन"
+        }
+      ]
+    },
+    {
+      "question": "A 4 दिनों में कार्य का 1/2 भाग करता है। शेष कार्य को पूरा करने में कितने दिन लगेंगे?",
+      "options": [
+        {
+          "option": "6 दिन"
+        },
+        {
+          "option": "2 दिन"
+        },
+        {
+          "option": "8 दिन"
+        },
+        {
+          "option": "4 दिन",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि A का 1-दिन का कार्य 1/8 है, तो कार्य पूरा करने में उसे कितने दिन लगेंगे?",
+      "options": [
+        {
+          "option": "1/8 दिन"
+        },
+        {
+          "option": "4 दिन"
+        },
+        {
+          "option": "16 दिन"
+        },
+        {
+          "option": "8 दिन",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A 10 दिन और B 15 दिन लेता है। साथ मिलकर काम करते हुए, 1 दिन में कार्य का कितना भाग पूरा होगा?",
+      "options": [
+        {
+          "option": "1/6",
+          "is_answer": true
+        },
+        {
+          "option": "1/25"
+        },
+        {
+          "option": "1/15"
+        },
+        {
+          "option": "1/10"
+        }
+      ]
+    },
+    {
+      "question": "यदि 3 लोग 6 दिनों में दीवार बना सकते हैं, तो 1 व्यक्ति को कितने दिन लगेंगे?",
+      "options": [
+        {
+          "option": "6 दिन"
+        },
+        {
+          "option": "3 दिन"
+        },
+        {
+          "option": "18 दिन",
+          "is_answer": true
+        },
+        {
+          "option": "9 दिन"
+        }
+      ]
+    },
+    {
+      "question": "A 2 दिनों में कार्य का 1/10 भाग पूरा करता है। 5 दिनों में कितना कार्य पूरा होगा?",
+      "options": [
+        {
+          "option": "1/10"
+        },
+        {
+          "option": "1/5"
+        },
+        {
+          "option": "1/4",
+          "is_answer": true
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "यदि A 30 दिनों में कार्य कर सकता है, तो 10 दिनों में कार्य का कितना भाग पूरा होगा?",
+      "options": [
+        {
+          "option": "1/10"
+        },
+        {
+          "option": "1/3",
+          "is_answer": true
+        },
+        {
+          "option": "3/10"
+        },
+        {
+          "option": "1/30"
+        }
+      ]
+    },
+    {
+      "question": "A और B 5 दिनों में कार्य पूरा करते हैं। यदि B अकेला 10 दिन लेता है, तो A को कितना समय लगेगा?",
+      "options": [
+        {
+          "option": "10 दिन",
+          "is_answer": true
+        },
+        {
+          "option": "20 दिन"
+        },
+        {
+          "option": "15 दिन"
+        },
+        {
+          "option": "5 दिन"
+        }
+      ]
+    },
+    {
+      "question": "यदि 4 मशीनें 4 दिनों में 400 वस्तुएं बनाती हैं, तो 1 मशीन 1 दिन में कितनी वस्तुएं बनाएगी?",
+      "options": [
+        {
+          "option": "100"
+        },
+        {
+          "option": "400"
+        },
+        {
+          "option": "25",
+          "is_answer": true
+        },
+        {
+          "option": "50"
+        }
+      ]
+    },
+    {
+      "question": "A 8 दिनों में कार्य पूरा कर सकता है। A द्वारा 2 दिनों में किया गया कार्य क्या है?",
+      "options": [
+        {
+          "option": "2/8"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "1/4",
+          "is_answer": true
+        },
+        {
+          "option": "1/8"
+        }
+      ]
+    },
+    {
+      "question": "$500 पर 5% प्रति वर्ष की दर से 2 वर्षों के लिए साधारण ब्याज की गणना करें।",
+      "options": [
+        {
+          "option": "$100"
+        },
+        {
+          "option": "$75"
+        },
+        {
+          "option": "$50",
+          "is_answer": true
+        },
+        {
+          "option": "$25"
+        }
+      ]
+    },
+    {
+      "question": "यदि मूलधन $1000 है और साधारण ब्याज $200 है, तो कुल राशि ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "$200"
+        },
+        {
+          "option": "$1000"
+        },
+        {
+          "option": "$800"
+        },
+        {
+          "option": "$1200",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि साधारण ब्याज $60, मूलधन $200 और समय 2 वर्ष है, तो ब्याज की दर क्या है?",
+      "options": [
+        {
+          "option": "20%"
+        },
+        {
+          "option": "5%"
+        },
+        {
+          "option": "15%",
+          "is_answer": true
+        },
+        {
+          "option": "10%"
+        }
+      ]
+    },
+    {
+      "question": "$1000 पर 5% प्रति वर्ष की दर से $100 ब्याज अर्जित करने में कितना समय लगेगा?",
+      "options": [
+        {
+          "option": "5 years"
+        },
+        {
+          "option": "1 year"
+        },
+        {
+          "option": "2 years",
+          "is_answer": true
+        },
+        {
+          "option": "10 years"
+        }
+      ]
+    },
+    {
+      "question": "$2000 पर 10% की दर से 3 वर्षों के लिए साधारण ब्याज की गणना करें।",
+      "options": [
+        {
+          "option": "$600",
+          "is_answer": true
+        },
+        {
+          "option": "$300"
+        },
+        {
+          "option": "$200"
+        },
+        {
+          "option": "$400"
+        }
+      ]
+    },
+    {
+      "question": "यदि साधारण ब्याज $40, दर 4% और समय 2 वर्ष है, तो मूलधन ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "$1000"
+        },
+        {
+          "option": "$400"
+        },
+        {
+          "option": "$500",
+          "is_answer": true
+        },
+        {
+          "option": "$200"
+        }
+      ]
+    },
+    {
+      "question": "$5000 पर 2% की दर से 1 वर्ष के लिए साधारण ब्याज क्या है?",
+      "options": [
+        {
+          "option": "$200"
+        },
+        {
+          "option": "$50"
+        },
+        {
+          "option": "$100",
+          "is_answer": true
+        },
+        {
+          "option": "$250"
+        }
+      ]
+    },
+    {
+      "question": "यदि कुल राशि $1500 है और मूलधन $1200 है, तो साधारण ब्याज क्या है?",
+      "options": [
+        {
+          "option": "$300",
+          "is_answer": true
+        },
+        {
+          "option": "$1500"
+        },
+        {
+          "option": "$200"
+        },
+        {
+          "option": "$1200"
+        }
+      ]
+    },
+    {
+      "question": "यदि $500 पर 2 वर्षों में $50 ब्याज मिलता है, तो ब्याज की दर ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "10%"
+        },
+        {
+          "option": "4%"
+        },
+        {
+          "option": "2%"
+        },
+        {
+          "option": "5%",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "$800 पर 5% की दर से 4 वर्षों के लिए साधारण ब्याज की गणना करें।",
+      "options": [
+        {
+          "option": "$80"
+        },
+        {
+          "option": "$160",
+          "is_answer": true
+        },
+        {
+          "option": "$40"
+        },
+        {
+          "option": "$200"
+        }
+      ]
+    },
+    {
+      "question": "यदि मूलधन $3000, दर 2% और समय 5 वर्ष है, तो साधारण ब्याज ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "$100"
+        },
+        {
+          "option": "$600"
+        },
+        {
+          "option": "$300",
+          "is_answer": true
+        },
+        {
+          "option": "$150"
+        }
+      ]
+    },
+    {
+      "question": "$2000 पर 3% प्रति वर्ष की दर से 2 वर्षों में कितना ब्याज मिलेगा?",
+      "options": [
+        {
+          "option": "$60"
+        },
+        {
+          "option": "$300"
+        },
+        {
+          "option": "$200"
+        },
+        {
+          "option": "$120",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "$400 को 5% साधारण ब्याज पर $480 होने में कितना समय लगेगा?",
+      "options": [
+        {
+          "option": "4 years",
+          "is_answer": true
+        },
+        {
+          "option": "10 years"
+        },
+        {
+          "option": "2 years"
+        },
+        {
+          "option": "5 years"
+        }
+      ]
+    },
+    {
+      "question": "$1000 पर 4% की दर से 3 वर्षों के लिए कुल राशि की गणना करें।",
+      "options": [
+        {
+          "option": "$1040"
+        },
+        {
+          "option": "$1120",
+          "is_answer": true
+        },
+        {
+          "option": "$120"
+        },
+        {
+          "option": "$1000"
+        }
+      ]
+    },
+    {
+      "question": "यदि साधारण ब्याज $20, मूलधन $100 और समय 1 वर्ष है, तो दर क्या है?",
+      "options": [
+        {
+          "option": "2%"
+        },
+        {
+          "option": "5%"
+        },
+        {
+          "option": "20%",
+          "is_answer": true
+        },
+        {
+          "option": "10%"
+        }
+      ]
+    },
+    {
+      "question": "$600 पर 4% की दर से 2 वर्षों के लिए साधारण ब्याज क्या है?",
+      "options": [
+        {
+          "option": "$48",
+          "is_answer": true
+        },
+        {
+          "option": "$96"
+        },
+        {
+          "option": "$24"
+        },
+        {
+          "option": "$12"
+        }
+      ]
+    },
+    {
+      "question": "यदि साधारण ब्याज $100, दर 5% और समय 4 वर्ष है, तो मूलधन ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "$1000"
+        },
+        {
+          "option": "$250"
+        },
+        {
+          "option": "$200"
+        },
+        {
+          "option": "$500",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "$1500 पर 2% की दर से 3 वर्षों के लिए साधारण ब्याज की गणना करें।",
+      "options": [
+        {
+          "option": "$45"
+        },
+        {
+          "option": "$150"
+        },
+        {
+          "option": "$30"
+        },
+        {
+          "option": "$90",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि $500 पर 1 वर्ष के लिए $50 ब्याज है, तो दर क्या है?",
+      "options": [
+        {
+          "option": "10%",
+          "is_answer": true
+        },
+        {
+          "option": "2%"
+        },
+        {
+          "option": "5%"
+        },
+        {
+          "option": "20%"
+        }
+      ]
+    },
+    {
+      "question": "यदि मूलधन $2000 है और साधारण ब्याज $150 है, तो कुल राशि की गणना करें।",
+      "options": [
+        {
+          "option": "$2200"
+        },
+        {
+          "option": "$150"
+        },
+        {
+          "option": "$2000"
+        },
+        {
+          "option": "$2150",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि विक्रय मूल्य (SP) क्रय मूल्य (CP) से अधिक है, तो क्या होता है?",
+      "options": [
+        {
+          "option": "छूट"
+        },
+        {
+          "option": "लाभ",
+          "is_answer": true
+        },
+        {
+          "option": "हानि"
+        },
+        {
+          "option": "कोई बदलाव नहीं"
+        }
+      ]
+    },
+    {
+      "question": "लाभ का सूत्र क्या है?",
+      "options": [
+        {
+          "option": "CP - SP"
+        },
+        {
+          "option": "SP + CP"
+        },
+        {
+          "option": "CP / SP"
+        },
+        {
+          "option": "SP - CP",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि एक पेन $10 में खरीदा गया और $15 में बेचा गया, तो लाभ कितना है?",
+      "options": [
+        {
+          "option": "$25"
+        },
+        {
+          "option": "$2.5"
+        },
+        {
+          "option": "$10"
+        },
+        {
+          "option": "$5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "हानि का सूत्र क्या है?",
+      "options": [
+        {
+          "option": "CP - SP",
+          "is_answer": true
+        },
+        {
+          "option": "SP / CP"
+        },
+        {
+          "option": "CP + SP"
+        },
+        {
+          "option": "SP - CP"
+        }
+      ]
+    },
+    {
+      "question": "यदि CP = $50 और SP = $40 है, तो हानि कितनी है?",
+      "options": [
+        {
+          "option": "$90"
+        },
+        {
+          "option": "$1.25"
+        },
+        {
+          "option": "$5"
+        },
+        {
+          "option": "$10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "लाभ प्रतिशत की गणना किस मूल्य पर की जाती है?",
+      "options": [
+        {
+          "option": "छूट"
+        },
+        {
+          "option": "क्रय मूल्य",
+          "is_answer": true
+        },
+        {
+          "option": "विक्रय मूल्य"
+        },
+        {
+          "option": "अंकित मूल्य"
+        }
+      ]
+    },
+    {
+      "question": "यदि CP = $100 और लाभ = $20 है, तो लाभ प्रतिशत क्या है?",
+      "options": [
+        {
+          "option": "10%"
+        },
+        {
+          "option": "100%"
+        },
+        {
+          "option": "5%"
+        },
+        {
+          "option": "20%",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "लाभ प्रतिशत का सूत्र क्या है?",
+      "options": [
+        {
+          "option": "(CP / लाभ) * 100"
+        },
+        {
+          "option": "(लाभ / SP) * 100"
+        },
+        {
+          "option": "(SP / लाभ) * 100"
+        },
+        {
+          "option": "(लाभ / CP) * 100",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "छूट की गणना किस मूल्य पर की जाती है?",
+      "options": [
+        {
+          "option": "विक्रय मूल्य"
+        },
+        {
+          "option": "क्रय मूल्य"
+        },
+        {
+          "option": "लाभ"
+        },
+        {
+          "option": "अंकित मूल्य",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि अंकित मूल्य = $200 और छूट = $20 है, तो विक्रय मूल्य क्या है?",
+      "options": [
+        {
+          "option": "$220"
+        },
+        {
+          "option": "$200"
+        },
+        {
+          "option": "$10"
+        },
+        {
+          "option": "$180",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि CP = $200 और हानि = $50 है, तो SP क्या है?",
+      "options": [
+        {
+          "option": "$100"
+        },
+        {
+          "option": "$200"
+        },
+        {
+          "option": "$150",
+          "is_answer": true
+        },
+        {
+          "option": "$250"
+        }
+      ]
+    },
+    {
+      "question": "हानि प्रतिशत का सूत्र क्या है?",
+      "options": [
+        {
+          "option": "(हानि / SP) * 100"
+        },
+        {
+          "option": "(हानि / CP) * 100",
+          "is_answer": true
+        },
+        {
+          "option": "(SP / हानि) * 100"
+        },
+        {
+          "option": "(CP / हानि) * 100"
+        }
+      ]
+    },
+    {
+      "question": "यदि CP = $500 और लाभ प्रतिशत = 10% है, तो लाभ की राशि क्या है?",
+      "options": [
+        {
+          "option": "$5"
+        },
+        {
+          "option": "$50",
+          "is_answer": true
+        },
+        {
+          "option": "$500"
+        },
+        {
+          "option": "$550"
+        }
+      ]
+    },
+    {
+      "question": "यदि SP = $120 और CP = $100 है, तो लाभ क्या है?",
+      "options": [
+        {
+          "option": "$10"
+        },
+        {
+          "option": "$120"
+        },
+        {
+          "option": "$20",
+          "is_answer": true
+        },
+        {
+          "option": "$220"
+        }
+      ]
+    },
+    {
+      "question": "यदि कोई वस्तु क्रय मूल्य पर बेची जाती है, तो लाभ क्या है?",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "100%"
+        },
+        {
+          "option": "निर्धारित नहीं किया जा सकता"
+        },
+        {
+          "option": "10%"
+        }
+      ]
+    },
+    {
+      "question": "इनमें से कौन सा सत्य है?",
+      "options": [
+        {
+          "option": "SP = लाभ - CP"
+        },
+        {
+          "option": "SP = CP + लाभ",
+          "is_answer": true
+        },
+        {
+          "option": "SP = CP + हानि"
+        },
+        {
+          "option": "SP = CP - लाभ"
+        }
+      ]
+    },
+    {
+      "question": "यदि CP = $80 और SP = $80 है, तो परिणाम क्या है?",
+      "options": [
+        {
+          "option": "न लाभ न हानि",
+          "is_answer": true
+        },
+        {
+          "option": "हानि"
+        },
+        {
+          "option": "लाभ"
+        },
+        {
+          "option": "छूट"
+        }
+      ]
+    },
+    {
+      "question": "यदि दुकानदार छूट देता है, तो विक्रय मूल्य होगा?",
+      "options": [
+        {
+          "option": "अंकित मूल्य से कम",
+          "is_answer": true
+        },
+        {
+          "option": "क्रय मूल्य के बराबर"
+        },
+        {
+          "option": "अंकित मूल्य के बराबर"
+        },
+        {
+          "option": "अंकित मूल्य से अधिक"
+        }
+      ]
+    },
+    {
+      "question": "यदि CP = $200 और लाभ = $20 है, तो SP क्या है?",
+      "options": [
+        {
+          "option": "$200"
+        },
+        {
+          "option": "$220",
+          "is_answer": true
+        },
+        {
+          "option": "$240"
+        },
+        {
+          "option": "$180"
+        }
+      ]
+    },
+    {
+      "question": "यदि हानि प्रतिशत = 10% और CP = $100 है, तो हानि की राशि क्या है?",
+      "options": [
+        {
+          "option": "$10",
+          "is_answer": true
+        },
+        {
+          "option": "$90"
+        },
+        {
+          "option": "$100"
+        },
+        {
+          "option": "$1"
+        }
+      ]
+    },
+    {
+      "question": "3:15 बजे घड़ी की घंटे और मिनट की सुइयों के बीच का कोण क्या होता है?",
+      "options": [
+        {
+          "option": "22.5 डिग्री"
+        },
+        {
+          "option": "7.5 डिग्री",
+          "is_answer": true
+        },
+        {
+          "option": "15 डिग्री"
+        },
+        {
+          "option": "0 डिग्री"
+        }
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा वर्ष लीप वर्ष है?",
+      "options": [
+        {
+          "option": "1900"
+        },
+        {
+          "option": "2000",
+          "is_answer": true
+        },
+        {
+          "option": "2100"
+        },
+        {
+          "option": "2200"
+        }
+      ]
+    },
+    {
+      "question": "100 वर्षों में कितने विषम दिन (odd days) होते हैं?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "4 और 5 बजे के बीच किस समय घड़ी की सुइयां एक साथ होती हैं?",
+      "options": [
+        {
+          "option": "4 बजकर 22 मिनट"
+        },
+        {
+          "option": "4 बजकर 25 मिनट"
+        },
+        {
+          "option": "4 बजकर 21 9/11 मिनट",
+          "is_answer": true
+        },
+        {
+          "option": "4 बजकर 20 मिनट"
+        }
+      ]
+    },
+    {
+      "question": "यदि आज सोमवार है, तो 61 दिनों के बाद कौन सा दिन होगा?",
+      "options": [
+        {
+          "option": "रविवार",
+          "is_answer": true
+        },
+        {
+          "option": "मंगलवार"
+        },
+        {
+          "option": "शनिवार"
+        },
+        {
+          "option": "सोमवार"
+        }
+      ]
+    },
+    {
+      "question": "एक दिन में घड़ी की सुइयां कितनी बार एक साथ होती हैं?",
+      "options": [
+        {
+          "option": "11"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "22",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        }
+      ]
+    },
+    {
+      "question": "20 मिनट में मिनट की सुई द्वारा बनाया गया कोण क्या है?",
+      "options": [
+        {
+          "option": "120 डिग्री",
+          "is_answer": true
+        },
+        {
+          "option": "180 डिग्री"
+        },
+        {
+          "option": "90 डिग्री"
+        },
+        {
+          "option": "60 डिग्री"
+        }
+      ]
+    },
+    {
+      "question": "1 जनवरी, 2001 को सप्ताह का कौन सा दिन था?",
+      "options": [
+        {
+          "option": "सोमवार",
+          "is_answer": true
+        },
+        {
+          "option": "बुधवार"
+        },
+        {
+          "option": "मंगलवार"
+        },
+        {
+          "option": "रविवार"
+        }
+      ]
+    },
+    {
+      "question": "400 वर्षों में कितने लीप वर्ष होते हैं?",
+      "options": [
+        {
+          "option": "97",
+          "is_answer": true
+        },
+        {
+          "option": "96"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "98"
+        }
+      ]
+    },
+    {
+      "question": "9:00 बजे घड़ी की सुइयों के बीच का कोण क्या होता है?",
+      "options": [
+        {
+          "option": "180 डिग्री"
+        },
+        {
+          "option": "270 डिग्री"
+        },
+        {
+          "option": "0 डिग्री"
+        },
+        {
+          "option": "90 डिग्री",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि एक वर्ष सोमवार से शुरू होता है, तो वह किस दिन समाप्त होगा (सामान्य वर्ष)?",
+      "options": [
+        {
+          "option": "सोमवार",
+          "is_answer": true
+        },
+        {
+          "option": "बुधवार"
+        },
+        {
+          "option": "मंगलवार"
+        },
+        {
+          "option": "रविवार"
+        }
+      ]
+    },
+    {
+      "question": "एक दिन में कितनी बार घड़ी की सुइयां समकोण पर होती हैं?",
+      "options": [
+        {
+          "option": "44",
+          "is_answer": true
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "22"
+        }
+      ]
+    },
+    {
+      "question": "वर्ष 2005 का कैलेंडर किस वर्ष के समान होगा?",
+      "options": [
+        {
+          "option": "2007"
+        },
+        {
+          "option": "2006"
+        },
+        {
+          "option": "2010"
+        },
+        {
+          "option": "2011",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक लीप वर्ष में कितने विषम दिन (odd days) होते हैं?",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "6:00 बजे सुइयों के बीच का कोण क्या होता है?",
+      "options": [
+        {
+          "option": "0 डिग्री"
+        },
+        {
+          "option": "90 डिग्री"
+        },
+        {
+          "option": "360 डिग्री"
+        },
+        {
+          "option": "180 डिग्री",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "इनमें से कौन सा लीप वर्ष नहीं है?",
+      "options": [
+        {
+          "option": "2000"
+        },
+        {
+          "option": "2004"
+        },
+        {
+          "option": "2008"
+        },
+        {
+          "option": "1900",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक घंटे में मिनट की सुई घंटे की सुई से कितना आगे निकल जाती है?",
+      "options": [
+        {
+          "option": "55 मिनट",
+          "is_answer": true
+        },
+        {
+          "option": "5 मिनट"
+        },
+        {
+          "option": "50 मिनट"
+        },
+        {
+          "option": "60 मिनट"
+        }
+      ]
+    },
+    {
+      "question": "यदि 15 अगस्त 2011 को सोमवार था, तो 15 अगस्त 2012 को कौन सा दिन था?",
+      "options": [
+        {
+          "option": "सोमवार"
+        },
+        {
+          "option": "बुधवार",
+          "is_answer": true
+        },
+        {
+          "option": "गुरुवार"
+        },
+        {
+          "option": "मंगलवार"
+        }
+      ]
+    },
+    {
+      "question": "12 घंटों में घंटे की सुई द्वारा बनाया गया कोण क्या है?",
+      "options": [
+        {
+          "option": "180 डिग्री"
+        },
+        {
+          "option": "90 डिग्री"
+        },
+        {
+          "option": "360 डिग्री",
+          "is_answer": true
+        },
+        {
+          "option": "720 डिग्री"
+        }
+      ]
+    },
+    {
+      "question": "300 वर्षों में कितने विषम दिन (odd days) होते हैं?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "25 का वर्ग शॉर्टकट (n(n+1) और उसके बाद 25) का उपयोग करके क्या होगा?",
+      "options": [
+        {
+          "option": "525"
+        },
+        {
+          "option": "425"
+        },
+        {
+          "option": "725"
+        },
+        {
+          "option": "625",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "वैदिक शॉर्टकट का उपयोग करके 35 का वर्ग ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "1225",
+          "is_answer": true
+        },
+        {
+          "option": "1325"
+        },
+        {
+          "option": "1125"
+        },
+        {
+          "option": "1025"
+        }
+      ]
+    },
+    {
+      "question": "45 का वर्ग क्या होगा?",
+      "options": [
+        {
+          "option": "1925"
+        },
+        {
+          "option": "2025",
+          "is_answer": true
+        },
+        {
+          "option": "1825"
+        },
+        {
+          "option": "2125"
+        }
+      ]
+    },
+    {
+      "question": "वर्टिकली और क्रॉसवाइज पद्धति का उपयोग करके 12 x 13 कितना होगा?",
+      "options": [
+        {
+          "option": "146"
+        },
+        {
+          "option": "156",
+          "is_answer": true
+        },
+        {
+          "option": "136"
+        },
+        {
+          "option": "166"
+        }
+      ]
+    },
+    {
+      "question": "55 का वर्ग क्या होगा?",
+      "options": [
+        {
+          "option": "2925"
+        },
+        {
+          "option": "2825"
+        },
+        {
+          "option": "3125"
+        },
+        {
+          "option": "3025",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "मानसिक गणित का उपयोग करके 11 x 14 की गणना करें।",
+      "options": [
+        {
+          "option": "154",
+          "is_answer": true
+        },
+        {
+          "option": "144"
+        },
+        {
+          "option": "134"
+        },
+        {
+          "option": "164"
+        }
+      ]
+    },
+    {
+      "question": "65 का वर्ग क्या होगा?",
+      "options": [
+        {
+          "option": "4125"
+        },
+        {
+          "option": "4325"
+        },
+        {
+          "option": "4225",
+          "is_answer": true
+        },
+        {
+          "option": "4025"
+        }
+      ]
+    },
+    {
+      "question": "वैदिक गुणा का उपयोग करके 21 x 22 कितना होगा?",
+      "options": [
+        {
+          "option": "422"
+        },
+        {
+          "option": "482"
+        },
+        {
+          "option": "462",
+          "is_answer": true
+        },
+        {
+          "option": "442"
+        }
+      ]
+    },
+    {
+      "question": "75 का वर्ग क्या होगा?",
+      "options": [
+        {
+          "option": "5625",
+          "is_answer": true
+        },
+        {
+          "option": "5725"
+        },
+        {
+          "option": "5425"
+        },
+        {
+          "option": "5525"
+        }
+      ]
+    },
+    {
+      "question": "13 x 12 की मानसिक गणना करें।",
+      "options": [
+        {
+          "option": "156",
+          "is_answer": true
+        },
+        {
+          "option": "136"
+        },
+        {
+          "option": "146"
+        },
+        {
+          "option": "166"
+        }
+      ]
+    },
+    {
+      "question": "85 का वर्ग क्या होगा?",
+      "options": [
+        {
+          "option": "7325"
+        },
+        {
+          "option": "7025"
+        },
+        {
+          "option": "7225",
+          "is_answer": true
+        },
+        {
+          "option": "7125"
+        }
+      ]
+    },
+    {
+      "question": "क्रॉसवाइज पद्धति का उपयोग करके 23 x 11 कितना होगा?",
+      "options": [
+        {
+          "option": "263"
+        },
+        {
+          "option": "243"
+        },
+        {
+          "option": "253",
+          "is_answer": true
+        },
+        {
+          "option": "233"
+        }
+      ]
+    },
+    {
+      "question": "95 का वर्ग क्या होगा?",
+      "options": [
+        {
+          "option": "8925"
+        },
+        {
+          "option": "8825"
+        },
+        {
+          "option": "9125"
+        },
+        {
+          "option": "9025",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "15 x 11 की मानसिक गणना करें।",
+      "options": [
+        {
+          "option": "165",
+          "is_answer": true
+        },
+        {
+          "option": "155"
+        },
+        {
+          "option": "145"
+        },
+        {
+          "option": "175"
+        }
+      ]
+    },
+    {
+      "question": "105 का वर्ग क्या होगा?",
+      "options": [
+        {
+          "option": "11125"
+        },
+        {
+          "option": "10825"
+        },
+        {
+          "option": "11025",
+          "is_answer": true
+        },
+        {
+          "option": "10925"
+        }
+      ]
+    },
+    {
+      "question": "वैदिक गणित का उपयोग करके 14 x 12 कितना होगा?",
+      "options": [
+        {
+          "option": "158"
+        },
+        {
+          "option": "168",
+          "is_answer": true
+        },
+        {
+          "option": "178"
+        },
+        {
+          "option": "148"
+        }
+      ]
+    },
+    {
+      "question": "115 का वर्ग क्या होगा?",
+      "options": [
+        {
+          "option": "13025"
+        },
+        {
+          "option": "13225",
+          "is_answer": true
+        },
+        {
+          "option": "13325"
+        },
+        {
+          "option": "13125"
+        }
+      ]
+    },
+    {
+      "question": "22 x 12 की मानसिक गणना करें।",
+      "options": [
+        {
+          "option": "244"
+        },
+        {
+          "option": "274"
+        },
+        {
+          "option": "264",
+          "is_answer": true
+        },
+        {
+          "option": "254"
+        }
+      ]
+    },
+    {
+      "question": "125 का वर्ग क्या होगा?",
+      "options": [
+        {
+          "option": "15425"
+        },
+        {
+          "option": "15625",
+          "is_answer": true
+        },
+        {
+          "option": "15525"
+        },
+        {
+          "option": "15725"
+        }
+      ]
+    },
+    {
+      "question": "शॉर्टकट का उपयोग करके 31 x 11 कितना होगा?",
+      "options": [
+        {
+          "option": "351"
+        },
+        {
+          "option": "321"
+        },
+        {
+          "option": "341",
+          "is_answer": true
+        },
+        {
+          "option": "331"
+        }
+      ]
+    },
+    {
+      "question": "बाइनरी संख्या 1011 का दशमलव मान क्या है?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "13"
+        },
+        {
+          "option": "11",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "दशमलव संख्या 15 को हेक्साडेसिमल में बदलें।",
+      "options": [
+        {
+          "option": "D"
+        },
+        {
+          "option": "E"
+        },
+        {
+          "option": "F",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "दशमलव संख्या 8 का ऑक्टल रूप क्या है?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा दशमलव 5 का बाइनरी रूप है?",
+      "options": [
+        {
+          "option": "101",
+          "is_answer": true
+        },
+        {
+          "option": "111"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "110"
+        }
+      ]
+    },
+    {
+      "question": "दशमलव 16 का हेक्साडेसिमल मान क्या है?",
+      "options": [
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "11"
+        },
+        {
+          "option": "F"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "बाइनरी 110 को दशमलव में बदलें।",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "ऑक्टल 12 का दशमलव मान क्या है?",
+      "options": [
+        {
+          "option": "14"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "ऑक्टल संख्या प्रणाली में किस अंक का उपयोग नहीं किया जाता है?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "दशमलव 3 का बाइनरी रूप क्या है?",
+      "options": [
+        {
+          "option": "11",
+          "is_answer": true
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "01"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "हेक्साडेसिमल 1A को दशमलव में बदलें।",
+      "options": [
+        {
+          "option": "16"
+        },
+        {
+          "option": "26",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "36"
+        }
+      ]
+    },
+    {
+      "question": "बाइनरी 111 का ऑक्टल मान क्या है?",
+      "options": [
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "हेक्साडेसिमल प्रणाली में किस आधार (base) का उपयोग किया जाता है?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "दशमलव 20 को बाइनरी में बदलें।",
+      "options": [
+        {
+          "option": "10101"
+        },
+        {
+          "option": "10010"
+        },
+        {
+          "option": "11000"
+        },
+        {
+          "option": "10100",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "हेक्साडेसिमल F का दशमलव मान क्या है?",
+      "options": [
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "ऑक्टल 4 का बाइनरी मान क्या है?",
+      "options": [
+        {
+          "option": "100",
+          "is_answer": true
+        },
+        {
+          "option": "011"
+        },
+        {
+          "option": "010"
+        },
+        {
+          "option": "101"
+        }
+      ]
+    },
+    {
+      "question": "दशमलव 9 को ऑक्टल में बदलें।",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "11",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "बाइनरी 1000 का दशमलव मान क्या है?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "हेक्साडेसिमल में कौन सा प्रतीक 10 का प्रतिनिधित्व करता है?",
+      "options": [
+        {
+          "option": "A",
+          "is_answer": true
+        },
+        {
+          "option": "D"
+        },
+        {
+          "option": "C"
+        },
+        {
+          "option": "B"
+        }
+      ]
+    },
+    {
+      "question": "बाइनरी 101 को दशमलव में बदलें।",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "बाइनरी संख्या प्रणाली का आधार (base) क्या है?",
+      "options": [
+        {
+          "option": "16"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "यदि 10 श्रमिक 2 दिनों में 5 दीवारें बना सकते हैं, तो 20 श्रमिक 4 दिनों में कितनी दीवारें बना सकते हैं?",
+      "options": [
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "यदि 5 मशीनें 5 घंटों में 50 इकाइयां बनाती हैं, तो 1 मशीन 1 घंटे में कितनी इकाइयां बनाएगी?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "यदि 8 पुरुष 10 दिनों में एक कार्य पूरा कर सकते हैं, तो 5 दिनों में इसे पूरा करने के लिए कितने पुरुषों की आवश्यकता होगी?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "यदि 12 श्रमिक 6 दिनों में एक परियोजना पूरी कर सकते हैं, तो 18 श्रमिक उसी परियोजना को पूरा करने में कितने दिन लेंगे?",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "यदि 3 प्रिंटर 3 मिनट में 300 पृष्ठ छापते हैं, तो 1 प्रिंटर 1 मिनट में कितने पृष्ठ छापेगा?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "50"
+        },
+        {
+          "option": "300"
+        },
+        {
+          "option": "100",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि 4 दर्जी 4 दिनों में 16 शर्ट सिलते हैं, तो 1 दर्जी 1 दिन में कितनी शर्ट सिलेगा?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "यदि 6 पाइप 20 मिनट में एक टैंक भरते हैं, तो 4 पाइप उसी टैंक को भरने में कितना समय लेंगे?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "30",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि 20 पुरुष 5 दिनों में 40 मीटर खाई खोद सकते हैं, तो 10 पुरुष 5 दिनों में कितने मीटर खोद सकते हैं?",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "40"
+        }
+      ]
+    },
+    {
+      "question": "यदि 7 श्रमिक 7 दिनों में $700 कमाते हैं, तो 1 श्रमिक 1 दिन में कितना कमाएगा?",
+      "options": [
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "70"
+        }
+      ]
+    },
+    {
+      "question": "यदि 5 रसोइए 3 घंटों में 15 भोजन तैयार करते हैं, तो 1 रसोइया 1 घंटे में कितना भोजन तैयार करेगा?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि 9 मशीनें 9 दिनों में 900 खिलौने बनाती हैं, तो 1 मशीन 1 दिन में कितने खिलौने बनाएगी?",
+      "options": [
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "90"
+        }
+      ]
+    },
+    {
+      "question": "यदि 15 छात्र 15 दिनों में 15 पुस्तकें पढ़ते हैं, तो 1 छात्र 1 दिन में कितनी पुस्तकें पढ़ेगा?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "1/15",
+          "is_answer": true
+        },
+        {
+          "option": "225"
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "यदि 2 किसान 2 दिनों में 2 एकड़ जमीन जोतते हैं, तो 4 किसान 4 दिनों में कितनी एकड़ जमीन जोतेंगे?",
+      "options": [
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "यदि 3 बिल्लियाँ 3 मिनट में 3 चूहे पकड़ती हैं, तो 100 मिनट में 100 चूहे पकड़ने के लिए कितनी बिल्लियों की आवश्यकता होगी?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "100"
+        }
+      ]
+    },
+    {
+      "question": "यदि 5 लोग 5 घंटों में 5 कमरे पेंट कर सकते हैं, तो 1 व्यक्ति को 1 कमरा पेंट करने में कितने घंटे लगेंगे?",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "यदि 10 पुरुष 12 दिनों में एक काम कर सकते हैं, तो 15 दिनों में वही काम करने के लिए कितने पुरुषों की आवश्यकता होगी?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "यदि 4 बुनकर 4 दिनों में 4 चटाइयाँ बुनते हैं, तो 8 बुनकर 8 दिनों में कितनी चटाइयाँ बुनेंगे?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "यदि 20 श्रमिक 10 दिनों में 10 घर बनाते हैं, तो 10 श्रमिक 20 दिनों में कितने घर बनाएंगे?",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "यदि 6 क्लर्क 6 मिनट में 6 पृष्ठ टाइप कर सकते हैं, तो 1 क्लर्क 6 मिनट में कितने पृष्ठ टाइप करेगा?",
+      "options": [
+        {
+          "option": "36"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "0.5"
+        }
+      ]
+    },
+    {
+      "question": "यदि 12 घोड़े 12 दिनों में 12 बोरी मक्का खाते हैं, तो 1 घोड़ा 1 दिन में कितनी बोरी खाएगा?",
+      "options": [
+        {
+          "option": "1/12",
+          "is_answer": true
+        },
+        {
+          "option": "144"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "$4.80/kg वाले चावल को $5.40/kg वाले चावल के साथ किस अनुपात में मिलाया जाए ताकि मिश्रण का मूल्य $5.10/kg हो जाए?",
+      "options": [
+        {
+          "option": "2:3"
+        },
+        {
+          "option": "3:4"
+        },
+        {
+          "option": "1:2"
+        },
+        {
+          "option": "1:1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक व्यापारी $20 और $30 प्रति किलो वाली दो प्रकार की चाय मिलाता है। यदि मिश्रण $26 प्रति किलो पर बेचा जाता है, तो दोनों प्रकार का अनुपात क्या है?",
+      "options": [
+        {
+          "option": "1:2"
+        },
+        {
+          "option": "3:4"
+        },
+        {
+          "option": "2:3",
+          "is_answer": true
+        },
+        {
+          "option": "1:1"
+        }
+      ]
+    },
+    {
+      "question": "$9/kg वाली कितनी चीनी को $7/kg वाली 27 किलो चीनी के साथ मिलाया जाए ताकि मिश्रण का मूल्य $8.50/kg हो जाए?",
+      "options": [
+        {
+          "option": "60kg"
+        },
+        {
+          "option": "81kg",
+          "is_answer": true
+        },
+        {
+          "option": "70kg"
+        },
+        {
+          "option": "90kg"
+        }
+      ]
+    },
+    {
+      "question": "एक बर्तन में 40 लीटर दूध है। 4 लीटर दूध को पानी से बदल दिया जाता है। यह प्रक्रिया एक बार और दोहराई जाती है। कितना दूध शेष बचेगा?",
+      "options": [
+        {
+          "option": "36 लीटर"
+        },
+        {
+          "option": "35 लीटर"
+        },
+        {
+          "option": "30 लीटर"
+        },
+        {
+          "option": "32.4 लीटर",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "दो बर्तनों में दूध और पानी का अनुपात 3:2 और 4:1 है। यदि उन्हें समान मात्रा में मिलाया जाए, तो दूध और पानी का अंतिम अनुपात क्या होगा?",
+      "options": [
+        {
+          "option": "6:1"
+        },
+        {
+          "option": "5:2"
+        },
+        {
+          "option": "7:3",
+          "is_answer": true
+        },
+        {
+          "option": "4:3"
+        }
+      ]
+    },
+    {
+      "question": "एक मिश्रण में अल्कोहल और पानी का अनुपात 4:3 है। यदि 7 लीटर पानी मिलाया जाता है, तो अनुपात 4:5 हो जाता है। अल्कोहल की मात्रा कितनी है?",
+      "options": [
+        {
+          "option": "12 लीटर"
+        },
+        {
+          "option": "10 लीटर"
+        },
+        {
+          "option": "14 लीटर",
+          "is_answer": true
+        },
+        {
+          "option": "16 लीटर"
+        }
+      ]
+    },
+    {
+      "question": "$12/लीटर वाले दूध में पानी किस अनुपात में मिलाया जाए ताकि मिश्रण को $12/लीटर पर बेचने पर 20% का लाभ हो?",
+      "options": [
+        {
+          "option": "1:6"
+        },
+        {
+          "option": "2:5"
+        },
+        {
+          "option": "1:5",
+          "is_answer": true
+        },
+        {
+          "option": "1:4"
+        }
+      ]
+    },
+    {
+      "question": "वाइन और पानी के 150 लीटर के मिश्रण में 20% पानी है। पानी को 25% बनाने के लिए कितना पानी मिलाया जाना चाहिए?",
+      "options": [
+        {
+          "option": "10 लीटर",
+          "is_answer": true
+        },
+        {
+          "option": "25 लीटर"
+        },
+        {
+          "option": "20 लीटर"
+        },
+        {
+          "option": "15 लीटर"
+        }
+      ]
+    },
+    {
+      "question": "दो मिश्र धातुओं में तांबा और टिन का अनुपात 1:3 और 2:1 है। 3:5 के अनुपात में तांबा और टिन प्राप्त करने के लिए उन्हें किस अनुपात में मिलाया जाना चाहिए?",
+      "options": [
+        {
+          "option": "3:2"
+        },
+        {
+          "option": "2:3"
+        },
+        {
+          "option": "2:1",
+          "is_answer": true
+        },
+        {
+          "option": "1:2"
+        }
+      ]
+    },
+    {
+      "question": "एक पंसारी $15 और $20 प्रति किलो वाली दालों की दो किस्में मिलाता है। यदि वह मिश्रण को $18 प्रति किलो पर बेचता है, तो मिश्रण का अनुपात क्या है?",
+      "options": [
+        {
+          "option": "1:2"
+        },
+        {
+          "option": "1:3"
+        },
+        {
+          "option": "3:2"
+        },
+        {
+          "option": "2:3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "$1.5/लीटर वाले 60 लीटर दूध में कितना पानी मिलाया जाए ताकि मिश्रण की लागत $1.2/लीटर हो जाए?",
+      "options": [
+        {
+          "option": "20 लीटर"
+        },
+        {
+          "option": "10 लीटर"
+        },
+        {
+          "option": "12 लीटर"
+        },
+        {
+          "option": "15 लीटर",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "दूध और पानी के 40 लीटर के मिश्रण में 10% पानी है। इसे 20% पानी बनाने के लिए कितना पानी मिलाया जाना चाहिए?",
+      "options": [
+        {
+          "option": "4 लीटर"
+        },
+        {
+          "option": "6 लीटर"
+        },
+        {
+          "option": "5 लीटर",
+          "is_answer": true
+        },
+        {
+          "option": "8 लीटर"
+        }
+      ]
+    },
+    {
+      "question": "एक बर्तन में तरल A और B का अनुपात 5:1 है। यदि 9 लीटर मिश्रण निकालकर तरल B से बदल दिया जाए, तो अनुपात 1:1 हो जाता है। A की प्रारंभिक मात्रा क्या थी?",
+      "options": [
+        {
+          "option": "12 लीटर"
+        },
+        {
+          "option": "15 लीटर",
+          "is_answer": true
+        },
+        {
+          "option": "20 लीटर"
+        },
+        {
+          "option": "10 लीटर"
+        }
+      ]
+    },
+    {
+      "question": "चीनी और रेत के मिश्रण में 10% चीनी है। इस मिश्रण के 50 किलो में कितनी चीनी मिलाई जानी चाहिए ताकि यह 20% चीनी बन जाए?",
+      "options": [
+        {
+          "option": "6.25 किलो",
+          "is_answer": true
+        },
+        {
+          "option": "10 किलो"
+        },
+        {
+          "option": "5 किलो"
+        },
+        {
+          "option": "7.5 किलो"
+        }
+      ]
+    },
+    {
+      "question": "एक बर्तन में 100 लीटर वाइन है। 10 लीटर निकालकर पानी मिलाया जाता है। यह प्रक्रिया दो बार की जाती है। वाइन की अंतिम मात्रा क्या है?",
+      "options": [
+        {
+          "option": "90 लीटर"
+        },
+        {
+          "option": "81 लीटर",
+          "is_answer": true
+        },
+        {
+          "option": "85 लीटर"
+        },
+        {
+          "option": "80 लीटर"
+        }
+      ]
+    },
+    {
+      "question": "एक पंसारी को $60/kg और $120/kg वाली चाय को किस अनुपात में मिलाना चाहिए ताकि मिश्रण को $100/kg पर बेचा जा सके?",
+      "options": [
+        {
+          "option": "1:3"
+        },
+        {
+          "option": "2:3"
+        },
+        {
+          "option": "3:4"
+        },
+        {
+          "option": "1:2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक मिश्रण में दूध और पानी का अनुपात 7:5 है। यदि 15 लीटर पानी मिलाया जाता है, तो अनुपात 7:8 हो जाता है। दूध की कुल मात्रा क्या है?",
+      "options": [
+        {
+          "option": "25 लीटर"
+        },
+        {
+          "option": "40 लीटर"
+        },
+        {
+          "option": "35 लीटर",
+          "is_answer": true
+        },
+        {
+          "option": "30 लीटर"
+        }
+      ]
+    },
+    {
+      "question": "दो प्रकार की मिश्र धातुओं में सोना और चांदी 7:22 और 21:37 के अनुपात में है। 25:62 के अनुपात में सोना और चांदी प्राप्त करने के लिए उन्हें किस अनुपात में मिलाया जाना चाहिए?",
+      "options": [
+        {
+          "option": "1:2"
+        },
+        {
+          "option": "4:5"
+        },
+        {
+          "option": "2:3"
+        },
+        {
+          "option": "3:4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "दूध और पानी के 80 लीटर के मिश्रण में 10% पानी है। पानी को 5% बनाने के लिए कितना दूध मिलाया जाना चाहिए?",
+      "options": [
+        {
+          "option": "80 लीटर",
+          "is_answer": true
+        },
+        {
+          "option": "40 लीटर"
+        },
+        {
+          "option": "60 लीटर"
+        },
+        {
+          "option": "50 लीटर"
+        }
+      ]
+    },
+    {
+      "question": "एक व्यापारी के पास 1000 किलो चीनी है, जिसका कुछ हिस्सा वह 8% लाभ पर और शेष 18% लाभ पर बेचता है। उसे कुल 14% का लाभ होता है। 8% लाभ पर बेची गई मात्रा क्या है?",
+      "options": [
+        {
+          "option": "400 किलो",
+          "is_answer": true
+        },
+        {
+          "option": "300 किलो"
+        },
+        {
+          "option": "500 किलो"
+        },
+        {
+          "option": "600 किलो"
+        }
+      ]
+    },
+    {
+      "question": "एक दुकानदार के पास 200 किलो चावल है। वह 1/4 हिस्सा 10% लाभ पर बेचता है और बाकी लागत मूल्य पर। यदि वह कुल स्टॉक का 1/4 हिस्सा बेचता है, तो कुल लाभ किलो में कितना होगा?",
+      "options": [
+        {
+          "option": "10 किलो"
+        },
+        {
+          "option": "20 किलो"
+        },
+        {
+          "option": "2 किलो"
+        },
+        {
+          "option": "5 किलो",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि 50 छात्रों की कक्षा में 3/5 लड़कियां हैं, और 20% लड़कियां चश्मा पहनती हैं, तो कितनी लड़कियां चश्मा पहनती हैं?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "एक कर्मचारी प्रति सप्ताह $800 कमाता है। वह 1/2 किराए पर और शेष का 25% भोजन पर खर्च करता है। कितने पैसे बचते हैं?",
+      "options": [
+        {
+          "option": "$400"
+        },
+        {
+          "option": "$300",
+          "is_answer": true
+        },
+        {
+          "option": "$100"
+        },
+        {
+          "option": "$200"
+        }
+      ]
+    },
+    {
+      "question": "एक टैंक 2/3 भरा हुआ है। यदि 30 लीटर और डाला जाए, तो यह 4/5 भर जाता है। टैंक की कुल क्षमता क्या है?",
+      "options": [
+        {
+          "option": "300 लीटर"
+        },
+        {
+          "option": "100 लीटर"
+        },
+        {
+          "option": "150 लीटर"
+        },
+        {
+          "option": "225 लीटर",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक किताब में 400 पन्ने हैं। आपने सोमवार को 1/4 और मंगलवार को शेष का 20% पढ़ा। कितने पन्ने पढ़ने बाकी हैं?",
+      "options": [
+        {
+          "option": "100 पन्ने"
+        },
+        {
+          "option": "80 पन्ने"
+        },
+        {
+          "option": "240 पन्ने",
+          "is_answer": true
+        },
+        {
+          "option": "300 पन्ने"
+        }
+      ]
+    },
+    {
+      "question": "एक फल विक्रेता के पास 120 सेब हैं। वह 1/3 को $2 प्रति सेब और शेष के 1/2 को $3 प्रति सेब बेचता है। उसकी कुल आय क्या है?",
+      "options": [
+        {
+          "option": "$180"
+        },
+        {
+          "option": "$240"
+        },
+        {
+          "option": "$200",
+          "is_answer": true
+        },
+        {
+          "option": "$120"
+        }
+      ]
+    },
+    {
+      "question": "एक कार 3/4 घंटे में 60 किमी की यात्रा करती है। उसी गति से 2 घंटे में वह कितनी दूर जाएगी?",
+      "options": [
+        {
+          "option": "80 किमी"
+        },
+        {
+          "option": "120 किमी"
+        },
+        {
+          "option": "200 किमी"
+        },
+        {
+          "option": "160 किमी",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक रेसिपी के लिए 4 लोगों के लिए 2/5 किलो आटे की आवश्यकता होती है। 10 लोगों के लिए कितने आटे की आवश्यकता होगी?",
+      "options": [
+        {
+          "option": "1 किलो",
+          "is_answer": true
+        },
+        {
+          "option": "0.5 किलो"
+        },
+        {
+          "option": "0.8 किलो"
+        },
+        {
+          "option": "2 किलो"
+        }
+      ]
+    },
+    {
+      "question": "एक शर्ट की कीमत $50 है। उस पर 20% की छूट दी जाती है और फिर रियायती मूल्य पर 10% कर जोड़ा जाता है। अंतिम मूल्य क्या है?",
+      "options": [
+        {
+          "option": "$55"
+        },
+        {
+          "option": "$44",
+          "is_answer": true
+        },
+        {
+          "option": "$40"
+        },
+        {
+          "option": "$45"
+        }
+      ]
+    },
+    {
+      "question": "यदि किसी संख्या का 1/5 भाग 20 है, तो उस संख्या का 50% क्या होगा?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "50",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक बैग में 80 कंचे हैं। 1/4 लाल हैं, 25% नीले हैं, और बाकी हरे हैं। कितने हरे कंचे हैं?",
+      "options": [
+        {
+          "option": "60"
+        },
+        {
+          "option": "40",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "एक ट्रेन 4 घंटे में 300 किमी की यात्रा करती है। यदि वह अपनी गति 25% बढ़ा देती है, तो उसे उतनी ही दूरी तय करने में कितना समय लगेगा?",
+      "options": [
+        {
+          "option": "5 घंटे"
+        },
+        {
+          "option": "4 घंटे"
+        },
+        {
+          "option": "3.2 घंटे",
+          "is_answer": true
+        },
+        {
+          "option": "3 घंटे"
+        }
+      ]
+    },
+    {
+      "question": "एक व्यक्ति अपनी मासिक आय का 15% बचाता है। यदि वह प्रति माह $300 बचाता है, तो उसकी वार्षिक आय क्या है?",
+      "options": [
+        {
+          "option": "$30,000"
+        },
+        {
+          "option": "$2,000"
+        },
+        {
+          "option": "$24,000",
+          "is_answer": true
+        },
+        {
+          "option": "$15,000"
+        }
+      ]
+    },
+    {
+      "question": "40 लीटर के मिश्रण में दूध और पानी का अनुपात 3:1 है। अनुपात 2:1 करने के लिए कितना पानी मिलाया जाना चाहिए?",
+      "options": [
+        {
+          "option": "20 लीटर"
+        },
+        {
+          "option": "15 लीटर"
+        },
+        {
+          "option": "5 लीटर"
+        },
+        {
+          "option": "10 लीटर",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक आयत की लंबाई 10 सेमी और चौड़ाई उसकी लंबाई की 1/2 है। यदि लंबाई 20% बढ़ा दी जाए, तो नया क्षेत्रफल क्या होगा?",
+      "options": [
+        {
+          "option": "72 वर्ग सेमी"
+        },
+        {
+          "option": "60 वर्ग सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "50 वर्ग सेमी"
+        },
+        {
+          "option": "55 वर्ग सेमी"
+        }
+      ]
+    },
+    {
+      "question": "एक कर्मचारी 10 दिनों में काम पूरा कर सकता है। दूसरा कर्मचारी इसे 15 दिनों में पूरा कर सकता है। यदि वे एक साथ काम करें तो कितना समय लगेगा?",
+      "options": [
+        {
+          "option": "8 दिन"
+        },
+        {
+          "option": "5 दिन"
+        },
+        {
+          "option": "12 दिन"
+        },
+        {
+          "option": "6 दिन",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक स्टोर 25% की छूट के बाद जैकेट $120 में बेचता है। मूल कीमत क्या थी?",
+      "options": [
+        {
+          "option": "$145"
+        },
+        {
+          "option": "$150"
+        },
+        {
+          "option": "$160",
+          "is_answer": true
+        },
+        {
+          "option": "$180"
+        }
+      ]
+    },
+    {
+      "question": "एक कार 60 किमी के लिए 5 लीटर ईंधन का उपयोग करती है। 150 किमी के लिए कितने ईंधन की आवश्यकता है?",
+      "options": [
+        {
+          "option": "10 लीटर"
+        },
+        {
+          "option": "15 लीटर"
+        },
+        {
+          "option": "20 लीटर"
+        },
+        {
+          "option": "12.5 लीटर",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "$1000 की राशि A और B के बीच 2:3 के अनुपात में विभाजित की जाती है। B को कितना मिलता है?",
+      "options": [
+        {
+          "option": "$500"
+        },
+        {
+          "option": "$300"
+        },
+        {
+          "option": "$400"
+        },
+        {
+          "option": "$600",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि किसी संख्या का 40% 80 है, तो उस संख्या का 1/4 क्या होगा?",
+      "options": [
+        {
+          "option": "100"
+        },
+        {
+          "option": "200"
+        },
+        {
+          "option": "50",
+          "is_answer": true
+        },
+        {
+          "option": "40"
+        }
+      ]
+    }
+  ]
+}

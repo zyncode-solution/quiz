@@ -1,0 +1,9005 @@
+{
+  "total_questions": 500,
+  "questions": [
+    {
+      "question": "What is the formula for permutations of n objects taken r at a time?",
+      "options": [
+        {
+          "option": "n! / (n - r)!",
+          "is_answer": true
+        },
+        {
+          "option": "r! / (n - r)!"
+        },
+        {
+          "option": "n! / (n + r)!"
+        },
+        {
+          "option": "n! / r!"
+        }
+      ]
+    },
+    {
+      "question": "Calculate 5P2.",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of 4P4?",
+      "options": [
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate 6P1.",
+      "options": [
+        {
+          "option": "36"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of 0!?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "undefined"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "Calculate 3P3.",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can you arrange 3 letters from the word 'CAT'?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is 7P2?",
+      "options": [
+        {
+          "option": "49"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "42",
+          "is_answer": true
+        },
+        {
+          "option": "14"
+        }
+      ]
+    },
+    {
+      "question": "If nPr = 720 and n = 6, what is r?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of 5P0?",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate 8P3.",
+      "options": [
+        {
+          "option": "336",
+          "is_answer": true
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "512"
+        },
+        {
+          "option": "24"
+        }
+      ]
+    },
+    {
+      "question": "Which condition must be true for nPr?",
+      "options": [
+        {
+          "option": "n >= r",
+          "is_answer": true
+        },
+        {
+          "option": "r > n"
+        },
+        {
+          "option": "r < 0"
+        },
+        {
+          "option": "n < 0"
+        }
+      ]
+    },
+    {
+      "question": "Calculate 10P2.",
+      "options": [
+        {
+          "option": "80"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "90",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "What is the result of 4P3?",
+      "options": [
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "64"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 2 people sit in 5 chairs?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "What is 6P3?",
+      "options": [
+        {
+          "option": "216"
+        },
+        {
+          "option": "120",
+          "is_answer": true
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate 9P2.",
+      "options": [
+        {
+          "option": "72",
+          "is_answer": true
+        },
+        {
+          "option": "81"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of nPn?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "n!",
+          "is_answer": true
+        },
+        {
+          "option": "n"
+        }
+      ]
+    },
+    {
+      "question": "Calculate 5P4.",
+      "options": [
+        {
+          "option": "120",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "60"
+        }
+      ]
+    },
+    {
+      "question": "If nP1 = 12, what is n?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of 5C2?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate 6C3.",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of nCn?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "n"
+        },
+        {
+          "option": "n!"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of 4C0?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "Which property is equivalent to nCr?",
+      "options": [
+        {
+          "option": "n!/r!"
+        },
+        {
+          "option": "nCr-1"
+        },
+        {
+          "option": "nC(r+1)"
+        },
+        {
+          "option": "nC(n-r)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Calculate 7C2.",
+      "options": [
+        {
+          "option": "42"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "21",
+          "is_answer": true
+        },
+        {
+          "option": "14"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of 5C4?",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of 10C1?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "If nCr + nC(r-1) = x, what is x?",
+      "options": [
+        {
+          "option": "nC(r+1)"
+        },
+        {
+          "option": "(n+1)C(r+1)"
+        },
+        {
+          "option": "(n+1)Cr",
+          "is_answer": true
+        },
+        {
+          "option": "nCr"
+        }
+      ]
+    },
+    {
+      "question": "What is 8C3?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "56",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of 3C2?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "Calculate 9C8.",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "72"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of 4C2?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is 5C5?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "If 10Cr = 10C4, what is r?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "4 or 6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is 6C2?",
+      "options": [
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "What is 7C1?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "49"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Evaluate 5C3.",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of 6C4?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "What is 3C3?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate 4!.",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "Simplify 5! / 3!.",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which property represents n!?",
+      "options": [
+        {
+          "option": "n * (n-1)!",
+          "is_answer": true
+        },
+        {
+          "option": "n * n!"
+        },
+        {
+          "option": "(n-1) * n!"
+        },
+        {
+          "option": "n! + 1"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of 3! + 2!?",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "Solve for n: n! = 120.",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of 6! / 5!?",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "Calculate 3! * 2!.",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is equal to 0! + 1! + 2!?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is (n+1)! / n!?",
+      "options": [
+        {
+          "option": "n!"
+        },
+        {
+          "option": "n"
+        },
+        {
+          "option": "n+1",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate 7! / 6!.",
+      "options": [
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "42"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "What is 4! - 3!?",
+      "options": [
+        {
+          "option": "18",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "21"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "Find the value of 5!.",
+      "options": [
+        {
+          "option": "120",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "720"
+        }
+      ]
+    },
+    {
+      "question": "Which expression is equivalent to n * (n-1) * (n-2)!?",
+      "options": [
+        {
+          "option": "(n-1)!"
+        },
+        {
+          "option": "n!",
+          "is_answer": true
+        },
+        {
+          "option": "(n-2)!"
+        },
+        {
+          "option": "n * (n-2)!"
+        }
+      ]
+    },
+    {
+      "question": "What is 2! * 3! * 0!?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "If n! = 24, what is n?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "What is 10! / 9!?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "90"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate (4! + 1).",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "121"
+        },
+        {
+          "option": "25",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which is the correct property?",
+      "options": [
+        {
+          "option": "(n+1)! = (n+1) * n!",
+          "is_answer": true
+        },
+        {
+          "option": "(n+1)! = n * n!"
+        },
+        {
+          "option": "n! = (n+1) * (n-1)!"
+        },
+        {
+          "option": "n! = n * n!"
+        }
+      ]
+    },
+    {
+      "question": "What is 3! / 3!?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "How many distinct ways can the letters of the word 'BOOK' be arranged?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "How many distinct permutations can be formed using the letters of the word 'APPLE'?",
+      "options": [
+        {
+          "option": "60",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "120"
+        }
+      ]
+    },
+    {
+      "question": "Find the number of arrangements of the letters in the word 'BANANA'.",
+      "options": [
+        {
+          "option": "720"
+        },
+        {
+          "option": "60",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "120"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can the letters of the word 'MISSISSIPPI' be arranged?",
+      "options": [
+        {
+          "option": "110"
+        },
+        {
+          "option": "1000"
+        },
+        {
+          "option": "34650",
+          "is_answer": true
+        },
+        {
+          "option": "39916800"
+        }
+      ]
+    },
+    {
+      "question": "Calculate the number of arrangements of the word 'LEVEL'.",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "30",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "How many distinct permutations exist for the word 'STATISTICS'?",
+      "options": [
+        {
+          "option": "10000"
+        },
+        {
+          "option": "50400",
+          "is_answer": true
+        },
+        {
+          "option": "3628800"
+        },
+        {
+          "option": "25200"
+        }
+      ]
+    },
+    {
+      "question": "How many arrangements can be made from the letters of 'MATHEMATICS'?",
+      "options": [
+        {
+          "option": "200000"
+        },
+        {
+          "option": "11!"
+        },
+        {
+          "option": "39916800"
+        },
+        {
+          "option": "4989600",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the number of ways to arrange the letters of 'SUCCESS'.",
+      "options": [
+        {
+          "option": "210"
+        },
+        {
+          "option": "840"
+        },
+        {
+          "option": "5040"
+        },
+        {
+          "option": "420",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many distinct arrangements of 'ENGINEERING' are possible?",
+      "options": [
+        {
+          "option": "277200",
+          "is_answer": true
+        },
+        {
+          "option": "3628800"
+        },
+        {
+          "option": "11!"
+        },
+        {
+          "option": "100000"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can the letters of 'COMMITTEE' be arranged?",
+      "options": [
+        {
+          "option": "362880"
+        },
+        {
+          "option": "22680"
+        },
+        {
+          "option": "45360",
+          "is_answer": true
+        },
+        {
+          "option": "90720"
+        }
+      ]
+    },
+    {
+      "question": "How many permutations of the word 'ROOT' are there?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many arrangements of 'SCHOOL' are possible?",
+      "options": [
+        {
+          "option": "360",
+          "is_answer": true
+        },
+        {
+          "option": "180"
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "720"
+        }
+      ]
+    },
+    {
+      "question": "Find the number of permutations of the letters in 'ALGEBRA'.",
+      "options": [
+        {
+          "option": "1260"
+        },
+        {
+          "option": "840"
+        },
+        {
+          "option": "2520",
+          "is_answer": true
+        },
+        {
+          "option": "5040"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can the letters of 'PARALLEL' be arranged?",
+      "options": [
+        {
+          "option": "840"
+        },
+        {
+          "option": "1680",
+          "is_answer": true
+        },
+        {
+          "option": "5040"
+        },
+        {
+          "option": "40320"
+        }
+      ]
+    },
+    {
+      "question": "How many distinct arrangements of 'TUTOR' are there?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "60",
+          "is_answer": true
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "Calculate the number of permutations of 'ASSESS'.",
+      "options": [
+        {
+          "option": "240"
+        },
+        {
+          "option": "720"
+        },
+        {
+          "option": "120",
+          "is_answer": true
+        },
+        {
+          "option": "60"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can the letters of 'PEPPER' be arranged?",
+      "options": [
+        {
+          "option": "120",
+          "is_answer": true
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "720"
+        },
+        {
+          "option": "360"
+        }
+      ]
+    },
+    {
+      "question": "How many permutations of 'BALLOON' are possible?",
+      "options": [
+        {
+          "option": "1260",
+          "is_answer": true
+        },
+        {
+          "option": "2520"
+        },
+        {
+          "option": "5040"
+        },
+        {
+          "option": "630"
+        }
+      ]
+    },
+    {
+      "question": "Find the number of arrangements of 'DATA'.",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "24"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can the letters of 'RADAR' be arranged?",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "30",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A student can choose a project from 5 science topics or 3 math topics. How many choices does the student have?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "A restaurant offers 4 types of soup and 6 types of salad. If you choose one item, how many options do you have?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "There are 7 red balls and 9 blue balls in a bag. How many ways can you pick one ball?",
+      "options": [
+        {
+          "option": "63"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A library has 12 fiction books and 8 non-fiction books. How many ways can a student pick one book?",
+      "options": [
+        {
+          "option": "96"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "A travel agency offers 5 bus tours and 4 train tours. How many total tour options are available?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "A menu has 3 appetizers and 5 desserts. How many ways can you choose one item?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "In a class, there are 15 boys and 12 girls. How many ways can a teacher select one student?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "27",
+          "is_answer": true
+        },
+        {
+          "option": "180"
+        }
+      ]
+    },
+    {
+      "question": "A store sells 6 types of shirts and 7 types of pants. How many ways can you buy one item?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "42"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "13",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A club has 10 members from city A and 11 members from city B. How many ways can you pick one representative?",
+      "options": [
+        {
+          "option": "21",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "110"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "You can travel to a city by 2 flights or 3 trains. How many ways can you travel?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "A box contains 8 white marbles and 4 black marbles. How many ways can you pick one marble?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "A student can pick a pen from 9 blue pens or 7 black pens. How many choices are there?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "63"
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "A bakery has 5 types of cookies and 5 types of muffins. How many ways can you pick one item?",
+      "options": [
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "A game show has 4 easy questions and 6 hard questions. How many ways can you pick one question?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        }
+      ]
+    },
+    {
+      "question": "There are 3 types of apples and 4 types of oranges. How many ways can you choose one fruit?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "A computer lab has 11 PCs and 9 laptops. How many ways can you choose one device?",
+      "options": [
+        {
+          "option": "99"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "11"
+        }
+      ]
+    },
+    {
+      "question": "A florist has 5 types of roses and 8 types of lilies. How many ways can you pick one flower?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "13",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A student can study 4 languages or 6 history topics. How many total study options are there?",
+      "options": [
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "A music store has 7 rock CDs and 5 jazz CDs. How many ways can you pick one CD?",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "35"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "A painter has 6 oil paints and 9 acrylic paints. How many ways can you pick one paint?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "54"
+        }
+      ]
+    },
+    {
+      "question": "A restaurant offers 3 types of appetizers and 4 types of main courses. How many different meal combinations can be made?",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "If a person has 5 shirts and 3 pairs of pants, how many different outfits can they create?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "A coin is tossed 3 times. How many possible outcomes are there?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "A student can choose from 4 math books and 5 science books. How many ways can they pick one of each?",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "A lock has a 2-digit code where each digit can be 0-9. How many possible codes are there?",
+      "options": [
+        {
+          "option": "50"
+        },
+        {
+          "option": "100",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "If there are 6 paths from city A to city B and 4 paths from city B to city C, how many paths are there from A to C via B?",
+      "options": [
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "36"
+        }
+      ]
+    },
+    {
+      "question": "A menu has 2 soups, 3 salads, and 4 desserts. How many meal combinations of one soup, one salad, and one dessert exist?",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 3 different prizes be awarded to 10 students if one student can win only one prize?",
+      "options": [
+        {
+          "option": "1000"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "720",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "A die is rolled twice. How many total outcomes are possible?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "36",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A car manufacturer offers 4 colors and 3 engine types. How many variations are available?",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "If a password consists of 3 letters (A-Z), how many possible passwords are there?",
+      "options": [
+        {
+          "option": "26"
+        },
+        {
+          "option": "52"
+        },
+        {
+          "option": "17576",
+          "is_answer": true
+        },
+        {
+          "option": "78"
+        }
+      ]
+    },
+    {
+      "question": "A person has 4 hats and 6 scarves. How many combinations can they wear?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "A quiz has 5 true/false questions. How many ways can it be answered?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "32",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "A room has 3 doors and 2 windows. How many ways can a person enter through a door and exit through a window?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many 3-digit numbers can be formed using digits 1, 2, 3, 4, 5 if repetition is allowed?",
+      "options": [
+        {
+          "option": "125",
+          "is_answer": true
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "A club has 10 members. How many ways can they elect a President and a Secretary?",
+      "options": [
+        {
+          "option": "90",
+          "is_answer": true
+        },
+        {
+          "option": "19"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "A restaurant offers 5 main dishes and 3 drinks. How many meal deals of one dish and one drink are there?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If you have 4 different shirts and 2 different ties, how many shirt-tie combinations are possible?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "A student must choose one project from 3 topics and one presentation from 4 topics. How many choices do they have?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "A phone number has 7 digits. If the first digit cannot be 0, how many phone numbers are possible?",
+      "options": [
+        {
+          "option": "9000000",
+          "is_answer": true
+        },
+        {
+          "option": "10000000"
+        },
+        {
+          "option": "9999999"
+        },
+        {
+          "option": "7000000"
+        }
+      ]
+    },
+    {
+      "question": "In how many ways can 3 boys and 2 girls be arranged in a row such that no two girls are together?",
+      "options": [
+        {
+          "option": "48"
+        },
+        {
+          "option": "72",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "120"
+        }
+      ]
+    },
+    {
+      "question": "How many arrangements of the word 'APPLE' are there such that the two P's are never together?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "36",
+          "is_answer": true
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "Find the number of ways to arrange 4 distinct books on a shelf such that two specific books are never together.",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 5 people be seated in a row if 2 specific people refuse to sit next to each other?",
+      "options": [
+        {
+          "option": "48"
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "96"
+        },
+        {
+          "option": "72",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In how many ways can 4 men and 3 women be arranged in a row such that no two women are together?",
+      "options": [
+        {
+          "option": "720"
+        },
+        {
+          "option": "2880"
+        },
+        {
+          "option": "1440",
+          "is_answer": true
+        },
+        {
+          "option": "5040"
+        }
+      ]
+    },
+    {
+      "question": "How many arrangements of the word 'TIGER' are there such that the vowels are never together?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "72",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If 3 red balls and 3 blue balls are arranged in a row, how many ways can they be arranged so no two red balls are together?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 6 students be arranged in a row such that two specific students are not adjacent?",
+      "options": [
+        {
+          "option": "360"
+        },
+        {
+          "option": "720"
+        },
+        {
+          "option": "480",
+          "is_answer": true
+        },
+        {
+          "option": "240"
+        }
+      ]
+    },
+    {
+      "question": "In how many ways can 5 distinct items be arranged such that 2 specific items are never together?",
+      "options": [
+        {
+          "option": "60"
+        },
+        {
+          "option": "72",
+          "is_answer": true
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "120"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 4 boys and 4 girls be seated in a row such that no two girls are together?",
+      "options": [
+        {
+          "option": "40320"
+        },
+        {
+          "option": "5760"
+        },
+        {
+          "option": "1440"
+        },
+        {
+          "option": "2880",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many arrangements of the word 'MATHS' are there such that the vowels are never together?",
+      "options": [
+        {
+          "option": "72",
+          "is_answer": true
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "24"
+        }
+      ]
+    },
+    {
+      "question": "If 3 teachers and 4 students are arranged in a row, how many ways can they be arranged so no two teachers are together?",
+      "options": [
+        {
+          "option": "5040"
+        },
+        {
+          "option": "720"
+        },
+        {
+          "option": "2880"
+        },
+        {
+          "option": "1440",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 5 different flags be arranged on a pole such that 2 specific flags are never together?",
+      "options": [
+        {
+          "option": "72",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "120"
+        }
+      ]
+    },
+    {
+      "question": "In how many ways can 3 distinct rings be worn on 5 fingers such that no two rings are on the same finger (not applicable here, assume linear arrangement of 5 items)?",
+      "options": [
+        {
+          "option": "60"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "36"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 4 distinct items be arranged such that 2 specific items are never together?",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "24"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 3 men and 2 women be arranged in a row such that the women are separated?",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "72",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 5 books be arranged on a shelf such that 2 specific books are not together?",
+      "options": [
+        {
+          "option": "60"
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "72",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 4 distinct letters be arranged such that 2 specific letters are never together?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In how many ways can 6 people be arranged in a row such that 2 specific people are not together?",
+      "options": [
+        {
+          "option": "240"
+        },
+        {
+          "option": "360"
+        },
+        {
+          "option": "480",
+          "is_answer": true
+        },
+        {
+          "option": "720"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 3 distinct items be arranged such that 2 specific items are never together?",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "In how many ways can 5 different books be arranged on a shelf if 2 specific books must always be together?",
+      "options": [
+        {
+          "option": "72"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "48",
+          "is_answer": true
+        },
+        {
+          "option": "120"
+        }
+      ]
+    },
+    {
+      "question": "Find the number of arrangements of 4 boys and 3 girls in a row such that all 3 girls are always together.",
+      "options": [
+        {
+          "option": "5040"
+        },
+        {
+          "option": "144"
+        },
+        {
+          "option": "720",
+          "is_answer": true
+        },
+        {
+          "option": "360"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 6 people sit in a row if 3 specific people must sit together?",
+      "options": [
+        {
+          "option": "144",
+          "is_answer": true
+        },
+        {
+          "option": "720"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "48"
+        }
+      ]
+    },
+    {
+      "question": "In how many ways can the letters of the word 'LEADER' be arranged so that the two E's are always together?",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "360"
+        },
+        {
+          "option": "240",
+          "is_answer": true
+        },
+        {
+          "option": "720"
+        }
+      ]
+    },
+    {
+      "question": "If 4 math books and 3 physics books are arranged on a shelf, how many ways can they be arranged if all math books must be together?",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "5040"
+        },
+        {
+          "option": "576",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 5 distinct beads be arranged in a necklace if 2 specific beads are always together?",
+      "options": [
+        {
+          "option": "48"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "24"
+        }
+      ]
+    },
+    {
+      "question": "In how many ways can the letters of the word 'TRIANGLE' be arranged such that the vowels are always together?",
+      "options": [
+        {
+          "option": "5040"
+        },
+        {
+          "option": "720"
+        },
+        {
+          "option": "8640"
+        },
+        {
+          "option": "4320",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 3 boys and 2 girls be arranged in a row such that the 2 girls are always together?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "48",
+          "is_answer": true
+        },
+        {
+          "option": "120"
+        }
+      ]
+    },
+    {
+      "question": "How many arrangements of the word 'DAUGHTER' exist such that the vowels are always together?",
+      "options": [
+        {
+          "option": "1080"
+        },
+        {
+          "option": "2160"
+        },
+        {
+          "option": "4320",
+          "is_answer": true
+        },
+        {
+          "option": "8640"
+        }
+      ]
+    },
+    {
+      "question": "If 3 chemistry books and 3 math books are arranged such that all chemistry books are together, how many ways are there?",
+      "options": [
+        {
+          "option": "72"
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "288"
+        },
+        {
+          "option": "144",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 4 people sit in a row if 2 specific people must sit together?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In how many ways can the letters of the word 'FLOWER' be arranged so that the vowels are together?",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "240",
+          "is_answer": true
+        },
+        {
+          "option": "480"
+        },
+        {
+          "option": "720"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 5 different flags be arranged in a row if 2 specific flags must always be together?",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "48",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "72"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 3 red balls and 2 blue balls be arranged in a row if all red balls must be together?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "36",
+          "is_answer": true
+        },
+        {
+          "option": "72"
+        }
+      ]
+    },
+    {
+      "question": "In how many ways can the letters of the word 'MOTHER' be arranged such that the vowels are together?",
+      "options": [
+        {
+          "option": "240",
+          "is_answer": true
+        },
+        {
+          "option": "720"
+        },
+        {
+          "option": "480"
+        },
+        {
+          "option": "120"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 4 distinct items be arranged in a row if 2 specific items are always together?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "24"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 3 books be arranged on a shelf if all 3 must be together?",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 6 people be arranged in a row if 4 specific people must be together?",
+      "options": [
+        {
+          "option": "288"
+        },
+        {
+          "option": "72"
+        },
+        {
+          "option": "576"
+        },
+        {
+          "option": "144",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In how many ways can the letters of the word 'STUDENT' be arranged such that the vowels are together?",
+      "options": [
+        {
+          "option": "240"
+        },
+        {
+          "option": "360"
+        },
+        {
+          "option": "1440"
+        },
+        {
+          "option": "720",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In how many ways can 5 distinct beads be arranged to form a necklace?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the formula for the number of ways to arrange n distinct beads in a necklace?",
+      "options": [
+        {
+          "option": "n! / 2"
+        },
+        {
+          "option": "(n-1)! / 2",
+          "is_answer": true
+        },
+        {
+          "option": "n!"
+        },
+        {
+          "option": "(n-1)!"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 4 distinct beads be arranged in a necklace?",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "If 6 distinct beads are used to make a garland, how many arrangements are possible?",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "60",
+          "is_answer": true
+        },
+        {
+          "option": "360"
+        },
+        {
+          "option": "720"
+        }
+      ]
+    },
+    {
+      "question": "Why do we divide by 2 in necklace permutations?",
+      "options": [
+        {
+          "option": "Clockwise and counter-clockwise are identical",
+          "is_answer": true
+        },
+        {
+          "option": "Because the beads are distinct"
+        },
+        {
+          "option": "To account for symmetry"
+        },
+        {
+          "option": "To reduce the total count"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 7 distinct beads be arranged in a necklace?",
+      "options": [
+        {
+          "option": "360",
+          "is_answer": true
+        },
+        {
+          "option": "5040"
+        },
+        {
+          "option": "720"
+        },
+        {
+          "option": "2520"
+        }
+      ]
+    },
+    {
+      "question": "If 3 distinct beads are used to make a necklace, how many arrangements exist?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The number of circular permutations of n distinct objects is (n-1)!. For a necklace, it is:",
+      "options": [
+        {
+          "option": "(n-1)! * 2"
+        },
+        {
+          "option": "n! / 2"
+        },
+        {
+          "option": "n!"
+        },
+        {
+          "option": "(n-1)! / 2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 8 distinct beads be arranged in a necklace?",
+      "options": [
+        {
+          "option": "20160"
+        },
+        {
+          "option": "10080"
+        },
+        {
+          "option": "5040"
+        },
+        {
+          "option": "2520",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is true for a necklace arrangement?",
+      "options": [
+        {
+          "option": "Only anti-clockwise is considered"
+        },
+        {
+          "option": "Clockwise and anti-clockwise are different"
+        },
+        {
+          "option": "Only clockwise is considered"
+        },
+        {
+          "option": "Clockwise and anti-clockwise are same",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 9 distinct beads be arranged in a necklace?",
+      "options": [
+        {
+          "option": "40320"
+        },
+        {
+          "option": "80640"
+        },
+        {
+          "option": "20160",
+          "is_answer": true
+        },
+        {
+          "option": "161280"
+        }
+      ]
+    },
+    {
+      "question": "If n=5, what is the number of necklace arrangements?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "48"
+        }
+      ]
+    },
+    {
+      "question": "A garland made of 10 distinct flowers can be arranged in how many ways?",
+      "options": [
+        {
+          "option": "181440",
+          "is_answer": true
+        },
+        {
+          "option": "362880"
+        },
+        {
+          "option": "725760"
+        },
+        {
+          "option": "1451520"
+        }
+      ]
+    },
+    {
+      "question": "The arrangement of beads in a necklace is an example of:",
+      "options": [
+        {
+          "option": "Linear permutation"
+        },
+        {
+          "option": "Circular permutation",
+          "is_answer": true
+        },
+        {
+          "option": "Probability"
+        },
+        {
+          "option": "Combination"
+        }
+      ]
+    },
+    {
+      "question": "If n=6, what is the number of necklace arrangements?",
+      "options": [
+        {
+          "option": "240"
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "60",
+          "is_answer": true
+        },
+        {
+          "option": "720"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 11 distinct beads be arranged in a necklace?",
+      "options": [
+        {
+          "option": "7257600"
+        },
+        {
+          "option": "1814400",
+          "is_answer": true
+        },
+        {
+          "option": "14515200"
+        },
+        {
+          "option": "3628800"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the correct value for 4 beads in a necklace?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If n=7, what is the number of necklace arrangements?",
+      "options": [
+        {
+          "option": "5040"
+        },
+        {
+          "option": "360",
+          "is_answer": true
+        },
+        {
+          "option": "1440"
+        },
+        {
+          "option": "720"
+        }
+      ]
+    },
+    {
+      "question": "What is the number of ways to arrange 5 beads in a necklace?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If n=4, what is the number of necklace arrangements?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In how many ways can 5 people be seated around a circular table?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "24",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the number of ways to arrange 4 distinct objects in a circle?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If 6 people sit around a round table, how many arrangements are possible?",
+      "options": [
+        {
+          "option": "720"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "120",
+          "is_answer": true
+        },
+        {
+          "option": "360"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 3 people be arranged in a circular formation?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Calculate the number of circular permutations for 7 distinct items.",
+      "options": [
+        {
+          "option": "1440"
+        },
+        {
+          "option": "2520"
+        },
+        {
+          "option": "5040"
+        },
+        {
+          "option": "720",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If (n-1)! = 24, what is the value of n?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 8 people sit around a circular table?",
+      "options": [
+        {
+          "option": "40320"
+        },
+        {
+          "option": "10080"
+        },
+        {
+          "option": "20160"
+        },
+        {
+          "option": "5040",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The number of ways to arrange 9 people around a circular table is:",
+      "options": [
+        {
+          "option": "90720"
+        },
+        {
+          "option": "40320",
+          "is_answer": true
+        },
+        {
+          "option": "362880"
+        },
+        {
+          "option": "181440"
+        }
+      ]
+    },
+    {
+      "question": "If (n-1)! = 120, find n.",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "How many circular arrangements are possible for 2 people?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "What is the formula for circular permutation of n distinct objects?",
+      "options": [
+        {
+          "option": "(n-1)!/2"
+        },
+        {
+          "option": "(n-1)!",
+          "is_answer": true
+        },
+        {
+          "option": "n!"
+        },
+        {
+          "option": "n!/2"
+        }
+      ]
+    },
+    {
+      "question": "If 10 people are to be seated at a round table, the number of ways is:",
+      "options": [
+        {
+          "option": "9!",
+          "is_answer": true
+        },
+        {
+          "option": "10!"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "9!/2"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 4 keys be arranged in a circular key ring?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "The number of circular permutations of 5 distinct items is:",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "If (n-1)! = 720, what is n?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "720"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 11 people sit around a circular table?",
+      "options": [
+        {
+          "option": "10!",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "11!"
+        },
+        {
+          "option": "11"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following represents the number of ways to arrange 6 people in a circle?",
+      "options": [
+        {
+          "option": "120",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "720"
+        },
+        {
+          "option": "60"
+        }
+      ]
+    },
+    {
+      "question": "For n = 4, the number of circular arrangements is:",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 12 people be arranged in a circular formation?",
+      "options": [
+        {
+          "option": "11!",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "11"
+        },
+        {
+          "option": "12!"
+        }
+      ]
+    },
+    {
+      "question": "If (n-1)! = 1, what is the value of n?",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "How many 3-letter words can be formed starting with 'A' and ending with a vowel (A, E, I, O, U)?",
+      "options": [
+        {
+          "option": "150"
+        },
+        {
+          "option": "130",
+          "is_answer": true
+        },
+        {
+          "option": "140"
+        },
+        {
+          "option": "120"
+        }
+      ]
+    },
+    {
+      "question": "In a 4-letter word, if vowels must occupy only even positions (2nd and 4th), how many such words exist using 26 letters?",
+      "options": [
+        {
+          "option": "44100",
+          "is_answer": true
+        },
+        {
+          "option": "46000"
+        },
+        {
+          "option": "42000"
+        },
+        {
+          "option": "48000"
+        }
+      ]
+    },
+    {
+      "question": "How many 3-letter words start with a consonant and end with a vowel?",
+      "options": [
+        {
+          "option": "500"
+        },
+        {
+          "option": "550"
+        },
+        {
+          "option": "600"
+        },
+        {
+          "option": "520",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many 5-letter words can be formed such that the first letter is 'B' and the last is a vowel?",
+      "options": [
+        {
+          "option": "3500"
+        },
+        {
+          "option": "4000"
+        },
+        {
+          "option": "3250",
+          "is_answer": true
+        },
+        {
+          "option": "3000"
+        }
+      ]
+    },
+    {
+      "question": "If a 3-letter word must have a vowel in the middle position, how many such words can be formed?",
+      "options": [
+        {
+          "option": "1500"
+        },
+        {
+          "option": "1300",
+          "is_answer": true
+        },
+        {
+          "option": "1200"
+        },
+        {
+          "option": "1400"
+        }
+      ]
+    },
+    {
+      "question": "How many 4-letter words start with 'S' and end with a consonant?",
+      "options": [
+        {
+          "option": "10920",
+          "is_answer": true
+        },
+        {
+          "option": "10000"
+        },
+        {
+          "option": "12000"
+        },
+        {
+          "option": "11000"
+        }
+      ]
+    },
+    {
+      "question": "In a 3-letter word, if vowels must occupy only odd positions (1st and 3rd), how many words can be formed?",
+      "options": [
+        {
+          "option": "650"
+        },
+        {
+          "option": "600"
+        },
+        {
+          "option": "700"
+        },
+        {
+          "option": "625",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many 2-letter words start with a vowel and end with a consonant?",
+      "options": [
+        {
+          "option": "105",
+          "is_answer": true
+        },
+        {
+          "option": "110"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "120"
+        }
+      ]
+    },
+    {
+      "question": "How many 3-letter words can be formed using only vowels?",
+      "options": [
+        {
+          "option": "125",
+          "is_answer": true
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "150"
+        },
+        {
+          "option": "200"
+        }
+      ]
+    },
+    {
+      "question": "How many 4-letter words start with a vowel and end with a vowel?",
+      "options": [
+        {
+          "option": "625",
+          "is_answer": true
+        },
+        {
+          "option": "650"
+        },
+        {
+          "option": "600"
+        },
+        {
+          "option": "700"
+        }
+      ]
+    },
+    {
+      "question": "How many 3-letter words start with 'T' and have a vowel in the 2nd position?",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "140"
+        },
+        {
+          "option": "130",
+          "is_answer": true
+        },
+        {
+          "option": "150"
+        }
+      ]
+    },
+    {
+      "question": "How many 2-letter words can be formed such that both letters are vowels?",
+      "options": [
+        {
+          "option": "35"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "25",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "How many 3-letter words start with a consonant and have a consonant in the 3rd position?",
+      "options": [
+        {
+          "option": "14742",
+          "is_answer": true
+        },
+        {
+          "option": "14000"
+        },
+        {
+          "option": "16000"
+        },
+        {
+          "option": "15000"
+        }
+      ]
+    },
+    {
+      "question": "How many 4-letter words start with 'A' and end with 'Z'?",
+      "options": [
+        {
+          "option": "676",
+          "is_answer": true
+        },
+        {
+          "option": "600"
+        },
+        {
+          "option": "750"
+        },
+        {
+          "option": "700"
+        }
+      ]
+    },
+    {
+      "question": "How many 3-letter words have a vowel at the 1st position and a consonant at the 2nd position?",
+      "options": [
+        {
+          "option": "550"
+        },
+        {
+          "option": "500"
+        },
+        {
+          "option": "600"
+        },
+        {
+          "option": "525",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many 2-letter words start with a consonant and end with a vowel?",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "110"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "105",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many 3-letter words start with a vowel and end with a vowel?",
+      "options": [
+        {
+          "option": "100"
+        },
+        {
+          "option": "200"
+        },
+        {
+          "option": "150"
+        },
+        {
+          "option": "125",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many 4-letter words have a vowel at the 2nd position and a consonant at the 3rd position?",
+      "options": [
+        {
+          "option": "37000"
+        },
+        {
+          "option": "35000"
+        },
+        {
+          "option": "35100",
+          "is_answer": true
+        },
+        {
+          "option": "36000"
+        }
+      ]
+    },
+    {
+      "question": "How many 3-letter words start with 'B' and end with a consonant?",
+      "options": [
+        {
+          "option": "546",
+          "is_answer": true
+        },
+        {
+          "option": "500"
+        },
+        {
+          "option": "650"
+        },
+        {
+          "option": "600"
+        }
+      ]
+    },
+    {
+      "question": "How many 2-letter words start with a vowel and end with a vowel?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "25",
+          "is_answer": true
+        },
+        {
+          "option": "35"
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "A committee of 3 is to be formed from 4 men and 3 women. How many ways can we form the committee if it must contain at least 1 woman?",
+      "options": [
+        {
+          "option": "21"
+        },
+        {
+          "option": "35"
+        },
+        {
+          "option": "31",
+          "is_answer": true
+        },
+        {
+          "option": "28"
+        }
+      ]
+    },
+    {
+      "question": "A committee of 3 is to be formed from 3 men and 3 women. How many ways can we form the committee if it must contain at least 2 women?",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "A committee of 5 is to be formed from 6 men and 4 women. How many ways can we form the committee if it must contain at least 3 men?",
+      "options": [
+        {
+          "option": "150"
+        },
+        {
+          "option": "186",
+          "is_answer": true
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "200"
+        }
+      ]
+    },
+    {
+      "question": "A committee of 4 is to be formed from 4 men and 4 women. How many ways can we form the committee if it must contain at most 2 men?",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "37",
+          "is_answer": true
+        },
+        {
+          "option": "40"
+        }
+      ]
+    },
+    {
+      "question": "A committee of 3 is to be formed from 5 men and 2 women. How many ways can we form the committee if it must contain at least 1 man?",
+      "options": [
+        {
+          "option": "35",
+          "is_answer": true
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "A committee of 4 is to be formed from 6 men and 3 women. How many ways can we form the committee if it must contain at least 2 women?",
+      "options": [
+        {
+          "option": "60",
+          "is_answer": true
+        },
+        {
+          "option": "80"
+        },
+        {
+          "option": "70"
+        },
+        {
+          "option": "50"
+        }
+      ]
+    },
+    {
+      "question": "A committee of 3 is to be formed from 4 men and 4 women. How many ways can we form the committee if it must contain at most 1 woman?",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A committee of 5 is to be formed from 5 men and 5 women. How many ways can we form the committee if it must contain at least 4 women?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "35"
+        },
+        {
+          "option": "26",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A committee of 3 is to be formed from 6 men and 2 women. How many ways can we form the committee if it must contain at most 1 man?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A committee of 4 is to be formed from 5 men and 3 women. How many ways can we form the committee if it must contain at least 3 men?",
+      "options": [
+        {
+          "option": "50"
+        },
+        {
+          "option": "45"
+        },
+        {
+          "option": "40",
+          "is_answer": true
+        },
+        {
+          "option": "35"
+        }
+      ]
+    },
+    {
+      "question": "A committee of 3 is to be formed from 4 men and 5 women. How many ways can we form the committee if it must contain at least 2 men?",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "30",
+          "is_answer": true
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "35"
+        }
+      ]
+    },
+    {
+      "question": "A committee of 4 is to be formed from 4 men and 5 women. How many ways can we form the committee if it must contain at most 2 women?",
+      "options": [
+        {
+          "option": "35"
+        },
+        {
+          "option": "45"
+        },
+        {
+          "option": "50"
+        },
+        {
+          "option": "41",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A committee of 3 is to be formed from 5 men and 4 women. How many ways can we form the committee if it must contain at least 1 woman?",
+      "options": [
+        {
+          "option": "60"
+        },
+        {
+          "option": "80"
+        },
+        {
+          "option": "70"
+        },
+        {
+          "option": "74",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A committee of 4 is to be formed from 6 men and 4 women. How many ways can we form the committee if it must contain at most 1 man?",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "19",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "A committee of 3 is to be formed from 3 men and 4 women. How many ways can we form the committee if it must contain at least 2 men?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "A committee of 4 is to be formed from 5 men and 5 women. How many ways can we form the committee if it must contain at least 3 women?",
+      "options": [
+        {
+          "option": "70"
+        },
+        {
+          "option": "60",
+          "is_answer": true
+        },
+        {
+          "option": "80"
+        },
+        {
+          "option": "50"
+        }
+      ]
+    },
+    {
+      "question": "A committee of 3 is to be formed from 4 men and 3 women. How many ways can we form the committee if it must contain at most 2 men?",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "35"
+        },
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "A committee of 4 is to be formed from 6 men and 2 women. How many ways can we form the committee if it must contain at least 2 women?",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "A committee of 3 is to be formed from 5 men and 5 women. How many ways can we form the committee if it must contain at most 1 woman?",
+      "options": [
+        {
+          "option": "50"
+        },
+        {
+          "option": "70"
+        },
+        {
+          "option": "60",
+          "is_answer": true
+        },
+        {
+          "option": "80"
+        }
+      ]
+    },
+    {
+      "question": "What is the maximum number of intersection points for 5 straight lines?",
+      "options": [
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "What is the maximum number of intersection points for 4 circles?",
+      "options": [
+        {
+          "option": "16"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "How many intersection points are formed by 3 straight lines?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "What is the maximum number of intersection points for 3 circles?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "If n=6, what is the maximum number of intersection points for straight lines?",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "What is the maximum number of intersection points for 2 circles?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many intersection points are formed by 10 straight lines?",
+      "options": [
+        {
+          "option": "40"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "45",
+          "is_answer": true
+        },
+        {
+          "option": "50"
+        }
+      ]
+    },
+    {
+      "question": "What is the maximum number of intersection points for 5 circles?",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If n=4, what is the maximum number of intersection points for straight lines?",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "What is the maximum number of intersection points for 6 circles?",
+      "options": [
+        {
+          "option": "30",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "24"
+        }
+      ]
+    },
+    {
+      "question": "How many intersection points are formed by 7 straight lines?",
+      "options": [
+        {
+          "option": "28"
+        },
+        {
+          "option": "49"
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "21",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the maximum number of intersection points for 7 circles?",
+      "options": [
+        {
+          "option": "21"
+        },
+        {
+          "option": "42",
+          "is_answer": true
+        },
+        {
+          "option": "49"
+        },
+        {
+          "option": "35"
+        }
+      ]
+    },
+    {
+      "question": "If n=8, what is the maximum number of intersection points for straight lines?",
+      "options": [
+        {
+          "option": "28",
+          "is_answer": true
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "64"
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "What is the maximum number of intersection points for 8 circles?",
+      "options": [
+        {
+          "option": "64"
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "28"
+        },
+        {
+          "option": "56",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many intersection points are formed by 9 straight lines?",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "81"
+        },
+        {
+          "option": "45"
+        },
+        {
+          "option": "36",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the maximum number of intersection points for 9 circles?",
+      "options": [
+        {
+          "option": "63"
+        },
+        {
+          "option": "81"
+        },
+        {
+          "option": "72",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        }
+      ]
+    },
+    {
+      "question": "If n=12, what is the maximum number of intersection points for straight lines?",
+      "options": [
+        {
+          "option": "132"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "66",
+          "is_answer": true
+        },
+        {
+          "option": "144"
+        }
+      ]
+    },
+    {
+      "question": "What is the maximum number of intersection points for 10 circles?",
+      "options": [
+        {
+          "option": "90",
+          "is_answer": true
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "45"
+        },
+        {
+          "option": "80"
+        }
+      ]
+    },
+    {
+      "question": "How many intersection points are formed by 11 straight lines?",
+      "options": [
+        {
+          "option": "66"
+        },
+        {
+          "option": "22"
+        },
+        {
+          "option": "55",
+          "is_answer": true
+        },
+        {
+          "option": "121"
+        }
+      ]
+    },
+    {
+      "question": "What is the maximum number of intersection points for 11 circles?",
+      "options": [
+        {
+          "option": "121"
+        },
+        {
+          "option": "110",
+          "is_answer": true
+        },
+        {
+          "option": "55"
+        },
+        {
+          "option": "100"
+        }
+      ]
+    },
+    {
+      "question": "How many lines can be formed by connecting 5 distinct points in a plane, where no three points are collinear?",
+      "options": [
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "How many triangles can be formed using 6 distinct points in a plane, where no three points are collinear?",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the number of diagonals in a convex polygon with 6 sides?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "How many lines can be formed by 10 distinct points in a plane, no three of which are collinear?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "90"
+        },
+        {
+          "option": "45",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "How many triangles can be formed by 5 points in a plane, no three of which are collinear?",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the number of diagonals in a polygon with 8 sides?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "If there are 4 points in a plane, no three of which are collinear, how many lines can be drawn?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many triangles can be formed by 4 points in a plane, no three of which are collinear?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "What is the number of diagonals in a pentagon (5 sides)?",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "How many lines can be formed by 12 points in a plane, no three of which are collinear?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "132"
+        },
+        {
+          "option": "66",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        }
+      ]
+    },
+    {
+      "question": "How many triangles can be formed by 7 points in a plane, no three of which are collinear?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "42"
+        },
+        {
+          "option": "21"
+        },
+        {
+          "option": "35",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the number of diagonals in a decagon (10 sides)?",
+      "options": [
+        {
+          "option": "45"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "35",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "How many lines can be formed by 8 points in a plane, no three of which are collinear?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "56"
+        },
+        {
+          "option": "28",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "How many triangles can be formed by 8 points in a plane, no three of which are collinear?",
+      "options": [
+        {
+          "option": "84"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "28"
+        },
+        {
+          "option": "56",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the number of diagonals in a heptagon (7 sides)?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "21"
+        },
+        {
+          "option": "28"
+        },
+        {
+          "option": "14",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many lines can be formed by 9 points in a plane, no three of which are collinear?",
+      "options": [
+        {
+          "option": "72"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "36",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "How many triangles can be formed by 9 points in a plane, no three of which are collinear?",
+      "options": [
+        {
+          "option": "126"
+        },
+        {
+          "option": "84",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "What is the number of diagonals in a nonagon (9 sides)?",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "27",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        }
+      ]
+    },
+    {
+      "question": "How many lines can be formed by 11 points in a plane, no three of which are collinear?",
+      "options": [
+        {
+          "option": "11"
+        },
+        {
+          "option": "55",
+          "is_answer": true
+        },
+        {
+          "option": "22"
+        },
+        {
+          "option": "110"
+        }
+      ]
+    },
+    {
+      "question": "How many triangles can be formed by 10 points in a plane, no three of which are collinear?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "240"
+        },
+        {
+          "option": "120",
+          "is_answer": true
+        },
+        {
+          "option": "45"
+        }
+      ]
+    },
+    {
+      "question": "If there are 10 people in a room and everyone shakes hands with everyone else exactly once, how many handshakes occur?",
+      "options": [
+        {
+          "option": "55"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "90"
+        },
+        {
+          "option": "45",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If 12 people exchange greeting cards with each other, how many cards are exchanged in total?",
+      "options": [
+        {
+          "option": "66"
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "132",
+          "is_answer": true
+        },
+        {
+          "option": "144"
+        }
+      ]
+    },
+    {
+      "question": "In a round-robin tournament with 8 teams where every team plays every other team once, how many matches are played?",
+      "options": [
+        {
+          "option": "64"
+        },
+        {
+          "option": "56"
+        },
+        {
+          "option": "28",
+          "is_answer": true
+        },
+        {
+          "option": "32"
+        }
+      ]
+    },
+    {
+      "question": "If 20 people shake hands with each other, what is the total number of handshakes?",
+      "options": [
+        {
+          "option": "380"
+        },
+        {
+          "option": "190",
+          "is_answer": true
+        },
+        {
+          "option": "210"
+        },
+        {
+          "option": "400"
+        }
+      ]
+    },
+    {
+      "question": "If 15 people exchange greeting cards, how many cards are exchanged?",
+      "options": [
+        {
+          "option": "105"
+        },
+        {
+          "option": "195"
+        },
+        {
+          "option": "225"
+        },
+        {
+          "option": "210",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A tournament has 6 teams. If every team plays every other team once, how many matches occur?",
+      "options": [
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "36"
+        }
+      ]
+    },
+    {
+      "question": "If there are 5 people and each shakes hands with everyone else, how many handshakes take place?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "If 9 people exchange greeting cards, how many cards are exchanged?",
+      "options": [
+        {
+          "option": "72",
+          "is_answer": true
+        },
+        {
+          "option": "45"
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "81"
+        }
+      ]
+    },
+    {
+      "question": "In a tournament with 10 teams, if every team plays every other team once, how many matches are played?",
+      "options": [
+        {
+          "option": "50"
+        },
+        {
+          "option": "90"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "45",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If 7 people shake hands with each other, how many handshakes occur?",
+      "options": [
+        {
+          "option": "42"
+        },
+        {
+          "option": "21",
+          "is_answer": true
+        },
+        {
+          "option": "49"
+        },
+        {
+          "option": "14"
+        }
+      ]
+    },
+    {
+      "question": "If 11 people exchange greeting cards, how many cards are exchanged?",
+      "options": [
+        {
+          "option": "55"
+        },
+        {
+          "option": "121"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "110",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In a tournament with 4 teams, if every team plays every other team once, how many matches are played?",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "If 14 people shake hands with each other, how many handshakes occur?",
+      "options": [
+        {
+          "option": "182"
+        },
+        {
+          "option": "91",
+          "is_answer": true
+        },
+        {
+          "option": "70"
+        },
+        {
+          "option": "196"
+        }
+      ]
+    },
+    {
+      "question": "If 13 people exchange greeting cards, how many cards are exchanged?",
+      "options": [
+        {
+          "option": "169"
+        },
+        {
+          "option": "140"
+        },
+        {
+          "option": "78"
+        },
+        {
+          "option": "156",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In a tournament with 5 teams, if every team plays every other team once, how many matches are played?",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "If 8 people shake hands with each other, how many handshakes occur?",
+      "options": [
+        {
+          "option": "64"
+        },
+        {
+          "option": "56"
+        },
+        {
+          "option": "28",
+          "is_answer": true
+        },
+        {
+          "option": "32"
+        }
+      ]
+    },
+    {
+      "question": "If 6 people exchange greeting cards, how many cards are exchanged?",
+      "options": [
+        {
+          "option": "36"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "30",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In a tournament with 7 teams, if every team plays every other team once, how many matches are played?",
+      "options": [
+        {
+          "option": "21",
+          "is_answer": true
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "42"
+        },
+        {
+          "option": "49"
+        }
+      ]
+    },
+    {
+      "question": "If 16 people shake hands with each other, how many handshakes occur?",
+      "options": [
+        {
+          "option": "240"
+        },
+        {
+          "option": "120",
+          "is_answer": true
+        },
+        {
+          "option": "130"
+        },
+        {
+          "option": "256"
+        }
+      ]
+    },
+    {
+      "question": "If 4 people exchange greeting cards, how many cards are exchanged?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "In how many ways can 3 distinct balls be distributed into 2 distinct boxes?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If there are 4 distinct letters and 3 distinct mailboxes, how many ways can the letters be posted?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "81",
+          "is_answer": true
+        },
+        {
+          "option": "64"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 2 distinct prizes be given to 5 distinct students?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "25",
+          "is_answer": true
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "Find the number of ways to distribute 5 distinct coins into 2 distinct pockets.",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "32",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If 2 distinct objects are placed into 4 distinct boxes, how many ways are possible?",
+      "options": [
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 3 distinct rings be worn on 4 distinct fingers?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "81"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "64",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Calculate the number of ways to distribute 6 distinct items into 2 distinct bins.",
+      "options": [
+        {
+          "option": "36"
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "64",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In how many ways can 4 distinct books be placed on 2 distinct shelves?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If 3 distinct gifts are distributed among 3 distinct friends, how many ways are possible?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "27",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 2 distinct balls be placed into 3 distinct boxes?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the number of ways to assign 5 distinct tasks to 3 distinct employees.",
+      "options": [
+        {
+          "option": "243",
+          "is_answer": true
+        },
+        {
+          "option": "125"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 4 distinct flags be hoisted on 3 distinct poles?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "64"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "81",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If 2 distinct letters are to be posted in 5 distinct letter boxes, how many ways are there?",
+      "options": [
+        {
+          "option": "32"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "25",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 3 distinct toys be given to 2 distinct children?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "Calculate the number of ways to place 4 distinct marbles into 4 distinct cups.",
+      "options": [
+        {
+          "option": "256",
+          "is_answer": true
+        },
+        {
+          "option": "64"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "In how many ways can 2 distinct items be distributed into 6 distinct boxes?",
+      "options": [
+        {
+          "option": "36",
+          "is_answer": true
+        },
+        {
+          "option": "64"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 5 distinct pens be kept in 2 distinct pen stands?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "32",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If 3 distinct balls are placed in 5 distinct boxes, how many ways are possible?",
+      "options": [
+        {
+          "option": "125",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "243"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 4 distinct keys be put into 2 distinct key rings?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "Find the number of ways to distribute 2 distinct awards among 4 distinct people.",
+      "options": [
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "Find the number of non-negative integer solutions to x1 + x2 + x3 = 3.",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 5 identical coins be distributed among 3 children?",
+      "options": [
+        {
+          "option": "21",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "Find the number of non-negative integer solutions to x1 + x2 = 4.",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "How many ways to distribute 4 identical balls into 2 distinct boxes?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "Find the number of non-negative integer solutions to x1 + x2 + x3 = 2.",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 6 identical items be placed into 2 bins?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the number of non-negative integer solutions to x1 + x2 + x3 + x4 = 1.",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "How many ways to distribute 3 identical apples to 3 people?",
+      "options": [
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "Find the number of non-negative integer solutions to x1 + x2 = 5.",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 2 identical candies be given to 4 children?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "Find the number of non-negative integer solutions to x1 + x2 + x3 = 4.",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "How many ways to distribute 5 identical pens into 2 pockets?",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "Find the number of non-negative integer solutions to x1 + x2 + x3 + x4 = 2.",
+      "options": [
+        {
+          "option": "16"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 3 identical books be placed on 2 shelves?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "Find the number of non-negative integer solutions to x1 + x2 = 6.",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many ways to distribute 4 identical marbles to 3 friends?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the number of non-negative integer solutions to x1 + x2 + x3 = 5.",
+      "options": [
+        {
+          "option": "21",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 2 identical toys be distributed among 5 children?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "Find the number of non-negative integer solutions to x1 + x2 + x3 + x4 = 3.",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "How many ways to distribute 3 identical cookies to 2 people?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "Find the number of positive integer solutions to x + y = 5.",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "Find the number of positive integer solutions to x + y + z = 6.",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "Find the number of positive integer solutions to x + y + z = 4.",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "Find the number of positive integer solutions to x + y + z + w = 5.",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "Find the number of positive integer solutions to x + y = 10.",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "45"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the number of positive integer solutions to x + y + z = 7.",
+      "options": [
+        {
+          "option": "35"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "21"
+        }
+      ]
+    },
+    {
+      "question": "Find the number of positive integer solutions to x + y + z + w = 6.",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "Find the number of positive integer solutions to x + y + z = 5.",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "Find the number of positive integer solutions to x + y + z + w = 4.",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "Find the number of positive integer solutions to x + y = 8.",
+      "options": [
+        {
+          "option": "28"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "Find the number of positive integer solutions to x + y + z = 8.",
+      "options": [
+        {
+          "option": "21",
+          "is_answer": true
+        },
+        {
+          "option": "28"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "56"
+        }
+      ]
+    },
+    {
+      "question": "Find the number of positive integer solutions to x + y + z + w = 7.",
+      "options": [
+        {
+          "option": "56"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "35"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the number of positive integer solutions to x + y + z + w + v = 5.",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "Find the number of positive integer solutions to x + y = 3.",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "Find the number of positive integer solutions to x + y + z = 3.",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the number of positive integer solutions to x + y + z + w = 8.",
+      "options": [
+        {
+          "option": "35",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "56"
+        },
+        {
+          "option": "70"
+        }
+      ]
+    },
+    {
+      "question": "Find the number of positive integer solutions to x + y = 6.",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "Find the number of positive integer solutions to x + y + z = 9.",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "45"
+        },
+        {
+          "option": "28",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        }
+      ]
+    },
+    {
+      "question": "Find the number of positive integer solutions to x + y + z + w = 9.",
+      "options": [
+        {
+          "option": "56",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "84"
+        },
+        {
+          "option": "126"
+        }
+      ]
+    },
+    {
+      "question": "Find the number of positive integer solutions to x + y + z + w + v = 6.",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the rank of the word 'CAT' in the dictionary?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the rank of the word 'DOG' in the dictionary?",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "Find the rank of the word 'BAT' in the dictionary.",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the rank of the word 'APPLE' in the dictionary?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "If all permutations of the letters of the word 'ABC' are arranged in dictionary order, what is the rank of 'CBA'?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the rank of the word 'BOX'?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The rank of the word 'ACE' in the dictionary is:",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "How many words come before 'CAB' in dictionary order using letters C, A, B?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the rank of the word 'EAT'?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "The rank of the word 'TEA' is:",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If letters of 'MATH' are arranged, what is the rank of 'MATH'?",
+      "options": [
+        {
+          "option": "16"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "14",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the rank of 'DAD'?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The rank of 'BED' is:",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the rank of 'AIR'?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "The rank of 'ZOO' is:",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "What is the rank of 'JOY'?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "The rank of 'PEN' is:",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "What is the rank of 'SUN'?",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "The rank of 'KEY' is:",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "What is the rank of 'TOP'?",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "How many divisors does the number 12 have? (12 = 2^2 * 3^1)",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "What is the number of divisors for 20? (20 = 2^2 * 5^1)",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "If N = p^3 * q^2, how many divisors does N have?",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "How many divisors does 36 have? (36 = 2^2 * 3^2)",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "Find the number of divisors of 100. (100 = 2^2 * 5^2)",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "How many divisors does 2^4 have?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "If N = p^5, how many divisors does N have?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "How many divisors does 72 have? (72 = 2^3 * 3^2)",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "What is the number of divisors of 48? (48 = 2^4 * 3^1)",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "If N = p^1 * q^1 * r^1, how many divisors does N have?",
+      "options": [
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "How many divisors does 15 have? (15 = 3^1 * 5^1)",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "Find the number of divisors of 80. (80 = 2^4 * 5^1)",
+      "options": [
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "How many divisors does 2^2 * 3^3 have?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If N = p^2 * q^2 * r^1, how many divisors does N have?",
+      "options": [
+        {
+          "option": "18",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "How many divisors does 50 have? (50 = 2^1 * 5^2)",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "What is the number of divisors of 2^5?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many divisors does 210 have? (210 = 2^1 * 3^1 * 5^1 * 7^1)",
+      "options": [
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "If N = p^4 * q^3, how many divisors does N have?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many divisors does 60 have? (60 = 2^2 * 3^1 * 5^1)",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the number of divisors of 2^3 * 5^2?",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of !3 (the number of derangements of 3 elements)?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of !4?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of !1?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of !2?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of !0?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "undefined"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "e"
+        }
+      ]
+    },
+    {
+      "question": "Which recurrence relation correctly defines !n?",
+      "options": [
+        {
+          "option": "!n = n!(n-1)"
+        },
+        {
+          "option": "!n = (n-1)(!(n-1) + !(n-2))",
+          "is_answer": true
+        },
+        {
+          "option": "!n = !(n-1) + !(n-2)"
+        },
+        {
+          "option": "!n = n! - !(n-1)"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of !5?",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "44",
+          "is_answer": true
+        },
+        {
+          "option": "50"
+        },
+        {
+          "option": "60"
+        }
+      ]
+    },
+    {
+      "question": "As n approaches infinity, the ratio !n / n! approaches which value?",
+      "options": [
+        {
+          "option": "e"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1/e",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of !6?",
+      "options": [
+        {
+          "option": "265",
+          "is_answer": true
+        },
+        {
+          "option": "720"
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "360"
+        }
+      ]
+    },
+    {
+      "question": "Which formula represents the derangement of n elements?",
+      "options": [
+        {
+          "option": "n! * sum_{k=0}^n (1/k!)"
+        },
+        {
+          "option": "sum_{k=0}^n ((-1)^k * k!)"
+        },
+        {
+          "option": "n! * sum_{k=0}^n ((-1)^k / k!)",
+          "is_answer": true
+        },
+        {
+          "option": "n! / e"
+        }
+      ]
+    },
+    {
+      "question": "What is another name for derangements?",
+      "options": [
+        {
+          "option": "Subset permutations"
+        },
+        {
+          "option": "Circular permutations"
+        },
+        {
+          "option": "Complete permutations",
+          "is_answer": true
+        },
+        {
+          "option": "Partial permutations"
+        }
+      ]
+    },
+    {
+      "question": "If !n = n * !(n-1) + k, what is k?",
+      "options": [
+        {
+          "option": "(-1)^n",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 3 letters be placed in 3 envelopes such that none are in the correct one?",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of !7?",
+      "options": [
+        {
+          "option": "2520"
+        },
+        {
+          "option": "1000"
+        },
+        {
+          "option": "1854",
+          "is_answer": true
+        },
+        {
+          "option": "5040"
+        }
+      ]
+    },
+    {
+      "question": "The number of derangements of n elements is the nearest integer to which value?",
+      "options": [
+        {
+          "option": "e^n"
+        },
+        {
+          "option": "n! * e"
+        },
+        {
+          "option": "n! / e",
+          "is_answer": true
+        },
+        {
+          "option": "n! / 2"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is true for !n?",
+      "options": [
+        {
+          "option": "!n = n * !(n-1) - (-1)^n"
+        },
+        {
+          "option": "!n = n! / n"
+        },
+        {
+          "option": "!n = (n-1) * !(n-1)"
+        },
+        {
+          "option": "!n = n * !(n-1) + (-1)^n",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the probability that a random permutation of n elements is a derangement?",
+      "options": [
+        {
+          "option": "!n / n!",
+          "is_answer": true
+        },
+        {
+          "option": "n! / !n"
+        },
+        {
+          "option": "1/e^n"
+        },
+        {
+          "option": "1/n"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of !8?",
+      "options": [
+        {
+          "option": "20160"
+        },
+        {
+          "option": "10000"
+        },
+        {
+          "option": "14833",
+          "is_answer": true
+        },
+        {
+          "option": "40320"
+        }
+      ]
+    },
+    {
+      "question": "The formula !n = n! * sum_{k=0}^n ((-1)^k / k!) is derived using which principle?",
+      "options": [
+        {
+          "option": "Pigeonhole Principle"
+        },
+        {
+          "option": "Inclusion-Exclusion Principle",
+          "is_answer": true
+        },
+        {
+          "option": "Mathematical Induction"
+        },
+        {
+          "option": "Binomial Theorem"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of !n for n=3?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "In how many ways can you select at least one fruit from a basket containing 3 distinct fruits?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "A person has 4 distinct books. How many ways can they choose at least one book?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "14"
+        }
+      ]
+    },
+    {
+      "question": "How many non-empty subsets can be formed from a set of 5 distinct elements?",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "31",
+          "is_answer": true
+        },
+        {
+          "option": "32"
+        }
+      ]
+    },
+    {
+      "question": "A student has 6 distinct pens. In how many ways can the student select at least one pen?",
+      "options": [
+        {
+          "option": "64"
+        },
+        {
+          "option": "62"
+        },
+        {
+          "option": "63",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        }
+      ]
+    },
+    {
+      "question": "If there are 7 distinct items, how many ways can one select at least one item?",
+      "options": [
+        {
+          "option": "49"
+        },
+        {
+          "option": "128"
+        },
+        {
+          "option": "127",
+          "is_answer": true
+        },
+        {
+          "option": "126"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can you select at least one object from 8 distinct objects?",
+      "options": [
+        {
+          "option": "64"
+        },
+        {
+          "option": "255",
+          "is_answer": true
+        },
+        {
+          "option": "254"
+        },
+        {
+          "option": "256"
+        }
+      ]
+    },
+    {
+      "question": "A set contains 2 distinct elements. How many non-empty subsets does it have?",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can you select at least one item from 9 distinct items?",
+      "options": [
+        {
+          "option": "511",
+          "is_answer": true
+        },
+        {
+          "option": "510"
+        },
+        {
+          "option": "512"
+        },
+        {
+          "option": "81"
+        }
+      ]
+    },
+    {
+      "question": "A box contains 10 distinct balls. How many ways can one select at least one ball?",
+      "options": [
+        {
+          "option": "1024"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "1022"
+        },
+        {
+          "option": "1023",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the number of ways to choose at least one object from 3 distinct objects?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "How many non-empty subsets can be formed from a set of 1 element?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "If there are 5 distinct flags, how many ways can you display at least one flag?",
+      "options": [
+        {
+          "option": "31",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "32"
+        }
+      ]
+    },
+    {
+      "question": "A person has 4 distinct coins. How many ways can they select at least one coin?",
+      "options": [
+        {
+          "option": "14"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can you select at least one item from 6 distinct items?",
+      "options": [
+        {
+          "option": "63",
+          "is_answer": true
+        },
+        {
+          "option": "64"
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "62"
+        }
+      ]
+    },
+    {
+      "question": "A set has 3 distinct elements. How many non-empty subsets does it have?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many ways can you select at least one item from 4 distinct items?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A student has 5 distinct notebooks. How many ways can they select at least one?",
+      "options": [
+        {
+          "option": "31",
+          "is_answer": true
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can you select at least one item from 2 distinct items?",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "A set has 4 distinct elements. How many non-empty subsets does it have?",
+      "options": [
+        {
+          "option": "14"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can you select at least one item from 7 distinct items?",
+      "options": [
+        {
+          "option": "126"
+        },
+        {
+          "option": "128"
+        },
+        {
+          "option": "49"
+        },
+        {
+          "option": "127",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many 2-digit numbers can be formed using {0, 1, 2, 3, 4, 5} without repetition that are divisible by 5?",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "How many 2-digit numbers can be formed using {0, 1, 2, 3, 4, 5} without repetition that are divisible by 4?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "How many 2-digit numbers can be formed using {0, 1, 2, 3, 4, 5} without repetition that are divisible by 6?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "How many 3-digit numbers can be formed using {1, 2, 3, 4, 5} without repetition that are divisible by 5?",
+      "options": [
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "How many 2-digit numbers can be formed using {0, 1, 2, 3, 4, 5} with repetition allowed that are divisible by 5?",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "How many 2-digit numbers can be formed using {0, 1, 2, 3, 4, 5} with repetition allowed that are divisible by 4?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "How many 2-digit numbers can be formed using {0, 1, 2, 3, 4, 5} with repetition allowed that are divisible by 6?",
+      "options": [
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "How many 3-digit numbers can be formed using {0, 1, 2, 3, 4, 5} without repetition that are divisible by 5?",
+      "options": [
+        {
+          "option": "42"
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "36",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many 3-digit numbers can be formed using {1, 2, 3, 4, 5} without repetition that are divisible by 4?",
+      "options": [
+        {
+          "option": "18",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "How many 3-digit numbers can be formed using {1, 2, 3, 4, 5} without repetition that are divisible by 6?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many 2-digit numbers can be formed using {1, 2, 3, 4, 5} without repetition that are divisible by 5?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "How many 2-digit numbers can be formed using {1, 2, 3, 4, 5} without repetition that are divisible by 4?",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "How many 2-digit numbers can be formed using {1, 2, 3, 4, 5} without repetition that are divisible by 6?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many 3-digit numbers can be formed using {0, 1, 2, 3, 4, 5} with repetition allowed that are divisible by 5?",
+      "options": [
+        {
+          "option": "60",
+          "is_answer": true
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "50"
+        },
+        {
+          "option": "72"
+        }
+      ]
+    },
+    {
+      "question": "How many 3-digit numbers can be formed using {0, 1, 2, 3, 4, 5} with repetition allowed that are divisible by 4?",
+      "options": [
+        {
+          "option": "60"
+        },
+        {
+          "option": "72",
+          "is_answer": true
+        },
+        {
+          "option": "90"
+        },
+        {
+          "option": "80"
+        }
+      ]
+    },
+    {
+      "question": "How many 3-digit numbers can be formed using {0, 1, 2, 3, 4, 5} with repetition allowed that are divisible by 6?",
+      "options": [
+        {
+          "option": "48",
+          "is_answer": true
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "50"
+        }
+      ]
+    },
+    {
+      "question": "How many 2-digit numbers can be formed using {0, 1, 2, 3, 4, 5} without repetition that are divisible by 2?",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "13",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "How many 2-digit numbers can be formed using {0, 1, 2, 3, 4, 5} without repetition that are divisible by 3?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "How many 3-digit numbers can be formed using {1, 2, 3, 4, 5} without repetition that are divisible by 2?",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "36",
+          "is_answer": true
+        },
+        {
+          "option": "42"
+        },
+        {
+          "option": "40"
+        }
+      ]
+    },
+    {
+      "question": "How many 3-digit numbers can be formed using {1, 2, 3, 4, 5} without repetition that are divisible by 3?",
+      "options": [
+        {
+          "option": "28"
+        },
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "In how many ways can 5 distinct objects be divided into three groups of sizes 2, 2, and 1?",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "30",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "60"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 6 distinct objects be divided into three groups of sizes 3, 2, and 1?",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "60",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "Calculate the number of ways to divide 4 distinct objects into groups of sizes 2, 1, and 1.",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 7 distinct objects be divided into groups of sizes 3, 2, and 2?",
+      "options": [
+        {
+          "option": "105"
+        },
+        {
+          "option": "420"
+        },
+        {
+          "option": "70"
+        },
+        {
+          "option": "210",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In how many ways can 8 distinct objects be divided into groups of sizes 4, 2, and 2?",
+      "options": [
+        {
+          "option": "210"
+        },
+        {
+          "option": "840"
+        },
+        {
+          "option": "420",
+          "is_answer": true
+        },
+        {
+          "option": "105"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 5 distinct objects be divided into groups of sizes 3, 1, and 1?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "40"
+        }
+      ]
+    },
+    {
+      "question": "Calculate the ways to divide 9 distinct objects into groups of sizes 3, 3, and 3.",
+      "options": [
+        {
+          "option": "1680"
+        },
+        {
+          "option": "840"
+        },
+        {
+          "option": "560"
+        },
+        {
+          "option": "280",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 6 distinct objects be divided into groups of sizes 2, 2, and 2?",
+      "options": [
+        {
+          "option": "45"
+        },
+        {
+          "option": "90"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "In how many ways can 4 distinct objects be divided into groups of sizes 2 and 2?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 7 distinct objects be divided into groups of sizes 4, 2, and 1?",
+      "options": [
+        {
+          "option": "210"
+        },
+        {
+          "option": "420"
+        },
+        {
+          "option": "105",
+          "is_answer": true
+        },
+        {
+          "option": "52"
+        }
+      ]
+    },
+    {
+      "question": "Calculate the ways to divide 5 distinct objects into groups of sizes 4 and 1.",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 6 distinct objects be divided into groups of sizes 4 and 2?",
+      "options": [
+        {
+          "option": "60"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "In how many ways can 8 distinct objects be divided into groups of sizes 3, 3, and 2?",
+      "options": [
+        {
+          "option": "840"
+        },
+        {
+          "option": "560"
+        },
+        {
+          "option": "140"
+        },
+        {
+          "option": "280",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 9 distinct objects be divided into groups of sizes 4, 3, and 2?",
+      "options": [
+        {
+          "option": "2520"
+        },
+        {
+          "option": "630"
+        },
+        {
+          "option": "315"
+        },
+        {
+          "option": "1260",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Calculate the ways to divide 4 distinct objects into groups of sizes 3 and 1.",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 7 distinct objects be divided into groups of sizes 5 and 2?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "21",
+          "is_answer": true
+        },
+        {
+          "option": "105"
+        },
+        {
+          "option": "42"
+        }
+      ]
+    },
+    {
+      "question": "In how many ways can 8 distinct objects be divided into groups of sizes 5 and 3?",
+      "options": [
+        {
+          "option": "56",
+          "is_answer": true
+        },
+        {
+          "option": "224"
+        },
+        {
+          "option": "112"
+        },
+        {
+          "option": "28"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 9 distinct objects be divided into groups of sizes 5 and 4?",
+      "options": [
+        {
+          "option": "63"
+        },
+        {
+          "option": "126",
+          "is_answer": true
+        },
+        {
+          "option": "504"
+        },
+        {
+          "option": "252"
+        }
+      ]
+    },
+    {
+      "question": "Calculate the ways to divide 6 distinct objects into groups of sizes 3 and 3.",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 10 distinct objects be divided into groups of sizes 5 and 5?",
+      "options": [
+        {
+          "option": "252"
+        },
+        {
+          "option": "504"
+        },
+        {
+          "option": "126",
+          "is_answer": true
+        },
+        {
+          "option": "63"
+        }
+      ]
+    },
+    {
+      "question": "In how many ways can 6 distinct beads be arranged on a circular necklace if flipping the necklace is considered the same arrangement?",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "720"
+        },
+        {
+          "option": "60",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 5 people be seated at a round table such that two specific people never sit together?",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "Find the number of ways to distribute 7 identical coins among 3 children such that each child receives at least one coin.",
+      "options": [
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "21"
+        },
+        {
+          "option": "28"
+        }
+      ]
+    },
+    {
+      "question": "How many distinct permutations of the word 'MISSISSIPPI' are there?",
+      "options": [
+        {
+          "option": "362880"
+        },
+        {
+          "option": "15120"
+        },
+        {
+          "option": "110"
+        },
+        {
+          "option": "34650",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A committee of 5 is to be formed from 6 men and 4 women. How many ways can this be done if at least 3 women must be included?",
+      "options": [
+        {
+          "option": "50"
+        },
+        {
+          "option": "86",
+          "is_answer": true
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "210"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 4 identical balls be placed into 3 distinct boxes?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "81"
+        },
+        {
+          "option": "24"
+        }
+      ]
+    },
+    {
+      "question": "In how many ways can 8 books be arranged on a shelf if 3 specific books must always be together?",
+      "options": [
+        {
+          "option": "5040"
+        },
+        {
+          "option": "40320"
+        },
+        {
+          "option": "720"
+        },
+        {
+          "option": "4320",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many diagonals does a convex polygon with 10 sides have?",
+      "options": [
+        {
+          "option": "45"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "35",
+          "is_answer": true
+        },
+        {
+          "option": "90"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 5 different prizes be distributed among 3 students if each student can receive any number of prizes?",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "243",
+          "is_answer": true
+        },
+        {
+          "option": "125"
+        }
+      ]
+    },
+    {
+      "question": "Find the number of ways to arrange the letters of the word 'BANANA'.",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "720"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "60",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 4 people be seated in a row of 10 chairs such that no two people sit together?",
+      "options": [
+        {
+          "option": "140",
+          "is_answer": true
+        },
+        {
+          "option": "210"
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "5040"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 3 distinct rings be worn on 4 fingers?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "64",
+          "is_answer": true
+        },
+        {
+          "option": "81"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "A group of 10 people is divided into two groups of 5. How many ways can this be done?",
+      "options": [
+        {
+          "option": "63"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "252"
+        },
+        {
+          "option": "126",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 5 distinct items be placed into 2 identical boxes such that no box is empty?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "32"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 6 people be arranged in a circle if 2 specific people must sit together?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "72"
+        },
+        {
+          "option": "48",
+          "is_answer": true
+        },
+        {
+          "option": "120"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can you choose 3 numbers from 1 to 20 such that no two are consecutive?",
+      "options": [
+        {
+          "option": "969"
+        },
+        {
+          "option": "1140"
+        },
+        {
+          "option": "816",
+          "is_answer": true
+        },
+        {
+          "option": "720"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 4 boys and 4 girls be seated in a row such that boys and girls alternate?",
+      "options": [
+        {
+          "option": "1152"
+        },
+        {
+          "option": "144"
+        },
+        {
+          "option": "288"
+        },
+        {
+          "option": "576",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 5 different books be arranged on a shelf such that two specific books are never together?",
+      "options": [
+        {
+          "option": "48"
+        },
+        {
+          "option": "72",
+          "is_answer": true
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "96"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 3 identical balls be placed into 5 distinct boxes?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "125"
+        },
+        {
+          "option": "35",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 4 distinct keys be arranged on a circular keyring?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "In how many ways can the letters of the word 'APPLE' be arranged?",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "60",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many ways can 5 people be seated in a row of 5 chairs?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "120",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many ways can you choose a committee of 3 from 6 people?",
+      "options": [
+        {
+          "option": "60"
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "18"
+        }
+      ]
+    }
+  ]
+}

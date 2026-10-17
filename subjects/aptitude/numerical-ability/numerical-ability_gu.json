@@ -1,0 +1,9005 @@
+{
+  "total_questions": 500,
+  "questions": [
+    {
+      "question": "સરળ કરો: 2^3 * 2^4",
+      "options": [
+        {
+          "option": "128",
+          "is_answer": true
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "256"
+        },
+        {
+          "option": "64"
+        }
+      ]
+    },
+    {
+      "question": "કિંમત શોધો: (3^2)^3",
+      "options": [
+        {
+          "option": "81"
+        },
+        {
+          "option": "729",
+          "is_answer": true
+        },
+        {
+          "option": "19683"
+        },
+        {
+          "option": "243"
+        }
+      ]
+    },
+    {
+      "question": "સરળ કરો: 5^6 / 5^4",
+      "options": [
+        {
+          "option": "25",
+          "is_answer": true
+        },
+        {
+          "option": "125"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "625"
+        }
+      ]
+    },
+    {
+      "question": "(16)^(1/4) ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "છેદનું સંમેકીકરણ કરો: 1 / (sqrt(3))",
+      "options": [
+        {
+          "option": "sqrt(3) / 3",
+          "is_answer": true
+        },
+        {
+          "option": "1 / 3"
+        },
+        {
+          "option": "sqrt(3)"
+        },
+        {
+          "option": "3 / sqrt(3)"
+        }
+      ]
+    },
+    {
+      "question": "7^0 ની કિંમત શોધો",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "અનંત"
+        }
+      ]
+    },
+    {
+      "question": "સરળ કરો: (2 * 3)^4",
+      "options": [
+        {
+          "option": "48"
+        },
+        {
+          "option": "72"
+        },
+        {
+          "option": "216"
+        },
+        {
+          "option": "1296",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "કિંમત શોધો: 8^(-2/3)",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "1/4",
+          "is_answer": true
+        },
+        {
+          "option": "1/8"
+        }
+      ]
+    },
+    {
+      "question": "છેદનું સંમેકીકરણ કરો: 1 / (sqrt(5) - 2)",
+      "options": [
+        {
+          "option": "sqrt(5) - 2"
+        },
+        {
+          "option": "5 - 2"
+        },
+        {
+          "option": "1 / (sqrt(5) + 2)"
+        },
+        {
+          "option": "sqrt(5) + 2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "સરળ કરો: sqrt(x^3 * x^5)",
+      "options": [
+        {
+          "option": "x^15"
+        },
+        {
+          "option": "x^4",
+          "is_answer": true
+        },
+        {
+          "option": "x^2"
+        },
+        {
+          "option": "x^8"
+        }
+      ]
+    },
+    {
+      "question": "કિંમત શોધો: (25/9)^(-1/2)",
+      "options": [
+        {
+          "option": "3/5",
+          "is_answer": true
+        },
+        {
+          "option": "25/9"
+        },
+        {
+          "option": "9/25"
+        },
+        {
+          "option": "5/3"
+        }
+      ]
+    },
+    {
+      "question": "જો 2^x = 32 હોય તો x ની કિંમત શોધો",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "સરળ કરો: 4^(3/2)",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કયું sqrt(20) ની સમકક્ષ છે?",
+      "options": [
+        {
+          "option": "2 * sqrt(5)",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "4 * sqrt(5)"
+        },
+        {
+          "option": "5 * sqrt(2)"
+        }
+      ]
+    },
+    {
+      "question": "સરળ કરો: (a^2 * b^3)^4",
+      "options": [
+        {
+          "option": "a^6 * b^7"
+        },
+        {
+          "option": "a^8 * b^7"
+        },
+        {
+          "option": "a^8 * b^12",
+          "is_answer": true
+        },
+        {
+          "option": "a^2 * b^12"
+        }
+      ]
+    },
+    {
+      "question": "કિંમત શોધો: (1/27)^(-2/3)",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "1/9"
+        },
+        {
+          "option": "27"
+        }
+      ]
+    },
+    {
+      "question": "(27)^-(1/3) ની કિંમત શોધો",
+      "options": [
+        {
+          "option": "1/3",
+          "is_answer": true
+        },
+        {
+          "option": "-3"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "-1/3"
+        }
+      ]
+    },
+    {
+      "question": "સરળ કરો: sqrt(50) + sqrt(18)",
+      "options": [
+        {
+          "option": "2 * sqrt(17)"
+        },
+        {
+          "option": "4 * sqrt(2)"
+        },
+        {
+          "option": "8 * sqrt(2)",
+          "is_answer": true
+        },
+        {
+          "option": "sqrt(68)"
+        }
+      ]
+    },
+    {
+      "question": "જો 3^(x+1) = 81 હોય, તો x ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "સરળ કરો: (x^(1/3) * x^(1/4))^12",
+      "options": [
+        {
+          "option": "x^12"
+        },
+        {
+          "option": "x^(1/7)"
+        },
+        {
+          "option": "x^5"
+        },
+        {
+          "option": "x^7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "49.8 × 20.2 નું અંદાજિત મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "900"
+        },
+        {
+          "option": "1000",
+          "is_answer": true
+        },
+        {
+          "option": "950"
+        },
+        {
+          "option": "1100"
+        }
+      ]
+    },
+    {
+      "question": "√399 × 15.1 નું અંદાજિત મૂલ્ય શોધો.",
+      "options": [
+        {
+          "option": "250"
+        },
+        {
+          "option": "300",
+          "is_answer": true
+        },
+        {
+          "option": "350"
+        },
+        {
+          "option": "200"
+        }
+      ]
+    },
+    {
+      "question": "(501 ના 19.98%) + (402 ના 24.9%) નું અંદાજિત મૂલ્ય શોધો.",
+      "options": [
+        {
+          "option": "200",
+          "is_answer": true
+        },
+        {
+          "option": "220"
+        },
+        {
+          "option": "180"
+        },
+        {
+          "option": "250"
+        }
+      ]
+    },
+    {
+      "question": "784.05 ÷ 27.9 નું અંદાજિત મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "28",
+          "is_answer": true
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "અંદાજિત ગણતરી કરો: (14.95)^2 + (19.02)^2.",
+      "options": [
+        {
+          "option": "525"
+        },
+        {
+          "option": "550"
+        },
+        {
+          "option": "600"
+        },
+        {
+          "option": "585",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "1499 ના 63.8% + 501 ના 34.2% નું અંદાજિત મૂલ્ય શોધો.",
+      "options": [
+        {
+          "option": "1170"
+        },
+        {
+          "option": "1050"
+        },
+        {
+          "option": "1135",
+          "is_answer": true
+        },
+        {
+          "option": "1100"
+        }
+      ]
+    },
+    {
+      "question": "12.01 × 14.98 × 6.05 નું અંદાજિત મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "1080",
+          "is_answer": true
+        },
+        {
+          "option": "1000"
+        },
+        {
+          "option": "950"
+        },
+        {
+          "option": "1150"
+        }
+      ]
+    },
+    {
+      "question": "અંદાજ લગાવો: 4567.89 - 2345.12 + 1012.34.",
+      "options": [
+        {
+          "option": "3350"
+        },
+        {
+          "option": "3000"
+        },
+        {
+          "option": "3235",
+          "is_answer": true
+        },
+        {
+          "option": "3100"
+        }
+      ]
+    },
+    {
+      "question": "∛1727.99 × 11.98 નું અંદાજિત મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "132"
+        },
+        {
+          "option": "150"
+        },
+        {
+          "option": "144",
+          "is_answer": true
+        },
+        {
+          "option": "120"
+        }
+      ]
+    },
+    {
+      "question": "(125.99)^(1/3) + (624.98)^(1/2) નું અંદાજિત મૂલ્ય શોધો.",
+      "options": [
+        {
+          "option": "28"
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "35"
+        },
+        {
+          "option": "30",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "850 ના 45.9% + 640 ના 24.8% નું અંદાજિત મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "500"
+        },
+        {
+          "option": "550",
+          "is_answer": true
+        },
+        {
+          "option": "520"
+        },
+        {
+          "option": "580"
+        }
+      ]
+    },
+    {
+      "question": "4399.98 ÷ 11.02 × 14.95 નું અંદાજિત મૂલ્ય શોધો.",
+      "options": [
+        {
+          "option": "5500"
+        },
+        {
+          "option": "5970",
+          "is_answer": true
+        },
+        {
+          "option": "6000"
+        },
+        {
+          "option": "5200"
+        }
+      ]
+    },
+    {
+      "question": "(17.98)^2 - (12.05)^2 નું અંદાજિત મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "160"
+        },
+        {
+          "option": "200"
+        },
+        {
+          "option": "150"
+        },
+        {
+          "option": "179",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "399.9 ના 89.9% + 800.1 ના 15.02% નું અંદાજિત મૂલ્ય શોધો.",
+      "options": [
+        {
+          "option": "500"
+        },
+        {
+          "option": "420"
+        },
+        {
+          "option": "480",
+          "is_answer": true
+        },
+        {
+          "option": "450"
+        }
+      ]
+    },
+    {
+      "question": "7345 ÷ 24.8 × 3.1 નું અંદાજિત મૂલ્ય શોધો.",
+      "options": [
+        {
+          "option": "950"
+        },
+        {
+          "option": "850"
+        },
+        {
+          "option": "890"
+        },
+        {
+          "option": "918",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "√624.99 + √129.98 - √48.99 નું અંદાજિત મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "28",
+          "is_answer": true
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "1200 ના 55.05% + 800 ના 44.95% નું અંદાજિત મૂલ્ય શોધો.",
+      "options": [
+        {
+          "option": "1050"
+        },
+        {
+          "option": "1000"
+        },
+        {
+          "option": "980"
+        },
+        {
+          "option": "1020",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "14.02 × 18.95 + 12.08 × 15.12 નું અંદાજિત મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "420"
+        },
+        {
+          "option": "400"
+        },
+        {
+          "option": "460"
+        },
+        {
+          "option": "446",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "(21.98)^2 ÷ 3.95 × 2.02 નું અંદાજિત મૂલ્ય શોધો.",
+      "options": [
+        {
+          "option": "260"
+        },
+        {
+          "option": "220"
+        },
+        {
+          "option": "242",
+          "is_answer": true
+        },
+        {
+          "option": "200"
+        }
+      ]
+    },
+    {
+      "question": "999.09 ÷ 12.48 × 3.02 નું અંદાજિત મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "240",
+          "is_answer": true
+        },
+        {
+          "option": "220"
+        },
+        {
+          "option": "260"
+        },
+        {
+          "option": "200"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કઈ સંખ્યા 11 વડે વિભાજ્ય છે?",
+      "options": [
+        {
+          "option": "4831"
+        },
+        {
+          "option": "4828"
+        },
+        {
+          "option": "4829",
+          "is_answer": true
+        },
+        {
+          "option": "4830"
+        }
+      ]
+    },
+    {
+      "question": "સંખ્યા 543*2 એ 9 વડે વિભાજ્ય બને તે માટે * ની સૌથી નાની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કઈ સંખ્યા 7 વડે વિભાજ્ય છે?",
+      "options": [
+        {
+          "option": "364",
+          "is_answer": true
+        },
+        {
+          "option": "365"
+        },
+        {
+          "option": "367"
+        },
+        {
+          "option": "362"
+        }
+      ]
+    },
+    {
+      "question": "જો સંખ્યા 78x32 એ 4 વડે વિભાજ્ય હોય, તો x ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કઈ સંખ્યા 13 વડે વિભાજ્ય છે?",
+      "options": [
+        {
+          "option": "292"
+        },
+        {
+          "option": "289"
+        },
+        {
+          "option": "286",
+          "is_answer": true
+        },
+        {
+          "option": "273"
+        }
+      ]
+    },
+    {
+      "question": "કોઈ સંખ્યા 8 વડે વિભાજ્ય છે જો:",
+      "options": [
+        {
+          "option": "છેલ્લા બે અંકો 8 વડે વિભાજ્ય હોય"
+        },
+        {
+          "option": "છેલ્લા ત્રણ અંકોથી બનતી સંખ્યા 8 વડે વિભાજ્ય હોય",
+          "is_answer": true
+        },
+        {
+          "option": "બધા અંકોનો સરવાળો 8 વડે વિભાજ્ય હોય"
+        },
+        {
+          "option": "છેલ્લો અંક બેકી હોય અને 4 વડે વિભાજ્ય હોય"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કઈ સંખ્યા 17 વડે વિભાજ્ય છે?",
+      "options": [
+        {
+          "option": "323",
+          "is_answer": true
+        },
+        {
+          "option": "327"
+        },
+        {
+          "option": "331"
+        },
+        {
+          "option": "337"
+        }
+      ]
+    },
+    {
+      "question": "જો કોઈ સંખ્યા 3 અને 4 બંને વડે વિભાજ્ય હોય, તો તે શેના વડે વિભાજ્ય હોવી જ જોઈએ?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કઈ સંખ્યા 19 વડે વિભાજ્ય છે?",
+      "options": [
+        {
+          "option": "351"
+        },
+        {
+          "option": "363"
+        },
+        {
+          "option": "361",
+          "is_answer": true
+        },
+        {
+          "option": "371"
+        }
+      ]
+    },
+    {
+      "question": "6 માટેની વિભાજ્યતા ચકાસણીનો નિયમ શું છે?",
+      "options": [
+        {
+          "option": "2 અને 3 બંને વડે વિભાજ્ય",
+          "is_answer": true
+        },
+        {
+          "option": "2 અને 4 બંને વડે વિભાજ્ય"
+        },
+        {
+          "option": "1 અને 6 બંને વડે વિભાજ્ય"
+        },
+        {
+          "option": "3 અને 4 બંને વડે વિભાજ્ય"
+        }
+      ]
+    },
+    {
+      "question": "સંખ્યા 456x એ 6 વડે વિભાજ્ય બને તે માટે x ની મહત્તમ કિંમત શું હોઈ શકે?",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કઈ સંખ્યા 5 વડે વિભાજ્ય નથી?",
+      "options": [
+        {
+          "option": "4326",
+          "is_answer": true
+        },
+        {
+          "option": "4330"
+        },
+        {
+          "option": "4325"
+        },
+        {
+          "option": "4335"
+        }
+      ]
+    },
+    {
+      "question": "જો 6-અંકની સંખ્યા 7125x2 એ 9 વડે વિભાજ્ય હોય, તો x ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "જ્યારે 9435 ને 11 વડે ભાગવામાં આવે ત્યારે શેષ કેટલી વધે?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કઈ સંખ્યા 12 વડે વિભાજ્ય છે?",
+      "options": [
+        {
+          "option": "5470"
+        },
+        {
+          "option": "5472",
+          "is_answer": true
+        },
+        {
+          "option": "5474"
+        },
+        {
+          "option": "5478"
+        }
+      ]
+    },
+    {
+      "question": "7 ની વિભાજ્યતા ચકાસવા માટેના પ્રમાણિત નિયમમાં શું સામેલ છે?",
+      "options": [
+        {
+          "option": "છેલ્લા અંકને ત્રણ ગણો કરીને બાકીની સંખ્યામાં ઉમેરવું"
+        },
+        {
+          "option": "છેલ્લા અંકના અડધા કરીને ઉમેરવું"
+        },
+        {
+          "option": "છેલ્લા અંકના બમણા કરીને બાકીની સંખ્યામાંથી બાદ કરવું",
+          "is_answer": true
+        },
+        {
+          "option": "છેલ્લા અંકને 4 વડે ગુણીને બાદ કરવું"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કયો સંયુક્ત ભાજકનો નિયમ છે: કોઈ સંખ્યા 72 વડે વિભાજ્ય છે જો તે શેના વડે વિભાજ્ય હોય?",
+      "options": [
+        {
+          "option": "6 અને 12"
+        },
+        {
+          "option": "4 અને 18"
+        },
+        {
+          "option": "2 અને 36"
+        },
+        {
+          "option": "8 અને 9",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "918x6 માં ખૂટતો અંક x શોધો જેથી તે 8 વડે વિભાજ્ય બને.",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કઈ સંખ્યા 3 અને 11 બંને વડે વિભાજ્ય છે?",
+      "options": [
+        {
+          "option": "6534",
+          "is_answer": true
+        },
+        {
+          "option": "6523"
+        },
+        {
+          "option": "6531"
+        },
+        {
+          "option": "6537"
+        }
+      ]
+    },
+    {
+      "question": "2356 માં કઈ નાની સંખ્યા ઉમેરવી જોઈએ જેથી સરવાળો 5 વડે સંપૂર્ણ વિભાજ્ય બને?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "મૂલ્ય શોધો: 2 1/4 + 3 3/4 - 1 1/2",
+      "options": [
+        {
+          "option": "4 1/2",
+          "is_answer": true
+        },
+        {
+          "option": "5 1/2"
+        },
+        {
+          "option": "3 3/4"
+        },
+        {
+          "option": "4 1/4"
+        }
+      ]
+    },
+    {
+      "question": "આવર્ત દશાંશ 0.333... ને અપૂર્ણાંકમાં રૂપાંતરિત કરો.",
+      "options": [
+        {
+          "option": "33/100"
+        },
+        {
+          "option": "1/3",
+          "is_answer": true
+        },
+        {
+          "option": "3/11"
+        },
+        {
+          "option": "3/10"
+        }
+      ]
+    },
+    {
+      "question": "મૂલ્ય શોધો: (1 1/2) * (2 2/3) / (1 1/3)",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "2 1/2"
+        }
+      ]
+    },
+    {
+      "question": "આવર્ત દશાંશ 0.666... (અથવા 0.6̄) ને સરળ અપૂર્ણાંકમાં ફેરવો.",
+      "options": [
+        {
+          "option": "6/10"
+        },
+        {
+          "option": "3/5"
+        },
+        {
+          "option": "2/3",
+          "is_answer": true
+        },
+        {
+          "option": "66/99"
+        }
+      ]
+    },
+    {
+      "question": "મૂલ્ય શોધો: 5.4 + 2.35 - 1.2",
+      "options": [
+        {
+          "option": "6.45"
+        },
+        {
+          "option": "6.55",
+          "is_answer": true
+        },
+        {
+          "option": "6.75"
+        },
+        {
+          "option": "7.55"
+        }
+      ]
+    },
+    {
+      "question": "0.4̄ + 0.3̄ નું મૂલ્ય શોધો.",
+      "options": [
+        {
+          "option": "37/90"
+        },
+        {
+          "option": "77/100"
+        },
+        {
+          "option": "7/10"
+        },
+        {
+          "option": "7/9",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "મૂલ્ય શોધો: 4 1/5 - 2 3/10 + 1 1/2",
+      "options": [
+        {
+          "option": "2 2/5"
+        },
+        {
+          "option": "4 1/10"
+        },
+        {
+          "option": "3 4/5"
+        },
+        {
+          "option": "3 2/5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "આવર્ત દશાંશ 0.1666... (અથવા 0.16̄) ને અપૂર્ણાંકમાં ફેરવો.",
+      "options": [
+        {
+          "option": "1/6",
+          "is_answer": true
+        },
+        {
+          "option": "16/99"
+        },
+        {
+          "option": "15/90"
+        },
+        {
+          "option": "1/5"
+        }
+      ]
+    },
+    {
+      "question": "સાદું રૂપ આપો: (3/4 + 2/3) / (5/6)",
+      "options": [
+        {
+          "option": "1 1/2"
+        },
+        {
+          "option": "1 3/5"
+        },
+        {
+          "option": "1 9/10",
+          "is_answer": true
+        },
+        {
+          "option": "2 1/5"
+        }
+      ]
+    },
+    {
+      "question": "મૂલ્ય શોધો: 0.2̄ + 0.4̄ + 0.3̄",
+      "options": [
+        {
+          "option": "0.99"
+        },
+        {
+          "option": "9/10"
+        },
+        {
+          "option": "1.1"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "મૂલ્ય શોધો: 7.25 * 0.4",
+      "options": [
+        {
+          "option": "2.9",
+          "is_answer": true
+        },
+        {
+          "option": "2.75"
+        },
+        {
+          "option": "3.1"
+        },
+        {
+          "option": "2.85"
+        }
+      ]
+    },
+    {
+      "question": "મૂલ્ય શોધો: 3 1/3 - 1 5/6 + 2 3/4",
+      "options": [
+        {
+          "option": "3 3/4"
+        },
+        {
+          "option": "4 7/12"
+        },
+        {
+          "option": "4 1/4",
+          "is_answer": true
+        },
+        {
+          "option": "4 5/12"
+        }
+      ]
+    },
+    {
+      "question": "0.12̄ (૨ પર આવર્ત) ને અપૂર્ણાંકમાં રૂપાંતરિત કરો.",
+      "options": [
+        {
+          "option": "6/50"
+        },
+        {
+          "option": "11/90",
+          "is_answer": true
+        },
+        {
+          "option": "2/15"
+        },
+        {
+          "option": "12/99"
+        }
+      ]
+    },
+    {
+      "question": "મૂલ્ય શોધો: (5/8) / (2 1/2) * (1 1/5)",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "3/10",
+          "is_answer": true
+        },
+        {
+          "option": "3/8"
+        },
+        {
+          "option": "4/5"
+        }
+      ]
+    },
+    {
+      "question": "મૂલ્ય શોધો: 15.5 - {7.2 - (3.1 + 1.2)}",
+      "options": [
+        {
+          "option": "13.2"
+        },
+        {
+          "option": "10.4"
+        },
+        {
+          "option": "12.6",
+          "is_answer": true
+        },
+        {
+          "option": "11.6"
+        }
+      ]
+    },
+    {
+      "question": "0.37̄ ને અપૂર્ણાંક તરીકે દર્શાવતા શું પરિણામ મળે?",
+      "options": [
+        {
+          "option": "34/90",
+          "is_answer": true
+        },
+        {
+          "option": "37/100"
+        },
+        {
+          "option": "37/99"
+        },
+        {
+          "option": "33/90"
+        }
+      ]
+    },
+    {
+      "question": "મૂલ્ય શોધો: (2 1/3 + 1 1/6) * (4/5)",
+      "options": [
+        {
+          "option": "2 4/5",
+          "is_answer": true
+        },
+        {
+          "option": "3 1/3"
+        },
+        {
+          "option": "2 1/2"
+        },
+        {
+          "option": "2 2/3"
+        }
+      ]
+    },
+    {
+      "question": "સાદું રૂપ આપો: 8.5 - 3.2 * 1.5 + 2.4",
+      "options": [
+        {
+          "option": "6.1",
+          "is_answer": true
+        },
+        {
+          "option": "5.9"
+        },
+        {
+          "option": "7.3"
+        },
+        {
+          "option": "10.35"
+        }
+      ]
+    },
+    {
+      "question": "મૂલ્ય શોધો: 5.76̄ - 2.34̄",
+      "options": [
+        {
+          "option": "3.42"
+        },
+        {
+          "option": "3.43̄"
+        },
+        {
+          "option": "3.41"
+        },
+        {
+          "option": "3.42̄",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "મૂલ્ય શોધો: (1 - 1/2)(1 - 1/3)(1 - 1/4)...(1 - 1/10)",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "1/10",
+          "is_answer": true
+        },
+        {
+          "option": "1/9"
+        },
+        {
+          "option": "9/10"
+        }
+      ]
+    },
+    {
+      "question": "સાદુરૂપ આપો: (75 + 25)^2 - (75 - 25)^2 / (75 * 25)",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "100"
+        }
+      ]
+    },
+    {
+      "question": "જો x + y = 12 અને xy = 27 હોય, તો x^3 + y^3 ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "729"
+        },
+        {
+          "option": "486"
+        },
+        {
+          "option": "1728"
+        },
+        {
+          "option": "756",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "મૂલ્ય શોધો: (85 * 85 * 85 - 15 * 15 * 15) / (85 * 85 + 85 * 15 + 15 * 15)",
+      "options": [
+        {
+          "option": "100"
+        },
+        {
+          "option": "850"
+        },
+        {
+          "option": "70",
+          "is_answer": true
+        },
+        {
+          "option": "50"
+        }
+      ]
+    },
+    {
+      "question": "જો a + b + c = 9 અને ab + bc + ca = 26 હોય, તો a^2 + b^2 + c^2 શોધો.",
+      "options": [
+        {
+          "option": "133"
+        },
+        {
+          "option": "29",
+          "is_answer": true
+        },
+        {
+          "option": "55"
+        },
+        {
+          "option": "81"
+        }
+      ]
+    },
+    {
+      "question": "સાદુરૂપ આપો: (4.7 * 4.7 - 1.3 * 1.3) / (4.7 - 1.3)",
+      "options": [
+        {
+          "option": "4.7"
+        },
+        {
+          "option": "6.0",
+          "is_answer": true
+        },
+        {
+          "option": "1.3"
+        },
+        {
+          "option": "3.4"
+        }
+      ]
+    },
+    {
+      "question": "જો x - 1/x = 5 હોય, તો x^2 + 1/x^2 ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "27",
+          "is_answer": true
+        },
+        {
+          "option": "23"
+        }
+      ]
+    },
+    {
+      "question": "મૂલ્ય શોધો: (38 * 38 + 2 * 38 * 12 + 12 * 12)",
+      "options": [
+        {
+          "option": "2400"
+        },
+        {
+          "option": "2000"
+        },
+        {
+          "option": "2600"
+        },
+        {
+          "option": "2500",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો x + 1/x = 3 હોય, તો x^3 + 1/x^3 ની કિંમત કેટલી થાય?",
+      "options": [
+        {
+          "option": "18",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "27"
+        },
+        {
+          "option": "36"
+        }
+      ]
+    },
+    {
+      "question": "બીજગણિત નિત્યસમનો ઉપયોગ કરીને (999)^2 ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "998991"
+        },
+        {
+          "option": "998001",
+          "is_answer": true
+        },
+        {
+          "option": "980001"
+        },
+        {
+          "option": "999001"
+        }
+      ]
+    },
+    {
+      "question": "સાદુરૂપ આપો: (64^2 - 36^2) / 28",
+      "options": [
+        {
+          "option": "200"
+        },
+        {
+          "option": "100",
+          "is_answer": true
+        },
+        {
+          "option": "28"
+        },
+        {
+          "option": "50"
+        }
+      ]
+    },
+    {
+      "question": "જો a + b = 10 અને a - b = 4 હોય, તો ab ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "21",
+          "is_answer": true
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "28"
+        }
+      ]
+    },
+    {
+      "question": "મૂલ્ય શોધો: (2.3 * 2.3 * 2.3 + 0.7 * 0.7 * 0.7) / (2.3 * 2.3 - 2.3 * 0.7 + 0.7 * 0.7)",
+      "options": [
+        {
+          "option": "3.0",
+          "is_answer": true
+        },
+        {
+          "option": "1.6"
+        },
+        {
+          "option": "0.7"
+        },
+        {
+          "option": "2.3"
+        }
+      ]
+    },
+    {
+      "question": "જો x - y = 4 અને xy = 21 હોય, તો x^3 - y^3 શોધો.",
+      "options": [
+        {
+          "option": "100"
+        },
+        {
+          "option": "256"
+        },
+        {
+          "option": "316",
+          "is_answer": true
+        },
+        {
+          "option": "64"
+        }
+      ]
+    },
+    {
+      "question": "જો a + b + c = 12 અને a^2 + b^2 + c^2 = 50 હોય, તો ab + bc + ca શોધો.",
+      "options": [
+        {
+          "option": "94"
+        },
+        {
+          "option": "47",
+          "is_answer": true
+        },
+        {
+          "option": "54"
+        },
+        {
+          "option": "74"
+        }
+      ]
+    },
+    {
+      "question": "સાદુરૂપ આપો: (59 + 41)^2 - 4 * 59 * 41",
+      "options": [
+        {
+          "option": "10000"
+        },
+        {
+          "option": "3364",
+          "is_answer": true
+        },
+        {
+          "option": "2418"
+        },
+        {
+          "option": "4836"
+        }
+      ]
+    },
+    {
+      "question": "જો x = 301 અને y = 300 હોય, તો x^2 - y^2 ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "180601"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "90301"
+        },
+        {
+          "option": "601",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો a + b = 7 અને ab = 12 હોય, તો a^3 + b^3 શોધો.",
+      "options": [
+        {
+          "option": "91",
+          "is_answer": true
+        },
+        {
+          "option": "49"
+        },
+        {
+          "option": "343"
+        },
+        {
+          "option": "133"
+        }
+      ]
+    },
+    {
+      "question": "જો a + b + c = 0 હોય, તો a^3 + b^3 + c^3 ની કિંમત કેટલી થાય?",
+      "options": [
+        {
+          "option": "3abc",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "abc"
+        },
+        {
+          "option": "-3abc"
+        }
+      ]
+    },
+    {
+      "question": "સાદુરૂપ આપો: (103 * 97)",
+      "options": [
+        {
+          "option": "9999"
+        },
+        {
+          "option": "9909"
+        },
+        {
+          "option": "9991",
+          "is_answer": true
+        },
+        {
+          "option": "10009"
+        }
+      ]
+    },
+    {
+      "question": "જો x + 1/x = 4 હોય, તો x^4 + 1/x^4 ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "194",
+          "is_answer": true
+        },
+        {
+          "option": "192"
+        },
+        {
+          "option": "196"
+        },
+        {
+          "option": "256"
+        }
+      ]
+    },
+    {
+      "question": "અવિભાજ્ય અવયવીકરણની પદ્ધતિથી 24 અને 36 નો ગુ.સા.અ. (HCF) શું છે?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "અવિભાજ્ય અવયવીકરણની પદ્ધતિથી 12 અને 18 નો લ.સા.અ. (LCM) શું છે?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "72"
+        },
+        {
+          "option": "36",
+          "is_answer": true
+        },
+        {
+          "option": "54"
+        }
+      ]
+    },
+    {
+      "question": "અવિભાજ્ય અવયવીકરણ દ્વારા 45, 75 અને 105 નો ગુ.સા.અ. શોધો.",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "45"
+        }
+      ]
+    },
+    {
+      "question": "અવિભાજ્ય અવયવીકરણ દ્વારા 15, 20 અને 30 નો લ.સા.અ. શોધો.",
+      "options": [
+        {
+          "option": "150"
+        },
+        {
+          "option": "60",
+          "is_answer": true
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "90"
+        }
+      ]
+    },
+    {
+      "question": "જો બે સંખ્યાઓ $2^3 \\times 3^2$ અને $2^2 \\times 3^3$ તરીકે દર્શાવવામાં આવે, તો તેમનો ગુ.સા.અ. શું છે?",
+      "options": [
+        {
+          "option": "36",
+          "is_answer": true
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "72"
+        },
+        {
+          "option": "108"
+        }
+      ]
+    },
+    {
+      "question": "જો બે સંખ્યાઓ $2^3 \\times 3^2$ અને $2^2 \\times 3^3$ તરીકે દર્શાવવામાં આવે, તો તેમનો લ.સા.અ. શું છે?",
+      "options": [
+        {
+          "option": "216"
+        },
+        {
+          "option": "72"
+        },
+        {
+          "option": "108",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        }
+      ]
+    },
+    {
+      "question": "અવિભાજ્ય સંખ્યાઓ 17 અને 19 નો ગુ.સા.અ. શું છે?",
+      "options": [
+        {
+          "option": "323"
+        },
+        {
+          "option": "19"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "17"
+        }
+      ]
+    },
+    {
+      "question": "અવિભાજ્ય સંખ્યાઓ 11 અને 13 નો લ.સા.અ. શું છે?",
+      "options": [
+        {
+          "option": "121"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "143",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "અવિભાજ્ય અવયવીકરણ ખ્યાલનો ઉપયોગ કરીને $a^2b^3c$ અને $ab^2c^3$ નો ગુ.સા.અ. શોધો.",
+      "options": [
+        {
+          "option": "$ab^2c$",
+          "is_answer": true
+        },
+        {
+          "option": "$a^2b^3c^3$"
+        },
+        {
+          "option": "$abc$"
+        },
+        {
+          "option": "$a^2b^2c^2$"
+        }
+      ]
+    },
+    {
+      "question": "અવિભાજ્ય અવયવીકરણ ખ્યાલનો ઉપયોગ કરીને $x^3y^2$ અને $x^2y^4$ નો લ.સા.અ. શોધો.",
+      "options": [
+        {
+          "option": "$x^3y^2$"
+        },
+        {
+          "option": "$x^5y^6$"
+        },
+        {
+          "option": "$x^3y^4$",
+          "is_answer": true
+        },
+        {
+          "option": "$x^2y^2$"
+        }
+      ]
+    },
+    {
+      "question": "56 અને 84 નો ગુ.સા.અ. શું છે?",
+      "options": [
+        {
+          "option": "56"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "28",
+          "is_answer": true
+        },
+        {
+          "option": "14"
+        }
+      ]
+    },
+    {
+      "question": "28, 42 અને 56 નો લ.સા.અ. શું છે?",
+      "options": [
+        {
+          "option": "84"
+        },
+        {
+          "option": "168",
+          "is_answer": true
+        },
+        {
+          "option": "336"
+        },
+        {
+          "option": "252"
+        }
+      ]
+    },
+    {
+      "question": "અવિભાજ્ય અવયવીકરણનો ઉપયોગ કરીને 108, 288 અને 360 નો ગુ.સા.અ. શોધો.",
+      "options": [
+        {
+          "option": "72"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "54"
+        },
+        {
+          "option": "36",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "અવિભાજ્ય અવયવીકરણનો ઉપયોગ કરીને 24, 36 અને 40 નો લ.સા.અ. શોધો.",
+      "options": [
+        {
+          "option": "360",
+          "is_answer": true
+        },
+        {
+          "option": "720"
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "180"
+        }
+      ]
+    },
+    {
+      "question": "બે સંખ્યાઓ 14 અને 35 ના ગુ.સા.અ. અને લ.સા.અ. નો ગુણાકાર શું છે, અને તે તેમના અવિભાજ્ય અવયવો સાથે કેવી રીતે સંબંધિત છે?",
+      "options": [
+        {
+          "option": "490",
+          "is_answer": true
+        },
+        {
+          "option": "49"
+        },
+        {
+          "option": "245"
+        },
+        {
+          "option": "98"
+        }
+      ]
+    },
+    {
+      "question": "જે સંખ્યાઓનું અવિભાજ્ય અવયવીકરણ $2^4 \\times 3^2 \\times 5^3$ અને $2^2 \\times 3^4 \\times 5^1$ છે તેનો ગુ.સા.અ. શોધો.",
+      "options": [
+        {
+          "option": "90"
+        },
+        {
+          "option": "540"
+        },
+        {
+          "option": "360"
+        },
+        {
+          "option": "180",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "$7^2 \\times 3$ અને $7 \\times 3^2$ નો લ.સા.અ. શું છે?",
+      "options": [
+        {
+          "option": "147"
+        },
+        {
+          "option": "63"
+        },
+        {
+          "option": "441",
+          "is_answer": true
+        },
+        {
+          "option": "21"
+        }
+      ]
+    },
+    {
+      "question": "જો સંખ્યા A નું અવિભાજ્ય અવયવીકરણ $2^3 \\times 5^2$ છે અને સંખ્યા B નું $2^2 \\times 5^3 \\times 7$ છે, તો A અને B નો ગુ.સા.અ. શું છે?",
+      "options": [
+        {
+          "option": "50"
+        },
+        {
+          "option": "700"
+        },
+        {
+          "option": "100",
+          "is_answer": true
+        },
+        {
+          "option": "200"
+        }
+      ]
+    },
+    {
+      "question": "અવિભાજ્ય અવયવીકરણ દ્વારા 16, 24 અને 36 નો લ.સા.અ. શોધો.",
+      "options": [
+        {
+          "option": "144",
+          "is_answer": true
+        },
+        {
+          "option": "72"
+        },
+        {
+          "option": "432"
+        },
+        {
+          "option": "288"
+        }
+      ]
+    },
+    {
+      "question": "$2^3 \\times 3^2$, $2^2 \\times 3^3$, અને $2^4 \\times 3^1$ દ્વારા આપવામાં આવેલી ત્રણ સંખ્યાઓનો ગુ.સા.અ. શું છે?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "$7^{105}$ નો એકમનો અંક શું છે?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "$3^{64}$ નો એકમનો અંક શોધો.",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "ગુણાકાર $246^{54} \\times 527^{32}$ માં એકમનો અંક શું છે?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "$2^{43} \\times 3^{52}$ નો એકમનો અંક શોધો.",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "$4^{99} + 9^{100}$ નો એકમનો અંક શું છે?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "$8^{75}$ નો એકમનો અંક નક્કી કરો.",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "$6^{58} + 5^{79} + 1^{45}$ નો એકમનો અંક શું છે?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "પદાવલી $(123)^{42}$ નો એકમનો અંક શોધો.",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "$7^{95} - 3^{58}$ નો એકમનો અંક શું છે?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "$9^{101} \\times 4^{22}$ નો એકમનો અંક શોધો.",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "$2^{51}$ નો એકમનો અંક શું છે?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "$17^{2016}$ નો એકમનો અંક નક્કી કરો.",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "$264^{102} + 264^{103}$ નો એકમનો અંક શોધો.",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "$5^{(5^{5})}$ નો એકમનો અંક શું છે?",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "$6^{100} \\times 4^{47}$ નો એકમનો અંક શું છે?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "$(81)^{(10 \times 25 \times 30)}$ નો એકમનો અંક શોધો.",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "સરવાળા $1^1 + 2^2 + 3^3 + 4^4 + 5^5$ નો એકમનો અંક શું છે?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "$33^{33}$ નો એકમનો અંક નક્કી કરો.",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "$7^{4n}$ નો એકમનો અંક શોધો જ્યાં $n$ એ ધન પૂર્ણાંક છે.",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "$2017^{2017}$ નો એકમનો અંક શું છે?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "$7^{99}$ નો દશકનો અંક શું છે?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "$3^{400}$ ના છેલ્લા બે અંક શોધો.",
+      "options": [
+        {
+          "option": "01",
+          "is_answer": true
+        },
+        {
+          "option": "21"
+        },
+        {
+          "option": "41"
+        },
+        {
+          "option": "81"
+        }
+      ]
+    },
+    {
+      "question": "જ્યારે $2^{100}$ ને 25 વડે ભાગવામાં આવે ત્યારે શેષ શું આવે?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "01"
+        },
+        {
+          "option": "76",
+          "is_answer": true
+        },
+        {
+          "option": "50"
+        }
+      ]
+    },
+    {
+      "question": "$7^{2008}$ ના છેલ્લા બે અંક શોધો.",
+      "options": [
+        {
+          "option": "43"
+        },
+        {
+          "option": "21"
+        },
+        {
+          "option": "01",
+          "is_answer": true
+        },
+        {
+          "option": "57"
+        }
+      ]
+    },
+    {
+      "question": "$3^{50}$ નો દશકનો અંક શું છે?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "જ્યારે $7^{82}$ ને 100 વડે ભાગવામાં આવે ત્યારે શેષ શોધો.",
+      "options": [
+        {
+          "option": "09"
+        },
+        {
+          "option": "29"
+        },
+        {
+          "option": "89"
+        },
+        {
+          "option": "49",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "$19^{19}$ ના છેલ્લા બે અંક કયા છે?",
+      "options": [
+        {
+          "option": "29"
+        },
+        {
+          "option": "19"
+        },
+        {
+          "option": "99",
+          "is_answer": true
+        },
+        {
+          "option": "09"
+        }
+      ]
+    },
+    {
+      "question": "યુલરના પ્રમેયનો ઉપયોગ કરીને, 100 વડે ભાગતા $7^{222}$ ની શેષ શોધો.",
+      "options": [
+        {
+          "option": "01"
+        },
+        {
+          "option": "51"
+        },
+        {
+          "option": "49",
+          "is_answer": true
+        },
+        {
+          "option": "29"
+        }
+      ]
+    },
+    {
+      "question": "$2^{1000}$ નો દશકનો અંક શોધો.",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જ્યારે $3^{100}$ ને 80 વડે ભાગવામાં આવે ત્યારે શેષ શું આવે?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "43"
+        },
+        {
+          "option": "27"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "$13^{2000}$ ના છેલ્લા બે અંક શોધો.",
+      "options": [
+        {
+          "option": "21"
+        },
+        {
+          "option": "01",
+          "is_answer": true
+        },
+        {
+          "option": "41"
+        },
+        {
+          "option": "61"
+        }
+      ]
+    },
+    {
+      "question": "$9^{99}$ નો દશકનો અંક શું છે?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "$51^{51}$ ના છેલ્લા બે અંક શોધો.",
+      "options": [
+        {
+          "option": "01"
+        },
+        {
+          "option": "21"
+        },
+        {
+          "option": "51",
+          "is_answer": true
+        },
+        {
+          "option": "71"
+        }
+      ]
+    },
+    {
+      "question": "$2^{60}$ ને 7 વડે ભાગતા શેષ શું મળે?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "$67^{100}$ ના છેલ્લા બે અંક શોધો.",
+      "options": [
+        {
+          "option": "41"
+        },
+        {
+          "option": "01",
+          "is_answer": true
+        },
+        {
+          "option": "81"
+        },
+        {
+          "option": "21"
+        }
+      ]
+    },
+    {
+      "question": "$4^{44}$ નો દશકનો અંક શું છે?",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "$9^{111}$ ના છેલ્લા બે અંક શોધો.",
+      "options": [
+        {
+          "option": "09"
+        },
+        {
+          "option": "89"
+        },
+        {
+          "option": "69"
+        },
+        {
+          "option": "29",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જ્યારે $7^{1000}$ ને 24 વડે ભાગવામાં આવે ત્યારે શેષ શું આવે?",
+      "options": [
+        {
+          "option": "23"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "17"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "$43^{43}$ ના છેલ્લા બે અંક શોધો.",
+      "options": [
+        {
+          "option": "27"
+        },
+        {
+          "option": "87"
+        },
+        {
+          "option": "47"
+        },
+        {
+          "option": "07",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "યુલર પ્રમેયનો ઉપયોગ કરીને, $3^{102}$ ને 100 વડે ભાગતા શેષ શોધો.",
+      "options": [
+        {
+          "option": "49"
+        },
+        {
+          "option": "09",
+          "is_answer": true
+        },
+        {
+          "option": "89"
+        },
+        {
+          "option": "29"
+        }
+      ]
+    },
+    {
+      "question": "अपूर्णांकाનો ગુ.સા.અ. (HCF) શોધો: 2/3, 4/9, અને 5/6.",
+      "options": [
+        {
+          "option": "1/18",
+          "is_answer": true
+        },
+        {
+          "option": "20/3"
+        },
+        {
+          "option": "1/9"
+        },
+        {
+          "option": "2/9"
+        }
+      ]
+    },
+    {
+      "question": "અપूर्णांकाનો લ.સા.અ. (LCM) શોધો: 2/3, 4/9, અને 5/6.",
+      "options": [
+        {
+          "option": "10/3"
+        },
+        {
+          "option": "20/3",
+          "is_answer": true
+        },
+        {
+          "option": "20/9"
+        },
+        {
+          "option": "1/18"
+        }
+      ]
+    },
+    {
+      "question": "દશમલ્ય સંખ્યાઓનો ગુ.સા.અ. શોધો: 0.6, 1.8, અને 3.6.",
+      "options": [
+        {
+          "option": "0.6",
+          "is_answer": true
+        },
+        {
+          "option": "1.8"
+        },
+        {
+          "option": "0.2"
+        },
+        {
+          "option": "0.06"
+        }
+      ]
+    },
+    {
+      "question": "દશમલ્ય સંખ્યાઓનો લ.સા.અ. શોધો: 0.6, 1.8, અને 3.6.",
+      "options": [
+        {
+          "option": "3.6",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "1.8"
+        },
+        {
+          "option": "0.6"
+        }
+      ]
+    },
+    {
+      "question": "અપूर्णांकाનો ગુ.સા.અ. શોધો: 1/3, 2/9, 5/6, અને 4/27.",
+      "options": [
+        {
+          "option": "1/27"
+        },
+        {
+          "option": "2/27"
+        },
+        {
+          "option": "20/3"
+        },
+        {
+          "option": "1/54",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "અપूर्णांकाનો લ.સા.અ. શોધો: 1/3, 2/9, 5/6, અને 4/27.",
+      "options": [
+        {
+          "option": "10/3"
+        },
+        {
+          "option": "20/9"
+        },
+        {
+          "option": "5/54"
+        },
+        {
+          "option": "20/3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "દશમલ્ય સંખ્યાઓનો ગુ.સા.અ. શોધો: 1.2, 0.24, અને 3.0.",
+      "options": [
+        {
+          "option": "0.12"
+        },
+        {
+          "option": "1.2"
+        },
+        {
+          "option": "0.6"
+        },
+        {
+          "option": "0.06",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "દશમલ્ય સંખ્યાઓનો લ.સા.અ. શોધો: 1.2, 0.24, અને 3.0.",
+      "options": [
+        {
+          "option": "0.6"
+        },
+        {
+          "option": "3.0"
+        },
+        {
+          "option": "1.2"
+        },
+        {
+          "option": "6.0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "7/9, 14/15, અને 7/10 નો ગુ.સા.અ. શું છે?",
+      "options": [
+        {
+          "option": "7/45"
+        },
+        {
+          "option": "14/45"
+        },
+        {
+          "option": "7/90",
+          "is_answer": true
+        },
+        {
+          "option": "1/90"
+        }
+      ]
+    },
+    {
+      "question": "7/9, 14/15, અને 7/10 નો લ.સા.અ. શું છે?",
+      "options": [
+        {
+          "option": "49"
+        },
+        {
+          "option": "98",
+          "is_answer": true
+        },
+        {
+          "option": "98/45"
+        },
+        {
+          "option": "14"
+        }
+      ]
+    },
+    {
+      "question": "0.36, 1.2, અને 0.48 નો ગુ.સા.અ. શોધો.",
+      "options": [
+        {
+          "option": "0.12",
+          "is_answer": true
+        },
+        {
+          "option": "0.06"
+        },
+        {
+          "option": "1.2"
+        },
+        {
+          "option": "0.24"
+        }
+      ]
+    },
+    {
+      "question": "0.36, 1.2, અને 0.48 નો લ.સા.અ. શોધો.",
+      "options": [
+        {
+          "option": "0.72"
+        },
+        {
+          "option": "1.44",
+          "is_answer": true
+        },
+        {
+          "option": "7.2"
+        },
+        {
+          "option": "14.4"
+        }
+      ]
+    },
+    {
+      "question": "અપूर्णांकाનો ગુ.સા.અ. શોધો: 3/4, 5/8, અને 7/12.",
+      "options": [
+        {
+          "option": "3/24"
+        },
+        {
+          "option": "1/8"
+        },
+        {
+          "option": "1/24",
+          "is_answer": true
+        },
+        {
+          "option": "35/24"
+        }
+      ]
+    },
+    {
+      "question": "અપूर्णांकाનો લ.સા.અ. શોધો: 3/4, 5/8, અને 7/12.",
+      "options": [
+        {
+          "option": "105/8"
+        },
+        {
+          "option": "105/4",
+          "is_answer": true
+        },
+        {
+          "option": "15/8"
+        },
+        {
+          "option": "35/24"
+        }
+      ]
+    },
+    {
+      "question": "દશમલ્ય સંખ્યાઓનો ગુ.સા.અ. શોધો: 1.5, 0.3, અને 0.09.",
+      "options": [
+        {
+          "option": "1.5"
+        },
+        {
+          "option": "0.3"
+        },
+        {
+          "option": "0.09"
+        },
+        {
+          "option": "0.03",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "દશમલ્ય સંખ્યાઓનો લ.સા.અ. શોધો: 1.5, 0.3, અને 0.09.",
+      "options": [
+        {
+          "option": "9.0"
+        },
+        {
+          "option": "4.5",
+          "is_answer": true
+        },
+        {
+          "option": "1.5"
+        },
+        {
+          "option": "0.45"
+        }
+      ]
+    },
+    {
+      "question": "2.5, 0.5, અને 0.125 નો ગુ.સા.અ. નક્કી કરો.",
+      "options": [
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0.025"
+        },
+        {
+          "option": "2.5"
+        },
+        {
+          "option": "0.125",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "2.5, 0.5, અને 0.125 નો લ.સા.અ. નક્કી કરો.",
+      "options": [
+        {
+          "option": "0.125"
+        },
+        {
+          "option": "1.25"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "2.5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "અપूर्णांकाનો ગુ.સા.અ. શોધો: 9/10, 12/25, 18/35, અને 21/40.",
+      "options": [
+        {
+          "option": "1/1400"
+        },
+        {
+          "option": "3/700"
+        },
+        {
+          "option": "9/1400"
+        },
+        {
+          "option": "3/1400",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "અપूर्णांकाનો લ.સા.અ. શોધો: 9/10, 12/25, 18/35, અને 21/40.",
+      "options": [
+        {
+          "option": "63/1400"
+        },
+        {
+          "option": "126"
+        },
+        {
+          "option": "504"
+        },
+        {
+          "option": "252",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "મૂલ્ય શોધો: 15 - [6 - {2 + (6 of 2 - 3)}]",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "14",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "સાદું રૂપ આપો: 25 - 5 [2 + 3{2 - 2(5 - 3)}] + 10",
+      "options": [
+        {
+          "option": "45"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "35",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "કિંમત શોધો: 36 ÷ [6 + 3 × {5 - 3(4 - 2)}]",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "36",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "મૂલ્ય શોધો: 48 - [38 - {60 - (6 - 9 - 11)}]",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "-10"
+        },
+        {
+          "option": "-30",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "સાદું રૂપ આપો: 100 - [80 - {60 - (40 - 20)}]",
+      "options": [
+        {
+          "option": "40"
+        },
+        {
+          "option": "80"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "60",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "મૂલ્ય શોધો: 50 - [20 + {30 - (10 - 5)}] + 15",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "કિંમત શોધો: 12 + [12 - {12 × (12 ÷ 12)}]",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "144"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "24"
+        }
+      ]
+    },
+    {
+      "question": "સાદું રૂપ આપો: 64 ÷ [4 × {3 - (9 - 6)}] - 2",
+      "options": [
+        {
+          "option": "અવ્યાખ્યાયિત / ભૂલ",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "મૂલ્ય શોધો: 18 - [5 - {6 - (5 - 4 - 3)}]",
+      "options": [
+        {
+          "option": "11"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "13"
+        },
+        {
+          "option": "17"
+        }
+      ]
+    },
+    {
+      "question": "સાદું રૂપ આપો: 27 - [38 - {46 - (15 - 13 - 2)}]",
+      "options": [
+        {
+          "option": "35",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "45"
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "કિંમત શોધો: 9.5 - [7.2 - {3.5 - (1.2 + 0.5)}]",
+      "options": [
+        {
+          "option": "6.2"
+        },
+        {
+          "option": "3.9"
+        },
+        {
+          "option": "4.5",
+          "is_answer": true
+        },
+        {
+          "option": "5.1"
+        }
+      ]
+    },
+    {
+      "question": "મૂલ્ય શોધો: 30 - [40 - {50 - (60 - 70 - 80)}]",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "90",
+          "is_answer": true
+        },
+        {
+          "option": "-10"
+        }
+      ]
+    },
+    {
+      "question": "સાદું રૂપ આપો: 10 + 10 × 10 - 10 ÷ 10",
+      "options": [
+        {
+          "option": "199"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "109",
+          "is_answer": true
+        },
+        {
+          "option": "100"
+        }
+      ]
+    },
+    {
+      "question": "મૂલ્ય શોધો: 5 + 5 + 5 + 5 + 5 ÷ 5 of 5 + 5 × 5 - 5",
+      "options": [
+        {
+          "option": "45",
+          "is_answer": true
+        },
+        {
+          "option": "55"
+        },
+        {
+          "option": "50"
+        },
+        {
+          "option": "35"
+        }
+      ]
+    },
+    {
+      "question": "કિંમત શોધો: 8 ÷ 2(2 + 2)",
+      "options": [
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "સાદું રૂપ આપો: 220 - [140 - {100 - (50 - 30 - 20)}]",
+      "options": [
+        {
+          "option": "100",
+          "is_answer": true
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "80"
+        },
+        {
+          "option": "60"
+        }
+      ]
+    },
+    {
+      "question": "મૂલ્ય શોધો: 3 × [5 + {2 × (4 + 1) - 3}]",
+      "options": [
+        {
+          "option": "36",
+          "is_answer": true
+        },
+        {
+          "option": "42"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "સાદું રૂપ આપો: 50 - [20 - {30 - (20 - 10)}] + 10",
+      "options": [
+        {
+          "option": "40",
+          "is_answer": true
+        },
+        {
+          "option": "50"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "મૂલ્ય શોધો: [72 ÷ {8 of 3} + {4 × 2 - (6 ÷ 2)}]",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "સાદું રૂપ આપો: 15 - {15 - (15 - 15 - 15)}",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "-15"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "ભાગાકારની પદ્ધતિનો ઉપયોગ કરીને 252 અને 735 નો ગુ.સા.અ. (HCF) શોધો.",
+      "options": [
+        {
+          "option": "14"
+        },
+        {
+          "option": "63"
+        },
+        {
+          "option": "42"
+        },
+        {
+          "option": "21",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "બે સંખ્યાઓનો ગુ.સા.અ. 11 છે અને તેમનો લ.સા.અ. 7700 છે. જો એક સંખ્યા 275 હોય, તો બીજી સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "280"
+        },
+        {
+          "option": "385"
+        },
+        {
+          "option": "308",
+          "is_answer": true
+        },
+        {
+          "option": "318"
+        }
+      ]
+    },
+    {
+      "question": "ભાગાકારની પદ્ધતિથી બે સંખ્યાઓનો ગુ.સા.અ. શોધતી વખતે, છેલ્લો ભાજક 17 છે અને ઉપરથી નીચે સુધીના ભાગાકાર 1, 3 અને 2 છે. બંને સંખ્યાઓનો સરવાળો કેટલો થાય?",
+      "options": [
+        {
+          "option": "340"
+        },
+        {
+          "option": "323",
+          "is_answer": true
+        },
+        {
+          "option": "289"
+        },
+        {
+          "option": "306"
+        }
+      ]
+    },
+    {
+      "question": "બે સંખ્યાઓનો ગુણાકાર 4107 છે. જો તેમનો ગુ.સા.અ. 37 હોય, તો મોટી સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "111",
+          "is_answer": true
+        },
+        {
+          "option": "107"
+        },
+        {
+          "option": "97"
+        },
+        {
+          "option": "118"
+        }
+      ]
+    },
+    {
+      "question": "1365, 1755 અને 2925 નો ગુ.સા.અ. શોધો.",
+      "options": [
+        {
+          "option": "225"
+        },
+        {
+          "option": "135"
+        },
+        {
+          "option": "105"
+        },
+        {
+          "option": "195",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "બે સંખ્યાઓનો લ.સા.અ. તેમના ગુ.સા.અ. કરતાં 12 ગણો છે. ગુ.સા.અ. અને લ.સા.અ. નો સરવાળો 403 છે. જો એક સંખ્યા 93 હોય, તો બીજી શોધો.",
+      "options": [
+        {
+          "option": "124",
+          "is_answer": true
+        },
+        {
+          "option": "116"
+        },
+        {
+          "option": "134"
+        },
+        {
+          "option": "148"
+        }
+      ]
+    },
+    {
+      "question": "શું બે સંખ્યાઓનો ગુ.સા.અ. 16 અને લ.સા.અ. 380 હોઈ શકે?",
+      "options": [
+        {
+          "option": "ના, કારણ કે ગુ.સા.અ. એ લ.સા.અ. ને પૂરેપૂરો ભાગવો જોઈએ",
+          "is_answer": true
+        },
+        {
+          "option": "હા, હંમેશા"
+        },
+        {
+          "option": "ફક્ત જો સંખ્યાઓ અવિભાજ્ય હોય"
+        },
+        {
+          "option": "હા, કારણ કે લ.સા.અ. એ ગુ.સા.અ. કરતાં મોટો છે"
+        }
+      ]
+    },
+    {
+      "question": "એક એવી સૌથી મોટી સંખ્યા શોધો જે 400, 435 અને 541 ને ભાગતા અનુક્રમે 9, 10 અને 14 શેષ વધે.",
+      "options": [
+        {
+          "option": "13",
+          "is_answer": true
+        },
+        {
+          "option": "19"
+        },
+        {
+          "option": "17"
+        },
+        {
+          "option": "23"
+        }
+      ]
+    },
+    {
+      "question": "બે સંખ્યાઓનો ગુ.સા.અ. 23 છે અને તેમના લ.સા.અ. ના બાકીના બે અવયવો 13 અને 14 છે. મોટી સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "299"
+        },
+        {
+          "option": "312"
+        },
+        {
+          "option": "322",
+          "is_answer": true
+        },
+        {
+          "option": "276"
+        }
+      ]
+    },
+    {
+      "question": "ભાગાકારની પદ્ધતિથી બે સંખ્યાઓનો ગુ.સા.અ. શોધવાની પ્રક્રિયામાં, છેલ્લો ભાગાકાર 4 છે અને છેલ્લો ભાજક 48 છે. જો બીજું કોઈ પગલું ન હોય તો બંને સંખ્યાઓનો ગુણાકાર શું થાય?",
+      "options": [
+        {
+          "option": "18432"
+        },
+        {
+          "option": "2304"
+        },
+        {
+          "option": "9216",
+          "is_answer": true
+        },
+        {
+          "option": "4608"
+        }
+      ]
+    },
+    {
+      "question": "એક એવી સૌથી મોટી સંખ્યા શોધો જે 1657 અને 2037 ને ભાગતા અનુક્રમે 6 અને 5 શેષ વધે.",
+      "options": [
+        {
+          "option": "127",
+          "is_answer": true
+        },
+        {
+          "option": "133"
+        },
+        {
+          "option": "305"
+        },
+        {
+          "option": "235"
+        }
+      ]
+    },
+    {
+      "question": "બે સંખ્યાઓનો ગુ.સા.અ. 8 છે. નીચેનામાંથી કઈ સંખ્યા તેમનો લ.સા.અ. ક્યારેય હોઈ શકે નહીં?",
+      "options": [
+        {
+          "option": "60",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "56"
+        },
+        {
+          "option": "48"
+        }
+      ]
+    },
+    {
+      "question": "1.75, 5.6 અને 7 નો ગુ.સા.અ. શોધો.",
+      "options": [
+        {
+          "option": "3.5"
+        },
+        {
+          "option": "0.7"
+        },
+        {
+          "option": "0.07"
+        },
+        {
+          "option": "0.35",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "બે પરસ્પર અવિભાજ્ય સંખ્યાઓનો લ.સા.અ. 357 છે. જો એક સંખ્યા 17 હોય, તો બીજી સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "23"
+        },
+        {
+          "option": "19"
+        },
+        {
+          "option": "21",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "ત્રણ સંખ્યાઓ 3:4:5 ના ગુણોત્તરમાં છે અને તેમનો લ.સા.અ. 2400 છે. તેમનો ગુ.સા.અ. શું છે?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "80"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "40",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "ભાગાકારની પદ્ધતિનો ઉપયોગ કરીને, બે સંખ્યાઓનો ગુ.સા.અ. શોધતી વખતે, ક્રમિક પગલાંઓમાં ભાગાકાર અનુક્રમે 2, 1 અને 3 છે, અને છેલ્લો ભાજક 35 છે. બંને સંખ્યાઓનો સરવાળો શોધો.",
+      "options": [
+        {
+          "option": "630"
+        },
+        {
+          "option": "490"
+        },
+        {
+          "option": "595",
+          "is_answer": true
+        },
+        {
+          "option": "525"
+        }
+      ]
+    },
+    {
+      "question": "બે સંખ્યાઓનો ગુ.સા.અ. અને લ.સા.અ. અનુક્રમે 8 અને 48 છે. જો બે સંખ્યાઓનો ગુણોત્તર 1:3 હોય, તો મોટી સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "32"
+        }
+      ]
+    },
+    {
+      "question": "વિદ્યાર્થીઓની મહત્તમ સંખ્યા શોધો કે જેઓની વચ્ચે 1001 પેન અને 910 પેન્સિલ સરખી સંખ્યામાં વહેંચી શકાય.",
+      "options": [
+        {
+          "option": "13"
+        },
+        {
+          "option": "91",
+          "is_answer": true
+        },
+        {
+          "option": "11"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "જો બે સંખ્યાઓનો લ.સા.અ. 20769 અને તેમનો ગુ.સા.અ. 189 છે, અને એક સંખ્યા 2394 છે, તો બીજી સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "1809"
+        },
+        {
+          "option": "1722"
+        },
+        {
+          "option": "1641",
+          "is_answer": true
+        },
+        {
+          "option": "1598"
+        }
+      ]
+    },
+    {
+      "question": "બે અવિભાજ્ય સંખ્યાઓ $P$ અને $Q$ (જ્યાં $P > Q$) નો ગુ.સા.અ. શું થાય?",
+      "options": [
+        {
+          "option": "PQ"
+        },
+        {
+          "option": "Q"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "P"
+        }
+      ]
+    },
+    {
+      "question": "17576 નું ઘનમૂળ શું છે?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "26",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "28"
+        }
+      ]
+    },
+    {
+      "question": "32768 નું ઘનમૂળ શોધો.",
+      "options": [
+        {
+          "option": "38"
+        },
+        {
+          "option": "34"
+        },
+        {
+          "option": "32",
+          "is_answer": true
+        },
+        {
+          "option": "28"
+        }
+      ]
+    },
+    {
+      "question": "50653 નું ઘનમૂળ શું છે?",
+      "options": [
+        {
+          "option": "37",
+          "is_answer": true
+        },
+        {
+          "option": "39"
+        },
+        {
+          "option": "33"
+        },
+        {
+          "option": "47"
+        }
+      ]
+    },
+    {
+      "question": "74088 નું ઘનમૂળ શોધો.",
+      "options": [
+        {
+          "option": "42",
+          "is_answer": true
+        },
+        {
+          "option": "52"
+        },
+        {
+          "option": "44"
+        },
+        {
+          "option": "48"
+        }
+      ]
+    },
+    {
+      "question": "110592 નું ઘનમૂળ શું છે?",
+      "options": [
+        {
+          "option": "58"
+        },
+        {
+          "option": "42"
+        },
+        {
+          "option": "46"
+        },
+        {
+          "option": "48",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "140608 નું ઘનમૂળ શોધો.",
+      "options": [
+        {
+          "option": "58"
+        },
+        {
+          "option": "54"
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "52",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "195112 નું ઘનમૂળ શું છે?",
+      "options": [
+        {
+          "option": "56"
+        },
+        {
+          "option": "64"
+        },
+        {
+          "option": "52"
+        },
+        {
+          "option": "58",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "250047 નું ઘનમૂળ શોધો.",
+      "options": [
+        {
+          "option": "53"
+        },
+        {
+          "option": "69"
+        },
+        {
+          "option": "63",
+          "is_answer": true
+        },
+        {
+          "option": "67"
+        }
+      ]
+    },
+    {
+      "question": "300763 નું ઘનમૂળ શું છે?",
+      "options": [
+        {
+          "option": "63"
+        },
+        {
+          "option": "67",
+          "is_answer": true
+        },
+        {
+          "option": "77"
+        },
+        {
+          "option": "73"
+        }
+      ]
+    },
+    {
+      "question": "389017 નું ઘનમૂળ શોધો.",
+      "options": [
+        {
+          "option": "77"
+        },
+        {
+          "option": "83"
+        },
+        {
+          "option": "63"
+        },
+        {
+          "option": "73",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "456533 નું ઘનમૂળ શું છે?",
+      "options": [
+        {
+          "option": "73"
+        },
+        {
+          "option": "87"
+        },
+        {
+          "option": "79"
+        },
+        {
+          "option": "77",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "551368 નું ઘનમૂળ શોધો.",
+      "options": [
+        {
+          "option": "88"
+        },
+        {
+          "option": "78"
+        },
+        {
+          "option": "82",
+          "is_answer": true
+        },
+        {
+          "option": "84"
+        }
+      ]
+    },
+    {
+      "question": "636056 નું ઘનમૂળ શું છે?",
+      "options": [
+        {
+          "option": "84"
+        },
+        {
+          "option": "96"
+        },
+        {
+          "option": "86",
+          "is_answer": true
+        },
+        {
+          "option": "88"
+        }
+      ]
+    },
+    {
+      "question": "704969 નું ઘનમૂળ શોધો.",
+      "options": [
+        {
+          "option": "91"
+        },
+        {
+          "option": "89",
+          "is_answer": true
+        },
+        {
+          "option": "99"
+        },
+        {
+          "option": "81"
+        }
+      ]
+    },
+    {
+      "question": "830584 નું ઘનમૂળ શું છે?",
+      "options": [
+        {
+          "option": "92"
+        },
+        {
+          "option": "84"
+        },
+        {
+          "option": "94",
+          "is_answer": true
+        },
+        {
+          "option": "96"
+        }
+      ]
+    },
+    {
+      "question": "912673 નું ઘનમૂળ શોધો.",
+      "options": [
+        {
+          "option": "87"
+        },
+        {
+          "option": "97",
+          "is_answer": true
+        },
+        {
+          "option": "99"
+        },
+        {
+          "option": "93"
+        }
+      ]
+    },
+    {
+      "question": "103823 નું ઘનમૂળ શું છે?",
+      "options": [
+        {
+          "option": "43"
+        },
+        {
+          "option": "57"
+        },
+        {
+          "option": "47",
+          "is_answer": true
+        },
+        {
+          "option": "49"
+        }
+      ]
+    },
+    {
+      "question": "21952 નું ઘનમૂળ શોધો.",
+      "options": [
+        {
+          "option": "28",
+          "is_answer": true
+        },
+        {
+          "option": "26"
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "22"
+        }
+      ]
+    },
+    {
+      "question": "438976 નું ઘનમૂળ શું છે?",
+      "options": [
+        {
+          "option": "66"
+        },
+        {
+          "option": "76",
+          "is_answer": true
+        },
+        {
+          "option": "74"
+        },
+        {
+          "option": "84"
+        }
+      ]
+    },
+    {
+      "question": "592704 નું ઘનમૂળ શોધો.",
+      "options": [
+        {
+          "option": "74"
+        },
+        {
+          "option": "94"
+        },
+        {
+          "option": "84",
+          "is_answer": true
+        },
+        {
+          "option": "86"
+        }
+      ]
+    },
+    {
+      "question": "લાંબી ભાંગાકાર પદ્ધતિનો ઉપયોગ કરીને 576 નું ચોક્કસ વર્ગમૂળ શું છે?",
+      "options": [
+        {
+          "option": "22"
+        },
+        {
+          "option": "28"
+        },
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "26"
+        }
+      ]
+    },
+    {
+      "question": "અંદાજ પદ્ધતિ દ્વારા એક દશાંશ સ્થળ સુધી 10 નું લગભગ વર્ગમૂળ શોધો.",
+      "options": [
+        {
+          "option": "3.3"
+        },
+        {
+          "option": "3.1"
+        },
+        {
+          "option": "3.2",
+          "is_answer": true
+        },
+        {
+          "option": "3.5"
+        }
+      ]
+    },
+    {
+      "question": "લાંબી ભાંગાકાર દ્વારા ગણતરી કરાયેલ 1024 નું વર્ગમૂળ શું છે?",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "34"
+        },
+        {
+          "option": "32",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "4489 ના વર્ગમૂળનું ચોક્કસ મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "63"
+        },
+        {
+          "option": "61"
+        },
+        {
+          "option": "67",
+          "is_answer": true
+        },
+        {
+          "option": "69"
+        }
+      ]
+    },
+    {
+      "question": "સૌથી નજીકની પૂર્ણ સંખ્યામાં 50 નું વર્ગમૂળ અંદાજિત કરો.",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "લાંબી ભાંગાકારનો ઉપયોગ કરીને, 7056 નું વર્ગમૂળ શું છે?",
+      "options": [
+        {
+          "option": "84",
+          "is_answer": true
+        },
+        {
+          "option": "86"
+        },
+        {
+          "option": "88"
+        },
+        {
+          "option": "82"
+        }
+      ]
+    },
+    {
+      "question": "2 નું આસન્ન (લગભગ) વર્ગમૂળ શોધો.",
+      "options": [
+        {
+          "option": "1.414",
+          "is_answer": true
+        },
+        {
+          "option": "1.500"
+        },
+        {
+          "option": "1.225"
+        },
+        {
+          "option": "1.732"
+        }
+      ]
+    },
+    {
+      "question": "લાંબી ભાંગાકારનો ઉપયોગ કરીને 152.2756 નું વર્ગમૂળ શું છે?",
+      "options": [
+        {
+          "option": "12.44"
+        },
+        {
+          "option": "12.14"
+        },
+        {
+          "option": "12.24"
+        },
+        {
+          "option": "12.34",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "120 નું વર્ગમૂળ અંદાજિત કરો.",
+      "options": [
+        {
+          "option": "11.50"
+        },
+        {
+          "option": "10.95",
+          "is_answer": true
+        },
+        {
+          "option": "10.50"
+        },
+        {
+          "option": "11.25"
+        }
+      ]
+    },
+    {
+      "question": "9801 નું વર્ગમૂળ શું છે?",
+      "options": [
+        {
+          "option": "99",
+          "is_answer": true
+        },
+        {
+          "option": "91"
+        },
+        {
+          "option": "93"
+        },
+        {
+          "option": "97"
+        }
+      ]
+    },
+    {
+      "question": "લાંબી ભાંગાકાર દ્વારા, 1764 નું વર્ગમૂળ શોધો.",
+      "options": [
+        {
+          "option": "48"
+        },
+        {
+          "option": "44"
+        },
+        {
+          "option": "46"
+        },
+        {
+          "option": "42",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "5 નું આસન્ન વર્ગમૂળ શું છે?",
+      "options": [
+        {
+          "option": "2.450"
+        },
+        {
+          "option": "2.122"
+        },
+        {
+          "option": "2.645"
+        },
+        {
+          "option": "2.236",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "લાંબી ભાંગાકાર દ્વારા બે દશાંશ સ્થળો સુધી 0.9 નું વર્ગમૂળ શોધો.",
+      "options": [
+        {
+          "option": "0.90"
+        },
+        {
+          "option": "0.97"
+        },
+        {
+          "option": "0.95",
+          "is_answer": true
+        },
+        {
+          "option": "0.85"
+        }
+      ]
+    },
+    {
+      "question": "3136 નું ચોક્કસ વર્ગમૂળ શું છે?",
+      "options": [
+        {
+          "option": "58"
+        },
+        {
+          "option": "54"
+        },
+        {
+          "option": "56",
+          "is_answer": true
+        },
+        {
+          "option": "52"
+        }
+      ]
+    },
+    {
+      "question": "સૌથી નજીકના પૂર્ણાંકમાં 300 નું વર્ગમૂળ અંદાજિત કરો.",
+      "options": [
+        {
+          "option": "17",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "19"
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "લાંબી ભાંગાકારનો ઉપયોગ કરીને, 6241 નું વર્ગમૂળ શું છે?",
+      "options": [
+        {
+          "option": "73"
+        },
+        {
+          "option": "71"
+        },
+        {
+          "option": "79",
+          "is_answer": true
+        },
+        {
+          "option": "77"
+        }
+      ]
+    },
+    {
+      "question": "0.0009 નું વર્ગમૂળ શું છે?",
+      "options": [
+        {
+          "option": "0.003"
+        },
+        {
+          "option": "0.03",
+          "is_answer": true
+        },
+        {
+          "option": "0.0003"
+        },
+        {
+          "option": "0.3"
+        }
+      ]
+    },
+    {
+      "question": "અંદાજ દ્વારા 80 ના વર્ગમૂળનું આસન્ન મૂલ્ય શોધો.",
+      "options": [
+        {
+          "option": "8.94",
+          "is_answer": true
+        },
+        {
+          "option": "9.10"
+        },
+        {
+          "option": "8.25"
+        },
+        {
+          "option": "8.50"
+        }
+      ]
+    },
+    {
+      "question": "લાંબી ભાંગાકાર દ્વારા 2304 નું વર્ગમૂળ શું છે?",
+      "options": [
+        {
+          "option": "42"
+        },
+        {
+          "option": "44"
+        },
+        {
+          "option": "46"
+        },
+        {
+          "option": "48",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "લાંબી ભાંગાકાર દ્વારા 7.29 નું વર્ગમૂળ શું છે?",
+      "options": [
+        {
+          "option": "2.9"
+        },
+        {
+          "option": "2.5"
+        },
+        {
+          "option": "2.7",
+          "is_answer": true
+        },
+        {
+          "option": "2.3"
+        }
+      ]
+    },
+    {
+      "question": "0.333... ને અપૂર્ણાંકમાં ફેરવો.",
+      "options": [
+        {
+          "option": "3/10"
+        },
+        {
+          "option": "1/9"
+        },
+        {
+          "option": "1/3",
+          "is_answer": true
+        },
+        {
+          "option": "3/99"
+        }
+      ]
+    },
+    {
+      "question": "0.666... ને અપૂર્ણાંકમાં ફેરવો.",
+      "options": [
+        {
+          "option": "3/5"
+        },
+        {
+          "option": "6/99"
+        },
+        {
+          "option": "6/10"
+        },
+        {
+          "option": "2/3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "0.777... ને અપૂર્ણાંકમાં ફેરવો.",
+      "options": [
+        {
+          "option": "77/100"
+        },
+        {
+          "option": "7/10"
+        },
+        {
+          "option": "7/9",
+          "is_answer": true
+        },
+        {
+          "option": "7/99"
+        }
+      ]
+    },
+    {
+      "question": "0.454545... ને અપૂર્ણાંકમાં ફેરવો.",
+      "options": [
+        {
+          "option": "4/11"
+        },
+        {
+          "option": "9/20"
+        },
+        {
+          "option": "45/100"
+        },
+        {
+          "option": "5/11",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "0.123123... ને અપૂર્ણાંકમાં ફેરવો.",
+      "options": [
+        {
+          "option": "41/300"
+        },
+        {
+          "option": "41/333",
+          "is_answer": true
+        },
+        {
+          "option": "123/1000"
+        },
+        {
+          "option": "123/99"
+        }
+      ]
+    },
+    {
+      "question": "0.1666... (0.16̄) ને અપૂર્ણાંકમાં ફેરવો.",
+      "options": [
+        {
+          "option": "1/6",
+          "is_answer": true
+        },
+        {
+          "option": "8/45"
+        },
+        {
+          "option": "16/100"
+        },
+        {
+          "option": "16/99"
+        }
+      ]
+    },
+    {
+      "question": "0.2777... (0.27̄) ને અપૂર્ણાંકમાં ફેરવો.",
+      "options": [
+        {
+          "option": "27/99"
+        },
+        {
+          "option": "25/90"
+        },
+        {
+          "option": "5/18",
+          "is_answer": true
+        },
+        {
+          "option": "7/25"
+        }
+      ]
+    },
+    {
+      "question": "0.5444... (0.54̄) ને અપૂર્ણાંકમાં ફેરવો.",
+      "options": [
+        {
+          "option": "5/9"
+        },
+        {
+          "option": "27/50"
+        },
+        {
+          "option": "54/99"
+        },
+        {
+          "option": "49/90",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "0.3888... (0.38̄) ને અપૂર્ણાંકમાં ફેરવો.",
+      "options": [
+        {
+          "option": "38/99"
+        },
+        {
+          "option": "19/45"
+        },
+        {
+          "option": "7/18",
+          "is_answer": true
+        },
+        {
+          "option": "35/90"
+        }
+      ]
+    },
+    {
+      "question": "0.1252525... (0.125̄) ને અપૂર્ણાંકમાં ફેરવો.",
+      "options": [
+        {
+          "option": "125/999"
+        },
+        {
+          "option": "125/900"
+        },
+        {
+          "option": "62/495",
+          "is_answer": true
+        },
+        {
+          "option": "13/99"
+        }
+      ]
+    },
+    {
+      "question": "2.333... ને અશુદ્ધ અપૂર્ણાંકમાં ફેરવો.",
+      "options": [
+        {
+          "option": "21/9"
+        },
+        {
+          "option": "7/9"
+        },
+        {
+          "option": "23/10"
+        },
+        {
+          "option": "7/3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "1.666... ને અપૂર્ણાંકમાં ફેરવો.",
+      "options": [
+        {
+          "option": "16/10"
+        },
+        {
+          "option": "8/5"
+        },
+        {
+          "option": "13/9"
+        },
+        {
+          "option": "5/3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "0.999... ને અપૂર્ણાંકમાં ફેરવો.",
+      "options": [
+        {
+          "option": "99/100"
+        },
+        {
+          "option": "9/99"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "9/10"
+        }
+      ]
+    },
+    {
+      "question": "0.050505... (0.05̄) ને અપૂર્ણાંકમાં ફેરવો.",
+      "options": [
+        {
+          "option": "1/20"
+        },
+        {
+          "option": "5/99",
+          "is_answer": true
+        },
+        {
+          "option": "5/90"
+        },
+        {
+          "option": "51/1000"
+        }
+      ]
+    },
+    {
+      "question": "0.241241... (0.241̄) ને અપૂર્ણાંકમાં ફેરવો.",
+      "options": [
+        {
+          "option": "8/33"
+        },
+        {
+          "option": "241/1000"
+        },
+        {
+          "option": "241/999",
+          "is_answer": true
+        },
+        {
+          "option": "24/99"
+        }
+      ]
+    },
+    {
+      "question": "0.090909... (0.09̄) ને અપૂર્ણાંકમાં ફેરવો.",
+      "options": [
+        {
+          "option": "9/100"
+        },
+        {
+          "option": "1/11",
+          "is_answer": true
+        },
+        {
+          "option": "9/999"
+        },
+        {
+          "option": "9/90"
+        }
+      ]
+    },
+    {
+      "question": "1.272727... (1.27̄) ને અપૂર્ણાંકમાં ફેરવો.",
+      "options": [
+        {
+          "option": "11/9"
+        },
+        {
+          "option": "127/99"
+        },
+        {
+          "option": "14/11",
+          "is_answer": true
+        },
+        {
+          "option": "127/100"
+        }
+      ]
+    },
+    {
+      "question": "0.181818... (0.18̄) ને અપૂર્ણાંકમાં ફેરવો.",
+      "options": [
+        {
+          "option": "18/999"
+        },
+        {
+          "option": "9/50"
+        },
+        {
+          "option": "18/100"
+        },
+        {
+          "option": "2/11",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "3.142857142857... (3.(142857)) ને અપૂર્ણાંકમાં ફેરવો.",
+      "options": [
+        {
+          "option": "3142857/1000000"
+        },
+        {
+          "option": "314/99"
+        },
+        {
+          "option": "22/7",
+          "is_answer": true
+        },
+        {
+          "option": "31/10"
+        }
+      ]
+    },
+    {
+      "question": "0.34111... (0.341̄) ને અપૂર્ણાંકમાં ફેરવો.",
+      "options": [
+        {
+          "option": "341/990"
+        },
+        {
+          "option": "341/999"
+        },
+        {
+          "option": "307/900",
+          "is_answer": true
+        },
+        {
+          "option": "31/90"
+        }
+      ]
+    },
+    {
+      "question": "પ્રથમ 10 પ્રાકૃતિક સંખ્યાઓનો સરવાળો કેટલો થાય?",
+      "options": [
+        {
+          "option": "50"
+        },
+        {
+          "option": "55",
+          "is_answer": true
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "45"
+        }
+      ]
+    },
+    {
+      "question": "પ્રથમ 20 પ્રાકૃતિક સંખ્યાઓનો સરવાળો શોધો.",
+      "options": [
+        {
+          "option": "200"
+        },
+        {
+          "option": "220"
+        },
+        {
+          "option": "190"
+        },
+        {
+          "option": "210",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "પ્રથમ 'n' પ્રાકૃતિક સંખ્યાઓના સરવાળાનું સૂત્ર શું છે?",
+      "options": [
+        {
+          "option": "n(n+1)/2",
+          "is_answer": true
+        },
+        {
+          "option": "[n(n+1)/2]^2"
+        },
+        {
+          "option": "n(n-1)/2"
+        },
+        {
+          "option": "n(n+1)(2n+1)/6"
+        }
+      ]
+    },
+    {
+      "question": "પ્રથમ 5 પ્રાકૃતિક સંખ્યાઓના વર્ગોનો સરવાળો કેટલો થાય (1^2 + 2^2 + ... + 5^2)?",
+      "options": [
+        {
+          "option": "50"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "55",
+          "is_answer": true
+        },
+        {
+          "option": "45"
+        }
+      ]
+    },
+    {
+      "question": "પ્રથમ 'n' પ્રાકૃતિક સંખ્યાઓના વર્ગોના સરવાળાનું સૂત્ર શું છે?",
+      "options": [
+        {
+          "option": "n(n+1)(2n+1)/6",
+          "is_answer": true
+        },
+        {
+          "option": "n(n-1)(2n-1)/6"
+        },
+        {
+          "option": "n(n+1)/2"
+        },
+        {
+          "option": "[n(n+1)/2]^2"
+        }
+      ]
+    },
+    {
+      "question": "પ્રથમ 4 પ્રાકૃતિક સંખ્યાઓના ઘનોનો સરવાળો કેટલો થાય (1^3 + 2^3 + 3^3 + 4^3)?",
+      "options": [
+        {
+          "option": "110"
+        },
+        {
+          "option": "90"
+        },
+        {
+          "option": "81"
+        },
+        {
+          "option": "100",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "પ્રથમ 'n' પ્રાકૃતિક સંખ્યાઓના ઘનોના સરવાળાનું સૂત્ર શું છે?",
+      "options": [
+        {
+          "option": "n(n+1)(2n+1)/6"
+        },
+        {
+          "option": "[n(n+1)/2]^2",
+          "is_answer": true
+        },
+        {
+          "option": "n(n+1)/2"
+        },
+        {
+          "option": "n^2(n+1)^2/4"
+        }
+      ]
+    },
+    {
+      "question": "પ્રથમ 30 પ્રાકૃતિક સંખ્યાઓનો સરવાળો શોધો.",
+      "options": [
+        {
+          "option": "450"
+        },
+        {
+          "option": "480"
+        },
+        {
+          "option": "435"
+        },
+        {
+          "option": "465",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "પ્રથમ 10 પ્રાકૃતિક સંખ્યાઓના વર્ગોનો સરવાળો કેટલો થાય?",
+      "options": [
+        {
+          "option": "385",
+          "is_answer": true
+        },
+        {
+          "option": "375"
+        },
+        {
+          "option": "390"
+        },
+        {
+          "option": "380"
+        }
+      ]
+    },
+    {
+      "question": "પ્રથમ 5 પ્રાકૃતિક સંખ્યાઓના ઘનોનો સરવાળો શોધો.",
+      "options": [
+        {
+          "option": "210"
+        },
+        {
+          "option": "225",
+          "is_answer": true
+        },
+        {
+          "option": "200"
+        },
+        {
+          "option": "250"
+        }
+      ]
+    },
+    {
+      "question": "જો પ્રથમ n પ્રાકૃતિક સંખ્યાઓનો સરવાળો 1275 હોય, તો n નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "51"
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "49"
+        },
+        {
+          "option": "50",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "11 થી 20 સુધીની પ્રાકૃતિક સંખ્યાઓનો સરવાળો કેટલો થાય?",
+      "options": [
+        {
+          "option": "160"
+        },
+        {
+          "option": "155",
+          "is_answer": true
+        },
+        {
+          "option": "150"
+        },
+        {
+          "option": "145"
+        }
+      ]
+    },
+    {
+      "question": "સરવાળો શોધો: 1 + 2 + 3 + ... + 50.",
+      "options": [
+        {
+          "option": "1300"
+        },
+        {
+          "option": "1250"
+        },
+        {
+          "option": "1275",
+          "is_answer": true
+        },
+        {
+          "option": "1225"
+        }
+      ]
+    },
+    {
+      "question": "1 થી 6 સુધીની સંખ્યાઓના વર્ગોનો સરવાળો કેટલો થાય (1^2 + 2^2 + ... + 6^2)?",
+      "options": [
+        {
+          "option": "95"
+        },
+        {
+          "option": "84"
+        },
+        {
+          "option": "85"
+        },
+        {
+          "option": "91",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો પ્રથમ n પ્રાકૃતિક સંખ્યાઓના વર્ગોનો સરવાળો 946 હોય, તો n શું છે?",
+      "options": [
+        {
+          "option": "11",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "(1^3 + 2^3 + 3^3) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "36",
+          "is_answer": true
+        },
+        {
+          "option": "42"
+        },
+        {
+          "option": "32"
+        }
+      ]
+    },
+    {
+      "question": "પ્રથમ 100 પ્રાકૃતિક સંખ્યાઓનો સરવાળો શોધો.",
+      "options": [
+        {
+          "option": "5000"
+        },
+        {
+          "option": "4950"
+        },
+        {
+          "option": "5050",
+          "is_answer": true
+        },
+        {
+          "option": "5100"
+        }
+      ]
+    },
+    {
+      "question": "જો પ્રથમ n પ્રાકૃતિક સંખ્યાઓના ઘનોનો સરવાળો 3025 હોય, તો n શોધો.",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "11"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "1 થી 15 સુધીની પ્રાકૃતિક સંખ્યાઓનો સરવાળો કેટલો થાય?",
+      "options": [
+        {
+          "option": "125"
+        },
+        {
+          "option": "120",
+          "is_answer": true
+        },
+        {
+          "option": "110"
+        },
+        {
+          "option": "105"
+        }
+      ]
+    },
+    {
+      "question": "પ્રથમ 7 પ્રાકૃતિક સંખ્યાઓના વર્ગોનો સરવાળો શોધો.",
+      "options": [
+        {
+          "option": "135"
+        },
+        {
+          "option": "140",
+          "is_answer": true
+        },
+        {
+          "option": "150"
+        },
+        {
+          "option": "130"
+        }
+      ]
+    },
+    {
+      "question": "અનંત સાતત્ય અપૂર્ણાંકનું મૂલ્ય શોધો: 1 + 1 / (1 + 1 / (1 + 1 / ...))",
+      "options": [
+        {
+          "option": "(1 - √5) / 2"
+        },
+        {
+          "option": "(3 + √5) / 2"
+        },
+        {
+          "option": "√5"
+        },
+        {
+          "option": "(1 + √5) / 2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "અનંત સાતત્ય અપૂર્ણાંકનું મૂલ્ય શોધો: 1 / (1 + 1 / (1 + 1 / (1 + 1 / ...)))",
+      "options": [
+        {
+          "option": "(√5 - 1) / 2",
+          "is_answer": true
+        },
+        {
+          "option": "(1 + √5) / 2"
+        },
+        {
+          "option": "(√5 - 2) / 2"
+        },
+        {
+          "option": "1 / √5"
+        }
+      ]
+    },
+    {
+      "question": "સિમિત સાતત્ય અપૂર્ણાંકનું મૂલ્ય શોધો: 1 + 1 / (1 + 1 / (1 + 1 / 2))",
+      "options": [
+        {
+          "option": "5 / 3"
+        },
+        {
+          "option": "3 / 5"
+        },
+        {
+          "option": "5 / 8"
+        },
+        {
+          "option": "8 / 5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "સિમિત સાતત્ય અપૂર્ણાંકનું મૂલ્ય શોધો: 2 + 1 / (3 + 1 / 4)",
+      "options": [
+        {
+          "option": "13 / 31"
+        },
+        {
+          "option": "12 / 13"
+        },
+        {
+          "option": "27 / 13"
+        },
+        {
+          "option": "31 / 13",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "લેડર અપૂર્ણાંકનું મૂલ્ય શોધો: 1 / (2 + 1 / (2 + 1 / (2 + 1 / 2)))",
+      "options": [
+        {
+          "option": "29 / 12"
+        },
+        {
+          "option": "12 / 17"
+        },
+        {
+          "option": "5 / 12"
+        },
+        {
+          "option": "12 / 29",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "અનંત સાતત્ય અપૂર્ણાંકનું મૂલ્ય શોધો: 2 + 1 / (2 + 1 / (2 + 1 / (2 + ...)))",
+      "options": [
+        {
+          "option": "2 + √2"
+        },
+        {
+          "option": "1 + √2",
+          "is_answer": true
+        },
+        {
+          "option": "√2 - 1"
+        },
+        {
+          "option": "√3"
+        }
+      ]
+    },
+    {
+      "question": "લેડર અપૂર્ણાંકનું મૂલ્ય શોધો: 1 - 1 / (1 - 1 / (1 - 1 / 2))",
+      "options": [
+        {
+          "option": "1 / 2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "-1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "સાતત્ય અપૂર્ણાંકનું સરળીકરણ કરો: 3 + 1 / (1 + 1 / (2 + 1 / 3))",
+      "options": [
+        {
+          "option": "31 / 9",
+          "is_answer": true
+        },
+        {
+          "option": "9 / 31"
+        },
+        {
+          "option": "31 / 7"
+        },
+        {
+          "option": "22 / 9"
+        }
+      ]
+    },
+    {
+      "question": "અનંત સાતત્ય અપૂર્ણાંકનું મૂલ્ય શોધો: 3 + 1 / (3 + 1 / (3 + 1 / (3 + ...)))",
+      "options": [
+        {
+          "option": "(1 + √13) / 2"
+        },
+        {
+          "option": "(3 - √13) / 2"
+        },
+        {
+          "option": "3 + √13"
+        },
+        {
+          "option": "(3 + √13) / 2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "સિમિત લેડર અપૂર્ણાંકનું મૂલ્ય શોધો: 1 / (1 + 1 / (2 + 1 / (3 + 1)))",
+      "options": [
+        {
+          "option": "4 / 7"
+        },
+        {
+          "option": "7 / 4"
+        },
+        {
+          "option": "11 / 7"
+        },
+        {
+          "option": "7 / 11",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "નીચેનાનું મૂલ્ય શું છે: 1 + 2 / (1 + 2 / (1 + 2 / (1 + 2)))",
+      "options": [
+        {
+          "option": "3 / 5"
+        },
+        {
+          "option": "5 / 3"
+        },
+        {
+          "option": "17 / 11",
+          "is_answer": true
+        },
+        {
+          "option": "11 / 17"
+        }
+      ]
+    },
+    {
+      "question": "સિમિત સાતત્ય અપૂર્ણાંકનું મૂલ્ય શોધો: 4 - 1 / (3 - 1 / (2 - 1 / 2))",
+      "options": [
+        {
+          "option": "19 / 5",
+          "is_answer": true
+        },
+        {
+          "option": "5 / 19"
+        },
+        {
+          "option": "11 / 3"
+        },
+        {
+          "option": "3 / 11"
+        }
+      ]
+    },
+    {
+      "question": "અનંત સાતત્ય અપૂર્ણાંકનું મૂલ્ય શોધો: 4 + 1 / (4 + 1 / (4 + 1 / (4 + ...)))",
+      "options": [
+        {
+          "option": "2 + √5",
+          "is_answer": true
+        },
+        {
+          "option": "4 + √5"
+        },
+        {
+          "option": "2 - √5"
+        },
+        {
+          "option": "(1 + √5) / 2"
+        }
+      ]
+    },
+    {
+      "question": "સરળીકરણ કરો: 1 / (1 + 1 / (1 + 1 / (1 + 1 / 3)))",
+      "options": [
+        {
+          "option": "3 / 8"
+        },
+        {
+          "option": "8 / 5"
+        },
+        {
+          "option": "5 / 3"
+        },
+        {
+          "option": "5 / 8",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "મૂલ્ય શોધો: 1 + 1 / (2 + 1 / (1 + 1 / 2))",
+      "options": [
+        {
+          "option": "11 / 8",
+          "is_answer": true
+        },
+        {
+          "option": "8 / 11"
+        },
+        {
+          "option": "3 / 8"
+        },
+        {
+          "option": "5 / 8"
+        }
+      ]
+    },
+    {
+      "question": "લેડર અપૂર્ણાંકનું મૂલ્ય શોધો: 2 - 1 / (2 - 1 / (2 - 1 / 2))",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "3 / 2"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "1 / 2"
+        }
+      ]
+    },
+    {
+      "question": "અનંત સાતત્ય અપૂર્ણાંકનું મૂલ્ય શોધો: 5 + 1 / (5 + 1 / (5 + 1 / (5 + ...)))",
+      "options": [
+        {
+          "option": "(5 + √29) / 2",
+          "is_answer": true
+        },
+        {
+          "option": "(5 - √29) / 2"
+        },
+        {
+          "option": "(1 + √29) / 2"
+        },
+        {
+          "option": "5 + √29"
+        }
+      ]
+    },
+    {
+      "question": "મૂલ્ય શોધો: 1 + 1 / (1 + 2 / (1 + 3 / 4))",
+      "options": [
+        {
+          "option": "15 / 21"
+        },
+        {
+          "option": "8 / 5"
+        },
+        {
+          "option": "21 / 15",
+          "is_answer": true
+        },
+        {
+          "option": "5 / 8"
+        }
+      ]
+    },
+    {
+      "question": "સિમિત સાતત્ય અપૂર્ણાંકનું મૂલ્ય શોધો: 1 + 2 / (1 + 3 / (1 + 4 / 5))",
+      "options": [
+        {
+          "option": "27 / 17",
+          "is_answer": true
+        },
+        {
+          "option": "12 / 17"
+        },
+        {
+          "option": "17 / 27"
+        },
+        {
+          "option": "27 / 12"
+        }
+      ]
+    },
+    {
+      "question": "અનંત લેડર અપૂર્ણાંકનું સરળીકરણ કરો: 1 - 1 / (1 - 1 / (1 - 1 / (1 - ...)))",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "અભિસૃત થતું નથી (Does not converge)",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "10! માં અંતિમ શૂન્યોની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "25! ના અંતે કેટલા શૂન્ય છે?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "50! માં અંતિમ શૂન્યોની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "11"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "100! ના અંતે શૂન્યોની સંખ્યા નક્કી કરો.",
+      "options": [
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "22"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "120! માં અંતિમ શૂન્યોની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "28",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "200! ના અંતે શૂન્યોની સંખ્યા કેટલી છે?",
+      "options": [
+        {
+          "option": "45"
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "49",
+          "is_answer": true
+        },
+        {
+          "option": "50"
+        }
+      ]
+    },
+    {
+      "question": "500! માં અંતિમ શૂન્યોની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "100"
+        },
+        {
+          "option": "124",
+          "is_answer": true
+        },
+        {
+          "option": "125"
+        },
+        {
+          "option": "110"
+        }
+      ]
+    },
+    {
+      "question": "1000! ના અંતે કેટલા શૂન્ય છે?",
+      "options": [
+        {
+          "option": "250"
+        },
+        {
+          "option": "249",
+          "is_answer": true
+        },
+        {
+          "option": "224"
+        },
+        {
+          "option": "200"
+        }
+      ]
+    },
+    {
+      "question": "75! માં અંતિમ શૂન્યોની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "18",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "60! ના અંતે શૂન્યોની સંખ્યા નક્કી કરો.",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "14",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "30! માં અંતિમ શૂન્યોની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "150! ના અંતે શૂન્યોની સંખ્યા કેટલી છે?",
+      "options": [
+        {
+          "option": "40"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "35"
+        },
+        {
+          "option": "37",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "40! માં અંતિમ શૂન્યોની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "80! ના અંતે કેટલા શૂન્ય છે?",
+      "options": [
+        {
+          "option": "19",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "90! માં અંતિમ શૂન્યોની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "21",
+          "is_answer": true
+        },
+        {
+          "option": "22"
+        }
+      ]
+    },
+    {
+      "question": "300! ના અંતે શૂન્યોની સંખ્યા નક્કી કરો.",
+      "options": [
+        {
+          "option": "60"
+        },
+        {
+          "option": "70"
+        },
+        {
+          "option": "74",
+          "is_answer": true
+        },
+        {
+          "option": "75"
+        }
+      ]
+    },
+    {
+      "question": "400! માં અંતિમ શૂન્યોની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "80"
+        },
+        {
+          "option": "99",
+          "is_answer": true
+        },
+        {
+          "option": "95"
+        },
+        {
+          "option": "100"
+        }
+      ]
+    },
+    {
+      "question": "70! ના અંતે શૂન્યોની સંખ્યા કેટલી છે?",
+      "options": [
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "17"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "14"
+        }
+      ]
+    },
+    {
+      "question": "600! માં અંતિમ શૂન્યોની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "150"
+        },
+        {
+          "option": "149",
+          "is_answer": true
+        },
+        {
+          "option": "140"
+        }
+      ]
+    },
+    {
+      "question": "250! ના અંતે કેટલા શૂન્ય છે?",
+      "options": [
+        {
+          "option": "65"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "62",
+          "is_answer": true
+        },
+        {
+          "option": "50"
+        }
+      ]
+    },
+    {
+      "question": "નાઇન્સ કાસ્ટ આઉટ પદ્ધતિનો ઉપયોગ કરીને 458 નો ડિજિટલ રૂટ શું છે?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "જો કોઈ સંખ્યાને 9 વડે ગુણવામાં આવે, તો ગુણાકારનો અપેક્ષિત ડિજિટલ રૂટ શું છે?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "789 નો ડિજિટલ રૂટ શું છે?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "ડિજિટલ રૂટ પદ્ધતિમાં, અંકોના સરવાળા પર કઈ ઓપરેશન કરવામાં આવે છે?",
+      "options": [
+        {
+          "option": "મોડ્યુલો 7"
+        },
+        {
+          "option": "મોડ્યુલો 10"
+        },
+        {
+          "option": "મોડ્યુલો 9",
+          "is_answer": true
+        },
+        {
+          "option": "મોડ્યુલો 8"
+        }
+      ]
+    },
+    {
+      "question": "સરવાળાનો ડિજિટલ રૂટ શોધો: 345 + 678.",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "999 નો ડિજિટલ રૂટ શું છે?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "જો A નો ડિજિટલ રૂટ 5 હોય અને B નો ડિજિટલ રૂટ 7 હોય, તો A x B નો ડિજિટલ રૂટ શું છે?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "શું ડિજિટલ રૂટ પદ્ધતિ નિશ્ચિતપણે સાબિત કરી શકે છે કે જવાબ 100% સાચો છે?",
+      "options": [
+        {
+          "option": "ના, તે ફક્ત ચકાસી શકે છે કે તે સંભવિત સાચું છે કે નહીં",
+          "is_answer": true
+        },
+        {
+          "option": "હા, હંમેશા"
+        },
+        {
+          "option": "ફક્ત ગુણાકાર માટે"
+        },
+        {
+          "option": "ફક્ત સરવાળા માટે"
+        }
+      ]
+    },
+    {
+      "question": "1000 નો ડિજિટલ રૂટ શું છે?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "846 નો ડિજિટલ રૂટ શું છે?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "જો કોઈ સંખ્યાનો ડિજિટલ રૂટ 0 હોય, તો તેનું સમકક્ષ મોડ્યુલો 9 ડિજિટલ રૂટ આ રીતે દર્શાવવામાં આવે છે:",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "56 x 73 નો ડિજિટल રૂટ ગણો.",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "ડિજિટલ રૂટ (નાઇન્સ કાસ્ટ આઉટ) પદ્ધતિમાં કયો અંક 0 ની જેમ જ વર્તે છે?",
+      "options": [
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "12345 નો ડિજિટલ રૂટ શું છે?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "જો X - Y = Z હોય, તો તેમના ડિજિટલ રૂટ્સ (DR) માટે કયો સંબંધ સાચો છે?",
+      "options": [
+        {
+          "option": "DR(X) = DR(Y) x DR(Z)"
+        },
+        {
+          "option": "DR(X) x DR(Y) = DR(Z)"
+        },
+        {
+          "option": "DR(X) - DR(Y) = DR(Z) (મોડ્યુલો 9 ગોઠવાયેલ)",
+          "is_answer": true
+        },
+        {
+          "option": "DR(X) + DR(Y) = DR(Z)"
+        }
+      ]
+    },
+    {
+      "question": "9876 નો ડિજિટલ રૂટ શું છે?",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "ડિજિટલ રૂટ પદ્ધતિ ભૂલ શોધવામાં કેમ નિષ્ફળ થઈ શકે છે?",
+      "options": [
+        {
+          "option": "તે મોટી સંખ્યાઓ પર પ્રક્રિયા કરી શકતી નથી"
+        },
+        {
+          "option": "તે 5 નંબરને અવગણે છે"
+        },
+        {
+          "option": "તે ફક્ત બાદબાકી માટે કામ કરે છે"
+        },
+        {
+          "option": "અદલાબદલી કરેલા અંકો (એનાગ્રામ્સ) નો ડિજિટલ રૂટ સમાન હોય છે",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "14 ના વર્ગનો ડિજિટલ રૂટ શોધો.",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "2023 નો ડિજિટલ રૂટ શું છે?",
+      "options": [
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "જો સમીકરણની બંને બાજુના ડિજિટલ રૂટ્સ મેળ ખાતા નથી, તો તમે નિશ્ચિતપણે શું તારણ કાઢી શકો છો?",
+      "options": [
+        {
+          "option": "ઓપરેશન ભાગાકાર હતું"
+        },
+        {
+          "option": "સંખ્યાઓ અવિભાજ્ય છે"
+        },
+        {
+          "option": "ગણતરી ચોક્કસપણે સાચી છે"
+        },
+        {
+          "option": "ગણતરી ચોક્કસપણે ખોટી છે",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "ક્રોસ-મલ્ટિપ્લિકેશનનો ઉપયોગ કરીને નીચેનામાંથી કઈ અપૂર્ણાંક સંખ્યા સૌથી મોટી છે: 5/8 કે 7/11?",
+      "options": [
+        {
+          "option": "બંને સમાન છે"
+        },
+        {
+          "option": "5/8",
+          "is_answer": true
+        },
+        {
+          "option": "7/11"
+        },
+        {
+          "option": "નક્કી કરી શકાતું નથી"
+        }
+      ]
+    },
+    {
+      "question": "ક્રોસ-મલ્ટિપ્લિકેશનનો ઉપયોગ કરીને 3/5 અને 4/7 ની તુલના કરો. કયું મોટું છે?",
+      "options": [
+        {
+          "option": "4/7"
+        },
+        {
+          "option": "બંને સમાન છે"
+        },
+        {
+          "option": "આમાંથી કોઈ નહીં"
+        },
+        {
+          "option": "3/5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "ક્રોસ-મલ્ટિપ્લિકેશનનો ઉપયોગ કરીને અપૂર્ણાંક 2/3 અને 3/5 ને ઉતરતા ક્રમમાં ગોઠવો.",
+      "options": [
+        {
+          "option": "સમાન"
+        },
+        {
+          "option": "કોઈ નહીં"
+        },
+        {
+          "option": "3/5, 2/3"
+        },
+        {
+          "option": "2/3, 3/5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "9/13 અને 7/10 વચ્ચે કયો અપૂર્ણાંક નાનો છે?",
+      "options": [
+        {
+          "option": "9/13",
+          "is_answer": true
+        },
+        {
+          "option": "માહિતી અપૂરતી છે"
+        },
+        {
+          "option": "બંને સમાન છે"
+        },
+        {
+          "option": "7/10"
+        }
+      ]
+    },
+    {
+      "question": "ક્રોસ-મલ્ટિપ્લિકેશનનો ઉપયોગ કરીને, 11/15 અને 13/18 વચ્ચેનો મોટો અપૂર્ણાંક શોધો.",
+      "options": [
+        {
+          "option": "તેઓ સમાન છે"
+        },
+        {
+          "option": "કહી શકાતું નથી"
+        },
+        {
+          "option": "13/18"
+        },
+        {
+          "option": "11/15",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "અપૂર્ણાંક 4/9 અને 5/11 માટે નીચેનામાંથી કયું સાચું છે?",
+      "options": [
+        {
+          "option": "4/9 = 5/11"
+        },
+        {
+          "option": "4/9 > 5/11",
+          "is_answer": true
+        },
+        {
+          "option": "4/9 < 5/11"
+        },
+        {
+          "option": "સરખામણી શક્ય નથી"
+        }
+      ]
+    },
+    {
+      "question": "જોડીવાર ક્રોસ-મલ્ટિપ્લિકેશન દ્વારા 3/4, 5/7 અને 7/10 માંથી સૌથી નાનો અપૂર્ણાંક શોધો.",
+      "options": [
+        {
+          "option": "5/7"
+        },
+        {
+          "option": "બધા સમાન છે"
+        },
+        {
+          "option": "3/4"
+        },
+        {
+          "option": "7/10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "સેટમાંથી બીજો સૌથી મોટો અપૂર્ણાંક ઓળખો: 2/5, 4/7, 3/8, 1/2.",
+      "options": [
+        {
+          "option": "2/5"
+        },
+        {
+          "option": "4/7"
+        },
+        {
+          "option": "3/8"
+        },
+        {
+          "option": "1/2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "ક્રોસ-મલ્ટિપ્લિકેશનનો ઉપયોગ કરીને 17/24 અને 19/27 ની સરખામણી કરો. કયું મોટું છે?",
+      "options": [
+        {
+          "option": "બંને સમાન છે"
+        },
+        {
+          "option": "19/27"
+        },
+        {
+          "option": "કોઈ નહીં"
+        },
+        {
+          "option": "17/24",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "5/6, 7/9 અને 11/12 ને ચઢતા ક્રમમાં ગોઠવો.",
+      "options": [
+        {
+          "option": "5/6, 7/9, 11/12"
+        },
+        {
+          "option": "11/12, 5/6, 7/9"
+        },
+        {
+          "option": "7/9, 11/12, 5/6"
+        },
+        {
+          "option": "7/9, 5/6, 11/12",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "કયો અપૂર્ણાંક મોટો છે: 13/16 કે 15/19?",
+      "options": [
+        {
+          "option": "નક્કી કરી શકાતું નથી"
+        },
+        {
+          "option": "સમાન"
+        },
+        {
+          "option": "13/16",
+          "is_answer": true
+        },
+        {
+          "option": "15/19"
+        }
+      ]
+    },
+    {
+      "question": "ક્રોસ-મલ્ટિપ્લિકેશનનો ઉપયોગ કરીને નક્કી કરો કે 8/15 અને 11/20 માંથી કયું મોટું છે.",
+      "options": [
+        {
+          "option": "8/15"
+        },
+        {
+          "option": "11/20",
+          "is_answer": true
+        },
+        {
+          "option": "કોઈ નહીં"
+        },
+        {
+          "option": "બંને સમાન છે"
+        }
+      ]
+    },
+    {
+      "question": "6/11, 5/9 અને 7/12 માંથી સૌથી મોટું કયું છે?",
+      "options": [
+        {
+          "option": "બધા સમાન છે"
+        },
+        {
+          "option": "7/12",
+          "is_answer": true
+        },
+        {
+          "option": "6/11"
+        },
+        {
+          "option": "5/9"
+        }
+      ]
+    },
+    {
+      "question": "ક્રોસ-મલ્ટિપ્લિકેશનનો ઉપયોગ કરીને 23/30 અને 19/25 ની સરખામણી કરો. કયું નાનું છે?",
+      "options": [
+        {
+          "option": "23/30"
+        },
+        {
+          "option": "બંને સમાન છે"
+        },
+        {
+          "option": "19/25",
+          "is_answer": true
+        },
+        {
+          "option": "કોઈ નહીં"
+        }
+      ]
+    },
+    {
+      "question": "અપૂર્ણાંકોનો સાચો ઉતરતો ક્રમ કયો છે: 7/8, 11/13, 5/6?",
+      "options": [
+        {
+          "option": "7/8, 11/13, 5/6",
+          "is_answer": true
+        },
+        {
+          "option": "11/13, 7/8, 5/6"
+        },
+        {
+          "option": "7/8, 5/6, 11/13"
+        },
+        {
+          "option": "5/6, 11/13, 7/8"
+        }
+      ]
+    },
+    {
+      "question": "12/17 અને 14/19 વચ્ચે કયો અપૂર્ણાંક મોટો છે?",
+      "options": [
+        {
+          "option": "માહિતી અપૂરતી છે"
+        },
+        {
+          "option": "14/19",
+          "is_answer": true
+        },
+        {
+          "option": "બંને સમાન છે"
+        },
+        {
+          "option": "12/17"
+        }
+      ]
+    },
+    {
+      "question": "ટકાવારી રૂપાંતરણ અથવા ક્રોસ-મલ્ટિપ્લિકેશનનો ઉપયોગ કરીને, 4/5, 7/8 અને 8/10 માંથી સૌથી નાનું શોધો.",
+      "options": [
+        {
+          "option": "4/5",
+          "is_answer": true
+        },
+        {
+          "option": "8/10"
+        },
+        {
+          "option": "7/8"
+        },
+        {
+          "option": "બધા સમાન છે"
+        }
+      ]
+    },
+    {
+      "question": "જો આપણે 16/21 અને 19/25 ની સરખામણી કરીએ, તો કયો સંબંધ સાચો છે?",
+      "options": [
+        {
+          "option": "16/21 < 19/25",
+          "is_answer": true
+        },
+        {
+          "option": "આમાંથી કોઈ નહીં"
+        },
+        {
+          "option": "16/21 = 19/25"
+        },
+        {
+          "option": "16/21 > 19/25"
+        }
+      ]
+    },
+    {
+      "question": "3/7, 2/5, 4/9 અને 1/3 માંથી બીજો સૌથી નાનો અપૂર્ણાંક શોધો.",
+      "options": [
+        {
+          "option": "2/5"
+        },
+        {
+          "option": "4/9",
+          "is_answer": true
+        },
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "3/7"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી ક the અપૂર્ણાંકોનો સમૂહ ચઢતા ક્રમમાં યોગ્ય રીતે ગોઠવાયેલ છે?",
+      "options": [
+        {
+          "option": "3/5, 7/10, 4/5, 5/6",
+          "is_answer": true
+        },
+        {
+          "option": "5/6, 4/5, 7/10, 3/5"
+        },
+        {
+          "option": "7/10, 3/5, 4/5, 5/6"
+        },
+        {
+          "option": "3/5, 4/5, 7/10, 5/6"
+        }
+      ]
+    },
+    {
+      "question": "72 ના કુલ અવયવોની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "14"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "108 ના કુલ અવયવોની સંખ્યા કેટલી છે?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "200 ના કુલ અવયવોની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "સંખ્યા 360 ના કેટલા અવયવો છે?",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "540 ના કુલ અવયવોની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "26"
+        },
+        {
+          "option": "28"
+        },
+        {
+          "option": "22"
+        }
+      ]
+    },
+    {
+      "question": "1000 ના કુલ અવયવોની સંખ્યા કેટલી છે?",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "1440 ના કુલ અવયવોની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "36",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "32"
+        }
+      ]
+    },
+    {
+      "question": "750 ના કુલ અવયવોની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "24 ના તમામ અવયવોનો સરવાળો કેટલો છે?",
+      "options": [
+        {
+          "option": "60",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "72"
+        }
+      ]
+    },
+    {
+      "question": "36 ના તમામ અવયવોનો સરવાળો શોધો.",
+      "options": [
+        {
+          "option": "84"
+        },
+        {
+          "option": "95"
+        },
+        {
+          "option": "78"
+        },
+        {
+          "option": "91",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "50 ના તમામ અવયવોનો સરવાળો કેટલો છે?",
+      "options": [
+        {
+          "option": "93",
+          "is_answer": true
+        },
+        {
+          "option": "96"
+        },
+        {
+          "option": "88"
+        },
+        {
+          "option": "90"
+        }
+      ]
+    },
+    {
+      "question": "60 ના તમામ અવયવોનો સરવાળો શોધો.",
+      "options": [
+        {
+          "option": "168",
+          "is_answer": true
+        },
+        {
+          "option": "144"
+        },
+        {
+          "option": "150"
+        },
+        {
+          "option": "180"
+        }
+      ]
+    },
+    {
+      "question": "જો N = 2^3 * 3^2 હોય, તો N ના કુલ અવયવોની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો N = 2^4 * 3^3 * 5^1 હોય, તો કુલ અવયવોની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "40",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "45"
+        }
+      ]
+    },
+    {
+      "question": "420 ના કુલ અવયવોની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "24",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "48 ના કુલ અવયવોની સંખ્યા કેટલી છે?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "90 ના કુલ અવયવોની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "28 ના તમામ અવયવોનો સરવાળો કેટલો છે?",
+      "options": [
+        {
+          "option": "42"
+        },
+        {
+          "option": "56",
+          "is_answer": true
+        },
+        {
+          "option": "64"
+        },
+        {
+          "option": "48"
+        }
+      ]
+    },
+    {
+      "question": "64 ના કુલ અવયવોની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "જો N = 2^5 * 5^2 હોય, તો N ના કુલ અવયવોની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "18",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "સંખ્યા 72 ના બેકી અવયવોની કુલ સંખ્યા કેટલી છે?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "72 ના એકી અવયવોની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "સંખ્યા 360 ના કેટલા બેકી અવયવો છે?",
+      "options": [
+        {
+          "option": "16"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "24"
+        }
+      ]
+    },
+    {
+      "question": "360 ના એકી અવયવોની સંખ્યા કેટલી છે?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "540 ના બેકી અવયવોની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "540 ને કેટલા એકી અવયવો છે?",
+      "options": [
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "1000 ના બેકી અવયવોની સંખ્યા કેટલી છે?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "1000 ના એકી અવયવોની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "200 ના બેકી અવયવોની સંખ્યા ગણો.",
+      "options": [
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "200 ના એકી અવયવોની સંખ્યા ગણો.",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "1080 ના બેકી અવયવોની કુલ સંખ્યા કેટલી છે?",
+      "options": [
+        {
+          "option": "32"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "1080 ના એકી અવયવોની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "સંખ્યા 300 ના કેટલા બેકી અવયવો છે?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "300 ના એકી અવયવોની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "450 ના બેકી અવયવોની સંખ્યા કેટલી છે?",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "450 ના એકી અવયવોની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "સંખ્યા 1200 માટે કેટલા બેકી અવયવો છે?",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "1200 ના એકી અવયવોની સંખ્યા કેટલી છે?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "900 ના બેકી અવયવોની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "18",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "24"
+        }
+      ]
+    },
+    {
+      "question": "900 ના એકી અવયવોની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "ઓઈલરના ટોટિઅન્ટ ફંક્શન phi(10) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "15 કે તેથી નાની અને 15 સાથે સહ-અવિભાજ્ય (coprime) હોય તેવી ધન પૂર્ણાંક સંખ્યાઓની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "phi(p) શું છે જ્યાં p એ અવિભાજ્ય સંખ્યા (prime number) છે?",
+      "options": [
+        {
+          "option": "p / 2"
+        },
+        {
+          "option": "p - 1",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "p"
+        }
+      ]
+    },
+    {
+      "question": "phi(7) નું મૂલ્ય ગણો.",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "પ્રણાલીગત રીતે phi(1) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "अनंत (infinite)"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "અવ્યાખ્યાયિત (undefined)"
+        }
+      ]
+    },
+    {
+      "question": "ઓઈલરના ટોટિઅન્ટ સૂત્રનો ઉપયોગ કરીને phi(12) શોધો.",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "phi(20) શું છે?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "જો p અવિભાજ્ય સંખ્યા હોય, તો phi(p^2) શું થાય?",
+      "options": [
+        {
+          "option": "p^2 - 1"
+        },
+        {
+          "option": "p(p-1)"
+        },
+        {
+          "option": "p^2 - p",
+          "is_answer": true
+        },
+        {
+          "option": "p^2"
+        }
+      ]
+    },
+    {
+      "question": "phi(9) ગણો.",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કયું phi(25) ની બરાબર છે?",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "phi(30) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "ઓઈલરનું ટોટિઅન્ટ ફંક્શન phi(N) ગુણાત્મક છે. જો gcd(a, b) = 1 હોય, તો phi(a * b) બરાબર થાય:",
+      "options": [
+        {
+          "option": "phi(a) + phi(b)"
+        },
+        {
+          "option": "a * phi(b)"
+        },
+        {
+          "option": "phi(a + b)"
+        },
+        {
+          "option": "phi(a) * phi(b)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "phi(11) નું મૂલ્ય શોધો.",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "11"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "18 કરતા નાની અને 18 સાથે સહ-અવિભાજ્ય પૂર્ણાંક સંખ્યાઓની સંખ્યા કેટલી છે?",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "phi(16) ગણો.",
+      "options": [
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "phi(14) શું છે?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "કોઈપણ અવિભાજ્ય સંખ્યા p અને પૂર્ણાંક k >= 1 માટે, phi(p^k) નું સૂત્ર શું છે?",
+      "options": [
+        {
+          "option": "k * phi(p)"
+        },
+        {
+          "option": "p^k - 1"
+        },
+        {
+          "option": "p^(k-1)"
+        },
+        {
+          "option": "p^k - p^(k-1)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "phi(21) નું મૂલ્ય શોધો.",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "14"
+        }
+      ]
+    },
+    {
+      "question": "phi(8) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "phi(27) ગણો.",
+      "options": [
+        {
+          "option": "21"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "18",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "સમીકરણનું મૂલ્ય શોધો: |5 - 8| + |3 - 7|",
+      "options": [
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "11"
+        },
+        {
+          "option": "-7"
+        }
+      ]
+    },
+    {
+      "question": "સરળ કરો: |-4| - |-9| + |5|",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "-8"
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "||-3 - 2| - |1 - 6|| નું મૂલ્ય શોધો.",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "-5"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "જ્યારે x = -2 હોય ત્યારે |x - 3| ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "-5"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "|2(-3) + 4| - |-5 + 2| નું સરળ રૂપ શું છે?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "સમીકરણનું મૂલ્ય શોધો: |-7| × |-2| / | -4 |",
+      "options": [
+        {
+          "option": "3.5",
+          "is_answer": true
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "-3.5"
+        }
+      ]
+    },
+    {
+      "question": "ગૂંચવાયેલા મોડ્યુલસને સરળ કરો: ||| -2 | - 5 | - 10 |",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "-7"
+        },
+        {
+          "option": "13"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો x = -4 અને y = 6 હોય તો |x - y| ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "-2"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "-10"
+        }
+      ]
+    },
+    {
+      "question": "જ્યારે x = 4 હોય ત્યારે |3 - x| + |x - 5| નું મૂલ્ય શોધો.",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-2"
+        }
+      ]
+    },
+    {
+      "question": "સરળ કરો: | -12 / 4 | + | -20 / 5 |",
+      "options": [
+        {
+          "option": "-7"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "11"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "| 5 - | -5 || નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "-10"
+        }
+      ]
+    },
+    {
+      "question": "મૂલ્ય શોધો: -|-8| - (-|8|)",
+      "options": [
+        {
+          "option": "-16"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "સમીકરણને સરળ કરો: | 2x - 6 | જ્યારે x = 1 હોય.",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "-4"
+        },
+        {
+          "option": "-8"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "| -9 + 4 | + | 3 - 8 | નું મૂલ્ય શોધો.",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "-10"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "મૂલ્ય શોધો: ||-6| - |2| | × | -3 |",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-12"
+        }
+      ]
+    },
+    {
+      "question": "સરળ કરો: |(-2) × (-3)| - |-5 + 2|",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "-3"
+        }
+      ]
+    },
+    {
+      "question": "જો x = -5 અને y = 3 હોય તો |x| + |y| - |x + y| નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "-6"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "મૂલ્ય શોધો: | 7 - 10 | × | 2 - 5 |",
+      "options": [
+        {
+          "option": "81"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "-9"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "સરળ કરો: ||-8| + |-2|| - |-5|",
+      "options": [
+        {
+          "option": "-5"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "11"
+        }
+      ]
+    },
+    {
+      "question": "જ્યારે x = 7 હોય ત્યારે | 3 - x | / | x - 3 | નું મૂલ્ય શોધો.",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "મૂલ્ય શોધો: log_2(8) + log_2(4)",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "સાદુરૂપ આપો: log_3(81) - log_3(9)",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "log_5(125^2) ની કિંમત શોધો",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "મૂલ્ય શોધો: log_10(5) + log_10(20)",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "log_7(1) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "અવ્યાખ્યાયિત"
+        }
+      ]
+    },
+    {
+      "question": "આધાર પરિવર્તન નિયમનો ઉપયોગ કરીને સાદુરૂપ આપો: log_2(9) * log_3(8)",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "મૂલ્ય શોધો: log_4(64) / log_4(4)",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "જો log_x(64) = 3 હોય, તો x શોધો.",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "સાદુરૂપ આપો: 2 log_10(5) + log_10(4)",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "મૂલ્ય શોધો: log_2(32) - log_2(16) + log_2(8)",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "log_a(a^5) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "a"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "5a"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "સાદુરૂપ આપો: log_10(1000) - 2 log_10(10)",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "મૂલ્ય શોધો: log_3(1/27)",
+      "options": [
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "-3",
+          "is_answer": true
+        },
+        {
+          "option": "-1/3"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "જો log_3(x) = 4 હોય તો x શોધો",
+      "options": [
+        {
+          "option": "81",
+          "is_answer": true
+        },
+        {
+          "option": "27"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "64"
+        }
+      ]
+    },
+    {
+      "question": "મૂલ્ય શોધો: log_5(625) + log_6(216)",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "11"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "સાદુરૂપ આપો: log_2(3) + log_2(4) - log_2(6)",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "3 * log_10(2) + log_10(125) કેટલું થાય?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "મૂલ્ય શોધો: log_10(0.01)",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "-2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "log_2(log_3(81)) ની કિંમત શોધો",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "સાદુરૂપ આપો: log_a(b) * log_b(c) * log_c(a)",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "a+b+c"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "abc"
+        }
+      ]
+    },
+    {
+      "question": "સાદુરૂપ આપો: $\\sqrt{5 + 2\\sqrt{6}} + \\sqrt{8 - 2\\sqrt{15}}$",
+      "options": [
+        {
+          "option": "\\sqrt{2} + \\sqrt{3}"
+        },
+        {
+          "option": "\\sqrt{5} - \\sqrt{2}"
+        },
+        {
+          "option": "2\\sqrt{3}"
+        },
+        {
+          "option": "\\sqrt{3} + \\sqrt{5}",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "કિંમત શોધો: $\\frac{1}{3 + \\sqrt{8}} - \\frac{1}{\\sqrt{8} + \\sqrt{7}} + \\frac{1}{\\sqrt{7} + \\sqrt{6}} - \\frac{1}{\\sqrt{6} + \\sqrt{5}} + \\frac{1}{\\sqrt{5} + 2}$",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "\\sqrt{5}"
+        }
+      ]
+    },
+    {
+      "question": "મૂલ્ય શોધો: $\\left(1 - \\frac{1}{3}\\right)\\left(1 - \\frac{1}{4}\\right)\\left(1 - \\frac{1}{5}\\right)\\dots\\left(1 - \\frac{1}{n}\\right)$ જ્યારે $n=100$",
+      "options": [
+        {
+          "option": "\\frac{1}{99}"
+        },
+        {
+          "option": "\\frac{1}{100}",
+          "is_answer": true
+        },
+        {
+          "option": "\\frac{1}{50}"
+        },
+        {
+          "option": "\\frac{2}{99}"
+        }
+      ]
+    },
+    {
+      "question": "જો $x = \\frac{\\sqrt{5} + 1}{\\sqrt{5} - 1}$ અને $y = \\frac{\\sqrt{5} - 1}{\\sqrt{5} + 1}$ હોય, તો $x^2 + y^2 + xy$ ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "સાદુરૂપ આપો: $\\sqrt[3]{175616} + \\sqrt{4624} - \\sqrt[4]{1296}$",
+      "options": [
+        {
+          "option": "102"
+        },
+        {
+          "option": "94"
+        },
+        {
+          "option": "98",
+          "is_answer": true
+        },
+        {
+          "option": "106"
+        }
+      ]
+    },
+    {
+      "question": "মূল્ય શોધો: $\\frac{(0.05)^2 + (0.41)^2 + (0.073)^2}{(0.005)^2 + (0.041)^2 + (0.0073)^2}$",
+      "options": [
+        {
+          "option": "1000"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "100",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "સાદુરૂપ આપો: $\\left[\\left(-\\frac{1}{2}\\right)^{-2}\\right]^{-2}$",
+      "options": [
+        {
+          "option": "16"
+        },
+        {
+          "option": "-\\frac{1}{16}"
+        },
+        {
+          "option": "-16"
+        },
+        {
+          "option": "\\frac{1}{16}",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "કિંમત શોધો: $\\sqrt{12 + \\sqrt{12 + \\sqrt{12 + \\dots \\infty}}}$",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "2\\sqrt{3}"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "સાદુરૂપ આપો: $\\frac{3.75 \\times 3.75 - 2.25 \\times 2.25}{3.75 + 2.25}$",
+      "options": [
+        {
+          "option": "2.5"
+        },
+        {
+          "option": "1.5",
+          "is_answer": true
+        },
+        {
+          "option": "1.2"
+        },
+        {
+          "option": "6.0"
+        }
+      ]
+    },
+    {
+      "question": "મૂલ્ય શોધો: $\\sqrt{7 + \\sqrt{5}} \\times \\sqrt{7 - \\sqrt{5}}$",
+      "options": [
+        {
+          "option": "44"
+        },
+        {
+          "option": "\\sqrt{44}"
+        },
+        {
+          "option": "2\\sqrt{6}"
+        },
+        {
+          "option": "2\\sqrt{11}",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો $x = 3 + 2\\sqrt{2}$ હોય, તો $\\sqrt{x} - \\frac{1}{\\sqrt{x}}$ ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "2\\sqrt{2}"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "\\sqrt{2}"
+        }
+      ]
+    },
+    {
+      "question": "સાદુરૂપ આપો: $\\frac{0.1 \\times 0.1 \\times 0.1 + 0.02 \\times 0.02 \\times 0.02}{0.2 \\times 0.2 \\times 0.2 + 0.04 \\times 0.04 \\times 0.04}$",
+      "options": [
+        {
+          "option": "\\frac{1}{4}"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "\\frac{1}{8}",
+          "is_answer": true
+        },
+        {
+          "option": "\\frac{1}{2}"
+        }
+      ]
+    },
+    {
+      "question": "કિંમત શોધો: $7^{0.5} \\times 343^{1/3} \\times 49^{0.25} \\div 7^{1.5}$",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "49"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "\\frac{1}{7}"
+        }
+      ]
+    },
+    {
+      "question": "મૂલ્ય શોધો: $\\left(1 + \\frac{1}{10}\right)\\left(1 + \\frac{1}{11}\right)\\left(1 + \\frac{1}{12}\right)\\dots\\left(1 + \\frac{1}{99}\right)$",
+      "options": [
+        {
+          "option": "\\frac{99}{10}"
+        },
+        {
+          "option": "11"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "સાદુરૂપ આપો: $\\frac{5.32 \\times 5.32 + 4.68 \\times 4.68 + 2 \\times 5.32 \\times 4.68}{5.32 \\times 5.32 - 4.68 \\times 4.68}$",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "15.625",
+          "is_answer": true
+        },
+        {
+          "option": "12.5"
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "જો $x + \\frac{1}{x} = 5$ હોય, તો $\\frac{x^4 + 3x^3 + 5x^2 + 3x + 1}{x^4 + 1}$ ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "\\frac{65}{23}"
+        },
+        {
+          "option": "\\frac{47}{21}"
+        },
+        {
+          "option": "\\frac{51}{23}"
+        },
+        {
+          "option": "\\frac{63}{23}",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "મૂલ્ય શોધો: $\\sqrt[3]{500} \\times \\sqrt[3]{54} \\times \\sqrt[3]{16} \\div \\sqrt[3]{24}$",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "40"
+        }
+      ]
+    },
+    {
+      "question": "સાદુરૂપ આપો: $\\frac{1}{1 + \\frac{1}{1 + \\frac{1}{1 + \\frac{1}{2}}}}$",
+      "options": [
+        {
+          "option": "\\frac{3}{5}"
+        },
+        {
+          "option": "\\frac{8}{5}"
+        },
+        {
+          "option": "\\frac{5}{3}"
+        },
+        {
+          "option": "\\frac{5}{8}",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો $a + b + c = 9$ અને $ab + bc + ca = 26$ હોય, તો $a^3 + b^3 + c^3 - 3abc$ ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "81"
+        },
+        {
+          "option": "27",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "કિંમત શોધો: $\\sqrt{56 - \\sqrt{56 - \\sqrt{56 - \\dots \\infty}}}$",
+      "options": [
+        {
+          "option": "14"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    }
+  ]
+}

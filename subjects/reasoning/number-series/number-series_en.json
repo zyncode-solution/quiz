@@ -1,0 +1,9005 @@
+{
+  "total_questions": 500,
+  "questions": [
+    {
+      "question": "Find the next term in the doubling GP series: 3, 6, 12, 24, ...",
+      "options": [
+        {
+          "option": "48",
+          "is_answer": true
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "36"
+        }
+      ]
+    },
+    {
+      "question": "Find the next term in the tripling GP series: 2, 6, 18, 54, ...",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "162",
+          "is_answer": true
+        },
+        {
+          "option": "216"
+        },
+        {
+          "option": "108"
+        }
+      ]
+    },
+    {
+      "question": "Find the next term in the halving GP series: 64, 32, 16, 8, ...",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "Find the next term in the alternating sign GP series: 5, -10, 20, -40, ...",
+      "options": [
+        {
+          "option": "60"
+        },
+        {
+          "option": "-60"
+        },
+        {
+          "option": "-80"
+        },
+        {
+          "option": "80",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the 5th term of the doubling GP series starting with 4: 4, 8, 16, 32, ...",
+      "options": [
+        {
+          "option": "64",
+          "is_answer": true
+        },
+        {
+          "option": "128"
+        },
+        {
+          "option": "96"
+        },
+        {
+          "option": "48"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the GP series: 3, __, 27, 81",
+      "options": [
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "Find the next term in the series: 1, -3, 9, -27, ...",
+      "options": [
+        {
+          "option": "-243"
+        },
+        {
+          "option": "243"
+        },
+        {
+          "option": "-81"
+        },
+        {
+          "option": "81",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the common ratio of the GP series: 128, 64, 32, 16, ...",
+      "options": [
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "1/2",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "Find the next term in the series: 7, 14, 28, 56, ...",
+      "options": [
+        {
+          "option": "84"
+        },
+        {
+          "option": "126"
+        },
+        {
+          "option": "98"
+        },
+        {
+          "option": "112",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term: 1000, 500, __, 125, 62.5",
+      "options": [
+        {
+          "option": "375"
+        },
+        {
+          "option": "250",
+          "is_answer": true
+        },
+        {
+          "option": "200"
+        },
+        {
+          "option": "300"
+        }
+      ]
+    },
+    {
+      "question": "Find the next term in the alternating sign GP: -2, 4, -8, 16, ...",
+      "options": [
+        {
+          "option": "-32",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "-24"
+        },
+        {
+          "option": "32"
+        }
+      ]
+    },
+    {
+      "question": "Find the common ratio for the series: 3, 9, 27, 81, ...",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "Find the next term in the series: 256, 128, 64, 32, ...",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "64"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "Find the next term in the series: 1.5, 3, 6, 12, ...",
+      "options": [
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the tripling series: 4, 12, __, 108",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "36",
+          "is_answer": true
+        },
+        {
+          "option": "72"
+        }
+      ]
+    },
+    {
+      "question": "Find the next term in the series: -4, 12, -36, 108, ...",
+      "options": [
+        {
+          "option": "-216"
+        },
+        {
+          "option": "-324",
+          "is_answer": true
+        },
+        {
+          "option": "324"
+        },
+        {
+          "option": "216"
+        }
+      ]
+    },
+    {
+      "question": "Find the 4th term of the halving GP series starting with 80: 80, 40, 20, ...",
+      "options": [
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "2.5"
+        }
+      ]
+    },
+    {
+      "question": "Find the common ratio for the alternating series: 10, -20, 40, -80, ...",
+      "options": [
+        {
+          "option": "-1/2"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "-2",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "Find the next term in the series: 0.5, 1, 2, 4, ...",
+      "options": [
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the series: 81, 27, __, 3, 1",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 2, 10, 4, 13, 6, 16, 8, ?",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "19",
+          "is_answer": true
+        },
+        {
+          "option": "17"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 5, 20, 8, 24, 11, 28, 14, ?",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "32",
+          "is_answer": true
+        },
+        {
+          "option": "34"
+        },
+        {
+          "option": "36"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 50, 5, 45, 10, 40, 15, 35, ?",
+      "options": [
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 3, 2, 6, 4, 12, 8, 24, ?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 1, 100, 3, 90, 5, 80, 7, ?",
+      "options": [
+        {
+          "option": "65"
+        },
+        {
+          "option": "75"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "70",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 10, 2, 13, 4, 16, 6, 19, ?",
+      "options": [
+        {
+          "option": "22"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 100, 9, 90, 11, 80, 13, 70, ?",
+      "options": [
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 4, 7, 8, 14, 12, 21, 16, ?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "28",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 60, 5, 55, 10, 50, 15, 45, ?",
+      "options": [
+        {
+          "option": "35"
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 2, 3, 4, 9, 8, 27, 16, ?",
+      "options": [
+        {
+          "option": "64"
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "81",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 0, 2, 3, 4, 6, 6, 9, ?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 11, 22, 13, 20, 15, 18, 17, ?",
+      "options": [
+        {
+          "option": "19"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "14"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 7, 9, 11, 12, 15, 15, 19, ?",
+      "options": [
+        {
+          "option": "21"
+        },
+        {
+          "option": "23"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "18",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 2, 4, 3, 8, 4, 16, 5, ?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "32",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 25, 2, 24, 4, 23, 6, 22, ?",
+      "options": [
+        {
+          "option": "21"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 1, 1, 2, 4, 3, 9, 4, ?",
+      "options": [
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 30, 40, 28, 35, 26, 30, 24, ?",
+      "options": [
+        {
+          "option": "28"
+        },
+        {
+          "option": "22"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "25",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 5, 10, 15, 20, 25, 30, 35, ?",
+      "options": [
+        {
+          "option": "45"
+        },
+        {
+          "option": "35"
+        },
+        {
+          "option": "50"
+        },
+        {
+          "option": "40",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 10, 1, 20, 2, 30, 3, 40, ?",
+      "options": [
+        {
+          "option": "50"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 8, 24, 11, 22, 14, 20, 17, ?",
+      "options": [
+        {
+          "option": "18",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "19"
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the AP series: 3, 7, 11, 15, ?",
+      "options": [
+        {
+          "option": "23"
+        },
+        {
+          "option": "21"
+        },
+        {
+          "option": "19",
+          "is_answer": true
+        },
+        {
+          "option": "17"
+        }
+      ]
+    },
+    {
+      "question": "What is the next term in the negative AP series: 50, 43, 36, 29, ?",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "22",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the next term in the fractional AP series: 1/2, 1, 3/2, 2, ?",
+      "options": [
+        {
+          "option": "5/2",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "7/4"
+        },
+        {
+          "option": "9/4"
+        }
+      ]
+    },
+    {
+      "question": "Determine the 10th term of the AP: 2, 5, 8, 11, ...",
+      "options": [
+        {
+          "option": "31"
+        },
+        {
+          "option": "29",
+          "is_answer": true
+        },
+        {
+          "option": "27"
+        },
+        {
+          "option": "32"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the decreasing AP: 100, 93, 86, ?, 72",
+      "options": [
+        {
+          "option": "78"
+        },
+        {
+          "option": "80"
+        },
+        {
+          "option": "79",
+          "is_answer": true
+        },
+        {
+          "option": "76"
+        }
+      ]
+    },
+    {
+      "question": "What is the common difference of the AP: -5, -2, 1, 4, ...",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "-3"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "Find the next number in the series: 4.5, 6.0, 7.5, 9.0, ?",
+      "options": [
+        {
+          "option": "10.5",
+          "is_answer": true
+        },
+        {
+          "option": "10.0"
+        },
+        {
+          "option": "11.0"
+        },
+        {
+          "option": "11.5"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the fractional AP: 1/4, 3/4, 5/4, 7/4, ?",
+      "options": [
+        {
+          "option": "11/4"
+        },
+        {
+          "option": "5/2"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "9/4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which term of the AP 4, 9, 14, 19, ... is 104?",
+      "options": [
+        {
+          "option": "25th"
+        },
+        {
+          "option": "20th"
+        },
+        {
+          "option": "21st",
+          "is_answer": true
+        },
+        {
+          "option": "22nd"
+        }
+      ]
+    },
+    {
+      "question": "Find the next term in the AP: -15, -11, -7, -3, ?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 12, 19, 26, 33, ?",
+      "options": [
+        {
+          "option": "40",
+          "is_answer": true
+        },
+        {
+          "option": "41"
+        },
+        {
+          "option": "39"
+        },
+        {
+          "option": "42"
+        }
+      ]
+    },
+    {
+      "question": "What is the common difference of the AP: 2/3, 4/3, 2, 8/3, ...",
+      "options": [
+        {
+          "option": "2/3",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "4/3"
+        }
+      ]
+    },
+    {
+      "question": "Find the 15th term of the AP: 5, 9, 13, 17, ...",
+      "options": [
+        {
+          "option": "59"
+        },
+        {
+          "option": "61",
+          "is_answer": true
+        },
+        {
+          "option": "65"
+        },
+        {
+          "option": "57"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the AP: 85, 78, 71, ?, 57",
+      "options": [
+        {
+          "option": "63"
+        },
+        {
+          "option": "64",
+          "is_answer": true
+        },
+        {
+          "option": "62"
+        },
+        {
+          "option": "65"
+        }
+      ]
+    },
+    {
+      "question": "What is the next term in the series: 0.1, 0.4, 0.7, 1.0, ?",
+      "options": [
+        {
+          "option": "1.4"
+        },
+        {
+          "option": "1.3",
+          "is_answer": true
+        },
+        {
+          "option": "1.2"
+        },
+        {
+          "option": "1.5"
+        }
+      ]
+    },
+    {
+      "question": "Find the 8th term of the AP: 20, 17, 14, 11, ...",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "-2"
+        },
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the fractional AP: 5/6, 1, 7/6, 4/3, ?",
+      "options": [
+        {
+          "option": "5/3"
+        },
+        {
+          "option": "4/3"
+        },
+        {
+          "option": "7/4"
+        },
+        {
+          "option": "3/2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the 1st term is 4 and common difference is 5, find the 6th term.",
+      "options": [
+        {
+          "option": "29",
+          "is_answer": true
+        },
+        {
+          "option": "34"
+        },
+        {
+          "option": "28"
+        },
+        {
+          "option": "24"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the AP series: -10, -6, -2, 2, ?",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "What is the 12th term of the AP: 3, 6, 9, 12, ...",
+      "options": [
+        {
+          "option": "39"
+        },
+        {
+          "option": "36",
+          "is_answer": true
+        },
+        {
+          "option": "33"
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the series: 3, 5, 11, 25, 53, 101, ?",
+      "options": [
+        {
+          "option": "175",
+          "is_answer": true
+        },
+        {
+          "option": "185"
+        },
+        {
+          "option": "155"
+        },
+        {
+          "option": "165"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the series: 2, 4, 9, 21, 44, 84, ?",
+      "options": [
+        {
+          "option": "157"
+        },
+        {
+          "option": "147",
+          "is_answer": true
+        },
+        {
+          "option": "127"
+        },
+        {
+          "option": "137"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the series: 1, 3, 8, 18, 35, 62, ?",
+      "options": [
+        {
+          "option": "112"
+        },
+        {
+          "option": "82"
+        },
+        {
+          "option": "102",
+          "is_answer": true
+        },
+        {
+          "option": "92"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the series: 4, 6, 12, 26, 52, 94, ?",
+      "options": [
+        {
+          "option": "148"
+        },
+        {
+          "option": "168"
+        },
+        {
+          "option": "158",
+          "is_answer": true
+        },
+        {
+          "option": "138"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the series: 5, 8, 15, 30, 57, 100, ?",
+      "options": [
+        {
+          "option": "173"
+        },
+        {
+          "option": "163",
+          "is_answer": true
+        },
+        {
+          "option": "153"
+        },
+        {
+          "option": "143"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the series: 10, 12, 18, 32, 58, 100, ?",
+      "options": [
+        {
+          "option": "143"
+        },
+        {
+          "option": "173"
+        },
+        {
+          "option": "153"
+        },
+        {
+          "option": "163",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the series: 7, 9, 15, 29, 55, 97, ?",
+      "options": [
+        {
+          "option": "170"
+        },
+        {
+          "option": "140"
+        },
+        {
+          "option": "150"
+        },
+        {
+          "option": "160",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the series: 2, 5, 12, 26, 50, 88, ?",
+      "options": [
+        {
+          "option": "144",
+          "is_answer": true
+        },
+        {
+          "option": "134"
+        },
+        {
+          "option": "154"
+        },
+        {
+          "option": "124"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the series: 6, 8, 14, 28, 54, 96, ?",
+      "options": [
+        {
+          "option": "148"
+        },
+        {
+          "option": "138"
+        },
+        {
+          "option": "158",
+          "is_answer": true
+        },
+        {
+          "option": "168"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the series: 1, 2, 5, 12, 25, 47, ?",
+      "options": [
+        {
+          "option": "92"
+        },
+        {
+          "option": "72"
+        },
+        {
+          "option": "62"
+        },
+        {
+          "option": "82",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the series: 3, 4, 8, 17, 33, 59, ?",
+      "options": [
+        {
+          "option": "98",
+          "is_answer": true
+        },
+        {
+          "option": "78"
+        },
+        {
+          "option": "108"
+        },
+        {
+          "option": "88"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the series: 4, 5, 9, 18, 34, 60, ?",
+      "options": [
+        {
+          "option": "109"
+        },
+        {
+          "option": "79"
+        },
+        {
+          "option": "99",
+          "is_answer": true
+        },
+        {
+          "option": "89"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the series: 5, 7, 13, 27, 53, 95, ?",
+      "options": [
+        {
+          "option": "137"
+        },
+        {
+          "option": "157",
+          "is_answer": true
+        },
+        {
+          "option": "167"
+        },
+        {
+          "option": "147"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the series: 8, 10, 16, 30, 56, 98, ?",
+      "options": [
+        {
+          "option": "140"
+        },
+        {
+          "option": "160",
+          "is_answer": true
+        },
+        {
+          "option": "150"
+        },
+        {
+          "option": "170"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the series: 1, 4, 11, 25, 49, 87, ?",
+      "options": [
+        {
+          "option": "123"
+        },
+        {
+          "option": "133"
+        },
+        {
+          "option": "143",
+          "is_answer": true
+        },
+        {
+          "option": "153"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the series: 2, 3, 7, 16, 32, 59, ?",
+      "options": [
+        {
+          "option": "100",
+          "is_answer": true
+        },
+        {
+          "option": "80"
+        },
+        {
+          "option": "90"
+        },
+        {
+          "option": "110"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the series: 3, 6, 13, 28, 53, 91, ?",
+      "options": [
+        {
+          "option": "145",
+          "is_answer": true
+        },
+        {
+          "option": "155"
+        },
+        {
+          "option": "135"
+        },
+        {
+          "option": "125"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the series: 4, 7, 14, 29, 54, 92, ?",
+      "options": [
+        {
+          "option": "146",
+          "is_answer": true
+        },
+        {
+          "option": "156"
+        },
+        {
+          "option": "126"
+        },
+        {
+          "option": "136"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the series: 5, 9, 17, 33, 59, 97, ?",
+      "options": [
+        {
+          "option": "139"
+        },
+        {
+          "option": "129"
+        },
+        {
+          "option": "159"
+        },
+        {
+          "option": "149",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the series: 1, 5, 13, 28, 52, 88, ?",
+      "options": [
+        {
+          "option": "118"
+        },
+        {
+          "option": "138",
+          "is_answer": true
+        },
+        {
+          "option": "128"
+        },
+        {
+          "option": "148"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the tri-series: 2, 5, 10, 4, 8, 15, 6, 11, 20, 8, 14, ?",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "25",
+          "is_answer": true
+        },
+        {
+          "option": "22"
+        },
+        {
+          "option": "24"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the tri-series: 3, 10, 100, 6, 13, 90, 9, 16, 80, ?, 19, 70",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the tri-series: 1, 2, 3, 3, 4, 9, 5, 6, 27, 7, 8, ?",
+      "options": [
+        {
+          "option": "54"
+        },
+        {
+          "option": "72"
+        },
+        {
+          "option": "81",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the tri-series: 100, 5, 2, 90, 10, 4, 80, 15, 8, 70, 20, ?",
+      "options": [
+        {
+          "option": "32"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the tri-series: 5, 20, 1, 10, 25, 2, 15, 30, 4, ?, 35, 8",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "22"
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the tri-series: 2, 3, 4, 4, 6, 8, 6, 9, 12, 8, 12, ?",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "14"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the tri-series: 50, 1, 5, 45, 3, 10, 40, 5, 15, 35, 7, ?",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the tri-series: 4, 9, 2, 8, 18, 4, 12, 27, 8, 16, 36, ?",
+      "options": [
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the tri-series: 7, 14, 2, 10, 21, 4, 13, 28, 8, 16, 35, ?",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the tri-series: 120, 2, 5, 100, 4, 10, 80, 6, 15, 60, 8, ?",
+      "options": [
+        {
+          "option": "22"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the tri-series: 3, 5, 7, 6, 10, 14, 9, 15, 21, 12, 20, ?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "28",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the tri-series: 2, 4, 8, 3, 9, 27, 4, 16, 64, 5, 25, ?",
+      "options": [
+        {
+          "option": "125",
+          "is_answer": true
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "625"
+        },
+        {
+          "option": "75"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the tri-series: 80, 10, 1, 70, 20, 3, 60, 30, 5, 50, 40, ?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the tri-series: 1, 1, 2, 2, 4, 4, 3, 9, 8, 4, 16, ?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "14"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the tri-series: 10, 20, 5, 12, 19, 7, 14, 18, 9, 16, 17, ?",
+      "options": [
+        {
+          "option": "13"
+        },
+        {
+          "option": "11",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the tri-series: 5, 2, 10, 10, 4, 20, 15, 6, 30, 20, 8, ?",
+      "options": [
+        {
+          "option": "50"
+        },
+        {
+          "option": "35"
+        },
+        {
+          "option": "45"
+        },
+        {
+          "option": "40",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the tri-series: 2, 5, 3, 4, 10, 6, 6, 15, 9, 8, 20, ?",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "14"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the tri-series: 30, 3, 1, 27, 6, 4, 24, 9, 9, 21, 12, ?",
+      "options": [
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the tri-series: 1, 10, 100, 2, 20, 90, 4, 40, 80, 8, 80, ?",
+      "options": [
+        {
+          "option": "50"
+        },
+        {
+          "option": "75"
+        },
+        {
+          "option": "70",
+          "is_answer": true
+        },
+        {
+          "option": "60"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the tri-series: 6, 12, 1, 9, 15, 3, 12, 18, 9, 15, 21, ?",
+      "options": [
+        {
+          "option": "27",
+          "is_answer": true
+        },
+        {
+          "option": "21"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "24"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the sequence based on consecutive primes: 2, 3, 5, 7, 11, ?",
+      "options": [
+        {
+          "option": "19"
+        },
+        {
+          "option": "17"
+        },
+        {
+          "option": "13",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the sequence: 3, 5, 8, 12, 18, ?",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "26",
+          "is_answer": true
+        },
+        {
+          "option": "27"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the sequence (p_n + 1): 3, 4, 6, 8, 12, ?",
+      "options": [
+        {
+          "option": "16"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "14",
+          "is_answer": true
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the sequence (p_n - 1): 1, 2, 4, 6, 10, ?",
+      "options": [
+        {
+          "option": "14"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "11"
+        },
+        {
+          "option": "13"
+        }
+      ]
+    },
+    {
+      "question": "Find the next term in the sequence: 5, 7, 11, 13, 17, ?",
+      "options": [
+        {
+          "option": "19",
+          "is_answer": true
+        },
+        {
+          "option": "23"
+        },
+        {
+          "option": "21"
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the sequence based on (p_n + 2): 4, 5, 7, 9, 13, ?",
+      "options": [
+        {
+          "option": "19"
+        },
+        {
+          "option": "17"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the sequence (p_n - 2): 0, 1, 3, 5, 9, ?",
+      "options": [
+        {
+          "option": "13"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "11",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "What is the missing number in: 2, 6, 12, 20, 30, ?",
+      "options": [
+        {
+          "option": "46"
+        },
+        {
+          "option": "38"
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "42",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term: 7, 10, 14, 18, 24, ?",
+      "options": [
+        {
+          "option": "30",
+          "is_answer": true
+        },
+        {
+          "option": "28"
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "26"
+        }
+      ]
+    },
+    {
+      "question": "Identify the missing number in the prime variation series: 3, 7, 13, 21, 31, ?",
+      "options": [
+        {
+          "option": "39"
+        },
+        {
+          "option": "45"
+        },
+        {
+          "option": "43",
+          "is_answer": true
+        },
+        {
+          "option": "41"
+        }
+      ]
+    },
+    {
+      "question": "Find the next number in the series: 2, 5, 10, 17, 26, ?",
+      "options": [
+        {
+          "option": "38"
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "37",
+          "is_answer": true
+        },
+        {
+          "option": "35"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term: 11, 14, 19, 24, 33, ?",
+      "options": [
+        {
+          "option": "36"
+        },
+        {
+          "option": "38",
+          "is_answer": true
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "42"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in: 2, 4, 7, 11, 16, ?",
+      "options": [
+        {
+          "option": "21"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "22",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the missing number in the sequence: 1, 3, 6, 10, 15, ?",
+      "options": [
+        {
+          "option": "21",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "22"
+        },
+        {
+          "option": "19"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the sequence (2 * p_n): 4, 6, 10, 14, 22, ?",
+      "options": [
+        {
+          "option": "26",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "28"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number: 2, 3, 5, 7, 11, 13, 17, 19, ?",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "27"
+        },
+        {
+          "option": "21"
+        },
+        {
+          "option": "23",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term based on (p_n + 3): 5, 6, 8, 10, 14, ?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the sequence: 3, 7, 11, 13, 17, ?",
+      "options": [
+        {
+          "option": "23"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "19",
+          "is_answer": true
+        },
+        {
+          "option": "21"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term: 2, 5, 11, 17, 23, ?",
+      "options": [
+        {
+          "option": "29",
+          "is_answer": true
+        },
+        {
+          "option": "27"
+        },
+        {
+          "option": "37"
+        },
+        {
+          "option": "31"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the sequence: 4, 9, 25, 49, ?",
+      "options": [
+        {
+          "option": "100"
+        },
+        {
+          "option": "121",
+          "is_answer": true
+        },
+        {
+          "option": "64"
+        },
+        {
+          "option": "81"
+        }
+      ]
+    },
+    {
+      "question": "What is the next number in the standard Fibonacci sequence: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, ?",
+      "options": [
+        {
+          "option": "61"
+        },
+        {
+          "option": "55",
+          "is_answer": true
+        },
+        {
+          "option": "54"
+        },
+        {
+          "option": "48"
+        }
+      ]
+    },
+    {
+      "question": "What is the next number after 55 in the Fibonacci sequence?",
+      "options": [
+        {
+          "option": "76"
+        },
+        {
+          "option": "89",
+          "is_answer": true
+        },
+        {
+          "option": "88"
+        },
+        {
+          "option": "90"
+        }
+      ]
+    },
+    {
+      "question": "In a Lucas number series starting with 2, 1, 3, 4, 7, 11, 18, what is the next term?",
+      "options": [
+        {
+          "option": "31"
+        },
+        {
+          "option": "27"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "29",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the 5th term of the standard Fibonacci sequence (starting with F_0 = 0)?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "What is the 5th term of the Lucas sequence (starting with L_0 = 2, L_1 = 1)?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "11",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the Fibonacci series: 1, 1, 2, 3, ?, 8, 13",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of the first 6 terms of the Fibonacci sequence (0, 1, 1, 2, 3, 5)?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "In the Lucas sequence (2, 1, 3, 4, 7...), what is the sum of the first five terms?",
+      "options": [
+        {
+          "option": "19"
+        },
+        {
+          "option": "17",
+          "is_answer": true
+        },
+        {
+          "option": "21"
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following numbers is both a Fibonacci number and a Lucas number?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "13"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Identify the next term in the series: 3, 4, 7, 11, 18, 29, ?",
+      "options": [
+        {
+          "option": "47",
+          "is_answer": true
+        },
+        {
+          "option": "45"
+        },
+        {
+          "option": "50"
+        },
+        {
+          "option": "48"
+        }
+      ]
+    },
+    {
+      "question": "What is the 8th term of the Fibonacci sequence (F_1 = 1, F_2 = 1, F_3 = 2...)?",
+      "options": [
+        {
+          "option": "13"
+        },
+        {
+          "option": "34"
+        },
+        {
+          "option": "55"
+        },
+        {
+          "option": "21",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If a custom sequence starts with 1, 3 and follows the rule of adding the previous two terms, what is the 4th term?",
+      "options": [
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "What is the difference between the 7th Lucas number and the 7th Fibonacci number?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing value: 8, 13, 21, ?, 55",
+      "options": [
+        {
+          "option": "34",
+          "is_answer": true
+        },
+        {
+          "option": "38"
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "32"
+        }
+      ]
+    },
+    {
+      "question": "What is the 6th term of the Lucas sequence starting with 2, 1?",
+      "options": [
+        {
+          "option": "11"
+        },
+        {
+          "option": "29"
+        },
+        {
+          "option": "18",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "In Fibonacci-type sequences, each term is generated by doing what to the preceding two terms?",
+      "options": [
+        {
+          "option": "Subtracting them"
+        },
+        {
+          "option": "Multiplying them"
+        },
+        {
+          "option": "Dividing them"
+        },
+        {
+          "option": "Adding them",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What comes next in the modified sequence: 2, 3, 5, 8, 13, ?",
+      "options": [
+        {
+          "option": "22"
+        },
+        {
+          "option": "19"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "21",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of the first 4 Fibonacci numbers starting from 1 (1, 1, 2, 3)?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "Which number is missing in the Lucas sequence fragment: 1, 3, 4, ?, 11, 18",
+      "options": [
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "If F(n) represents the nth Fibonacci number, what is F(6)?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "13"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 0, 3, 8, 15, 24, ?",
+      "options": [
+        {
+          "option": "32"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "35",
+          "is_answer": true
+        },
+        {
+          "option": "48"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 2, 5, 10, 17, 26, ?",
+      "options": [
+        {
+          "option": "37",
+          "is_answer": true
+        },
+        {
+          "option": "35"
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "40"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 0, 2, 6, 12, 20, ?",
+      "options": [
+        {
+          "option": "28"
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "30",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 2, 6, 12, 20, 30, ?",
+      "options": [
+        {
+          "option": "40"
+        },
+        {
+          "option": "38"
+        },
+        {
+          "option": "42",
+          "is_answer": true
+        },
+        {
+          "option": "46"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 1, 3, 7, 13, 21, ?",
+      "options": [
+        {
+          "option": "27"
+        },
+        {
+          "option": "31",
+          "is_answer": true
+        },
+        {
+          "option": "33"
+        },
+        {
+          "option": "29"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 3, 7, 13, 21, 31, ?",
+      "options": [
+        {
+          "option": "45"
+        },
+        {
+          "option": "41"
+        },
+        {
+          "option": "39"
+        },
+        {
+          "option": "43",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 4, 8, 14, 22, 32, ?",
+      "options": [
+        {
+          "option": "40"
+        },
+        {
+          "option": "42"
+        },
+        {
+          "option": "44",
+          "is_answer": true
+        },
+        {
+          "option": "46"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 5, 10, 17, 26, 37, ?",
+      "options": [
+        {
+          "option": "45"
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "50",
+          "is_answer": true
+        },
+        {
+          "option": "52"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 6, 11, 18, 27, 38, ?",
+      "options": [
+        {
+          "option": "49"
+        },
+        {
+          "option": "53"
+        },
+        {
+          "option": "47"
+        },
+        {
+          "option": "51",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 2, 8, 18, 32, 50, ?",
+      "options": [
+        {
+          "option": "68"
+        },
+        {
+          "option": "75"
+        },
+        {
+          "option": "70"
+        },
+        {
+          "option": "72",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 0, 6, 16, 30, 48, ?",
+      "options": [
+        {
+          "option": "64"
+        },
+        {
+          "option": "70",
+          "is_answer": true
+        },
+        {
+          "option": "66"
+        },
+        {
+          "option": "72"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 3, 10, 21, 36, 55, ?",
+      "options": [
+        {
+          "option": "75"
+        },
+        {
+          "option": "78",
+          "is_answer": true
+        },
+        {
+          "option": "72"
+        },
+        {
+          "option": "80"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 10, 17, 26, 37, 50, ?",
+      "options": [
+        {
+          "option": "63"
+        },
+        {
+          "option": "67"
+        },
+        {
+          "option": "65",
+          "is_answer": true
+        },
+        {
+          "option": "60"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 1, 4, 11, 22, 37, ?",
+      "options": [
+        {
+          "option": "56",
+          "is_answer": true
+        },
+        {
+          "option": "58"
+        },
+        {
+          "option": "54"
+        },
+        {
+          "option": "52"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 2, 7, 14, 23, 34, ?",
+      "options": [
+        {
+          "option": "49"
+        },
+        {
+          "option": "47",
+          "is_answer": true
+        },
+        {
+          "option": "42"
+        },
+        {
+          "option": "45"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 0, 4, 10, 18, 28, ?",
+      "options": [
+        {
+          "option": "40",
+          "is_answer": true
+        },
+        {
+          "option": "42"
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "38"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 2, 12, 30, 56, 90, ?",
+      "options": [
+        {
+          "option": "126"
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "140"
+        },
+        {
+          "option": "132",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 6, 20, 42, 72, 110, ?",
+      "options": [
+        {
+          "option": "162"
+        },
+        {
+          "option": "144"
+        },
+        {
+          "option": "150"
+        },
+        {
+          "option": "156",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 1, 5, 11, 19, 29, ?",
+      "options": [
+        {
+          "option": "39"
+        },
+        {
+          "option": "37"
+        },
+        {
+          "option": "43"
+        },
+        {
+          "option": "41",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 2, 5, 10, 17, 26, 37, ?",
+      "options": [
+        {
+          "option": "52"
+        },
+        {
+          "option": "50",
+          "is_answer": true
+        },
+        {
+          "option": "47"
+        },
+        {
+          "option": "48"
+        }
+      ]
+    },
+    {
+      "question": "What is the next number in the Tribonacci sequence: 0, 1, 1, 2, 4, 7, 13, 24, 44, ?",
+      "options": [
+        {
+          "option": "81",
+          "is_answer": true
+        },
+        {
+          "option": "76"
+        },
+        {
+          "option": "79"
+        },
+        {
+          "option": "88"
+        }
+      ]
+    },
+    {
+      "question": "Find the 11th term of the Tribonacci sequence starting with 0, 1, 1.",
+      "options": [
+        {
+          "option": "137"
+        },
+        {
+          "option": "149",
+          "is_answer": true
+        },
+        {
+          "option": "150"
+        },
+        {
+          "option": "142"
+        }
+      ]
+    },
+    {
+      "question": "In a custom Tribonacci sequence, the first three terms are 1, 2, 3. What is the 4th term?",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "For a Tribonacci sequence starting with 2, 2, 3, what is the 5th term?",
+      "options": [
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "22"
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "17"
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of the first 6 terms of the standard Tribonacci sequence (0, 1, 1, 2, 4, 7)?",
+      "options": [
+        {
+          "option": "14"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "13"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If a Tribonacci sequence begins with 1, 1, 1, what is the 5th term?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Determine the missing term in the Tribonacci sequence: 1, 3, 4, 8, 15, ?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "29"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "27",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In the standard Tribonacci sequence, what is the value of $T_7$ (assuming $T_0=0, T_1=1, T_2=1$)?",
+      "options": [
+        {
+          "option": "44"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "13",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the 8th term of the Tribonacci sequence starting with 0, 0, 1?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "13"
+        },
+        {
+          "option": "11",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "If the first three terms of a sequence are 2, 0, 1, and each subsequent term is the sum of the previous three, what is the 4th term?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "Find the 6th term of the Tribonacci sequence: 1, 2, 4, ...",
+      "options": [
+        {
+          "option": "44",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "27"
+        },
+        {
+          "option": "37"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following numbers belongs to the standard Tribonacci sequence?",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "28"
+        },
+        {
+          "option": "26"
+        }
+      ]
+    },
+    {
+      "question": "In a Tribonacci-type sequence, if terms are 5, 5, 5, what is the 4th term?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "What is the 10th term of the standard Tribonacci sequence (where 0, 1, 1 are the first three terms)?",
+      "options": [
+        {
+          "option": "149"
+        },
+        {
+          "option": "81",
+          "is_answer": true
+        },
+        {
+          "option": "274"
+        },
+        {
+          "option": "44"
+        }
+      ]
+    },
+    {
+      "question": "If a Tribonacci series has terms 1, 3, 7, what is the 4th term?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "11",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Consider the sequence defined by $a_n = a_{n-1} + a_{n-2} + a_{n-3}$ with $a_1=1, a_2=1, a_3=2$. What is $a_6$?",
+      "options": [
+        {
+          "option": "14"
+        },
+        {
+          "option": "17",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "11"
+        }
+      ]
+    },
+    {
+      "question": "What is the difference between the 8th and 7th terms of the standard Tribonacci sequence?",
+      "options": [
+        {
+          "option": "13"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "11",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In a Tribonacci sequence, if three consecutive terms are 4, 7, 13, what is the term immediately preceding 4?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the Tribonacci sequence starts with 0, 1, 2, what is the 5th term?",
+      "options": [
+        {
+          "option": "11"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of the first 5 terms of the Tribonacci sequence: 0, 1, 1, 2, 4?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the series: 2, 9, 28, 65, ?",
+      "options": [
+        {
+          "option": "124"
+        },
+        {
+          "option": "130"
+        },
+        {
+          "option": "126",
+          "is_answer": true
+        },
+        {
+          "option": "125"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the series: 0, 7, 26, 63, ?",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "125"
+        },
+        {
+          "option": "130"
+        },
+        {
+          "option": "124",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the series: 2, 10, 30, 68, ?",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "140"
+        },
+        {
+          "option": "125"
+        },
+        {
+          "option": "130",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the series: 0, 6, 24, 60, ?",
+      "options": [
+        {
+          "option": "130"
+        },
+        {
+          "option": "110"
+        },
+        {
+          "option": "125"
+        },
+        {
+          "option": "120",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the series: 3, 11, 31, 69, ?",
+      "options": [
+        {
+          "option": "129"
+        },
+        {
+          "option": "140"
+        },
+        {
+          "option": "125"
+        },
+        {
+          "option": "131",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the series: -1, 5, 23, 59, ?",
+      "options": [
+        {
+          "option": "125"
+        },
+        {
+          "option": "119",
+          "is_answer": true
+        },
+        {
+          "option": "121"
+        },
+        {
+          "option": "115"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the series: 1, 10, 31, 70, ?",
+      "options": [
+        {
+          "option": "131",
+          "is_answer": true
+        },
+        {
+          "option": "128"
+        },
+        {
+          "option": "125"
+        },
+        {
+          "option": "135"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the series: 1, 6, 21, 52, ?",
+      "options": [
+        {
+          "option": "105",
+          "is_answer": true
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "110"
+        },
+        {
+          "option": "95"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the series: 2, 12, 36, 80, ?",
+      "options": [
+        {
+          "option": "140"
+        },
+        {
+          "option": "150",
+          "is_answer": true
+        },
+        {
+          "option": "148"
+        },
+        {
+          "option": "155"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the series: 9, 18, 45, 100, ?",
+      "options": [
+        {
+          "option": "189",
+          "is_answer": true
+        },
+        {
+          "option": "180"
+        },
+        {
+          "option": "175"
+        },
+        {
+          "option": "195"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the series: 8, 28, 66, 128, ?",
+      "options": [
+        {
+          "option": "210"
+        },
+        {
+          "option": "225"
+        },
+        {
+          "option": "220",
+          "is_answer": true
+        },
+        {
+          "option": "218"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the series: 6, 24, 62, 124, ?",
+      "options": [
+        {
+          "option": "216"
+        },
+        {
+          "option": "220"
+        },
+        {
+          "option": "214",
+          "is_answer": true
+        },
+        {
+          "option": "210"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the series: 7, 25, 63, 127, ?",
+      "options": [
+        {
+          "option": "221"
+        },
+        {
+          "option": "217"
+        },
+        {
+          "option": "223",
+          "is_answer": true
+        },
+        {
+          "option": "225"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the series: 1, 9, 29, 67, ?",
+      "options": [
+        {
+          "option": "129",
+          "is_answer": true
+        },
+        {
+          "option": "127"
+        },
+        {
+          "option": "125"
+        },
+        {
+          "option": "131"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the series: -2, 6, 26, 64, ?",
+      "options": [
+        {
+          "option": "126",
+          "is_answer": true
+        },
+        {
+          "option": "130"
+        },
+        {
+          "option": "124"
+        },
+        {
+          "option": "120"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the series: 1, 8, 29, 68, ?",
+      "options": [
+        {
+          "option": "129",
+          "is_answer": true
+        },
+        {
+          "option": "131"
+        },
+        {
+          "option": "125"
+        },
+        {
+          "option": "127"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the series: 2, 8, 26, 62, ?",
+      "options": [
+        {
+          "option": "122",
+          "is_answer": true
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "126"
+        },
+        {
+          "option": "124"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the series: 0, 9, 28, 65, ?",
+      "options": [
+        {
+          "option": "126",
+          "is_answer": true
+        },
+        {
+          "option": "125"
+        },
+        {
+          "option": "124"
+        },
+        {
+          "option": "130"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the series: 4, 12, 32, 70, ?",
+      "options": [
+        {
+          "option": "134"
+        },
+        {
+          "option": "132",
+          "is_answer": true
+        },
+        {
+          "option": "128"
+        },
+        {
+          "option": "130"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the series: 1, 7, 25, 61, ?",
+      "options": [
+        {
+          "option": "121",
+          "is_answer": true
+        },
+        {
+          "option": "119"
+        },
+        {
+          "option": "125"
+        },
+        {
+          "option": "123"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 3, 7, 19, 55, ?",
+      "options": [
+        {
+          "option": "155"
+        },
+        {
+          "option": "171"
+        },
+        {
+          "option": "147"
+        },
+        {
+          "option": "163",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 4, 6, 14, 40, ?",
+      "options": [
+        {
+          "option": "124"
+        },
+        {
+          "option": "106"
+        },
+        {
+          "option": "118",
+          "is_answer": true
+        },
+        {
+          "option": "112"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 5, 8, 21, 60, ?",
+      "options": [
+        {
+          "option": "159"
+        },
+        {
+          "option": "177",
+          "is_answer": true
+        },
+        {
+          "option": "165"
+        },
+        {
+          "option": "183"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 2, 3, 8, 27, ?",
+      "options": [
+        {
+          "option": "108",
+          "is_answer": true
+        },
+        {
+          "option": "104"
+        },
+        {
+          "option": "96"
+        },
+        {
+          "option": "112"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 6, 10, 26, 74, ?",
+      "options": [
+        {
+          "option": "226"
+        },
+        {
+          "option": "210"
+        },
+        {
+          "option": "202"
+        },
+        {
+          "option": "218",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 1, 1, 3, 11, ?",
+      "options": [
+        {
+          "option": "47",
+          "is_answer": true
+        },
+        {
+          "option": "51"
+        },
+        {
+          "option": "43"
+        },
+        {
+          "option": "39"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 7, 12, 31, 88, ?",
+      "options": [
+        {
+          "option": "259",
+          "is_answer": true
+        },
+        {
+          "option": "251"
+        },
+        {
+          "option": "267"
+        },
+        {
+          "option": "243"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 10, 18, 50, 146, ?",
+      "options": [
+        {
+          "option": "434",
+          "is_answer": true
+        },
+        {
+          "option": "446"
+        },
+        {
+          "option": "422"
+        },
+        {
+          "option": "410"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 8, 13, 34, 99, ?",
+      "options": [
+        {
+          "option": "284"
+        },
+        {
+          "option": "300"
+        },
+        {
+          "option": "292",
+          "is_answer": true
+        },
+        {
+          "option": "276"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 3, 4, 11, 38, ?",
+      "options": [
+        {
+          "option": "137"
+        },
+        {
+          "option": "161"
+        },
+        {
+          "option": "153",
+          "is_answer": true
+        },
+        {
+          "option": "145"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 2, 5, 13, 37, ?",
+      "options": [
+        {
+          "option": "109",
+          "is_answer": true
+        },
+        {
+          "option": "101"
+        },
+        {
+          "option": "93"
+        },
+        {
+          "option": "117"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 4, 9, 23, 65, ?",
+      "options": [
+        {
+          "option": "191",
+          "is_answer": true
+        },
+        {
+          "option": "183"
+        },
+        {
+          "option": "175"
+        },
+        {
+          "option": "199"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 5, 9, 25, 81, ?",
+      "options": [
+        {
+          "option": "289"
+        },
+        {
+          "option": "265"
+        },
+        {
+          "option": "253"
+        },
+        {
+          "option": "277",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 1, 3, 10, 37, ?",
+      "options": [
+        {
+          "option": "132"
+        },
+        {
+          "option": "150"
+        },
+        {
+          "option": "138"
+        },
+        {
+          "option": "144",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 6, 11, 28, 81, ?",
+      "options": [
+        {
+          "option": "232"
+        },
+        {
+          "option": "224"
+        },
+        {
+          "option": "248"
+        },
+        {
+          "option": "240",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 3, 5, 12, 35, ?",
+      "options": [
+        {
+          "option": "92"
+        },
+        {
+          "option": "98"
+        },
+        {
+          "option": "104",
+          "is_answer": true
+        },
+        {
+          "option": "110"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 7, 11, 29, 83, ?",
+      "options": [
+        {
+          "option": "245",
+          "is_answer": true
+        },
+        {
+          "option": "237"
+        },
+        {
+          "option": "229"
+        },
+        {
+          "option": "253"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 2, 4, 10, 28, ?",
+      "options": [
+        {
+          "option": "78"
+        },
+        {
+          "option": "82",
+          "is_answer": true
+        },
+        {
+          "option": "74"
+        },
+        {
+          "option": "86"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 4, 7, 19, 55, ?",
+      "options": [
+        {
+          "option": "147"
+        },
+        {
+          "option": "171"
+        },
+        {
+          "option": "163",
+          "is_answer": true
+        },
+        {
+          "option": "155"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 5, 7, 17, 49, ?",
+      "options": [
+        {
+          "option": "129"
+        },
+        {
+          "option": "153"
+        },
+        {
+          "option": "145",
+          "is_answer": true
+        },
+        {
+          "option": "137"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 3, 7, 15, 31, 63, ?",
+      "options": [
+        {
+          "option": "125"
+        },
+        {
+          "option": "127",
+          "is_answer": true
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "131"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 2, 5, 12, 27, 58, ?",
+      "options": [
+        {
+          "option": "116"
+        },
+        {
+          "option": "118"
+        },
+        {
+          "option": "121",
+          "is_answer": true
+        },
+        {
+          "option": "125"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 4, 11, 25, 53, 109, ?",
+      "options": [
+        {
+          "option": "221",
+          "is_answer": true
+        },
+        {
+          "option": "215"
+        },
+        {
+          "option": "218"
+        },
+        {
+          "option": "225"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 5, 12, 26, 54, 110, ?",
+      "options": [
+        {
+          "option": "222",
+          "is_answer": true
+        },
+        {
+          "option": "224"
+        },
+        {
+          "option": "218"
+        },
+        {
+          "option": "220"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 1, 4, 11, 26, 57, ?",
+      "options": [
+        {
+          "option": "118"
+        },
+        {
+          "option": "114"
+        },
+        {
+          "option": "122"
+        },
+        {
+          "option": "120",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 2, 7, 22, 67, 202, ?",
+      "options": [
+        {
+          "option": "601"
+        },
+        {
+          "option": "610"
+        },
+        {
+          "option": "595"
+        },
+        {
+          "option": "607",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 3, 9, 21, 45, 93, ?",
+      "options": [
+        {
+          "option": "191"
+        },
+        {
+          "option": "180"
+        },
+        {
+          "option": "185"
+        },
+        {
+          "option": "189",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 1, 3, 9, 31, 105, ?",
+      "options": [
+        {
+          "option": "365"
+        },
+        {
+          "option": "345"
+        },
+        {
+          "option": "359",
+          "is_answer": true
+        },
+        {
+          "option": "351"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 4, 10, 22, 46, 94, ?",
+      "options": [
+        {
+          "option": "188"
+        },
+        {
+          "option": "190",
+          "is_answer": true
+        },
+        {
+          "option": "186"
+        },
+        {
+          "option": "192"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 2, 6, 15, 34, 73, ?",
+      "options": [
+        {
+          "option": "150"
+        },
+        {
+          "option": "148"
+        },
+        {
+          "option": "156"
+        },
+        {
+          "option": "152",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 5, 13, 29, 61, 125, ?",
+      "options": [
+        {
+          "option": "250"
+        },
+        {
+          "option": "248"
+        },
+        {
+          "option": "255"
+        },
+        {
+          "option": "253",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 3, 8, 18, 38, 78, ?",
+      "options": [
+        {
+          "option": "154"
+        },
+        {
+          "option": "160"
+        },
+        {
+          "option": "158",
+          "is_answer": true
+        },
+        {
+          "option": "152"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 1, 5, 17, 53, 161, ?",
+      "options": [
+        {
+          "option": "481"
+        },
+        {
+          "option": "490"
+        },
+        {
+          "option": "485",
+          "is_answer": true
+        },
+        {
+          "option": "475"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 6, 14, 30, 62, 126, ?",
+      "options": [
+        {
+          "option": "252"
+        },
+        {
+          "option": "254",
+          "is_answer": true
+        },
+        {
+          "option": "260"
+        },
+        {
+          "option": "250"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 2, 9, 30, 93, 282, ?",
+      "options": [
+        {
+          "option": "850"
+        },
+        {
+          "option": "840"
+        },
+        {
+          "option": "847",
+          "is_answer": true
+        },
+        {
+          "option": "843"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 4, 9, 19, 39, 79, ?",
+      "options": [
+        {
+          "option": "153"
+        },
+        {
+          "option": "159",
+          "is_answer": true
+        },
+        {
+          "option": "161"
+        },
+        {
+          "option": "155"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 3, 11, 27, 59, 123, ?",
+      "options": [
+        {
+          "option": "247"
+        },
+        {
+          "option": "255"
+        },
+        {
+          "option": "251",
+          "is_answer": true
+        },
+        {
+          "option": "245"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 1, 6, 16, 36, 76, ?",
+      "options": [
+        {
+          "option": "156",
+          "is_answer": true
+        },
+        {
+          "option": "150"
+        },
+        {
+          "option": "160"
+        },
+        {
+          "option": "152"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 5, 11, 23, 47, 95, ?",
+      "options": [
+        {
+          "option": "185"
+        },
+        {
+          "option": "191",
+          "is_answer": true
+        },
+        {
+          "option": "189"
+        },
+        {
+          "option": "193"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 2, 8, 20, 44, 92, ?",
+      "options": [
+        {
+          "option": "190"
+        },
+        {
+          "option": "182"
+        },
+        {
+          "option": "188",
+          "is_answer": true
+        },
+        {
+          "option": "184"
+        }
+      ]
+    },
+    {
+      "question": "Find the next term in the series: 1, 8, 4, 27, 9, ?",
+      "options": [
+        {
+          "option": "36"
+        },
+        {
+          "option": "125"
+        },
+        {
+          "option": "64",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "What comes next in the sequence: 4, 1, 27, 16, 125, ?",
+      "options": [
+        {
+          "option": "64"
+        },
+        {
+          "option": "49"
+        },
+        {
+          "option": "36",
+          "is_answer": true
+        },
+        {
+          "option": "216"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term: 9, 8, 25, 64, 49, ?",
+      "options": [
+        {
+          "option": "100"
+        },
+        {
+          "option": "343"
+        },
+        {
+          "option": "125"
+        },
+        {
+          "option": "216",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Complete the series: 1, 1, 4, 8, 9, ?",
+      "options": [
+        {
+          "option": "16"
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "27",
+          "is_answer": true
+        },
+        {
+          "option": "64"
+        }
+      ]
+    },
+    {
+      "question": "Find the next number in the pattern: 64, 25, 216, 36, ?",
+      "options": [
+        {
+          "option": "64"
+        },
+        {
+          "option": "49"
+        },
+        {
+          "option": "512"
+        },
+        {
+          "option": "343",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the 6th term of the series starting with cubes first: 1, 4, 8, 9, 27, ?",
+      "options": [
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "64"
+        }
+      ]
+    },
+    {
+      "question": "Identify the missing value: 16, 8, 9, 27, 4, ?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "125"
+        },
+        {
+          "option": "64"
+        }
+      ]
+    },
+    {
+      "question": "Determine the next element: 125, 36, 216, 49, 343, ?",
+      "options": [
+        {
+          "option": "512"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "81"
+        },
+        {
+          "option": "64",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the next term in the alternating sequence: 4, 27, 9, 64, 16, ?",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "125",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "216"
+        }
+      ]
+    },
+    {
+      "question": "What is next in the series: 8, 4, 27, 9, 64, ?",
+      "options": [
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "125"
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in: 1, 8, 9, 64, 25, ?",
+      "options": [
+        {
+          "option": "36"
+        },
+        {
+          "option": "125"
+        },
+        {
+          "option": "343"
+        },
+        {
+          "option": "216",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Complete the pattern: 36, 125, 49, 216, 64, ?",
+      "options": [
+        {
+          "option": "512"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "81"
+        },
+        {
+          "option": "343",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the 7th term of the series: 4, 1, 9, 8, 16, 27, ?",
+      "options": [
+        {
+          "option": "36"
+        },
+        {
+          "option": "64"
+        },
+        {
+          "option": "25",
+          "is_answer": true
+        },
+        {
+          "option": "125"
+        }
+      ]
+    },
+    {
+      "question": "What comes next: 216, 25, 343, 36, 512, ?",
+      "options": [
+        {
+          "option": "729"
+        },
+        {
+          "option": "64"
+        },
+        {
+          "option": "49",
+          "is_answer": true
+        },
+        {
+          "option": "81"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the sequence: 27, 4, 64, 9, 125, ?",
+      "options": [
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "216"
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "Identify the next number: 1, 27, 4, 64, 9, 125, 16, ?",
+      "options": [
+        {
+          "option": "36"
+        },
+        {
+          "option": "343"
+        },
+        {
+          "option": "216",
+          "is_answer": true
+        },
+        {
+          "option": "49"
+        }
+      ]
+    },
+    {
+      "question": "What is the next term in the alternating pattern: 9, 8, 16, 27, 25, ?",
+      "options": [
+        {
+          "option": "36"
+        },
+        {
+          "option": "64",
+          "is_answer": true
+        },
+        {
+          "option": "216"
+        },
+        {
+          "option": "125"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number: 8, 1, 27, 4, 64, 9, ?",
+      "options": [
+        {
+          "option": "125",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "216"
+        }
+      ]
+    },
+    {
+      "question": "Complete the series starting with square: 1, 8, 4, 27, 9, 64, 16, ?",
+      "options": [
+        {
+          "option": "216"
+        },
+        {
+          "option": "49"
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "125",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the next term: 49, 125, 64, 216, 81, ?",
+      "options": [
+        {
+          "option": "100"
+        },
+        {
+          "option": "729"
+        },
+        {
+          "option": "343",
+          "is_answer": true
+        },
+        {
+          "option": "512"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the series: 120, 60, 30, 15, ?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "7.5",
+          "is_answer": true
+        },
+        {
+          "option": "2.5"
+        }
+      ]
+    },
+    {
+      "question": "Find the next term in the series: 240, 120, 40, 10, ?",
+      "options": [
+        {
+          "option": "2.5"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Determine the next number in the series: 512, 256, 128, 64, ?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "32",
+          "is_answer": true
+        },
+        {
+          "option": "48"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number: 81, 27, 9, 3, ?",
+      "options": [
+        {
+          "option": "1.5"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the next term in the series: 1000, 200, 40, 8, ?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "1.6",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0.8"
+        }
+      ]
+    },
+    {
+      "question": "What comes next in the series: 64, 32, 16, 8, ?",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term: 625, 125, 25, 5, ?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "2.5"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0.5"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the fractional series: 1, 1/2, 1/4, 1/8, ?",
+      "options": [
+        {
+          "option": "1/24"
+        },
+        {
+          "option": "1/10"
+        },
+        {
+          "option": "1/32"
+        },
+        {
+          "option": "1/16",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the next term: 3, 3/2, 3/4, 3/8, ?",
+      "options": [
+        {
+          "option": "3/32"
+        },
+        {
+          "option": "1/16"
+        },
+        {
+          "option": "3/16",
+          "is_answer": true
+        },
+        {
+          "option": "3/12"
+        }
+      ]
+    },
+    {
+      "question": "Determine the missing term: 160, 80, 40, 20, ?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "Find the next number: 729, 243, 81, 27, ?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the next term in the series: 480, 240, 80, 20, ?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the next number in the series: 216, 72, 24, 8, ?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "8/3",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term: 300, 150, 50, 25, ?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "25/3",
+          "is_answer": true
+        },
+        {
+          "option": "12.5"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the sequence: 500, 100, 20, 4, ?",
+      "options": [
+        {
+          "option": "0.2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0.8",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "Determine the next term: 96, 48, 24, 12, ?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term: 1/3, 1/6, 1/12, 1/24, ?",
+      "options": [
+        {
+          "option": "1/96"
+        },
+        {
+          "option": "1/30"
+        },
+        {
+          "option": "1/48",
+          "is_answer": true
+        },
+        {
+          "option": "1/36"
+        }
+      ]
+    },
+    {
+      "question": "Find the next number in the series: 448, 224, 112, 56, ?",
+      "options": [
+        {
+          "option": "32"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "28",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the alternating series (divide by 2, then add 3): 20, 10, 13, 6.5, 9.5, ?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "4.75",
+          "is_answer": true
+        },
+        {
+          "option": "5.25"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the series: 360, 120, 30, 6, ?",
+      "options": [
+        {
+          "option": "1.5"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0.5"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 3, 5, 9, 15, 23, ?",
+      "options": [
+        {
+          "option": "31"
+        },
+        {
+          "option": "33",
+          "is_answer": true
+        },
+        {
+          "option": "37"
+        },
+        {
+          "option": "35"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 2, 4, 8, 14, 22, ?",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "34"
+        },
+        {
+          "option": "32",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 5, 6, 9, 14, 21, ?",
+      "options": [
+        {
+          "option": "30",
+          "is_answer": true
+        },
+        {
+          "option": "29"
+        },
+        {
+          "option": "28"
+        },
+        {
+          "option": "32"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 1, 2, 5, 10, 17, ?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "26",
+          "is_answer": true
+        },
+        {
+          "option": "28"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 10, 12, 16, 22, 30, ?",
+      "options": [
+        {
+          "option": "40",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "38"
+        },
+        {
+          "option": "42"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 4, 7, 12, 19, 28, ?",
+      "options": [
+        {
+          "option": "35"
+        },
+        {
+          "option": "37"
+        },
+        {
+          "option": "41"
+        },
+        {
+          "option": "39",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 0, 1, 4, 9, 16, ?",
+      "options": [
+        {
+          "option": "23"
+        },
+        {
+          "option": "25",
+          "is_answer": true
+        },
+        {
+          "option": "27"
+        },
+        {
+          "option": "21"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 7, 10, 15, 22, 31, ?",
+      "options": [
+        {
+          "option": "40"
+        },
+        {
+          "option": "44"
+        },
+        {
+          "option": "39"
+        },
+        {
+          "option": "42",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 6, 8, 12, 18, 26, ?",
+      "options": [
+        {
+          "option": "36",
+          "is_answer": true
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "38"
+        },
+        {
+          "option": "34"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 12, 14, 18, 24, 32, ?",
+      "options": [
+        {
+          "option": "40"
+        },
+        {
+          "option": "42",
+          "is_answer": true
+        },
+        {
+          "option": "38"
+        },
+        {
+          "option": "44"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 20, 22, 26, 32, 40, ?",
+      "options": [
+        {
+          "option": "52"
+        },
+        {
+          "option": "46"
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "50",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 8, 9, 12, 17, 24, ?",
+      "options": [
+        {
+          "option": "35"
+        },
+        {
+          "option": "33",
+          "is_answer": true
+        },
+        {
+          "option": "31"
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 15, 17, 21, 27, 35, ?",
+      "options": [
+        {
+          "option": "47"
+        },
+        {
+          "option": "43"
+        },
+        {
+          "option": "45",
+          "is_answer": true
+        },
+        {
+          "option": "41"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 2, 3, 6, 11, 18, ?",
+      "options": [
+        {
+          "option": "29"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "27",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 9, 11, 15, 21, 29, ?",
+      "options": [
+        {
+          "option": "39",
+          "is_answer": true
+        },
+        {
+          "option": "35"
+        },
+        {
+          "option": "37"
+        },
+        {
+          "option": "41"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 11, 13, 17, 23, 31, ?",
+      "options": [
+        {
+          "option": "39"
+        },
+        {
+          "option": "41",
+          "is_answer": true
+        },
+        {
+          "option": "37"
+        },
+        {
+          "option": "43"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 14, 16, 20, 26, 34, ?",
+      "options": [
+        {
+          "option": "42"
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "44",
+          "is_answer": true
+        },
+        {
+          "option": "46"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 30, 32, 36, 42, 50, ?",
+      "options": [
+        {
+          "option": "56"
+        },
+        {
+          "option": "62"
+        },
+        {
+          "option": "58"
+        },
+        {
+          "option": "60",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 18, 20, 24, 30, 38, ?",
+      "options": [
+        {
+          "option": "44"
+        },
+        {
+          "option": "48",
+          "is_answer": true
+        },
+        {
+          "option": "46"
+        },
+        {
+          "option": "50"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 1, 2, 6, 24, ?",
+      "options": [
+        {
+          "option": "144"
+        },
+        {
+          "option": "120",
+          "is_answer": true
+        },
+        {
+          "option": "96"
+        },
+        {
+          "option": "72"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 2, 6, 24, 120, ?",
+      "options": [
+        {
+          "option": "360"
+        },
+        {
+          "option": "600"
+        },
+        {
+          "option": "480"
+        },
+        {
+          "option": "720",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the next term in the series: 1, 3, 8, 27, 124, ?",
+      "options": [
+        {
+          "option": "725",
+          "is_answer": true
+        },
+        {
+          "option": "625"
+        },
+        {
+          "option": "720"
+        },
+        {
+          "option": "504"
+        }
+      ]
+    },
+    {
+      "question": "Complete the series: 0, 1, 5, 23, 119, ?",
+      "options": [
+        {
+          "option": "720"
+        },
+        {
+          "option": "599"
+        },
+        {
+          "option": "600"
+        },
+        {
+          "option": "719",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number: 2, 3, 8, 29, 120, ?",
+      "options": [
+        {
+          "option": "504"
+        },
+        {
+          "option": "480"
+        },
+        {
+          "option": "721"
+        },
+        {
+          "option": "605",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the next term in the series: 3, 5, 10, 27, 124, ?",
+      "options": [
+        {
+          "option": "620"
+        },
+        {
+          "option": "725"
+        },
+        {
+          "option": "512"
+        },
+        {
+          "option": "723",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Identify the wrong number in the series: 1, 2, 6, 24, 122, 720",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "122",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "720"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 1, 1, 2, 6, 24, ?",
+      "options": [
+        {
+          "option": "48"
+        },
+        {
+          "option": "240"
+        },
+        {
+          "option": "72"
+        },
+        {
+          "option": "120",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the next number: 4, 5, 8, 17, 44, ?",
+      "options": [
+        {
+          "option": "125",
+          "is_answer": true
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "144"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term: 1, 4, 11, 34, 123, ?",
+      "options": [
+        {
+          "option": "615"
+        },
+        {
+          "option": "620"
+        },
+        {
+          "option": "504"
+        },
+        {
+          "option": "724",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Complete the series: 2, 4, 8, 26, 122, ?",
+      "options": [
+        {
+          "option": "720"
+        },
+        {
+          "option": "504"
+        },
+        {
+          "option": "600"
+        },
+        {
+          "option": "722",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the next number in the series: 1, 2, 3, 4, 5, ?",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number: 0, 2, 8, 30, 122, ?",
+      "options": [
+        {
+          "option": "722",
+          "is_answer": true
+        },
+        {
+          "option": "600"
+        },
+        {
+          "option": "504"
+        },
+        {
+          "option": "720"
+        }
+      ]
+    },
+    {
+      "question": "Find the next term in the series: 1, 2, 9, 44, 265, ?",
+      "options": [
+        {
+          "option": "1856",
+          "is_answer": true
+        },
+        {
+          "option": "1325"
+        },
+        {
+          "option": "1596"
+        },
+        {
+          "option": "1720"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 2, 5, 11, 29, 89, ?",
+      "options": [
+        {
+          "option": "315"
+        },
+        {
+          "option": "267"
+        },
+        {
+          "option": "280"
+        },
+        {
+          "option": "329",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Complete the series: 1, 3, 7, 19, 65, ?",
+      "options": [
+        {
+          "option": "327",
+          "is_answer": true
+        },
+        {
+          "option": "265"
+        },
+        {
+          "option": "390"
+        },
+        {
+          "option": "300"
+        }
+      ]
+    },
+    {
+      "question": "Find the wrong number in the series: 1, 2, 6, 24, 120, 710",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "710",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in: 1, 2, 6, 24, 120, 720, ?",
+      "options": [
+        {
+          "option": "5040",
+          "is_answer": true
+        },
+        {
+          "option": "4320"
+        },
+        {
+          "option": "7200"
+        },
+        {
+          "option": "3600"
+        }
+      ]
+    },
+    {
+      "question": "Find the next term: 2, 4, 12, 48, 240, ?",
+      "options": [
+        {
+          "option": "1200"
+        },
+        {
+          "option": "960"
+        },
+        {
+          "option": "1440",
+          "is_answer": true
+        },
+        {
+          "option": "720"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 3, 4, 7, 16, 43, ?",
+      "options": [
+        {
+          "option": "124",
+          "is_answer": true
+        },
+        {
+          "option": "108"
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "96"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 1.2, 1.45, 1.7, 1.95, ?",
+      "options": [
+        {
+          "option": "2.15"
+        },
+        {
+          "option": "2.2",
+          "is_answer": true
+        },
+        {
+          "option": "2.3"
+        },
+        {
+          "option": "2.05"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 0.5, 1.0, 1.5, 2.0, ?",
+      "options": [
+        {
+          "option": "3.0"
+        },
+        {
+          "option": "2.5",
+          "is_answer": true
+        },
+        {
+          "option": "2.25"
+        },
+        {
+          "option": "2.75"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 10.0, 9.25, 8.5, 7.75, ?",
+      "options": [
+        {
+          "option": "6.75"
+        },
+        {
+          "option": "6.5"
+        },
+        {
+          "option": "7.25"
+        },
+        {
+          "option": "7.0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 0.1, 0.01, 0.001, 0.0001, ?",
+      "options": [
+        {
+          "option": "0.0005"
+        },
+        {
+          "option": "0.0011"
+        },
+        {
+          "option": "0.000001"
+        },
+        {
+          "option": "0.00001",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 16.0, 8.0, 4.0, 2.0, ?",
+      "options": [
+        {
+          "option": "1.0",
+          "is_answer": true
+        },
+        {
+          "option": "0.25"
+        },
+        {
+          "option": "1.5"
+        },
+        {
+          "option": "0.5"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 3.25, 4.0, 4.75, 5.5, ?",
+      "options": [
+        {
+          "option": "6.25",
+          "is_answer": true
+        },
+        {
+          "option": "6.0"
+        },
+        {
+          "option": "6.5"
+        },
+        {
+          "option": "5.75"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 0.05, 0.5, 5.0, 50.0, ?",
+      "options": [
+        {
+          "option": "50.5"
+        },
+        {
+          "option": "5000.0"
+        },
+        {
+          "option": "500.0",
+          "is_answer": true
+        },
+        {
+          "option": "5.0"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 2.1, 2.35, 2.6, 2.85, ?",
+      "options": [
+        {
+          "option": "3.05"
+        },
+        {
+          "option": "3.1",
+          "is_answer": true
+        },
+        {
+          "option": "3.15"
+        },
+        {
+          "option": "2.95"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 8.0, 4.0, 2.0, 1.0, ?",
+      "options": [
+        {
+          "option": "0.75"
+        },
+        {
+          "option": "0.5",
+          "is_answer": true
+        },
+        {
+          "option": "0.1"
+        },
+        {
+          "option": "0.25"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 0.2, 0.4, 0.8, 1.6, ?",
+      "options": [
+        {
+          "option": "3.2",
+          "is_answer": true
+        },
+        {
+          "option": "3.0"
+        },
+        {
+          "option": "2.4"
+        },
+        {
+          "option": "6.4"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 15.5, 14.75, 14.0, 13.25, ?",
+      "options": [
+        {
+          "option": "13.0"
+        },
+        {
+          "option": "12.5",
+          "is_answer": true
+        },
+        {
+          "option": "12.75"
+        },
+        {
+          "option": "12.25"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 0.002, 0.02, 0.2, 2.0, ?",
+      "options": [
+        {
+          "option": "200.0"
+        },
+        {
+          "option": "20.0",
+          "is_answer": true
+        },
+        {
+          "option": "2.2"
+        },
+        {
+          "option": "0.0002"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 5.75, 5.25, 4.75, 4.25, ?",
+      "options": [
+        {
+          "option": "3.25"
+        },
+        {
+          "option": "3.5"
+        },
+        {
+          "option": "4.0"
+        },
+        {
+          "option": "3.75",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 0.125, 0.25, 0.5, 1.0, ?",
+      "options": [
+        {
+          "option": "4.0"
+        },
+        {
+          "option": "1.5"
+        },
+        {
+          "option": "2.5"
+        },
+        {
+          "option": "2.0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 7.4, 7.9, 8.4, 8.9, ?",
+      "options": [
+        {
+          "option": "9.4",
+          "is_answer": true
+        },
+        {
+          "option": "9.2"
+        },
+        {
+          "option": "9.0"
+        },
+        {
+          "option": "9.5"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 4.5, 3.75, 3.0, 2.25, ?",
+      "options": [
+        {
+          "option": "1.75"
+        },
+        {
+          "option": "1.25"
+        },
+        {
+          "option": "1.5",
+          "is_answer": true
+        },
+        {
+          "option": "2.0"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 1.1, 1.3, 1.5, 1.7, ?",
+      "options": [
+        {
+          "option": "1.8"
+        },
+        {
+          "option": "2.1"
+        },
+        {
+          "option": "1.9",
+          "is_answer": true
+        },
+        {
+          "option": "2.0"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 64.0, 32.0, 16.0, 8.0, ?",
+      "options": [
+        {
+          "option": "2.0"
+        },
+        {
+          "option": "4.0",
+          "is_answer": true
+        },
+        {
+          "option": "1.0"
+        },
+        {
+          "option": "6.0"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 0.3, 0.6, 0.9, 1.2, ?",
+      "options": [
+        {
+          "option": "1.5",
+          "is_answer": true
+        },
+        {
+          "option": "1.8"
+        },
+        {
+          "option": "1.6"
+        },
+        {
+          "option": "1.4"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 12.5, 11.75, 11.0, 10.25, ?",
+      "options": [
+        {
+          "option": "9.75"
+        },
+        {
+          "option": "9.25"
+        },
+        {
+          "option": "9.5",
+          "is_answer": true
+        },
+        {
+          "option": "9.0"
+        }
+      ]
+    },
+    {
+      "question": "Find the wrong term in the series: 3, 5, 7, 12, 13, 17, 19",
+      "options": [
+        {
+          "option": "17"
+        },
+        {
+          "option": "13"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "Find the wrong term in the series: 2, 5, 10, 17, 26, 37, 50, 64",
+      "options": [
+        {
+          "option": "26"
+        },
+        {
+          "option": "37"
+        },
+        {
+          "option": "64",
+          "is_answer": true
+        },
+        {
+          "option": "50"
+        }
+      ]
+    },
+    {
+      "question": "Find the wrong term in the series: 1, 3, 9, 27, 81, 240",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "81"
+        },
+        {
+          "option": "27"
+        },
+        {
+          "option": "240",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the wrong term in the series: 4, 9, 19, 39, 79, 159, 319",
+      "options": [
+        {
+          "option": "79"
+        },
+        {
+          "option": "159"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "19"
+        }
+      ]
+    },
+    {
+      "question": "Find the wrong term in the series: 6, 13, 27, 55, 110, 223",
+      "options": [
+        {
+          "option": "27"
+        },
+        {
+          "option": "55"
+        },
+        {
+          "option": "110",
+          "is_answer": true
+        },
+        {
+          "option": "223"
+        }
+      ]
+    },
+    {
+      "question": "Find the wrong term in the series: 10, 14, 26, 42, 62, 86",
+      "options": [
+        {
+          "option": "14",
+          "is_answer": true
+        },
+        {
+          "option": "42"
+        },
+        {
+          "option": "26"
+        },
+        {
+          "option": "62"
+        }
+      ]
+    },
+    {
+      "question": "Find the wrong term in the series: 8, 14, 26, 48, 98, 194, 386",
+      "options": [
+        {
+          "option": "194"
+        },
+        {
+          "option": "26"
+        },
+        {
+          "option": "48",
+          "is_answer": true
+        },
+        {
+          "option": "98"
+        }
+      ]
+    },
+    {
+      "question": "Find the wrong term in the series: 2, 3, 6, 15, 54, 243, 1320",
+      "options": [
+        {
+          "option": "54"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "243"
+        }
+      ]
+    },
+    {
+      "question": "Find the wrong term in the series: 24, 27, 31, 38, 48, 63, 84",
+      "options": [
+        {
+          "option": "31",
+          "is_answer": true
+        },
+        {
+          "option": "38"
+        },
+        {
+          "option": "63"
+        },
+        {
+          "option": "48"
+        }
+      ]
+    },
+    {
+      "question": "Find the wrong term in the series: 5, 10, 40, 240, 1920, 19200",
+      "options": [
+        {
+          "option": "1920"
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "240"
+        },
+        {
+          "option": "19200",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the wrong term in the series: 1, 2, 6, 24, 120, 710, 5040",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "710",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "5040"
+        }
+      ]
+    },
+    {
+      "question": "Find the wrong term in the series: 196, 169, 144, 121, 101",
+      "options": [
+        {
+          "option": "169"
+        },
+        {
+          "option": "144"
+        },
+        {
+          "option": "101",
+          "is_answer": true
+        },
+        {
+          "option": "121"
+        }
+      ]
+    },
+    {
+      "question": "Find the wrong term in the series: 3, 7, 15, 31, 64, 127",
+      "options": [
+        {
+          "option": "31"
+        },
+        {
+          "option": "127"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "64",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the wrong term in the series: 125, 106, 88, 71, 55, 40, 26",
+      "options": [
+        {
+          "option": "106",
+          "is_answer": true
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "88"
+        },
+        {
+          "option": "55"
+        }
+      ]
+    },
+    {
+      "question": "Find the wrong term in the series: 2, 8, 16, 128, 2048",
+      "options": [
+        {
+          "option": "2048"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "128"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "Find the wrong term in the series: 22, 24, 28, 36, 52, 84, 140",
+      "options": [
+        {
+          "option": "36"
+        },
+        {
+          "option": "52"
+        },
+        {
+          "option": "140",
+          "is_answer": true
+        },
+        {
+          "option": "84"
+        }
+      ]
+    },
+    {
+      "question": "Find the wrong term in the series: 1, 5, 14, 30, 55, 91",
+      "options": [
+        {
+          "option": "30",
+          "is_answer": true
+        },
+        {
+          "option": "91"
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "55"
+        }
+      ]
+    },
+    {
+      "question": "Find the wrong term in the series: 56, 72, 90, 110, 132, 150",
+      "options": [
+        {
+          "option": "132"
+        },
+        {
+          "option": "90"
+        },
+        {
+          "option": "110"
+        },
+        {
+          "option": "150",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the wrong term in the series: 3, 10, 27, 4, 16, 64, 5, 25, 125",
+      "options": [
+        {
+          "option": "27"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the wrong term in the series: 0, 7, 26, 63, 124, 215, 343",
+      "options": [
+        {
+          "option": "343",
+          "is_answer": true
+        },
+        {
+          "option": "124"
+        },
+        {
+          "option": "215"
+        },
+        {
+          "option": "63"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the sequence based on $n^n$: 1, 4, 27, ?, 3125",
+      "options": [
+        {
+          "option": "512"
+        },
+        {
+          "option": "64"
+        },
+        {
+          "option": "125"
+        },
+        {
+          "option": "256",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the next term in the exponential growth series: 2, 4, 8, 16, ?",
+      "options": [
+        {
+          "option": "64"
+        },
+        {
+          "option": "32",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "Identify the pattern and find the next number: 3, 9, 27, 81, ?",
+      "options": [
+        {
+          "option": "162"
+        },
+        {
+          "option": "729"
+        },
+        {
+          "option": "108"
+        },
+        {
+          "option": "243",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In the series $1^1, 2^2, 3^3, 4^4, \\dots$, what is the 5th term?",
+      "options": [
+        {
+          "option": "625"
+        },
+        {
+          "option": "256"
+        },
+        {
+          "option": "1024"
+        },
+        {
+          "option": "3125",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in powers of 2: 1, 2, 4, ?, 16, 32",
+      "options": [
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "Determine the next term in the geometric power series: 5, 25, 125, ?",
+      "options": [
+        {
+          "option": "250"
+        },
+        {
+          "option": "600"
+        },
+        {
+          "option": "3125"
+        },
+        {
+          "option": "625",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the next term in the sequence: 1, 3, 9, 27, 81, ?",
+      "options": [
+        {
+          "option": "324"
+        },
+        {
+          "option": "243",
+          "is_answer": true
+        },
+        {
+          "option": "162"
+        },
+        {
+          "option": "729"
+        }
+      ]
+    },
+    {
+      "question": "What is the 6th term of the power series $2^n$ starting from $n=1$?",
+      "options": [
+        {
+          "option": "32"
+        },
+        {
+          "option": "256"
+        },
+        {
+          "option": "128"
+        },
+        {
+          "option": "64",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the exponential pattern: 4, 16, 64, ?",
+      "options": [
+        {
+          "option": "512"
+        },
+        {
+          "option": "128"
+        },
+        {
+          "option": "1024"
+        },
+        {
+          "option": "256",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Identify the missing value in the sequence based on $3^n$: 3, 9, 27, 81, 243, ?",
+      "options": [
+        {
+          "option": "2187"
+        },
+        {
+          "option": "486"
+        },
+        {
+          "option": "1458"
+        },
+        {
+          "option": "729",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What comes next in the sequence: 1, 8, 27, 64, ?",
+      "options": [
+        {
+          "option": "216"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "150"
+        },
+        {
+          "option": "125",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the power series of base 4: 4, 16, 64, 256, ?",
+      "options": [
+        {
+          "option": "4096"
+        },
+        {
+          "option": "2048"
+        },
+        {
+          "option": "1024",
+          "is_answer": true
+        },
+        {
+          "option": "512"
+        }
+      ]
+    },
+    {
+      "question": "Find the next term in the decreasing power sequence: 64, 32, 16, 8, ?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of the 4th term in the self-powered sequence $n^n$ ($n=1, 2, 3, 4$)?",
+      "options": [
+        {
+          "option": "512"
+        },
+        {
+          "option": "256",
+          "is_answer": true
+        },
+        {
+          "option": "64"
+        },
+        {
+          "option": "128"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing value in the sequence: 2, 6, 18, 54, ?",
+      "options": [
+        {
+          "option": "108"
+        },
+        {
+          "option": "216"
+        },
+        {
+          "option": "162",
+          "is_answer": true
+        },
+        {
+          "option": "324"
+        }
+      ]
+    },
+    {
+      "question": "Determine the next number in the exponential sequence: 10, 100, 1000, 10000, ?",
+      "options": [
+        {
+          "option": "100000",
+          "is_answer": true
+        },
+        {
+          "option": "1000"
+        },
+        {
+          "option": "1000000"
+        },
+        {
+          "option": "50000"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the sequence: 0.5, 1, 2, 4, 8, ?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "What is the next number in the growth series: 1, 2, 9, 64, ?",
+      "options": [
+        {
+          "option": "625",
+          "is_answer": true
+        },
+        {
+          "option": "256"
+        },
+        {
+          "option": "125"
+        },
+        {
+          "option": "512"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the alternating power series: 2, -4, 8, -16, ?",
+      "options": [
+        {
+          "option": "32",
+          "is_answer": true
+        },
+        {
+          "option": "-64"
+        },
+        {
+          "option": "64"
+        },
+        {
+          "option": "-32"
+        }
+      ]
+    },
+    {
+      "question": "Identify the missing term in the series: 81, 27, 9, 3, ?",
+      "options": [
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "-3"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the given 3x3 grid:\nRow 1: 2, 3, 5\nRow 2: 4, 5, 9\nRow 3: 6, 7, ?",
+      "options": [
+        {
+          "option": "13",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "11"
+        },
+        {
+          "option": "14"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the given 3x3 grid:\nRow 1: 3, 4, 12\nRow 2: 5, 6, 30\nRow 3: 7, 8, ?",
+      "options": [
+        {
+          "option": "54"
+        },
+        {
+          "option": "56",
+          "is_answer": true
+        },
+        {
+          "option": "64"
+        },
+        {
+          "option": "48"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the given 3x3 grid:\nRow 1: 4, 9, 2\nRow 2: 3, 5, 7\nRow 3: 8, 1, ?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the given 3x3 grid:\nRow 1: 5, 10, 15\nRow 2: 2, 4, 6\nRow 3: 8, 16, ?",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "22"
+        },
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the given 3x3 grid:\nRow 1: 6, 8, 10\nRow 2: 3, 4, 5\nRow 3: 9, 12, ?",
+      "options": [
+        {
+          "option": "14"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "13"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the given 3x3 grid:\nRow 1: 7, 2, 9\nRow 2: 5, 4, 9\nRow 3: 6, 3, ?",
+      "options": [
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the given 3x3 grid:\nRow 1: 1, 8, 27\nRow 2: 2, 27, 64\nRow 3: 3, 64, ?",
+      "options": [
+        {
+          "option": "96"
+        },
+        {
+          "option": "216"
+        },
+        {
+          "option": "125",
+          "is_answer": true
+        },
+        {
+          "option": "100"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the given 3x3 grid:\nRow 1: 9, 4, 20\nRow 2: 8, 5, 15\nRow 3: 7, 6, ?",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the given 3x3 grid:\nRow 1: 10, 20, 30\nRow 2: 5, 15, 25\nRow 3: 2, 12, ?",
+      "options": [
+        {
+          "option": "22",
+          "is_answer": true
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the given 3x3 grid:\nRow 1: 1, 4, 9\nRow 2: 2, 5, 12\nRow 3: 3, 6, ?",
+      "options": [
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the given 3x3 grid:\nRow 1: 12, 8, 4\nRow 2: 10, 6, 4\nRow 3: 14, 9, ?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the given 3x3 grid:\nRow 1: 2, 4, 20\nRow 2: 3, 5, 30\nRow 3: 4, 6, ?",
+      "options": [
+        {
+          "option": "42",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "48"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the given 3x3 grid:\nRow 1: 15, 5, 3\nRow 2: 24, 6, 4\nRow 3: 35, 7, ?",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the given 3x3 grid:\nRow 1: 7, 3, 40\nRow 2: 8, 4, 48\nRow 3: 9, 5, ?",
+      "options": [
+        {
+          "option": "60"
+        },
+        {
+          "option": "52"
+        },
+        {
+          "option": "64"
+        },
+        {
+          "option": "56",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the given 3x3 grid:\nRow 1: 11, 12, 13\nRow 2: 21, 22, 23\nRow 3: 31, 32, ?",
+      "options": [
+        {
+          "option": "33",
+          "is_answer": true
+        },
+        {
+          "option": "34"
+        },
+        {
+          "option": "35"
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the given 3x3 grid:\nRow 1: 13, 12, 5\nRow 2: 17, 15, 8\nRow 3: 25, 24, ?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the given 3x3 grid:\nRow 1: 3, 5, 2\nRow 2: 5, 7, 4\nRow 3: 7, 9, ?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the given 3x3 grid:\nRow 1: 8, 3, 5\nRow 2: 7, 4, 3\nRow 3: 9, 6, ?",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the given 3x3 grid:\nRow 1: 2, 5, 10\nRow 2: 3, 6, 18\nRow 3: 4, 7, ?",
+      "options": [
+        {
+          "option": "32"
+        },
+        {
+          "option": "28",
+          "is_answer": true
+        },
+        {
+          "option": "26"
+        },
+        {
+          "option": "24"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the given 3x3 grid:\nRow 1: 10, 2, 5\nRow 2: 24, 3, 8\nRow 3: 28, 4, ?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "Find the next term in the reciprocal series: 1/2, 1/5, 1/10, 1/17, ?",
+      "options": [
+        {
+          "option": "1/24"
+        },
+        {
+          "option": "1/25"
+        },
+        {
+          "option": "1/28"
+        },
+        {
+          "option": "1/26",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the missing term in the sequence: 1, 1/3, 1/6, 1/10, ?",
+      "options": [
+        {
+          "option": "1/13"
+        },
+        {
+          "option": "1/14"
+        },
+        {
+          "option": "1/16"
+        },
+        {
+          "option": "1/15",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the value of the continued fraction: 1 + 1/(1 + 1/(1 + 1/1))",
+      "options": [
+        {
+          "option": "3/2",
+          "is_answer": true
+        },
+        {
+          "option": "5/3"
+        },
+        {
+          "option": "2/3"
+        },
+        {
+          "option": "4/3"
+        }
+      ]
+    },
+    {
+      "question": "Determine the next term in the reciprocal series: 2/3, 3/5, 4/7, 5/9, ?",
+      "options": [
+        {
+          "option": "6/13"
+        },
+        {
+          "option": "6/11",
+          "is_answer": true
+        },
+        {
+          "option": "5/11"
+        },
+        {
+          "option": "7/11"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the harmonic-like sequence: 1/2, 2/3, 3/4, 4/5, ?",
+      "options": [
+        {
+          "option": "6/7"
+        },
+        {
+          "option": "5/6",
+          "is_answer": true
+        },
+        {
+          "option": "4/6"
+        },
+        {
+          "option": "5/7"
+        }
+      ]
+    },
+    {
+      "question": "What will be the next term in the sequence: 1/3, 1/8, 1/15, 1/24, ?",
+      "options": [
+        {
+          "option": "1/32"
+        },
+        {
+          "option": "1/36"
+        },
+        {
+          "option": "1/33"
+        },
+        {
+          "option": "1/35",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Simplify the simple continued fraction: 2 + 1/(3 + 1/2)",
+      "options": [
+        {
+          "option": "15/7",
+          "is_answer": true
+        },
+        {
+          "option": "7/15"
+        },
+        {
+          "option": "11/5"
+        },
+        {
+          "option": "13/7"
+        }
+      ]
+    },
+    {
+      "question": "Identify the next term in the reciprocal sequence: 1/1, 1/4, 1/9, 1/16, ?",
+      "options": [
+        {
+          "option": "1/20"
+        },
+        {
+          "option": "1/24"
+        },
+        {
+          "option": "1/25",
+          "is_answer": true
+        },
+        {
+          "option": "1/36"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the unit fraction series: 1/2, 1/4, 1/8, 1/16, ?",
+      "options": [
+        {
+          "option": "1/64"
+        },
+        {
+          "option": "1/30"
+        },
+        {
+          "option": "1/32",
+          "is_answer": true
+        },
+        {
+          "option": "1/24"
+        }
+      ]
+    },
+    {
+      "question": "What is the next term of the series: 3/2, 5/4, 7/6, 9/8, ?",
+      "options": [
+        {
+          "option": "11/10",
+          "is_answer": true
+        },
+        {
+          "option": "11/12"
+        },
+        {
+          "option": "12/10"
+        },
+        {
+          "option": "10/11"
+        }
+      ]
+    },
+    {
+      "question": "Find the value of the continued fraction: 1 + 1/(2 + 1/3)",
+      "options": [
+        {
+          "option": "10/7",
+          "is_answer": true
+        },
+        {
+          "option": "8/5"
+        },
+        {
+          "option": "7/10"
+        },
+        {
+          "option": "5/3"
+        }
+      ]
+    },
+    {
+      "question": "Find the next term in the reciprocal progression: 1/6, 1/12, 1/20, 1/30, ?",
+      "options": [
+        {
+          "option": "1/38"
+        },
+        {
+          "option": "1/45"
+        },
+        {
+          "option": "1/42",
+          "is_answer": true
+        },
+        {
+          "option": "1/40"
+        }
+      ]
+    },
+    {
+      "question": "What is the missing term in the sequence: 1/2, 3/4, 5/6, 7/8, ?",
+      "options": [
+        {
+          "option": "9/11"
+        },
+        {
+          "option": "10/9"
+        },
+        {
+          "option": "9/10",
+          "is_answer": true
+        },
+        {
+          "option": "8/9"
+        }
+      ]
+    },
+    {
+      "question": "Find the next term in the reciprocal series: 1, 1/2, 1/6, 1/24, ?",
+      "options": [
+        {
+          "option": "1/96"
+        },
+        {
+          "option": "1/72"
+        },
+        {
+          "option": "1/100"
+        },
+        {
+          "option": "1/120",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Evaluate the continued fraction: 3 + 1/(1 + 1/(2 + 1/4))",
+      "options": [
+        {
+          "option": "31/9",
+          "is_answer": true
+        },
+        {
+          "option": "27/8"
+        },
+        {
+          "option": "25/7"
+        },
+        {
+          "option": "29/9"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing term in the sequence: 4/5, 5/7, 6/9, 7/11, ?",
+      "options": [
+        {
+          "option": "9/13"
+        },
+        {
+          "option": "7/13"
+        },
+        {
+          "option": "8/13",
+          "is_answer": true
+        },
+        {
+          "option": "8/15"
+        }
+      ]
+    },
+    {
+      "question": "What is the next term in the reciprocal prime series: 1/2, 1/3, 1/5, 1/7, ?",
+      "options": [
+        {
+          "option": "1/9"
+        },
+        {
+          "option": "1/11",
+          "is_answer": true
+        },
+        {
+          "option": "1/13"
+        },
+        {
+          "option": "1/10"
+        }
+      ]
+    },
+    {
+      "question": "Find the next term in the sequence: 1/2, 2/5, 3/10, 4/17, ?",
+      "options": [
+        {
+          "option": "6/27"
+        },
+        {
+          "option": "5/26",
+          "is_answer": true
+        },
+        {
+          "option": "5/25"
+        },
+        {
+          "option": "5/24"
+        }
+      ]
+    },
+    {
+      "question": "Simplify the continued fraction: 1 + 1/(1 + 1/(1 + 1/(1 + 1/1)))",
+      "options": [
+        {
+          "option": "5/3"
+        },
+        {
+          "option": "3/5"
+        },
+        {
+          "option": "8/5",
+          "is_answer": true
+        },
+        {
+          "option": "5/8"
+        }
+      ]
+    },
+    {
+      "question": "Determine the next term in the reciprocal series: 1/3, 1/6, 1/11, 1/18, ?",
+      "options": [
+        {
+          "option": "1/26"
+        },
+        {
+          "option": "1/27",
+          "is_answer": true
+        },
+        {
+          "option": "1/25"
+        },
+        {
+          "option": "1/24"
+        }
+      ]
+    },
+    {
+      "question": "What is the 100th term of the repeating sequence: 2, 4, 6, 8?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "In the sequence A, B, C, D, E, what is the 53rd letter?",
+      "options": [
+        {
+          "option": "A"
+        },
+        {
+          "option": "B"
+        },
+        {
+          "option": "C",
+          "is_answer": true
+        },
+        {
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "question": "If today is Monday, what day of the week will it be after 100 days?",
+      "options": [
+        {
+          "option": "Monday"
+        },
+        {
+          "option": "Tuesday"
+        },
+        {
+          "option": "Wednesday",
+          "is_answer": true
+        },
+        {
+          "option": "Thursday"
+        }
+      ]
+    },
+    {
+      "question": "Find the 50th term in the periodic sequence: 1, 3, 5, 7, 9.",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "What is the remainder when 3^2023 is divided by 5? (Hint: powers of 3 mod 5 cycle in length 4: 3, 4, 2, 1)",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "A light bulb flashes in a sequence of 3 colors: Red, Green, Blue. What color will it flash on the 250th flash?",
+      "options": [
+        {
+          "option": "Green",
+          "is_answer": true
+        },
+        {
+          "option": "Blue"
+        },
+        {
+          "option": "Red"
+        },
+        {
+          "option": "Yellow"
+        }
+      ]
+    },
+    {
+      "question": "What is the 75th term in the repeating sequence: 5, 10, 15?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The pattern is 'S, M, T, W, T, F, S'. What is the 200th letter in this sequence?",
+      "options": [
+        {
+          "option": "W"
+        },
+        {
+          "option": "M"
+        },
+        {
+          "option": "T",
+          "is_answer": true
+        },
+        {
+          "option": "S"
+        }
+      ]
+    },
+    {
+      "question": "Determine the unit digit (mod 10) of 7^100. (Cycles: 7, 9, 3, 1)",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "If a sequence repeats every 4 terms as [0, 1, 2, 3], what is the value of the 1000th term?",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "What is the 88th term of the repeating sequence: X, Y, Z?",
+      "options": [
+        {
+          "option": "Z"
+        },
+        {
+          "option": "Y",
+          "is_answer": true
+        },
+        {
+          "option": "X"
+        },
+        {
+          "option": "None"
+        }
+      ]
+    },
+    {
+      "question": "Find the remainder of 2^50 when divided by 7. (Powers of 2 mod 7 cycle: 2, 4, 1)",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "A security lamp cycles through patterns: Up, Down, Left, Right, Center. What is the 102nd position?",
+      "options": [
+        {
+          "option": "Up"
+        },
+        {
+          "option": "Right"
+        },
+        {
+          "option": "Left"
+        },
+        {
+          "option": "DownLatch",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the 333rd term in the repeating sequence: 8, 6, 4, 2, 0?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the pattern of symbols is @, #, $, %, what symbol appears at the 401st position?",
+      "options": [
+        {
+          "option": "@",
+          "is_answer": true
+        },
+        {
+          "option": "#"
+        },
+        {
+          "option": "%"
+        },
+        {
+          "option": "$"
+        }
+      ]
+    },
+    {
+      "question": "Calculate 4^99 mod 6. (Powers of 4 mod 6 cycle: 4, 4, 4...)",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "A clock chiming mechanism repeats a 4-note melody. Which note plays on the 500th chime?",
+      "options": [
+        {
+          "option": "2nd note"
+        },
+        {
+          "option": "3rd note"
+        },
+        {
+          "option": "4th note",
+          "is_answer": true
+        },
+        {
+          "option": "1st note"
+        }
+      ]
+    },
+    {
+      "question": "What is the 1000th digit in the repeating decimal expansion generated by 1/7 = 0.142857142857...?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the remainder of 9^55 when divided by 8.",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "In a repeating pattern of colored stones: Red, Blue, Blue, Yellow, Yellow, Yellow. What is the color of the 66th stone?",
+      "options": [
+        {
+          "option": "Green"
+        },
+        {
+          "option": "Yellow",
+          "is_answer": true
+        },
+        {
+          "option": "Blue"
+        },
+        {
+          "option": "Red"
+        }
+      ]
+    },
+    {
+      "question": "Find the next term in the series: 15, 6, 9, 18, ?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "Find the next term in the series: 28, 16, 6, 36, ?",
+      "options": [
+        {
+          "option": "18",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "24"
+        }
+      ]
+    },
+    {
+      "question": "Find the next term in the series: 45, 20, 2, 4, ?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "Find the next term in the series: 13, 4, 7, 13, ?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "Find the next term in the series: 39, 27, 14, 4, ?",
+      "options": [
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "Find the next term in the series: 25, 10, 2, 4, ?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the next term in the series: 19, 10, 1, 2, ?",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "Find the next term in the series: 59, 45, 20, 2, ?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the next term in the series: 34, 12, 3, 6, ?",
+      "options": [
+        {
+          "option": "36"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "18",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "Find the next term in the series: 78, 56, 30, 0, ?",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "Find the next term in the series: 29, 18, 8, 48, ?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "28"
+        },
+        {
+          "option": "32",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the next term in the series: 67, 42, 8, 16, ?",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "Find the next term in the series: 14, 5, 25, 10, ?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "Find the next term in the series: 89, 72, 14, 5, ?",
+      "options": [
+        {
+          "option": "25",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "Find the next term in the series: 46, 24, 8, 16, ?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "Find the next term in the series: 12, 3, 9, 18, ?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "Find the next term in the series: 37, 21, 2, 4, ?",
+      "options": [
+        {
+          "option": "16"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "Find the next term in the series: 56, 30, 0, 0, ?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "Find the next term in the series: 23, 6, 12, 3, ?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "Find the next term in the series: 88, 64, 24, 8, ?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 3, 7, 13, 23, 39, ?",
+      "options": [
+        {
+          "option": "63",
+          "is_answer": true
+        },
+        {
+          "option": "59"
+        },
+        {
+          "option": "65"
+        },
+        {
+          "option": "61"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 4, 6, 10, 18, 34, ?",
+      "options": [
+        {
+          "option": "64"
+        },
+        {
+          "option": "68"
+        },
+        {
+          "option": "62"
+        },
+        {
+          "option": "66",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 5, 8, 14, 26, 50, ?",
+      "options": [
+        {
+          "option": "96"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "98",
+          "is_answer": true
+        },
+        {
+          "option": "92"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 1, 3, 8, 19, 42, ?",
+      "options": [
+        {
+          "option": "85"
+        },
+        {
+          "option": "89",
+          "is_answer": true
+        },
+        {
+          "option": "87"
+        },
+        {
+          "option": "91"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 6, 13, 28, 59, 122, ?",
+      "options": [
+        {
+          "option": "247"
+        },
+        {
+          "option": "245"
+        },
+        {
+          "option": "251"
+        },
+        {
+          "option": "249",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 7, 10, 17, 30, 55, ?",
+      "options": [
+        {
+          "option": "106"
+        },
+        {
+          "option": "102"
+        },
+        {
+          "option": "104",
+          "is_answer": true
+        },
+        {
+          "option": "100"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 3, 4, 8, 17, 33, ?",
+      "options": [
+        {
+          "option": "60"
+        },
+        {
+          "option": "56"
+        },
+        {
+          "option": "58",
+          "is_answer": true
+        },
+        {
+          "option": "54"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 2, 3, 7, 16, 32, ?",
+      "options": [
+        {
+          "option": "55"
+        },
+        {
+          "option": "53"
+        },
+        {
+          "option": "57",
+          "is_answer": true
+        },
+        {
+          "option": "59"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 4, 9, 20, 43, 90, ?",
+      "options": [
+        {
+          "option": "185",
+          "is_answer": true
+        },
+        {
+          "option": "181"
+        },
+        {
+          "option": "187"
+        },
+        {
+          "option": "183"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 5, 11, 24, 51, 106, ?",
+      "options": [
+        {
+          "option": "219"
+        },
+        {
+          "option": "213"
+        },
+        {
+          "option": "217",
+          "is_answer": true
+        },
+        {
+          "option": "215"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 8, 12, 21, 37, 62, ?",
+      "options": [
+        {
+          "option": "94"
+        },
+        {
+          "option": "96"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "98",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 1, 2, 5, 12, 27, ?",
+      "options": [
+        {
+          "option": "60"
+        },
+        {
+          "option": "56"
+        },
+        {
+          "option": "54"
+        },
+        {
+          "option": "58",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 3, 5, 10, 19, 34, ?",
+      "options": [
+        {
+          "option": "55"
+        },
+        {
+          "option": "59"
+        },
+        {
+          "option": "57",
+          "is_answer": true
+        },
+        {
+          "option": "53"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 6, 7, 10, 17, 30, ?",
+      "options": [
+        {
+          "option": "51"
+        },
+        {
+          "option": "55",
+          "is_answer": true
+        },
+        {
+          "option": "57"
+        },
+        {
+          "option": "53"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 2, 6, 14, 30, 62, ?",
+      "options": [
+        {
+          "option": "126",
+          "is_answer": true
+        },
+        {
+          "option": "122"
+        },
+        {
+          "option": "124"
+        },
+        {
+          "option": "128"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 4, 7, 13, 25, 49, ?",
+      "options": [
+        {
+          "option": "99"
+        },
+        {
+          "option": "97",
+          "is_answer": true
+        },
+        {
+          "option": "93"
+        },
+        {
+          "option": "95"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 3, 8, 19, 42, 89, ?",
+      "options": [
+        {
+          "option": "180"
+        },
+        {
+          "option": "182"
+        },
+        {
+          "option": "186"
+        },
+        {
+          "option": "184",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 5, 7, 12, 22, 39, ?",
+      "options": [
+        {
+          "option": "63"
+        },
+        {
+          "option": "61"
+        },
+        {
+          "option": "65",
+          "is_answer": true
+        },
+        {
+          "option": "67"
+        }
+      ]
+    },
+    {
+      "question": "What is the 5th term in the triangular number sequence?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "28"
+        },
+        {
+          "option": "21"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the 8th triangular number in the sequence.",
+      "options": [
+        {
+          "option": "36",
+          "is_answer": true
+        },
+        {
+          "option": "28"
+        },
+        {
+          "option": "45"
+        },
+        {
+          "option": "55"
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of the 4th and 5th triangular numbers?",
+      "options": [
+        {
+          "option": "25",
+          "is_answer": true
+        },
+        {
+          "option": "31"
+        },
+        {
+          "option": "21"
+        },
+        {
+          "option": "28"
+        }
+      ]
+    },
+    {
+      "question": "If a triangular number sequence is 1, 3, 6, 10, X, 21, what is the value of X?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the 10th term of the triangular number sequence?",
+      "options": [
+        {
+          "option": "66"
+        },
+        {
+          "option": "55",
+          "is_answer": true
+        },
+        {
+          "option": "45"
+        },
+        {
+          "option": "50"
+        }
+      ]
+    },
+    {
+      "question": "What is the difference between the 7th and 6th triangular numbers?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is a triangular number?",
+      "options": [
+        {
+          "option": "32"
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "28",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the 3rd triangular number multiplied by the 2nd triangular number?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "18",
+          "is_answer": true
+        },
+        {
+          "option": "21"
+        }
+      ]
+    },
+    {
+      "question": "Complete the sequence: 3, 6, 10, 15, __",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "21",
+          "is_answer": true
+        },
+        {
+          "option": "28"
+        }
+      ]
+    },
+    {
+      "question": "What is the 9th term in the triangular number sequence?",
+      "options": [
+        {
+          "option": "36"
+        },
+        {
+          "option": "55"
+        },
+        {
+          "option": "50"
+        },
+        {
+          "option": "45",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of the first 4 triangular numbers (1 + 3 + 6 + 10)?",
+      "options": [
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is NOT a triangular number?",
+      "options": [
+        {
+          "option": "21"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "What is the 6th triangular number?",
+      "options": [
+        {
+          "option": "28"
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "21",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If n = 4, what is the value of the triangular number given by n(n+1)/2?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "What is the next number in the pattern: 6, 10, 15, 21, ?",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "28",
+          "is_answer": true
+        },
+        {
+          "option": "27"
+        }
+      ]
+    },
+    {
+      "question": "What is the 2nd triangular number?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of the 2nd and 3rd triangular numbers?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the 7th term in the triangular sequence?",
+      "options": [
+        {
+          "option": "36"
+        },
+        {
+          "option": "28",
+          "is_answer": true
+        },
+        {
+          "option": "21"
+        },
+        {
+          "option": "45"
+        }
+      ]
+    },
+    {
+      "question": "What do you get when you add two consecutive triangular numbers, say the 3rd and 4th?",
+      "options": [
+        {
+          "option": "14"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which triangular number is equal to 36?",
+      "options": [
+        {
+          "option": "9th"
+        },
+        {
+          "option": "7th"
+        },
+        {
+          "option": "8th",
+          "is_answer": true
+        },
+        {
+          "option": "6th"
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 2, 6, 12, 20, 30, 42, 56, ?",
+      "options": [
+        {
+          "option": "64"
+        },
+        {
+          "option": "70"
+        },
+        {
+          "option": "68"
+        },
+        {
+          "option": "72",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the wrong number in the series: 3, 8, 15, 24, 35, 48, 63, 80, 99",
+      "options": [
+        {
+          "option": "35"
+        },
+        {
+          "option": "80"
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "No wrong number",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing number in the series: 5, 16, 51, 158, ?",
+      "options": [
+        {
+          "option": "471"
+        },
+        {
+          "option": "475"
+        },
+        {
+          "option": "485",
+          "is_answer": true
+        },
+        {
+          "option": "481"
+        }
+      ]
+    }
+  ]
+}

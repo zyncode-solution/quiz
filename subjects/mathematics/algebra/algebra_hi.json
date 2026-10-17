@@ -1,0 +1,9005 @@
+{
+  "total_questions": 500,
+  "questions": [
+    {
+      "question": "द्विघात समीकरण ax^2 + bx + c = 0 के लिए विविक्तकर (discriminant) का सूत्र क्या है?",
+      "options": [
+        {
+          "option": "b^2 - 4ac",
+          "is_answer": true
+        },
+        {
+          "option": "b - 4ac"
+        },
+        {
+          "option": "a^2 - 4bc"
+        },
+        {
+          "option": "b^2 + 4ac"
+        }
+      ]
+    },
+    {
+      "question": "यदि विविक्तकर शून्य है, तो मूलों की प्रकृति क्या होती है?",
+      "options": [
+        {
+          "option": "सम्मिश्र"
+        },
+        {
+          "option": "वास्तविक और समान",
+          "is_answer": true
+        },
+        {
+          "option": "अपरिमेय"
+        },
+        {
+          "option": "वास्तविक और भिन्न"
+        }
+      ]
+    },
+    {
+      "question": "यदि विविक्तकर ऋणात्मक है, तो मूलों की प्रकृति क्या होती है?",
+      "options": [
+        {
+          "option": "सम्मिश्र",
+          "is_answer": true
+        },
+        {
+          "option": "वास्तविक और भिन्न"
+        },
+        {
+          "option": "वास्तविक और समान"
+        },
+        {
+          "option": "परिमेय"
+        }
+      ]
+    },
+    {
+      "question": "समीकरण x^2 - 4x + 4 = 0 के लिए विविक्तकर क्या है?",
+      "options": [
+        {
+          "option": "16"
+        },
+        {
+          "option": "-16"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि विविक्तकर एक धनात्मक पूर्ण वर्ग है, तो मूल होते हैं:",
+      "options": [
+        {
+          "option": "परिमेय और भिन्न",
+          "is_answer": true
+        },
+        {
+          "option": "वास्तविक और समान"
+        },
+        {
+          "option": "सम्मिश्र"
+        },
+        {
+          "option": "अपरिमेय और भिन्न"
+        }
+      ]
+    },
+    {
+      "question": "समीकरण x^2 + x + 1 = 0 के लिए विविक्तकर है:",
+      "options": [
+        {
+          "option": "-3",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "यदि विविक्तकर 5 है, तो मूल होते हैं:",
+      "options": [
+        {
+          "option": "सम्मिश्र"
+        },
+        {
+          "option": "वास्तविक और समान"
+        },
+        {
+          "option": "परिमेय और भिन्न"
+        },
+        {
+          "option": "अपरिमेय और भिन्न",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "2x^2 - 5x + 2 = 0 का विविक्तकर क्या है?",
+      "options": [
+        {
+          "option": "16"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "यदि विविक्तकर 16 है, तो मूल होते हैं:",
+      "options": [
+        {
+          "option": "अपरिमेय और भिन्न"
+        },
+        {
+          "option": "सम्मिश्र"
+        },
+        {
+          "option": "वास्तविक और समान"
+        },
+        {
+          "option": "परिमेय और भिन्न",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "कौन सी स्थिति वास्तविक और भिन्न मूलों को दर्शाती है?",
+      "options": [
+        {
+          "option": "D = 1"
+        },
+        {
+          "option": "D > 0",
+          "is_answer": true
+        },
+        {
+          "option": "D < 0"
+        },
+        {
+          "option": "D = 0"
+        }
+      ]
+    },
+    {
+      "question": "x^2 - 3x + 2 = 0 के लिए विविक्तकर है:",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "यदि D < 0 है, तो मूल होते हैं:",
+      "options": [
+        {
+          "option": "वास्तविक नहीं",
+          "is_answer": true
+        },
+        {
+          "option": "वास्तविक और समान"
+        },
+        {
+          "option": "परिमेय"
+        },
+        {
+          "option": "वास्तविक और भिन्न"
+        }
+      ]
+    },
+    {
+      "question": "3x^2 + 2x + 1 = 0 का विविक्तकर क्या है?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "-8",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "यदि विविक्तकर 0 है, तो मूल होते हैं:",
+      "options": [
+        {
+          "option": "समान",
+          "is_answer": true
+        },
+        {
+          "option": "काल्पनिक"
+        },
+        {
+          "option": "भिन्न"
+        },
+        {
+          "option": "सम्मिश्र"
+        }
+      ]
+    },
+    {
+      "question": "x^2 + 6x + 9 = 0 के लिए विविक्तकर है:",
+      "options": [
+        {
+          "option": "36"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "-36"
+        }
+      ]
+    },
+    {
+      "question": "यदि D एक पूर्ण वर्ग नहीं है, तो मूल होते हैं:",
+      "options": [
+        {
+          "option": "समान"
+        },
+        {
+          "option": "अपरिमेय",
+          "is_answer": true
+        },
+        {
+          "option": "परिमेय"
+        },
+        {
+          "option": "सम्मिश्र"
+        }
+      ]
+    },
+    {
+      "question": "x^2 - 5x + 6 = 0 का विविक्तकर क्या है?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "यदि मूल वास्तविक और समान हैं, तो:",
+      "options": [
+        {
+          "option": "D < 0"
+        },
+        {
+          "option": "D = 1"
+        },
+        {
+          "option": "D = 0",
+          "is_answer": true
+        },
+        {
+          "option": "D > 0"
+        }
+      ]
+    },
+    {
+      "question": "4x^2 - 4x + 1 = 0 के लिए विविक्तकर है:",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "-16"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "यदि D = 12 है, तो मूल होते हैं:",
+      "options": [
+        {
+          "option": "परिमेय और भिन्न"
+        },
+        {
+          "option": "वास्तविक और समान"
+        },
+        {
+          "option": "सम्मिश्र"
+        },
+        {
+          "option": "अपरिमेय और भिन्न",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "जब P(x) = x^2 - 3x + 2 को (x - 1) से विभाजित किया जाता है, तो शेषफल क्या होगा?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "गुणनखंड प्रमेय के अनुसार, यदि P(c) = 0 है, तो निम्नलिखित में से कौन सा P(x) का एक गुणनखंड है?",
+      "options": [
+        {
+          "option": "(x + c)"
+        },
+        {
+          "option": "(x - c)",
+          "is_answer": true
+        },
+        {
+          "option": "(c - x)"
+        },
+        {
+          "option": "(x * c)"
+        }
+      ]
+    },
+    {
+      "question": "(x^2 + 5x + 6) को (x + 2) से विभाजित करने के लिए संश्लेषित विभाजन (synthetic division) का उपयोग करते समय, बॉक्स में किस मान का उपयोग किया जाता है?",
+      "options": [
+        {
+          "option": "-2",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "जब P(x) = x^3 + 1 को (x + 1) से विभाजित किया जाता है, तो शेषफल क्या होगा?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "यदि (x - 3), P(x) का एक गुणनखंड है, तो P(3) का मान क्या होगा?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "-3"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "(x^2 - 9) को (x - 3) से विभाजित करें। भागफल क्या है?",
+      "options": [
+        {
+          "option": "x + 9"
+        },
+        {
+          "option": "x - 9"
+        },
+        {
+          "option": "x + 3",
+          "is_answer": true
+        },
+        {
+          "option": "x - 3"
+        }
+      ]
+    },
+    {
+      "question": "कौन सा प्रमेय बताता है कि P(x) को (x - a) से विभाजित करने पर शेषफल P(a) होता है?",
+      "options": [
+        {
+          "option": "शेषफल प्रमेय",
+          "is_answer": true
+        },
+        {
+          "option": "गुणनखंड प्रमेय"
+        },
+        {
+          "option": "बीजगणित का मौलिक प्रमेय"
+        },
+        {
+          "option": "परिमेय मूल प्रमेय"
+        }
+      ]
+    },
+    {
+      "question": "जब P(x) = 2x^2 + 4x - 5 को (x - 1) से विभाजित किया जाता है, तो शेषफल क्या होगा?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "-5"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "यदि P(x) = x^2 + kx + 4 है और (x - 2) एक गुणनखंड है, तो k का मान क्या है?",
+      "options": [
+        {
+          "option": "-2"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "-4",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "संश्लेषित विभाजन का उपयोग केवल तभी किया जा सकता है जब भाजक इस रूप में हो:",
+      "options": [
+        {
+          "option": "(x^2 - c)"
+        },
+        {
+          "option": "(ax^2 + b)"
+        },
+        {
+          "option": "(x^3 - c)"
+        },
+        {
+          "option": "(x - c)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "जब P(x) = x^4 - 1 को (x - 1) से विभाजित किया जाता है, तो शेषफल क्या होगा?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "यदि P(2) = 0 है, तो निम्नलिखित में से क्या सत्य होना चाहिए?",
+      "options": [
+        {
+          "option": "(x + 2), P(x) का एक गुणनखंड है"
+        },
+        {
+          "option": "(x - 2), P(x) का एक गुणनखंड है",
+          "is_answer": true
+        },
+        {
+          "option": "P(x) को (x - 2) से विभाजित करने पर शेषफल 2 आता है"
+        },
+        {
+          "option": "x = -2 एक मूल है"
+        }
+      ]
+    },
+    {
+      "question": "(x^2 + 7x + 10) को (x + 2) से विभाजित करें। भागफल क्या है?",
+      "options": [
+        {
+          "option": "x + 2"
+        },
+        {
+          "option": "x + 10"
+        },
+        {
+          "option": "x + 7"
+        },
+        {
+          "option": "x + 5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "जब P(x) = 3x^2 - 2x + 1 को (x + 1) से विभाजित किया जाता है, तो शेषफल क्या होगा?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा P(x) = x^2 - 5x + 6 का एक संभावित परिमेय मूल है?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि P(x) = x^3 - 8 है, तो P(2) क्या है?",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "-8"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "जब (x^3 - 1) को (x - 1) से विभाजित किया जाता है, तो शेषफल क्या होता है?",
+      "options": [
+        {
+          "option": "-1"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "x"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "परिमेय मूल प्रमेय क्या खोजने में मदद करता है?",
+      "options": [
+        {
+          "option": "बहुपद की घात"
+        },
+        {
+          "option": "पदों की संख्या"
+        },
+        {
+          "option": "शेषफल"
+        },
+        {
+          "option": "संभावित परिमेय शून्य",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि P(x) = x^2 + 2x + 1 है, तो P(-1) क्या है?",
+      "options": [
+        {
+          "option": "-1"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "(x^2 - 4) को (x - 2) से विभाजित करने पर भागफल क्या प्राप्त होता है?",
+      "options": [
+        {
+          "option": "x + 2",
+          "is_answer": true
+        },
+        {
+          "option": "x - 2"
+        },
+        {
+          "option": "x + 4"
+        },
+        {
+          "option": "x - 4"
+        }
+      ]
+    },
+    {
+      "question": "x + 5 = 12 के लिए x का मान ज्ञात कीजिए",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "17"
+        }
+      ]
+    },
+    {
+      "question": "3x = 15 के लिए x का मान ज्ञात कीजिए",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "45"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "2x - 4 = 6 के लिए x का मान ज्ञात कीजिए",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "x/2 = 8 के लिए x का मान ज्ञात कीजिए",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "5x + 2 = 27 के लिए x का मान ज्ञात कीजिए",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "4x - 7 = 9 के लिए x का मान ज्ञात कीजिए",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "x/3 + 2 = 5 के लिए x का मान ज्ञात कीजिए",
+      "options": [
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "7x = 49 के लिए x का मान ज्ञात कीजिए",
+      "options": [
+        {
+          "option": "56"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "42"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "2x + 10 = 20 के लिए x का मान ज्ञात कीजिए",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "6x - 3 = 21 के लिए x का मान ज्ञात कीजिए",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "x/4 = 3 के लिए x का मान ज्ञात कीजिए",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "8x + 4 = 36 के लिए x का मान ज्ञात कीजिए",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "9x - 9 = 0 के लिए x का मान ज्ञात कीजिए",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "2x/3 = 4 के लिए x का मान ज्ञात कीजिए",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "10x - 5 = 45 के लिए x का मान ज्ञात कीजिए",
+      "options": [
+        {
+          "option": "50"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "x + 15 = 30 के लिए x का मान ज्ञात कीजिए",
+      "options": [
+        {
+          "option": "45"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "4x = 24 के लिए x का मान ज्ञात कीजिए",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "28"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "3x + 6 = 18 के लिए x का मान ज्ञात कीजिए",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "x/5 = 5 के लिए x का मान ज्ञात कीजिए",
+      "options": [
+        {
+          "option": "25",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "7x - 2 = 12 के लिए x का मान ज्ञात कीजिए",
+      "options": [
+        {
+          "option": "14"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "x + y = 5 और x - y = 1 के लिए x का मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "x = 3",
+          "is_answer": true
+        },
+        {
+          "option": "x = 4"
+        },
+        {
+          "option": "x = 1"
+        },
+        {
+          "option": "x = 2"
+        }
+      ]
+    },
+    {
+      "question": "समीकरण 2x + 3y = 5 और 4x + 6y = 10 के लिए सारणिक D का मान क्या है?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "यदि 2x + y = 7 और x - y = 2 है, तो y का मान क्या है?",
+      "options": [
+        {
+          "option": "y = 3"
+        },
+        {
+          "option": "y = 0"
+        },
+        {
+          "option": "y = 1",
+          "is_answer": true
+        },
+        {
+          "option": "y = 2"
+        }
+      ]
+    },
+    {
+      "question": "सारणिक का उपयोग करके समीकरणों को हल करने के लिए किस विधि का उपयोग किया जाता है?",
+      "options": [
+        {
+          "option": "प्रतिस्थापन विधि"
+        },
+        {
+          "option": "विलोपन विधि"
+        },
+        {
+          "option": "क्रेमर का नियम",
+          "is_answer": true
+        },
+        {
+          "option": "आलेखीय विधि"
+        }
+      ]
+    },
+    {
+      "question": "हल करें: 3x + 2y = 12 और x + y = 5.",
+      "options": [
+        {
+          "option": "x = 1, y = 4"
+        },
+        {
+          "option": "x = 2, y = 3",
+          "is_answer": true
+        },
+        {
+          "option": "x = 3, y = 2"
+        },
+        {
+          "option": "x = 4, y = 1"
+        }
+      ]
+    },
+    {
+      "question": "समीकरण 5x - 2y = 1 और 3x + y = 7 में, x का मान क्या है?",
+      "options": [
+        {
+          "option": "x = 2.5"
+        },
+        {
+          "option": "x = 2"
+        },
+        {
+          "option": "x = 1"
+        },
+        {
+          "option": "x = 1.5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि D = 0 और Dx = 0, Dy = 0 है, तो समीकरण निकाय के:",
+      "options": [
+        {
+          "option": "कोई हल नहीं होता"
+        },
+        {
+          "option": "दो हल होते हैं"
+        },
+        {
+          "option": "अद्वितीय हल होता है"
+        },
+        {
+          "option": "अनंत हल होते हैं",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "प्रतिस्थापन विधि से हल करें: y = 2x और x + y = 9.",
+      "options": [
+        {
+          "option": "x = 3, y = 6",
+          "is_answer": true
+        },
+        {
+          "option": "x = 2, y = 4"
+        },
+        {
+          "option": "x = 4, y = 8"
+        },
+        {
+          "option": "x = 1, y = 2"
+        }
+      ]
+    },
+    {
+      "question": "[[a, b], [c, d]] का सारणिक क्या है?",
+      "options": [
+        {
+          "option": "ab - cd"
+        },
+        {
+          "option": "ad + bc"
+        },
+        {
+          "option": "ad - bc",
+          "is_answer": true
+        },
+        {
+          "option": "ac - bd"
+        }
+      ]
+    },
+    {
+      "question": "हल करें: x + 2y = 8 और 2x + y = 7.",
+      "options": [
+        {
+          "option": "x = 1, y = 3.5"
+        },
+        {
+          "option": "x = 3, y = 2"
+        },
+        {
+          "option": "x = 4, y = 2"
+        },
+        {
+          "option": "x = 2, y = 3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "क्रेमर के नियम में, x की गणना कैसे की जाती है?",
+      "options": [
+        {
+          "option": "Dx / D",
+          "is_answer": true
+        },
+        {
+          "option": "D / Dy"
+        },
+        {
+          "option": "Dy / D"
+        },
+        {
+          "option": "D / Dx"
+        }
+      ]
+    },
+    {
+      "question": "हल करें: 4x - 3y = 11 और 2x + y = 3.",
+      "options": [
+        {
+          "option": "x = 3, y = 1"
+        },
+        {
+          "option": "x = 2, y = 1"
+        },
+        {
+          "option": "x = 2, y = -1",
+          "is_answer": true
+        },
+        {
+          "option": "x = 1, y = 1"
+        }
+      ]
+    },
+    {
+      "question": "यदि 3x + 4y = 10 और 2x - 2y = 0 है, तो x क्या है?",
+      "options": [
+        {
+          "option": "x = 0"
+        },
+        {
+          "option": "x = 2",
+          "is_answer": true
+        },
+        {
+          "option": "x = 3"
+        },
+        {
+          "option": "x = 1"
+        }
+      ]
+    },
+    {
+      "question": "समीकरण x + y = 10 और x - y = 4 में y का मान क्या है?",
+      "options": [
+        {
+          "option": "y = 4"
+        },
+        {
+          "option": "y = 3",
+          "is_answer": true
+        },
+        {
+          "option": "y = 7"
+        },
+        {
+          "option": "y = 6"
+        }
+      ]
+    },
+    {
+      "question": "इनमें से कौन सा दो चरों वाला रैखिक समीकरण है?",
+      "options": [
+        {
+          "option": "1/x + 1/y = 5"
+        },
+        {
+          "option": "x^2 + y = 5"
+        },
+        {
+          "option": "2x + 3y = 5",
+          "is_answer": true
+        },
+        {
+          "option": "xy = 5"
+        }
+      ]
+    },
+    {
+      "question": "हल करें: 2x + 5y = 16 और 3x - y = 5.",
+      "options": [
+        {
+          "option": "x = 3, y = 2",
+          "is_answer": true
+        },
+        {
+          "option": "x = 4, y = 1"
+        },
+        {
+          "option": "x = 2, y = 3"
+        },
+        {
+          "option": "x = 1, y = 4"
+        }
+      ]
+    },
+    {
+      "question": "यदि D = 5, Dx = 10, Dy = 15 है, तो (x, y) क्या होगा?",
+      "options": [
+        {
+          "option": "(2, 3)",
+          "is_answer": true
+        },
+        {
+          "option": "(1, 3)"
+        },
+        {
+          "option": "(3, 2)"
+        },
+        {
+          "option": "(2, 5)"
+        }
+      ]
+    },
+    {
+      "question": "हल करें: x/2 + y = 4 और x - y = 2.",
+      "options": [
+        {
+          "option": "x = 4, y = 2",
+          "is_answer": true
+        },
+        {
+          "option": "x = 6, y = 1"
+        },
+        {
+          "option": "x = 3, y = 3"
+        },
+        {
+          "option": "x = 2, y = 4"
+        }
+      ]
+    },
+    {
+      "question": "विलोपन विधि में क्या किया जाता है?",
+      "options": [
+        {
+          "option": "आलेख खींचा जाता है"
+        },
+        {
+          "option": "मानों का अनुमान लगाया जाता है"
+        },
+        {
+          "option": "मैट्रिक्स का उपयोग किया जाता है"
+        },
+        {
+          "option": "एक चर को हटाया जाता है",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "हल करें: 7x + 3y = 15 और 2x + 3y = 5.",
+      "options": [
+        {
+          "option": "x = 2, y = 0"
+        },
+        {
+          "option": "x = 2, y = 1/3",
+          "is_answer": true
+        },
+        {
+          "option": "x = 1, y = 1"
+        },
+        {
+          "option": "x = 3, y = -2"
+        }
+      ]
+    },
+    {
+      "question": "द्विघात समीकरण ax^2 + bx + c = 0 के लिए, मूलों का योग क्या है?",
+      "options": [
+        {
+          "option": "-c/a"
+        },
+        {
+          "option": "-b/a",
+          "is_answer": true
+        },
+        {
+          "option": "b/a"
+        },
+        {
+          "option": "c/a"
+        }
+      ]
+    },
+    {
+      "question": "द्विघात समीकरण ax^2 + bx + c = 0 के लिए, मूलों का गुणनफल क्या है?",
+      "options": [
+        {
+          "option": "-c/a"
+        },
+        {
+          "option": "-b/a"
+        },
+        {
+          "option": "b/a"
+        },
+        {
+          "option": "c/a",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि x^2 - 5x + 6 = 0 के मूल अल्फा और बीटा हैं, तो अल्फा + बीटा क्या है?",
+      "options": [
+        {
+          "option": "-5"
+        },
+        {
+          "option": "-6"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "यदि x^2 - 5x + 6 = 0 के मूल अल्फा और बीटा हैं, तो अल्फा * बीटा क्या है?",
+      "options": [
+        {
+          "option": "-5"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "-6"
+        }
+      ]
+    },
+    {
+      "question": "त्रिघात समीकरण ax^3 + bx^2 + cx + d = 0 के लिए, मूलों का योग क्या है?",
+      "options": [
+        {
+          "option": "-d/a"
+        },
+        {
+          "option": "-b/a",
+          "is_answer": true
+        },
+        {
+          "option": "b/a"
+        },
+        {
+          "option": "c/a"
+        }
+      ]
+    },
+    {
+      "question": "त्रिघात समीकरण ax^3 + bx^2 + cx + d = 0 के लिए, मूलों का गुणनफल क्या है?",
+      "options": [
+        {
+          "option": "c/a"
+        },
+        {
+          "option": "-c/a"
+        },
+        {
+          "option": "-d/a",
+          "is_answer": true
+        },
+        {
+          "option": "d/a"
+        }
+      ]
+    },
+    {
+      "question": "2x^2 - 8x + 3 = 0 के लिए मूलों का योग ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "-4"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "1.5"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "3x^2 + 6x - 9 = 0 के लिए मूलों का गुणनफल ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "-3",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "-2"
+        }
+      ]
+    },
+    {
+      "question": "यदि मूलों का योग 7 और गुणनफल 10 है, तो द्विघात समीकरण है:",
+      "options": [
+        {
+          "option": "x^2 - 10x + 7 = 0"
+        },
+        {
+          "option": "x^2 - 7x + 10 = 0",
+          "is_answer": true
+        },
+        {
+          "option": "x^2 + 7x - 10 = 0"
+        },
+        {
+          "option": "x^2 + 7x + 10 = 0"
+        }
+      ]
+    },
+    {
+      "question": "x^2 + px + q = 0 के लिए, मूलों का योग है:",
+      "options": [
+        {
+          "option": "-q"
+        },
+        {
+          "option": "-p",
+          "is_answer": true
+        },
+        {
+          "option": "p"
+        },
+        {
+          "option": "q"
+        }
+      ]
+    },
+    {
+      "question": "यदि x^2 - 4x + k = 0 का एक मूल 2 है, तो दूसरा मूल क्या है?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "-2"
+        }
+      ]
+    },
+    {
+      "question": "ax^2 + bx + c = 0 में, यदि a=1, b=0, c=-4 है, तो मूल हैं:",
+      "options": [
+        {
+          "option": "2 and -2",
+          "is_answer": true
+        },
+        {
+          "option": "4 and -1"
+        },
+        {
+          "option": "0 and 4"
+        },
+        {
+          "option": "1 and -4"
+        }
+      ]
+    },
+    {
+      "question": "5x^2 - 10x + 2 = 0 के मूलों का योग है:",
+      "options": [
+        {
+          "option": "0.4"
+        },
+        {
+          "option": "-2"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "यदि x^2 + bx + c = 0 के मूल समान हैं, तो:",
+      "options": [
+        {
+          "option": "b^2 = c"
+        },
+        {
+          "option": "b^2 = 4c",
+          "is_answer": true
+        },
+        {
+          "option": "b^2 = -4c"
+        },
+        {
+          "option": "b = c"
+        }
+      ]
+    },
+    {
+      "question": "त्रिघात ax^3 + bx^2 + cx + d = 0 के लिए, दो-दो मूलों के गुणनफल का योग है:",
+      "options": [
+        {
+          "option": "b/a"
+        },
+        {
+          "option": "c/a",
+          "is_answer": true
+        },
+        {
+          "option": "-c/a"
+        },
+        {
+          "option": "d/a"
+        }
+      ]
+    },
+    {
+      "question": "यदि x^2 - kx + 8 = 0 के मूलों का योग 6 है, तो k क्या है?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "-6"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि 2x^2 + 5x + k = 0 के मूलों का गुणनफल 3 है, तो k क्या है?",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "1.5"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "x^2 - 7x + 12 = 0 के मूल हैं:",
+      "options": [
+        {
+          "option": "3 and 4",
+          "is_answer": true
+        },
+        {
+          "option": "1 and 12"
+        },
+        {
+          "option": "2 and 6"
+        },
+        {
+          "option": "-3 and -4"
+        }
+      ]
+    },
+    {
+      "question": "यदि अल्फा और बीटा x^2 + x + 1 = 0 के मूल हैं, तो अल्फा + बीटा है:",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "ax^2 + bx + c = 0 के लिए, मूलों के व्युत्क्रमों का योग है:",
+      "options": [
+        {
+          "option": "-b/c",
+          "is_answer": true
+        },
+        {
+          "option": "-c/b"
+        },
+        {
+          "option": "c/b"
+        },
+        {
+          "option": "b/c"
+        }
+      ]
+    },
+    {
+      "question": "x^2 + 5x + 6 के गुणनखंड क्या हैं?",
+      "options": [
+        {
+          "option": "(x+5)(x+1)"
+        },
+        {
+          "option": "(x-2)(x-3)"
+        },
+        {
+          "option": "(x+2)(x+3)",
+          "is_answer": true
+        },
+        {
+          "option": "(x+1)(x+6)"
+        }
+      ]
+    },
+    {
+      "question": "x^2 - 4x + 4 = 0 का विविक्तकर (discriminant) क्या है?",
+      "options": [
+        {
+          "option": "32"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "-16"
+        }
+      ]
+    },
+    {
+      "question": "x^2 - 9 = 0 के लिए x का मान ज्ञात कीजिए",
+      "options": [
+        {
+          "option": "3, 3"
+        },
+        {
+          "option": "9, -9"
+        },
+        {
+          "option": "3, -3",
+          "is_answer": true
+        },
+        {
+          "option": "0, 9"
+        }
+      ]
+    },
+    {
+      "question": "किसी भी द्विघात समीकरण ax^2 + bx + c = 0 को हल करने के लिए किस सूत्र का उपयोग किया जाता है?",
+      "options": [
+        {
+          "option": "(-b ± sqrt(b^2 - 4ac)) / a"
+        },
+        {
+          "option": "(-b ± sqrt(b^2 - 4ac)) / 2a",
+          "is_answer": true
+        },
+        {
+          "option": "(-b ± sqrt(b^2 + 4ac)) / 2a"
+        },
+        {
+          "option": "(b ± sqrt(b^2 - 4ac)) / 2a"
+        }
+      ]
+    },
+    {
+      "question": "x^2 - 7x + 12 का गुणनखंड कीजिए",
+      "options": [
+        {
+          "option": "(x-3)(x-4)",
+          "is_answer": true
+        },
+        {
+          "option": "(x+3)(x+4)"
+        },
+        {
+          "option": "(x-2)(x-6)"
+        },
+        {
+          "option": "(x-1)(x-12)"
+        }
+      ]
+    },
+    {
+      "question": "यदि विविक्तकर ऋणात्मक है, तो मूल (roots) कैसे होते हैं?",
+      "options": [
+        {
+          "option": "शून्य"
+        },
+        {
+          "option": "वास्तविक और समान"
+        },
+        {
+          "option": "सम्मिश्र/काल्पनिक",
+          "is_answer": true
+        },
+        {
+          "option": "वास्तविक और भिन्न"
+        }
+      ]
+    },
+    {
+      "question": "x^2 + 2x + 1 = 0 में x का मान क्या है?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "x^2 - 25 का गुणनखंड कीजिए",
+      "options": [
+        {
+          "option": "(x-25)(x+1)"
+        },
+        {
+          "option": "(x-5)(x-5)"
+        },
+        {
+          "option": "(x+5)(x+5)"
+        },
+        {
+          "option": "(x-5)(x+5)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "x^2 - 5x + 6 = 0 के मूल ज्ञात कीजिए",
+      "options": [
+        {
+          "option": "2, 3",
+          "is_answer": true
+        },
+        {
+          "option": "-2, -3"
+        },
+        {
+          "option": "1, 6"
+        },
+        {
+          "option": "-1, -6"
+        }
+      ]
+    },
+    {
+      "question": "ax^2 + bx + c = 0 के लिए मूलों का योग क्या होता है?",
+      "options": [
+        {
+          "option": "b/a"
+        },
+        {
+          "option": "-c/a"
+        },
+        {
+          "option": "-b/a",
+          "is_answer": true
+        },
+        {
+          "option": "c/a"
+        }
+      ]
+    },
+    {
+      "question": "ax^2 + bx + c = 0 के लिए मूलों का गुणनफल क्या होता है?",
+      "options": [
+        {
+          "option": "-c/a"
+        },
+        {
+          "option": "b/a"
+        },
+        {
+          "option": "c/a",
+          "is_answer": true
+        },
+        {
+          "option": "-b/a"
+        }
+      ]
+    },
+    {
+      "question": "x^2 + 4x + 4 = 0 को हल कीजिए",
+      "options": [
+        {
+          "option": "x = 2"
+        },
+        {
+          "option": "x = -2",
+          "is_answer": true
+        },
+        {
+          "option": "x = 4"
+        },
+        {
+          "option": "x = -4"
+        }
+      ]
+    },
+    {
+      "question": "इनमें से कौन सा द्विघात समीकरण है?",
+      "options": [
+        {
+          "option": "x^3 + x^2 = 0"
+        },
+        {
+          "option": "x + 5 = 0"
+        },
+        {
+          "option": "1/x + 2 = 0"
+        },
+        {
+          "option": "x^2 + 3x + 2 = 0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "2x^2 + 5x + 3 का गुणनखंड कीजिए",
+      "options": [
+        {
+          "option": "(2x+3)(x+1)",
+          "is_answer": true
+        },
+        {
+          "option": "(2x-3)(x-1)"
+        },
+        {
+          "option": "(2x+3)(x-1)"
+        },
+        {
+          "option": "(2x+1)(x+3)"
+        }
+      ]
+    },
+    {
+      "question": "यदि b^2 - 4ac > 0 है, तो मूल कैसे होते हैं?",
+      "options": [
+        {
+          "option": "वास्तविक और भिन्न",
+          "is_answer": true
+        },
+        {
+          "option": "अपरिभाषित"
+        },
+        {
+          "option": "वास्तविक और समान"
+        },
+        {
+          "option": "सम्मिश्र"
+        }
+      ]
+    },
+    {
+      "question": "x^2 - 6x + 9 = 0 को हल कीजिए",
+      "options": [
+        {
+          "option": "x = 6"
+        },
+        {
+          "option": "x = 9"
+        },
+        {
+          "option": "x = -3"
+        },
+        {
+          "option": "x = 3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "3x^2 - 7x + 2 = 0 में x का गुणांक क्या है?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "-7",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "x^2 + 8x + 16 का गुणनखंड कीजिए",
+      "options": [
+        {
+          "option": "(x+2)(x+8)"
+        },
+        {
+          "option": "(x+4)(x-4)"
+        },
+        {
+          "option": "(x+4)^2",
+          "is_answer": true
+        },
+        {
+          "option": "(x+8)^2"
+        }
+      ]
+    },
+    {
+      "question": "द्विघात सूत्र किस विधि से प्राप्त किया जाता है?",
+      "options": [
+        {
+          "option": "पूर्ण वर्ग बनाने की विधि",
+          "is_answer": true
+        },
+        {
+          "option": "गुणनखंड"
+        },
+        {
+          "option": "संश्लेषित विभाजन"
+        },
+        {
+          "option": "आलेख"
+        }
+      ]
+    },
+    {
+      "question": "x^2 - x - 2 = 0 को हल कीजिए",
+      "options": [
+        {
+          "option": "1, 2"
+        },
+        {
+          "option": "2, -1",
+          "is_answer": true
+        },
+        {
+          "option": "-1, -2"
+        },
+        {
+          "option": "-2, 1"
+        }
+      ]
+    },
+    {
+      "question": "असमानता x - 5 > 0 के लिए समाधान सेट क्या है?",
+      "options": [
+        {
+          "option": "(-∞, 5]"
+        },
+        {
+          "option": "(5, ∞)",
+          "is_answer": true
+        },
+        {
+          "option": "(-∞, 5)"
+        },
+        {
+          "option": "[5, ∞)"
+        }
+      ]
+    },
+    {
+      "question": "असमानता 2x + 4 ≤ 0 को हल करें।",
+      "options": [
+        {
+          "option": "[-2, ∞)"
+        },
+        {
+          "option": "(-∞, -2]",
+          "is_answer": true
+        },
+        {
+          "option": "(-∞, 2]"
+        },
+        {
+          "option": "[2, ∞)"
+        }
+      ]
+    },
+    {
+      "question": "x² - 9 < 0 का समाधान क्या है?",
+      "options": [
+        {
+          "option": "(-3, 3]"
+        },
+        {
+          "option": "(-∞, -3) ∪ (3, ∞)"
+        },
+        {
+          "option": "[-3, 3)"
+        },
+        {
+          "option": "(-3, 3)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "x के लिए हल करें: x² - 5x + 6 ≥ 0.",
+      "options": [
+        {
+          "option": "(-∞, 2) ∪ (3, ∞)"
+        },
+        {
+          "option": "[2, 3]"
+        },
+        {
+          "option": "(-∞, 2] ∪ [3, ∞)",
+          "is_answer": true
+        },
+        {
+          "option": "(2, 3)"
+        }
+      ]
+    },
+    {
+      "question": "कौन सा अंतराल (x - 1)(x + 2) < 0 को संतुष्ट करता है?",
+      "options": [
+        {
+          "option": "[-2, 1)"
+        },
+        {
+          "option": "(-2, 1]"
+        },
+        {
+          "option": "(-∞, -2) ∪ (1, ∞)"
+        },
+        {
+          "option": "(-2, 1)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "असमानता -x + 3 > 0 को हल करें।",
+      "options": [
+        {
+          "option": "[3, ∞)"
+        },
+        {
+          "option": "(-∞, 3)",
+          "is_answer": true
+        },
+        {
+          "option": "(-∞, 3]"
+        },
+        {
+          "option": "(3, ∞)"
+        }
+      ]
+    },
+    {
+      "question": "x² + 4 > 0 का समाधान क्या है?",
+      "options": [
+        {
+          "option": "(-∞, 0)"
+        },
+        {
+          "option": "रिक्त समुच्चय"
+        },
+        {
+          "option": "(-∞, ∞)",
+          "is_answer": true
+        },
+        {
+          "option": "(0, ∞)"
+        }
+      ]
+    },
+    {
+      "question": "हल करें: (x - 4)² ≤ 0.",
+      "options": [
+        {
+          "option": "[4, ∞)"
+        },
+        {
+          "option": "{4}",
+          "is_answer": true
+        },
+        {
+          "option": "रिक्त समुच्चय"
+        },
+        {
+          "option": "(-∞, 4]"
+        }
+      ]
+    },
+    {
+      "question": "x² - 2x - 8 ≤ 0 के लिए समाधान सेट ज्ञात करें।",
+      "options": [
+        {
+          "option": "(-∞, -2] ∪ [4, ∞)"
+        },
+        {
+          "option": "(-∞, -2) ∪ (4, ∞)"
+        },
+        {
+          "option": "(-2, 4)"
+        },
+        {
+          "option": "[-2, 4]",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "हल करें: x² + x - 6 > 0.",
+      "options": [
+        {
+          "option": "(-∞, -3) ∪ (2, ∞)",
+          "is_answer": true
+        },
+        {
+          "option": "(-3, 2)"
+        },
+        {
+          "option": "[-3, 2]"
+        },
+        {
+          "option": "(-∞, -3] ∪ [2, ∞)"
+        }
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा 3x - 6 < 0 का समाधान है?",
+      "options": [
+        {
+          "option": "(2, ∞)"
+        },
+        {
+          "option": "(-∞, 2]"
+        },
+        {
+          "option": "[2, ∞)"
+        },
+        {
+          "option": "(-∞, 2)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "हल करें: x² - 1 > 0.",
+      "options": [
+        {
+          "option": "(-∞, -1) ∪ (1, ∞)",
+          "is_answer": true
+        },
+        {
+          "option": "[-1, 1]"
+        },
+        {
+          "option": "(-∞, -1] ∪ [1, ∞)"
+        },
+        {
+          "option": "(-1, 1)"
+        }
+      ]
+    },
+    {
+      "question": "(x + 5)(x - 2) ≥ 0 का समाधान क्या है?",
+      "options": [
+        {
+          "option": "[-5, 2]"
+        },
+        {
+          "option": "(-∞, -5] ∪ [2, ∞)",
+          "is_answer": true
+        },
+        {
+          "option": "(-∞, -5) ∪ (2, ∞)"
+        },
+        {
+          "option": "(-5, 2)"
+        }
+      ]
+    },
+    {
+      "question": "हल करें: -2x + 8 ≤ 0.",
+      "options": [
+        {
+          "option": "[4, ∞)",
+          "is_answer": true
+        },
+        {
+          "option": "(4, ∞)"
+        },
+        {
+          "option": "(-∞, 4)"
+        },
+        {
+          "option": "(-∞, 4]"
+        }
+      ]
+    },
+    {
+      "question": "x² + 2x + 1 ≤ 0 के लिए समाधान ज्ञात करें।",
+      "options": [
+        {
+          "option": "(-∞, -1]"
+        },
+        {
+          "option": "[-1, ∞)"
+        },
+        {
+          "option": "{-1}",
+          "is_answer": true
+        },
+        {
+          "option": "रिक्त समुच्चय"
+        }
+      ]
+    },
+    {
+      "question": "हल करें: x² - 4x + 4 > 0.",
+      "options": [
+        {
+          "option": "[2, ∞)"
+        },
+        {
+          "option": "(-∞, 2]"
+        },
+        {
+          "option": "सभी वास्तविक संख्याएँ"
+        },
+        {
+          "option": "(-∞, 2) ∪ (2, ∞)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "(x - 3)(x + 4) ≤ 0 का समाधान क्या है?",
+      "options": [
+        {
+          "option": "(-4, 3)"
+        },
+        {
+          "option": "(-∞, -4] ∪ [3, ∞)"
+        },
+        {
+          "option": "(-∞, -4) ∪ (3, ∞)"
+        },
+        {
+          "option": "[-4, 3]",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "हल करें: 5x - 10 > 0.",
+      "options": [
+        {
+          "option": "(-∞, 2]"
+        },
+        {
+          "option": "[2, ∞)"
+        },
+        {
+          "option": "(2, ∞)",
+          "is_answer": true
+        },
+        {
+          "option": "(-∞, 2)"
+        }
+      ]
+    },
+    {
+      "question": "हल करें: x² - 7x + 10 < 0.",
+      "options": [
+        {
+          "option": "(2, 5)",
+          "is_answer": true
+        },
+        {
+          "option": "[2, 5]"
+        },
+        {
+          "option": "(-∞, 2) ∪ (5, ∞)"
+        },
+        {
+          "option": "(-∞, 2] ∪ [5, ∞)"
+        }
+      ]
+    },
+    {
+      "question": "x² + 9 < 0 का समाधान क्या है?",
+      "options": [
+        {
+          "option": "(-∞, 0)"
+        },
+        {
+          "option": "सभी वास्तविक संख्याएँ"
+        },
+        {
+          "option": "रिक्त समुच्चय",
+          "is_answer": true
+        },
+        {
+          "option": "(0, ∞)"
+        }
+      ]
+    },
+    {
+      "question": "सरल करें: a^3 * a^2",
+      "options": [
+        {
+          "option": "a^6"
+        },
+        {
+          "option": "a^1"
+        },
+        {
+          "option": "a^5",
+          "is_answer": true
+        },
+        {
+          "option": "a^9"
+        }
+      ]
+    },
+    {
+      "question": "सरल करें: (a^2)^3",
+      "options": [
+        {
+          "option": "a^6",
+          "is_answer": true
+        },
+        {
+          "option": "a^5"
+        },
+        {
+          "option": "a^8"
+        },
+        {
+          "option": "a^1"
+        }
+      ]
+    },
+    {
+      "question": "सरल करें: a^7 / a^3",
+      "options": [
+        {
+          "option": "a^10"
+        },
+        {
+          "option": "a^21"
+        },
+        {
+          "option": "a^4",
+          "is_answer": true
+        },
+        {
+          "option": "a^3"
+        }
+      ]
+    },
+    {
+      "question": "x के लिए हल करें: 2^x = 8",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "किसी भी गैर-शून्य संख्या की घात 0 होने पर उसका मान क्या होता है?",
+      "options": [
+        {
+          "option": "अपरिभाषित"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "संख्या स्वयं"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "सरल करें: 3^2 * 3^4",
+      "options": [
+        {
+          "option": "9^6"
+        },
+        {
+          "option": "3^8"
+        },
+        {
+          "option": "3^2"
+        },
+        {
+          "option": "3^6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "x के लिए हल करें: 5^x = 25",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "सरल करें: (x^3 * x^4) / x^2",
+      "options": [
+        {
+          "option": "x^1"
+        },
+        {
+          "option": "x^6"
+        },
+        {
+          "option": "x^5",
+          "is_answer": true
+        },
+        {
+          "option": "x^7"
+        }
+      ]
+    },
+    {
+      "question": "x के लिए हल करें: 3^(x+1) = 9",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "सरल करें: (2^3)^2",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "64",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "a^m * a^n को सरल करने के लिए किस नियम का उपयोग किया जाता है?",
+      "options": [
+        {
+          "option": "a^(m-n)"
+        },
+        {
+          "option": "a^(m+n)",
+          "is_answer": true
+        },
+        {
+          "option": "a^(mn)"
+        },
+        {
+          "option": "a^(m/n)"
+        }
+      ]
+    },
+    {
+      "question": "x के लिए हल करें: 4^x = 64",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "सरल करें: 10^5 / 10^2",
+      "options": [
+        {
+          "option": "10^7"
+        },
+        {
+          "option": "10^2.5"
+        },
+        {
+          "option": "10^3",
+          "is_answer": true
+        },
+        {
+          "option": "10^10"
+        }
+      ]
+    },
+    {
+      "question": "2^4 का मान क्या है?",
+      "options": [
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "सरल करें: (x^2 * y^3)^2",
+      "options": [
+        {
+          "option": "x^2 * y^6"
+        },
+        {
+          "option": "x^4 * y^6",
+          "is_answer": true
+        },
+        {
+          "option": "x^4 * y^3"
+        },
+        {
+          "option": "x^4 * y^5"
+        }
+      ]
+    },
+    {
+      "question": "x के लिए हल करें: 2^(x-1) = 4",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "सरल करें: (a^5)^0",
+      "options": [
+        {
+          "option": "a^5"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "a^0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "सरल करें: 2^3 * 2^2 * 2^1",
+      "options": [
+        {
+          "option": "8^6"
+        },
+        {
+          "option": "2^5"
+        },
+        {
+          "option": "2^9"
+        },
+        {
+          "option": "2^6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "x के लिए हल करें: 10^x = 1000",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "सरल करें: x^a / x^b",
+      "options": [
+        {
+          "option": "x^(ab)"
+        },
+        {
+          "option": "x^(a-b)",
+          "is_answer": true
+        },
+        {
+          "option": "x^(a/b)"
+        },
+        {
+          "option": "x^(a+b)"
+        }
+      ]
+    },
+    {
+      "question": "x के लिए हल करें: |x - 5| = 3",
+      "options": [
+        {
+          "option": "x = 8, x = 2",
+          "is_answer": true
+        },
+        {
+          "option": "x = 3, x = -3"
+        },
+        {
+          "option": "x = 8, x = -2"
+        },
+        {
+          "option": "x = -8, x = 2"
+        }
+      ]
+    },
+    {
+      "question": "असमानता हल करें: |x| < 4",
+      "options": [
+        {
+          "option": "x < 4"
+        },
+        {
+          "option": "-4 < x < 4",
+          "is_answer": true
+        },
+        {
+          "option": "x > -4"
+        },
+        {
+          "option": "x < 4 या x > -4"
+        }
+      ]
+    },
+    {
+      "question": "x के लिए हल करें: |2x + 1| = 7",
+      "options": [
+        {
+          "option": "x = 3, x = -4",
+          "is_answer": true
+        },
+        {
+          "option": "x = -3, x = 4"
+        },
+        {
+          "option": "x = 3, x = 4"
+        },
+        {
+          "option": "x = 7, x = -7"
+        }
+      ]
+    },
+    {
+      "question": "|x - 2| > 5 का समाधान क्या है?",
+      "options": [
+        {
+          "option": "x > 7 या x < -3",
+          "is_answer": true
+        },
+        {
+          "option": "x < -3"
+        },
+        {
+          "option": "-3 < x < 7"
+        },
+        {
+          "option": "x > 7"
+        }
+      ]
+    },
+    {
+      "question": "हल करें: |x + 3| = 0",
+      "options": [
+        {
+          "option": "x = 3"
+        },
+        {
+          "option": "x = 0"
+        },
+        {
+          "option": "कोई समाधान नहीं"
+        },
+        {
+          "option": "x = -3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "हल करें: |x - 1| = -2",
+      "options": [
+        {
+          "option": "x = 3, x = -1"
+        },
+        {
+          "option": "x = 1, x = -2"
+        },
+        {
+          "option": "x = -1"
+        },
+        {
+          "option": "कोई समाधान नहीं",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "हल करें: |3x - 6| = 9",
+      "options": [
+        {
+          "option": "x = 1, x = -5"
+        },
+        {
+          "option": "x = 9, x = -9"
+        },
+        {
+          "option": "x = 3, x = -3"
+        },
+        {
+          "option": "x = 5, x = -1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "हल करें: |x + 4| < 2",
+      "options": [
+        {
+          "option": "x > -6"
+        },
+        {
+          "option": "-2 < x < 2"
+        },
+        {
+          "option": "x < -2"
+        },
+        {
+          "option": "-6 < x < -2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "हल करें: |2x - 4| = 0",
+      "options": [
+        {
+          "option": "x = 4"
+        },
+        {
+          "option": "x = 0"
+        },
+        {
+          "option": "x = 2",
+          "is_answer": true
+        },
+        {
+          "option": "x = -2"
+        }
+      ]
+    },
+    {
+      "question": "हल करें: |x + 5| > 3",
+      "options": [
+        {
+          "option": "-8 < x < -2"
+        },
+        {
+          "option": "x > -2 या x < -8",
+          "is_answer": true
+        },
+        {
+          "option": "x < -8"
+        },
+        {
+          "option": "x > -2"
+        }
+      ]
+    },
+    {
+      "question": "x का कौन सा मान |x - 3| = 5 को संतुष्ट करता है?",
+      "options": [
+        {
+          "option": "x = 8",
+          "is_answer": true
+        },
+        {
+          "option": "x = 2"
+        },
+        {
+          "option": "x = 5"
+        },
+        {
+          "option": "x = -5"
+        }
+      ]
+    },
+    {
+      "question": "हल करें: |x| = 7",
+      "options": [
+        {
+          "option": "x = 7"
+        },
+        {
+          "option": "x = 7, x = -7",
+          "is_answer": true
+        },
+        {
+          "option": "कोई समाधान नहीं"
+        },
+        {
+          "option": "x = -7"
+        }
+      ]
+    },
+    {
+      "question": "हल करें: |x - 1| < 3",
+      "options": [
+        {
+          "option": "x > -2"
+        },
+        {
+          "option": "x < 4"
+        },
+        {
+          "option": "-2 < x < 4",
+          "is_answer": true
+        },
+        {
+          "option": "x < 3"
+        }
+      ]
+    },
+    {
+      "question": "हल करें: |2x + 4| = 6",
+      "options": [
+        {
+          "option": "x = -1, x = 5"
+        },
+        {
+          "option": "x = 1, x = -5",
+          "is_answer": true
+        },
+        {
+          "option": "x = 2, x = -2"
+        },
+        {
+          "option": "x = 1, x = 5"
+        }
+      ]
+    },
+    {
+      "question": "हल करें: |x - 4| > 0",
+      "options": [
+        {
+          "option": "x > 4"
+        },
+        {
+          "option": "x = 4"
+        },
+        {
+          "option": "x < 4"
+        },
+        {
+          "option": "x ≠ 4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "हल करें: |x + 2| = 5",
+      "options": [
+        {
+          "option": "x = 5, x = -2"
+        },
+        {
+          "option": "x = 3, x = -7",
+          "is_answer": true
+        },
+        {
+          "option": "x = -3, x = 7"
+        },
+        {
+          "option": "x = 3, x = 7"
+        }
+      ]
+    },
+    {
+      "question": "हल करें: |x - 6| < 1",
+      "options": [
+        {
+          "option": "x < 7"
+        },
+        {
+          "option": "x < 6"
+        },
+        {
+          "option": "x > 5"
+        },
+        {
+          "option": "5 < x < 7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "हल करें: |3x| = 12",
+      "options": [
+        {
+          "option": "x = -4"
+        },
+        {
+          "option": "x = 36, x = -36"
+        },
+        {
+          "option": "x = 4"
+        },
+        {
+          "option": "x = 4, x = -4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "हल करें: |x + 1| > 4",
+      "options": [
+        {
+          "option": "x < -5"
+        },
+        {
+          "option": "-5 < x < 3"
+        },
+        {
+          "option": "x > 3"
+        },
+        {
+          "option": "x > 3 या x < -5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "हल करें: |x - 2| = 2",
+      "options": [
+        {
+          "option": "x = 2, x = -2"
+        },
+        {
+          "option": "x = 4"
+        },
+        {
+          "option": "x = 0"
+        },
+        {
+          "option": "x = 4, x = 0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "(a + b)^2 का विस्तार क्या है?",
+      "options": [
+        {
+          "option": "a^2 + ab + b^2"
+        },
+        {
+          "option": "a^2 - 2ab + b^2"
+        },
+        {
+          "option": "a^2 + 2ab + b^2",
+          "is_answer": true
+        },
+        {
+          "option": "a^2 + 2ab - b^2"
+        }
+      ]
+    },
+    {
+      "question": "(a - b)^2 का विस्तार क्या है?",
+      "options": [
+        {
+          "option": "a^2 - ab + b^2"
+        },
+        {
+          "option": "a^2 + 2ab + b^2"
+        },
+        {
+          "option": "a^2 - 2ab - b^2"
+        },
+        {
+          "option": "a^2 - 2ab + b^2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "(a + b + c)^2 का विस्तार क्या है?",
+      "options": [
+        {
+          "option": "a^2 + b^2 + c^2 - 2ab - 2bc - 2ca"
+        },
+        {
+          "option": "a^2 + b^2 + c^2 + 2ab + 2bc - 2ca"
+        },
+        {
+          "option": "a^2 + b^2 + c^2 + ab + bc + ca"
+        },
+        {
+          "option": "a^2 + b^2 + c^2 + 2ab + 2bc + 2ca",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "(a + b)^3 का विस्तार क्या है?",
+      "options": [
+        {
+          "option": "a^3 - 3a^2b + 3ab^2 - b^3"
+        },
+        {
+          "option": "a^3 + a^2b + ab^2 + b^3"
+        },
+        {
+          "option": "a^3 + 3a^2b - 3ab^2 + b^3"
+        },
+        {
+          "option": "a^3 + 3a^2b + 3ab^2 + b^3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "(a - b)^3 का विस्तार क्या है?",
+      "options": [
+        {
+          "option": "a^3 + 3a^2b + 3ab^2 + b^3"
+        },
+        {
+          "option": "a^3 - a^2b + ab^2 - b^3"
+        },
+        {
+          "option": "a^3 - 3a^2b - 3ab^2 - b^3"
+        },
+        {
+          "option": "a^3 - 3a^2b + 3ab^2 - b^3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "x^2 + 6x + 9 का गुणनखंड कीजिए।",
+      "options": [
+        {
+          "option": "(x + 6)^2"
+        },
+        {
+          "option": "(x + 3)^2",
+          "is_answer": true
+        },
+        {
+          "option": "(x + 9)^2"
+        },
+        {
+          "option": "(x + 3)(x - 3)"
+        }
+      ]
+    },
+    {
+      "question": "x^2 - 10x + 25 का गुणनखंड कीजिए।",
+      "options": [
+        {
+          "option": "(x - 5)^2",
+          "is_answer": true
+        },
+        {
+          "option": "(x - 5)(x + 5)"
+        },
+        {
+          "option": "(x + 5)^2"
+        },
+        {
+          "option": "(x - 10)^2"
+        }
+      ]
+    },
+    {
+      "question": "सर्वसमिका का उपयोग करके (101)^2 का मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "10201",
+          "is_answer": true
+        },
+        {
+          "option": "10101"
+        },
+        {
+          "option": "10001"
+        },
+        {
+          "option": "10401"
+        }
+      ]
+    },
+    {
+      "question": "सर्वसमिका का उपयोग करके (99)^2 का मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "9601"
+        },
+        {
+          "option": "9801",
+          "is_answer": true
+        },
+        {
+          "option": "9901"
+        },
+        {
+          "option": "9701"
+        }
+      ]
+    },
+    {
+      "question": "(2x + 3y)^2 का विस्तार कीजिए।",
+      "options": [
+        {
+          "option": "4x^2 + 12xy + 9y^2",
+          "is_answer": true
+        },
+        {
+          "option": "4x^2 + 6xy + 9y^2"
+        },
+        {
+          "option": "4x^2 + 12xy + 3y^2"
+        },
+        {
+          "option": "2x^2 + 12xy + 3y^2"
+        }
+      ]
+    },
+    {
+      "question": "(x - 2y)^3 का विस्तार कीजिए।",
+      "options": [
+        {
+          "option": "x^3 - 3x^2y + 3xy^2 - 2y^3"
+        },
+        {
+          "option": "x^3 - 6x^2y + 6xy^2 - 8y^3"
+        },
+        {
+          "option": "x^3 - 6x^2y + 12xy^2 - 8y^3",
+          "is_answer": true
+        },
+        {
+          "option": "x^3 - 2x^2y + 4xy^2 - 8y^3"
+        }
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन (a + b)^3 - (a - b)^3 के बराबर है?",
+      "options": [
+        {
+          "option": "2b^3 - 6a^2b"
+        },
+        {
+          "option": "2a^3 + 6ab^2"
+        },
+        {
+          "option": "2b^3 + 6a^2b",
+          "is_answer": true
+        },
+        {
+          "option": "6a^2b - 2b^3"
+        }
+      ]
+    },
+    {
+      "question": "यदि a+b+c=0 है, तो a^3+b^3+c^3 किसके बराबर है?",
+      "options": [
+        {
+          "option": "abc"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "3abc",
+          "is_answer": true
+        },
+        {
+          "option": "-3abc"
+        }
+      ]
+    },
+    {
+      "question": "(a + 2b + 3c)^2 का विस्तार कीजिए।",
+      "options": [
+        {
+          "option": "a^2 + 4b^2 + 9c^2 + 4ab + 12bc + 6ac",
+          "is_answer": true
+        },
+        {
+          "option": "a^2 + 4b^2 + 9c^2 + 4ab + 6bc + 12ac"
+        },
+        {
+          "option": "a^2 + 2b^2 + 3c^2 + 4ab + 6bc + 3ac"
+        },
+        {
+          "option": "a^2 + 4b^2 + 9c^2 + 2ab + 6bc + 3ac"
+        }
+      ]
+    },
+    {
+      "question": "(x+y)^2 - (x-y)^2 का सरलीकृत रूप क्या है?",
+      "options": [
+        {
+          "option": "4xy",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "2xy"
+        },
+        {
+          "option": "2x^2 + 2y^2"
+        }
+      ]
+    },
+    {
+      "question": "8x^3 + y^3 का गुणनखंड कीजिए।",
+      "options": [
+        {
+          "option": "(2x + y)(4x^2 - 2xy + y^2)",
+          "is_answer": true
+        },
+        {
+          "option": "(2x - y)(4x^2 + 2xy + y^2)"
+        },
+        {
+          "option": "(2x + y)(4x^2 + 2xy + y^2)"
+        },
+        {
+          "option": "(2x + y)(2x^2 - 2xy + y^2)"
+        }
+      ]
+    },
+    {
+      "question": "(3a - 1)^3 का विस्तार कीजिए।",
+      "options": [
+        {
+          "option": "27a^3 - 27a^2 + 9a - 1",
+          "is_answer": true
+        },
+        {
+          "option": "9a^3 - 27a^2 + 9a - 1"
+        },
+        {
+          "option": "27a^3 - 27a^2 + 3a - 1"
+        },
+        {
+          "option": "27a^3 - 9a^2 + 3a - 1"
+        }
+      ]
+    },
+    {
+      "question": "(a-b)^2 + (a+b)^2 का मान क्या है?",
+      "options": [
+        {
+          "option": "2(a^2 + b^2)",
+          "is_answer": true
+        },
+        {
+          "option": "4ab"
+        },
+        {
+          "option": "2(a^2 - b^2)"
+        },
+        {
+          "option": "a^2 + b^2"
+        }
+      ]
+    },
+    {
+      "question": "(x + 1/x)^2 का विस्तार कीजिए।",
+      "options": [
+        {
+          "option": "x^2 + 2 + 1/x"
+        },
+        {
+          "option": "x^2 + 2 + 1/x^2",
+          "is_answer": true
+        },
+        {
+          "option": "x^2 + 2x + 1/x^2"
+        },
+        {
+          "option": "x^2 + 1 + 1/x^2"
+        }
+      ]
+    },
+    {
+      "question": "x^2 - y^2 का गुणनखंड कीजिए।",
+      "options": [
+        {
+          "option": "(x - y)(x + y)",
+          "is_answer": true
+        },
+        {
+          "option": "(x + y)(x + y)"
+        },
+        {
+          "option": "(x - y)(x - y)"
+        },
+        {
+          "option": "x^2 - 2xy + y^2"
+        }
+      ]
+    },
+    {
+      "question": "√75 का सरलीकरण करें।",
+      "options": [
+        {
+          "option": "3√5"
+        },
+        {
+          "option": "15√5"
+        },
+        {
+          "option": "25√3"
+        },
+        {
+          "option": "5√3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "(3 + √2) का संयुग्मी (conjugate) क्या है?",
+      "options": [
+        {
+          "option": "-3 - √2"
+        },
+        {
+          "option": "-3 + √2"
+        },
+        {
+          "option": "3 - √2",
+          "is_answer": true
+        },
+        {
+          "option": "3 + √2"
+        }
+      ]
+    },
+    {
+      "question": "1/√2 के हर का परिमेयकरण करें।",
+      "options": [
+        {
+          "option": "2√2"
+        },
+        {
+          "option": "√2/2",
+          "is_answer": true
+        },
+        {
+          "option": "√2"
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "x के लिए हल करें: √x = 5.",
+      "options": [
+        {
+          "option": "25",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "125"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "√20 + √45 का सरलीकरण करें।",
+      "options": [
+        {
+          "option": "2√5 + 3√5"
+        },
+        {
+          "option": "√65"
+        },
+        {
+          "option": "25√5"
+        },
+        {
+          "option": "5√5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "(√3)² का मान क्या है?",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "√3"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "1/(√3 - √2) का परिमेयकरण करें।",
+      "options": [
+        {
+          "option": "√3 + √2",
+          "is_answer": true
+        },
+        {
+          "option": "√3 - √2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "√2 - √3"
+        }
+      ]
+    },
+    {
+      "question": "√8 * √2 का सरलीकरण करें।",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "√16"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "x के लिए हल करें: √(x + 1) = 3.",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "√12 / √3 का सरलीकरण करें।",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "√4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "√5 - 2 का संयुग्मी क्या है?",
+      "options": [
+        {
+          "option": "√5 + 2",
+          "is_answer": true
+        },
+        {
+          "option": "√5 - 2"
+        },
+        {
+          "option": "2 - √5"
+        },
+        {
+          "option": "-√5 - 2"
+        }
+      ]
+    },
+    {
+      "question": "3√2 + 4√2 का सरलीकरण करें।",
+      "options": [
+        {
+          "option": "7√2",
+          "is_answer": true
+        },
+        {
+          "option": "12√2"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "7√4"
+        }
+      ]
+    },
+    {
+      "question": "√(16 + 9) का मान ज्ञात करें।",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "4 + 3"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "2/√5 का परिमेयकरण करें।",
+      "options": [
+        {
+          "option": "5/2"
+        },
+        {
+          "option": "2√5"
+        },
+        {
+          "option": "√5/2"
+        },
+        {
+          "option": "2√5/5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "√27 - √12 का सरलीकरण करें।",
+      "options": [
+        {
+          "option": "√15"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "3√3"
+        },
+        {
+          "option": "√3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "x के लिए हल करें: √x + 2 = 5.",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "√a * √b क्या होता है?",
+      "options": [
+        {
+          "option": "√(ab)",
+          "is_answer": true
+        },
+        {
+          "option": "√(a+b)"
+        },
+        {
+          "option": "b√a"
+        },
+        {
+          "option": "a√b"
+        }
+      ]
+    },
+    {
+      "question": "(√2 + 1)(√2 - 1) का सरलीकरण करें।",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "√2"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "1/(2 + √3) का परिमेयकरण करें।",
+      "options": [
+        {
+          "option": "√3 - 2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2 - √3",
+          "is_answer": true
+        },
+        {
+          "option": "2 + √3"
+        }
+      ]
+    },
+    {
+      "question": "√50 का सरलीकरण करें।",
+      "options": [
+        {
+          "option": "25√2"
+        },
+        {
+          "option": "10√5"
+        },
+        {
+          "option": "5√2",
+          "is_answer": true
+        },
+        {
+          "option": "2√5"
+        }
+      ]
+    },
+    {
+      "question": "यदि a + b + c = 0 है, तो a^3 + b^3 + c^3 का मान क्या होगा?",
+      "options": [
+        {
+          "option": "abc"
+        },
+        {
+          "option": "3abc",
+          "is_answer": true
+        },
+        {
+          "option": "-3abc"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "a^3 + b^3 + c^3 - 3abc का विस्तारित रूप क्या है?",
+      "options": [
+        {
+          "option": "(a+b+c)(a^2+b^2+c^2+ab+bc+ca)"
+        },
+        {
+          "option": "(a+b+c)(a^2+b^2+c^2)"
+        },
+        {
+          "option": "(a+b+c)(a^2+b^2+c^2-ab-bc-ca)",
+          "is_answer": true
+        },
+        {
+          "option": "(a-b-c)(a^2+b^2+c^2-ab-bc-ca)"
+        }
+      ]
+    },
+    {
+      "question": "यदि a=1, b=2, c=-3 है, तो a^3 + b^3 + c^3 - 3abc का मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "-18"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "मान ज्ञात कीजिए: 10^3 + 5^3 + (-15)^3.",
+      "options": [
+        {
+          "option": "-2250",
+          "is_answer": true
+        },
+        {
+          "option": "1125"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "2250"
+        }
+      ]
+    },
+    {
+      "question": "यदि a+b+c=0 है, तो (a^3+b^3+c^3)/abc का मान क्या होगा?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "-3"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा a^3 + b^3 + c^3 - 3abc का एक गुणनखंड है?",
+      "options": [
+        {
+          "option": "a-b-c"
+        },
+        {
+          "option": "a+b-c"
+        },
+        {
+          "option": "abc"
+        },
+        {
+          "option": "a+b+c",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि a^3 + b^3 + c^3 = 3abc है और a+b+c शून्य नहीं है, तो क्या सत्य होना चाहिए?",
+      "options": [
+        {
+          "option": "abc=0"
+        },
+        {
+          "option": "a^2+b^2+c^2=0"
+        },
+        {
+          "option": "a+b=c"
+        },
+        {
+          "option": "a=b=c",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "(x-y)^3 + (y-z)^3 + (z-x)^3 का मान क्या है?",
+      "options": [
+        {
+          "option": "-3(x-y)(y-z)(z-x)"
+        },
+        {
+          "option": "(x-y)(y-z)(z-x)"
+        },
+        {
+          "option": "3(x-y)(y-z)(z-x)",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "यदि a=25, b=-15, c=-10 है, तो a^3 + b^3 + c^3 ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "11250",
+          "is_answer": true
+        },
+        {
+          "option": "-11250"
+        },
+        {
+          "option": "2250"
+        }
+      ]
+    },
+    {
+      "question": "क्या व्यंजक a^3 + b^3 + c^3 - 3abc को 1/2(a+b+c)[(a-b)^2 + (b-c)^2 + (c-a)^2] के रूप में लिखा जा सकता है?",
+      "options": [
+        {
+          "option": "असत्य"
+        },
+        {
+          "option": "केवल यदि a=b=c"
+        },
+        {
+          "option": "केवल यदि a+b+c=0"
+        },
+        {
+          "option": "सत्य",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि a+b+c=0 है, तो a^3+b^3+c^3 का मान क्या होगा?",
+      "options": [
+        {
+          "option": "abc"
+        },
+        {
+          "option": "a^3+b^3+c^3"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "3abc",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "(1/2)^3 + (1/3)^3 - (5/6)^3 का मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "3/36"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-3/36",
+          "is_answer": true
+        },
+        {
+          "option": "1/6"
+        }
+      ]
+    },
+    {
+      "question": "यदि a+b+c=0 है, तो (a^2/bc) + (b^2/ac) + (c^2/ab) का मान क्या होगा?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "abc"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "यदि a+b+c=10 और a^2+b^2+c^2-ab-bc-ca=5 है, तो a^3 + b^3 + c^3 - 3abc का मान क्या होगा?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "50",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "यदि a=x-y, b=y-z, c=z-x है, तो a^3+b^3+c^3 का मान क्या होगा?",
+      "options": [
+        {
+          "option": "(x-y)(y-z)(z-x)"
+        },
+        {
+          "option": "x^3+y^3+z^3"
+        },
+        {
+          "option": "3(x-y)(y-z)(z-x)",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "a^3 + b^3 + c^3 - 3abc का गुणनखंड करने के लिए किस सर्वसमिका का उपयोग किया जाता है?",
+      "options": [
+        {
+          "option": "(a+b+c)(a^2+b^2+c^2+3abc)"
+        },
+        {
+          "option": "(a+b+c)(a^2+b^2+c^2-ab-bc-ca)",
+          "is_answer": true
+        },
+        {
+          "option": "(a+b+c)(a^2+b^2+c^2)"
+        },
+        {
+          "option": "(a+b+c)^3"
+        }
+      ]
+    },
+    {
+      "question": "यदि a+b+c=0 है, तो a^3+b^3+c^3 - 3abc का मान क्या होगा?",
+      "options": [
+        {
+          "option": "3abc"
+        },
+        {
+          "option": "a+b+c"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "a^2+b^2+c^2"
+        }
+      ]
+    },
+    {
+      "question": "यदि a=10, b=10, c=-20 है, तो a^3+b^3+c^3 का मान क्या होगा?",
+      "options": [
+        {
+          "option": "-6000",
+          "is_answer": true
+        },
+        {
+          "option": "3000"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "6000"
+        }
+      ]
+    },
+    {
+      "question": "यदि a^3+b^3+c^3=3abc है और a, b, c भिन्न अशून्य संख्याएँ हैं, तो (a+b+c) का मान क्या होगा?",
+      "options": [
+        {
+          "option": "abc"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "व्यंजक a^3+b^3+c^3-3abc का मान शून्य कब होता है?",
+      "options": [
+        {
+          "option": "केवल a=b=c"
+        },
+        {
+          "option": "abc=0"
+        },
+        {
+          "option": "a+b+c=0 या a=b=c",
+          "is_answer": true
+        },
+        {
+          "option": "केवल a+b+c=0"
+        }
+      ]
+    },
+    {
+      "question": "log_b(x) + log_b(y) का मान क्या है?",
+      "options": [
+        {
+          "option": "log_b(x/y)"
+        },
+        {
+          "option": "log_b(x^y)"
+        },
+        {
+          "option": "log_b(xy)",
+          "is_answer": true
+        },
+        {
+          "option": "log_b(x+y)"
+        }
+      ]
+    },
+    {
+      "question": "log_b(x) - log_b(y) का मान क्या है?",
+      "options": [
+        {
+          "option": "log_b(xy)"
+        },
+        {
+          "option": "log_b(x-y)"
+        },
+        {
+          "option": "log_b(x/y)",
+          "is_answer": true
+        },
+        {
+          "option": "log_b(x^y)"
+        }
+      ]
+    },
+    {
+      "question": "log_b(x^k) का मान क्या है?",
+      "options": [
+        {
+          "option": "log_b(x) + k"
+        },
+        {
+          "option": "k^log_b(x)"
+        },
+        {
+          "option": "log_b(k*x)"
+        },
+        {
+          "option": "k * log_b(x)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "आधार c का उपयोग करके log_a(b) का मान क्या होगा?",
+      "options": [
+        {
+          "option": "log_c(a) / log_c(b)"
+        },
+        {
+          "option": "log_c(b) - log_c(a)"
+        },
+        {
+          "option": "log_c(b) / log_c(a)",
+          "is_answer": true
+        },
+        {
+          "option": "log_c(b) * log_c(a)"
+        }
+      ]
+    },
+    {
+      "question": "log_b(1) का मान क्या है?",
+      "options": [
+        {
+          "option": "अपरिभाषित"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "b"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "log_b(b) का मान क्या है?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "अपरिभाषित"
+        },
+        {
+          "option": "b"
+        }
+      ]
+    },
+    {
+      "question": "x के लिए हल करें: log_2(x) = 3",
+      "options": [
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "x के लिए हल करें: log_x(16) = 2",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "log_10(1000) का मान क्या है?",
+      "options": [
+        {
+          "option": "100"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "सरल करें: log_5(25) + log_5(1)",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "log_b(b^n) का मान क्या है?",
+      "options": [
+        {
+          "option": "n*b"
+        },
+        {
+          "option": "b"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "n",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "कौन सा व्यंजक 2 * log(x) के बराबर है?",
+      "options": [
+        {
+          "option": "log(2x)"
+        },
+        {
+          "option": "log(x) / 2"
+        },
+        {
+          "option": "log(x) + 2"
+        },
+        {
+          "option": "log(x^2)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "log_3(81) का मान क्या है?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "27"
+        }
+      ]
+    },
+    {
+      "question": "x के लिए हल करें: log_5(x) = 0",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "अपरिभाषित"
+        }
+      ]
+    },
+    {
+      "question": "log_2(1/8) का मान क्या है?",
+      "options": [
+        {
+          "option": "-3",
+          "is_answer": true
+        },
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "-1/3"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा सत्य है?",
+      "options": [
+        {
+          "option": "log(a/b) = log(a) / log(b)"
+        },
+        {
+          "option": "log(a+b) = log(a) + log(b)"
+        },
+        {
+          "option": "log(a*b) = log(a) + log(b)",
+          "is_answer": true
+        },
+        {
+          "option": "log(a^b) = log(a) * b"
+        }
+      ]
+    },
+    {
+      "question": "log_4(2) का मान क्या है?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "0.5",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "x के लिए हल करें: log_x(x) = 1",
+      "options": [
+        {
+          "option": "x > 0, x ≠ 1",
+          "is_answer": true
+        },
+        {
+          "option": "x = 0"
+        },
+        {
+          "option": "सभी वास्तविक संख्याएं"
+        },
+        {
+          "option": "x = 1"
+        }
+      ]
+    },
+    {
+      "question": "सरल करें: log_b(x^2) - log_b(x)",
+      "options": [
+        {
+          "option": "log_b(x^2)"
+        },
+        {
+          "option": "log_b(x-1)"
+        },
+        {
+          "option": "log_b(2)"
+        },
+        {
+          "option": "log_b(x)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "log_10(0.1) का मान क्या है?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "एक GP में जहाँ प्रथम पद a=3 और सार्व अनुपात r=2 है, उसका 5वाँ पद क्या है?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "96"
+        },
+        {
+          "option": "48",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "एक GP में जहाँ a=2 और r=3 है, उसके प्रथम 3 पदों का योग ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "54"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "26",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "a=1 और r=0.5 वाली GP का अनंत तक का योग क्या होगा?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "1.5"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "एक GP में, यदि प्रथम पद 5 और दूसरा पद 10 है, तो सार्व अनुपात r क्या है?",
+      "options": [
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "GP: 81, 27, 9, ... का 4था पद क्या है?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "27"
+        }
+      ]
+    },
+    {
+      "question": "एक अनंत GP का योग निश्चित होने के लिए, सार्व अनुपात r के बारे में क्या सत्य होना चाहिए?",
+      "options": [
+        {
+          "option": "|r| < 1",
+          "is_answer": true
+        },
+        {
+          "option": "r = 1"
+        },
+        {
+          "option": "r = 0"
+        },
+        {
+          "option": "|r| > 1"
+        }
+      ]
+    },
+    {
+      "question": "एक GP में जहाँ a=1 और r=-2 है, उसका 6ठा पद ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "32"
+        },
+        {
+          "option": "-64"
+        },
+        {
+          "option": "-32",
+          "is_answer": true
+        },
+        {
+          "option": "64"
+        }
+      ]
+    },
+    {
+      "question": "GP: 1, 2, 4, 8, ... के प्रथम 4 पदों का योग क्या है?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "31"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि एक GP का अनंत तक का योग 10 और a=5 है, तो r क्या है?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0.5",
+          "is_answer": true
+        },
+        {
+          "option": "0.25"
+        }
+      ]
+    },
+    {
+      "question": "एक GP में जहाँ a=4 और r=0.5 है, उसका 3रा पद क्या है?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "कौन सा सूत्र GP के nवें पद को दर्शाता है?",
+      "options": [
+        {
+          "option": "a+(n-1)d"
+        },
+        {
+          "option": "a/r^(n-1)"
+        },
+        {
+          "option": "a*r^n"
+        },
+        {
+          "option": "a*r^(n-1)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "10, 5, 2.5, ... का अनंत तक का योग ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि a=2 और r=2 है, तो 5वाँ पद क्या है?",
+      "options": [
+        {
+          "option": "64"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "32",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "GP: 100, -50, 25, ... का सार्व अनुपात क्या है?",
+      "options": [
+        {
+          "option": "-2"
+        },
+        {
+          "option": "-0.5",
+          "is_answer": true
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "एक GP में जहाँ a=10 और r=0.1 है, उसके प्रथम 3 पदों का योग ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "12.1"
+        },
+        {
+          "option": "10.1"
+        },
+        {
+          "option": "11.1",
+          "is_answer": true
+        },
+        {
+          "option": "11"
+        }
+      ]
+    },
+    {
+      "question": "एक GP में जहाँ a=5 और r=3 है, उसका 2रा पद क्या है?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "45"
+        }
+      ]
+    },
+    {
+      "question": "GP के n पदों के योग के लिए कौन सा सूत्र सही है (r ≠ 1)?",
+      "options": [
+        {
+          "option": "a(r^n - 1)/(r + 1)"
+        },
+        {
+          "option": "a(r^n + 1)/(r + 1)"
+        },
+        {
+          "option": "a(r^n - 1)/(r - 1)",
+          "is_answer": true
+        },
+        {
+          "option": "a(1 - r^n)/(r - 1)"
+        }
+      ]
+    },
+    {
+      "question": "यदि a=1 और r=1/3 है, तो अनंत तक का योग क्या है?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1.5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक GP में जहाँ a=2 और r=4 है, उसका 4था पद क्या है?",
+      "options": [
+        {
+          "option": "32"
+        },
+        {
+          "option": "256"
+        },
+        {
+          "option": "128",
+          "is_answer": true
+        },
+        {
+          "option": "64"
+        }
+      ]
+    },
+    {
+      "question": "यदि प्रथम पद 10 और तीसरा पद 40 है, तो सार्व अनुपात r क्या है (r > 0 मानकर)?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "AP: 2, 7, 12, ... का 10वां पद ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "42"
+        },
+        {
+          "option": "47",
+          "is_answer": true
+        },
+        {
+          "option": "57"
+        },
+        {
+          "option": "52"
+        }
+      ]
+    },
+    {
+      "question": "AP: 10, 7, 4, ... का सार्व अंतर क्या है?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "-7"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "-3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "AP: 1, 3, 5, 7, ... के प्रथम 10 पदों का योग ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "100",
+          "is_answer": true
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "110"
+        },
+        {
+          "option": "90"
+        }
+      ]
+    },
+    {
+      "question": "यदि प्रथम पद a=5 और सार्व अंतर d=2 है, तो 5वां पद क्या है?",
+      "options": [
+        {
+          "option": "11"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "13",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "AP 21, 18, 15, ... का कौन सा पद -81 है?",
+      "options": [
+        {
+          "option": "35th",
+          "is_answer": true
+        },
+        {
+          "option": "25th"
+        },
+        {
+          "option": "30th"
+        },
+        {
+          "option": "40th"
+        }
+      ]
+    },
+    {
+      "question": "प्रथम 20 प्राकृतिक संख्याओं का योग ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "220"
+        },
+        {
+          "option": "200"
+        },
+        {
+          "option": "190"
+        },
+        {
+          "option": "210",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि a=2 और d=3 है, तो प्रथम 10 पदों का योग ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "145"
+        },
+        {
+          "option": "155",
+          "is_answer": true
+        },
+        {
+          "option": "165"
+        },
+        {
+          "option": "135"
+        }
+      ]
+    },
+    {
+      "question": "AP: 5, 10, 15, ... का 20वां पद क्या है?",
+      "options": [
+        {
+          "option": "95"
+        },
+        {
+          "option": "105"
+        },
+        {
+          "option": "110"
+        },
+        {
+          "option": "100",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "AP: -5, -1, 3, 7, ... का सार्व अंतर ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "-6"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "-4"
+        }
+      ]
+    },
+    {
+      "question": "AP के प्रथम n पदों का योग किस सूत्र द्वारा दिया जाता है?",
+      "options": [
+        {
+          "option": "n * (a + d)"
+        },
+        {
+          "option": "n/2 * (2a + (n-1)d)",
+          "is_answer": true
+        },
+        {
+          "option": "n * (2a + nd)"
+        },
+        {
+          "option": "n/2 * (a + (n-1)d)"
+        }
+      ]
+    },
+    {
+      "question": "यदि तीसरा पद 5 और सातवां पद 13 है, तो सार्व अंतर क्या है?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "उस AP का 11वां पद ज्ञात कीजिए जिसका प्रथम पद -3 और सार्व अंतर 4 है।",
+      "options": [
+        {
+          "option": "41"
+        },
+        {
+          "option": "37",
+          "is_answer": true
+        },
+        {
+          "option": "33"
+        },
+        {
+          "option": "29"
+        }
+      ]
+    },
+    {
+      "question": "5 के प्रथम 10 गुणजों का योग क्या है?",
+      "options": [
+        {
+          "option": "300"
+        },
+        {
+          "option": "250"
+        },
+        {
+          "option": "275",
+          "is_answer": true
+        },
+        {
+          "option": "225"
+        }
+      ]
+    },
+    {
+      "question": "एक AP में, यदि a=10 और d=0 है, तो 100वां पद क्या है?",
+      "options": [
+        {
+          "option": "100"
+        },
+        {
+          "option": "1000"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "AP: 2, 4, 6, ..., 20 का योग ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "110",
+          "is_answer": true
+        },
+        {
+          "option": "90"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "120"
+        }
+      ]
+    },
+    {
+      "question": "यदि प्रथम n पदों का योग n^2 है, तो प्रथम पद क्या है?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "AP: 1/2, 1, 3/2, ... का 5वां पद ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "4/2"
+        },
+        {
+          "option": "5/2",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "AP: 7, 13, 19, ..., 205 में कितने पद हैं?",
+      "options": [
+        {
+          "option": "36"
+        },
+        {
+          "option": "35"
+        },
+        {
+          "option": "33"
+        },
+        {
+          "option": "34",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि सार्व अंतर -2 और प्रथम पद 10 है, तो 4था पद क्या है?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "AP के nवें पद का सूत्र क्या है?",
+      "options": [
+        {
+          "option": "a - (n-1)d"
+        },
+        {
+          "option": "a + (n-1)d",
+          "is_answer": true
+        },
+        {
+          "option": "a + (n+1)d"
+        },
+        {
+          "option": "a + nd"
+        }
+      ]
+    },
+    {
+      "question": "यदि कोई अनुक्रम हरात्मक श्रेणी (HP) में है, तो उसके व्युत्क्रम किसमें होते हैं?",
+      "options": [
+        {
+          "option": "गुणोत्तर श्रेणी (GP)"
+        },
+        {
+          "option": "इनमें से कोई नहीं"
+        },
+        {
+          "option": "हरात्मक श्रेणी (HP)"
+        },
+        {
+          "option": "समांतर श्रेणी (AP)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "किन्हीं दो धनात्मक संख्याओं a और b के लिए, AM, GM और HM के बीच क्या संबंध है?",
+      "options": [
+        {
+          "option": "AM * HM = GM^2",
+          "is_answer": true
+        },
+        {
+          "option": "AM * GM = HM^2"
+        },
+        {
+          "option": "AM + HM = 2 * GM"
+        },
+        {
+          "option": "GM * HM = AM^2"
+        }
+      ]
+    },
+    {
+      "question": "धनात्मक वास्तविक संख्याओं के लिए AM, GM और HM के बीच का संबंध कौन सी असमिका दर्शाती है?",
+      "options": [
+        {
+          "option": "AM >= HM >= GM"
+        },
+        {
+          "option": "GM >= AM >= HM"
+        },
+        {
+          "option": "HM >= GM >= AM"
+        },
+        {
+          "option": "AM >= GM >= HM",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "दो संख्याओं a और b का हरात्मक माध्य (HM) क्या है?",
+      "options": [
+        {
+          "option": "(a + b) / 2"
+        },
+        {
+          "option": "ab / (a + b)"
+        },
+        {
+          "option": "sqrt(ab)"
+        },
+        {
+          "option": "2ab / (a + b)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि एक HP का तीसरा पद 1/5 और चौथा पद 1/7 है, तो पहला पद क्या है?",
+      "options": [
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "1/11"
+        },
+        {
+          "option": "1/9"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि दो संख्याओं का AM और HM क्रमशः 16 और 9 हैं, तो उनका GM क्या है?",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "144"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "3 और 6 का हरात्मक माध्य क्या है?",
+      "options": [
+        {
+          "option": "3.5"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "4.5"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि a, b, c HP में हैं, तो b क्या है?",
+      "options": [
+        {
+          "option": "a और c का हरात्मक माध्य",
+          "is_answer": true
+        },
+        {
+          "option": "a और c का समांतर माध्य"
+        },
+        {
+          "option": "इनमें से कोई नहीं"
+        },
+        {
+          "option": "a और c का गुणोत्तर माध्य"
+        }
+      ]
+    },
+    {
+      "question": "HP के पदों का व्युत्क्रम AP बनाता है। यदि AP 1, 2, 3, 4 है, तो HP क्या है?",
+      "options": [
+        {
+          "option": "1/4, 1/3, 1/2, 1"
+        },
+        {
+          "option": "1, 2, 3, 4"
+        },
+        {
+          "option": "4, 3, 2, 1"
+        },
+        {
+          "option": "1, 1/2, 1/3, 1/4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "दो अलग-अलग धनात्मक संख्याओं के लिए, AM हमेशा:",
+      "options": [
+        {
+          "option": "HM के बराबर होता है"
+        },
+        {
+          "option": "इनमें से कोई नहीं"
+        },
+        {
+          "option": "HM से छोटा होता है"
+        },
+        {
+          "option": "HM से बड़ा होता है",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि दो संख्याओं का HM 4 और AM 9 है, तो उनका GM क्या है?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "13"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        }
+      ]
+    },
+    {
+      "question": "किन्हीं दो धनात्मक संख्याओं a और b के लिए निम्नलिखित में से क्या सत्य है?",
+      "options": [
+        {
+          "option": "AM >= GM",
+          "is_answer": true
+        },
+        {
+          "option": "AM <= GM"
+        },
+        {
+          "option": "HM >= AM"
+        },
+        {
+          "option": "GM <= HM"
+        }
+      ]
+    },
+    {
+      "question": "यदि 1/x, 1/(x+2), 1/(x+4) HP में हैं, तो x क्या है?",
+      "options": [
+        {
+          "option": "कोई भी गैर-शून्य मान",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "2 और 4 का हरात्मक माध्य क्या है?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8/3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि a, b, c HP में हैं, तो (a-b)/(b-c) किसके बराबर है?",
+      "options": [
+        {
+          "option": "a/c",
+          "is_answer": true
+        },
+        {
+          "option": "c/a"
+        },
+        {
+          "option": "b/a"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "दो संख्याओं का HM 12 और AM 27 है। उनका GM क्या है?",
+      "options": [
+        {
+          "option": "324"
+        },
+        {
+          "option": "39"
+        },
+        {
+          "option": "18",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "यदि अनुक्रम 1/2, 1/4, 1/6, 1/8 HP में है, तो पांचवां पद क्या है?",
+      "options": [
+        {
+          "option": "1/10",
+          "is_answer": true
+        },
+        {
+          "option": "1/9"
+        },
+        {
+          "option": "1/5"
+        },
+        {
+          "option": "1/12"
+        }
+      ]
+    },
+    {
+      "question": "संबंध AM * HM = GM^2 किसके लिए सत्य है?",
+      "options": [
+        {
+          "option": "किन्हीं दो वास्तविक संख्याओं के लिए"
+        },
+        {
+          "option": "केवल धनात्मक पूर्णांकों के लिए"
+        },
+        {
+          "option": "किन्हीं दो धनात्मक संख्याओं के लिए",
+          "is_answer": true
+        },
+        {
+          "option": "केवल ऋणात्मक संख्याओं के लिए"
+        }
+      ]
+    },
+    {
+      "question": "यदि a, b, c HP में हैं, तो 1/a, 1/b, 1/c किसमें हैं?",
+      "options": [
+        {
+          "option": "AP",
+          "is_answer": true
+        },
+        {
+          "option": "HP"
+        },
+        {
+          "option": "GP"
+        },
+        {
+          "option": "इनमें से कोई नहीं"
+        }
+      ]
+    },
+    {
+      "question": "1 और 1/3 का हरात्मक माध्य क्या है?",
+      "options": [
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "1/2",
+          "is_answer": true
+        },
+        {
+          "option": "2/3"
+        },
+        {
+          "option": "3/4"
+        }
+      ]
+    },
+    {
+      "question": "(x + y)^n के विस्तार में पदों की संख्या कितनी होती है?",
+      "options": [
+        {
+          "option": "n - 1"
+        },
+        {
+          "option": "n + 1",
+          "is_answer": true
+        },
+        {
+          "option": "n"
+        },
+        {
+          "option": "2n"
+        }
+      ]
+    },
+    {
+      "question": "(1 + x)^n के विस्तार में x^n का गुणांक क्या है?",
+      "options": [
+        {
+          "option": "nCr"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "n"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "(a + b)^n के विस्तार में सामान्य पद T_(r+1) क्या है?",
+      "options": [
+        {
+          "option": "nCr * a^(n-r) * b^(r+1)"
+        },
+        {
+          "option": "nCr * a^(n+r) * b^r"
+        },
+        {
+          "option": "nCr * a^r * b^(n-r)"
+        },
+        {
+          "option": "nCr * a^(n-r) * b^r",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "(x + y)^n में द्विपद गुणांकों का योग क्या है?",
+      "options": [
+        {
+          "option": "2^n",
+          "is_answer": true
+        },
+        {
+          "option": "2n"
+        },
+        {
+          "option": "n^2"
+        },
+        {
+          "option": "2^(n-1)"
+        }
+      ]
+    },
+    {
+      "question": "यदि n सम है, तो (x + y)^n में मध्य पद कौन सा है?",
+      "options": [
+        {
+          "option": "(n/2 + 1)वां पद",
+          "is_answer": true
+        },
+        {
+          "option": "(n/2)वां पद"
+        },
+        {
+          "option": "(n + 1)वां पद"
+        },
+        {
+          "option": "(n/2 + 2)वां पद"
+        }
+      ]
+    },
+    {
+      "question": "nC0 का मान क्या है?",
+      "options": [
+        {
+          "option": "n!"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "n"
+        }
+      ]
+    },
+    {
+      "question": "nCn का मान क्या है?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "n"
+        },
+        {
+          "option": "n!"
+        }
+      ]
+    },
+    {
+      "question": "(1 + x)^4 में x^2 का गुणांक क्या है?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "(x + y)^n में गुणांकों का योग क्या है?",
+      "options": [
+        {
+          "option": "2^n",
+          "is_answer": true
+        },
+        {
+          "option": "n^2"
+        },
+        {
+          "option": "n"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "पास्कल के त्रिभुज में, n-वीं पंक्ति के तत्वों का योग क्या है (n=0 से शुरू होकर)?",
+      "options": [
+        {
+          "option": "n"
+        },
+        {
+          "option": "2^n",
+          "is_answer": true
+        },
+        {
+          "option": "2^(n+1)"
+        },
+        {
+          "option": "n^2"
+        }
+      ]
+    },
+    {
+      "question": "nC1 का मान क्या है?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "n",
+          "is_answer": true
+        },
+        {
+          "option": "n-1"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "यदि n विषम है, तो (x + y)^n में कितने मध्य पद होते हैं?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "(1 + x)^2 में मध्य पद का गुणांक क्या है?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा nCr के बराबर है?",
+      "options": [
+        {
+          "option": "nC(n-r)",
+          "is_answer": true
+        },
+        {
+          "option": "nCr-1"
+        },
+        {
+          "option": "rCn"
+        },
+        {
+          "option": "nCr+1"
+        }
+      ]
+    },
+    {
+      "question": "(x + 1/x)^2 में अचर पद क्या है?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "5C2 का मान क्या है?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "(a + b)^n में, किसी भी पद में a और b के घातांकों का योग हमेशा किसके बराबर होता है?",
+      "options": [
+        {
+          "option": "n-1"
+        },
+        {
+          "option": "n",
+          "is_answer": true
+        },
+        {
+          "option": "2n"
+        },
+        {
+          "option": "n+1"
+        }
+      ]
+    },
+    {
+      "question": "(1 + 2x)^3 में x का गुणांक क्या है?",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "(1 + x)^4 के विस्तार में तीसरा पद कौन सा है?",
+      "options": [
+        {
+          "option": "4x^2"
+        },
+        {
+          "option": "x^2"
+        },
+        {
+          "option": "6x^2",
+          "is_answer": true
+        },
+        {
+          "option": "12x^2"
+        }
+      ]
+    },
+    {
+      "question": "द्विपद गुणांक सममित होते हैं, जिसका अर्थ है कि nCr किसके बराबर है?",
+      "options": [
+        {
+          "option": "rCn"
+        },
+        {
+          "option": "nCr-1"
+        },
+        {
+          "option": "nC(n-r)",
+          "is_answer": true
+        },
+        {
+          "option": "nCr+1"
+        }
+      ]
+    },
+    {
+      "question": "यदि A एक 2x3 आव्यूह है और B एक 3x2 आव्यूह है, तो गुणनफल AB की विमा क्या होगी?",
+      "options": [
+        {
+          "option": "2x3"
+        },
+        {
+          "option": "3x2"
+        },
+        {
+          "option": "2x2",
+          "is_answer": true
+        },
+        {
+          "option": "3x3"
+        }
+      ]
+    },
+    {
+      "question": "एक 2x3 आव्यूह का परिवर्त (transpose) क्या होता है?",
+      "options": [
+        {
+          "option": "6x1"
+        },
+        {
+          "option": "2x3"
+        },
+        {
+          "option": "1x6"
+        },
+        {
+          "option": "3x2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "दो आव्यूहों के गुणनफल का परिवर्त (AB)^T किस गुणधर्म द्वारा दर्शाया जाता है?",
+      "options": [
+        {
+          "option": "A * B"
+        },
+        {
+          "option": "B * A"
+        },
+        {
+          "option": "B^T * A^T",
+          "is_answer": true
+        },
+        {
+          "option": "A^T * B^T"
+        }
+      ]
+    },
+    {
+      "question": "आव्यूह योग संभव होने के लिए कौन सी शर्त पूरी होनी चाहिए?",
+      "options": [
+        {
+          "option": "आव्यूहों में अवयवों की संख्या समान होनी चाहिए"
+        },
+        {
+          "option": "आव्यूह वर्ग होने चाहिए"
+        },
+        {
+          "option": "आव्यूहों की विमा समान होनी चाहिए",
+          "is_answer": true
+        },
+        {
+          "option": "आव्यूह व्युत्क्रमणीय होने चाहिए"
+        }
+      ]
+    },
+    {
+      "question": "यदि A = [[1, 2], [3, 4]] है, तो A^T क्या है?",
+      "options": [
+        {
+          "option": "[[1, 3], [2, 4]]",
+          "is_answer": true
+        },
+        {
+          "option": "[[2, 1], [4, 3]]"
+        },
+        {
+          "option": "[[1, 2], [3, 4]]"
+        },
+        {
+          "option": "[[4, 3], [2, 1]]"
+        }
+      ]
+    },
+    {
+      "question": "क्या आव्यूह गुणन क्रमविनिमेय है (अर्थात AB = BA)?",
+      "options": [
+        {
+          "option": "केवल तत्समक आव्यूह के लिए"
+        },
+        {
+          "option": "हाँ, हमेशा"
+        },
+        {
+          "option": "नहीं, सामान्यतः नहीं",
+          "is_answer": true
+        },
+        {
+          "option": "केवल वर्ग आव्यूह के लिए"
+        }
+      ]
+    },
+    {
+      "question": "एक 2x2 आव्यूह को दूसरे 2x2 आव्यूह में जोड़ने का परिणाम क्या है?",
+      "options": [
+        {
+          "option": "एक 2x4 आव्यूह"
+        },
+        {
+          "option": "एक 4x4 आव्यूह"
+        },
+        {
+          "option": "एक 2x2 आव्यूह",
+          "is_answer": true
+        },
+        {
+          "option": "एक अदिश मान"
+        }
+      ]
+    },
+    {
+      "question": "यदि A एक 3x3 आव्यूह है, तो (A^T)^T क्या है?",
+      "options": [
+        {
+          "option": "A",
+          "is_answer": true
+        },
+        {
+          "option": "A^T"
+        },
+        {
+          "option": "I"
+        },
+        {
+          "option": "2A"
+        }
+      ]
+    },
+    {
+      "question": "आव्यूह योग के लिए निम्नलिखित में से कौन सा सत्य है?",
+      "options": [
+        {
+          "option": "(A + B) = AB"
+        },
+        {
+          "option": "(A + B)^T = A^T - B^T"
+        },
+        {
+          "option": "(A + B) = (A - B)"
+        },
+        {
+          "option": "(A + B) = (B + A)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि A एक 1x3 आव्यूह है और B एक 3x1 आव्यूह है, तो AB की विमा क्या है?",
+      "options": [
+        {
+          "option": "3x3"
+        },
+        {
+          "option": "1x1",
+          "is_answer": true
+        },
+        {
+          "option": "1x3"
+        },
+        {
+          "option": "3x1"
+        }
+      ]
+    },
+    {
+      "question": "पंक्ति सदिश [1, 2, 3] का परिवर्त (transpose) क्या है?",
+      "options": [
+        {
+          "option": "अदिश"
+        },
+        {
+          "option": "3x3 आव्यूह"
+        },
+        {
+          "option": "स्तंभ सदिश",
+          "is_answer": true
+        },
+        {
+          "option": "पंक्ति सदिश"
+        }
+      ]
+    },
+    {
+      "question": "यदि A = [[0, 1], [1, 0]] है, तो A + A क्या है?",
+      "options": [
+        {
+          "option": "[[0, 1], [1, 0]]"
+        },
+        {
+          "option": "[[1, 1], [1, 1]]"
+        },
+        {
+          "option": "[[0, 0], [0, 0]]"
+        },
+        {
+          "option": "[[0, 2], [2, 0]]",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "क्या एक 2x3 आव्यूह को 2x3 आव्यूह से गुणा किया जा सकता है?",
+      "options": [
+        {
+          "option": "नहीं",
+          "is_answer": true
+        },
+        {
+          "option": "केवल यदि वे वर्ग हों"
+        },
+        {
+          "option": "हाँ"
+        },
+        {
+          "option": "केवल यदि अवयव शून्य हों"
+        }
+      ]
+    },
+    {
+      "question": "(A + B)^T के लिए निम्नलिखित में से कौन सा सत्य है?",
+      "options": [
+        {
+          "option": "A + B"
+        },
+        {
+          "option": "A^T + B^T",
+          "is_answer": true
+        },
+        {
+          "option": "B^T + A"
+        },
+        {
+          "option": "A^T * B^T"
+        }
+      ]
+    },
+    {
+      "question": "यदि A एक वर्ग आव्यूह है, तो A + A^T क्या है?",
+      "options": [
+        {
+          "option": "एक तत्समक आव्यूह"
+        },
+        {
+          "option": "एक शून्य आव्यूह"
+        },
+        {
+          "option": "एक सममित आव्यूह",
+          "is_answer": true
+        },
+        {
+          "option": "एक विषम-सममित आव्यूह"
+        }
+      ]
+    },
+    {
+      "question": "2 कोटि का तत्समक आव्यूह क्या है?",
+      "options": [
+        {
+          "option": "[[1, 0], [0, 1]]",
+          "is_answer": true
+        },
+        {
+          "option": "[[2, 0], [0, 2]]"
+        },
+        {
+          "option": "[[0, 1], [1, 0]]"
+        },
+        {
+          "option": "[[1, 1], [1, 1]]"
+        }
+      ]
+    },
+    {
+      "question": "यदि A = [1, 2] और B = [3, 4] है, तो क्या A + B परिभाषित है?",
+      "options": [
+        {
+          "option": "नहीं"
+        },
+        {
+          "option": "केवल यदि परिवर्त किया जाए"
+        },
+        {
+          "option": "केवल यदि गुणा किया जाए"
+        },
+        {
+          "option": "हाँ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक आव्यूह A को अदिश k से गुणा करने का परिणाम क्या है?",
+      "options": [
+        {
+          "option": "केवल पहली पंक्ति को k से गुणा किया जाता है"
+        },
+        {
+          "option": "केवल विकर्ण को k से गुणा किया जाता है"
+        },
+        {
+          "option": "आव्यूह अपरिवर्तित रहता है"
+        },
+        {
+          "option": "A के प्रत्येक अवयव को k से गुणा किया जाता है",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि A एक 2x2 आव्यूह है, तो (kA)^T क्या है?",
+      "options": [
+        {
+          "option": "k * A^T",
+          "is_answer": true
+        },
+        {
+          "option": "k * A"
+        },
+        {
+          "option": "A^T"
+        },
+        {
+          "option": "k^2 * A^T"
+        }
+      ]
+    },
+    {
+      "question": "विभिन्न विमाओं वाले आव्यूहों के लिए कौन सी संक्रिया संभव नहीं है?",
+      "options": [
+        {
+          "option": "दूसरे आव्यूह से गुणा"
+        },
+        {
+          "option": "परिवर्त"
+        },
+        {
+          "option": "अदिश से गुणा"
+        },
+        {
+          "option": "योग",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "i^2 का मान क्या है?",
+      "options": [
+        {
+          "option": "i"
+        },
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "-i"
+        }
+      ]
+    },
+    {
+      "question": "3 + 4i का सम्मिश्र संयुग्मी (complex conjugate) क्या है?",
+      "options": [
+        {
+          "option": "3 + 4i"
+        },
+        {
+          "option": "-3 + 4i"
+        },
+        {
+          "option": "-3 - 4i"
+        },
+        {
+          "option": "3 - 4i",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "z = 3 + 4i का मापांक (modulus) क्या है?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "सम्मिश्र संख्या 5 - 2i का काल्पनिक भाग कौन सा है?",
+      "options": [
+        {
+          "option": "-2",
+          "is_answer": true
+        },
+        {
+          "option": "-2i"
+        },
+        {
+          "option": "2i"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "i^4 का मान क्या है?",
+      "options": [
+        {
+          "option": "i"
+        },
+        {
+          "option": "-i"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "z = -7 + 8i का वास्तविक भाग कौन सा है?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "-7",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "-8"
+        }
+      ]
+    },
+    {
+      "question": "यदि z = a + bi है, तो z * conjugate(z) क्या होगा?",
+      "options": [
+        {
+          "option": "a^2 - b^2"
+        },
+        {
+          "option": "a^2 + b^2i"
+        },
+        {
+          "option": "a + b"
+        },
+        {
+          "option": "a^2 + b^2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "i^3 का मान क्या है?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "i"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "-i",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "आर्गंड तल में कौन सा अक्ष काल्पनिक भाग को दर्शाता है?",
+      "options": [
+        {
+          "option": "मूलबिंदु"
+        },
+        {
+          "option": "x-अक्ष"
+        },
+        {
+          "option": "इनमें से कोई नहीं"
+        },
+        {
+          "option": "y-अक्ष",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "(2 + 3i) और (1 - i) का योग क्या है?",
+      "options": [
+        {
+          "option": "3 + 4i"
+        },
+        {
+          "option": "1 + 2i"
+        },
+        {
+          "option": "3 - 2i"
+        },
+        {
+          "option": "3 + 2i",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "z = 0 + 5i का मापांक क्या है?",
+      "options": [
+        {
+          "option": "-5"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "-5i का संयुग्मी क्या है?",
+      "options": [
+        {
+          "option": "-5i"
+        },
+        {
+          "option": "5i",
+          "is_answer": true
+        },
+        {
+          "option": "-5"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "i^0 का मान क्या है?",
+      "options": [
+        {
+          "option": "-1"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "i"
+        }
+      ]
+    },
+    {
+      "question": "आर्गंड तल में कौन सा अक्ष वास्तविक भाग को दर्शाता है?",
+      "options": [
+        {
+          "option": "y-अक्ष"
+        },
+        {
+          "option": "मूलबिंदु"
+        },
+        {
+          "option": "x-अक्ष",
+          "is_answer": true
+        },
+        {
+          "option": "इनमें से कोई नहीं"
+        }
+      ]
+    },
+    {
+      "question": "(1 + i)^2 का मान क्या है?",
+      "options": [
+        {
+          "option": "2i",
+          "is_answer": true
+        },
+        {
+          "option": "1 + i"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "z = -3 + 0i का मापांक क्या है?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "-3"
+        }
+      ]
+    },
+    {
+      "question": "i और -i का गुणनफल क्या है?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "i"
+        }
+      ]
+    },
+    {
+      "question": "7 का संयुग्मी क्या है?",
+      "options": [
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "-7i"
+        },
+        {
+          "option": "7i"
+        },
+        {
+          "option": "-7"
+        }
+      ]
+    },
+    {
+      "question": "i^5 का मान क्या है?",
+      "options": [
+        {
+          "option": "-1"
+        },
+        {
+          "option": "i",
+          "is_answer": true
+        },
+        {
+          "option": "-i"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "यदि z = 2 + 2i है, तो |z| क्या होगा?",
+      "options": [
+        {
+          "option": "sqrt(8)",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "sqrt(2)"
+        }
+      ]
+    },
+    {
+      "question": "2x2 आव्यूह [[1, 2], [3, 4]] का सारणिक क्या है?",
+      "options": [
+        {
+          "option": "-10"
+        },
+        {
+          "option": "-2",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "यदि 3x3 सारणिक की दो पंक्तियाँ समान हैं, तो उसका मान क्या है?",
+      "options": [
+        {
+          "option": "-1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "निर्धारित नहीं किया जा सकता"
+        }
+      ]
+    },
+    {
+      "question": "2x2 आव्यूह [[5, 0], [2, 3]] का सारणिक ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "3x3 क्रम के तत्समक आव्यूह I का सारणिक क्या है?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "यदि एक सारणिक की एक पंक्ति को अदिश k से गुणा किया जाता है, तो सारणिक का मान:",
+      "options": [
+        {
+          "option": "k से गुणा हो जाता है",
+          "is_answer": true
+        },
+        {
+          "option": "k से विभाजित हो जाता है"
+        },
+        {
+          "option": "k^2 से गुणा हो जाता है"
+        },
+        {
+          "option": "समान रहता है"
+        }
+      ]
+    },
+    {
+      "question": "[[1, 0, 0], [0, 1, 0], [0, 0, 5]] का सारणिक क्या है?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "यदि एक पंक्ति के सभी अवयव शून्य हैं, तो सारणिक का मान है:",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "निर्धारित नहीं किया जा सकता"
+        },
+        {
+          "option": "अपरिभाषित"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "[[2, 1], [1, 2]] का सारणिक ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "यदि आव्यूह A 3x3 है और det(A) = 5 है, तो det(2A) क्या है?",
+      "options": [
+        {
+          "option": "40",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "सभी पंक्तियों में शून्य वाले आव्यूह का सारणिक क्या है?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "अन्य पंक्तियों पर निर्भर करता है"
+        },
+        {
+          "option": "अनंत"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "त्रिभुजीय आव्यूह का सारणिक उसके किन अवयवों का गुणनफल होता है?",
+      "options": [
+        {
+          "option": "विकर्ण अवयव",
+          "is_answer": true
+        },
+        {
+          "option": "गैर-विकर्ण अवयव"
+        },
+        {
+          "option": "पंक्ति अवयव"
+        },
+        {
+          "option": "स्तंभ अवयव"
+        }
+      ]
+    },
+    {
+      "question": "[[0, 1], [1, 0]] का सारणिक ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "यदि एक सारणिक के दो स्तंभों को आपस में बदल दिया जाए, तो सारणिक का चिह्न:",
+      "options": [
+        {
+          "option": "शून्य हो जाता है"
+        },
+        {
+          "option": "समान रहता है"
+        },
+        {
+          "option": "दोगुना हो जाता है"
+        },
+        {
+          "option": "बदल जाता है",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "[[3, 0, 0], [0, 2, 0], [0, 0, 1]] का सारणिक क्या है?",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "यदि det(A) = 0 है, तो आव्यूह A को क्या कहा जाता है?",
+      "options": [
+        {
+          "option": "तत्समक"
+        },
+        {
+          "option": "व्युत्क्रमणीय (Non-singular)"
+        },
+        {
+          "option": "विकर्ण"
+        },
+        {
+          "option": "अव्युत्क्रमणीय (Singular)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "[[1, 2, 3], [0, 1, 4], [0, 0, 1]] का सारणिक ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "2x2 आव्यूह [[a, b], [c, d]] का सारणिक क्या है?",
+      "options": [
+        {
+          "option": "ad - bc",
+          "is_answer": true
+        },
+        {
+          "option": "ad + bc"
+        },
+        {
+          "option": "ac - bd"
+        },
+        {
+          "option": "ab - cd"
+        }
+      ]
+    },
+    {
+      "question": "यदि एक स्तंभ के सभी अवयवों को k से गुणा किया जाता है, तो सारणिक:",
+      "options": [
+        {
+          "option": "अपरिवर्तित रहता है"
+        },
+        {
+          "option": "k से गुणा हो जाता है",
+          "is_answer": true
+        },
+        {
+          "option": "k^3 से गुणा हो जाता है"
+        },
+        {
+          "option": "k से विभाजित हो जाता है"
+        }
+      ]
+    },
+    {
+      "question": "आव्यूह A के परिवर्त (transpose) का सारणिक क्या है?",
+      "options": [
+        {
+          "option": "det(A) का ऋणात्मक"
+        },
+        {
+          "option": "शून्य"
+        },
+        {
+          "option": "det(A) के बराबर",
+          "is_answer": true
+        },
+        {
+          "option": "det(A) का व्युत्क्रम"
+        }
+      ]
+    },
+    {
+      "question": "[[2, 0], [0, 2]] का सारणिक क्या है?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक वर्ग आव्यूह A के व्युत्क्रम का सूत्र क्या है?",
+      "options": [
+        {
+          "option": "A^(-1) = det(A) / adj(A)"
+        },
+        {
+          "option": "A^(-1) = adj(A) * det(A)"
+        },
+        {
+          "option": "A^(-1) = 1 / adj(A)"
+        },
+        {
+          "option": "A^(-1) = adj(A) / det(A)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक आव्यूह A के व्युत्क्रमणीय होने के लिए क्या सत्य होना चाहिए?",
+      "options": [
+        {
+          "option": "det(A) ≠ 0",
+          "is_answer": true
+        },
+        {
+          "option": "adj(A) = 0"
+        },
+        {
+          "option": "det(A) = 0"
+        },
+        {
+          "option": "A = 0"
+        }
+      ]
+    },
+    {
+      "question": "2x2 आव्यूह [[a, b], [c, d]] का सहखंडज (adj) क्या है?",
+      "options": [
+        {
+          "option": "[[a, -b], [-c, d]]"
+        },
+        {
+          "option": "[[d, -b], [-c, a]]",
+          "is_answer": true
+        },
+        {
+          "option": "[[a, c], [b, d]]"
+        },
+        {
+          "option": "[[d, b], [c, a]]"
+        }
+      ]
+    },
+    {
+      "question": "यदि A, n कोटि का एक वर्ग आव्यूह है, तो A * adj(A) किसके बराबर है?",
+      "options": [
+        {
+          "option": "det(A)"
+        },
+        {
+          "option": "det(A) * I",
+          "is_answer": true
+        },
+        {
+          "option": "I"
+        },
+        {
+          "option": "adj(A)"
+        }
+      ]
+    },
+    {
+      "question": "3x3 कोटि के आव्यूह A के सहखंडज का सारणिक क्या होता है?",
+      "options": [
+        {
+          "option": "det(A)"
+        },
+        {
+          "option": "1 / det(A)"
+        },
+        {
+          "option": "(det(A))^3"
+        },
+        {
+          "option": "(det(A))^2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "तत्समक आव्यूह I का व्युत्क्रम क्या है?",
+      "options": [
+        {
+          "option": "I",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "det(I)"
+        },
+        {
+          "option": "adj(I)"
+        }
+      ]
+    },
+    {
+      "question": "यदि A एक अव्युत्क्रमणीय (singular) आव्यूह है, तो इसका व्युत्क्रम:",
+      "options": [
+        {
+          "option": "0 है"
+        },
+        {
+          "option": "I है"
+        },
+        {
+          "option": "अस्तित्व में नहीं है",
+          "is_answer": true
+        },
+        {
+          "option": "adj(A) है"
+        }
+      ]
+    },
+    {
+      "question": "विकर्ण आव्यूह का सहखंडज क्या होता है?",
+      "options": [
+        {
+          "option": "एक अदिश आव्यूह"
+        },
+        {
+          "option": "एक तत्समक आव्यूह"
+        },
+        {
+          "option": "एक विकर्ण आव्यूह",
+          "is_answer": true
+        },
+        {
+          "option": "एक शून्य आव्यूह"
+        }
+      ]
+    },
+    {
+      "question": "दो आव्यूहों के गुणनफल के व्युत्क्रम के लिए कौन सा गुण सही है?",
+      "options": [
+        {
+          "option": "(AB)^(-1) = B^(-1)A^(-1)",
+          "is_answer": true
+        },
+        {
+          "option": "(AB)^(-1) = AB"
+        },
+        {
+          "option": "(AB)^(-1) = BA"
+        },
+        {
+          "option": "(AB)^(-1) = A^(-1)B^(-1)"
+        }
+      ]
+    },
+    {
+      "question": "2x2 आव्यूह A के लिए adj(adj(A)) का मान क्या है?",
+      "options": [
+        {
+          "option": "A",
+          "is_answer": true
+        },
+        {
+          "option": "A^2"
+        },
+        {
+          "option": "adj(A)"
+        },
+        {
+          "option": "det(A) * A"
+        }
+      ]
+    },
+    {
+      "question": "यदि AX = B है, तो हल X किसके द्वारा दिया जाता है?",
+      "options": [
+        {
+          "option": "X = A/B"
+        },
+        {
+          "option": "X = B/A"
+        },
+        {
+          "option": "X = A^(-1)B",
+          "is_answer": true
+        },
+        {
+          "option": "X = BA^(-1)"
+        }
+      ]
+    },
+    {
+      "question": "एक अवयव a_ij के सहखंड (cofactor) को किसके द्वारा दर्शाया जाता है?",
+      "options": [
+        {
+          "option": "adj_ij"
+        },
+        {
+          "option": "M_ij"
+        },
+        {
+          "option": "C_ij",
+          "is_answer": true
+        },
+        {
+          "option": "det_ij"
+        }
+      ]
+    },
+    {
+      "question": "यदि A एक सममित आव्यूह है, तो A^(-1) क्या है?",
+      "options": [
+        {
+          "option": "विषम-सममित"
+        },
+        {
+          "option": "शून्य"
+        },
+        {
+          "option": "विकर्ण"
+        },
+        {
+          "option": "सममित",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A^(-1) का सारणिक क्या है?",
+      "options": [
+        {
+          "option": "1 / det(A)",
+          "is_answer": true
+        },
+        {
+          "option": "det(A)"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-det(A)"
+        }
+      ]
+    },
+    {
+      "question": "अदिश आव्यूह का सहखंडज क्या है?",
+      "options": [
+        {
+          "option": "एक शून्य आव्यूह"
+        },
+        {
+          "option": "एक सममित आव्यूह"
+        },
+        {
+          "option": "एक अदिश आव्यूह",
+          "is_answer": true
+        },
+        {
+          "option": "एक इकाई आव्यूह"
+        }
+      ]
+    },
+    {
+      "question": "यदि det(A) = 5 है, तो 2x2 आव्यूह के लिए det(adj(A)) क्या होगा?",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "किसी भी वर्ग आव्यूह A के लिए निम्नलिखित में से कौन सा सत्य है?",
+      "options": [
+        {
+          "option": "A * adj(A) = I"
+        },
+        {
+          "option": "A * adj(A) = adj(A) * A",
+          "is_answer": true
+        },
+        {
+          "option": "A * adj(A) = 0"
+        },
+        {
+          "option": "A * adj(A) ≠ adj(A) * A"
+        }
+      ]
+    },
+    {
+      "question": "आव्यूह का व्युत्क्रम केवल तभी अस्तित्व में होता है यदि आव्यूह:",
+      "options": [
+        {
+          "option": "शून्य हो"
+        },
+        {
+          "option": "आयताकार हो"
+        },
+        {
+          "option": "अव्युत्क्रमणीय (non-singular) हो",
+          "is_answer": true
+        },
+        {
+          "option": "व्युत्क्रमणीय (singular) हो"
+        }
+      ]
+    },
+    {
+      "question": "यदि A एक लांबिक (orthogonal) आव्यूह है, तो A^(-1) किसके बराबर है?",
+      "options": [
+        {
+          "option": "I"
+        },
+        {
+          "option": "A^T",
+          "is_answer": true
+        },
+        {
+          "option": "A"
+        },
+        {
+          "option": "adj(A)"
+        }
+      ]
+    },
+    {
+      "question": "सहखंड आव्यूह किस आव्यूह का परिवर्त (transpose) है?",
+      "options": [
+        {
+          "option": "मूल आव्यूह"
+        },
+        {
+          "option": "सारणिक आव्यूह"
+        },
+        {
+          "option": "सहखंडज आव्यूह",
+          "is_answer": true
+        },
+        {
+          "option": "व्युत्क्रम आव्यूह"
+        }
+      ]
+    },
+    {
+      "question": "1/((x-1)(x+2)) के लिए आंशिक भिन्न अपघटन का सही रूप क्या है?",
+      "options": [
+        {
+          "option": "A/(x-1) - B/(x+2)"
+        },
+        {
+          "option": "(Ax+B)/(x-1) + C/(x+2)"
+        },
+        {
+          "option": "A/(x-1) + B/(x+2)",
+          "is_answer": true
+        },
+        {
+          "option": "A/(x-1)^2 + B/(x+2)"
+        }
+      ]
+    },
+    {
+      "question": "हर में पुनरावृत्त रैखिक गुणनखंड (x-a)^2 के लिए किस रूप का उपयोग किया जाता है?",
+      "options": [
+        {
+          "option": "(Ax+B)/(x-a)^2"
+        },
+        {
+          "option": "A/(x-a)^2"
+        },
+        {
+          "option": "A/(x-a) + B/(x-a)^2",
+          "is_answer": true
+        },
+        {
+          "option": "A/(x-a) + B/(x-a)"
+        }
+      ]
+    },
+    {
+      "question": "अविभाज्य द्विघात गुणनखंड (x^2+1) के लिए अपघटन का रूप क्या है?",
+      "options": [
+        {
+          "option": "A/x^2 + B/1"
+        },
+        {
+          "option": "(Ax+B)/(x^2+1)",
+          "is_answer": true
+        },
+        {
+          "option": "(Ax+B)/(x^2+1)^2"
+        },
+        {
+          "option": "A/(x^2+1)"
+        }
+      ]
+    },
+    {
+      "question": "व्यंजक 1/(x(x-1)^2) के लिए, सही अपघटन संरचना क्या है?",
+      "options": [
+        {
+          "option": "A/x + B/(x-1) + C/(x-1)^2",
+          "is_answer": true
+        },
+        {
+          "option": "A/x + (Bx+C)/(x-1)^2"
+        },
+        {
+          "option": "A/x + B/(x-1) + C/(x-1)"
+        },
+        {
+          "option": "A/x + B/(x-1)^2"
+        }
+      ]
+    },
+    {
+      "question": "यदि अंश की घात हर की घात से बड़ी या बराबर है, तो सबसे पहले क्या किया जाना चाहिए?",
+      "options": [
+        {
+          "option": "बहुपद का लंबा विभाजन",
+          "is_answer": true
+        },
+        {
+          "option": "अंश का गुणनखंड करना"
+        },
+        {
+          "option": "आंशिक भिन्न अपघटन"
+        },
+        {
+          "option": "हर को शून्य के बराबर रखना"
+        }
+      ]
+    },
+    {
+      "question": "1/((x^2+1)(x-2)) के लिए आंशिक भिन्न रूप क्या है?",
+      "options": [
+        {
+          "option": "A/(x^2+1) + B/(x-2)"
+        },
+        {
+          "option": "A/(x^2+1) + B/(x-2)^2"
+        },
+        {
+          "option": "(Ax+B)/(x^2+1) + (Cx+D)/(x-2)"
+        },
+        {
+          "option": "(Ax+B)/(x^2+1) + C/(x-2)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "1/((x-1)(x-2)(x-3)) के अपघटन में, कितने स्थिरांकों (A, B, C...) की आवश्यकता है?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "1/(x^2(x+1)) के लिए सही अपघटन क्या है?",
+      "options": [
+        {
+          "option": "A/x + B/(x+1)"
+        },
+        {
+          "option": "(Ax+B)/x^2 + C/(x+1)"
+        },
+        {
+          "option": "A/x + B/x^2 + C/(x+1)",
+          "is_answer": true
+        },
+        {
+          "option": "A/x^2 + B/(x+1)"
+        }
+      ]
+    },
+    {
+      "question": "आंशिक भिन्नों में स्थिरांक ज्ञात करने के लिए आमतौर पर किस विधि का उपयोग किया जाता है?",
+      "options": [
+        {
+          "option": "गुणांकों की तुलना",
+          "is_answer": true
+        },
+        {
+          "option": "संश्लेषित विभाजन"
+        },
+        {
+          "option": "द्विघात सूत्र"
+        },
+        {
+          "option": "वज्र गुणन"
+        }
+      ]
+    },
+    {
+      "question": "1/(x^2-4) का अपघटन क्या है?",
+      "options": [
+        {
+          "option": "(Ax+B)/(x^2-4)"
+        },
+        {
+          "option": "A/(x-2) + B/(x+2)",
+          "is_answer": true
+        },
+        {
+          "option": "A/(x-2) + B/(x-2)"
+        },
+        {
+          "option": "A/(x^2-4)"
+        }
+      ]
+    },
+    {
+      "question": "पुनरावृत्त द्विघात गुणनखंड (x^2+1)^2 के लिए, सही रूप क्या है?",
+      "options": [
+        {
+          "option": "(Ax+B)/(x^2+1) + (Cx+D)/(x^2+1)^2",
+          "is_answer": true
+        },
+        {
+          "option": "(Ax+B)/(x^2+1)^2"
+        },
+        {
+          "option": "A/(x^2+1) + B/(x^2+1)^2"
+        },
+        {
+          "option": "(Ax+B)/(x^2+1) + (Cx+D)/(x^2+1)"
+        }
+      ]
+    },
+    {
+      "question": "(x^3+1)/(x-1) के अपघटन का पहला चरण क्या है?",
+      "options": [
+        {
+          "option": "आंशिक अपघटन"
+        },
+        {
+          "option": "x=1 रखना"
+        },
+        {
+          "option": "हर का गुणनखंड करना"
+        },
+        {
+          "option": "बहुपद विभाजन",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "इनमें से कौन सा उचित परिमेय व्यंजक है?",
+      "options": [
+        {
+          "option": "x^2/(x-1)"
+        },
+        {
+          "option": "(x^2+1)/x"
+        },
+        {
+          "option": "(x^3+1)/(x^2+1)"
+        },
+        {
+          "option": "x/(x^2+1)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "1/(x(x^2+1)) का अपघटन क्या है?",
+      "options": [
+        {
+          "option": "A/x + (Bx+C)/(x^2+1)",
+          "is_answer": true
+        },
+        {
+          "option": "A/x + B/(x^2+1)"
+        },
+        {
+          "option": "A/x + (Bx+C)/(x^2+1)^2"
+        },
+        {
+          "option": "(Ax+B)/x + C/(x^2+1)"
+        }
+      ]
+    },
+    {
+      "question": "यदि हर (x-a)^3 है, तो अपघटन में कौन से पद होते हैं?",
+      "options": [
+        {
+          "option": "A/(x-a) + B/(x-a)^2 + C/(x-a)^3",
+          "is_answer": true
+        },
+        {
+          "option": "A/(x-a)^3"
+        },
+        {
+          "option": "(Ax^2+Bx+C)/(x-a)^3"
+        },
+        {
+          "option": "A/(x-a) + B/(x-a)^3"
+        }
+      ]
+    },
+    {
+      "question": "1/((x-1)(x-2)) = A/(x-1) + B/(x-2) में A का मान क्या है?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "1/((x-1)(x-2)) = A/(x-1) + B/(x-2) में B का मान क्या है?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "इनमें से कौन सा एक अविभाज्य द्विघात गुणनखंड है?",
+      "options": [
+        {
+          "option": "x^2+x+1",
+          "is_answer": true
+        },
+        {
+          "option": "x^2-x-2"
+        },
+        {
+          "option": "x^2-4"
+        },
+        {
+          "option": "x^2-1"
+        }
+      ]
+    },
+    {
+      "question": "आंशिक भिन्न अपघटन का उपयोग मुख्य रूप से किस कलन (calculus) संक्रिया के लिए किया जाता है?",
+      "options": [
+        {
+          "option": "सांतत्य"
+        },
+        {
+          "option": "समाकलन",
+          "is_answer": true
+        },
+        {
+          "option": "सीमा"
+        },
+        {
+          "option": "अवकलन"
+        }
+      ]
+    },
+    {
+      "question": "1/(x^2(x^2+1)) के लिए रूप क्या है?",
+      "options": [
+        {
+          "option": "(Ax+B)/x^2 + C/(x^2+1)"
+        },
+        {
+          "option": "A/x + (Bx+C)/(x^2+1)"
+        },
+        {
+          "option": "A/x + B/x^2 + (Cx+D)/(x^2+1)",
+          "is_answer": true
+        },
+        {
+          "option": "A/x^2 + B/(x^2+1)"
+        }
+      ]
+    },
+    {
+      "question": "सम्मिश्र संख्या z = 1 + i का ध्रुवीय रूप क्या है?",
+      "options": [
+        {
+          "option": "sqrt(2)(cos(pi/4) + i*sin(pi/4))",
+          "is_answer": true
+        },
+        {
+          "option": "sqrt(2)(cos(pi/2) + i*sin(pi/2))"
+        },
+        {
+          "option": "1(cos(pi/4) + i*sin(pi/4))"
+        },
+        {
+          "option": "2(cos(pi/4) + i*sin(pi/4))"
+        }
+      ]
+    },
+    {
+      "question": "डी मॉइवर प्रमेय के अनुसार, (cos(theta) + i*sin(theta))^n किसके बराबर है?",
+      "options": [
+        {
+          "option": "cos(n) + i*sin(n)"
+        },
+        {
+          "option": "cos(n*theta) + i*sin(n*theta)",
+          "is_answer": true
+        },
+        {
+          "option": "n*cos(theta) + i*n*sin(theta)"
+        },
+        {
+          "option": "cos(theta^n) + i*sin(theta^n)"
+        }
+      ]
+    },
+    {
+      "question": "e^(i*pi) का मान क्या है?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "i"
+        },
+        {
+          "option": "-i"
+        }
+      ]
+    },
+    {
+      "question": "सम्मिश्र संख्या z = 3 - 4i का मापांक क्या है?",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "सम्मिश्र संख्या z = -1 + i का कोणांक (argument) क्या है?",
+      "options": [
+        {
+          "option": "pi"
+        },
+        {
+          "option": "pi/2"
+        },
+        {
+          "option": "pi/4"
+        },
+        {
+          "option": "3*pi/4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "डी मॉइवर प्रमेय का उपयोग करके (cos(pi/6) + i*sin(pi/6))^3 की गणना करें।",
+      "options": [
+        {
+          "option": "i",
+          "is_answer": true
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "-i"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन cos(theta) + i*sin(theta) के बराबर है?",
+      "options": [
+        {
+          "option": "e^(theta)"
+        },
+        {
+          "option": "i*e^theta"
+        },
+        {
+          "option": "cos(i*theta)"
+        },
+        {
+          "option": "e^(i*theta)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "z = -i का ध्रुवीय रूप क्या है?",
+      "options": [
+        {
+          "option": "cos(0) + i*sin(0)"
+        },
+        {
+          "option": "cos(pi) + i*sin(pi)"
+        },
+        {
+          "option": "cos(3*pi/2) + i*sin(3*pi/2)",
+          "is_answer": true
+        },
+        {
+          "option": "cos(pi/2) + i*sin(pi/2)"
+        }
+      ]
+    },
+    {
+      "question": "(cos(pi/3) + i*sin(pi/3))^6 का मान क्या है?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "-i"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "i"
+        }
+      ]
+    },
+    {
+      "question": "z = r(cos(theta) + i*sin(theta)) का संयुग्मी (conjugate) क्या है?",
+      "options": [
+        {
+          "option": "r(cos(theta) + i*sin(theta))"
+        },
+        {
+          "option": "r(sin(theta) + i*cos(theta))"
+        },
+        {
+          "option": "r(cos(-theta) + i*sin(-theta))"
+        },
+        {
+          "option": "r(cos(theta) - i*sin(theta))",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि z = e^(i*pi/2) है, तो z का आयताकार रूप क्या है?",
+      "options": [
+        {
+          "option": "i",
+          "is_answer": true
+        },
+        {
+          "option": "-i"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "इनमें से कौन cos(2*theta) के बराबर है?",
+      "options": [
+        {
+          "option": "Im(e^(i*2*theta))"
+        },
+        {
+          "option": "Re(e^(i*2*theta))",
+          "is_answer": true
+        },
+        {
+          "option": "sin(2*theta)"
+        },
+        {
+          "option": "e^(i*theta)"
+        }
+      ]
+    },
+    {
+      "question": "z = -1 का ध्रुवीय रूप क्या है?",
+      "options": [
+        {
+          "option": "cos(pi) + i*sin(pi)",
+          "is_answer": true
+        },
+        {
+          "option": "cos(0) + i*sin(0)"
+        },
+        {
+          "option": "cos(2*pi) + i*sin(2*pi)"
+        },
+        {
+          "option": "cos(pi/2) + i*sin(pi/2)"
+        }
+      ]
+    },
+    {
+      "question": "(cos(pi/4) + i*sin(pi/4))^4 का मान क्या है?",
+      "options": [
+        {
+          "option": "-i"
+        },
+        {
+          "option": "i"
+        },
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "यूलर का सूत्र बताता है कि e^(i*theta) किसके बराबर है?",
+      "options": [
+        {
+          "option": "cos(theta) - i*sin(theta)"
+        },
+        {
+          "option": "cos(theta) + i*sin(theta)",
+          "is_answer": true
+        },
+        {
+          "option": "e*cos(theta)"
+        },
+        {
+          "option": "sin(theta) + i*cos(theta)"
+        }
+      ]
+    },
+    {
+      "question": "z = 2(cos(pi/6) + i*sin(pi/6)) का मापांक क्या है?",
+      "options": [
+        {
+          "option": "pi/6"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "sqrt(3)"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "यदि z = r*e^(i*theta) है, तो z^n क्या है?",
+      "options": [
+        {
+          "option": "r^n * e^(i*theta)"
+        },
+        {
+          "option": "r^n * e^(i*n*theta)",
+          "is_answer": true
+        },
+        {
+          "option": "n*r * e^(i*theta)"
+        },
+        {
+          "option": "r * e^(i*n*theta)"
+        }
+      ]
+    },
+    {
+      "question": "z = 1 का कोणांक क्या है?",
+      "options": [
+        {
+          "option": "2*pi"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "pi/2"
+        },
+        {
+          "option": "pi"
+        }
+      ]
+    },
+    {
+      "question": "e^(i*pi/2) का मान क्या है?",
+      "options": [
+        {
+          "option": "-1"
+        },
+        {
+          "option": "i",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "-i"
+        }
+      ]
+    },
+    {
+      "question": "कौन सी सम्मिश्र संख्या cos(pi) + i*sin(pi) द्वारा दर्शाई जाती है?",
+      "options": [
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "-i"
+        },
+        {
+          "option": "i"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "फलन f(x) = 1/x का प्रांत (domain) क्या है?",
+      "options": [
+        {
+          "option": "सभी वास्तविक संख्याएँ"
+        },
+        {
+          "option": "सभी धनात्मक वास्तविक संख्याएँ"
+        },
+        {
+          "option": "0 को छोड़कर सभी पूर्णांक"
+        },
+        {
+          "option": "0 को छोड़कर सभी वास्तविक संख्याएँ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा फलन एकैकी (injective) है?",
+      "options": [
+        {
+          "option": "f(x) = x^2"
+        },
+        {
+          "option": "f(x) = |x|"
+        },
+        {
+          "option": "f(x) = 2x + 3",
+          "is_answer": true
+        },
+        {
+          "option": "f(x) = sin(x)"
+        }
+      ]
+    },
+    {
+      "question": "f(x) = x^2 का परिसर (range) क्या है?",
+      "options": [
+        {
+          "option": "[1, अनंत)"
+        },
+        {
+          "option": "[0, अनंत)",
+          "is_answer": true
+        },
+        {
+          "option": "(-अनंत, अनंत)"
+        },
+        {
+          "option": "(0, अनंत)"
+        }
+      ]
+    },
+    {
+      "question": "वह फलन जो एकैकी और आच्छादक (surjective) दोनों हो, क्या कहलाता है?",
+      "options": [
+        {
+          "option": "अचर"
+        },
+        {
+          "option": "प्रतिलोम"
+        },
+        {
+          "option": "आवर्ती"
+        },
+        {
+          "option": "बायजेक्टिव (Bijective)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि f(x) = x + 2 और g(x) = x^2 है, तो f(g(x)) क्या है?",
+      "options": [
+        {
+          "option": "x^2 + 4"
+        },
+        {
+          "option": "(x + 2)^2"
+        },
+        {
+          "option": "x^2 + 2",
+          "is_answer": true
+        },
+        {
+          "option": "x + 2"
+        }
+      ]
+    },
+    {
+      "question": "f(x) = sqrt(x) का प्रांत क्या है?",
+      "options": [
+        {
+          "option": "(0, अनंत)"
+        },
+        {
+          "option": "(-अनंत, अनंत)"
+        },
+        {
+          "option": "[0, अनंत)",
+          "is_answer": true
+        },
+        {
+          "option": "[1, अनंत)"
+        }
+      ]
+    },
+    {
+      "question": "R से R पर कौन सा फलन आच्छादक (surjective) है?",
+      "options": [
+        {
+          "option": "f(x) = x^2"
+        },
+        {
+          "option": "f(x) = |x|"
+        },
+        {
+          "option": "f(x) = x^3",
+          "is_answer": true
+        },
+        {
+          "option": "f(x) = e^x"
+        }
+      ]
+    },
+    {
+      "question": "f(x) = sin(x) का परिसर क्या है?",
+      "options": [
+        {
+          "option": "[-1, 1]",
+          "is_answer": true
+        },
+        {
+          "option": "(-अनंत, अनंत)"
+        },
+        {
+          "option": "(-1, 1)"
+        },
+        {
+          "option": "[0, 1]"
+        }
+      ]
+    },
+    {
+      "question": "यदि f(x) = 2x है, तो प्रतिलोम फलन f^-1(x) क्या है?",
+      "options": [
+        {
+          "option": "-2x"
+        },
+        {
+          "option": "x^2"
+        },
+        {
+          "option": "x/2",
+          "is_answer": true
+        },
+        {
+          "option": "2/x"
+        }
+      ]
+    },
+    {
+      "question": "f(x) = 1/(x-3) का प्रांत क्या है?",
+      "options": [
+        {
+          "option": "R"
+        },
+        {
+          "option": "R - {0}"
+        },
+        {
+          "option": "R - {-3}"
+        },
+        {
+          "option": "R - {3}",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "इनमें से कौन सा फलन नहीं है?",
+      "options": [
+        {
+          "option": "y = 2x"
+        },
+        {
+          "option": "y = x^2"
+        },
+        {
+          "option": "y = 5"
+        },
+        {
+          "option": "x = y^2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "f(x) = e^x का परिसर क्या है?",
+      "options": [
+        {
+          "option": "(-अनंत, अनंत)"
+        },
+        {
+          "option": "[0, अनंत)"
+        },
+        {
+          "option": "(0, अनंत)",
+          "is_answer": true
+        },
+        {
+          "option": "(1, अनंत)"
+        }
+      ]
+    },
+    {
+      "question": "एक फलन f: A -> B आच्छादक (onto) होता है यदि:",
+      "options": [
+        {
+          "option": "f(x) एकैकी है"
+        },
+        {
+          "option": "परिसर = सह-प्रांत",
+          "is_answer": true
+        },
+        {
+          "option": "f(x) अचर है"
+        },
+        {
+          "option": "प्रांत = सह-प्रांत"
+        }
+      ]
+    },
+    {
+      "question": "यदि f(x) = x^2 और g(x) = x+1 है, तो g(f(x)) क्या है?",
+      "options": [
+        {
+          "option": "x^2 + 1",
+          "is_answer": true
+        },
+        {
+          "option": "x + 1"
+        },
+        {
+          "option": "(x+1)^2"
+        },
+        {
+          "option": "x^2 + x"
+        }
+      ]
+    },
+    {
+      "question": "f(x) = log(x) का प्रांत क्या है?",
+      "options": [
+        {
+          "option": "[0, अनंत)"
+        },
+        {
+          "option": "(0, अनंत)",
+          "is_answer": true
+        },
+        {
+          "option": "(1, अनंत)"
+        },
+        {
+          "option": "(-अनंत, अनंत)"
+        }
+      ]
+    },
+    {
+      "question": "कौन सा फलन एक अचर फलन है?",
+      "options": [
+        {
+          "option": "f(x) = 5x"
+        },
+        {
+          "option": "f(x) = x"
+        },
+        {
+          "option": "f(x) = x+5"
+        },
+        {
+          "option": "f(x) = 5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "तत्समक फलन (identity function) को कैसे परिभाषित किया जाता है?",
+      "options": [
+        {
+          "option": "f(x) = 1"
+        },
+        {
+          "option": "f(x) = x^2"
+        },
+        {
+          "option": "f(x) = x",
+          "is_answer": true
+        },
+        {
+          "option": "f(x) = 0"
+        }
+      ]
+    },
+    {
+      "question": "f(x) = |x| का परिसर क्या है?",
+      "options": [
+        {
+          "option": "(-अनंत, अनंत)"
+        },
+        {
+          "option": "(-अनंत, 0]"
+        },
+        {
+          "option": "(0, अनंत)"
+        },
+        {
+          "option": "[0, अनंत)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि f(x) = 3x - 1 है, तो f(2) क्या है?",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "एक फलन एकैकी (injective) होता है यदि:",
+      "options": [
+        {
+          "option": "f(a) = f(b) का अर्थ a = b है",
+          "is_answer": true
+        },
+        {
+          "option": "f(a) = 0"
+        },
+        {
+          "option": "f(a) = f(b) का अर्थ a != b है"
+        },
+        {
+          "option": "f(a) = b"
+        }
+      ]
+    },
+    {
+      "question": "यदि फलन f(x) का प्रतिलोम मौजूद है, तो f(x) और f^(-1)(x) के ग्राफ के बीच ज्यामितीय संबंध क्या है?",
+      "options": [
+        {
+          "option": "90 डिग्री का घूर्णन"
+        },
+        {
+          "option": "y-अक्ष पर परावर्तन"
+        },
+        {
+          "option": "x-अक्ष पर परावर्तन"
+        },
+        {
+          "option": "y = x रेखा पर परावर्तन",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि बिंदु (a, b) फलन f(x) के ग्राफ पर स्थित है, तो कौन सा बिंदु f^(-1)(x) के ग्राफ पर स्थित होना चाहिए?",
+      "options": [
+        {
+          "option": "(1/a, 1/b)"
+        },
+        {
+          "option": "(b, a)",
+          "is_answer": true
+        },
+        {
+          "option": "(a, -b)"
+        },
+        {
+          "option": "(-a, b)"
+        }
+      ]
+    },
+    {
+      "question": "फलन f(x) = 2x + 3 का प्रतिलोम क्या है?",
+      "options": [
+        {
+          "option": "f^(-1)(x) = x / 2 - 3"
+        },
+        {
+          "option": "f^(-1)(x) = (x - 3) / 2",
+          "is_answer": true
+        },
+        {
+          "option": "f^(-1)(x) = 3x + 2"
+        },
+        {
+          "option": "f^(-1)(x) = 2x - 3"
+        }
+      ]
+    },
+    {
+      "question": "यदि f(x) का डोमेन [0, अनंत) और रेंज [2, अनंत) है, तो f^(-1)(x) का डोमेन और रेंज क्या होगा?",
+      "options": [
+        {
+          "option": "डोमेन: (-अनंत, 0], रेंज: (-अनंत, 2]"
+        },
+        {
+          "option": "डोमेन: [2, अनंत), रेंज: (-अनंत, 0]"
+        },
+        {
+          "option": "डोमेन: [0, अनंत), रेंज: [2, अनंत)"
+        },
+        {
+          "option": "डोमेन: [2, अनंत), रेंज: [0, अनंत)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "किसी फलन का प्रतिलोम होने के लिए कौन सी शर्त पूरी होनी चाहिए?",
+      "options": [
+        {
+          "option": "यह एक रैखिक फलन होना चाहिए"
+        },
+        {
+          "option": "यह एक बहुपद होना चाहिए"
+        },
+        {
+          "option": "यह एक-एक (bijective) होना चाहिए",
+          "is_answer": true
+        },
+        {
+          "option": "यह y-अक्ष के सापेक्ष सममित होना चाहिए"
+        }
+      ]
+    },
+    {
+      "question": "f(x) = x^3 का प्रतिलोम क्या है?",
+      "options": [
+        {
+          "option": "f^(-1)(x) = 3x"
+        },
+        {
+          "option": "f^(-1)(x) = x^3"
+        },
+        {
+          "option": "f^(-1)(x) = x का घनमूल",
+          "is_answer": true
+        },
+        {
+          "option": "f^(-1)(x) = x^(1/3)"
+        }
+      ]
+    },
+    {
+      "question": "यदि f(x) = 1/x है, तो f^(-1)(x) क्या है?",
+      "options": [
+        {
+          "option": "f^(-1)(x) = x"
+        },
+        {
+          "option": "f^(-1)(x) = -1/x"
+        },
+        {
+          "option": "f^(-1)(x) = x^2"
+        },
+        {
+          "option": "f^(-1)(x) = 1/x",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "क्षैतिज रेखा परीक्षण (Horizontal line test) का उपयोग यह निर्धारित करने के लिए किया जाता है कि फलन है:",
+      "options": [
+        {
+          "option": "एक-एक (One-to-one)",
+          "is_answer": true
+        },
+        {
+          "option": "सतत"
+        },
+        {
+          "option": "सममित"
+        },
+        {
+          "option": "अवकलनीय"
+        }
+      ]
+    },
+    {
+      "question": "यदि f(x) = e^x है, तो प्रतिलोम फलन क्या है?",
+      "options": [
+        {
+          "option": "f^(-1)(x) = x^e"
+        },
+        {
+          "option": "f^(-1)(x) = ln(x)",
+          "is_answer": true
+        },
+        {
+          "option": "f^(-1)(x) = log_10(x)"
+        },
+        {
+          "option": "f^(-1)(x) = 1/e^x"
+        }
+      ]
+    },
+    {
+      "question": "f(x) = x - 5 का प्रतिलोम क्या है?",
+      "options": [
+        {
+          "option": "f^(-1)(x) = 1/(x-5)"
+        },
+        {
+          "option": "f^(-1)(x) = x - 5"
+        },
+        {
+          "option": "f^(-1)(x) = 5 - x"
+        },
+        {
+          "option": "f^(-1)(x) = x + 5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि f(f^(-1)(x)) = x है, तो इसका क्या अर्थ है?",
+      "options": [
+        {
+          "option": "फलन अचर है"
+        },
+        {
+          "option": "फलन एक-दूसरे के प्रतिलोम हैं",
+          "is_answer": true
+        },
+        {
+          "option": "फलन परिभाषित नहीं है"
+        },
+        {
+          "option": "फलन समान हैं"
+        }
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा फलन अपना ही प्रतिलोम है?",
+      "options": [
+        {
+          "option": "f(x) = 2x"
+        },
+        {
+          "option": "f(x) = x^2"
+        },
+        {
+          "option": "f(x) = -x",
+          "is_answer": true
+        },
+        {
+          "option": "f(x) = x + 1"
+        }
+      ]
+    },
+    {
+      "question": "यदि x >= 0 के लिए f(x) = sqrt(x) है, तो f^(-1)(x) का डोमेन क्या है?",
+      "options": [
+        {
+          "option": "सभी वास्तविक संख्याएं"
+        },
+        {
+          "option": "x > 0"
+        },
+        {
+          "option": "x >= 0",
+          "is_answer": true
+        },
+        {
+          "option": "x <= 0"
+        }
+      ]
+    },
+    {
+      "question": "x >= 0 के लिए f(x) = x^2 के ग्राफ को y = x पर परावर्तित किया जाता है। परिणामी फलन क्या है?",
+      "options": [
+        {
+          "option": "f^(-1)(x) = -sqrt(x)"
+        },
+        {
+          "option": "f^(-1)(x) = 1/x^2"
+        },
+        {
+          "option": "f^(-1)(x) = x^2"
+        },
+        {
+          "option": "f^(-1)(x) = sqrt(x)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि कोई फलन सख्ती से बढ़ रहा है (strictly increasing), तो वह होना चाहिए:",
+      "options": [
+        {
+          "option": "आवर्ती"
+        },
+        {
+          "option": "व्युत्क्रमणीय (Invertible)",
+          "is_answer": true
+        },
+        {
+          "option": "अचर"
+        },
+        {
+          "option": "असतत"
+        }
+      ]
+    },
+    {
+      "question": "f(x) = 3x - 1 का प्रतिलोम क्या है?",
+      "options": [
+        {
+          "option": "f^(-1)(x) = 1 / (3x - 1)"
+        },
+        {
+          "option": "f^(-1)(x) = 3x + 1"
+        },
+        {
+          "option": "f^(-1)(x) = (x - 1) / 3"
+        },
+        {
+          "option": "f^(-1)(x) = (x + 1) / 3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि f(x) = x^3 + 1 है, तो f^(-1)(x) क्या है?",
+      "options": [
+        {
+          "option": "f^(-1)(x) = x^(1/3) + 1"
+        },
+        {
+          "option": "f^(-1)(x) = (x + 1) का घनमूल"
+        },
+        {
+          "option": "f^(-1)(x) = (x - 1) का घनमूल",
+          "is_answer": true
+        },
+        {
+          "option": "f^(-1)(x) = x^3 - 1"
+        }
+      ]
+    },
+    {
+      "question": "इनमें से किस फलन का प्रतिलोम सभी वास्तविक संख्याओं पर मौजूद नहीं है?",
+      "options": [
+        {
+          "option": "f(x) = 2x"
+        },
+        {
+          "option": "f(x) = x + 5"
+        },
+        {
+          "option": "f(x) = x^3"
+        },
+        {
+          "option": "f(x) = x^2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि f(x) का ग्राफ (2, 5) से गुजरता है, तो f^(-1)(x) का ग्राफ किस बिंदु से गुजरना चाहिए?",
+      "options": [
+        {
+          "option": "(-2, -5)"
+        },
+        {
+          "option": "(1/2, 1/5)"
+        },
+        {
+          "option": "(2, 5)"
+        },
+        {
+          "option": "(5, 2)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "f(x) = 4 - x का प्रतिलोम क्या है?",
+      "options": [
+        {
+          "option": "f^(-1)(x) = x + 4"
+        },
+        {
+          "option": "f^(-1)(x) = x - 4"
+        },
+        {
+          "option": "f^(-1)(x) = 4 - x",
+          "is_answer": true
+        },
+        {
+          "option": "f^(-1)(x) = 1 / (4 - x)"
+        }
+      ]
+    }
+  ]
+}

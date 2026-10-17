@@ -1,0 +1,9005 @@
+{
+  "total_questions": 500,
+  "questions": [
+    {
+      "question": "What is the value of sin(90° - θ)?",
+      "options": [
+        {
+          "option": "cos θ",
+          "is_answer": true
+        },
+        {
+          "option": "sec θ"
+        },
+        {
+          "option": "tan θ"
+        },
+        {
+          "option": "sin θ"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of cos(90° - θ)?",
+      "options": [
+        {
+          "option": "cot θ"
+        },
+        {
+          "option": "sin θ",
+          "is_answer": true
+        },
+        {
+          "option": "csc θ"
+        },
+        {
+          "option": "cos θ"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of tan(90° - θ)?",
+      "options": [
+        {
+          "option": "cot θ",
+          "is_answer": true
+        },
+        {
+          "option": "sin θ"
+        },
+        {
+          "option": "tan θ"
+        },
+        {
+          "option": "cos θ"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of sec(90° - θ)?",
+      "options": [
+        {
+          "option": "tan θ"
+        },
+        {
+          "option": "cot θ"
+        },
+        {
+          "option": "sec θ"
+        },
+        {
+          "option": "csc θ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Evaluate sin 35° / cos 55°.",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate tan 20° / cot 70°.",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "0.5"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate sec 40° - csc 50°.",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Evaluate cos 48° - sin 42°.",
+      "options": [
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "If tan θ = cot 30°, what is θ?",
+      "options": [
+        {
+          "option": "30°"
+        },
+        {
+          "option": "90°"
+        },
+        {
+          "option": "45°"
+        },
+        {
+          "option": "60°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If sin θ = cos 20°, what is θ?",
+      "options": [
+        {
+          "option": "90°"
+        },
+        {
+          "option": "70°",
+          "is_answer": true
+        },
+        {
+          "option": "45°"
+        },
+        {
+          "option": "20°"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate sin 18° / cos 72°.",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate csc 31° - sec 59°.",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "What is the complement of 25°?",
+      "options": [
+        {
+          "option": "35°"
+        },
+        {
+          "option": "55°"
+        },
+        {
+          "option": "65°",
+          "is_answer": true
+        },
+        {
+          "option": "75°"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is equal to cot θ?",
+      "options": [
+        {
+          "option": "tan(90° - θ)",
+          "is_answer": true
+        },
+        {
+          "option": "sec(90° - θ)"
+        },
+        {
+          "option": "sin(90° - θ)"
+        },
+        {
+          "option": "cos(90° - θ)"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is equal to csc θ?",
+      "options": [
+        {
+          "option": "tan(90° - θ)"
+        },
+        {
+          "option": "sin(90° - θ)"
+        },
+        {
+          "option": "sec(90° - θ)",
+          "is_answer": true
+        },
+        {
+          "option": "cos(90° - θ)"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate cos 53° / sin 37°.",
+      "options": [
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "If tan 2A = cot(A - 18°), find A.",
+      "options": [
+        {
+          "option": "36°",
+          "is_answer": true
+        },
+        {
+          "option": "45°"
+        },
+        {
+          "option": "18°"
+        },
+        {
+          "option": "30°"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate sin 20° cos 70° + cos 20° sin 70°.",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "If sec 4A = csc(A - 20°), find A.",
+      "options": [
+        {
+          "option": "22°",
+          "is_answer": true
+        },
+        {
+          "option": "20°"
+        },
+        {
+          "option": "30°"
+        },
+        {
+          "option": "45°"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate tan 10° tan 80°.",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "On the unit circle, what does the x-coordinate of a point represent for an angle θ?",
+      "options": [
+        {
+          "option": "sin(θ)"
+        },
+        {
+          "option": "cos(θ)",
+          "is_answer": true
+        },
+        {
+          "option": "sec(θ)"
+        },
+        {
+          "option": "tan(θ)"
+        }
+      ]
+    },
+    {
+      "question": "In which quadrant is sin(θ) positive and cos(θ) negative?",
+      "options": [
+        {
+          "option": "Quadrant I"
+        },
+        {
+          "option": "Quadrant II",
+          "is_answer": true
+        },
+        {
+          "option": "Quadrant III"
+        },
+        {
+          "option": "Quadrant IV"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of sin(π/2) on the unit circle?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "undefined"
+        }
+      ]
+    },
+    {
+      "question": "Which trigonometric function is positive in all four quadrants?",
+      "options": [
+        {
+          "option": "tan(θ)"
+        },
+        {
+          "option": "None",
+          "is_answer": true
+        },
+        {
+          "option": "cos(θ)"
+        },
+        {
+          "option": "sin(θ)"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of cos(π) on the unit circle?",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In the third quadrant, which trigonometric functions are positive?",
+      "options": [
+        {
+          "option": "cos(θ) and sec(θ)"
+        },
+        {
+          "option": "All functions"
+        },
+        {
+          "option": "tan(θ) and cot(θ)",
+          "is_answer": true
+        },
+        {
+          "option": "sin(θ) and csc(θ)"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of sin(0) on the unit circle?",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "undefined"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "The point (0, -1) on the unit circle corresponds to which angle?",
+      "options": [
+        {
+          "option": "π"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "3π/2",
+          "is_answer": true
+        },
+        {
+          "option": "π/2"
+        }
+      ]
+    },
+    {
+      "question": "Which quadrant has both sin(θ) and cos(θ) as negative?",
+      "options": [
+        {
+          "option": "Quadrant IV"
+        },
+        {
+          "option": "Quadrant II"
+        },
+        {
+          "option": "Quadrant III",
+          "is_answer": true
+        },
+        {
+          "option": "Quadrant I"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of cos(3π/2) on the unit circle?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In the fourth quadrant, which trigonometric function is positive?",
+      "options": [
+        {
+          "option": "csc(θ)"
+        },
+        {
+          "option": "cos(θ)",
+          "is_answer": true
+        },
+        {
+          "option": "sin(θ)"
+        },
+        {
+          "option": "tan(θ)"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of sin(π) on the unit circle?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "undefined"
+        }
+      ]
+    },
+    {
+      "question": "The point (1, 0) on the unit circle corresponds to which angle?",
+      "options": [
+        {
+          "option": "π/2"
+        },
+        {
+          "option": "π"
+        },
+        {
+          "option": "3π/2"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which trigonometric function is defined as y/x on the unit circle?",
+      "options": [
+        {
+          "option": "cos(θ)"
+        },
+        {
+          "option": "sec(θ)"
+        },
+        {
+          "option": "tan(θ)",
+          "is_answer": true
+        },
+        {
+          "option": "sin(θ)"
+        }
+      ]
+    },
+    {
+      "question": "In the second quadrant, which trigonometric function is positive?",
+      "options": [
+        {
+          "option": "tan(θ)"
+        },
+        {
+          "option": "sec(θ)"
+        },
+        {
+          "option": "cos(θ)"
+        },
+        {
+          "option": "sin(θ)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of cos(0) on the unit circle?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "undefined"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "The point (0, 1) on the unit circle corresponds to which angle?",
+      "options": [
+        {
+          "option": "π"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "3π/2"
+        },
+        {
+          "option": "π/2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of sin(3π/2) on the unit circle?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which trigonometric function is defined as 1/x on the unit circle?",
+      "options": [
+        {
+          "option": "tan(θ)"
+        },
+        {
+          "option": "csc(θ)"
+        },
+        {
+          "option": "sec(θ)",
+          "is_answer": true
+        },
+        {
+          "option": "cot(θ)"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of cos(π/2) on the unit circle?",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "undefined"
+        }
+      ]
+    },
+    {
+      "question": "What is the reciprocal identity for csc θ?",
+      "options": [
+        {
+          "option": "sin θ"
+        },
+        {
+          "option": "1/tan θ"
+        },
+        {
+          "option": "1/sin θ",
+          "is_answer": true
+        },
+        {
+          "option": "1/cos θ"
+        }
+      ]
+    },
+    {
+      "question": "Which identity represents tan θ in terms of sine and cosine?",
+      "options": [
+        {
+          "option": "1 / cos θ"
+        },
+        {
+          "option": "1 / sin θ"
+        },
+        {
+          "option": "cos θ / sin θ"
+        },
+        {
+          "option": "sin θ / cos θ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the reciprocal identity for sec θ?",
+      "options": [
+        {
+          "option": "1/cos θ",
+          "is_answer": true
+        },
+        {
+          "option": "1/sin θ"
+        },
+        {
+          "option": "1/tan θ"
+        },
+        {
+          "option": "cos θ"
+        }
+      ]
+    },
+    {
+      "question": "Which identity represents cot θ in terms of sine and cosine?",
+      "options": [
+        {
+          "option": "1 / cos θ"
+        },
+        {
+          "option": "cos θ / sin θ",
+          "is_answer": true
+        },
+        {
+          "option": "sin θ / cos θ"
+        },
+        {
+          "option": "1 / sin θ"
+        }
+      ]
+    },
+    {
+      "question": "What is the reciprocal identity for cot θ?",
+      "options": [
+        {
+          "option": "1/cos θ"
+        },
+        {
+          "option": "1/sin θ"
+        },
+        {
+          "option": "1/tan θ",
+          "is_answer": true
+        },
+        {
+          "option": "tan θ"
+        }
+      ]
+    },
+    {
+      "question": "If tan θ = sin θ / cos θ, what is 1 / tan θ equal to?",
+      "options": [
+        {
+          "option": "1 / cos θ"
+        },
+        {
+          "option": "cos θ / sin θ",
+          "is_answer": true
+        },
+        {
+          "option": "sin θ / cos θ"
+        },
+        {
+          "option": "1 / sin θ"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is equivalent to csc θ?",
+      "options": [
+        {
+          "option": "1 / sin θ",
+          "is_answer": true
+        },
+        {
+          "option": "1 / cos θ"
+        },
+        {
+          "option": "cos θ / sin θ"
+        },
+        {
+          "option": "sin θ / cos θ"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is equivalent to sec θ?",
+      "options": [
+        {
+          "option": "sin θ / cos θ"
+        },
+        {
+          "option": "cos θ / sin θ"
+        },
+        {
+          "option": "1 / sin θ"
+        },
+        {
+          "option": "1 / cos θ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the quotient identity for tan θ?",
+      "options": [
+        {
+          "option": "1 / cos θ"
+        },
+        {
+          "option": "cos θ / sin θ"
+        },
+        {
+          "option": "sin θ / cos θ",
+          "is_answer": true
+        },
+        {
+          "option": "1 / sin θ"
+        }
+      ]
+    },
+    {
+      "question": "What is the quotient identity for cot θ?",
+      "options": [
+        {
+          "option": "cos θ / sin θ",
+          "is_answer": true
+        },
+        {
+          "option": "1 / sin θ"
+        },
+        {
+          "option": "1 / cos θ"
+        },
+        {
+          "option": "sin θ / cos θ"
+        }
+      ]
+    },
+    {
+      "question": "Which expression is equal to 1 / cot θ?",
+      "options": [
+        {
+          "option": "tan θ",
+          "is_answer": true
+        },
+        {
+          "option": "sin θ"
+        },
+        {
+          "option": "cos θ"
+        },
+        {
+          "option": "sec θ"
+        }
+      ]
+    },
+    {
+      "question": "Which expression is equal to 1 / sec θ?",
+      "options": [
+        {
+          "option": "cos θ",
+          "is_answer": true
+        },
+        {
+          "option": "tan θ"
+        },
+        {
+          "option": "sin θ"
+        },
+        {
+          "option": "csc θ"
+        }
+      ]
+    },
+    {
+      "question": "Which expression is equal to 1 / csc θ?",
+      "options": [
+        {
+          "option": "cos θ"
+        },
+        {
+          "option": "sin θ",
+          "is_answer": true
+        },
+        {
+          "option": "tan θ"
+        },
+        {
+          "option": "cot θ"
+        }
+      ]
+    },
+    {
+      "question": "If cot θ = 1/2, what is tan θ?",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "If sin θ = 0.5, what is csc θ?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a valid quotient identity?",
+      "options": [
+        {
+          "option": "tan θ = cos θ / sin θ"
+        },
+        {
+          "option": "tan θ = 1 / cos θ"
+        },
+        {
+          "option": "tan θ = sin θ / cos θ",
+          "is_answer": true
+        },
+        {
+          "option": "tan θ = 1 / sin θ"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a valid reciprocal identity?",
+      "options": [
+        {
+          "option": "sec θ = 1 / sin θ"
+        },
+        {
+          "option": "sec θ = sin θ / cos θ"
+        },
+        {
+          "option": "sec θ = cos θ / sin θ"
+        },
+        {
+          "option": "sec θ = 1 / cos θ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of tan θ * cot θ?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "sin θ"
+        },
+        {
+          "option": "cos θ"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of sin θ * csc θ?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "cot θ"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "tan θ"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of cos θ * sec θ?",
+      "options": [
+        {
+          "option": "sin θ"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "tan θ"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of sin(30°)?",
+      "options": [
+        {
+          "option": "1/2",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "sqrt(3)/2"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of cos(60°)?",
+      "options": [
+        {
+          "option": "sqrt(3)/2"
+        },
+        {
+          "option": "1/2",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "1/sqrt(2)"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of tan(45°)?",
+      "options": [
+        {
+          "option": "sqrt(3)"
+        },
+        {
+          "option": "1/sqrt(3)"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of sin(90°)?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "sqrt(3)/2"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of cos(0°)?",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "sqrt(3)/2"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of tan(60°)?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "1/sqrt(3)"
+        },
+        {
+          "option": "sqrt(3)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of sin(0°)?",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "sqrt(3)/2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of cos(90°)?",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "sqrt(3)/2"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of tan(30°)?",
+      "options": [
+        {
+          "option": "sqrt(3)"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1/sqrt(3)",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of sin(45°)?",
+      "options": [
+        {
+          "option": "sqrt(3)/2"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "1/sqrt(2)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of cos(45°)?",
+      "options": [
+        {
+          "option": "1/sqrt(2)",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "sqrt(3)/2"
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of sin(60°)?",
+      "options": [
+        {
+          "option": "1/sqrt(2)"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "sqrt(3)/2",
+          "is_answer": true
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of cos(30°)?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "sqrt(3)/2",
+          "is_answer": true
+        },
+        {
+          "option": "1/sqrt(2)"
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of tan(0°)?",
+      "options": [
+        {
+          "option": "1/sqrt(3)"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "sqrt(3)"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of tan(90°)?",
+      "options": [
+        {
+          "option": "sqrt(3)"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "Undefined",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "Which angle has a sine value of 1?",
+      "options": [
+        {
+          "option": "90°",
+          "is_answer": true
+        },
+        {
+          "option": "45°"
+        },
+        {
+          "option": "0°"
+        },
+        {
+          "option": "30°"
+        }
+      ]
+    },
+    {
+      "question": "Which angle has a cosine value of 0?",
+      "options": [
+        {
+          "option": "90°",
+          "is_answer": true
+        },
+        {
+          "option": "60°"
+        },
+        {
+          "option": "0°"
+        },
+        {
+          "option": "45°"
+        }
+      ]
+    },
+    {
+      "question": "Which angle has a tangent value of 1?",
+      "options": [
+        {
+          "option": "45°",
+          "is_answer": true
+        },
+        {
+          "option": "30°"
+        },
+        {
+          "option": "60°"
+        },
+        {
+          "option": "0°"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of sin(pi/6)?",
+      "options": [
+        {
+          "option": "sqrt(3)/2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "1/2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of cos(pi/3)?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "1/2",
+          "is_answer": true
+        },
+        {
+          "option": "sqrt(3)/2"
+        },
+        {
+          "option": "1/sqrt(2)"
+        }
+      ]
+    },
+    {
+      "question": "In a right triangle, which ratio represents sin(θ)?",
+      "options": [
+        {
+          "option": "Hypotenuse / Opposite"
+        },
+        {
+          "option": "Opposite / Hypotenuse",
+          "is_answer": true
+        },
+        {
+          "option": "Adjacent / Hypotenuse"
+        },
+        {
+          "option": "Opposite / Adjacent"
+        }
+      ]
+    },
+    {
+      "question": "Which trigonometric ratio is defined as Adjacent / Hypotenuse?",
+      "options": [
+        {
+          "option": "sin(θ)"
+        },
+        {
+          "option": "csc(θ)"
+        },
+        {
+          "option": "tan(θ)"
+        },
+        {
+          "option": "cos(θ)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the definition of tan(θ) in a right triangle?",
+      "options": [
+        {
+          "option": "Adjacent / Opposite"
+        },
+        {
+          "option": "Opposite / Hypotenuse"
+        },
+        {
+          "option": "Opposite / Adjacent",
+          "is_answer": true
+        },
+        {
+          "option": "Hypotenuse / Opposite"
+        }
+      ]
+    },
+    {
+      "question": "The reciprocal of sin(θ) is defined as which ratio?",
+      "options": [
+        {
+          "option": "cos(θ)"
+        },
+        {
+          "option": "csc(θ)",
+          "is_answer": true
+        },
+        {
+          "option": "cot(θ)"
+        },
+        {
+          "option": "sec(θ)"
+        }
+      ]
+    },
+    {
+      "question": "Which ratio is equal to sec(θ)?",
+      "options": [
+        {
+          "option": "Adjacent / Hypotenuse"
+        },
+        {
+          "option": "Hypotenuse / Adjacent",
+          "is_answer": true
+        },
+        {
+          "option": "Opposite / Adjacent"
+        },
+        {
+          "option": "Hypotenuse / Opposite"
+        }
+      ]
+    },
+    {
+      "question": "What is the ratio for cot(θ)?",
+      "options": [
+        {
+          "option": "Hypotenuse / Adjacent"
+        },
+        {
+          "option": "Adjacent / Hypotenuse"
+        },
+        {
+          "option": "Adjacent / Opposite",
+          "is_answer": true
+        },
+        {
+          "option": "Opposite / Adjacent"
+        }
+      ]
+    },
+    {
+      "question": "In a right triangle, if the opposite side is 3 and hypotenuse is 5, what is sin(θ)?",
+      "options": [
+        {
+          "option": "4/5"
+        },
+        {
+          "option": "5/3"
+        },
+        {
+          "option": "3/4"
+        },
+        {
+          "option": "3/5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which trigonometric function is the reciprocal of cos(θ)?",
+      "options": [
+        {
+          "option": "sec(θ)",
+          "is_answer": true
+        },
+        {
+          "option": "cot(θ)"
+        },
+        {
+          "option": "csc(θ)"
+        },
+        {
+          "option": "sin(θ)"
+        }
+      ]
+    },
+    {
+      "question": "If tan(θ) = 1, what is the relationship between the opposite and adjacent sides?",
+      "options": [
+        {
+          "option": "Adjacent is double the opposite"
+        },
+        {
+          "option": "They are equal",
+          "is_answer": true
+        },
+        {
+          "option": "They are unequal"
+        },
+        {
+          "option": "Opposite is double the adjacent"
+        }
+      ]
+    },
+    {
+      "question": "Which ratio represents csc(θ)?",
+      "options": [
+        {
+          "option": "Adjacent / Hypotenuse"
+        },
+        {
+          "option": "Hypotenuse / Opposite",
+          "is_answer": true
+        },
+        {
+          "option": "Opposite / Hypotenuse"
+        },
+        {
+          "option": "Hypotenuse / Adjacent"
+        }
+      ]
+    },
+    {
+      "question": "In SOH CAH TOA, what does 'CAH' stand for?",
+      "options": [
+        {
+          "option": "cos = Adj / Opp"
+        },
+        {
+          "option": "cos = Adj / Hyp",
+          "is_answer": true
+        },
+        {
+          "option": "cos = Opp / Hyp"
+        },
+        {
+          "option": "cos = Hyp / Adj"
+        }
+      ]
+    },
+    {
+      "question": "In SOH CAH TOA, what does 'TOA' stand for?",
+      "options": [
+        {
+          "option": "tan = Opp / Adj",
+          "is_answer": true
+        },
+        {
+          "option": "tan = Adj / Opp"
+        },
+        {
+          "option": "tan = Hyp / Opp"
+        },
+        {
+          "option": "tan = Opp / Hyp"
+        }
+      ]
+    },
+    {
+      "question": "Which ratio is equivalent to 1/tan(θ)?",
+      "options": [
+        {
+          "option": "sin(θ)"
+        },
+        {
+          "option": "csc(θ)"
+        },
+        {
+          "option": "cot(θ)",
+          "is_answer": true
+        },
+        {
+          "option": "sec(θ)"
+        }
+      ]
+    },
+    {
+      "question": "In a right triangle, the hypotenuse is always:",
+      "options": [
+        {
+          "option": "The shortest side"
+        },
+        {
+          "option": "The longest side",
+          "is_answer": true
+        },
+        {
+          "option": "Equal to the adjacent side"
+        },
+        {
+          "option": "Equal to the opposite side"
+        }
+      ]
+    },
+    {
+      "question": "If sin(θ) = 0.6, what is csc(θ)?",
+      "options": [
+        {
+          "option": "0.4"
+        },
+        {
+          "option": "1.66",
+          "is_answer": true
+        },
+        {
+          "option": "0.6"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "Which trigonometric ratio is defined as Opposite / Adjacent?",
+      "options": [
+        {
+          "option": "cos(θ)"
+        },
+        {
+          "option": "cot(θ)"
+        },
+        {
+          "option": "sin(θ)"
+        },
+        {
+          "option": "tan(θ)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If cos(θ) = 0.5, what is sec(θ)?",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "1.5"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is true for a right triangle?",
+      "options": [
+        {
+          "option": "sin²θ + cos²θ = 1",
+          "is_answer": true
+        },
+        {
+          "option": "sinθ + cosθ = 1"
+        },
+        {
+          "option": "sin²θ - cos²θ = 1"
+        },
+        {
+          "option": "tanθ = sinθ * cosθ"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of tan(θ) if sin(θ) = 3/5 and cos(θ) = 4/5?",
+      "options": [
+        {
+          "option": "4/5"
+        },
+        {
+          "option": "3/5"
+        },
+        {
+          "option": "3/4",
+          "is_answer": true
+        },
+        {
+          "option": "4/3"
+        }
+      ]
+    },
+    {
+      "question": "In SOH CAH TOA, what does 'SOH' stand for?",
+      "options": [
+        {
+          "option": "sin = Opp / Hyp",
+          "is_answer": true
+        },
+        {
+          "option": "sin = Hyp / Opp"
+        },
+        {
+          "option": "sin = Opp / Adj"
+        },
+        {
+          "option": "sin = Adj / Hyp"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of sin(45° + 30°)?",
+      "options": [
+        {
+          "option": "(√3 - 1)/2"
+        },
+        {
+          "option": "(√3 + 1)/2"
+        },
+        {
+          "option": "(√6 + √2)/4",
+          "is_answer": true
+        },
+        {
+          "option": "(√6 - √2)/4"
+        }
+      ]
+    },
+    {
+      "question": "What is the expansion of cos(A - B)?",
+      "options": [
+        {
+          "option": "sin A cos B + cos A sin B"
+        },
+        {
+          "option": "cos A cos B - sin A sin B"
+        },
+        {
+          "option": "cos A cos B + sin A sin B",
+          "is_answer": true
+        },
+        {
+          "option": "sin A cos B - cos A sin B"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of sin(60° - 30°)?",
+      "options": [
+        {
+          "option": "1/√2"
+        },
+        {
+          "option": "√3/2"
+        },
+        {
+          "option": "1/2",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of cos(45° + 45°)?",
+      "options": [
+        {
+          "option": "-1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "Which formula represents sin(A + B)?",
+      "options": [
+        {
+          "option": "sin A cos B + cos A sin B",
+          "is_answer": true
+        },
+        {
+          "option": "cos A cos B + sin A sin B"
+        },
+        {
+          "option": "sin A cos B - cos A sin B"
+        },
+        {
+          "option": "cos A cos B - sin A sin B"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of cos(60° + 30°)?",
+      "options": [
+        {
+          "option": "√3/2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate sin(A - B) when A=90° and B=30°.",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "√3/2",
+          "is_answer": true
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of sin(30° + 60°)?",
+      "options": [
+        {
+          "option": "√3/2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which formula is equivalent to cos(A + B)?",
+      "options": [
+        {
+          "option": "cos A cos B - sin A sin B",
+          "is_answer": true
+        },
+        {
+          "option": "cos A cos B + sin A sin B"
+        },
+        {
+          "option": "sin A cos B + cos A sin B"
+        },
+        {
+          "option": "sin A cos B - cos A sin B"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of sin(45° - 30°)?",
+      "options": [
+        {
+          "option": "(√3 - 1)/2"
+        },
+        {
+          "option": "(√3 + 1)/2"
+        },
+        {
+          "option": "(√6 - √2)/4",
+          "is_answer": true
+        },
+        {
+          "option": "(√6 + √2)/4"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of cos(60° - 30°)?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "√3/2",
+          "is_answer": true
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "If sin A = 3/5 and cos B = 12/13, what is sin(A + B)?",
+      "options": [
+        {
+          "option": "33/65"
+        },
+        {
+          "option": "56/65",
+          "is_answer": true
+        },
+        {
+          "option": "16/65"
+        },
+        {
+          "option": "63/65"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of sin(180° + A)?",
+      "options": [
+        {
+          "option": "cos A"
+        },
+        {
+          "option": "sin A"
+        },
+        {
+          "option": "-cos A"
+        },
+        {
+          "option": "-sin A",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of cos(180° - A)?",
+      "options": [
+        {
+          "option": "-cos A",
+          "is_answer": true
+        },
+        {
+          "option": "sin A"
+        },
+        {
+          "option": "-sin A"
+        },
+        {
+          "option": "cos A"
+        }
+      ]
+    },
+    {
+      "question": "Which expression is equal to sin A cos B - cos A sin B?",
+      "options": [
+        {
+          "option": "sin(A - B)",
+          "is_answer": true
+        },
+        {
+          "option": "cos(A + B)"
+        },
+        {
+          "option": "sin(A + B)"
+        },
+        {
+          "option": "cos(A - B)"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of sin(90° + A)?",
+      "options": [
+        {
+          "option": "-cos A"
+        },
+        {
+          "option": "-sin A"
+        },
+        {
+          "option": "sin A"
+        },
+        {
+          "option": "cos A",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of cos(90° + A)?",
+      "options": [
+        {
+          "option": "-cos A"
+        },
+        {
+          "option": "sin A"
+        },
+        {
+          "option": "-sin A",
+          "is_answer": true
+        },
+        {
+          "option": "cos A"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of sin(90° - A)?",
+      "options": [
+        {
+          "option": "-cos A"
+        },
+        {
+          "option": "-sin A"
+        },
+        {
+          "option": "cos A",
+          "is_answer": true
+        },
+        {
+          "option": "sin A"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of cos(90° - A)?",
+      "options": [
+        {
+          "option": "sin A",
+          "is_answer": true
+        },
+        {
+          "option": "cos A"
+        },
+        {
+          "option": "-cos A"
+        },
+        {
+          "option": "-sin A"
+        }
+      ]
+    },
+    {
+      "question": "Which expression is equal to cos A cos B + sin A sin B?",
+      "options": [
+        {
+          "option": "sin(A - B)"
+        },
+        {
+          "option": "cos(A - B)",
+          "is_answer": true
+        },
+        {
+          "option": "sin(A + B)"
+        },
+        {
+          "option": "cos(A + B)"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of sin(180° - θ)?",
+      "options": [
+        {
+          "option": "-cos θ"
+        },
+        {
+          "option": "sin θ",
+          "is_answer": true
+        },
+        {
+          "option": "-sin θ"
+        },
+        {
+          "option": "cos θ"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of cos(180° - θ)?",
+      "options": [
+        {
+          "option": "cos θ"
+        },
+        {
+          "option": "-cos θ",
+          "is_answer": true
+        },
+        {
+          "option": "sin θ"
+        },
+        {
+          "option": "-sin θ"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of tan(180° + θ)?",
+      "options": [
+        {
+          "option": "cot θ"
+        },
+        {
+          "option": "-tan θ"
+        },
+        {
+          "option": "-cot θ"
+        },
+        {
+          "option": "tan θ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of sin(-θ)?",
+      "options": [
+        {
+          "option": "cos θ"
+        },
+        {
+          "option": "-cos θ"
+        },
+        {
+          "option": "-sin θ",
+          "is_answer": true
+        },
+        {
+          "option": "sin θ"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of cos(-θ)?",
+      "options": [
+        {
+          "option": "-sin θ"
+        },
+        {
+          "option": "sin θ"
+        },
+        {
+          "option": "-cos θ"
+        },
+        {
+          "option": "cos θ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of sin(360° - θ)?",
+      "options": [
+        {
+          "option": "-cos θ"
+        },
+        {
+          "option": "-sin θ",
+          "is_answer": true
+        },
+        {
+          "option": "cos θ"
+        },
+        {
+          "option": "sin θ"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of cos(360° - θ)?",
+      "options": [
+        {
+          "option": "-sin θ"
+        },
+        {
+          "option": "-cos θ"
+        },
+        {
+          "option": "cos θ",
+          "is_answer": true
+        },
+        {
+          "option": "sin θ"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of sin(90° + θ)?",
+      "options": [
+        {
+          "option": "sin θ"
+        },
+        {
+          "option": "cos θ",
+          "is_answer": true
+        },
+        {
+          "option": "-sin θ"
+        },
+        {
+          "option": "-cos θ"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of cos(90° + θ)?",
+      "options": [
+        {
+          "option": "sin θ"
+        },
+        {
+          "option": "-cos θ"
+        },
+        {
+          "option": "cos θ"
+        },
+        {
+          "option": "-sin θ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of tan(90° + θ)?",
+      "options": [
+        {
+          "option": "-cot θ",
+          "is_answer": true
+        },
+        {
+          "option": "cot θ"
+        },
+        {
+          "option": "-tan θ"
+        },
+        {
+          "option": "tan θ"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of sin(270° - θ)?",
+      "options": [
+        {
+          "option": "cos θ"
+        },
+        {
+          "option": "sin θ"
+        },
+        {
+          "option": "-sin θ"
+        },
+        {
+          "option": "-cos θ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of cos(270° - θ)?",
+      "options": [
+        {
+          "option": "-sin θ",
+          "is_answer": true
+        },
+        {
+          "option": "-cos θ"
+        },
+        {
+          "option": "cos θ"
+        },
+        {
+          "option": "sin θ"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of sin(270° + θ)?",
+      "options": [
+        {
+          "option": "cos θ"
+        },
+        {
+          "option": "-cos θ",
+          "is_answer": true
+        },
+        {
+          "option": "sin θ"
+        },
+        {
+          "option": "-sin θ"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of cos(270° + θ)?",
+      "options": [
+        {
+          "option": "sin θ",
+          "is_answer": true
+        },
+        {
+          "option": "-cos θ"
+        },
+        {
+          "option": "cos θ"
+        },
+        {
+          "option": "-sin θ"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of tan(360° + θ)?",
+      "options": [
+        {
+          "option": "-tan θ"
+        },
+        {
+          "option": "cot θ"
+        },
+        {
+          "option": "tan θ",
+          "is_answer": true
+        },
+        {
+          "option": "-cot θ"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of tan(-θ)?",
+      "options": [
+        {
+          "option": "cot θ"
+        },
+        {
+          "option": "tan θ"
+        },
+        {
+          "option": "-cot θ"
+        },
+        {
+          "option": "-tan θ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of sin(180° + θ)?",
+      "options": [
+        {
+          "option": "cos θ"
+        },
+        {
+          "option": "sin θ"
+        },
+        {
+          "option": "-cos θ"
+        },
+        {
+          "option": "-sin θ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of cos(180° + θ)?",
+      "options": [
+        {
+          "option": "-sin θ"
+        },
+        {
+          "option": "sin θ"
+        },
+        {
+          "option": "-cos θ",
+          "is_answer": true
+        },
+        {
+          "option": "cos θ"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of tan(270° - θ)?",
+      "options": [
+        {
+          "option": "cot θ",
+          "is_answer": true
+        },
+        {
+          "option": "tan θ"
+        },
+        {
+          "option": "-cot θ"
+        },
+        {
+          "option": "-tan θ"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of tan(270° + θ)?",
+      "options": [
+        {
+          "option": "-tan θ"
+        },
+        {
+          "option": "cot θ"
+        },
+        {
+          "option": "-cot θ",
+          "is_answer": true
+        },
+        {
+          "option": "tan θ"
+        }
+      ]
+    },
+    {
+      "question": "What is the formula for tan(A + B)?",
+      "options": [
+        {
+          "option": "(tan A - tan B) / (1 + tan A tan B)"
+        },
+        {
+          "option": "(tan A + tan B) / (1 + tan A tan B)"
+        },
+        {
+          "option": "(tan A + tan B) / (1 - tan A tan B)",
+          "is_answer": true
+        },
+        {
+          "option": "(tan A - tan B) / (1 - tan A tan B)"
+        }
+      ]
+    },
+    {
+      "question": "What is the formula for tan(A - B)?",
+      "options": [
+        {
+          "option": "(tan A - tan B) / (1 + tan A tan B)",
+          "is_answer": true
+        },
+        {
+          "option": "(tan A + tan B) / (1 - tan A tan B)"
+        },
+        {
+          "option": "(tan A - tan B) / (1 - tan A tan B)"
+        },
+        {
+          "option": "(tan A + tan B) / (1 + tan A tan B)"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of tan(45° + A)?",
+      "options": [
+        {
+          "option": "(1 - tan A) / (1 + tan A)"
+        },
+        {
+          "option": "(tan A + 1) / (tan A - 1)"
+        },
+        {
+          "option": "(1 + tan A) / (1 - tan A)",
+          "is_answer": true
+        },
+        {
+          "option": "(1 + tan A) / (1 + tan A)"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of tan(45° - A)?",
+      "options": [
+        {
+          "option": "(1 + tan A) / (1 - tan A)"
+        },
+        {
+          "option": "(1 - tan A) / (1 - tan A)"
+        },
+        {
+          "option": "(1 - tan A) / (1 + tan A)",
+          "is_answer": true
+        },
+        {
+          "option": "(tan A - 1) / (tan A + 1)"
+        }
+      ]
+    },
+    {
+      "question": "What is the formula for cot(A + B)?",
+      "options": [
+        {
+          "option": "(cot A - cot B) / (cot A cot B + 1)"
+        },
+        {
+          "option": "(cot A cot B - 1) / (cot B + cot A)",
+          "is_answer": true
+        },
+        {
+          "option": "(cot A + cot B) / (cot A cot B - 1)"
+        },
+        {
+          "option": "(cot A cot B + 1) / (cot B - cot A)"
+        }
+      ]
+    },
+    {
+      "question": "What is the formula for cot(A - B)?",
+      "options": [
+        {
+          "option": "(cot A - cot B) / (cot A cot B + 1)"
+        },
+        {
+          "option": "(cot A cot B - 1) / (cot B + cot A)"
+        },
+        {
+          "option": "(cot A + cot B) / (cot A cot B - 1)"
+        },
+        {
+          "option": "(cot A cot B + 1) / (cot B - cot A)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of tan(60° + 45°)?",
+      "options": [
+        {
+          "option": "(√3 + 1) / (1 + √3)"
+        },
+        {
+          "option": "(√3 - 1) / (1 + √3)"
+        },
+        {
+          "option": "(√3 + 1) / (1 - √3)",
+          "is_answer": true
+        },
+        {
+          "option": "(1 + √3) / (1 + √3)"
+        }
+      ]
+    },
+    {
+      "question": "If tan A = 1/2 and tan B = 1/3, what is tan(A + B)?",
+      "options": [
+        {
+          "option": "1/6"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "5/6"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of tan(A + B) if tan A = 3 and tan B = 2?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "1/5"
+        },
+        {
+          "option": "-1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is equivalent to tan(A + B) * tan(A - B)?",
+      "options": [
+        {
+          "option": "(tan² A + tan² B) / (1 + tan² A tan² B)"
+        },
+        {
+          "option": "(tan A + tan B) / (1 - tan A tan B)"
+        },
+        {
+          "option": "(tan A - tan B) / (1 + tan A tan B)"
+        },
+        {
+          "option": "(tan² A - tan² B) / (1 - tan² A tan² B)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is tan(A + B + C) equal to?",
+      "options": [
+        {
+          "option": "(Σtan A + Πtan A) / (1 + Σtan A tan B)"
+        },
+        {
+          "option": "(Σtan A - Πtan A) / (1 - Σtan A tan B)",
+          "is_answer": true
+        },
+        {
+          "option": "(Σtan A - Πtan A) / (1 + Σtan A tan B)"
+        },
+        {
+          "option": "(Πtan A - Σtan A) / (1 - Σtan A tan B)"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of tan(135°)?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "undefined"
+        }
+      ]
+    },
+    {
+      "question": "If tan(A + B) = 1 and tan A = 1/2, find tan B.",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "2/3"
+        },
+        {
+          "option": "1/3",
+          "is_answer": true
+        },
+        {
+          "option": "3/4"
+        }
+      ]
+    },
+    {
+      "question": "What is the expansion of tan(x + 45°)?",
+      "options": [
+        {
+          "option": "(1 + tan x) / (1 - tan x)",
+          "is_answer": true
+        },
+        {
+          "option": "(1 - tan x) / (1 - tan x)"
+        },
+        {
+          "option": "(tan x + 1) / (1 + tan x)"
+        },
+        {
+          "option": "(1 - tan x) / (1 + tan x)"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of (tan 60° + tan 15°) / (1 - tan 60° tan 15°)?",
+      "options": [
+        {
+          "option": "tan 30°"
+        },
+        {
+          "option": "tan 75°",
+          "is_answer": true
+        },
+        {
+          "option": "tan 90°"
+        },
+        {
+          "option": "tan 45°"
+        }
+      ]
+    },
+    {
+      "question": "Which formula represents tan(A - B) correctly?",
+      "options": [
+        {
+          "option": "(tan A - tan B) / (1 + tan A tan B)",
+          "is_answer": true
+        },
+        {
+          "option": "(tan A - tan B) / (1 - tan A tan B)"
+        },
+        {
+          "option": "(tan A + tan B) / (1 + tan A tan B)"
+        },
+        {
+          "option": "(tan A + tan B) / (1 - tan A tan B)"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of tan(A - B) if tan A = 1 and tan B = 1/3?",
+      "options": [
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "2/3"
+        },
+        {
+          "option": "1/2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The expression (tan 20° + tan 25°) / (1 - tan 20° tan 25°) simplifies to:",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "tan 5°"
+        },
+        {
+          "option": "tan 45°"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of cot(A + B) in terms of tan?",
+      "options": [
+        {
+          "option": "(1 + tan A tan B) / (tan A - tan B)"
+        },
+        {
+          "option": "(tan A - tan B) / (1 + tan A tan B)"
+        },
+        {
+          "option": "(tan A + tan B) / (1 - tan A tan B)"
+        },
+        {
+          "option": "(1 - tan A tan B) / (tan A + tan B)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If tan(A + B) = 3 and tan(A - B) = 2, what is tan 2A?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "1/5"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "What is the product-to-sum formula for 2 sin A cos B?",
+      "options": [
+        {
+          "option": "sin(A+B) + sin(A-B)",
+          "is_answer": true
+        },
+        {
+          "option": "cos(A-B) - cos(A+B)"
+        },
+        {
+          "option": "sin(A+B) - sin(A-B)"
+        },
+        {
+          "option": "cos(A+B) + cos(A-B)"
+        }
+      ]
+    },
+    {
+      "question": "What is the product-to-sum formula for 2 cos A cos B?",
+      "options": [
+        {
+          "option": "cos(A+B) - cos(A-B)"
+        },
+        {
+          "option": "cos(A+B) + cos(A-B)",
+          "is_answer": true
+        },
+        {
+          "option": "sin(A+B) + sin(A-B)"
+        },
+        {
+          "option": "sin(A-B) - sin(A+B)"
+        }
+      ]
+    },
+    {
+      "question": "What is the product-to-sum formula for 2 sin A sin B?",
+      "options": [
+        {
+          "option": "cos(A-B) - cos(A+B)",
+          "is_answer": true
+        },
+        {
+          "option": "sin(A+B) + sin(A-B)"
+        },
+        {
+          "option": "cos(A+B) - cos(A-B)"
+        },
+        {
+          "option": "sin(A+B) - sin(A-B)"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate 2 sin 30° cos 10°.",
+      "options": [
+        {
+          "option": "sin 40° + sin 20°",
+          "is_answer": true
+        },
+        {
+          "option": "cos 40° - cos 20°"
+        },
+        {
+          "option": "sin 40° - sin 20°"
+        },
+        {
+          "option": "cos 40° + cos 20°"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate 2 cos 50° cos 20°.",
+      "options": [
+        {
+          "option": "cos 70° - cos 30°"
+        },
+        {
+          "option": "sin 70° + sin 30°"
+        },
+        {
+          "option": "sin 70° - sin 30°"
+        },
+        {
+          "option": "cos 70° + cos 30°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Evaluate 2 sin 40° sin 10°.",
+      "options": [
+        {
+          "option": "cos 50° - cos 30°"
+        },
+        {
+          "option": "sin 50° - sin 30°"
+        },
+        {
+          "option": "sin 30° - sin 50°"
+        },
+        {
+          "option": "cos 30° - cos 50°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which expression is equivalent to sin 60° + sin 20°?",
+      "options": [
+        {
+          "option": "2 sin 40° sin 20°"
+        },
+        {
+          "option": "2 cos 40° cos 20°"
+        },
+        {
+          "option": "2 sin 20° cos 40°"
+        },
+        {
+          "option": "2 sin 40° cos 20°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which expression is equivalent to cos 80° + cos 20°?",
+      "options": [
+        {
+          "option": "2 sin 50° sin 30°"
+        },
+        {
+          "option": "2 cos 50° sin 30°"
+        },
+        {
+          "option": "2 sin 50° cos 30°"
+        },
+        {
+          "option": "2 cos 50° cos 30°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which expression is equivalent to cos 20° - cos 40°?",
+      "options": [
+        {
+          "option": "2 sin 10° sin 30°"
+        },
+        {
+          "option": "2 cos 30° cos 10°"
+        },
+        {
+          "option": "2 sin 30° sin 10°",
+          "is_answer": true
+        },
+        {
+          "option": "2 cos 10° cos 30°"
+        }
+      ]
+    },
+    {
+      "question": "Simplify 2 sin 3x cos x.",
+      "options": [
+        {
+          "option": "sin 4x - sin 2x"
+        },
+        {
+          "option": "sin 4x + sin 2x",
+          "is_answer": true
+        },
+        {
+          "option": "cos 4x - cos 2x"
+        },
+        {
+          "option": "cos 4x + cos 2x"
+        }
+      ]
+    },
+    {
+      "question": "Simplify 2 cos 4x cos 2x.",
+      "options": [
+        {
+          "option": "cos 6x + cos 2x",
+          "is_answer": true
+        },
+        {
+          "option": "cos 6x - cos 2x"
+        },
+        {
+          "option": "sin 6x + sin 2x"
+        },
+        {
+          "option": "sin 6x - sin 2x"
+        }
+      ]
+    },
+    {
+      "question": "Simplify 2 sin 5x sin 3x.",
+      "options": [
+        {
+          "option": "cos 8x - cos 2x"
+        },
+        {
+          "option": "cos 2x - cos 8x",
+          "is_answer": true
+        },
+        {
+          "option": "sin 2x - sin 8x"
+        },
+        {
+          "option": "sin 8x - sin 2x"
+        }
+      ]
+    },
+    {
+      "question": "Which formula represents 2 sin A cos B?",
+      "options": [
+        {
+          "option": "cos(A-B) - cos(A+B)"
+        },
+        {
+          "option": "cos(A+B) + cos(A-B)"
+        },
+        {
+          "option": "sin(A+B) + sin(A-B)",
+          "is_answer": true
+        },
+        {
+          "option": "sin(A+B) - sin(A-B)"
+        }
+      ]
+    },
+    {
+      "question": "Which formula represents 2 cos A cos B?",
+      "options": [
+        {
+          "option": "cos(A-B) - cos(A+B)"
+        },
+        {
+          "option": "cos(A+B) + cos(A-B)",
+          "is_answer": true
+        },
+        {
+          "option": "sin(A+B) - sin(A-B)"
+        },
+        {
+          "option": "sin(A+B) + sin(A-B)"
+        }
+      ]
+    },
+    {
+      "question": "Which formula represents 2 sin A sin B?",
+      "options": [
+        {
+          "option": "sin(A+B) + sin(A-B)"
+        },
+        {
+          "option": "cos(A+B) + cos(A-B)"
+        },
+        {
+          "option": "sin(A+B) - sin(A-B)"
+        },
+        {
+          "option": "cos(A-B) - cos(A+B)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Evaluate 2 sin 75° cos 15°.",
+      "options": [
+        {
+          "option": "cos 90° - cos 60°"
+        },
+        {
+          "option": "sin 90° + sin 60°",
+          "is_answer": true
+        },
+        {
+          "option": "cos 90° + cos 60°"
+        },
+        {
+          "option": "sin 90° - sin 60°"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate 2 cos 45° cos 15°.",
+      "options": [
+        {
+          "option": "cos 60° - cos 30°"
+        },
+        {
+          "option": "sin 60° - sin 30°"
+        },
+        {
+          "option": "sin 60° + sin 30°"
+        },
+        {
+          "option": "cos 60° + cos 30°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Evaluate 2 sin 60° sin 30°.",
+      "options": [
+        {
+          "option": "sin 90° - sin 30°"
+        },
+        {
+          "option": "sin 30° - sin 90°"
+        },
+        {
+          "option": "cos 90° - cos 30°"
+        },
+        {
+          "option": "cos 30° - cos 90°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which expression is equivalent to sin 50° + sin 10°?",
+      "options": [
+        {
+          "option": "2 sin 30° sin 20°"
+        },
+        {
+          "option": "2 sin 20° cos 30°"
+        },
+        {
+          "option": "2 cos 30° cos 20°"
+        },
+        {
+          "option": "2 sin 30° cos 20°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which expression is equivalent to cos 70° + cos 10°?",
+      "options": [
+        {
+          "option": "2 sin 40° sin 30°"
+        },
+        {
+          "option": "2 cos 40° sin 30°"
+        },
+        {
+          "option": "2 sin 40° cos 30°"
+        },
+        {
+          "option": "2 cos 40° cos 30°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the power reduction formula for sin^2(x)?",
+      "options": [
+        {
+          "option": "(1 + cos 2x) / 2"
+        },
+        {
+          "option": "(1 + sin 2x) / 2"
+        },
+        {
+          "option": "(1 - cos 2x) / 2",
+          "is_answer": true
+        },
+        {
+          "option": "(1 - sin 2x) / 2"
+        }
+      ]
+    },
+    {
+      "question": "What is the power reduction formula for cos^2(x)?",
+      "options": [
+        {
+          "option": "(1 + sin 2x) / 2"
+        },
+        {
+          "option": "(1 - cos 2x) / 2"
+        },
+        {
+          "option": "(1 - sin 2x) / 2"
+        },
+        {
+          "option": "(1 + cos 2x) / 2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is equivalent to sin^2(A/2)?",
+      "options": [
+        {
+          "option": "(1 + sin A) / 2"
+        },
+        {
+          "option": "(1 - sin A) / 2"
+        },
+        {
+          "option": "(1 + cos A) / 2"
+        },
+        {
+          "option": "(1 - cos A) / 2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is equivalent to cos^2(A/2)?",
+      "options": [
+        {
+          "option": "(1 - sin A) / 2"
+        },
+        {
+          "option": "(1 - cos A) / 2"
+        },
+        {
+          "option": "(1 + sin A) / 2"
+        },
+        {
+          "option": "(1 + cos A) / 2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the formula for tan(A/2) in terms of cos A and sin A?",
+      "options": [
+        {
+          "option": "(1 + cos A) / sin A"
+        },
+        {
+          "option": "sin A / (1 + cos A)"
+        },
+        {
+          "option": "sin A / (1 - cos A)"
+        },
+        {
+          "option": "(1 - cos A) / sin A",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If cos A = 0.6, what is sin^2(A/2)?",
+      "options": [
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0.2",
+          "is_answer": true
+        },
+        {
+          "option": "0.8"
+        },
+        {
+          "option": "0.4"
+        }
+      ]
+    },
+    {
+      "question": "If cos A = 0.6, what is cos^2(A/2)?",
+      "options": [
+        {
+          "option": "0.8",
+          "is_answer": true
+        },
+        {
+          "option": "0.6"
+        },
+        {
+          "option": "0.2"
+        },
+        {
+          "option": "0.4"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of sin^2(15 degrees) using half angle formula (cos 30 = sqrt(3)/2)?",
+      "options": [
+        {
+          "option": "(2 - sqrt(3)) / 4",
+          "is_answer": true
+        },
+        {
+          "option": "(2 + sqrt(3)) / 4"
+        },
+        {
+          "option": "(1 - sqrt(3)) / 2"
+        },
+        {
+          "option": "(1 + sqrt(3)) / 2"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of cos^2(15 degrees) using half angle formula (cos 30 = sqrt(3)/2)?",
+      "options": [
+        {
+          "option": "(1 - sqrt(3)) / 2"
+        },
+        {
+          "option": "(2 + sqrt(3)) / 4",
+          "is_answer": true
+        },
+        {
+          "option": "(2 - sqrt(3)) / 4"
+        },
+        {
+          "option": "(1 + sqrt(3)) / 2"
+        }
+      ]
+    },
+    {
+      "question": "Which identity is used to derive the power reduction formula for sin^2(x)?",
+      "options": [
+        {
+          "option": "cos 2x = 1 - 2sin^2(x)",
+          "is_answer": true
+        },
+        {
+          "option": "cos 2x = 2cos^2(x) - 1"
+        },
+        {
+          "option": "cos 2x = cos^2(x) - sin^2(x)"
+        },
+        {
+          "option": "sin 2x = 2sin x cos x"
+        }
+      ]
+    },
+    {
+      "question": "Which identity is used to derive the power reduction formula for cos^2(x)?",
+      "options": [
+        {
+          "option": "cos 2x = cos^2(x) - sin^2(x)"
+        },
+        {
+          "option": "sin 2x = 2sin x cos x"
+        },
+        {
+          "option": "cos 2x = 2cos^2(x) - 1",
+          "is_answer": true
+        },
+        {
+          "option": "cos 2x = 1 - 2sin^2(x)"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of tan(A/2) if cos A = 0 and sin A = 1?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "undefined"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of tan(A/2) if cos A = -1 and sin A = 0?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "undefined"
+        }
+      ]
+    },
+    {
+      "question": "The expression (1 - cos 2x) / (1 + cos 2x) is equal to:",
+      "options": [
+        {
+          "option": "tan^2(x)",
+          "is_answer": true
+        },
+        {
+          "option": "cos^2(x)"
+        },
+        {
+          "option": "cot^2(x)"
+        },
+        {
+          "option": "sin^2(x)"
+        }
+      ]
+    },
+    {
+      "question": "What is 2 sin^2(A/2) + cos A?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "What is 2 cos^2(A/2) - cos A?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "Which formula is correct for tan(A/2)?",
+      "options": [
+        {
+          "option": "(1 - cos A) / sin A",
+          "is_answer": true
+        },
+        {
+          "option": "sin A / (1 + cos A)"
+        },
+        {
+          "option": "(1 - sin A) / cos A"
+        },
+        {
+          "option": "(1 + cos A) / sin A"
+        }
+      ]
+    },
+    {
+      "question": "If sin^2(A/2) = 0.5, what is cos A?",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0.5"
+        }
+      ]
+    },
+    {
+      "question": "If cos^2(A/2) = 0.5, what is cos A?",
+      "options": [
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of tan(A/2) if cos A = 1?",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "undefined"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "What is the general solution for sin(θ) = 0?",
+      "options": [
+        {
+          "option": "2nπ"
+        },
+        {
+          "option": "nπ + π/2"
+        },
+        {
+          "option": "2nπ + π"
+        },
+        {
+          "option": "nπ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the general solution for cos(θ) = 0?",
+      "options": [
+        {
+          "option": "nπ + π/2"
+        },
+        {
+          "option": "2nπ"
+        },
+        {
+          "option": "(2n+1)π/2",
+          "is_answer": true
+        },
+        {
+          "option": "nπ"
+        }
+      ]
+    },
+    {
+      "question": "The general solution of sin(θ) = 1 is:",
+      "options": [
+        {
+          "option": "nπ"
+        },
+        {
+          "option": "(4n+1)π/2",
+          "is_answer": true
+        },
+        {
+          "option": "2nπ"
+        },
+        {
+          "option": "nπ + π/2"
+        }
+      ]
+    },
+    {
+      "question": "The general solution of cos(θ) = 1 is:",
+      "options": [
+        {
+          "option": "2nπ",
+          "is_answer": true
+        },
+        {
+          "option": "nπ"
+        },
+        {
+          "option": "nπ/2"
+        },
+        {
+          "option": "(2n+1)π"
+        }
+      ]
+    },
+    {
+      "question": "The general solution of tan(θ) = 0 is:",
+      "options": [
+        {
+          "option": "nπ/2"
+        },
+        {
+          "option": "2nπ"
+        },
+        {
+          "option": "(2n+1)π/2"
+        },
+        {
+          "option": "nπ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If sin(θ) = sin(α), then the general solution is:",
+      "options": [
+        {
+          "option": "nπ + (-1)^n α",
+          "is_answer": true
+        },
+        {
+          "option": "nπ ± α"
+        },
+        {
+          "option": "2nπ ± α"
+        },
+        {
+          "option": "2nπ + α"
+        }
+      ]
+    },
+    {
+      "question": "If cos(θ) = cos(α), then the general solution is:",
+      "options": [
+        {
+          "option": "2nπ ± α",
+          "is_answer": true
+        },
+        {
+          "option": "nπ + (-1)^n α"
+        },
+        {
+          "option": "nπ ± α"
+        },
+        {
+          "option": "2nπ + α"
+        }
+      ]
+    },
+    {
+      "question": "The general solution of tan(θ) = tan(α) is:",
+      "options": [
+        {
+          "option": "nπ + α",
+          "is_answer": true
+        },
+        {
+          "option": "nπ ± α"
+        },
+        {
+          "option": "2nπ + α"
+        },
+        {
+          "option": "2nπ ± α"
+        }
+      ]
+    },
+    {
+      "question": "What is the general solution for sin(θ) = -1?",
+      "options": [
+        {
+          "option": "nπ"
+        },
+        {
+          "option": "2nπ + π/2"
+        },
+        {
+          "option": "(4n-1)π/2",
+          "is_answer": true
+        },
+        {
+          "option": "nπ + π"
+        }
+      ]
+    },
+    {
+      "question": "The general solution of cos(θ) = -1 is:",
+      "options": [
+        {
+          "option": "nπ/2"
+        },
+        {
+          "option": "nπ"
+        },
+        {
+          "option": "(2n+1)π",
+          "is_answer": true
+        },
+        {
+          "option": "2nπ"
+        }
+      ]
+    },
+    {
+      "question": "Solve sin(θ) = 1/2 for the general solution.",
+      "options": [
+        {
+          "option": "nπ + (-1)^n π/6",
+          "is_answer": true
+        },
+        {
+          "option": "2nπ ± π/6"
+        },
+        {
+          "option": "2nπ + π/6"
+        },
+        {
+          "option": "nπ ± π/6"
+        }
+      ]
+    },
+    {
+      "question": "Solve cos(θ) = 1/2 for the general solution.",
+      "options": [
+        {
+          "option": "2nπ ± π/3",
+          "is_answer": true
+        },
+        {
+          "option": "nπ + (-1)^n π/3"
+        },
+        {
+          "option": "2nπ + π/3"
+        },
+        {
+          "option": "nπ ± π/3"
+        }
+      ]
+    },
+    {
+      "question": "The general solution of sin^2(θ) = sin^2(α) is:",
+      "options": [
+        {
+          "option": "2nπ ± α"
+        },
+        {
+          "option": "nπ + (-1)^n α"
+        },
+        {
+          "option": "nπ + α"
+        },
+        {
+          "option": "nπ ± α",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The general solution of cos^2(θ) = cos^2(α) is:",
+      "options": [
+        {
+          "option": "nπ + α"
+        },
+        {
+          "option": "nπ + (-1)^n α"
+        },
+        {
+          "option": "2nπ ± α"
+        },
+        {
+          "option": "nπ ± α",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The general solution of tan^2(θ) = tan^2(α) is:",
+      "options": [
+        {
+          "option": "nπ + α"
+        },
+        {
+          "option": "nπ/2 + α"
+        },
+        {
+          "option": "2nπ ± α"
+        },
+        {
+          "option": "nπ ± α",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the general solution for sin(θ) = -1/sqrt(2)?",
+      "options": [
+        {
+          "option": "2nπ - π/4"
+        },
+        {
+          "option": "2nπ ± 3π/4"
+        },
+        {
+          "option": "nπ + (-1)^n (-π/4)",
+          "is_answer": true
+        },
+        {
+          "option": "nπ ± 3π/4"
+        }
+      ]
+    },
+    {
+      "question": "What is the general solution for cos(θ) = -1/2?",
+      "options": [
+        {
+          "option": "2nπ ± 2π/3",
+          "is_answer": true
+        },
+        {
+          "option": "nπ ± 2π/3"
+        },
+        {
+          "option": "nπ + (-1)^n 2π/3"
+        },
+        {
+          "option": "2nπ ± π/3"
+        }
+      ]
+    },
+    {
+      "question": "The general solution of tan(θ) = 1 is:",
+      "options": [
+        {
+          "option": "2nπ + π/4"
+        },
+        {
+          "option": "nπ + π/4",
+          "is_answer": true
+        },
+        {
+          "option": "2nπ ± π/4"
+        },
+        {
+          "option": "nπ ± π/4"
+        }
+      ]
+    },
+    {
+      "question": "The general solution of sin(θ) = -sqrt(3)/2 is:",
+      "options": [
+        {
+          "option": "2nπ - π/3"
+        },
+        {
+          "option": "nπ ± 2π/3"
+        },
+        {
+          "option": "nπ + (-1)^n (-π/3)",
+          "is_answer": true
+        },
+        {
+          "option": "2nπ ± 2π/3"
+        }
+      ]
+    },
+    {
+      "question": "The general solution of cos(θ) = -sqrt(3)/2 is:",
+      "options": [
+        {
+          "option": "nπ + (-1)^n 5π/6"
+        },
+        {
+          "option": "2nπ ± π/6"
+        },
+        {
+          "option": "2nπ ± 5π/6",
+          "is_answer": true
+        },
+        {
+          "option": "nπ ± 5π/6"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of sin^2(θ) + cos^2(θ)?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "Which identity is equivalent to sec^2(θ) - tan^2(θ)?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "cos^2(θ)"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "sin^2(θ)"
+        }
+      ]
+    },
+    {
+      "question": "What is 1 + cot^2(θ) equal to?",
+      "options": [
+        {
+          "option": "csc^2(θ)",
+          "is_answer": true
+        },
+        {
+          "option": "tan^2(θ)"
+        },
+        {
+          "option": "sec^2(θ)"
+        },
+        {
+          "option": "sin^2(θ)"
+        }
+      ]
+    },
+    {
+      "question": "Which expression is equal to cos^2(θ)?",
+      "options": [
+        {
+          "option": "1 - sin^2(θ)",
+          "is_answer": true
+        },
+        {
+          "option": "1 + tan^2(θ)"
+        },
+        {
+          "option": "sec^2(θ) - 1"
+        },
+        {
+          "option": "1 + sin^2(θ)"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of sec^2(θ) - 1?",
+      "options": [
+        {
+          "option": "sin^2(θ)"
+        },
+        {
+          "option": "cot^2(θ)"
+        },
+        {
+          "option": "csc^2(θ)"
+        },
+        {
+          "option": "tan^2(θ)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which identity represents 1 + tan^2(θ)?",
+      "options": [
+        {
+          "option": "csc^2(θ)"
+        },
+        {
+          "option": "sin^2(θ)"
+        },
+        {
+          "option": "cos^2(θ)"
+        },
+        {
+          "option": "sec^2(θ)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is csc^2(θ) - cot^2(θ) equal to?",
+      "options": [
+        {
+          "option": "-1"
+        },
+        {
+          "option": "sin^2(θ)"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is equivalent to sin^2(θ)?",
+      "options": [
+        {
+          "option": "csc^2(θ) - 1"
+        },
+        {
+          "option": "sec^2(θ) - 1"
+        },
+        {
+          "option": "1 - cos^2(θ)",
+          "is_answer": true
+        },
+        {
+          "option": "1 + cos^2(θ)"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of csc^2(θ) - 1?",
+      "options": [
+        {
+          "option": "tan^2(θ)"
+        },
+        {
+          "option": "cot^2(θ)",
+          "is_answer": true
+        },
+        {
+          "option": "cos^2(θ)"
+        },
+        {
+          "option": "sec^2(θ)"
+        }
+      ]
+    },
+    {
+      "question": "Which identity is derived from sin^2(θ) + cos^2(θ) = 1?",
+      "options": [
+        {
+          "option": "sin^2(θ) = 1 + cos^2(θ)"
+        },
+        {
+          "option": "sin^2(θ) = cos^2(θ) - 1"
+        },
+        {
+          "option": "sin^2(θ) = sec^2(θ)"
+        },
+        {
+          "option": "sin^2(θ) = 1 - cos^2(θ)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If 1 + tan^2(θ) = x, what is x?",
+      "options": [
+        {
+          "option": "csc^2(θ)"
+        },
+        {
+          "option": "sin^2(θ)"
+        },
+        {
+          "option": "cos^2(θ)"
+        },
+        {
+          "option": "sec^2(θ)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which expression is equal to 1?",
+      "options": [
+        {
+          "option": "sec^2(θ) + tan^2(θ)"
+        },
+        {
+          "option": "sin^2(θ) - cos^2(θ)"
+        },
+        {
+          "option": "sec^2(θ) - tan^2(θ)",
+          "is_answer": true
+        },
+        {
+          "option": "csc^2(θ) + cot^2(θ)"
+        }
+      ]
+    },
+    {
+      "question": "What is the identity for 1 + cot^2(θ)?",
+      "options": [
+        {
+          "option": "sec^2(θ)"
+        },
+        {
+          "option": "sin^2(θ)"
+        },
+        {
+          "option": "csc^2(θ)",
+          "is_answer": true
+        },
+        {
+          "option": "tan^2(θ)"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a Pythagorean identity?",
+      "options": [
+        {
+          "option": "sin^2(θ) + cos^2(θ) = 0"
+        },
+        {
+          "option": "sin^2(θ) + cos^2(θ) = 1",
+          "is_answer": true
+        },
+        {
+          "option": "tan^2(θ) + sec^2(θ) = 1"
+        },
+        {
+          "option": "sin^2(θ) - cos^2(θ) = 1"
+        }
+      ]
+    },
+    {
+      "question": "What is tan^2(θ) equal to in terms of secant?",
+      "options": [
+        {
+          "option": "sec^2(θ) + 1"
+        },
+        {
+          "option": "1 / sec^2(θ)"
+        },
+        {
+          "option": "sec^2(θ) - 1",
+          "is_answer": true
+        },
+        {
+          "option": "1 - sec^2(θ)"
+        }
+      ]
+    },
+    {
+      "question": "What is cot^2(θ) equal to in terms of cosecant?",
+      "options": [
+        {
+          "option": "1 / csc^2(θ)"
+        },
+        {
+          "option": "csc^2(θ) - 1",
+          "is_answer": true
+        },
+        {
+          "option": "csc^2(θ) + 1"
+        },
+        {
+          "option": "1 - csc^2(θ)"
+        }
+      ]
+    },
+    {
+      "question": "Which identity is equivalent to 1?",
+      "options": [
+        {
+          "option": "csc^2(θ) + cot^2(θ)"
+        },
+        {
+          "option": "cot^2(θ) - csc^2(θ)"
+        },
+        {
+          "option": "csc^2(θ) - cot^2(θ)",
+          "is_answer": true
+        },
+        {
+          "option": "sin^2(θ) + tan^2(θ)"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of 1 - sin^2(θ)?",
+      "options": [
+        {
+          "option": "cos^2(θ)",
+          "is_answer": true
+        },
+        {
+          "option": "csc^2(θ)"
+        },
+        {
+          "option": "sec^2(θ)"
+        },
+        {
+          "option": "tan^2(θ)"
+        }
+      ]
+    },
+    {
+      "question": "Which identity is correct?",
+      "options": [
+        {
+          "option": "1 + tan^2(θ) = cos^2(θ)"
+        },
+        {
+          "option": "1 + tan^2(θ) = sec^2(θ)",
+          "is_answer": true
+        },
+        {
+          "option": "1 + tan^2(θ) = csc^2(θ)"
+        },
+        {
+          "option": "1 + tan^2(θ) = sin^2(θ)"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of 1 - cos^2(θ)?",
+      "options": [
+        {
+          "option": "sec^2(θ)"
+        },
+        {
+          "option": "csc^2(θ)"
+        },
+        {
+          "option": "sin^2(θ)",
+          "is_answer": true
+        },
+        {
+          "option": "tan^2(θ)"
+        }
+      ]
+    },
+    {
+      "question": "What is the formula for sin C + sin D?",
+      "options": [
+        {
+          "option": "2 sin((C+D)/2) sin((C-D)/2)"
+        },
+        {
+          "option": "2 cos((C+D)/2) cos((C-D)/2)"
+        },
+        {
+          "option": "2 sin((C+D)/2) cos((C-D)/2)",
+          "is_answer": true
+        },
+        {
+          "option": "2 cos((C+D)/2) sin((C-D)/2)"
+        }
+      ]
+    },
+    {
+      "question": "What is the formula for cos C + cos D?",
+      "options": [
+        {
+          "option": "2 cos((C+D)/2) sin((C-D)/2)"
+        },
+        {
+          "option": "2 sin((C+D)/2) sin((C-D)/2)"
+        },
+        {
+          "option": "2 cos((C+D)/2) cos((C-D)/2)",
+          "is_answer": true
+        },
+        {
+          "option": "2 sin((C+D)/2) cos((C-D)/2)"
+        }
+      ]
+    },
+    {
+      "question": "Simplify sin 40° + sin 20°.",
+      "options": [
+        {
+          "option": "2 cos 30° sin 10°"
+        },
+        {
+          "option": "2 sin 30° sin 10°"
+        },
+        {
+          "option": "2 sin 60° cos 20°"
+        },
+        {
+          "option": "2 sin 30° cos 10°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Simplify cos 50° + cos 30°.",
+      "options": [
+        {
+          "option": "2 cos 80° cos 20°"
+        },
+        {
+          "option": "2 cos 40° sin 10°"
+        },
+        {
+          "option": "2 cos 40° cos 10°",
+          "is_answer": true
+        },
+        {
+          "option": "2 sin 40° sin 10°"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of sin 70° + sin 10°?",
+      "options": [
+        {
+          "option": "2 sin 40° sin 30°"
+        },
+        {
+          "option": "2 sin 80° cos 20°"
+        },
+        {
+          "option": "2 cos 40° sin 30°"
+        },
+        {
+          "option": "2 sin 40° cos 30°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of cos 80° + cos 20°?",
+      "options": [
+        {
+          "option": "2 cos 50° cos 30°",
+          "is_answer": true
+        },
+        {
+          "option": "2 cos 100° cos 60°"
+        },
+        {
+          "option": "2 cos 50° sin 30°"
+        },
+        {
+          "option": "2 sin 50° sin 30°"
+        }
+      ]
+    },
+    {
+      "question": "Express sin 3x + sin x as a product.",
+      "options": [
+        {
+          "option": "2 sin 2x cos x",
+          "is_answer": true
+        },
+        {
+          "option": "2 sin 2x sin x"
+        },
+        {
+          "option": "2 cos 2x sin x"
+        },
+        {
+          "option": "2 sin 4x cos 2x"
+        }
+      ]
+    },
+    {
+      "question": "Express cos 5x + cos 3x as a product.",
+      "options": [
+        {
+          "option": "2 sin 4x sin x"
+        },
+        {
+          "option": "2 cos 4x sin x"
+        },
+        {
+          "option": "2 cos 8x cos 2x"
+        },
+        {
+          "option": "2 cos 4x cos x",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the result of sin 50° + sin 10°?",
+      "options": [
+        {
+          "option": "2 sin 30° sin 20°"
+        },
+        {
+          "option": "2 sin 30° cos 20°",
+          "is_answer": true
+        },
+        {
+          "option": "2 cos 30° sin 20°"
+        },
+        {
+          "option": "2 sin 60° cos 40°"
+        }
+      ]
+    },
+    {
+      "question": "What is the result of cos 70° + cos 10°?",
+      "options": [
+        {
+          "option": "2 cos 40° cos 30°",
+          "is_answer": true
+        },
+        {
+          "option": "2 sin 40° sin 30°"
+        },
+        {
+          "option": "2 cos 40° sin 30°"
+        },
+        {
+          "option": "2 cos 80° cos 60°"
+        }
+      ]
+    },
+    {
+      "question": "If sin A + sin B = 2 sin 40° cos 10°, what are A and B?",
+      "options": [
+        {
+          "option": "A=80°, B=20°"
+        },
+        {
+          "option": "A=40°, B=10°"
+        },
+        {
+          "option": "A=70°, B=10°"
+        },
+        {
+          "option": "A=50°, B=30°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If cos A + cos B = 2 cos 50° cos 20°, what are A and B?",
+      "options": [
+        {
+          "option": "A=50°, B=20°"
+        },
+        {
+          "option": "A=60°, B=40°"
+        },
+        {
+          "option": "A=100°, B=40°"
+        },
+        {
+          "option": "A=70°, B=30°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is equivalent to sin 60° + sin 20°?",
+      "options": [
+        {
+          "option": "2 sin 80° cos 40°"
+        },
+        {
+          "option": "2 cos 40° sin 20°"
+        },
+        {
+          "option": "2 sin 40° cos 20°",
+          "is_answer": true
+        },
+        {
+          "option": "2 sin 40° sin 20°"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is equivalent to cos 40° + cos 20°?",
+      "options": [
+        {
+          "option": "2 sin 30° sin 10°"
+        },
+        {
+          "option": "2 cos 60° cos 20°"
+        },
+        {
+          "option": "2 cos 30° cos 10°",
+          "is_answer": true
+        },
+        {
+          "option": "2 cos 30° sin 10°"
+        }
+      ]
+    },
+    {
+      "question": "What is the sum to product form of sin 2x + sin 4x?",
+      "options": [
+        {
+          "option": "2 sin 3x cos x",
+          "is_answer": true
+        },
+        {
+          "option": "2 cos 3x sin x"
+        },
+        {
+          "option": "2 sin 3x sin x"
+        },
+        {
+          "option": "2 sin 6x cos 2x"
+        }
+      ]
+    },
+    {
+      "question": "What is the sum to product form of cos 6x + cos 2x?",
+      "options": [
+        {
+          "option": "2 sin 4x sin 2x"
+        },
+        {
+          "option": "2 cos 8x cos 4x"
+        },
+        {
+          "option": "2 cos 4x cos 2x",
+          "is_answer": true
+        },
+        {
+          "option": "2 cos 4x sin 2x"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate sin 75° + sin 15°.",
+      "options": [
+        {
+          "option": "2 cos 45° sin 30°"
+        },
+        {
+          "option": "2 sin 45° cos 30°",
+          "is_answer": true
+        },
+        {
+          "option": "2 sin 45° sin 30°"
+        },
+        {
+          "option": "2 sin 90° cos 60°"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate cos 75° + cos 15°.",
+      "options": [
+        {
+          "option": "2 cos 45° cos 30°",
+          "is_answer": true
+        },
+        {
+          "option": "2 sin 45° sin 30°"
+        },
+        {
+          "option": "2 cos 45° sin 30°"
+        },
+        {
+          "option": "2 cos 90° cos 60°"
+        }
+      ]
+    },
+    {
+      "question": "In any triangle ABC, what is the ratio a/sin A equal to?",
+      "options": [
+        {
+          "option": "R"
+        },
+        {
+          "option": "a+b+c"
+        },
+        {
+          "option": "r"
+        },
+        {
+          "option": "2R",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which formula represents the Law of Sines?",
+      "options": [
+        {
+          "option": "a^2 = b^2 + c^2"
+        },
+        {
+          "option": "a/sin B = b/sin A"
+        },
+        {
+          "option": "a/sin A = b/sin B = c/sin C",
+          "is_answer": true
+        },
+        {
+          "option": "a/cos A = b/cos B"
+        }
+      ]
+    },
+    {
+      "question": "If a=10, sin A=0.5, what is the circumdiameter (2R) of the triangle?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "2.5"
+        }
+      ]
+    },
+    {
+      "question": "The Law of Sines is applicable to which type of triangles?",
+      "options": [
+        {
+          "option": "Only equilateral triangles"
+        },
+        {
+          "option": "Only isosceles triangles"
+        },
+        {
+          "option": "Only right triangles"
+        },
+        {
+          "option": "All triangles",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In triangle ABC, if a/sin A = 2R, what is 'R'?",
+      "options": [
+        {
+          "option": "Semi-perimeter"
+        },
+        {
+          "option": "Inradius"
+        },
+        {
+          "option": "Circumradius",
+          "is_answer": true
+        },
+        {
+          "option": "Area"
+        }
+      ]
+    },
+    {
+      "question": "If A=30 degrees and a=5, what is the value of 2R?",
+      "options": [
+        {
+          "option": "2.5"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which condition is necessary to use the Law of Sines?",
+      "options": [
+        {
+          "option": "Knowing the area"
+        },
+        {
+          "option": "Knowing at least one side and its opposite angle",
+          "is_answer": true
+        },
+        {
+          "option": "Knowing all three sides"
+        },
+        {
+          "option": "Knowing two sides and the included angle"
+        }
+      ]
+    },
+    {
+      "question": "In triangle ABC, if b=8 and sin B=0.4, find 2R.",
+      "options": [
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "0.05"
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "3.2"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of sin A/a in terms of R?",
+      "options": [
+        {
+          "option": "2R"
+        },
+        {
+          "option": "R"
+        },
+        {
+          "option": "1/(2R)",
+          "is_answer": true
+        },
+        {
+          "option": "1/R"
+        }
+      ]
+    },
+    {
+      "question": "If a/sin A = b/sin B, this is a part of which law?",
+      "options": [
+        {
+          "option": "Tangent Rule"
+        },
+        {
+          "option": "Pythagoras Theorem"
+        },
+        {
+          "option": "Law of Cosines"
+        },
+        {
+          "option": "Law of Sines",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In triangle ABC, if R=5, what is a/sin A?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "2.5"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "The Law of Sines relates sides and angles of a triangle to its:",
+      "options": [
+        {
+          "option": "Inradius"
+        },
+        {
+          "option": "Perimeter"
+        },
+        {
+          "option": "Circumradius",
+          "is_answer": true
+        },
+        {
+          "option": "Altitude"
+        }
+      ]
+    },
+    {
+      "question": "If a=c, then which of the following is true?",
+      "options": [
+        {
+          "option": "a = b"
+        },
+        {
+          "option": "A = 90 degrees"
+        },
+        {
+          "option": "sin A = sin B"
+        },
+        {
+          "option": "sin A = sin C",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In triangle ABC, if A=90 degrees, what is a equal to?",
+      "options": [
+        {
+          "option": "R"
+        },
+        {
+          "option": "R/2"
+        },
+        {
+          "option": "4R"
+        },
+        {
+          "option": "2R",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is NOT a valid form of the Law of Sines?",
+      "options": [
+        {
+          "option": "sin A/a = sin B/b"
+        },
+        {
+          "option": "a/b = sin A/sin B"
+        },
+        {
+          "option": "a/sin B = b/sin C",
+          "is_answer": true
+        },
+        {
+          "option": "a/sin A = b/sin B"
+        }
+      ]
+    },
+    {
+      "question": "If sin A = 1, what is the length of side 'a'?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "2R",
+          "is_answer": true
+        },
+        {
+          "option": "R"
+        },
+        {
+          "option": "R/2"
+        }
+      ]
+    },
+    {
+      "question": "The Law of Sines is most useful when solving for:",
+      "options": [
+        {
+          "option": "Perimeter of a triangle"
+        },
+        {
+          "option": "Area of a triangle"
+        },
+        {
+          "option": "Missing sides or angles",
+          "is_answer": true
+        },
+        {
+          "option": "Inradius of a triangle"
+        }
+      ]
+    },
+    {
+      "question": "If a/sin A = 2R, then sin A is equal to:",
+      "options": [
+        {
+          "option": "2R/a"
+        },
+        {
+          "option": "a/(2R)",
+          "is_answer": true
+        },
+        {
+          "option": "R/a"
+        },
+        {
+          "option": "a*R"
+        }
+      ]
+    },
+    {
+      "question": "In any triangle, the ratio of a side to the sine of its opposite angle is:",
+      "options": [
+        {
+          "option": "Infinite"
+        },
+        {
+          "option": "Zero"
+        },
+        {
+          "option": "Constant",
+          "is_answer": true
+        },
+        {
+          "option": "Variable"
+        }
+      ]
+    },
+    {
+      "question": "If a=6, b=6, then sin A/sin B equals:",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the formula for sin(2A)?",
+      "options": [
+        {
+          "option": "sin A cos A"
+        },
+        {
+          "option": "cos^2 A - sin^2 A"
+        },
+        {
+          "option": "2 sin A cos A",
+          "is_answer": true
+        },
+        {
+          "option": "2 sin A"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is an identity for cos(2A)?",
+      "options": [
+        {
+          "option": "1 - cos^2 A"
+        },
+        {
+          "option": "cos^2 A + sin^2 A"
+        },
+        {
+          "option": "2 cos^2 A - 1",
+          "is_answer": true
+        },
+        {
+          "option": "2 sin A cos A"
+        }
+      ]
+    },
+    {
+      "question": "What is the formula for tan(2A)?",
+      "options": [
+        {
+          "option": "(2 tan A) / (1 + tan^2 A)"
+        },
+        {
+          "option": "(2 tan A) / (1 - tan^2 A)",
+          "is_answer": true
+        },
+        {
+          "option": "(2 tan A) / (tan^2 A - 1)"
+        },
+        {
+          "option": "(tan A) / (1 - tan^2 A)"
+        }
+      ]
+    },
+    {
+      "question": "If sin A = 3/5, what is the value of sin(2A)?",
+      "options": [
+        {
+          "option": "6/5"
+        },
+        {
+          "option": "7/25"
+        },
+        {
+          "option": "12/25"
+        },
+        {
+          "option": "24/25",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which expression is equivalent to 1 - 2 sin^2 A?",
+      "options": [
+        {
+          "option": "cos(2A)",
+          "is_answer": true
+        },
+        {
+          "option": "cos^2 A"
+        },
+        {
+          "option": "sin(2A)"
+        },
+        {
+          "option": "tan(2A)"
+        }
+      ]
+    },
+    {
+      "question": "If cos A = 1/2, what is the value of cos(2A)?",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1/2",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of 2 sin 15° cos 15°?",
+      "options": [
+        {
+          "option": "1/2",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "sqrt(3)/2"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "Which formula represents cos^2 A - sin^2 A?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "sin(2A)"
+        },
+        {
+          "option": "tan(2A)"
+        },
+        {
+          "option": "cos(2A)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If tan A = 1, what is the value of tan(2A)?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "Undefined",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "Which identity is equivalent to cos(2A) using only sin A?",
+      "options": [
+        {
+          "option": "2 sin^2 A - 1"
+        },
+        {
+          "option": "1 - sin^2 A"
+        },
+        {
+          "option": "2 sin A"
+        },
+        {
+          "option": "1 - 2 sin^2 A",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of 2 tan 45° / (1 - tan^2 45°)?",
+      "options": [
+        {
+          "option": "Undefined",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "If sin A = 0, what is the value of sin(2A)?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is NOT a correct form of cos(2A)?",
+      "options": [
+        {
+          "option": "2 cos^2 A - 1"
+        },
+        {
+          "option": "1 - 2 sin^2 A"
+        },
+        {
+          "option": "cos^2 A - sin^2 A"
+        },
+        {
+          "option": "1 + 2 sin^2 A",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If cos A = 0, what is the value of cos(2A)?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of 1 - 2 sin^2 30°?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "1/2",
+          "is_answer": true
+        },
+        {
+          "option": "sqrt(3)/2"
+        }
+      ]
+    },
+    {
+      "question": "The formula 2 sin A cos A is equal to:",
+      "options": [
+        {
+          "option": "tan(2A)"
+        },
+        {
+          "option": "sin A"
+        },
+        {
+          "option": "cos(2A)"
+        },
+        {
+          "option": "sin(2A)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If tan A = 1/sqrt(3), what is the value of tan(2A)?",
+      "options": [
+        {
+          "option": "sqrt(3)",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1/sqrt(3)"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "Which identity relates cos(2A) to cos^2 A?",
+      "options": [
+        {
+          "option": "cos^2 A - 1"
+        },
+        {
+          "option": "2 cos^2 A - 1",
+          "is_answer": true
+        },
+        {
+          "option": "cos^2 A + 1"
+        },
+        {
+          "option": "1 - 2 cos^2 A"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of 2 sin 45° cos 45°?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "sqrt(2)"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is equivalent to cos(2A)?",
+      "options": [
+        {
+          "option": "tan^2 A - 1"
+        },
+        {
+          "option": "2 sin A cos A"
+        },
+        {
+          "option": "sin^2 A - cos^2 A"
+        },
+        {
+          "option": "cos^2 A - sin^2 A",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the correct formula for the Law of Cosines to find side 'a'?",
+      "options": [
+        {
+          "option": "a^2 = b^2 + c^2 - 2bc sin A"
+        },
+        {
+          "option": "a^2 = b^2 + c^2 - 2bc cos A",
+          "is_answer": true
+        },
+        {
+          "option": "a^2 = b^2 + c^2 + 2bc cos A"
+        },
+        {
+          "option": "a^2 = b^2 + c^2 - bc cos A"
+        }
+      ]
+    },
+    {
+      "question": "Which formula is used to find angle A when all three sides (a, b, c) are known?",
+      "options": [
+        {
+          "option": "cos A = (a^2 - b^2 - c^2) / (2bc)"
+        },
+        {
+          "option": "cos A = (b^2 + c^2 - a^2) / (2bc)",
+          "is_answer": true
+        },
+        {
+          "option": "cos A = (b^2 + c^2 + a^2) / (2bc)"
+        },
+        {
+          "option": "cos A = (a^2 + b^2 - c^2) / (2ab)"
+        }
+      ]
+    },
+    {
+      "question": "If a=5, b=6, and c=7, what is the value of cos A?",
+      "options": [
+        {
+          "option": "0.2"
+        },
+        {
+          "option": "0.3"
+        },
+        {
+          "option": "0.8"
+        },
+        {
+          "option": "0.5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In a triangle where a=b=c, what is the value of cos A?",
+      "options": [
+        {
+          "option": "0.5",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "-0.5"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "The Law of Cosines is a generalization of which theorem?",
+      "options": [
+        {
+          "option": "Sine rule"
+        },
+        {
+          "option": "Euclid's theorem"
+        },
+        {
+          "option": "Thales theorem"
+        },
+        {
+          "option": "Pythagorean theorem",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If A = 90 degrees, what does the Law of Cosines become?",
+      "options": [
+        {
+          "option": "a^2 = b^2 - c^2"
+        },
+        {
+          "option": "a^2 = 2bc"
+        },
+        {
+          "option": "a^2 = b^2 + c^2 + 2bc"
+        },
+        {
+          "option": "a^2 = b^2 + c^2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which condition is necessary to use the Law of Cosines?",
+      "options": [
+        {
+          "option": "AAA"
+        },
+        {
+          "option": "AAS"
+        },
+        {
+          "option": "SSA"
+        },
+        {
+          "option": "SAS or SSS",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If b=3, c=4, and A=60 degrees, what is a^2?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "13",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "19"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of cos 180 degrees in the Law of Cosines?",
+      "options": [
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If a^2 = b^2 + c^2 - 2bc cos A, what is the value of cos A if a^2 = b^2 + c^2?",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "Which side is opposite to angle A?",
+      "options": [
+        {
+          "option": "h"
+        },
+        {
+          "option": "b"
+        },
+        {
+          "option": "c"
+        },
+        {
+          "option": "a",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If a=7, b=8, c=9, find cos A.",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "3/4"
+        },
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "2/3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The Law of Cosines is used to solve which type of triangles?",
+      "options": [
+        {
+          "option": "Equilateral triangles only"
+        },
+        {
+          "option": "Isosceles triangles only"
+        },
+        {
+          "option": "Any triangle",
+          "is_answer": true
+        },
+        {
+          "option": "Right triangles only"
+        }
+      ]
+    },
+    {
+      "question": "If cos A is negative, what does it imply about angle A?",
+      "options": [
+        {
+          "option": "A is obtuse",
+          "is_answer": true
+        },
+        {
+          "option": "A is acute"
+        },
+        {
+          "option": "A is right"
+        },
+        {
+          "option": "A is zero"
+        }
+      ]
+    },
+    {
+      "question": "What is the formula for side 'b' using the Law of Cosines?",
+      "options": [
+        {
+          "option": "b^2 = a^2 + c^2 - 2ac cos B",
+          "is_answer": true
+        },
+        {
+          "option": "b^2 = a^2 - c^2 - 2ac cos B"
+        },
+        {
+          "option": "b^2 = a^2 + c^2 + 2ac cos B"
+        },
+        {
+          "option": "b^2 = a^2 + c^2 - 2ac sin B"
+        }
+      ]
+    },
+    {
+      "question": "If a=2, b=2, and A=60 degrees, what is c?",
+      "options": [
+        {
+          "option": "sqrt(2)"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In the formula cos A = (b^2 + c^2 - a^2) / (2bc), what does 'a' represent?",
+      "options": [
+        {
+          "option": "Side opposite to angle A",
+          "is_answer": true
+        },
+        {
+          "option": "Side adjacent to angle A"
+        },
+        {
+          "option": "Angle"
+        },
+        {
+          "option": "Hypotenuse"
+        }
+      ]
+    },
+    {
+      "question": "If a=1, b=1, c=sqrt(2), what is angle C?",
+      "options": [
+        {
+          "option": "45 degrees"
+        },
+        {
+          "option": "60 degrees"
+        },
+        {
+          "option": "90 degrees",
+          "is_answer": true
+        },
+        {
+          "option": "30 degrees"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is NOT a valid form of the Law of Cosines?",
+      "options": [
+        {
+          "option": "c^2 = a^2 + b^2 + 2ab cos C",
+          "is_answer": true
+        },
+        {
+          "option": "c^2 = a^2 + b^2 - 2ab cos C"
+        },
+        {
+          "option": "a^2 = b^2 + c^2 - 2bc cos A"
+        },
+        {
+          "option": "b^2 = a^2 + c^2 - 2ac cos B"
+        }
+      ]
+    },
+    {
+      "question": "If a=3, b=5, c=7, what is cos C?",
+      "options": [
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-0.5",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "What is the area of a triangle with sides 6 cm and 8 cm and an included angle of 30 degrees?",
+      "options": [
+        {
+          "option": "12 cm²",
+          "is_answer": true
+        },
+        {
+          "option": "48 cm²"
+        },
+        {
+          "option": "24 cm²"
+        },
+        {
+          "option": "6 cm²"
+        }
+      ]
+    },
+    {
+      "question": "If a=10, b=12, and angle C=90 degrees, what is the area?",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "60",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "100"
+        }
+      ]
+    },
+    {
+      "question": "Find the area of a triangle where two sides are 4 and 5, and the angle between them is 150 degrees.",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "2.5"
+        }
+      ]
+    },
+    {
+      "question": "The formula for the area of a triangle using two sides 'a' and 'b' and angle 'C' is:",
+      "options": [
+        {
+          "option": "0.5 * a * b * cos(C)"
+        },
+        {
+          "option": "a * b * tan(C)"
+        },
+        {
+          "option": "a * b * sin(C)"
+        },
+        {
+          "option": "0.5 * a * b * sin(C)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If sides are 7 and 8, and the angle is 60 degrees, what is the area?",
+      "options": [
+        {
+          "option": "7 * sqrt(3)"
+        },
+        {
+          "option": "56 * sqrt(3)"
+        },
+        {
+          "option": "28 * sqrt(3)"
+        },
+        {
+          "option": "14 * sqrt(3)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the area of an equilateral triangle with side length 4?",
+      "options": [
+        {
+          "option": "4 * sqrt(3)",
+          "is_answer": true
+        },
+        {
+          "option": "16 * sqrt(3)"
+        },
+        {
+          "option": "2 * sqrt(3)"
+        },
+        {
+          "option": "8 * sqrt(3)"
+        }
+      ]
+    },
+    {
+      "question": "If area = 20 and sides are 8 and 10, what is sin(C)?",
+      "options": [
+        {
+          "option": "0.5",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0.75"
+        },
+        {
+          "option": "0.25"
+        }
+      ]
+    },
+    {
+      "question": "Which trigonometric function is used in the area formula for a triangle?",
+      "options": [
+        {
+          "option": "Secant"
+        },
+        {
+          "option": "Cosine"
+        },
+        {
+          "option": "Sine",
+          "is_answer": true
+        },
+        {
+          "option": "Tangent"
+        }
+      ]
+    },
+    {
+      "question": "Calculate the area if a=6, b=6, and C=30 degrees.",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "4.5"
+        }
+      ]
+    },
+    {
+      "question": "If the angle is 180 degrees, what is the area of the triangle?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "Infinite"
+        },
+        {
+          "option": "Undefined"
+        }
+      ]
+    },
+    {
+      "question": "Find the area if sides are 10 and 20, and the angle is 45 degrees.",
+      "options": [
+        {
+          "option": "50 * sqrt(2)",
+          "is_answer": true
+        },
+        {
+          "option": "100 * sqrt(2)"
+        },
+        {
+          "option": "25 * sqrt(2)"
+        },
+        {
+          "option": "200 * sqrt(2)"
+        }
+      ]
+    },
+    {
+      "question": "If area = 15 and sides are 6 and 10, what is the value of sin(C)?",
+      "options": [
+        {
+          "option": "0.75"
+        },
+        {
+          "option": "0.5",
+          "is_answer": true
+        },
+        {
+          "option": "0.25"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "What is the area of a triangle with sides 5 and 4 and angle 90 degrees?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "If a=3, b=4, and C=150 degrees, what is the area?",
+      "options": [
+        {
+          "option": "1.5"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The area of a triangle is given by 0.5 * a * c * sin(B). Is this correct?",
+      "options": [
+        {
+          "option": "Only if a=c"
+        },
+        {
+          "option": "No"
+        },
+        {
+          "option": "Only if B=90"
+        },
+        {
+          "option": "Yes",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If sides are 2 and 3, and angle is 30 degrees, what is the area?",
+      "options": [
+        {
+          "option": "1.5",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "0.75"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "What is the area of a triangle with sides 8 and 10 and angle 150 degrees?",
+      "options": [
+        {
+          "option": "40"
+        },
+        {
+          "option": "80"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "If sin(C) = 1, what kind of triangle is it?",
+      "options": [
+        {
+          "option": "Equilateral"
+        },
+        {
+          "option": "Obtuse"
+        },
+        {
+          "option": "Right-angled",
+          "is_answer": true
+        },
+        {
+          "option": "Isosceles"
+        }
+      ]
+    },
+    {
+      "question": "Calculate the area if a=4, b=10, and C=60 degrees.",
+      "options": [
+        {
+          "option": "20 * sqrt(3)"
+        },
+        {
+          "option": "10 * sqrt(3)",
+          "is_answer": true
+        },
+        {
+          "option": "40 * sqrt(3)"
+        },
+        {
+          "option": "5 * sqrt(3)"
+        }
+      ]
+    },
+    {
+      "question": "If the area is 0, what must be true about the angle C?",
+      "options": [
+        {
+          "option": "C is 0 or 180 degrees",
+          "is_answer": true
+        },
+        {
+          "option": "C is 60 degrees"
+        },
+        {
+          "option": "C is 45 degrees"
+        },
+        {
+          "option": "C is 90 degrees"
+        }
+      ]
+    },
+    {
+      "question": "A tower is 50m high. If the angle of elevation from a point 50m away from the base is theta, what is the value of theta?",
+      "options": [
+        {
+          "option": "30 degrees"
+        },
+        {
+          "option": "60 degrees"
+        },
+        {
+          "option": "45 degrees",
+          "is_answer": true
+        },
+        {
+          "option": "90 degrees"
+        }
+      ]
+    },
+    {
+      "question": "If the height of a pole is 10√3 meters and the distance from the observer is 10 meters, what is the angle of elevation?",
+      "options": [
+        {
+          "option": "90 degrees"
+        },
+        {
+          "option": "45 degrees"
+        },
+        {
+          "option": "60 degrees",
+          "is_answer": true
+        },
+        {
+          "option": "30 degrees"
+        }
+      ]
+    },
+    {
+      "question": "A ladder 10m long rests against a wall. If it makes an angle of 30 degrees with the ground, how high does it reach on the wall?",
+      "options": [
+        {
+          "option": "8.66 meters"
+        },
+        {
+          "option": "7.07 meters"
+        },
+        {
+          "option": "5 meters",
+          "is_answer": true
+        },
+        {
+          "option": "10 meters"
+        }
+      ]
+    },
+    {
+      "question": "The angle of elevation of the top of a building from a point 30m away from its base is 60 degrees. What is the height of the building?",
+      "options": [
+        {
+          "option": "60 meters"
+        },
+        {
+          "option": "30 meters"
+        },
+        {
+          "option": "15√3 meters"
+        },
+        {
+          "option": "30√3 meters",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the shadow of a tower is equal to its height, what is the angle of elevation of the sun?",
+      "options": [
+        {
+          "option": "60 degrees"
+        },
+        {
+          "option": "90 degrees"
+        },
+        {
+          "option": "45 degrees",
+          "is_answer": true
+        },
+        {
+          "option": "30 degrees"
+        }
+      ]
+    },
+    {
+      "question": "A kite is flying at a height of 60m. The string makes an angle of 60 degrees with the ground. What is the length of the string?",
+      "options": [
+        {
+          "option": "120 meters"
+        },
+        {
+          "option": "60 meters"
+        },
+        {
+          "option": "40√3 meters",
+          "is_answer": true
+        },
+        {
+          "option": "30√3 meters"
+        }
+      ]
+    },
+    {
+      "question": "The angle of elevation of a tower changes from 30 to 60 degrees as an observer moves closer. Does the height of the tower change?",
+      "options": [
+        {
+          "option": "No, it remains constant",
+          "is_answer": true
+        },
+        {
+          "option": "Yes, it decreases"
+        },
+        {
+          "option": "Yes, it increases"
+        },
+        {
+          "option": "It depends on the distance"
+        }
+      ]
+    },
+    {
+      "question": "If tan(theta) = 1, what is the angle of elevation?",
+      "options": [
+        {
+          "option": "0 degrees"
+        },
+        {
+          "option": "30 degrees"
+        },
+        {
+          "option": "45 degrees",
+          "is_answer": true
+        },
+        {
+          "option": "60 degrees"
+        }
+      ]
+    },
+    {
+      "question": "A tree casts a shadow 10m long when the angle of elevation of the sun is 45 degrees. What is the height of the tree?",
+      "options": [
+        {
+          "option": "10√3 meters"
+        },
+        {
+          "option": "5 meters"
+        },
+        {
+          "option": "10 meters",
+          "is_answer": true
+        },
+        {
+          "option": "20 meters"
+        }
+      ]
+    },
+    {
+      "question": "If the distance from the base of a building is 20m and the height is 20√3m, what is the angle of elevation?",
+      "options": [
+        {
+          "option": "60 degrees",
+          "is_answer": true
+        },
+        {
+          "option": "30 degrees"
+        },
+        {
+          "option": "90 degrees"
+        },
+        {
+          "option": "45 degrees"
+        }
+      ]
+    },
+    {
+      "question": "Which trigonometric ratio is used to relate height and distance in angle of elevation problems?",
+      "options": [
+        {
+          "option": "Cosine"
+        },
+        {
+          "option": "Secant"
+        },
+        {
+          "option": "Sine"
+        },
+        {
+          "option": "Tangent",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the angle of elevation is 0 degrees, what does it imply about the height of the object?",
+      "options": [
+        {
+          "option": "Height is infinite"
+        },
+        {
+          "option": "Height is zero",
+          "is_answer": true
+        },
+        {
+          "option": "Height is equal to distance"
+        },
+        {
+          "option": "Object is at the same level"
+        }
+      ]
+    },
+    {
+      "question": "A 15m high pole casts a shadow of 15√3m. What is the angle of elevation of the sun?",
+      "options": [
+        {
+          "option": "90 degrees"
+        },
+        {
+          "option": "45 degrees"
+        },
+        {
+          "option": "30 degrees",
+          "is_answer": true
+        },
+        {
+          "option": "60 degrees"
+        }
+      ]
+    },
+    {
+      "question": "If the height of an object is doubled while the distance remains the same, what happens to the tangent of the angle of elevation?",
+      "options": [
+        {
+          "option": "It halves"
+        },
+        {
+          "option": "It becomes four times"
+        },
+        {
+          "option": "It remains the same"
+        },
+        {
+          "option": "It doubles",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The angle of elevation of a ladder leaning against a wall is 60 degrees. If the foot of the ladder is 5m from the wall, how long is the ladder?",
+      "options": [
+        {
+          "option": "10 meters",
+          "is_answer": true
+        },
+        {
+          "option": "15 meters"
+        },
+        {
+          "option": "5 meters"
+        },
+        {
+          "option": "5√3 meters"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of tan(60 degrees)?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "√3",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "1/√3"
+        }
+      ]
+    },
+    {
+      "question": "If the angle of elevation is 30 degrees and the height is 10m, what is the distance from the base?",
+      "options": [
+        {
+          "option": "20 meters"
+        },
+        {
+          "option": "5√3 meters"
+        },
+        {
+          "option": "10√3 meters",
+          "is_answer": true
+        },
+        {
+          "option": "10 meters"
+        }
+      ]
+    },
+    {
+      "question": "A tower stands vertically on the ground. From a point on the ground 40m from the foot of the tower, the angle of elevation is 30 degrees. Find the height.",
+      "options": [
+        {
+          "option": "40/√3 meters",
+          "is_answer": true
+        },
+        {
+          "option": "80 meters"
+        },
+        {
+          "option": "40√3 meters"
+        },
+        {
+          "option": "20 meters"
+        }
+      ]
+    },
+    {
+      "question": "If the angle of elevation of the sun increases, what happens to the length of the shadow of a vertical pole?",
+      "options": [
+        {
+          "option": "It increases"
+        },
+        {
+          "option": "It becomes zero"
+        },
+        {
+          "option": "It remains the same"
+        },
+        {
+          "option": "It decreases",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of tan(30 degrees)?",
+      "options": [
+        {
+          "option": "√3"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "1/√3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If an observer at the top of a 50m cliff looks down at a boat with an angle of depression of 30 degrees, what is the horizontal distance from the boat to the base of the cliff?",
+      "options": [
+        {
+          "option": "50√3 m",
+          "is_answer": true
+        },
+        {
+          "option": "100 m"
+        },
+        {
+          "option": "50/√3 m"
+        },
+        {
+          "option": "25 m"
+        }
+      ]
+    },
+    {
+      "question": "The angle of depression from the top of a tower to an object on the ground is 45 degrees. If the height of the tower is 20m, what is the distance of the object from the base?",
+      "options": [
+        {
+          "option": "20/√2 m"
+        },
+        {
+          "option": "20√3 m"
+        },
+        {
+          "option": "10 m"
+        },
+        {
+          "option": "20 m",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "An observer 100m high looks at an object with an angle of depression of 60 degrees. What is the distance of the object from the base?",
+      "options": [
+        {
+          "option": "50 m"
+        },
+        {
+          "option": "100/√3 m",
+          "is_answer": true
+        },
+        {
+          "option": "100√3 m"
+        },
+        {
+          "option": "200 m"
+        }
+      ]
+    },
+    {
+      "question": "If the angle of depression of an object from a 10m high building is 30 degrees, how far is the object from the building?",
+      "options": [
+        {
+          "option": "10/√3 m"
+        },
+        {
+          "option": "20 m"
+        },
+        {
+          "option": "5 m"
+        },
+        {
+          "option": "10√3 m",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A lighthouse is 60m tall. The angle of depression of a ship is 30 degrees. How far is the ship from the lighthouse?",
+      "options": [
+        {
+          "option": "30 m"
+        },
+        {
+          "option": "120 m"
+        },
+        {
+          "option": "60/√3 m"
+        },
+        {
+          "option": "60√3 m",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The angle of depression from a 40m high cliff to a point is 45 degrees. What is the horizontal distance?",
+      "options": [
+        {
+          "option": "40 m",
+          "is_answer": true
+        },
+        {
+          "option": "40/√2 m"
+        },
+        {
+          "option": "40√3 m"
+        },
+        {
+          "option": "20 m"
+        }
+      ]
+    },
+    {
+      "question": "If the angle of depression is 60 degrees and the distance from the base is 30m, what is the height of the observer?",
+      "options": [
+        {
+          "option": "60 m"
+        },
+        {
+          "option": "15 m"
+        },
+        {
+          "option": "30/√3 m"
+        },
+        {
+          "option": "30√3 m",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "An observer at 20m height sees an object at 20m distance. What is the angle of depression?",
+      "options": [
+        {
+          "option": "60 degrees"
+        },
+        {
+          "option": "45 degrees",
+          "is_answer": true
+        },
+        {
+          "option": "30 degrees"
+        },
+        {
+          "option": "90 degrees"
+        }
+      ]
+    },
+    {
+      "question": "If the angle of depression is 30 degrees and the height is 10√3 m, what is the distance from the base?",
+      "options": [
+        {
+          "option": "10 m"
+        },
+        {
+          "option": "10√3 m"
+        },
+        {
+          "option": "20 m"
+        },
+        {
+          "option": "30 m",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A person on a 50m tower observes a car at an angle of depression of 60 degrees. How far is the car from the tower?",
+      "options": [
+        {
+          "option": "100 m"
+        },
+        {
+          "option": "50√3 m"
+        },
+        {
+          "option": "25 m"
+        },
+        {
+          "option": "50/√3 m",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The angle of depression of a point from the top of a 100m high building is 30 degrees. Find the distance of the point from the building.",
+      "options": [
+        {
+          "option": "50 m"
+        },
+        {
+          "option": "100/√3 m"
+        },
+        {
+          "option": "200 m"
+        },
+        {
+          "option": "100√3 m",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the angle of depression is 45 degrees and the distance from the base is 15m, what is the height of the observer?",
+      "options": [
+        {
+          "option": "15√3 m"
+        },
+        {
+          "option": "15/√3 m"
+        },
+        {
+          "option": "30 m"
+        },
+        {
+          "option": "15 m",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "An observer at 30m height looks at an object at 30√3 m distance. What is the angle of depression?",
+      "options": [
+        {
+          "option": "90 degrees"
+        },
+        {
+          "option": "60 degrees"
+        },
+        {
+          "option": "30 degrees",
+          "is_answer": true
+        },
+        {
+          "option": "45 degrees"
+        }
+      ]
+    },
+    {
+      "question": "The angle of depression from a 20m high pole to an object is 60 degrees. What is the distance of the object from the pole?",
+      "options": [
+        {
+          "option": "20√3 m"
+        },
+        {
+          "option": "20/√3 m",
+          "is_answer": true
+        },
+        {
+          "option": "10 m"
+        },
+        {
+          "option": "40 m"
+        }
+      ]
+    },
+    {
+      "question": "If the angle of depression is 30 degrees and the distance from the base is 40m, what is the height of the observer?",
+      "options": [
+        {
+          "option": "20 m"
+        },
+        {
+          "option": "40/√3 m",
+          "is_answer": true
+        },
+        {
+          "option": "40√3 m"
+        },
+        {
+          "option": "80 m"
+        }
+      ]
+    },
+    {
+      "question": "An observer at 50m height looks at an object at 50m distance. What is the angle of depression?",
+      "options": [
+        {
+          "option": "30 degrees"
+        },
+        {
+          "option": "60 degrees"
+        },
+        {
+          "option": "45 degrees",
+          "is_answer": true
+        },
+        {
+          "option": "90 degrees"
+        }
+      ]
+    },
+    {
+      "question": "The angle of depression from a 10m high wall to an object is 45 degrees. What is the distance of the object from the wall?",
+      "options": [
+        {
+          "option": "10 m",
+          "is_answer": true
+        },
+        {
+          "option": "5 m"
+        },
+        {
+          "option": "10/√2 m"
+        },
+        {
+          "option": "10√3 m"
+        }
+      ]
+    },
+    {
+      "question": "If the angle of depression is 60 degrees and the height is 60m, what is the distance from the base?",
+      "options": [
+        {
+          "option": "30 m"
+        },
+        {
+          "option": "60/√3 m",
+          "is_answer": true
+        },
+        {
+          "option": "120 m"
+        },
+        {
+          "option": "60√3 m"
+        }
+      ]
+    },
+    {
+      "question": "An observer at 20m height looks at an object at 20/√3 m distance. What is the angle of depression?",
+      "options": [
+        {
+          "option": "60 degrees",
+          "is_answer": true
+        },
+        {
+          "option": "45 degrees"
+        },
+        {
+          "option": "30 degrees"
+        },
+        {
+          "option": "90 degrees"
+        }
+      ]
+    },
+    {
+      "question": "The angle of depression from a 30m high tower to an object is 30 degrees. What is the distance of the object from the tower?",
+      "options": [
+        {
+          "option": "30√3 m",
+          "is_answer": true
+        },
+        {
+          "option": "15 m"
+        },
+        {
+          "option": "60 m"
+        },
+        {
+          "option": "30/√3 m"
+        }
+      ]
+    },
+    {
+      "question": "What is the formula for sin(3A)?",
+      "options": [
+        {
+          "option": "3 sin A + 4 sin^3 A"
+        },
+        {
+          "option": "3 sin A - 4 sin^3 A",
+          "is_answer": true
+        },
+        {
+          "option": "4 sin^3 A + 3 sin A"
+        },
+        {
+          "option": "4 sin^3 A - 3 sin A"
+        }
+      ]
+    },
+    {
+      "question": "What is the formula for cos(3A)?",
+      "options": [
+        {
+          "option": "4 cos^3 A - 3 cos A",
+          "is_answer": true
+        },
+        {
+          "option": "4 cos^3 A + 3 cos A"
+        },
+        {
+          "option": "3 cos A - 4 cos^3 A"
+        },
+        {
+          "option": "3 cos A + 4 cos^3 A"
+        }
+      ]
+    },
+    {
+      "question": "What is the formula for tan(3A)?",
+      "options": [
+        {
+          "option": "(3 tan A - tan^3 A) / (1 + 3 tan^2 A)"
+        },
+        {
+          "option": "(3 tan A - tan^3 A) / (1 - 3 tan^2 A)",
+          "is_answer": true
+        },
+        {
+          "option": "(3 tan A + tan^3 A) / (1 - 3 tan^2 A)"
+        },
+        {
+          "option": "(tan^3 A - 3 tan A) / (1 - 3 tan^2 A)"
+        }
+      ]
+    },
+    {
+      "question": "If sin A = 1/2, what is the value of sin(3A)?",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "If cos A = 0, what is the value of cos(3A)?",
+      "options": [
+        {
+          "option": "-1"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is equivalent to 3 sin A - 4 sin^3 A?",
+      "options": [
+        {
+          "option": "tan(3A)"
+        },
+        {
+          "option": "sin(2A)"
+        },
+        {
+          "option": "sin(3A)",
+          "is_answer": true
+        },
+        {
+          "option": "cos(3A)"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is equivalent to 4 cos^3 A - 3 cos A?",
+      "options": [
+        {
+          "option": "cos(3A)",
+          "is_answer": true
+        },
+        {
+          "option": "tan(3A)"
+        },
+        {
+          "option": "cos(2A)"
+        },
+        {
+          "option": "sin(3A)"
+        }
+      ]
+    },
+    {
+      "question": "If tan A = 1, what is the value of tan(3A)?",
+      "options": [
+        {
+          "option": "undefined"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of sin(3 * 30°)?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "sqrt(3)/2"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of cos(3 * 60°)?",
+      "options": [
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "The expression (3 tan A - tan^3 A) / (1 - 3 tan^2 A) is equal to:",
+      "options": [
+        {
+          "option": "tan(3A)",
+          "is_answer": true
+        },
+        {
+          "option": "tan(2A)"
+        },
+        {
+          "option": "tan(A)"
+        },
+        {
+          "option": "3 tan(A)"
+        }
+      ]
+    },
+    {
+      "question": "If sin A = 0, what is the value of sin(3A)?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If cos A = 1, what is the value of cos(3A)?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "Which identity is used to derive the triple angle formula for sine?",
+      "options": [
+        {
+          "option": "sin(A + 2A)",
+          "is_answer": true
+        },
+        {
+          "option": "sin(A + A)"
+        },
+        {
+          "option": "sin(A - 2A)"
+        },
+        {
+          "option": "sin(3A + A)"
+        }
+      ]
+    },
+    {
+      "question": "Which identity is used to derive the triple angle formula for cosine?",
+      "options": [
+        {
+          "option": "cos(A - 2A)"
+        },
+        {
+          "option": "cos(A + A)"
+        },
+        {
+          "option": "cos(3A + A)"
+        },
+        {
+          "option": "cos(A + 2A)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of tan(3 * 45°)?",
+      "options": [
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "undefined"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "If sin A = 1/3, what is sin(3A)?",
+      "options": [
+        {
+          "option": "8/27"
+        },
+        {
+          "option": "1/27"
+        },
+        {
+          "option": "1/9"
+        },
+        {
+          "option": "23/27",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If cos A = 1/2, what is cos(3A)?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1/8"
+        },
+        {
+          "option": "-1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The formula 3 sin A - 4 sin^3 A is valid for:",
+      "options": [
+        {
+          "option": "All real values of A",
+          "is_answer": true
+        },
+        {
+          "option": "Only A = 0"
+        },
+        {
+          "option": "Only negative values of A"
+        },
+        {
+          "option": "Only positive values of A"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is NOT a triple angle formula?",
+      "options": [
+        {
+          "option": "cos(3A) = 4 cos^3 A - 3 cos A"
+        },
+        {
+          "option": "sin(2A) = 2 sin A cos A",
+          "is_answer": true
+        },
+        {
+          "option": "tan(3A) = (3 tan A - tan^3 A) / (1 - 3 tan^2 A)"
+        },
+        {
+          "option": "sin(3A) = 3 sin A - 4 sin^3 A"
+        }
+      ]
+    },
+    {
+      "question": "What is the principal value of arcsin(1/2)?",
+      "options": [
+        {
+          "option": "pi/3"
+        },
+        {
+          "option": "pi/4"
+        },
+        {
+          "option": "pi/6",
+          "is_answer": true
+        },
+        {
+          "option": "pi/2"
+        }
+      ]
+    },
+    {
+      "question": "What is the principal value of arccos(1/2)?",
+      "options": [
+        {
+          "option": "pi/6"
+        },
+        {
+          "option": "pi/4"
+        },
+        {
+          "option": "2pi/3"
+        },
+        {
+          "option": "pi/3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the principal value of arctan(1)?",
+      "options": [
+        {
+          "option": "pi/3"
+        },
+        {
+          "option": "pi/6"
+        },
+        {
+          "option": "pi/2"
+        },
+        {
+          "option": "pi/4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the principal value of arcsin(-1/2)?",
+      "options": [
+        {
+          "option": "-pi/6",
+          "is_answer": true
+        },
+        {
+          "option": "5pi/6"
+        },
+        {
+          "option": "pi/6"
+        },
+        {
+          "option": "-pi/3"
+        }
+      ]
+    },
+    {
+      "question": "What is the principal value of arccos(-1/2)?",
+      "options": [
+        {
+          "option": "pi/3"
+        },
+        {
+          "option": "2pi/3",
+          "is_answer": true
+        },
+        {
+          "option": "pi/6"
+        },
+        {
+          "option": "-pi/3"
+        }
+      ]
+    },
+    {
+      "question": "What is the principal value of arctan(-1)?",
+      "options": [
+        {
+          "option": "pi/4"
+        },
+        {
+          "option": "-pi/4",
+          "is_answer": true
+        },
+        {
+          "option": "-pi/3"
+        },
+        {
+          "option": "3pi/4"
+        }
+      ]
+    },
+    {
+      "question": "What is the principal value of arcsin(1)?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "-pi/2"
+        },
+        {
+          "option": "pi"
+        },
+        {
+          "option": "pi/2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the principal value of arccos(0)?",
+      "options": [
+        {
+          "option": "pi/2",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "pi/4"
+        },
+        {
+          "option": "pi"
+        }
+      ]
+    },
+    {
+      "question": "What is the principal value of arcsin(0)?",
+      "options": [
+        {
+          "option": "pi/2"
+        },
+        {
+          "option": "pi"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "-pi/2"
+        }
+      ]
+    },
+    {
+      "question": "What is the principal value of arccos(1)?",
+      "options": [
+        {
+          "option": "pi/4"
+        },
+        {
+          "option": "pi"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "pi/2"
+        }
+      ]
+    },
+    {
+      "question": "What is the principal value of arctan(0)?",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "pi"
+        },
+        {
+          "option": "-pi/2"
+        },
+        {
+          "option": "pi/2"
+        }
+      ]
+    },
+    {
+      "question": "What is the principal value of arcsin(-1)?",
+      "options": [
+        {
+          "option": "-pi/2",
+          "is_answer": true
+        },
+        {
+          "option": "pi"
+        },
+        {
+          "option": "pi/2"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "What is the principal value of arccos(-1)?",
+      "options": [
+        {
+          "option": "pi/2"
+        },
+        {
+          "option": "-pi/2"
+        },
+        {
+          "option": "pi",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "What is the principal value of arcsin(sqrt(3)/2)?",
+      "options": [
+        {
+          "option": "pi/4"
+        },
+        {
+          "option": "pi/6"
+        },
+        {
+          "option": "pi/3",
+          "is_answer": true
+        },
+        {
+          "option": "2pi/3"
+        }
+      ]
+    },
+    {
+      "question": "What is the principal value of arccos(sqrt(3)/2)?",
+      "options": [
+        {
+          "option": "pi/3"
+        },
+        {
+          "option": "2pi/3"
+        },
+        {
+          "option": "pi/4"
+        },
+        {
+          "option": "pi/6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the principal value of arctan(sqrt(3))?",
+      "options": [
+        {
+          "option": "pi/3",
+          "is_answer": true
+        },
+        {
+          "option": "pi/6"
+        },
+        {
+          "option": "2pi/3"
+        },
+        {
+          "option": "pi/4"
+        }
+      ]
+    },
+    {
+      "question": "What is the principal value of arctan(1/sqrt(3))?",
+      "options": [
+        {
+          "option": "pi/4"
+        },
+        {
+          "option": "2pi/3"
+        },
+        {
+          "option": "pi/6",
+          "is_answer": true
+        },
+        {
+          "option": "pi/3"
+        }
+      ]
+    },
+    {
+      "question": "What is the principal value of arcsin(-sqrt(3)/2)?",
+      "options": [
+        {
+          "option": "pi/3"
+        },
+        {
+          "option": "-pi/3",
+          "is_answer": true
+        },
+        {
+          "option": "2pi/3"
+        },
+        {
+          "option": "-pi/6"
+        }
+      ]
+    },
+    {
+      "question": "What is the principal value of arccos(-sqrt(3)/2)?",
+      "options": [
+        {
+          "option": "2pi/3"
+        },
+        {
+          "option": "5pi/6",
+          "is_answer": true
+        },
+        {
+          "option": "-pi/6"
+        },
+        {
+          "option": "pi/6"
+        }
+      ]
+    },
+    {
+      "question": "What is the principal value of arctan(-sqrt(3))?",
+      "options": [
+        {
+          "option": "-pi/6"
+        },
+        {
+          "option": "2pi/3"
+        },
+        {
+          "option": "-pi/3",
+          "is_answer": true
+        },
+        {
+          "option": "pi/3"
+        }
+      ]
+    },
+    {
+      "question": "What is the maximum value of 3 sin θ + 4 cos θ?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "What is the minimum value of 5 sin θ + 12 cos θ?",
+      "options": [
+        {
+          "option": "13"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-13",
+          "is_answer": true
+        },
+        {
+          "option": "-17"
+        }
+      ]
+    },
+    {
+      "question": "Find the maximum value of sin θ + cos θ.",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "√2",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "What is the range of 6 sin θ + 8 cos θ?",
+      "options": [
+        {
+          "option": "[-48, 48]"
+        },
+        {
+          "option": "[-14, 14]"
+        },
+        {
+          "option": "[-10, 10]",
+          "is_answer": true
+        },
+        {
+          "option": "[-2, 2]"
+        }
+      ]
+    },
+    {
+      "question": "What is the maximum value of 8 sin θ + 15 cos θ?",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "17",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "23"
+        }
+      ]
+    },
+    {
+      "question": "Find the minimum value of 7 sin θ + 24 cos θ.",
+      "options": [
+        {
+          "option": "-25",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-31"
+        }
+      ]
+    },
+    {
+      "question": "What is the maximum value of 9 sin θ + 40 cos θ?",
+      "options": [
+        {
+          "option": "41",
+          "is_answer": true
+        },
+        {
+          "option": "31"
+        },
+        {
+          "option": "49"
+        },
+        {
+          "option": "360"
+        }
+      ]
+    },
+    {
+      "question": "What is the minimum value of 20 sin θ + 21 cos θ?",
+      "options": [
+        {
+          "option": "-41"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "29"
+        },
+        {
+          "option": "-29",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the maximum value of √3 sin θ + cos θ.",
+      "options": [
+        {
+          "option": "√3"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "What is the range of 5 sin θ - 12 cos θ?",
+      "options": [
+        {
+          "option": "[-17, 17]"
+        },
+        {
+          "option": "[-7, 7]"
+        },
+        {
+          "option": "[-13, 13]",
+          "is_answer": true
+        },
+        {
+          "option": "[-60, 60]"
+        }
+      ]
+    },
+    {
+      "question": "What is the maximum value of 12 sin θ + 5 cos θ?",
+      "options": [
+        {
+          "option": "13",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "17"
+        }
+      ]
+    },
+    {
+      "question": "Find the minimum value of 15 sin θ + 8 cos θ.",
+      "options": [
+        {
+          "option": "17"
+        },
+        {
+          "option": "-17",
+          "is_answer": true
+        },
+        {
+          "option": "-23"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "What is the maximum value of 24 sin θ + 7 cos θ?",
+      "options": [
+        {
+          "option": "25",
+          "is_answer": true
+        },
+        {
+          "option": "31"
+        },
+        {
+          "option": "168"
+        },
+        {
+          "option": "17"
+        }
+      ]
+    },
+    {
+      "question": "What is the minimum value of 40 sin θ + 9 cos θ?",
+      "options": [
+        {
+          "option": "-49"
+        },
+        {
+          "option": "31"
+        },
+        {
+          "option": "41"
+        },
+        {
+          "option": "-41",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the maximum value of 21 sin θ + 20 cos θ.",
+      "options": [
+        {
+          "option": "420"
+        },
+        {
+          "option": "41"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "29",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the range of sin θ + √3 cos θ?",
+      "options": [
+        {
+          "option": "[-2, 2]",
+          "is_answer": true
+        },
+        {
+          "option": "[-4, 4]"
+        },
+        {
+          "option": "[-√3, √3]"
+        },
+        {
+          "option": "[-1, 1]"
+        }
+      ]
+    },
+    {
+      "question": "What is the maximum value of 6 sin θ + 8 cos θ?",
+      "options": [
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "Find the minimum value of 3 sin θ - 4 cos θ.",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "-5",
+          "is_answer": true
+        },
+        {
+          "option": "-7"
+        }
+      ]
+    },
+    {
+      "question": "What is the maximum value of 5 sin θ + 12 cos θ?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "17"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "13",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the minimum value of 8 sin θ + 15 cos θ?",
+      "options": [
+        {
+          "option": "-17",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "17"
+        },
+        {
+          "option": "-23"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of arcsin(x) + arccos(x) for |x| ≤ 1?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "π/2",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "π"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of arctan(x) + arccot(x) for x ∈ R?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "π"
+        },
+        {
+          "option": "π/2",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "What is the formula for arctan(x) + arctan(y) when xy < 1?",
+      "options": [
+        {
+          "option": "arctan((x+y)/(1-xy))",
+          "is_answer": true
+        },
+        {
+          "option": "arctan((x-y)/(1+xy))"
+        },
+        {
+          "option": "arctan((x-y)/(1-xy))"
+        },
+        {
+          "option": "arctan((x+y)/(1+xy))"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of arcsin(1/2) + arccos(1/2)?",
+      "options": [
+        {
+          "option": "π/4"
+        },
+        {
+          "option": "π/2",
+          "is_answer": true
+        },
+        {
+          "option": "π/6"
+        },
+        {
+          "option": "π/3"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of arctan(1) + arccot(1)?",
+      "options": [
+        {
+          "option": "π/4"
+        },
+        {
+          "option": "π/2",
+          "is_answer": true
+        },
+        {
+          "option": "π"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is equivalent to arccsc(x)?",
+      "options": [
+        {
+          "option": "arcsin(1/x)",
+          "is_answer": true
+        },
+        {
+          "option": "arccot(1/x)"
+        },
+        {
+          "option": "arccos(1/x)"
+        },
+        {
+          "option": "arctan(1/x)"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of arctan(x) - arctan(y) when xy > -1?",
+      "options": [
+        {
+          "option": "arctan((x+y)/(1+xy))"
+        },
+        {
+          "option": "arctan((x-y)/(1-xy))"
+        },
+        {
+          "option": "arctan((x+y)/(1-xy))"
+        },
+        {
+          "option": "arctan((x-y)/(1+xy))",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the domain of arcsin(x)?",
+      "options": [
+        {
+          "option": "[-1, 1]",
+          "is_answer": true
+        },
+        {
+          "option": "[0, 1]"
+        },
+        {
+          "option": "[0, π]"
+        },
+        {
+          "option": "(-∞, ∞)"
+        }
+      ]
+    },
+    {
+      "question": "What is the range of arccos(x)?",
+      "options": [
+        {
+          "option": "[-π/2, π/2]"
+        },
+        {
+          "option": "[0, π/2]"
+        },
+        {
+          "option": "(-π/2, π/2)"
+        },
+        {
+          "option": "[0, π]",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of arctan(0) + arccot(0)?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "π"
+        },
+        {
+          "option": "π/2",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "Which identity is correct for arccot(x)?",
+      "options": [
+        {
+          "option": "arctan(1/x) for x > 0",
+          "is_answer": true
+        },
+        {
+          "option": "arccos(1/x)"
+        },
+        {
+          "option": "arctan(1/x) for x < 0"
+        },
+        {
+          "option": "arcsin(1/x)"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of arcsin(x) + arccos(x) at x = 0?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "π"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "π/2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of 2arctan(x)?",
+      "options": [
+        {
+          "option": "arctan(2x/(1-x^2))",
+          "is_answer": true
+        },
+        {
+          "option": "arctan(x/(1-x^2))"
+        },
+        {
+          "option": "arctan(x^2/(1-x))"
+        },
+        {
+          "option": "arctan(2x/(1+x^2))"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of arctan(1/2) + arctan(1/3)?",
+      "options": [
+        {
+          "option": "π/6"
+        },
+        {
+          "option": "π/4",
+          "is_answer": true
+        },
+        {
+          "option": "π/2"
+        },
+        {
+          "option": "π/3"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is equal to -arcsin(x)?",
+      "options": [
+        {
+          "option": "arcsin(-x)",
+          "is_answer": true
+        },
+        {
+          "option": "arccos(-x)"
+        },
+        {
+          "option": "arccot(-x)"
+        },
+        {
+          "option": "arctan(-x)"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of arccos(-x)?",
+      "options": [
+        {
+          "option": "π + arccos(x)"
+        },
+        {
+          "option": "-arccos(x)"
+        },
+        {
+          "option": "π - arccos(x)",
+          "is_answer": true
+        },
+        {
+          "option": "arccos(x)"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of arctan(-x)?",
+      "options": [
+        {
+          "option": "π - arctan(x)"
+        },
+        {
+          "option": "-arctan(x)",
+          "is_answer": true
+        },
+        {
+          "option": "π + arctan(x)"
+        },
+        {
+          "option": "arctan(x)"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of arccot(-x)?",
+      "options": [
+        {
+          "option": "arccot(x)"
+        },
+        {
+          "option": "π - arccot(x)",
+          "is_answer": true
+        },
+        {
+          "option": "π + arccot(x)"
+        },
+        {
+          "option": "-arccot(x)"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of arcsin(x) + arccos(x) at x = 1?",
+      "options": [
+        {
+          "option": "π"
+        },
+        {
+          "option": "π/2",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of arctan(x) + arccot(x) at x = 100?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "π/2",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "π"
+        }
+      ]
+    },
+    {
+      "question": "If the angles of elevation of a tower from two points at distances a and b (a < b) from its base on the same side are alpha and beta, what is the height h?",
+      "options": [
+        {
+          "option": "h = sqrt(ab) * tan alpha"
+        },
+        {
+          "option": "h = (ab tan alpha tan beta) / (tan beta - tan alpha)",
+          "is_answer": true
+        },
+        {
+          "option": "h = (a + b) / (tan alpha + tan beta)"
+        },
+        {
+          "option": "h = (b - a) / (cot alpha - cot beta)"
+        }
+      ]
+    },
+    {
+      "question": "When the angles of elevation from two points at distances d1 and d2 from the base are complementary, the height of the tower is:",
+      "options": [
+        {
+          "option": "sqrt(d1 * d2)",
+          "is_answer": true
+        },
+        {
+          "option": "sqrt(d1^2 + d2^2)"
+        },
+        {
+          "option": "d1 / d2"
+        },
+        {
+          "option": "d1 + d2"
+        }
+      ]
+    },
+    {
+      "question": "If the angles of elevation from two points on a straight line are 30 and 60 degrees, and the distance between points is d, the height h is:",
+      "options": [
+        {
+          "option": "d * sqrt(3)"
+        },
+        {
+          "option": "d / sqrt(3)"
+        },
+        {
+          "option": "2 * d"
+        },
+        {
+          "option": "d * sqrt(3) / 2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "For a tower of height h, if the angles of elevation from two points at distance x and y (x < y) are 45 and 30 degrees, what is the distance between the points?",
+      "options": [
+        {
+          "option": "h(sqrt(3) + 1)"
+        },
+        {
+          "option": "h / sqrt(3)"
+        },
+        {
+          "option": "h(sqrt(3) - 1)",
+          "is_answer": true
+        },
+        {
+          "option": "h * sqrt(3)"
+        }
+      ]
+    },
+    {
+      "question": "In two-point observation, if the distance between points is d and the angles are alpha and beta (alpha > beta), the height h is given by:",
+      "options": [
+        {
+          "option": "d * (cot alpha + cot beta)"
+        },
+        {
+          "option": "d / (cot beta - cot alpha)",
+          "is_answer": true
+        },
+        {
+          "option": "d / (tan alpha - tan beta)"
+        },
+        {
+          "option": "d * (tan alpha + tan beta)"
+        }
+      ]
+    },
+    {
+      "question": "If the angles of elevation of a tower from two points at distances a and b from the base are 60 and 30 degrees, what is the ratio of the distances a:b?",
+      "options": [
+        {
+          "option": "1:sqrt(3)"
+        },
+        {
+          "option": "1:2"
+        },
+        {
+          "option": "3:1"
+        },
+        {
+          "option": "1:3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "When observing a tower from two points on opposite sides, the distance between points is d, and angles are alpha and beta. The height h is:",
+      "options": [
+        {
+          "option": "d * (tan alpha - tan beta)"
+        },
+        {
+          "option": "d / (tan alpha + tan beta)"
+        },
+        {
+          "option": "d / (cot alpha + cot beta)",
+          "is_answer": true
+        },
+        {
+          "option": "d * (cot alpha - cot beta)"
+        }
+      ]
+    },
+    {
+      "question": "If the angle of elevation changes from 30 to 45 degrees as you move 20 meters closer to a tower, what is the height of the tower?",
+      "options": [
+        {
+          "option": "10(sqrt(3) - 1)"
+        },
+        {
+          "option": "20(sqrt(3) - 1)"
+        },
+        {
+          "option": "10(sqrt(3) + 1)",
+          "is_answer": true
+        },
+        {
+          "option": "20(sqrt(3) + 1)"
+        }
+      ]
+    },
+    {
+      "question": "The height of a tower is h. The angles of elevation from two points at distances x and y from the base are alpha and beta. Which relation is correct?",
+      "options": [
+        {
+          "option": "h = x cot alpha = y cot beta"
+        },
+        {
+          "option": "h = x + y"
+        },
+        {
+          "option": "h = x tan alpha = y tan beta",
+          "is_answer": true
+        },
+        {
+          "option": "h = x tan beta = y tan alpha"
+        }
+      ]
+    },
+    {
+      "question": "If the angle of elevation of a tower is 30 degrees at a point and 60 degrees at a point 10m closer, what is the height?",
+      "options": [
+        {
+          "option": "5 * sqrt(3)",
+          "is_answer": true
+        },
+        {
+          "option": "10 / sqrt(3)"
+        },
+        {
+          "option": "5 / sqrt(3)"
+        },
+        {
+          "option": "10 * sqrt(3)"
+        }
+      ]
+    },
+    {
+      "question": "In the context of two-point observation, the cotangent of the angle of elevation is proportional to:",
+      "options": [
+        {
+          "option": "Inverse of the height"
+        },
+        {
+          "option": "Square of the distance"
+        },
+        {
+          "option": "Distance from the base",
+          "is_answer": true
+        },
+        {
+          "option": "Height of the tower"
+        }
+      ]
+    },
+    {
+      "question": "If the angles of elevation from two points at distances a and b are alpha and beta, the difference in distances is:",
+      "options": [
+        {
+          "option": "h(tan alpha + tan beta)"
+        },
+        {
+          "option": "h(tan beta - tan alpha)"
+        },
+        {
+          "option": "h(cot alpha + cot beta)"
+        },
+        {
+          "option": "h(cot beta - cot alpha)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the angle of elevation of a tower is 45 degrees at a point and 30 degrees at a point 20m further away, the height is:",
+      "options": [
+        {
+          "option": "10(sqrt(3) - 1)"
+        },
+        {
+          "option": "20(sqrt(3) + 1)"
+        },
+        {
+          "option": "20(sqrt(3) - 1)"
+        },
+        {
+          "option": "10(sqrt(3) + 1)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which trigonometric function is most useful for relating height and distance in these observations?",
+      "options": [
+        {
+          "option": "Sine"
+        },
+        {
+          "option": "Cosine"
+        },
+        {
+          "option": "Tangent",
+          "is_answer": true
+        },
+        {
+          "option": "Secant"
+        }
+      ]
+    },
+    {
+      "question": "If the angles of elevation are 30 and 45 degrees from two points, the height h is:",
+      "options": [
+        {
+          "option": "d * (sqrt(3) + 1)"
+        },
+        {
+          "option": "d / (sqrt(3) - 1)",
+          "is_answer": true
+        },
+        {
+          "option": "d * (sqrt(3) - 1)"
+        },
+        {
+          "option": "d / (sqrt(3) + 1)"
+        }
+      ]
+    },
+    {
+      "question": "For a tower of height h, if the angles of elevation from two points at distance d are complementary, then:",
+      "options": [
+        {
+          "option": "h^2 = d1 * d2",
+          "is_answer": true
+        },
+        {
+          "option": "h^2 = d1 + d2"
+        },
+        {
+          "option": "h = d1 * d2"
+        },
+        {
+          "option": "h = d1 + d2"
+        }
+      ]
+    },
+    {
+      "question": "If the angle of elevation is 60 degrees at a point and 30 degrees at a point 40m further, the height is:",
+      "options": [
+        {
+          "option": "10 * sqrt(3)"
+        },
+        {
+          "option": "20 * sqrt(3)",
+          "is_answer": true
+        },
+        {
+          "option": "20 / sqrt(3)"
+        },
+        {
+          "option": "40 * sqrt(3)"
+        }
+      ]
+    },
+    {
+      "question": "The distance between two points is d. If the angles of elevation are 30 and 60 degrees, the height is:",
+      "options": [
+        {
+          "option": "d / 2"
+        },
+        {
+          "option": "d * sqrt(3)"
+        },
+        {
+          "option": "d / sqrt(3)"
+        },
+        {
+          "option": "d * sqrt(3) / 2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the angle of elevation of a tower is 30 degrees at a point and 45 degrees at a point 10m closer, the height is:",
+      "options": [
+        {
+          "option": "10(sqrt(3) + 1)"
+        },
+        {
+          "option": "10(sqrt(3) - 1)"
+        },
+        {
+          "option": "5(sqrt(3) + 1)",
+          "is_answer": true
+        },
+        {
+          "option": "5(sqrt(3) - 1)"
+        }
+      ]
+    },
+    {
+      "question": "In two-point observation, the height h can be calculated using the formula h = d / (cot beta - cot alpha) where:",
+      "options": [
+        {
+          "option": "beta > alpha"
+        },
+        {
+          "option": "alpha + beta = 90"
+        },
+        {
+          "option": "alpha = beta"
+        },
+        {
+          "option": "alpha > beta",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: sin(x) + cos(x) = 1, where 0 ≤ x ≤ 2π.",
+      "options": [
+        {
+          "option": "0, π/2",
+          "is_answer": true
+        },
+        {
+          "option": "π/4, π"
+        },
+        {
+          "option": "π/3, 2π/3"
+        },
+        {
+          "option": "0, π"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of tan(arcsin(1/2))?",
+      "options": [
+        {
+          "option": "1/√3",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "√3"
+        }
+      ]
+    },
+    {
+      "question": "If the angle of elevation of a tower from a point 50m away is 60°, what is the height of the tower?",
+      "options": [
+        {
+          "option": "50/√3 m"
+        },
+        {
+          "option": "100 m"
+        },
+        {
+          "option": "25√3 m"
+        },
+        {
+          "option": "50√3 m",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Simplify: sin²(θ) + cos²(θ) + tan²(θ) - sec²(θ).",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "Find the value of cos(75°).",
+      "options": [
+        {
+          "option": "(√6+√2)/4"
+        },
+        {
+          "option": "(√6-√2)/4",
+          "is_answer": true
+        },
+        {
+          "option": "(√2-1)/2"
+        },
+        {
+          "option": "(√3-1)/2"
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: 2cos²(x) - 1 = 0.",
+      "options": [
+        {
+          "option": "π/3, 2π/3"
+        },
+        {
+          "option": "0, π"
+        },
+        {
+          "option": "π/6, 5π/6"
+        },
+        {
+          "option": "π/4, 3π/4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the period of the function f(x) = sin(3x)?",
+      "options": [
+        {
+          "option": "2π"
+        },
+        {
+          "option": "π/3"
+        },
+        {
+          "option": "2π/3",
+          "is_answer": true
+        },
+        {
+          "option": "3π"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: sin(15°)cos(15°).",
+      "options": [
+        {
+          "option": "√3/4"
+        },
+        {
+          "option": "√3/2"
+        },
+        {
+          "option": "1/4",
+          "is_answer": true
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "If tan(A) = 3/4, what is sin(A)?",
+      "options": [
+        {
+          "option": "4/5"
+        },
+        {
+          "option": "3/7"
+        },
+        {
+          "option": "5/3"
+        },
+        {
+          "option": "3/5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the value of arcsin(sin(2π/3)).",
+      "options": [
+        {
+          "option": "π/3",
+          "is_answer": true
+        },
+        {
+          "option": "2π/3"
+        },
+        {
+          "option": "π/2"
+        },
+        {
+          "option": "π/6"
+        }
+      ]
+    },
+    {
+      "question": "The shadow of a pole is equal to its height. What is the angle of elevation of the sun?",
+      "options": [
+        {
+          "option": "90°"
+        },
+        {
+          "option": "45°",
+          "is_answer": true
+        },
+        {
+          "option": "60°"
+        },
+        {
+          "option": "30°"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: (1 - sin²θ)sec²θ.",
+      "options": [
+        {
+          "option": "tan²θ"
+        },
+        {
+          "option": "sin²θ"
+        },
+        {
+          "option": "cos²θ"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of cos(2θ) in terms of sin(θ)?",
+      "options": [
+        {
+          "option": "1 + sin²θ"
+        },
+        {
+          "option": "1 - 2sin²θ",
+          "is_answer": true
+        },
+        {
+          "option": "sin²θ - 1"
+        },
+        {
+          "option": "2sin²θ - 1"
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: tan(x) = √3.",
+      "options": [
+        {
+          "option": "π/4"
+        },
+        {
+          "option": "π/2"
+        },
+        {
+          "option": "π/3",
+          "is_answer": true
+        },
+        {
+          "option": "π/6"
+        }
+      ]
+    },
+    {
+      "question": "Find the value of sin(120°).",
+      "options": [
+        {
+          "option": "-√3/2"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "√3/2",
+          "is_answer": true
+        },
+        {
+          "option": "-1/2"
+        }
+      ]
+    },
+    {
+      "question": "If cos(θ) = 0, what is the general solution for θ?",
+      "options": [
+        {
+          "option": "2nπ"
+        },
+        {
+          "option": "(n+1)π"
+        },
+        {
+          "option": "nπ"
+        },
+        {
+          "option": "(2n+1)π/2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of tan(π/4) + cot(π/4)?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "√2"
+        }
+      ]
+    },
+    {
+      "question": "The angle of elevation of a ladder leaning against a wall is 45°. If the foot of the ladder is 5m from the wall, how long is the ladder?",
+      "options": [
+        {
+          "option": "5/√2 m"
+        },
+        {
+          "option": "10 m"
+        },
+        {
+          "option": "5 m"
+        },
+        {
+          "option": "5√2 m",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Simplify: sin(π - θ).",
+      "options": [
+        {
+          "option": "-sin(θ)"
+        },
+        {
+          "option": "cos(θ)"
+        },
+        {
+          "option": "sin(θ)",
+          "is_answer": true
+        },
+        {
+          "option": "-cos(θ)"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of sin(90 degrees)?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which trigonometric identity is equivalent to 1 + tan^2(theta)?",
+      "options": [
+        {
+          "option": "sin^2(theta)"
+        },
+        {
+          "option": "cot^2(theta)"
+        },
+        {
+          "option": "csc^2(theta)"
+        },
+        {
+          "option": "sec^2(theta)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of tan(45 degrees)?",
+      "options": [
+        {
+          "option": "1/sqrt(3)"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "sqrt(3)"
+        }
+      ]
+    }
+  ]
+}

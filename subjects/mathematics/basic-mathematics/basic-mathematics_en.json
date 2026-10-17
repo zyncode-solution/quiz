@@ -1,0 +1,9005 @@
+{
+  "total_questions": 500,
+  "questions": [
+    {
+      "question": "Evaluate: 5 + (3 * 2)",
+      "options": [
+        {
+          "option": "11",
+          "is_answer": true
+        },
+        {
+          "option": "13"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: (10 - 2) / 4",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: 2 * (3 + 4)",
+      "options": [
+        {
+          "option": "14",
+          "is_answer": true
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: 15 - (2 + 3)",
+      "options": [
+        {
+          "option": "14"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: 20 / (2 * 5)",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "50"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: 3 * (4 + 2) - 5",
+      "options": [
+        {
+          "option": "13",
+          "is_answer": true
+        },
+        {
+          "option": "11"
+        },
+        {
+          "option": "17"
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: 8 + [4 * (3 - 1)]",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: (12 / 3) + (2 * 5)",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "14",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: 5 * {2 + (6 / 3)}",
+      "options": [
+        {
+          "option": "16"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: (10 + 5) / (3 + 2)",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: 2 * [10 - (2 * 3)]",
+      "options": [
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "14"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: 4 + 3 * (2 + 1)",
+      "options": [
+        {
+          "option": "13",
+          "is_answer": true
+        },
+        {
+          "option": "21"
+        },
+        {
+          "option": "11"
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: (8 - 2) * (5 + 1)",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "42"
+        },
+        {
+          "option": "36",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: 100 / (10 * 2)",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: 7 + (3 * 4) - 2",
+      "options": [
+        {
+          "option": "19"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "17",
+          "is_answer": true
+        },
+        {
+          "option": "21"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: 2 * {5 + [3 * (2 + 1)]}",
+      "options": [
+        {
+          "option": "32"
+        },
+        {
+          "option": "28",
+          "is_answer": true
+        },
+        {
+          "option": "22"
+        },
+        {
+          "option": "26"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: (15 - 5) / 2 + 3",
+      "options": [
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: 6 * (2 + 3) - 4",
+      "options": [
+        {
+          "option": "22"
+        },
+        {
+          "option": "28"
+        },
+        {
+          "option": "26",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: 10 + (2 * (5 - 3))",
+      "options": [
+        {
+          "option": "14",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: (20 / 4) * (3 + 2)",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "25",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the absolute value of -7?",
+      "options": [
+        {
+          "option": "-7"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "On a number line, which direction do you move to represent positive numbers?",
+      "options": [
+        {
+          "option": "Left"
+        },
+        {
+          "option": "Right",
+          "is_answer": true
+        },
+        {
+          "option": "Up"
+        },
+        {
+          "option": "Down"
+        }
+      ]
+    },
+    {
+      "question": "What is the distance of -5 from 0 on a number line?",
+      "options": [
+        {
+          "option": "5 units",
+          "is_answer": true
+        },
+        {
+          "option": "0 units"
+        },
+        {
+          "option": "-5 units"
+        },
+        {
+          "option": "10 units"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is equal to |12|?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-12"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of |0|?",
+      "options": [
+        {
+          "option": "undefined"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which number is located to the left of -2 on a number line?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "-3",
+          "is_answer": true
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "If |x| = 9, what could be the value of x?",
+      "options": [
+        {
+          "option": "9 or -9",
+          "is_answer": true
+        },
+        {
+          "option": "9 only"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-9 only"
+        }
+      ]
+    },
+    {
+      "question": "Which integer is greater: -3 or -10?",
+      "options": [
+        {
+          "option": "They are equal"
+        },
+        {
+          "option": "Neither"
+        },
+        {
+          "option": "-3",
+          "is_answer": true
+        },
+        {
+          "option": "-10"
+        }
+      ]
+    },
+    {
+      "question": "What is the absolute value of 15?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "-15"
+        }
+      ]
+    },
+    {
+      "question": "On a number line, which side of zero are negative numbers located?",
+      "options": [
+        {
+          "option": "Right"
+        },
+        {
+          "option": "Above"
+        },
+        {
+          "option": "Below"
+        },
+        {
+          "option": "Left",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the result of |-8| + |-2|?",
+      "options": [
+        {
+          "option": "-6"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "-10"
+        }
+      ]
+    },
+    {
+      "question": "Which of these numbers is furthest from zero on a number line?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "-10",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of -|5|?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "-5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which number is between -4 and -2 on a number line?",
+      "options": [
+        {
+          "option": "-1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-3",
+          "is_answer": true
+        },
+        {
+          "option": "-5"
+        }
+      ]
+    },
+    {
+      "question": "What is the absolute value of -100?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "-100"
+        },
+        {
+          "option": "100",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which statement is true regarding absolute value?",
+      "options": [
+        {
+          "option": "It is always non-negative",
+          "is_answer": true
+        },
+        {
+          "option": "It is always zero"
+        },
+        {
+          "option": "It is only for fractions"
+        },
+        {
+          "option": "It can be negative"
+        }
+      ]
+    },
+    {
+      "question": "What is the distance between -3 and 2 on a number line?",
+      "options": [
+        {
+          "option": "-1 unit"
+        },
+        {
+          "option": "1 unit"
+        },
+        {
+          "option": "6 units"
+        },
+        {
+          "option": "5 units",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which number is the additive inverse of 6?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "1/6"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is | -4 | - | 2 |?",
+      "options": [
+        {
+          "option": "-2"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "-6"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a positive integer?",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "-5"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "Which set of numbers is a subset of the Whole numbers (W)?",
+      "options": [
+        {
+          "option": "Irrational numbers"
+        },
+        {
+          "option": "Rational numbers (Q)"
+        },
+        {
+          "option": "Natural numbers (N)",
+          "is_answer": true
+        },
+        {
+          "option": "Integers (Z)"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is an irrational number?",
+      "options": [
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "Square root of 2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Every integer is also a:",
+      "options": [
+        {
+          "option": "Rational number",
+          "is_answer": true
+        },
+        {
+          "option": "Natural number"
+        },
+        {
+          "option": "Whole number"
+        },
+        {
+          "option": "Irrational number"
+        }
+      ]
+    },
+    {
+      "question": "Which set contains all Natural, Whole, Integer, and Rational numbers?",
+      "options": [
+        {
+          "option": "Whole numbers (W)"
+        },
+        {
+          "option": "Real numbers (R)",
+          "is_answer": true
+        },
+        {
+          "option": "Integers (Z)"
+        },
+        {
+          "option": "Natural numbers (N)"
+        }
+      ]
+    },
+    {
+      "question": "Is the number 0 a Whole number?",
+      "options": [
+        {
+          "option": "No, it is an Irrational number"
+        },
+        {
+          "option": "No, it is a Natural number"
+        },
+        {
+          "option": "Yes",
+          "is_answer": true
+        },
+        {
+          "option": "No, it is not a number"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is NOT a rational number?",
+      "options": [
+        {
+          "option": "2/3"
+        },
+        {
+          "option": "Pi (π)",
+          "is_answer": true
+        },
+        {
+          "option": "0.75"
+        },
+        {
+          "option": "-5"
+        }
+      ]
+    },
+    {
+      "question": "The set of Natural numbers (N) starts from:",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is a subset of Integers (Z)?",
+      "options": [
+        {
+          "option": "Real numbers (R)"
+        },
+        {
+          "option": "None of the above"
+        },
+        {
+          "option": "Irrational numbers"
+        },
+        {
+          "option": "Whole numbers (W)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Are all Rational numbers also Real numbers?",
+      "options": [
+        {
+          "option": "Only negative ones"
+        },
+        {
+          "option": "No"
+        },
+        {
+          "option": "Yes",
+          "is_answer": true
+        },
+        {
+          "option": "Only positive ones"
+        }
+      ]
+    },
+    {
+      "question": "Which number is an integer but not a natural number?",
+      "options": [
+        {
+          "option": "-3",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "The decimal representation of an irrational number is:",
+      "options": [
+        {
+          "option": "Non-terminating and non-repeating",
+          "is_answer": true
+        },
+        {
+          "option": "Terminating"
+        },
+        {
+          "option": "Repeating"
+        },
+        {
+          "option": "Finite"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is a Rational number?",
+      "options": [
+        {
+          "option": "0.333...",
+          "is_answer": true
+        },
+        {
+          "option": "Pi"
+        },
+        {
+          "option": "Square root of 3"
+        },
+        {
+          "option": "Square root of 5"
+        }
+      ]
+    },
+    {
+      "question": "The set of Real numbers (R) is composed of:",
+      "options": [
+        {
+          "option": "Natural and Whole numbers"
+        },
+        {
+          "option": "Rational and Irrational numbers",
+          "is_answer": true
+        },
+        {
+          "option": "Integers and Natural numbers"
+        },
+        {
+          "option": "Only Rational numbers"
+        }
+      ]
+    },
+    {
+      "question": "Is -5 a Rational number?",
+      "options": [
+        {
+          "option": "No, it is an integer"
+        },
+        {
+          "option": "Yes, because it can be written as -5/1",
+          "is_answer": true
+        },
+        {
+          "option": "No, it is irrational"
+        },
+        {
+          "option": "No, it is a negative number"
+        }
+      ]
+    },
+    {
+      "question": "Which symbol represents the set of Integers?",
+      "options": [
+        {
+          "option": "W"
+        },
+        {
+          "option": "Z",
+          "is_answer": true
+        },
+        {
+          "option": "N"
+        },
+        {
+          "option": "Q"
+        }
+      ]
+    },
+    {
+      "question": "Are all Whole numbers also Natural numbers?",
+      "options": [
+        {
+          "option": "Yes, they are the same"
+        },
+        {
+          "option": "Yes, but only positive ones"
+        },
+        {
+          "option": "No, because 0 is a Whole number but not a Natural number",
+          "is_answer": true
+        },
+        {
+          "option": "No, because Natural numbers are larger"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a subset of Rational numbers (Q)?",
+      "options": [
+        {
+          "option": "Irrational numbers"
+        },
+        {
+          "option": "Real numbers (R)"
+        },
+        {
+          "option": "None of the above"
+        },
+        {
+          "option": "Integers (Z)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the smallest Natural number?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "Can a number be both Rational and Irrational?",
+      "options": [
+        {
+          "option": "No",
+          "is_answer": true
+        },
+        {
+          "option": "Only if it is 1"
+        },
+        {
+          "option": "Yes"
+        },
+        {
+          "option": "Only if it is 0"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is a Real number?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "All of the options",
+          "is_answer": true
+        },
+        {
+          "option": "Square root of 2"
+        },
+        {
+          "option": "-2/3"
+        }
+      ]
+    },
+    {
+      "question": "What does the term 'percent' literally mean?",
+      "options": [
+        {
+          "option": "Per hundred",
+          "is_answer": true
+        },
+        {
+          "option": "Per thousand"
+        },
+        {
+          "option": "Per unit"
+        },
+        {
+          "option": "Per ten"
+        }
+      ]
+    },
+    {
+      "question": "If a square grid has 100 squares and 25 are shaded, what percentage is shaded?",
+      "options": [
+        {
+          "option": "250%"
+        },
+        {
+          "option": "25%",
+          "is_answer": true
+        },
+        {
+          "option": "0.25%"
+        },
+        {
+          "option": "2.5%"
+        }
+      ]
+    },
+    {
+      "question": "Convert the fraction 1/2 into a percentage.",
+      "options": [
+        {
+          "option": "5%"
+        },
+        {
+          "option": "12%"
+        },
+        {
+          "option": "50%",
+          "is_answer": true
+        },
+        {
+          "option": "20%"
+        }
+      ]
+    },
+    {
+      "question": "What is 0.75 expressed as a percentage?",
+      "options": [
+        {
+          "option": "7.5%"
+        },
+        {
+          "option": "0.75%"
+        },
+        {
+          "option": "75%",
+          "is_answer": true
+        },
+        {
+          "option": "750%"
+        }
+      ]
+    },
+    {
+      "question": "Which fraction is equivalent to 20%?",
+      "options": [
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "1/5",
+          "is_answer": true
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "1/10"
+        }
+      ]
+    },
+    {
+      "question": "What is 100% of 50?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "50",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Express 4/100 as a percentage.",
+      "options": [
+        {
+          "option": "0.4%"
+        },
+        {
+          "option": "400%"
+        },
+        {
+          "option": "40%"
+        },
+        {
+          "option": "4%",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is 1% of 200?",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "0.2"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "Which decimal is equal to 5%?",
+      "options": [
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0.005"
+        },
+        {
+          "option": "0.05",
+          "is_answer": true
+        },
+        {
+          "option": "5.0"
+        }
+      ]
+    },
+    {
+      "question": "If you have 10 out of 100 apples, what percentage of apples do you have?",
+      "options": [
+        {
+          "option": "100%"
+        },
+        {
+          "option": "1%"
+        },
+        {
+          "option": "0.1%"
+        },
+        {
+          "option": "10%",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is 1/4 as a percentage?",
+      "options": [
+        {
+          "option": "25%",
+          "is_answer": true
+        },
+        {
+          "option": "2.5%"
+        },
+        {
+          "option": "40%"
+        },
+        {
+          "option": "4%"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the largest value?",
+      "options": [
+        {
+          "option": "1/10"
+        },
+        {
+          "option": "5%"
+        },
+        {
+          "option": "50%",
+          "is_answer": true
+        },
+        {
+          "option": "0.05"
+        }
+      ]
+    },
+    {
+      "question": "What is 0.1 as a percentage?",
+      "options": [
+        {
+          "option": "0.1%"
+        },
+        {
+          "option": "10%",
+          "is_answer": true
+        },
+        {
+          "option": "100%"
+        },
+        {
+          "option": "1%"
+        }
+      ]
+    },
+    {
+      "question": "What is 3/4 of 100?",
+      "options": [
+        {
+          "option": "7.5"
+        },
+        {
+          "option": "75",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "34"
+        }
+      ]
+    },
+    {
+      "question": "What is 200% of 10?",
+      "options": [
+        {
+          "option": "40"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "100"
+        }
+      ]
+    },
+    {
+      "question": "What is 1/10 expressed as a percentage?",
+      "options": [
+        {
+          "option": "10%",
+          "is_answer": true
+        },
+        {
+          "option": "0.1%"
+        },
+        {
+          "option": "1%"
+        },
+        {
+          "option": "100%"
+        }
+      ]
+    },
+    {
+      "question": "If 80 out of 100 students passed, what is the pass percentage?",
+      "options": [
+        {
+          "option": "80%",
+          "is_answer": true
+        },
+        {
+          "option": "20%"
+        },
+        {
+          "option": "8%"
+        },
+        {
+          "option": "0.8%"
+        }
+      ]
+    },
+    {
+      "question": "What is 0.01 as a percentage?",
+      "options": [
+        {
+          "option": "1%",
+          "is_answer": true
+        },
+        {
+          "option": "0.1%"
+        },
+        {
+          "option": "100%"
+        },
+        {
+          "option": "10%"
+        }
+      ]
+    },
+    {
+      "question": "Which fraction is equal to 75%?",
+      "options": [
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "7/5"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "3/4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is 50% of 200?",
+      "options": [
+        {
+          "option": "200"
+        },
+        {
+          "option": "100",
+          "is_answer": true
+        },
+        {
+          "option": "50"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "In the fraction 3/4, what is the denominator?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "Which fraction is equivalent to 1/2?",
+      "options": [
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "3/5"
+        },
+        {
+          "option": "2/3"
+        },
+        {
+          "option": "2/4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Simplify the fraction 4/8 to its lowest terms.",
+      "options": [
+        {
+          "option": "2/4"
+        },
+        {
+          "option": "2/8"
+        },
+        {
+          "option": "1/2",
+          "is_answer": true
+        },
+        {
+          "option": "1/4"
+        }
+      ]
+    },
+    {
+      "question": "If you multiply the numerator and denominator of 2/3 by 2, what is the new fraction?",
+      "options": [
+        {
+          "option": "2/5"
+        },
+        {
+          "option": "4/6",
+          "is_answer": true
+        },
+        {
+          "option": "4/3"
+        },
+        {
+          "option": "2/6"
+        }
+      ]
+    },
+    {
+      "question": "Which fraction represents the shaded part of a circle divided into 4 equal parts with 3 parts shaded?",
+      "options": [
+        {
+          "option": "4/3"
+        },
+        {
+          "option": "3/4",
+          "is_answer": true
+        },
+        {
+          "option": "3/1"
+        },
+        {
+          "option": "1/4"
+        }
+      ]
+    },
+    {
+      "question": "What is the numerator of the fraction 5/9?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is NOT equivalent to 1/3?",
+      "options": [
+        {
+          "option": "3/9"
+        },
+        {
+          "option": "2/6"
+        },
+        {
+          "option": "4/12"
+        },
+        {
+          "option": "2/9",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Simplify 6/9.",
+      "options": [
+        {
+          "option": "2/3",
+          "is_answer": true
+        },
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "3/4"
+        },
+        {
+          "option": "2/9"
+        }
+      ]
+    },
+    {
+      "question": "To find an equivalent fraction, you can multiply the numerator and denominator by the same...",
+      "options": [
+        {
+          "option": "Negative sign"
+        },
+        {
+          "option": "Non-zero number",
+          "is_answer": true
+        },
+        {
+          "option": "Fraction"
+        },
+        {
+          "option": "Zero"
+        }
+      ]
+    },
+    {
+      "question": "Which fraction is equivalent to 3/5?",
+      "options": [
+        {
+          "option": "9/20"
+        },
+        {
+          "option": "6/10",
+          "is_answer": true
+        },
+        {
+          "option": "3/10"
+        },
+        {
+          "option": "5/3"
+        }
+      ]
+    },
+    {
+      "question": "If a rectangle is divided into 5 equal parts and 2 are shaded, what is the fraction?",
+      "options": [
+        {
+          "option": "2/3"
+        },
+        {
+          "option": "2/5",
+          "is_answer": true
+        },
+        {
+          "option": "5/2"
+        },
+        {
+          "option": "3/5"
+        }
+      ]
+    },
+    {
+      "question": "What is the simplest form of 10/20?",
+      "options": [
+        {
+          "option": "1/2",
+          "is_answer": true
+        },
+        {
+          "option": "2/10"
+        },
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "5/10"
+        }
+      ]
+    },
+    {
+      "question": "Which fraction is equivalent to 4/6?",
+      "options": [
+        {
+          "option": "6/4"
+        },
+        {
+          "option": "3/2"
+        },
+        {
+          "option": "2/3",
+          "is_answer": true
+        },
+        {
+          "option": "4/3"
+        }
+      ]
+    },
+    {
+      "question": "If you divide the numerator and denominator of 8/12 by 4, what do you get?",
+      "options": [
+        {
+          "option": "4/3"
+        },
+        {
+          "option": "2/3",
+          "is_answer": true
+        },
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "2/4"
+        }
+      ]
+    },
+    {
+      "question": "Which of these fractions is equal to 1?",
+      "options": [
+        {
+          "option": "1/5"
+        },
+        {
+          "option": "5/5",
+          "is_answer": true
+        },
+        {
+          "option": "5/1"
+        },
+        {
+          "option": "0/5"
+        }
+      ]
+    },
+    {
+      "question": "The number on top of the fraction bar is called the...",
+      "options": [
+        {
+          "option": "Decimal"
+        },
+        {
+          "option": "Denominator"
+        },
+        {
+          "option": "Whole number"
+        },
+        {
+          "option": "Numerator",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which fraction is equivalent to 2/7?",
+      "options": [
+        {
+          "option": "4/14",
+          "is_answer": true
+        },
+        {
+          "option": "7/2"
+        },
+        {
+          "option": "2/14"
+        },
+        {
+          "option": "4/7"
+        }
+      ]
+    },
+    {
+      "question": "Simplify 5/15.",
+      "options": [
+        {
+          "option": "1/3",
+          "is_answer": true
+        },
+        {
+          "option": "3/5"
+        },
+        {
+          "option": "1/5"
+        },
+        {
+          "option": "5/3"
+        }
+      ]
+    },
+    {
+      "question": "If you multiply 3/4 by 3/3, what is the result?",
+      "options": [
+        {
+          "option": "3/12"
+        },
+        {
+          "option": "9/4"
+        },
+        {
+          "option": "9/12",
+          "is_answer": true
+        },
+        {
+          "option": "6/7"
+        }
+      ]
+    },
+    {
+      "question": "Which fraction is equivalent to 5/10?",
+      "options": [
+        {
+          "option": "1/2",
+          "is_answer": true
+        },
+        {
+          "option": "1/5"
+        },
+        {
+          "option": "2/5"
+        },
+        {
+          "option": "5/2"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of the digit 7 in the number 0.472?",
+      "options": [
+        {
+          "option": "7 ones"
+        },
+        {
+          "option": "7 thousandths"
+        },
+        {
+          "option": "7 hundredths",
+          "is_answer": true
+        },
+        {
+          "option": "7 tenths"
+        }
+      ]
+    },
+    {
+      "question": "Which decimal represents 5 tenths and 3 thousandths?",
+      "options": [
+        {
+          "option": "0.053"
+        },
+        {
+          "option": "0.53"
+        },
+        {
+          "option": "0.503",
+          "is_answer": true
+        },
+        {
+          "option": "5.003"
+        }
+      ]
+    },
+    {
+      "question": "What is the expanded form of 0.246?",
+      "options": [
+        {
+          "option": "2 + 4 + 6"
+        },
+        {
+          "option": "0.2 + 0.4 + 0.6"
+        },
+        {
+          "option": "0.2 + 0.04 + 0.006",
+          "is_answer": true
+        },
+        {
+          "option": "0.02 + 0.004 + 0.0006"
+        }
+      ]
+    },
+    {
+      "question": "Which number is greater: 0.45 or 0.452?",
+      "options": [
+        {
+          "option": "0.4"
+        },
+        {
+          "option": "0.452",
+          "is_answer": true
+        },
+        {
+          "option": "0.45"
+        },
+        {
+          "option": "They are equal"
+        }
+      ]
+    },
+    {
+      "question": "In the number 8.195, which digit is in the hundredths place?",
+      "options": [
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "What is 0.8 written as a fraction?",
+      "options": [
+        {
+          "option": "80/10"
+        },
+        {
+          "option": "8/100"
+        },
+        {
+          "option": "8/10",
+          "is_answer": true
+        },
+        {
+          "option": "8/1000"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is equivalent to 0.70?",
+      "options": [
+        {
+          "option": "7.0"
+        },
+        {
+          "option": "0.007"
+        },
+        {
+          "option": "0.7",
+          "is_answer": true
+        },
+        {
+          "option": "0.07"
+        }
+      ]
+    },
+    {
+      "question": "What is the place value of 3 in 0.003?",
+      "options": [
+        {
+          "option": "Ones"
+        },
+        {
+          "option": "Tenths"
+        },
+        {
+          "option": "Hundredths"
+        },
+        {
+          "option": "Thousandths",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which decimal is the smallest?",
+      "options": [
+        {
+          "option": "0.019",
+          "is_answer": true
+        },
+        {
+          "option": "0.109"
+        },
+        {
+          "option": "0.190"
+        },
+        {
+          "option": "0.110"
+        }
+      ]
+    },
+    {
+      "question": "How do you write 'six and four hundredths' as a decimal?",
+      "options": [
+        {
+          "option": "6.004"
+        },
+        {
+          "option": "64.0"
+        },
+        {
+          "option": "6.04",
+          "is_answer": true
+        },
+        {
+          "option": "6.4"
+        }
+      ]
+    },
+    {
+      "question": "Which digit is in the tenths place of 0.675?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "Compare: 0.5 vs 0.500. Which is true?",
+      "options": [
+        {
+          "option": "0.5 > 0.500"
+        },
+        {
+          "option": "0.5 = 0.500",
+          "is_answer": true
+        },
+        {
+          "option": "0.5 < 0.500"
+        },
+        {
+          "option": "They are not comparable"
+        }
+      ]
+    },
+    {
+      "question": "What is 0.05 + 0.002?",
+      "options": [
+        {
+          "option": "0.007"
+        },
+        {
+          "option": "0.52"
+        },
+        {
+          "option": "0.07"
+        },
+        {
+          "option": "0.052",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which number has a 5 in the thousandths place?",
+      "options": [
+        {
+          "option": "0.125",
+          "is_answer": true
+        },
+        {
+          "option": "0.152"
+        },
+        {
+          "option": "5.120"
+        },
+        {
+          "option": "0.512"
+        }
+      ]
+    },
+    {
+      "question": "What is 7/100 as a decimal?",
+      "options": [
+        {
+          "option": "0.07",
+          "is_answer": true
+        },
+        {
+          "option": "7.0"
+        },
+        {
+          "option": "0.7"
+        },
+        {
+          "option": "0.007"
+        }
+      ]
+    },
+    {
+      "question": "Which is greater: 0.09 or 0.1?",
+      "options": [
+        {
+          "option": "They are equal"
+        },
+        {
+          "option": "0.009"
+        },
+        {
+          "option": "0.09"
+        },
+        {
+          "option": "0.1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of 2 in 0.285?",
+      "options": [
+        {
+          "option": "2 ones"
+        },
+        {
+          "option": "2 hundredths"
+        },
+        {
+          "option": "2 tenths",
+          "is_answer": true
+        },
+        {
+          "option": "2 thousandths"
+        }
+      ]
+    },
+    {
+      "question": "Write 0.305 in words.",
+      "options": [
+        {
+          "option": "Thirty five thousandths"
+        },
+        {
+          "option": "Three point zero five"
+        },
+        {
+          "option": "Three hundred five thousandths",
+          "is_answer": true
+        },
+        {
+          "option": "Three hundred five hundredths"
+        }
+      ]
+    },
+    {
+      "question": "Which decimal is equivalent to 4/10?",
+      "options": [
+        {
+          "option": "0.4",
+          "is_answer": true
+        },
+        {
+          "option": "0.04"
+        },
+        {
+          "option": "4.0"
+        },
+        {
+          "option": "0.004"
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of 0.1 and 0.01?",
+      "options": [
+        {
+          "option": "0.011"
+        },
+        {
+          "option": "0.11",
+          "is_answer": true
+        },
+        {
+          "option": "1.1"
+        },
+        {
+          "option": "0.101"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is a prime number?",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "What is the smallest prime number?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a factor of 12?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a multiple of 6?",
+      "options": [
+        {
+          "option": "14"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "18",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "How many prime numbers are there between 1 and 10?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which number is neither prime nor composite?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "What is the only even prime number?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is a composite number?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a factor of 20?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a multiple of 9?",
+      "options": [
+        {
+          "option": "27",
+          "is_answer": true
+        },
+        {
+          "option": "19"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "Is 13 a prime number?",
+      "options": [
+        {
+          "option": "No"
+        },
+        {
+          "option": "Maybe"
+        },
+        {
+          "option": "It is composite"
+        },
+        {
+          "option": "Yes",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a factor of 15?",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "What is the 4th multiple of 7?",
+      "options": [
+        {
+          "option": "21"
+        },
+        {
+          "option": "28",
+          "is_answer": true
+        },
+        {
+          "option": "35"
+        },
+        {
+          "option": "14"
+        }
+      ]
+    },
+    {
+      "question": "Which of these numbers is prime?",
+      "options": [
+        {
+          "option": "11",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a multiple of 12?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "How many factors does 5 have?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is not a prime number?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the largest factor of 10?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a multiple of 8?",
+      "options": [
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "14"
+        }
+      ]
+    },
+    {
+      "question": "Is 17 a prime number?",
+      "options": [
+        {
+          "option": "It is a multiple of 3"
+        },
+        {
+          "option": "No"
+        },
+        {
+          "option": "Yes",
+          "is_answer": true
+        },
+        {
+          "option": "Maybe"
+        }
+      ]
+    },
+    {
+      "question": "What is the Greatest Common Divisor (GCD) of 12 and 18?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        }
+      ]
+    },
+    {
+      "question": "What is the Least Common Multiple (LCM) of 4 and 6?",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "If two numbers are prime, their GCD is always:",
+      "options": [
+        {
+          "option": "The numbers themselves"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "The product of the numbers"
+        }
+      ]
+    },
+    {
+      "question": "Find the GCD of 15 and 25.",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "75"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "Find the LCM of 8 and 12.",
+      "options": [
+        {
+          "option": "96"
+        },
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "48"
+        }
+      ]
+    },
+    {
+      "question": "Two bells ring at intervals of 5 and 10 minutes. When will they ring together next?",
+      "options": [
+        {
+          "option": "15 minutes"
+        },
+        {
+          "option": "5 minutes"
+        },
+        {
+          "option": "50 minutes"
+        },
+        {
+          "option": "10 minutes",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the GCD of 20, 30, and 40?",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "The product of two numbers is 24 and their GCD is 2. What is their LCM?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "What is the LCM of 3, 6, and 9?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "54"
+        },
+        {
+          "option": "18",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A gardener has 12 roses and 18 lilies. What is the maximum number of identical bouquets he can make?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the GCD of 7 and 13?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "13"
+        },
+        {
+          "option": "91"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is a multiple of both 4 and 5?",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "What is the LCM of 10 and 15?",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "30",
+          "is_answer": true
+        },
+        {
+          "option": "150"
+        }
+      ]
+    },
+    {
+      "question": "If GCD(a, b) = 1, the numbers are called:",
+      "options": [
+        {
+          "option": "Co-prime",
+          "is_answer": true
+        },
+        {
+          "option": "Even"
+        },
+        {
+          "option": "Composite"
+        },
+        {
+          "option": "Prime"
+        }
+      ]
+    },
+    {
+      "question": "What is the GCD of 14 and 21?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "42"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "Two runners start at the same time on a circular track. They complete a lap in 6 and 8 minutes. When will they meet at the start?",
+      "options": [
+        {
+          "option": "24 minutes",
+          "is_answer": true
+        },
+        {
+          "option": "48 minutes"
+        },
+        {
+          "option": "6 minutes"
+        },
+        {
+          "option": "14 minutes"
+        }
+      ]
+    },
+    {
+      "question": "What is the LCM of 5 and 7?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "70"
+        },
+        {
+          "option": "35",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The GCD of two consecutive even numbers is always:",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the GCD of 100 and 25?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "50"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "25",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the LCM of 12 and 15?",
+      "options": [
+        {
+          "option": "180"
+        },
+        {
+          "option": "60",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "Express the ratio of 3 apples to 5 oranges in colon notation.",
+      "options": [
+        {
+          "option": "3:5",
+          "is_answer": true
+        },
+        {
+          "option": "8:3"
+        },
+        {
+          "option": "5:3"
+        },
+        {
+          "option": "3/5"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is equivalent to the ratio 2:4?",
+      "options": [
+        {
+          "option": "4:2"
+        },
+        {
+          "option": "1:2",
+          "is_answer": true
+        },
+        {
+          "option": "2:1"
+        },
+        {
+          "option": "1:4"
+        }
+      ]
+    },
+    {
+      "question": "Write the ratio 4/9 in colon notation.",
+      "options": [
+        {
+          "option": "4:9",
+          "is_answer": true
+        },
+        {
+          "option": "4.9"
+        },
+        {
+          "option": "9:4"
+        },
+        {
+          "option": "4+9"
+        }
+      ]
+    },
+    {
+      "question": "Are the ratios 1:2 and 3:6 in proportion?",
+      "options": [
+        {
+          "option": "Yes",
+          "is_answer": true
+        },
+        {
+          "option": "Only if multiplied by 2"
+        },
+        {
+          "option": "No"
+        },
+        {
+          "option": "Cannot be determined"
+        }
+      ]
+    },
+    {
+      "question": "Simplify the ratio 10:20.",
+      "options": [
+        {
+          "option": "2:1"
+        },
+        {
+          "option": "5:10"
+        },
+        {
+          "option": "10:1"
+        },
+        {
+          "option": "1:2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If 2:x = 4:8, what is the value of x?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which ratio is equivalent to 3:5?",
+      "options": [
+        {
+          "option": "9:20"
+        },
+        {
+          "option": "3:10"
+        },
+        {
+          "option": "5:3"
+        },
+        {
+          "option": "6:10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Express the ratio 7 to 11 in fractional form.",
+      "options": [
+        {
+          "option": "1/7"
+        },
+        {
+          "option": "11/7"
+        },
+        {
+          "option": "7.11"
+        },
+        {
+          "option": "7/11",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Check if 5:10 and 2:4 form a proportion.",
+      "options": [
+        {
+          "option": "No"
+        },
+        {
+          "option": "Maybe"
+        },
+        {
+          "option": "Yes",
+          "is_answer": true
+        },
+        {
+          "option": "Only if 5=2"
+        }
+      ]
+    },
+    {
+      "question": "What is the ratio of 15 minutes to 1 hour?",
+      "options": [
+        {
+          "option": "1:15"
+        },
+        {
+          "option": "1:4",
+          "is_answer": true
+        },
+        {
+          "option": "1:60"
+        },
+        {
+          "option": "15:1"
+        }
+      ]
+    },
+    {
+      "question": "If a proportion is 1:3 = x:9, find x.",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "27"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is NOT a valid proportion?",
+      "options": [
+        {
+          "option": "1:2 = 2:4"
+        },
+        {
+          "option": "1:2 = 3:7",
+          "is_answer": true
+        },
+        {
+          "option": "5:10 = 1:2"
+        },
+        {
+          "option": "3:4 = 6:8"
+        }
+      ]
+    },
+    {
+      "question": "Write 0.5 as a ratio in simplest form.",
+      "options": [
+        {
+          "option": "1:5"
+        },
+        {
+          "option": "5:10"
+        },
+        {
+          "option": "1:2",
+          "is_answer": true
+        },
+        {
+          "option": "2:1"
+        }
+      ]
+    },
+    {
+      "question": "The ratio of boys to girls in a class is 2:3. If there are 10 boys, how many girls are there?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "Is 4:6 equivalent to 8:12?",
+      "options": [
+        {
+          "option": "Only if divided by 2"
+        },
+        {
+          "option": "No"
+        },
+        {
+          "option": "Only if multiplied by 3"
+        },
+        {
+          "option": "Yes",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Convert the ratio 5:2 into fractional form.",
+      "options": [
+        {
+          "option": "7/2"
+        },
+        {
+          "option": "5/2",
+          "is_answer": true
+        },
+        {
+          "option": "5.2"
+        },
+        {
+          "option": "2/5"
+        }
+      ]
+    },
+    {
+      "question": "If 3:4 = 9:x, what is x?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which ratio is NOT equivalent to 1:3?",
+      "options": [
+        {
+          "option": "3:9"
+        },
+        {
+          "option": "4:12"
+        },
+        {
+          "option": "2:6"
+        },
+        {
+          "option": "2:9",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A ratio of 20:40 is the same as:",
+      "options": [
+        {
+          "option": "1:4"
+        },
+        {
+          "option": "2:1"
+        },
+        {
+          "option": "20:1"
+        },
+        {
+          "option": "1:2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If a proportion is 5:x = 10:20, find x.",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many meters are in 1 kilometer?",
+      "options": [
+        {
+          "option": "100 meters"
+        },
+        {
+          "option": "10000 meters"
+        },
+        {
+          "option": "1000 meters",
+          "is_answer": true
+        },
+        {
+          "option": "10 meters"
+        }
+      ]
+    },
+    {
+      "question": "How many centimeters are in 1 meter?",
+      "options": [
+        {
+          "option": "1000 centimeters"
+        },
+        {
+          "option": "10 centimeters"
+        },
+        {
+          "option": "10000 centimeters"
+        },
+        {
+          "option": "100 centimeters",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many milliliters are in 1 liter?",
+      "options": [
+        {
+          "option": "500 milliliters"
+        },
+        {
+          "option": "10 milliliters"
+        },
+        {
+          "option": "100 milliliters"
+        },
+        {
+          "option": "1000 milliliters",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many grams are in 1 kilogram?",
+      "options": [
+        {
+          "option": "500 grams"
+        },
+        {
+          "option": "100 grams"
+        },
+        {
+          "option": "10 grams"
+        },
+        {
+          "option": "1000 grams",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which prefix represents 1/1000 of a unit?",
+      "options": [
+        {
+          "option": "centi"
+        },
+        {
+          "option": "kilo"
+        },
+        {
+          "option": "deci"
+        },
+        {
+          "option": "milli",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many millimeters are in 1 centimeter?",
+      "options": [
+        {
+          "option": "1 millimeter"
+        },
+        {
+          "option": "10 millimeters",
+          "is_answer": true
+        },
+        {
+          "option": "100 millimeters"
+        },
+        {
+          "option": "1000 millimeters"
+        }
+      ]
+    },
+    {
+      "question": "Convert 5 kilometers to meters.",
+      "options": [
+        {
+          "option": "5000 meters",
+          "is_answer": true
+        },
+        {
+          "option": "50000 meters"
+        },
+        {
+          "option": "500 meters"
+        },
+        {
+          "option": "50 meters"
+        }
+      ]
+    },
+    {
+      "question": "Convert 2 liters to milliliters.",
+      "options": [
+        {
+          "option": "2000 milliliters",
+          "is_answer": true
+        },
+        {
+          "option": "200 milliliters"
+        },
+        {
+          "option": "20 milliliters"
+        },
+        {
+          "option": "20000 milliliters"
+        }
+      ]
+    },
+    {
+      "question": "Which unit is the largest?",
+      "options": [
+        {
+          "option": "Millimeter"
+        },
+        {
+          "option": "Kilometer",
+          "is_answer": true
+        },
+        {
+          "option": "Meter"
+        },
+        {
+          "option": "Centimeter"
+        }
+      ]
+    },
+    {
+      "question": "How many decimeters are in 1 meter?",
+      "options": [
+        {
+          "option": "10 decimeters",
+          "is_answer": true
+        },
+        {
+          "option": "100 decimeters"
+        },
+        {
+          "option": "1 decimeter"
+        },
+        {
+          "option": "1000 decimeters"
+        }
+      ]
+    },
+    {
+      "question": "Convert 3000 grams to kilograms.",
+      "options": [
+        {
+          "option": "0.3 kilograms"
+        },
+        {
+          "option": "300 kilograms"
+        },
+        {
+          "option": "3 kilograms",
+          "is_answer": true
+        },
+        {
+          "option": "30 kilograms"
+        }
+      ]
+    },
+    {
+      "question": "Which prefix means 100?",
+      "options": [
+        {
+          "option": "deka"
+        },
+        {
+          "option": "centi"
+        },
+        {
+          "option": "hecto",
+          "is_answer": true
+        },
+        {
+          "option": "deci"
+        }
+      ]
+    },
+    {
+      "question": "Convert 400 centimeters to meters.",
+      "options": [
+        {
+          "option": "40 meters"
+        },
+        {
+          "option": "4000 meters"
+        },
+        {
+          "option": "4 meters",
+          "is_answer": true
+        },
+        {
+          "option": "0.4 meters"
+        }
+      ]
+    },
+    {
+      "question": "How many hectometers are in 1 kilometer?",
+      "options": [
+        {
+          "option": "10 hectometers",
+          "is_answer": true
+        },
+        {
+          "option": "1 hectometer"
+        },
+        {
+          "option": "100 hectometers"
+        },
+        {
+          "option": "1000 hectometers"
+        }
+      ]
+    },
+    {
+      "question": "Which unit is used to measure liquid volume?",
+      "options": [
+        {
+          "option": "Liter",
+          "is_answer": true
+        },
+        {
+          "option": "Kilometer"
+        },
+        {
+          "option": "Gram"
+        },
+        {
+          "option": "Meter"
+        }
+      ]
+    },
+    {
+      "question": "Convert 0.5 kilometers to meters.",
+      "options": [
+        {
+          "option": "500 meters",
+          "is_answer": true
+        },
+        {
+          "option": "5000 meters"
+        },
+        {
+          "option": "50 meters"
+        },
+        {
+          "option": "5 meters"
+        }
+      ]
+    },
+    {
+      "question": "How many centigrams are in 1 gram?",
+      "options": [
+        {
+          "option": "100 centigrams",
+          "is_answer": true
+        },
+        {
+          "option": "1000 centigrams"
+        },
+        {
+          "option": "10000 centigrams"
+        },
+        {
+          "option": "10 centigrams"
+        }
+      ]
+    },
+    {
+      "question": "Which prefix means 10?",
+      "options": [
+        {
+          "option": "deka",
+          "is_answer": true
+        },
+        {
+          "option": "kilo"
+        },
+        {
+          "option": "deci"
+        },
+        {
+          "option": "hecto"
+        }
+      ]
+    },
+    {
+      "question": "Convert 7000 milliliters to liters.",
+      "options": [
+        {
+          "option": "700 liters"
+        },
+        {
+          "option": "7 liters",
+          "is_answer": true
+        },
+        {
+          "option": "0.7 liters"
+        },
+        {
+          "option": "70 liters"
+        }
+      ]
+    },
+    {
+      "question": "Which unit is the smallest?",
+      "options": [
+        {
+          "option": "Millimeter",
+          "is_answer": true
+        },
+        {
+          "option": "Decimeter"
+        },
+        {
+          "option": "Centimeter"
+        },
+        {
+          "option": "Meter"
+        }
+      ]
+    },
+    {
+      "question": "How many centimeters are in 1 inch?",
+      "options": [
+        {
+          "option": "1.54 cm"
+        },
+        {
+          "option": "3.54 cm"
+        },
+        {
+          "option": "2.00 cm"
+        },
+        {
+          "option": "2.54 cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many inches are in 1 foot?",
+      "options": [
+        {
+          "option": "24 inches"
+        },
+        {
+          "option": "36 inches"
+        },
+        {
+          "option": "12 inches",
+          "is_answer": true
+        },
+        {
+          "option": "10 inches"
+        }
+      ]
+    },
+    {
+      "question": "How many feet are in 1 yard?",
+      "options": [
+        {
+          "option": "12 feet"
+        },
+        {
+          "option": "3 feet",
+          "is_answer": true
+        },
+        {
+          "option": "2 feet"
+        },
+        {
+          "option": "4 feet"
+        }
+      ]
+    },
+    {
+      "question": "How many ounces are in 1 pound?",
+      "options": [
+        {
+          "option": "16 ounces",
+          "is_answer": true
+        },
+        {
+          "option": "12 ounces"
+        },
+        {
+          "option": "8 ounces"
+        },
+        {
+          "option": "20 ounces"
+        }
+      ]
+    },
+    {
+      "question": "How many pints are in 1 gallon?",
+      "options": [
+        {
+          "option": "16 pints"
+        },
+        {
+          "option": "4 pints"
+        },
+        {
+          "option": "2 pints"
+        },
+        {
+          "option": "8 pints",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Convert 2 inches to centimeters.",
+      "options": [
+        {
+          "option": "5.08 cm",
+          "is_answer": true
+        },
+        {
+          "option": "6.08 cm"
+        },
+        {
+          "option": "4.54 cm"
+        },
+        {
+          "option": "2.54 cm"
+        }
+      ]
+    },
+    {
+      "question": "How many inches are in 2 yards?",
+      "options": [
+        {
+          "option": "72 inches",
+          "is_answer": true
+        },
+        {
+          "option": "36 inches"
+        },
+        {
+          "option": "24 inches"
+        },
+        {
+          "option": "48 inches"
+        }
+      ]
+    },
+    {
+      "question": "Which is the largest unit of length among these?",
+      "options": [
+        {
+          "option": "Mile",
+          "is_answer": true
+        },
+        {
+          "option": "Foot"
+        },
+        {
+          "option": "Yard"
+        },
+        {
+          "option": "Inch"
+        }
+      ]
+    },
+    {
+      "question": "How many feet are in 1 mile?",
+      "options": [
+        {
+          "option": "1000 feet"
+        },
+        {
+          "option": "3000 feet"
+        },
+        {
+          "option": "5280 feet",
+          "is_answer": true
+        },
+        {
+          "option": "5000 feet"
+        }
+      ]
+    },
+    {
+      "question": "If 1 inch = 2.54 cm, how many cm is 10 inches?",
+      "options": [
+        {
+          "option": "12.54 cm"
+        },
+        {
+          "option": "254 cm"
+        },
+        {
+          "option": "25.4 cm",
+          "is_answer": true
+        },
+        {
+          "option": "2.54 cm"
+        }
+      ]
+    },
+    {
+      "question": "How many pounds are in 32 ounces?",
+      "options": [
+        {
+          "option": "2 pounds",
+          "is_answer": true
+        },
+        {
+          "option": "1 pound"
+        },
+        {
+          "option": "3 pounds"
+        },
+        {
+          "option": "4 pounds"
+        }
+      ]
+    },
+    {
+      "question": "How many yards are in 1 mile?",
+      "options": [
+        {
+          "option": "1760 yards",
+          "is_answer": true
+        },
+        {
+          "option": "1000 yards"
+        },
+        {
+          "option": "3600 yards"
+        },
+        {
+          "option": "5280 yards"
+        }
+      ]
+    },
+    {
+      "question": "How many inches are in 3 feet?",
+      "options": [
+        {
+          "option": "24 inches"
+        },
+        {
+          "option": "12 inches"
+        },
+        {
+          "option": "48 inches"
+        },
+        {
+          "option": "36 inches",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many feet are in 2 yards?",
+      "options": [
+        {
+          "option": "12 feet"
+        },
+        {
+          "option": "4 feet"
+        },
+        {
+          "option": "3 feet"
+        },
+        {
+          "option": "6 feet",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Convert 5 inches to centimeters.",
+      "options": [
+        {
+          "option": "10.5 cm"
+        },
+        {
+          "option": "5.54 cm"
+        },
+        {
+          "option": "15.2 cm"
+        },
+        {
+          "option": "12.7 cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many ounces are in 0.5 pounds?",
+      "options": [
+        {
+          "option": "12 ounces"
+        },
+        {
+          "option": "16 ounces"
+        },
+        {
+          "option": "8 ounces",
+          "is_answer": true
+        },
+        {
+          "option": "4 ounces"
+        }
+      ]
+    },
+    {
+      "question": "How many pints are in 2 gallons?",
+      "options": [
+        {
+          "option": "16 pints",
+          "is_answer": true
+        },
+        {
+          "option": "8 pints"
+        },
+        {
+          "option": "32 pints"
+        },
+        {
+          "option": "4 pints"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a unit of weight?",
+      "options": [
+        {
+          "option": "Gallon"
+        },
+        {
+          "option": "Pound",
+          "is_answer": true
+        },
+        {
+          "option": "Inch"
+        },
+        {
+          "option": "Yard"
+        }
+      ]
+    },
+    {
+      "question": "How many inches are in 0.5 feet?",
+      "options": [
+        {
+          "option": "9 inches"
+        },
+        {
+          "option": "3 inches"
+        },
+        {
+          "option": "6 inches",
+          "is_answer": true
+        },
+        {
+          "option": "12 inches"
+        }
+      ]
+    },
+    {
+      "question": "What is the mean of the numbers 4, 8, and 12?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "If three friends have 2, 5, and 8 apples respectively, what is the average number of apples per person?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "Find the average of 10, 20, 30, and 40.",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "35"
+        },
+        {
+          "option": "25",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "The sum of five numbers is 50. What is their mean?",
+      "options": [
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "What is the average of 3, 3, 3, and 3?",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "If the average of two numbers is 10 and one number is 8, what is the other number?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Calculate the mean of 0, 5, and 10.",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "2.5"
+        },
+        {
+          "option": "7.5"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A student scored 80, 90, and 100 in three tests. What is the average score?",
+      "options": [
+        {
+          "option": "95"
+        },
+        {
+          "option": "80"
+        },
+        {
+          "option": "85"
+        },
+        {
+          "option": "90",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the average of the first three even numbers (2, 4, 6)?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "If you have 4, 6, and 8, what is the value that represents the center?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "The average of 5 and 15 is:",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the mean of 1, 2, 3, 4, and 5?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the total sum of 4 items is 40, what is the average?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "Find the average of 7, 14, and 21.",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "14",
+          "is_answer": true
+        },
+        {
+          "option": "21"
+        }
+      ]
+    },
+    {
+      "question": "What is the mean of 10 and 30?",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "If three bags contain 10kg, 20kg, and 30kg of rice, what is the average weight per bag?",
+      "options": [
+        {
+          "option": "30kg"
+        },
+        {
+          "option": "60kg"
+        },
+        {
+          "option": "20kg",
+          "is_answer": true
+        },
+        {
+          "option": "10kg"
+        }
+      ]
+    },
+    {
+      "question": "The average of 2, 4, 6, and 8 is:",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "What is the mean of 100, 200, and 300?",
+      "options": [
+        {
+          "option": "100"
+        },
+        {
+          "option": "300"
+        },
+        {
+          "option": "200",
+          "is_answer": true
+        },
+        {
+          "option": "150"
+        }
+      ]
+    },
+    {
+      "question": "If the average of two numbers is 5, what is their sum?",
+      "options": [
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "Calculate the average of 1, 3, 5, 7, and 9.",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "What is the perimeter of a square with a side length of 5 cm?",
+      "options": [
+        {
+          "option": "10 cm"
+        },
+        {
+          "option": "15 cm"
+        },
+        {
+          "option": "20 cm",
+          "is_answer": true
+        },
+        {
+          "option": "25 cm"
+        }
+      ]
+    },
+    {
+      "question": "A rectangle has a length of 6 cm and a width of 4 cm. What is its perimeter?",
+      "options": [
+        {
+          "option": "10 cm"
+        },
+        {
+          "option": "12 cm"
+        },
+        {
+          "option": "20 cm",
+          "is_answer": true
+        },
+        {
+          "option": "24 cm"
+        }
+      ]
+    },
+    {
+      "question": "What is the perimeter of a triangle with sides 3 cm, 4 cm, and 5 cm?",
+      "options": [
+        {
+          "option": "7 cm"
+        },
+        {
+          "option": "60 cm"
+        },
+        {
+          "option": "12 cm",
+          "is_answer": true
+        },
+        {
+          "option": "9 cm"
+        }
+      ]
+    },
+    {
+      "question": "If the perimeter of a square is 36 cm, what is the length of one side?",
+      "options": [
+        {
+          "option": "6 cm"
+        },
+        {
+          "option": "12 cm"
+        },
+        {
+          "option": "18 cm"
+        },
+        {
+          "option": "9 cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the formula for the perimeter of a rectangle?",
+      "options": [
+        {
+          "option": "l * w"
+        },
+        {
+          "option": "4 * l"
+        },
+        {
+          "option": "2(l + w)",
+          "is_answer": true
+        },
+        {
+          "option": "l + w"
+        }
+      ]
+    },
+    {
+      "question": "A square has a side of 8 cm. What is its perimeter?",
+      "options": [
+        {
+          "option": "24 cm"
+        },
+        {
+          "option": "64 cm"
+        },
+        {
+          "option": "16 cm"
+        },
+        {
+          "option": "32 cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The perimeter of an equilateral triangle with side 7 cm is:",
+      "options": [
+        {
+          "option": "21 cm",
+          "is_answer": true
+        },
+        {
+          "option": "14 cm"
+        },
+        {
+          "option": "7 cm"
+        },
+        {
+          "option": "49 cm"
+        }
+      ]
+    },
+    {
+      "question": "A rectangle has a perimeter of 30 cm and length of 10 cm. What is the width?",
+      "options": [
+        {
+          "option": "5 cm",
+          "is_answer": true
+        },
+        {
+          "option": "20 cm"
+        },
+        {
+          "option": "15 cm"
+        },
+        {
+          "option": "10 cm"
+        }
+      ]
+    },
+    {
+      "question": "What is the perimeter of a regular pentagon with side 4 cm?",
+      "options": [
+        {
+          "option": "24 cm"
+        },
+        {
+          "option": "12 cm"
+        },
+        {
+          "option": "16 cm"
+        },
+        {
+          "option": "20 cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If a triangle has sides 5 cm, 5 cm, and 8 cm, what is its perimeter?",
+      "options": [
+        {
+          "option": "40 cm"
+        },
+        {
+          "option": "18 cm",
+          "is_answer": true
+        },
+        {
+          "option": "25 cm"
+        },
+        {
+          "option": "13 cm"
+        }
+      ]
+    },
+    {
+      "question": "What is the perimeter of a square with side 12 cm?",
+      "options": [
+        {
+          "option": "48 cm",
+          "is_answer": true
+        },
+        {
+          "option": "144 cm"
+        },
+        {
+          "option": "36 cm"
+        },
+        {
+          "option": "24 cm"
+        }
+      ]
+    },
+    {
+      "question": "A rectangle has length 15 cm and width 5 cm. Its perimeter is:",
+      "options": [
+        {
+          "option": "75 cm"
+        },
+        {
+          "option": "20 cm"
+        },
+        {
+          "option": "50 cm"
+        },
+        {
+          "option": "40 cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The perimeter of a regular hexagon with side 3 cm is:",
+      "options": [
+        {
+          "option": "9 cm"
+        },
+        {
+          "option": "21 cm"
+        },
+        {
+          "option": "12 cm"
+        },
+        {
+          "option": "18 cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the perimeter of a triangle is 20 cm and two sides are 6 cm and 7 cm, what is the third side?",
+      "options": [
+        {
+          "option": "13 cm"
+        },
+        {
+          "option": "14 cm"
+        },
+        {
+          "option": "7 cm",
+          "is_answer": true
+        },
+        {
+          "option": "6 cm"
+        }
+      ]
+    },
+    {
+      "question": "What is the perimeter of a square with side 2.5 cm?",
+      "options": [
+        {
+          "option": "7.5 cm"
+        },
+        {
+          "option": "5 cm"
+        },
+        {
+          "option": "10 cm",
+          "is_answer": true
+        },
+        {
+          "option": "12.5 cm"
+        }
+      ]
+    },
+    {
+      "question": "A rectangle has a perimeter of 50 cm. If the length is 20 cm, what is the width?",
+      "options": [
+        {
+          "option": "5 cm",
+          "is_answer": true
+        },
+        {
+          "option": "15 cm"
+        },
+        {
+          "option": "25 cm"
+        },
+        {
+          "option": "10 cm"
+        }
+      ]
+    },
+    {
+      "question": "What is the perimeter of a triangle with sides 10 cm, 10 cm, and 10 cm?",
+      "options": [
+        {
+          "option": "100 cm"
+        },
+        {
+          "option": "20 cm"
+        },
+        {
+          "option": "30 cm",
+          "is_answer": true
+        },
+        {
+          "option": "40 cm"
+        }
+      ]
+    },
+    {
+      "question": "The perimeter of a square is 40 cm. What is the length of one side?",
+      "options": [
+        {
+          "option": "5 cm"
+        },
+        {
+          "option": "10 cm",
+          "is_answer": true
+        },
+        {
+          "option": "4 cm"
+        },
+        {
+          "option": "20 cm"
+        }
+      ]
+    },
+    {
+      "question": "What is the perimeter of a rectangle with length 12 cm and width 8 cm?",
+      "options": [
+        {
+          "option": "40 cm",
+          "is_answer": true
+        },
+        {
+          "option": "96 cm"
+        },
+        {
+          "option": "30 cm"
+        },
+        {
+          "option": "20 cm"
+        }
+      ]
+    },
+    {
+      "question": "A triangle has a perimeter of 15 cm. If two sides are 4 cm and 5 cm, what is the third side?",
+      "options": [
+        {
+          "option": "9 cm"
+        },
+        {
+          "option": "5 cm"
+        },
+        {
+          "option": "10 cm"
+        },
+        {
+          "option": "6 cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the area of a rectangle with length 5 cm and width 4 cm?",
+      "options": [
+        {
+          "option": "18 sq cm"
+        },
+        {
+          "option": "25 sq cm"
+        },
+        {
+          "option": "20 sq cm",
+          "is_answer": true
+        },
+        {
+          "option": "9 sq cm"
+        }
+      ]
+    },
+    {
+      "question": "What is the area of a square with a side length of 6 cm?",
+      "options": [
+        {
+          "option": "12 sq cm"
+        },
+        {
+          "option": "24 sq cm"
+        },
+        {
+          "option": "36 sq cm",
+          "is_answer": true
+        },
+        {
+          "option": "30 sq cm"
+        }
+      ]
+    },
+    {
+      "question": "Find the area of a triangle with base 10 cm and height 4 cm.",
+      "options": [
+        {
+          "option": "14 sq cm"
+        },
+        {
+          "option": "30 sq cm"
+        },
+        {
+          "option": "40 sq cm"
+        },
+        {
+          "option": "20 sq cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the area of a parallelogram with base 8 cm and height 5 cm?",
+      "options": [
+        {
+          "option": "26 sq cm"
+        },
+        {
+          "option": "13 sq cm"
+        },
+        {
+          "option": "40 sq cm",
+          "is_answer": true
+        },
+        {
+          "option": "35 sq cm"
+        }
+      ]
+    },
+    {
+      "question": "If a rectangle has length 10 cm and width 2 cm, what is its area?",
+      "options": [
+        {
+          "option": "22 sq cm"
+        },
+        {
+          "option": "40 sq cm"
+        },
+        {
+          "option": "12 sq cm"
+        },
+        {
+          "option": "20 sq cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the area of a square with side 9 cm?",
+      "options": [
+        {
+          "option": "72 sq cm"
+        },
+        {
+          "option": "81 sq cm",
+          "is_answer": true
+        },
+        {
+          "option": "18 sq cm"
+        },
+        {
+          "option": "36 sq cm"
+        }
+      ]
+    },
+    {
+      "question": "A triangle has a base of 6 cm and height of 7 cm. What is its area?",
+      "options": [
+        {
+          "option": "21 sq cm",
+          "is_answer": true
+        },
+        {
+          "option": "13 sq cm"
+        },
+        {
+          "option": "28 sq cm"
+        },
+        {
+          "option": "42 sq cm"
+        }
+      ]
+    },
+    {
+      "question": "What is the area of a parallelogram with base 12 cm and height 3 cm?",
+      "options": [
+        {
+          "option": "15 sq cm"
+        },
+        {
+          "option": "30 sq cm"
+        },
+        {
+          "option": "36 sq cm",
+          "is_answer": true
+        },
+        {
+          "option": "72 sq cm"
+        }
+      ]
+    },
+    {
+      "question": "Calculate the area of a square with side 11 cm.",
+      "options": [
+        {
+          "option": "110 sq cm"
+        },
+        {
+          "option": "44 sq cm"
+        },
+        {
+          "option": "22 sq cm"
+        },
+        {
+          "option": "121 sq cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A rectangle has length 7 cm and width 3 cm. What is the area?",
+      "options": [
+        {
+          "option": "10 sq cm"
+        },
+        {
+          "option": "20 sq cm"
+        },
+        {
+          "option": "21 sq cm",
+          "is_answer": true
+        },
+        {
+          "option": "14 sq cm"
+        }
+      ]
+    },
+    {
+      "question": "What is the area of a triangle with base 8 cm and height 10 cm?",
+      "options": [
+        {
+          "option": "80 sq cm"
+        },
+        {
+          "option": "18 sq cm"
+        },
+        {
+          "option": "40 sq cm",
+          "is_answer": true
+        },
+        {
+          "option": "36 sq cm"
+        }
+      ]
+    },
+    {
+      "question": "Find the area of a parallelogram with base 5 cm and height 9 cm.",
+      "options": [
+        {
+          "option": "28 sq cm"
+        },
+        {
+          "option": "40 sq cm"
+        },
+        {
+          "option": "14 sq cm"
+        },
+        {
+          "option": "45 sq cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the area of a square with side 4 cm?",
+      "options": [
+        {
+          "option": "8 sq cm"
+        },
+        {
+          "option": "12 sq cm"
+        },
+        {
+          "option": "20 sq cm"
+        },
+        {
+          "option": "16 sq cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A rectangle has length 6 cm and width 5 cm. What is the area?",
+      "options": [
+        {
+          "option": "22 sq cm"
+        },
+        {
+          "option": "25 sq cm"
+        },
+        {
+          "option": "30 sq cm",
+          "is_answer": true
+        },
+        {
+          "option": "11 sq cm"
+        }
+      ]
+    },
+    {
+      "question": "What is the area of a triangle with base 12 cm and height 5 cm?",
+      "options": [
+        {
+          "option": "17 sq cm"
+        },
+        {
+          "option": "30 sq cm",
+          "is_answer": true
+        },
+        {
+          "option": "60 sq cm"
+        },
+        {
+          "option": "34 sq cm"
+        }
+      ]
+    },
+    {
+      "question": "Find the area of a parallelogram with base 7 cm and height 4 cm.",
+      "options": [
+        {
+          "option": "22 sq cm"
+        },
+        {
+          "option": "11 sq cm"
+        },
+        {
+          "option": "28 sq cm",
+          "is_answer": true
+        },
+        {
+          "option": "35 sq cm"
+        }
+      ]
+    },
+    {
+      "question": "What is the area of a square with side 7 cm?",
+      "options": [
+        {
+          "option": "14 sq cm"
+        },
+        {
+          "option": "49 sq cm",
+          "is_answer": true
+        },
+        {
+          "option": "42 sq cm"
+        },
+        {
+          "option": "28 sq cm"
+        }
+      ]
+    },
+    {
+      "question": "A rectangle has length 9 cm and width 4 cm. What is the area?",
+      "options": [
+        {
+          "option": "45 sq cm"
+        },
+        {
+          "option": "26 sq cm"
+        },
+        {
+          "option": "36 sq cm",
+          "is_answer": true
+        },
+        {
+          "option": "13 sq cm"
+        }
+      ]
+    },
+    {
+      "question": "What is the area of a triangle with base 4 cm and height 3 cm?",
+      "options": [
+        {
+          "option": "14 sq cm"
+        },
+        {
+          "option": "7 sq cm"
+        },
+        {
+          "option": "12 sq cm"
+        },
+        {
+          "option": "6 sq cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the area of a parallelogram with base 10 cm and height 6 cm.",
+      "options": [
+        {
+          "option": "16 sq cm"
+        },
+        {
+          "option": "50 sq cm"
+        },
+        {
+          "option": "60 sq cm",
+          "is_answer": true
+        },
+        {
+          "option": "32 sq cm"
+        }
+      ]
+    },
+    {
+      "question": "What is an angle that measures exactly 90 degrees called?",
+      "options": [
+        {
+          "option": "Obtuse angle"
+        },
+        {
+          "option": "Acute angle"
+        },
+        {
+          "option": "Right angle",
+          "is_answer": true
+        },
+        {
+          "option": "Reflex angle"
+        }
+      ]
+    },
+    {
+      "question": "An angle measuring 45 degrees is classified as which type of angle?",
+      "options": [
+        {
+          "option": "Right angle"
+        },
+        {
+          "option": "Acute angle",
+          "is_answer": true
+        },
+        {
+          "option": "Straight angle"
+        },
+        {
+          "option": "Obtuse angle"
+        }
+      ]
+    },
+    {
+      "question": "Which angle measures more than 90 degrees but less than 180 degrees?",
+      "options": [
+        {
+          "option": "Acute angle"
+        },
+        {
+          "option": "Reflex angle"
+        },
+        {
+          "option": "Right angle"
+        },
+        {
+          "option": "Obtuse angle",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the measure of a straight angle?",
+      "options": [
+        {
+          "option": "180 degrees",
+          "is_answer": true
+        },
+        {
+          "option": "45 degrees"
+        },
+        {
+          "option": "90 degrees"
+        },
+        {
+          "option": "360 degrees"
+        }
+      ]
+    },
+    {
+      "question": "An angle measuring 210 degrees is known as what?",
+      "options": [
+        {
+          "option": "Obtuse angle"
+        },
+        {
+          "option": "Right angle"
+        },
+        {
+          "option": "Reflex angle",
+          "is_answer": true
+        },
+        {
+          "option": "Acute angle"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is an acute angle?",
+      "options": [
+        {
+          "option": "30 degrees",
+          "is_answer": true
+        },
+        {
+          "option": "180 degrees"
+        },
+        {
+          "option": "90 degrees"
+        },
+        {
+          "option": "120 degrees"
+        }
+      ]
+    },
+    {
+      "question": "What type of angle is 179 degrees?",
+      "options": [
+        {
+          "option": "Reflex angle"
+        },
+        {
+          "option": "Right angle"
+        },
+        {
+          "option": "Acute angle"
+        },
+        {
+          "option": "Obtuse angle",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A reflex angle is always greater than which value?",
+      "options": [
+        {
+          "option": "90 degrees"
+        },
+        {
+          "option": "180 degrees",
+          "is_answer": true
+        },
+        {
+          "option": "0 degrees"
+        },
+        {
+          "option": "360 degrees"
+        }
+      ]
+    },
+    {
+      "question": "If an angle measures 95 degrees, it is a/an:",
+      "options": [
+        {
+          "option": "Acute angle"
+        },
+        {
+          "option": "Right angle"
+        },
+        {
+          "option": "Reflex angle"
+        },
+        {
+          "option": "Obtuse angle",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which angle is exactly 360 degrees?",
+      "options": [
+        {
+          "option": "Complete angle",
+          "is_answer": true
+        },
+        {
+          "option": "Reflex angle"
+        },
+        {
+          "option": "Right angle"
+        },
+        {
+          "option": "Straight angle"
+        }
+      ]
+    },
+    {
+      "question": "An angle of 89 degrees is classified as:",
+      "options": [
+        {
+          "option": "Right angle"
+        },
+        {
+          "option": "Acute angle",
+          "is_answer": true
+        },
+        {
+          "option": "Reflex angle"
+        },
+        {
+          "option": "Obtuse angle"
+        }
+      ]
+    },
+    {
+      "question": "What is the range of an obtuse angle?",
+      "options": [
+        {
+          "option": "180 to 360 degrees"
+        },
+        {
+          "option": "0 to 180 degrees"
+        },
+        {
+          "option": "0 to 90 degrees"
+        },
+        {
+          "option": "90 to 180 degrees",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a reflex angle?",
+      "options": [
+        {
+          "option": "90 degrees"
+        },
+        {
+          "option": "270 degrees",
+          "is_answer": true
+        },
+        {
+          "option": "180 degrees"
+        },
+        {
+          "option": "45 degrees"
+        }
+      ]
+    },
+    {
+      "question": "An angle that is less than 90 degrees is called:",
+      "options": [
+        {
+          "option": "Right angle"
+        },
+        {
+          "option": "Obtuse angle"
+        },
+        {
+          "option": "Acute angle",
+          "is_answer": true
+        },
+        {
+          "option": "Reflex angle"
+        }
+      ]
+    },
+    {
+      "question": "A straight angle forms a:",
+      "options": [
+        {
+          "option": "Triangle"
+        },
+        {
+          "option": "Circle"
+        },
+        {
+          "option": "Square corner"
+        },
+        {
+          "option": "Straight line",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the measure of a right angle?",
+      "options": [
+        {
+          "option": "90 degrees",
+          "is_answer": true
+        },
+        {
+          "option": "360 degrees"
+        },
+        {
+          "option": "180 degrees"
+        },
+        {
+          "option": "45 degrees"
+        }
+      ]
+    },
+    {
+      "question": "An angle of 181 degrees is a:",
+      "options": [
+        {
+          "option": "Obtuse angle"
+        },
+        {
+          "option": "Reflex angle",
+          "is_answer": true
+        },
+        {
+          "option": "Acute angle"
+        },
+        {
+          "option": "Straight angle"
+        }
+      ]
+    },
+    {
+      "question": "Which angle is between 180 and 360 degrees?",
+      "options": [
+        {
+          "option": "Obtuse angle"
+        },
+        {
+          "option": "Right angle"
+        },
+        {
+          "option": "Reflex angle",
+          "is_answer": true
+        },
+        {
+          "option": "Acute angle"
+        }
+      ]
+    },
+    {
+      "question": "An angle of 120 degrees is:",
+      "options": [
+        {
+          "option": "Reflex angle"
+        },
+        {
+          "option": "Right angle"
+        },
+        {
+          "option": "Acute angle"
+        },
+        {
+          "option": "Obtuse angle",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a right angle?",
+      "options": [
+        {
+          "option": "180 degrees"
+        },
+        {
+          "option": "90 degrees",
+          "is_answer": true
+        },
+        {
+          "option": "89 degrees"
+        },
+        {
+          "option": "91 degrees"
+        }
+      ]
+    },
+    {
+      "question": "What is the volume of a box with length 5 cm, width 3 cm, and height 2 cm?",
+      "options": [
+        {
+          "option": "25 cubic cm"
+        },
+        {
+          "option": "30 cubic cm",
+          "is_answer": true
+        },
+        {
+          "option": "15 cubic cm"
+        },
+        {
+          "option": "10 cubic cm"
+        }
+      ]
+    },
+    {
+      "question": "A rectangular prism has dimensions 4m x 4m x 4m. What is its volume?",
+      "options": [
+        {
+          "option": "16 cubic meters"
+        },
+        {
+          "option": "80 cubic meters"
+        },
+        {
+          "option": "12 cubic meters"
+        },
+        {
+          "option": "64 cubic meters",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If a box has a base area of 20 sq cm and a height of 5 cm, what is its volume?",
+      "options": [
+        {
+          "option": "100 cubic cm",
+          "is_answer": true
+        },
+        {
+          "option": "25 cubic cm"
+        },
+        {
+          "option": "15 cubic cm"
+        },
+        {
+          "option": "4 cubic cm"
+        }
+      ]
+    },
+    {
+      "question": "Calculate the volume of a container with length 10 cm, width 2 cm, and height 4 cm.",
+      "options": [
+        {
+          "option": "20 cubic cm"
+        },
+        {
+          "option": "40 cubic cm"
+        },
+        {
+          "option": "16 cubic cm"
+        },
+        {
+          "option": "80 cubic cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A box is 6m long, 3m wide, and 2m high. What is the volume?",
+      "options": [
+        {
+          "option": "18 cubic meters"
+        },
+        {
+          "option": "24 cubic meters"
+        },
+        {
+          "option": "11 cubic meters"
+        },
+        {
+          "option": "36 cubic meters",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the volume of a cube with a side length of 3 cm?",
+      "options": [
+        {
+          "option": "9 cubic cm"
+        },
+        {
+          "option": "12 cubic cm"
+        },
+        {
+          "option": "6 cubic cm"
+        },
+        {
+          "option": "27 cubic cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A rectangular prism has a volume of 48 cubic cm. If length is 4 cm and width is 3 cm, what is the height?",
+      "options": [
+        {
+          "option": "6 cm"
+        },
+        {
+          "option": "4 cm",
+          "is_answer": true
+        },
+        {
+          "option": "3 cm"
+        },
+        {
+          "option": "8 cm"
+        }
+      ]
+    },
+    {
+      "question": "Find the volume of a box with dimensions 5m x 2m x 1m.",
+      "options": [
+        {
+          "option": "15 cubic meters"
+        },
+        {
+          "option": "7 cubic meters"
+        },
+        {
+          "option": "8 cubic meters"
+        },
+        {
+          "option": "10 cubic meters",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If a rectangular prism has a volume of 100 cubic cm and a height of 10 cm, what is the base area?",
+      "options": [
+        {
+          "option": "10 sq cm",
+          "is_answer": true
+        },
+        {
+          "option": "20 sq cm"
+        },
+        {
+          "option": "100 sq cm"
+        },
+        {
+          "option": "5 sq cm"
+        }
+      ]
+    },
+    {
+      "question": "What is the volume of a box 7 cm long, 2 cm wide, and 3 cm high?",
+      "options": [
+        {
+          "option": "14 cubic cm"
+        },
+        {
+          "option": "12 cubic cm"
+        },
+        {
+          "option": "21 cubic cm"
+        },
+        {
+          "option": "42 cubic cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A prism has a base area of 50 sq m and a height of 4 m. What is the volume?",
+      "options": [
+        {
+          "option": "100 cubic meters"
+        },
+        {
+          "option": "250 cubic meters"
+        },
+        {
+          "option": "54 cubic meters"
+        },
+        {
+          "option": "200 cubic meters",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Calculate the volume of a box with length 8 cm, width 5 cm, and height 10 cm.",
+      "options": [
+        {
+          "option": "50 cubic cm"
+        },
+        {
+          "option": "80 cubic cm"
+        },
+        {
+          "option": "400 cubic cm",
+          "is_answer": true
+        },
+        {
+          "option": "23 cubic cm"
+        }
+      ]
+    },
+    {
+      "question": "A box has a volume of 60 cubic cm. If the base area is 15 sq cm, what is the height?",
+      "options": [
+        {
+          "option": "4 cm",
+          "is_answer": true
+        },
+        {
+          "option": "5 cm"
+        },
+        {
+          "option": "3 cm"
+        },
+        {
+          "option": "6 cm"
+        }
+      ]
+    },
+    {
+      "question": "What is the volume of a rectangular prism with dimensions 2m x 3m x 5m?",
+      "options": [
+        {
+          "option": "30 cubic meters",
+          "is_answer": true
+        },
+        {
+          "option": "15 cubic meters"
+        },
+        {
+          "option": "10 cubic meters"
+        },
+        {
+          "option": "25 cubic meters"
+        }
+      ]
+    },
+    {
+      "question": "If a box is 4 cm long, 4 cm wide, and 2 cm high, what is its volume?",
+      "options": [
+        {
+          "option": "10 cubic cm"
+        },
+        {
+          "option": "16 cubic cm"
+        },
+        {
+          "option": "24 cubic cm"
+        },
+        {
+          "option": "32 cubic cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the volume of a cube with side 4 cm?",
+      "options": [
+        {
+          "option": "64 cubic cm",
+          "is_answer": true
+        },
+        {
+          "option": "16 cubic cm"
+        },
+        {
+          "option": "8 cubic cm"
+        },
+        {
+          "option": "12 cubic cm"
+        }
+      ]
+    },
+    {
+      "question": "A rectangular box has a volume of 120 cubic cm. If length is 6 cm and height is 4 cm, what is the width?",
+      "options": [
+        {
+          "option": "4 cm"
+        },
+        {
+          "option": "6 cm"
+        },
+        {
+          "option": "5 cm",
+          "is_answer": true
+        },
+        {
+          "option": "10 cm"
+        }
+      ]
+    },
+    {
+      "question": "Find the volume of a box with dimensions 9m x 2m x 3m.",
+      "options": [
+        {
+          "option": "54 cubic meters",
+          "is_answer": true
+        },
+        {
+          "option": "18 cubic meters"
+        },
+        {
+          "option": "45 cubic meters"
+        },
+        {
+          "option": "27 cubic meters"
+        }
+      ]
+    },
+    {
+      "question": "If a box has a base area of 12 sq cm and a height of 3 cm, what is its volume?",
+      "options": [
+        {
+          "option": "15 cubic cm"
+        },
+        {
+          "option": "9 cubic cm"
+        },
+        {
+          "option": "36 cubic cm",
+          "is_answer": true
+        },
+        {
+          "option": "4 cubic cm"
+        }
+      ]
+    },
+    {
+      "question": "What is the volume of a box 5 cm long, 5 cm wide, and 4 cm high?",
+      "options": [
+        {
+          "option": "100 cubic cm",
+          "is_answer": true
+        },
+        {
+          "option": "25 cubic cm"
+        },
+        {
+          "option": "20 cubic cm"
+        },
+        {
+          "option": "50 cubic cm"
+        }
+      ]
+    },
+    {
+      "question": "What is the complement of a 30° angle?",
+      "options": [
+        {
+          "option": "150°"
+        },
+        {
+          "option": "60°",
+          "is_answer": true
+        },
+        {
+          "option": "30°"
+        },
+        {
+          "option": "90°"
+        }
+      ]
+    },
+    {
+      "question": "What is the supplement of a 100° angle?",
+      "options": [
+        {
+          "option": "260°"
+        },
+        {
+          "option": "80°",
+          "is_answer": true
+        },
+        {
+          "option": "10°"
+        },
+        {
+          "option": "100°"
+        }
+      ]
+    },
+    {
+      "question": "Two angles are complementary. If one is 45°, what is the other?",
+      "options": [
+        {
+          "option": "55°"
+        },
+        {
+          "option": "90°"
+        },
+        {
+          "option": "135°"
+        },
+        {
+          "option": "45°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Two angles are supplementary. If one is 120°, what is the other?",
+      "options": [
+        {
+          "option": "120°"
+        },
+        {
+          "option": "240°"
+        },
+        {
+          "option": "30°"
+        },
+        {
+          "option": "60°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the complement of a 20° angle?",
+      "options": [
+        {
+          "option": "70°",
+          "is_answer": true
+        },
+        {
+          "option": "90°"
+        },
+        {
+          "option": "20°"
+        },
+        {
+          "option": "160°"
+        }
+      ]
+    },
+    {
+      "question": "What is the supplement of a 50° angle?",
+      "options": [
+        {
+          "option": "130°",
+          "is_answer": true
+        },
+        {
+          "option": "40°"
+        },
+        {
+          "option": "50°"
+        },
+        {
+          "option": "310°"
+        }
+      ]
+    },
+    {
+      "question": "If an angle is 0°, what is its complement?",
+      "options": [
+        {
+          "option": "45°"
+        },
+        {
+          "option": "180°"
+        },
+        {
+          "option": "90°",
+          "is_answer": true
+        },
+        {
+          "option": "0°"
+        }
+      ]
+    },
+    {
+      "question": "If an angle is 90°, what is its supplement?",
+      "options": [
+        {
+          "option": "0°"
+        },
+        {
+          "option": "90°",
+          "is_answer": true
+        },
+        {
+          "option": "180°"
+        },
+        {
+          "option": "270°"
+        }
+      ]
+    },
+    {
+      "question": "What is the complement of a 15° angle?",
+      "options": [
+        {
+          "option": "15°"
+        },
+        {
+          "option": "75°",
+          "is_answer": true
+        },
+        {
+          "option": "90°"
+        },
+        {
+          "option": "165°"
+        }
+      ]
+    },
+    {
+      "question": "What is the supplement of a 110° angle?",
+      "options": [
+        {
+          "option": "70°",
+          "is_answer": true
+        },
+        {
+          "option": "20°"
+        },
+        {
+          "option": "250°"
+        },
+        {
+          "option": "110°"
+        }
+      ]
+    },
+    {
+      "question": "Two angles are complementary. If one is 35°, what is the other?",
+      "options": [
+        {
+          "option": "90°"
+        },
+        {
+          "option": "55°",
+          "is_answer": true
+        },
+        {
+          "option": "145°"
+        },
+        {
+          "option": "35°"
+        }
+      ]
+    },
+    {
+      "question": "Two angles are supplementary. If one is 150°, what is the other?",
+      "options": [
+        {
+          "option": "60°"
+        },
+        {
+          "option": "30°",
+          "is_answer": true
+        },
+        {
+          "option": "150°"
+        },
+        {
+          "option": "210°"
+        }
+      ]
+    },
+    {
+      "question": "What is the complement of a 40° angle?",
+      "options": [
+        {
+          "option": "90°"
+        },
+        {
+          "option": "140°"
+        },
+        {
+          "option": "40°"
+        },
+        {
+          "option": "50°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the supplement of a 25° angle?",
+      "options": [
+        {
+          "option": "25°"
+        },
+        {
+          "option": "65°"
+        },
+        {
+          "option": "335°"
+        },
+        {
+          "option": "155°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If an angle is 45°, what is its supplement?",
+      "options": [
+        {
+          "option": "135°",
+          "is_answer": true
+        },
+        {
+          "option": "45°"
+        },
+        {
+          "option": "90°"
+        },
+        {
+          "option": "225°"
+        }
+      ]
+    },
+    {
+      "question": "What is the complement of a 5° angle?",
+      "options": [
+        {
+          "option": "175°"
+        },
+        {
+          "option": "5°"
+        },
+        {
+          "option": "85°",
+          "is_answer": true
+        },
+        {
+          "option": "90°"
+        }
+      ]
+    },
+    {
+      "question": "What is the supplement of a 170° angle?",
+      "options": [
+        {
+          "option": "80°"
+        },
+        {
+          "option": "170°"
+        },
+        {
+          "option": "10°",
+          "is_answer": true
+        },
+        {
+          "option": "190°"
+        }
+      ]
+    },
+    {
+      "question": "Two angles are complementary. If one is 60°, what is the other?",
+      "options": [
+        {
+          "option": "120°"
+        },
+        {
+          "option": "30°",
+          "is_answer": true
+        },
+        {
+          "option": "90°"
+        },
+        {
+          "option": "60°"
+        }
+      ]
+    },
+    {
+      "question": "What is the complement of a 55° angle?",
+      "options": [
+        {
+          "option": "35°",
+          "is_answer": true
+        },
+        {
+          "option": "90°"
+        },
+        {
+          "option": "55°"
+        },
+        {
+          "option": "125°"
+        }
+      ]
+    },
+    {
+      "question": "What is the supplement of a 95° angle?",
+      "options": [
+        {
+          "option": "5°"
+        },
+        {
+          "option": "265°"
+        },
+        {
+          "option": "85°",
+          "is_answer": true
+        },
+        {
+          "option": "95°"
+        }
+      ]
+    },
+    {
+      "question": "If the radius of a circle is 7 cm, what is its diameter?",
+      "options": [
+        {
+          "option": "49 cm"
+        },
+        {
+          "option": "21 cm"
+        },
+        {
+          "option": "14 cm",
+          "is_answer": true
+        },
+        {
+          "option": "7 cm"
+        }
+      ]
+    },
+    {
+      "question": "What is the circumference of a circle with a radius of 7 cm? (Use pi = 22/7)",
+      "options": [
+        {
+          "option": "88 cm"
+        },
+        {
+          "option": "154 cm"
+        },
+        {
+          "option": "44 cm",
+          "is_answer": true
+        },
+        {
+          "option": "22 cm"
+        }
+      ]
+    },
+    {
+      "question": "What is the area of a circle with a radius of 7 cm? (Use pi = 22/7)",
+      "options": [
+        {
+          "option": "49 sq cm"
+        },
+        {
+          "option": "44 sq cm"
+        },
+        {
+          "option": "77 sq cm"
+        },
+        {
+          "option": "154 sq cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the diameter of a circle is 20 cm, what is its radius?",
+      "options": [
+        {
+          "option": "40 cm"
+        },
+        {
+          "option": "5 cm"
+        },
+        {
+          "option": "10 cm",
+          "is_answer": true
+        },
+        {
+          "option": "20 cm"
+        }
+      ]
+    },
+    {
+      "question": "What is the circumference of a circle with a diameter of 10 cm? (Use pi = 3.14)",
+      "options": [
+        {
+          "option": "62.8 cm"
+        },
+        {
+          "option": "15.7 cm"
+        },
+        {
+          "option": "31.4 cm",
+          "is_answer": true
+        },
+        {
+          "option": "314 cm"
+        }
+      ]
+    },
+    {
+      "question": "What is the area of a circle with a diameter of 10 cm? (Use pi = 3.14)",
+      "options": [
+        {
+          "option": "78.5 sq cm",
+          "is_answer": true
+        },
+        {
+          "option": "157 sq cm"
+        },
+        {
+          "option": "31.4 sq cm"
+        },
+        {
+          "option": "314 sq cm"
+        }
+      ]
+    },
+    {
+      "question": "If the circumference of a circle is 44 cm, what is its radius? (Use pi = 22/7)",
+      "options": [
+        {
+          "option": "3.5 cm"
+        },
+        {
+          "option": "14 cm"
+        },
+        {
+          "option": "7 cm",
+          "is_answer": true
+        },
+        {
+          "option": "22 cm"
+        }
+      ]
+    },
+    {
+      "question": "Which formula represents the area of a circle?",
+      "options": [
+        {
+          "option": "pi * d"
+        },
+        {
+          "option": "2 * pi * r"
+        },
+        {
+          "option": "pi * r^2",
+          "is_answer": true
+        },
+        {
+          "option": "r^2"
+        }
+      ]
+    },
+    {
+      "question": "Which formula represents the circumference of a circle?",
+      "options": [
+        {
+          "option": "2 * pi * r",
+          "is_answer": true
+        },
+        {
+          "option": "pi * r^2"
+        },
+        {
+          "option": "d^2"
+        },
+        {
+          "option": "r^2"
+        }
+      ]
+    },
+    {
+      "question": "If the radius is doubled, the area of the circle becomes:",
+      "options": [
+        {
+          "option": "8 times"
+        },
+        {
+          "option": "remains same"
+        },
+        {
+          "option": "2 times"
+        },
+        {
+          "option": "4 times",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the radius of a circle with an area of 154 sq cm? (Use pi = 22/7)",
+      "options": [
+        {
+          "option": "14 cm"
+        },
+        {
+          "option": "7 cm",
+          "is_answer": true
+        },
+        {
+          "option": "21 cm"
+        },
+        {
+          "option": "49 cm"
+        }
+      ]
+    },
+    {
+      "question": "The ratio of the circumference of a circle to its diameter is always:",
+      "options": [
+        {
+          "option": "1/pi"
+        },
+        {
+          "option": "r"
+        },
+        {
+          "option": "pi",
+          "is_answer": true
+        },
+        {
+          "option": "2 * pi"
+        }
+      ]
+    },
+    {
+      "question": "If the diameter is 14 cm, what is the area? (Use pi = 22/7)",
+      "options": [
+        {
+          "option": "44 sq cm"
+        },
+        {
+          "option": "616 sq cm"
+        },
+        {
+          "option": "308 sq cm"
+        },
+        {
+          "option": "154 sq cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the circumference of a circle with a radius of 3.5 cm? (Use pi = 22/7)",
+      "options": [
+        {
+          "option": "22 cm",
+          "is_answer": true
+        },
+        {
+          "option": "7 cm"
+        },
+        {
+          "option": "11 cm"
+        },
+        {
+          "option": "44 cm"
+        }
+      ]
+    },
+    {
+      "question": "If the area of a circle is 314 sq cm, what is its radius? (Use pi = 3.14)",
+      "options": [
+        {
+          "option": "100 cm"
+        },
+        {
+          "option": "10 cm",
+          "is_answer": true
+        },
+        {
+          "option": "20 cm"
+        },
+        {
+          "option": "5 cm"
+        }
+      ]
+    },
+    {
+      "question": "The distance around the edge of a circle is called:",
+      "options": [
+        {
+          "option": "Diameter"
+        },
+        {
+          "option": "Radius"
+        },
+        {
+          "option": "Circumference",
+          "is_answer": true
+        },
+        {
+          "option": "Area"
+        }
+      ]
+    },
+    {
+      "question": "A line segment passing through the center and connecting two points on the circle is:",
+      "options": [
+        {
+          "option": "Diameter",
+          "is_answer": true
+        },
+        {
+          "option": "Chord"
+        },
+        {
+          "option": "Radius"
+        },
+        {
+          "option": "Circumference"
+        }
+      ]
+    },
+    {
+      "question": "If the radius is 1 cm, what is the area? (Use pi = 3.14)",
+      "options": [
+        {
+          "option": "6.28 sq cm"
+        },
+        {
+          "option": "12.56 sq cm"
+        },
+        {
+          "option": "1.57 sq cm"
+        },
+        {
+          "option": "3.14 sq cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the radius is 1 cm, what is the circumference? (Use pi = 3.14)",
+      "options": [
+        {
+          "option": "3.14 cm"
+        },
+        {
+          "option": "1.57 cm"
+        },
+        {
+          "option": "12.56 cm"
+        },
+        {
+          "option": "6.28 cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the correct relationship between radius (r) and diameter (d)?",
+      "options": [
+        {
+          "option": "d = 2r",
+          "is_answer": true
+        },
+        {
+          "option": "d = r^2"
+        },
+        {
+          "option": "r = 2d"
+        },
+        {
+          "option": "r = pi * d"
+        }
+      ]
+    },
+    {
+      "question": "A triangle with all three sides of equal length is called:",
+      "options": [
+        {
+          "option": "Right"
+        },
+        {
+          "option": "Scalene"
+        },
+        {
+          "option": "Isosceles"
+        },
+        {
+          "option": "Equilateral",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of all interior angles of a triangle?",
+      "options": [
+        {
+          "option": "360 degrees"
+        },
+        {
+          "option": "180 degrees",
+          "is_answer": true
+        },
+        {
+          "option": "90 degrees"
+        },
+        {
+          "option": "270 degrees"
+        }
+      ]
+    },
+    {
+      "question": "A triangle with exactly two equal sides is called:",
+      "options": [
+        {
+          "option": "Equilateral"
+        },
+        {
+          "option": "Scalene"
+        },
+        {
+          "option": "Obtuse"
+        },
+        {
+          "option": "Isosceles",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A triangle where all three sides have different lengths is called:",
+      "options": [
+        {
+          "option": "Equilateral"
+        },
+        {
+          "option": "Acute"
+        },
+        {
+          "option": "Isosceles"
+        },
+        {
+          "option": "Scalene",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A triangle with one angle measuring 90 degrees is called:",
+      "options": [
+        {
+          "option": "Right-angled",
+          "is_answer": true
+        },
+        {
+          "option": "Equilateral"
+        },
+        {
+          "option": "Obtuse"
+        },
+        {
+          "option": "Acute"
+        }
+      ]
+    },
+    {
+      "question": "If all angles of a triangle are less than 90 degrees, it is called:",
+      "options": [
+        {
+          "option": "Right"
+        },
+        {
+          "option": "Scalene"
+        },
+        {
+          "option": "Obtuse"
+        },
+        {
+          "option": "Acute",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A triangle with one angle greater than 90 degrees is called:",
+      "options": [
+        {
+          "option": "Right"
+        },
+        {
+          "option": "Obtuse",
+          "is_answer": true
+        },
+        {
+          "option": "Acute"
+        },
+        {
+          "option": "Isosceles"
+        }
+      ]
+    },
+    {
+      "question": "In an equilateral triangle, what is the measure of each angle?",
+      "options": [
+        {
+          "option": "45 degrees"
+        },
+        {
+          "option": "30 degrees"
+        },
+        {
+          "option": "90 degrees"
+        },
+        {
+          "option": "60 degrees",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Can a triangle have two right angles?",
+      "options": [
+        {
+          "option": "Only if isosceles"
+        },
+        {
+          "option": "Yes"
+        },
+        {
+          "option": "Only if scalene"
+        },
+        {
+          "option": "No",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A triangle with sides 3cm, 4cm, and 5cm is a:",
+      "options": [
+        {
+          "option": "Isosceles triangle"
+        },
+        {
+          "option": "Equilateral triangle"
+        },
+        {
+          "option": "Acute triangle"
+        },
+        {
+          "option": "Scalene triangle",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If two angles of a triangle are 50 and 60 degrees, what is the third angle?",
+      "options": [
+        {
+          "option": "60 degrees"
+        },
+        {
+          "option": "50 degrees"
+        },
+        {
+          "option": "80 degrees"
+        },
+        {
+          "option": "70 degrees",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which triangle has all sides unequal and all angles unequal?",
+      "options": [
+        {
+          "option": "Right"
+        },
+        {
+          "option": "Isosceles"
+        },
+        {
+          "option": "Scalene",
+          "is_answer": true
+        },
+        {
+          "option": "Equilateral"
+        }
+      ]
+    },
+    {
+      "question": "An isosceles triangle must have at least how many equal angles?",
+      "options": [
+        {
+          "option": "One"
+        },
+        {
+          "option": "Two",
+          "is_answer": true
+        },
+        {
+          "option": "Zero"
+        },
+        {
+          "option": "Three"
+        }
+      ]
+    },
+    {
+      "question": "What is the classification of a triangle with angles 40, 40, and 100 degrees?",
+      "options": [
+        {
+          "option": "Obtuse scalene"
+        },
+        {
+          "option": "Obtuse isosceles",
+          "is_answer": true
+        },
+        {
+          "option": "Acute equilateral"
+        },
+        {
+          "option": "Right scalene"
+        }
+      ]
+    },
+    {
+      "question": "Can a triangle have three acute angles?",
+      "options": [
+        {
+          "option": "No"
+        },
+        {
+          "option": "Only if equilateral"
+        },
+        {
+          "option": "Yes",
+          "is_answer": true
+        },
+        {
+          "option": "Only if isosceles"
+        }
+      ]
+    },
+    {
+      "question": "The sum of any two sides of a triangle must be:",
+      "options": [
+        {
+          "option": "Greater than the third side",
+          "is_answer": true
+        },
+        {
+          "option": "Equal to the third side"
+        },
+        {
+          "option": "Half of the third side"
+        },
+        {
+          "option": "Less than the third side"
+        }
+      ]
+    },
+    {
+      "question": "A triangle with angles 60, 60, and 60 degrees is:",
+      "options": [
+        {
+          "option": "Right"
+        },
+        {
+          "option": "Equilateral",
+          "is_answer": true
+        },
+        {
+          "option": "Obtuse"
+        },
+        {
+          "option": "Scalene"
+        }
+      ]
+    },
+    {
+      "question": "Which type of triangle has all angles equal?",
+      "options": [
+        {
+          "option": "Equilateral",
+          "is_answer": true
+        },
+        {
+          "option": "Scalene"
+        },
+        {
+          "option": "Isosceles"
+        },
+        {
+          "option": "Right"
+        }
+      ]
+    },
+    {
+      "question": "If one angle of a triangle is 90 degrees, the other two angles must be:",
+      "options": [
+        {
+          "option": "Acute",
+          "is_answer": true
+        },
+        {
+          "option": "Equal"
+        },
+        {
+          "option": "Right"
+        },
+        {
+          "option": "Obtuse"
+        }
+      ]
+    },
+    {
+      "question": "A triangle that is both right-angled and isosceles has angles:",
+      "options": [
+        {
+          "option": "60, 60, 60"
+        },
+        {
+          "option": "90, 45, 45",
+          "is_answer": true
+        },
+        {
+          "option": "90, 50, 40"
+        },
+        {
+          "option": "90, 60, 30"
+        }
+      ]
+    },
+    {
+      "question": "What is the coordinate of the origin on the Cartesian plane?",
+      "options": [
+        {
+          "option": "(0, 0)",
+          "is_answer": true
+        },
+        {
+          "option": "(0, 1)"
+        },
+        {
+          "option": "(1, 1)"
+        },
+        {
+          "option": "(1, 0)"
+        }
+      ]
+    },
+    {
+      "question": "In which quadrant are both x and y coordinates positive?",
+      "options": [
+        {
+          "option": "Quadrant IV"
+        },
+        {
+          "option": "Quadrant I",
+          "is_answer": true
+        },
+        {
+          "option": "Quadrant III"
+        },
+        {
+          "option": "Quadrant II"
+        }
+      ]
+    },
+    {
+      "question": "If a point has coordinates (-3, 5), in which quadrant does it lie?",
+      "options": [
+        {
+          "option": "Quadrant III"
+        },
+        {
+          "option": "Quadrant II",
+          "is_answer": true
+        },
+        {
+          "option": "Quadrant I"
+        },
+        {
+          "option": "Quadrant IV"
+        }
+      ]
+    },
+    {
+      "question": "What are the signs of the coordinates in Quadrant III?",
+      "options": [
+        {
+          "option": "(-, +)"
+        },
+        {
+          "option": "(+, -)"
+        },
+        {
+          "option": "(-, -)",
+          "is_answer": true
+        },
+        {
+          "option": "(+, +)"
+        }
+      ]
+    },
+    {
+      "question": "Which axis is represented by the horizontal line in the coordinate plane?",
+      "options": [
+        {
+          "option": "z-axis"
+        },
+        {
+          "option": "Origin"
+        },
+        {
+          "option": "x-axis",
+          "is_answer": true
+        },
+        {
+          "option": "y-axis"
+        }
+      ]
+    },
+    {
+      "question": "A point with coordinates (4, -2) is located in which quadrant?",
+      "options": [
+        {
+          "option": "Quadrant IV",
+          "is_answer": true
+        },
+        {
+          "option": "Quadrant II"
+        },
+        {
+          "option": "Quadrant III"
+        },
+        {
+          "option": "Quadrant I"
+        }
+      ]
+    },
+    {
+      "question": "What is the vertical axis called in the Cartesian plane?",
+      "options": [
+        {
+          "option": "Quadrant"
+        },
+        {
+          "option": "Origin"
+        },
+        {
+          "option": "y-axis",
+          "is_answer": true
+        },
+        {
+          "option": "x-axis"
+        }
+      ]
+    },
+    {
+      "question": "If a point lies on the y-axis, what is its x-coordinate?",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "Cannot be determined"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "Which quadrant contains points with negative x and positive y values?",
+      "options": [
+        {
+          "option": "Quadrant II",
+          "is_answer": true
+        },
+        {
+          "option": "Quadrant IV"
+        },
+        {
+          "option": "Quadrant III"
+        },
+        {
+          "option": "Quadrant I"
+        }
+      ]
+    },
+    {
+      "question": "What is the x-coordinate of the point (5, 8)?",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "13"
+        }
+      ]
+    },
+    {
+      "question": "If a point lies on the x-axis, what is its y-coordinate?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "-5"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which quadrant has the signs (+, -)?",
+      "options": [
+        {
+          "option": "Quadrant IV",
+          "is_answer": true
+        },
+        {
+          "option": "Quadrant III"
+        },
+        {
+          "option": "Quadrant I"
+        },
+        {
+          "option": "Quadrant II"
+        }
+      ]
+    },
+    {
+      "question": "In an ordered pair (x, y), what does the first number represent?",
+      "options": [
+        {
+          "option": "x-coordinate",
+          "is_answer": true
+        },
+        {
+          "option": "y-coordinate"
+        },
+        {
+          "option": "Quadrant"
+        },
+        {
+          "option": "Origin"
+        }
+      ]
+    },
+    {
+      "question": "Where is the point (0, 5) located?",
+      "options": [
+        {
+          "option": "In Quadrant I"
+        },
+        {
+          "option": "On the x-axis"
+        },
+        {
+          "option": "In Quadrant II"
+        },
+        {
+          "option": "On the y-axis",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the y-coordinate of the point (-2, -7)?",
+      "options": [
+        {
+          "option": "-7",
+          "is_answer": true
+        },
+        {
+          "option": "-2"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "Which quadrant contains the point (-4, -4)?",
+      "options": [
+        {
+          "option": "Quadrant II"
+        },
+        {
+          "option": "Quadrant I"
+        },
+        {
+          "option": "Quadrant IV"
+        },
+        {
+          "option": "Quadrant III",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The point (3, 0) lies on which axis?",
+      "options": [
+        {
+          "option": "y-axis"
+        },
+        {
+          "option": "Origin"
+        },
+        {
+          "option": "None"
+        },
+        {
+          "option": "x-axis",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many quadrants are there in a Cartesian plane?",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "What is the sign of the y-coordinate in Quadrant II?",
+      "options": [
+        {
+          "option": "Zero"
+        },
+        {
+          "option": "Positive",
+          "is_answer": true
+        },
+        {
+          "option": "Undefined"
+        },
+        {
+          "option": "Negative"
+        }
+      ]
+    },
+    {
+      "question": "Which point is in the first quadrant?",
+      "options": [
+        {
+          "option": "(-2, 3)"
+        },
+        {
+          "option": "(-2, -3)"
+        },
+        {
+          "option": "(2, 3)",
+          "is_answer": true
+        },
+        {
+          "option": "(2, -3)"
+        }
+      ]
+    },
+    {
+      "question": "In a right-angled triangle, what is the relationship between the sides a, b, and hypotenuse c?",
+      "options": [
+        {
+          "option": "a + b = c"
+        },
+        {
+          "option": "a^2 - b^2 = c^2"
+        },
+        {
+          "option": "a^2 + b^2 = 2c"
+        },
+        {
+          "option": "a^2 + b^2 = c^2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which side is always the longest in a right-angled triangle?",
+      "options": [
+        {
+          "option": "Base"
+        },
+        {
+          "option": "Perpendicular"
+        },
+        {
+          "option": "Adjacent side"
+        },
+        {
+          "option": "Hypotenuse",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the legs of a right triangle are 3 and 4, what is the hypotenuse?",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "Which set of numbers forms a Pythagorean triple?",
+      "options": [
+        {
+          "option": "1, 2, 3"
+        },
+        {
+          "option": "5, 12, 13",
+          "is_answer": true
+        },
+        {
+          "option": "4, 5, 6"
+        },
+        {
+          "option": "2, 3, 4"
+        }
+      ]
+    },
+    {
+      "question": "If a=6 and b=8, what is the value of c?",
+      "options": [
+        {
+          "option": "14"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "28"
+        },
+        {
+          "option": "48"
+        }
+      ]
+    },
+    {
+      "question": "The Pythagorean theorem applies only to which type of triangle?",
+      "options": [
+        {
+          "option": "Equilateral triangle"
+        },
+        {
+          "option": "Obtuse triangle"
+        },
+        {
+          "option": "Isosceles triangle"
+        },
+        {
+          "option": "Right-angled triangle",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the hypotenuse is 10 and one leg is 6, what is the other leg?",
+      "options": [
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is NOT a Pythagorean triple?",
+      "options": [
+        {
+          "option": "3, 4, 5"
+        },
+        {
+          "option": "6, 8, 10"
+        },
+        {
+          "option": "2, 3, 4",
+          "is_answer": true
+        },
+        {
+          "option": "5, 12, 13"
+        }
+      ]
+    },
+    {
+      "question": "In a triangle with sides 5, 12, and 13, is it a right triangle?",
+      "options": [
+        {
+          "option": "Cannot be determined"
+        },
+        {
+          "option": "Only if angles are 90"
+        },
+        {
+          "option": "Yes",
+          "is_answer": true
+        },
+        {
+          "option": "No"
+        }
+      ]
+    },
+    {
+      "question": "What is the square of the hypotenuse equal to?",
+      "options": [
+        {
+          "option": "Sum of squares of other two sides",
+          "is_answer": true
+        },
+        {
+          "option": "Difference of squares of other two sides"
+        },
+        {
+          "option": "Product of other two sides"
+        },
+        {
+          "option": "Sum of other two sides"
+        }
+      ]
+    },
+    {
+      "question": "If a=5 and b=12, what is the hypotenuse c?",
+      "options": [
+        {
+          "option": "13",
+          "is_answer": true
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "17"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "Which formula is used to find the hypotenuse?",
+      "options": [
+        {
+          "option": "c = a^2 + b^2"
+        },
+        {
+          "option": "c = sqrt(a + b)"
+        },
+        {
+          "option": "c = sqrt(a^2 + b^2)",
+          "is_answer": true
+        },
+        {
+          "option": "c = a + b"
+        }
+      ]
+    },
+    {
+      "question": "If a triangle has sides 7, 24, 25, is it a right triangle?",
+      "options": [
+        {
+          "option": "Only if area is 84"
+        },
+        {
+          "option": "No"
+        },
+        {
+          "option": "Yes",
+          "is_answer": true
+        },
+        {
+          "option": "Maybe"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of c if a=9 and b=12?",
+      "options": [
+        {
+          "option": "21"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "108"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Can the Pythagorean theorem be used to find the length of a leg?",
+      "options": [
+        {
+          "option": "Yes",
+          "is_answer": true
+        },
+        {
+          "option": "No"
+        },
+        {
+          "option": "Only if triangle is equilateral"
+        },
+        {
+          "option": "Only if hypotenuse is known"
+        }
+      ]
+    },
+    {
+      "question": "If a=8 and c=10, what is b?",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a valid right triangle side set?",
+      "options": [
+        {
+          "option": "1, 1, 2"
+        },
+        {
+          "option": "9, 12, 15",
+          "is_answer": true
+        },
+        {
+          "option": "2, 2, 5"
+        },
+        {
+          "option": "5, 5, 10"
+        }
+      ]
+    },
+    {
+      "question": "The sum of the squares of the two shorter sides equals the square of the longest side in which triangle?",
+      "options": [
+        {
+          "option": "Any triangle"
+        },
+        {
+          "option": "Right triangle",
+          "is_answer": true
+        },
+        {
+          "option": "Obtuse triangle"
+        },
+        {
+          "option": "Acute triangle"
+        }
+      ]
+    },
+    {
+      "question": "If a=1 and b=1, what is c?",
+      "options": [
+        {
+          "option": "sqrt(3)"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "sqrt(2)",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "What is the hypotenuse of a triangle with legs 12 and 16?",
+      "options": [
+        {
+          "option": "14"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "28"
+        },
+        {
+          "option": "400"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of flipping a fair coin and getting heads?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1/2",
+          "is_answer": true
+        },
+        {
+          "option": "1/4"
+        }
+      ]
+    },
+    {
+      "question": "When rolling a standard 6-sided die, what is the probability of rolling a 4?",
+      "options": [
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "1/6",
+          "is_answer": true
+        },
+        {
+          "option": "4/6"
+        }
+      ]
+    },
+    {
+      "question": "A bag contains 3 red marbles and 2 blue marbles. What is the probability of picking a red marble?",
+      "options": [
+        {
+          "option": "3/2"
+        },
+        {
+          "option": "2/5"
+        },
+        {
+          "option": "3/5",
+          "is_answer": true
+        },
+        {
+          "option": "1/5"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of rolling an even number on a standard 6-sided die?",
+      "options": [
+        {
+          "option": "2/3"
+        },
+        {
+          "option": "1/2",
+          "is_answer": true
+        },
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "1/6"
+        }
+      ]
+    },
+    {
+      "question": "If you draw one card from a standard deck of 52 cards, what is the probability of drawing an Ace?",
+      "options": [
+        {
+          "option": "1/13",
+          "is_answer": true
+        },
+        {
+          "option": "4/13"
+        },
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "1/52"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of rolling a number greater than 6 on a standard 6-sided die?",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "1/6"
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "A spinner has 4 equal sections colored red, blue, green, and yellow. What is the probability of landing on red?",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "1/4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of rolling a number less than 7 on a standard 6-sided die?",
+      "options": [
+        {
+          "option": "5/6"
+        },
+        {
+          "option": "1/6"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "A jar contains 10 marbles: 5 green, 3 white, and 2 black. What is the probability of picking a white marble?",
+      "options": [
+        {
+          "option": "1/10"
+        },
+        {
+          "option": "5/10"
+        },
+        {
+          "option": "3/10",
+          "is_answer": true
+        },
+        {
+          "option": "2/10"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of flipping a coin and getting tails?",
+      "options": [
+        {
+          "option": "1/2",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "In a deck of 52 cards, what is the probability of drawing a Heart?",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "1/4",
+          "is_answer": true
+        },
+        {
+          "option": "1/13"
+        },
+        {
+          "option": "1/52"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of rolling a 3 or a 5 on a standard 6-sided die?",
+      "options": [
+        {
+          "option": "1/3",
+          "is_answer": true
+        },
+        {
+          "option": "1/6"
+        },
+        {
+          "option": "2/3"
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "A bag has 4 blue, 4 red, and 2 yellow balls. What is the probability of picking a yellow ball?",
+      "options": [
+        {
+          "option": "2/5"
+        },
+        {
+          "option": "1/10"
+        },
+        {
+          "option": "4/10"
+        },
+        {
+          "option": "1/5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of rolling an odd number on a standard 6-sided die?",
+      "options": [
+        {
+          "option": "2/3"
+        },
+        {
+          "option": "1/6"
+        },
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "1/2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If you pick a letter from the word 'APPLE', what is the probability of picking 'P'?",
+      "options": [
+        {
+          "option": "2/5",
+          "is_answer": true
+        },
+        {
+          "option": "1/5"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "3/5"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of rolling a number greater than 4 on a standard 6-sided die?",
+      "options": [
+        {
+          "option": "1/3",
+          "is_answer": true
+        },
+        {
+          "option": "1/6"
+        },
+        {
+          "option": "2/3"
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "A box contains 5 black pens and 5 blue pens. What is the probability of picking a black pen?",
+      "options": [
+        {
+          "option": "5/5"
+        },
+        {
+          "option": "1/10"
+        },
+        {
+          "option": "1/2",
+          "is_answer": true
+        },
+        {
+          "option": "1/5"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of rolling a 1 on a standard 6-sided die?",
+      "options": [
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "1/6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In a deck of 52 cards, what is the probability of drawing a King?",
+      "options": [
+        {
+          "option": "1/13",
+          "is_answer": true
+        },
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "4/13"
+        },
+        {
+          "option": "1/52"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of rolling a number less than 3 on a standard 6-sided die?",
+      "options": [
+        {
+          "option": "2/3"
+        },
+        {
+          "option": "1/3",
+          "is_answer": true
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "1/6"
+        }
+      ]
+    },
+    {
+      "question": "A bar chart shows 5 apples, 3 bananas, and 2 oranges. How many fruits are there in total?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "In a bar chart, Class A has 20 students and Class B has 15 students. What is the difference in the number of students?",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "35"
+        }
+      ]
+    },
+    {
+      "question": "A table shows that Monday has 10 sales and Tuesday has 12 sales. How many sales occurred on both days combined?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "22",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "If a bar for 'Red' reaches 8 and a bar for 'Blue' reaches 4, how many more 'Red' items are there than 'Blue'?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "A table lists: Cat=6, Dog=9. What is the total number of pets?",
+      "options": [
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "A vertical bar chart shows 7 books on Monday and 3 books on Tuesday. How many books were read in total?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "21"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If a bar chart shows 15 cars in the morning and 10 cars in the evening, what is the total?",
+      "options": [
+        {
+          "option": "25",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "150"
+        }
+      ]
+    },
+    {
+      "question": "A table shows 12 pens in Box A and 8 pens in Box B. How many more pens are in Box A than Box B?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In a bar chart, the height for 'Games' is 18 and for 'Movies' is 12. What is the sum?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "216"
+        },
+        {
+          "option": "30",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "A table shows 50 visitors on Saturday and 40 on Sunday. What is the difference?",
+      "options": [
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "90"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "A bar chart shows 4 birds on a tree and 6 birds on the ground. How many birds are there in total?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If a table shows 30 apples sold and 20 oranges sold, how many fruits were sold in total?",
+      "options": [
+        {
+          "option": "50",
+          "is_answer": true
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "600"
+        }
+      ]
+    },
+    {
+      "question": "A bar chart shows 14 blue marbles and 7 red marbles. How many more blue marbles are there?",
+      "options": [
+        {
+          "option": "21"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "A table shows 9 cakes baked on Friday and 11 on Saturday. What is the total?",
+      "options": [
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "99"
+        }
+      ]
+    },
+    {
+      "question": "If a bar chart shows 25 points for Team A and 15 points for Team B, what is the difference?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "40"
+        }
+      ]
+    },
+    {
+      "question": "A table shows 8 cups of tea and 4 cups of coffee. How many drinks in total?",
+      "options": [
+        {
+          "option": "32"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "A bar chart shows 6 red flowers and 9 yellow flowers. How many flowers are there in total?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "54"
+        }
+      ]
+    },
+    {
+      "question": "If a table shows 10 boys and 12 girls in a class, how many more girls are there than boys?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "22"
+        }
+      ]
+    },
+    {
+      "question": "A bar chart shows 5 pencils in a bag and 5 pencils on a desk. What is the total?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "A table shows 20 cars and 10 trucks. How many more cars are there than trucks?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: 3x + 5x",
+      "options": [
+        {
+          "option": "8x",
+          "is_answer": true
+        },
+        {
+          "option": "2x"
+        },
+        {
+          "option": "8x^2"
+        },
+        {
+          "option": "15x"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: 7y - 2y",
+      "options": [
+        {
+          "option": "9y"
+        },
+        {
+          "option": "5y^2"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "5y",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Combine like terms: 4a + 3a + 2a",
+      "options": [
+        {
+          "option": "7a"
+        },
+        {
+          "option": "9a^3"
+        },
+        {
+          "option": "9a",
+          "is_answer": true
+        },
+        {
+          "option": "12a"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: 10b - 4b - b",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "5b",
+          "is_answer": true
+        },
+        {
+          "option": "6b"
+        },
+        {
+          "option": "7b"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: 2x + 3y + 4x",
+      "options": [
+        {
+          "option": "9xy"
+        },
+        {
+          "option": "6x + 3"
+        },
+        {
+          "option": "5x + 4y"
+        },
+        {
+          "option": "6x + 3y",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Simplify: 5m + 2n - 3m",
+      "options": [
+        {
+          "option": "2m - 2n"
+        },
+        {
+          "option": "4m + 2n"
+        },
+        {
+          "option": "2m + 2n",
+          "is_answer": true
+        },
+        {
+          "option": "4mn"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: 8p - 3p + 4q",
+      "options": [
+        {
+          "option": "5p - 4q"
+        },
+        {
+          "option": "11p + 4q"
+        },
+        {
+          "option": "5p + 4q",
+          "is_answer": true
+        },
+        {
+          "option": "9pq"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: 6a + 5b - 2a - b",
+      "options": [
+        {
+          "option": "8a + 6b"
+        },
+        {
+          "option": "4a - 4b"
+        },
+        {
+          "option": "4a + 4b",
+          "is_answer": true
+        },
+        {
+          "option": "4a + 6b"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: 12x - 5x + 3x",
+      "options": [
+        {
+          "option": "10x",
+          "is_answer": true
+        },
+        {
+          "option": "4x"
+        },
+        {
+          "option": "14x"
+        },
+        {
+          "option": "7x"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: 9y + 2 - 4y",
+      "options": [
+        {
+          "option": "5y - 2"
+        },
+        {
+          "option": "11y + 2"
+        },
+        {
+          "option": "5y + 2",
+          "is_answer": true
+        },
+        {
+          "option": "7y"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: 7a + 3b + 2a - b",
+      "options": [
+        {
+          "option": "10ab"
+        },
+        {
+          "option": "5a + 4b"
+        },
+        {
+          "option": "9a + 4b"
+        },
+        {
+          "option": "9a + 2b",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Simplify: 4x + 6 + 2x - 3",
+      "options": [
+        {
+          "option": "2x + 3"
+        },
+        {
+          "option": "6x + 9"
+        },
+        {
+          "option": "8x"
+        },
+        {
+          "option": "6x + 3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Simplify: 15m - 8m + 2m",
+      "options": [
+        {
+          "option": "7m"
+        },
+        {
+          "option": "5m"
+        },
+        {
+          "option": "9m",
+          "is_answer": true
+        },
+        {
+          "option": "25m"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: 3x + 4y + 5x - 2y",
+      "options": [
+        {
+          "option": "10xy"
+        },
+        {
+          "option": "8x + 2y",
+          "is_answer": true
+        },
+        {
+          "option": "2x + 2y"
+        },
+        {
+          "option": "8x + 6y"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: 10a - 4a + 5b",
+      "options": [
+        {
+          "option": "6a + 5b",
+          "is_answer": true
+        },
+        {
+          "option": "11ab"
+        },
+        {
+          "option": "14a + 5b"
+        },
+        {
+          "option": "6a - 5b"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: 2p + 3q + p + q",
+      "options": [
+        {
+          "option": "2p + 4q"
+        },
+        {
+          "option": "3p + 4q",
+          "is_answer": true
+        },
+        {
+          "option": "7pq"
+        },
+        {
+          "option": "3p + 3q"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: 5x - 2x + 4x",
+      "options": [
+        {
+          "option": "11x"
+        },
+        {
+          "option": "3x"
+        },
+        {
+          "option": "9x"
+        },
+        {
+          "option": "7x",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Simplify: 8y + 5 - 3y - 2",
+      "options": [
+        {
+          "option": "5y + 7"
+        },
+        {
+          "option": "5y - 3"
+        },
+        {
+          "option": "5y + 3",
+          "is_answer": true
+        },
+        {
+          "option": "11y + 3"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: 4a + 2b + 3a + 5b",
+      "options": [
+        {
+          "option": "7a + 2b"
+        },
+        {
+          "option": "14ab"
+        },
+        {
+          "option": "4a + 7b"
+        },
+        {
+          "option": "7a + 7b",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Simplify: 12x - 3x - 2x",
+      "options": [
+        {
+          "option": "7x",
+          "is_answer": true
+        },
+        {
+          "option": "9x"
+        },
+        {
+          "option": "10x"
+        },
+        {
+          "option": "17x"
+        }
+      ]
+    },
+    {
+      "question": "A shirt costs $40. If there is a 25% discount, how much do you pay?",
+      "options": [
+        {
+          "option": "$30",
+          "is_answer": true
+        },
+        {
+          "option": "$20"
+        },
+        {
+          "option": "$35"
+        },
+        {
+          "option": "$25"
+        }
+      ]
+    },
+    {
+      "question": "You buy 3 notebooks for $2 each and a pen for $1. What is the total bill?",
+      "options": [
+        {
+          "option": "$6"
+        },
+        {
+          "option": "$5"
+        },
+        {
+          "option": "$8"
+        },
+        {
+          "option": "$7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A train leaves at 2:00 PM and arrives at 5:30 PM. How long is the journey?",
+      "options": [
+        {
+          "option": "2 hours 30 minutes"
+        },
+        {
+          "option": "3 hours 30 minutes",
+          "is_answer": true
+        },
+        {
+          "option": "3 hours"
+        },
+        {
+          "option": "4 hours"
+        }
+      ]
+    },
+    {
+      "question": "A recipe for 4 people needs 200g of flour. How much flour is needed for 2 people?",
+      "options": [
+        {
+          "option": "200g"
+        },
+        {
+          "option": "100g",
+          "is_answer": true
+        },
+        {
+          "option": "50g"
+        },
+        {
+          "option": "400g"
+        }
+      ]
+    },
+    {
+      "question": "You pay with a $20 bill for items costing $14.50. How much change do you get?",
+      "options": [
+        {
+          "option": "$4.50"
+        },
+        {
+          "option": "$5.00"
+        },
+        {
+          "option": "$6.50"
+        },
+        {
+          "option": "$5.50",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If a car travels 60 miles in 1 hour, how far will it travel in 3 hours?",
+      "options": [
+        {
+          "option": "120 miles"
+        },
+        {
+          "option": "240 miles"
+        },
+        {
+          "option": "180 miles",
+          "is_answer": true
+        },
+        {
+          "option": "90 miles"
+        }
+      ]
+    },
+    {
+      "question": "A bag of apples costs $5. If you buy 4 bags, what is the total cost?",
+      "options": [
+        {
+          "option": "$25"
+        },
+        {
+          "option": "$10"
+        },
+        {
+          "option": "$20",
+          "is_answer": true
+        },
+        {
+          "option": "$15"
+        }
+      ]
+    },
+    {
+      "question": "A cake recipe requires 3 eggs for 6 servings. How many eggs are needed for 12 servings?",
+      "options": [
+        {
+          "option": "3 eggs"
+        },
+        {
+          "option": "9 eggs"
+        },
+        {
+          "option": "12 eggs"
+        },
+        {
+          "option": "6 eggs",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "You have $50 and spend $12 on lunch and $8 on a book. How much is left?",
+      "options": [
+        {
+          "option": "$30",
+          "is_answer": true
+        },
+        {
+          "option": "$38"
+        },
+        {
+          "option": "$42"
+        },
+        {
+          "option": "$20"
+        }
+      ]
+    },
+    {
+      "question": "A store offers 'Buy 2 Get 1 Free'. If each item is $10, how much for 3 items?",
+      "options": [
+        {
+          "option": "$25"
+        },
+        {
+          "option": "$20",
+          "is_answer": true
+        },
+        {
+          "option": "$10"
+        },
+        {
+          "option": "$30"
+        }
+      ]
+    },
+    {
+      "question": "If a bus ticket costs $2.50, how much do 4 tickets cost?",
+      "options": [
+        {
+          "option": "$12.50"
+        },
+        {
+          "option": "$5"
+        },
+        {
+          "option": "$7.50"
+        },
+        {
+          "option": "$10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "You work 8 hours a day for 5 days. How many total hours did you work?",
+      "options": [
+        {
+          "option": "45 hours"
+        },
+        {
+          "option": "40 hours",
+          "is_answer": true
+        },
+        {
+          "option": "50 hours"
+        },
+        {
+          "option": "35 hours"
+        }
+      ]
+    },
+    {
+      "question": "A recipe calls for 500ml of milk. If you double the recipe, how much milk is needed?",
+      "options": [
+        {
+          "option": "750ml"
+        },
+        {
+          "option": "1.5 liters"
+        },
+        {
+          "option": "1 liter",
+          "is_answer": true
+        },
+        {
+          "option": "500ml"
+        }
+      ]
+    },
+    {
+      "question": "A pen costs $1.20. How much do 5 pens cost?",
+      "options": [
+        {
+          "option": "$7"
+        },
+        {
+          "option": "$5"
+        },
+        {
+          "option": "$6",
+          "is_answer": true
+        },
+        {
+          "option": "$5.50"
+        }
+      ]
+    },
+    {
+      "question": "You start a movie at 7:00 PM. It lasts 120 minutes. When does it end?",
+      "options": [
+        {
+          "option": "9:30 PM"
+        },
+        {
+          "option": "10:00 PM"
+        },
+        {
+          "option": "8:30 PM"
+        },
+        {
+          "option": "9:00 PM",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A box contains 12 chocolates. How many chocolates are in 3 boxes?",
+      "options": [
+        {
+          "option": "48"
+        },
+        {
+          "option": "36",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "If you save $5 every week, how much will you have in 10 weeks?",
+      "options": [
+        {
+          "option": "$55"
+        },
+        {
+          "option": "$60"
+        },
+        {
+          "option": "$40"
+        },
+        {
+          "option": "$50",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A shirt is $30. Tax is 10%. What is the final price?",
+      "options": [
+        {
+          "option": "$35"
+        },
+        {
+          "option": "$30"
+        },
+        {
+          "option": "$33",
+          "is_answer": true
+        },
+        {
+          "option": "$32"
+        }
+      ]
+    },
+    {
+      "question": "You walk 2 miles to school and 2 miles back. How many miles total in 5 days?",
+      "options": [
+        {
+          "option": "10 miles"
+        },
+        {
+          "option": "15 miles"
+        },
+        {
+          "option": "25 miles"
+        },
+        {
+          "option": "20 miles",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A recipe needs 1/2 cup of sugar. How much for 4 times the recipe?",
+      "options": [
+        {
+          "option": "1.5 cups"
+        },
+        {
+          "option": "2.5 cups"
+        },
+        {
+          "option": "1 cup"
+        },
+        {
+          "option": "2 cups",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the result of 15 multiplied by 4?",
+      "options": [
+        {
+          "option": "45"
+        },
+        {
+          "option": "50"
+        },
+        {
+          "option": "60",
+          "is_answer": true
+        },
+        {
+          "option": "70"
+        }
+      ]
+    }
+  ]
+}

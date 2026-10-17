@@ -1,0 +1,9005 @@
+{
+  "total_questions": 500,
+  "questions": [
+    {
+      "question": "What is the mean of the numbers 2, 4, and 6?",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "What is the median of the set: 3, 1, 7, 5, 9?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "What is the mode of the data: 2, 2, 3, 4, 5?",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "Which measure of central tendency is the sum of all values divided by the number of values?",
+      "options": [
+        {
+          "option": "Mode"
+        },
+        {
+          "option": "Range"
+        },
+        {
+          "option": "Median"
+        },
+        {
+          "option": "Mean",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the median of: 10, 20, 30, 40.",
+      "options": [
+        {
+          "option": "25",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "35"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "What is the mode of: 7, 8, 7, 9, 8, 7?",
+      "options": [
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "If a data set has no repeating values, what is the mode?",
+      "options": [
+        {
+          "option": "Zero"
+        },
+        {
+          "option": "The median"
+        },
+        {
+          "option": "The mean"
+        },
+        {
+          "option": "No mode",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the mean of 5, 5, 5, 5?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "Which measure is most affected by an extreme outlier?",
+      "options": [
+        {
+          "option": "Median"
+        },
+        {
+          "option": "Range"
+        },
+        {
+          "option": "Mode"
+        },
+        {
+          "option": "Mean",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the median of: 1, 3, 5, 7, 9, 11.",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "What is the mode of: 1, 2, 3, 1, 2, 1?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "The middle value of a sorted data set is called:",
+      "options": [
+        {
+          "option": "Median",
+          "is_answer": true
+        },
+        {
+          "option": "Mean"
+        },
+        {
+          "option": "Average"
+        },
+        {
+          "option": "Mode"
+        }
+      ]
+    },
+    {
+      "question": "Calculate the mean of 10 and 20.",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "Which measure represents the most frequent value?",
+      "options": [
+        {
+          "option": "Mode",
+          "is_answer": true
+        },
+        {
+          "option": "Sum"
+        },
+        {
+          "option": "Mean"
+        },
+        {
+          "option": "Median"
+        }
+      ]
+    },
+    {
+      "question": "Find the median of: 8, 2, 5.",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "What is the mean of 0, 4, 8?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "If the mean of 3 numbers is 10, what is their sum?",
+      "options": [
+        {
+          "option": "30",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "13"
+        }
+      ]
+    },
+    {
+      "question": "What is the mode of: 5, 5, 6, 6, 6, 7?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "Which measure is defined as the arithmetic average?",
+      "options": [
+        {
+          "option": "Mean",
+          "is_answer": true
+        },
+        {
+          "option": "Median"
+        },
+        {
+          "option": "Frequency"
+        },
+        {
+          "option": "Mode"
+        }
+      ]
+    },
+    {
+      "question": "Find the median of: 12, 15, 11, 14, 13.",
+      "options": [
+        {
+          "option": "11"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "13",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the arithmetic mean of the data set: 2, 4, 6, 8, 10?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "For a frequency distribution, the formula for mean is?",
+      "options": [
+        {
+          "option": "Σf / Σx"
+        },
+        {
+          "option": "Σ(fx) / Σf",
+          "is_answer": true
+        },
+        {
+          "option": "Σx / n"
+        },
+        {
+          "option": "Σ(x) / Σf"
+        }
+      ]
+    },
+    {
+      "question": "If the sum of observations is 50 and the number of observations is 5, what is the mean?",
+      "options": [
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "250"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "0.1"
+        }
+      ]
+    },
+    {
+      "question": "In the formula Σ(fx) / Σf, what does 'f' represent?",
+      "options": [
+        {
+          "option": "Fraction"
+        },
+        {
+          "option": "Frequency",
+          "is_answer": true
+        },
+        {
+          "option": "Factor"
+        },
+        {
+          "option": "Function"
+        }
+      ]
+    },
+    {
+      "question": "What is the mean of the first five natural numbers?",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "2.5"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If all observations in a data set are equal to 5, what is the mean?",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "Which measure of central tendency is calculated by dividing the sum of values by the total number of values?",
+      "options": [
+        {
+          "option": "Arithmetic Mean",
+          "is_answer": true
+        },
+        {
+          "option": "Median"
+        },
+        {
+          "option": "Range"
+        },
+        {
+          "option": "Mode"
+        }
+      ]
+    },
+    {
+      "question": "Find the mean of 10, 20, and 30.",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "In a frequency table, if Σf = 20 and Σfx = 100, the mean is?",
+      "options": [
+        {
+          "option": "80"
+        },
+        {
+          "option": "0.2"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "2000"
+        }
+      ]
+    },
+    {
+      "question": "The mean of 5 numbers is 10. What is their sum?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "50",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the mean of 0, 5, and 10?",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "7.5"
+        }
+      ]
+    },
+    {
+      "question": "If each observation is increased by 2, the mean will?",
+      "options": [
+        {
+          "option": "Decrease by 2"
+        },
+        {
+          "option": "Increase by 2",
+          "is_answer": true
+        },
+        {
+          "option": "Remain same"
+        },
+        {
+          "option": "Double"
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of deviations of observations from their mean?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "Mean"
+        },
+        {
+          "option": "Total count"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "For ungrouped data, the mean is calculated as?",
+      "options": [
+        {
+          "option": "Middle value"
+        },
+        {
+          "option": "Most frequent value"
+        },
+        {
+          "option": "Sum of values / Number of values",
+          "is_answer": true
+        },
+        {
+          "option": "Frequency * Value"
+        }
+      ]
+    },
+    {
+      "question": "If Σf = 10 and the mean is 7, what is Σfx?",
+      "options": [
+        {
+          "option": "0.7"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "17"
+        },
+        {
+          "option": "70",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The mean of 4, 8, 12, 16 is?",
+      "options": [
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is affected by extreme values (outliers)?",
+      "options": [
+        {
+          "option": "Mode"
+        },
+        {
+          "option": "Median"
+        },
+        {
+          "option": "Range"
+        },
+        {
+          "option": "Arithmetic Mean",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the mean of 10 observations is 15, what is the new mean if each is multiplied by 2?",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "17"
+        },
+        {
+          "option": "30",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the mean of the first three even numbers?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "In a frequency distribution, 'x' usually represents?",
+      "options": [
+        {
+          "option": "Class mark or value",
+          "is_answer": true
+        },
+        {
+          "option": "Frequency"
+        },
+        {
+          "option": "Total sum"
+        },
+        {
+          "option": "Number of classes"
+        }
+      ]
+    },
+    {
+      "question": "In the median formula, what does 'L' represent?",
+      "options": [
+        {
+          "option": "Last cumulative frequency"
+        },
+        {
+          "option": "Lower limit of the total distribution"
+        },
+        {
+          "option": "Lower limit of the median class",
+          "is_answer": true
+        },
+        {
+          "option": "Length of the class interval"
+        }
+      ]
+    },
+    {
+      "question": "What does 'N' represent in the median formula for grouped data?",
+      "options": [
+        {
+          "option": "Cumulative frequency"
+        },
+        {
+          "option": "Median value"
+        },
+        {
+          "option": "Number of classes"
+        },
+        {
+          "option": "Total frequency",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In the median formula, what does 'CF' stand for?",
+      "options": [
+        {
+          "option": "Cumulative frequency of the class preceding the median class",
+          "is_answer": true
+        },
+        {
+          "option": "Cumulative frequency of the median class"
+        },
+        {
+          "option": "Total frequency"
+        },
+        {
+          "option": "Class frequency"
+        }
+      ]
+    },
+    {
+      "question": "What does 'h' represent in the median formula?",
+      "options": [
+        {
+          "option": "Half of the median"
+        },
+        {
+          "option": "Class size or width",
+          "is_answer": true
+        },
+        {
+          "option": "Height of the distribution"
+        },
+        {
+          "option": "Highest frequency"
+        }
+      ]
+    },
+    {
+      "question": "How is the median class determined in a grouped frequency distribution?",
+      "options": [
+        {
+          "option": "The class with the lowest frequency"
+        },
+        {
+          "option": "The class with the highest frequency"
+        },
+        {
+          "option": "The class interval where the cumulative frequency is greater than or equal to N/2",
+          "is_answer": true
+        },
+        {
+          "option": "The middle class of the distribution"
+        }
+      ]
+    },
+    {
+      "question": "If N = 40, what value is used to find the median class?",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "What is the correct median formula?",
+      "options": [
+        {
+          "option": "Median = L + [(N/2 - CF) / f] * h",
+          "is_answer": true
+        },
+        {
+          "option": "Median = L + [(N/2 + CF) / f] * h"
+        },
+        {
+          "option": "Median = L - [(N/2 - CF) / f] * h"
+        },
+        {
+          "option": "Median = L + [(N/2 - CF) * f] / h"
+        }
+      ]
+    },
+    {
+      "question": "In the median formula, what does 'f' represent?",
+      "options": [
+        {
+          "option": "Cumulative frequency"
+        },
+        {
+          "option": "Number of observations"
+        },
+        {
+          "option": "Total frequency"
+        },
+        {
+          "option": "Frequency of the median class",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is required to calculate the median of grouped data?",
+      "options": [
+        {
+          "option": "Range"
+        },
+        {
+          "option": "Mean"
+        },
+        {
+          "option": "Cumulative frequency",
+          "is_answer": true
+        },
+        {
+          "option": "Mode"
+        }
+      ]
+    },
+    {
+      "question": "If the median class is 20-30, what is the value of L?",
+      "options": [
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "What is the first step in calculating the median of a grouped frequency distribution?",
+      "options": [
+        {
+          "option": "Calculate the cumulative frequencies",
+          "is_answer": true
+        },
+        {
+          "option": "Calculate the mean"
+        },
+        {
+          "option": "Find the range"
+        },
+        {
+          "option": "Calculate the total sum of values"
+        }
+      ]
+    },
+    {
+      "question": "If N=100, what is the value of N/2?",
+      "options": [
+        {
+          "option": "50",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "200"
+        }
+      ]
+    },
+    {
+      "question": "What happens to the median if all class intervals are doubled?",
+      "options": [
+        {
+          "option": "The median remains the same"
+        },
+        {
+          "option": "The median is doubled",
+          "is_answer": true
+        },
+        {
+          "option": "The median is halved"
+        },
+        {
+          "option": "The median is squared"
+        }
+      ]
+    },
+    {
+      "question": "The median of a grouped frequency distribution is a measure of:",
+      "options": [
+        {
+          "option": "Dispersion"
+        },
+        {
+          "option": "Central tendency",
+          "is_answer": true
+        },
+        {
+          "option": "Kurtosis"
+        },
+        {
+          "option": "Skewness"
+        }
+      ]
+    },
+    {
+      "question": "If the class interval is 10-20, what is the value of 'h'?",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "Which value is used as the 'f' in the median formula?",
+      "options": [
+        {
+          "option": "Frequency of the first class"
+        },
+        {
+          "option": "Total frequency"
+        },
+        {
+          "option": "Frequency of the median class",
+          "is_answer": true
+        },
+        {
+          "option": "Frequency of the last class"
+        }
+      ]
+    },
+    {
+      "question": "What is the relationship between the median class and the cumulative frequency?",
+      "options": [
+        {
+          "option": "The median class is the first class whose cumulative frequency is < N/2"
+        },
+        {
+          "option": "The median class is the last class"
+        },
+        {
+          "option": "The median class is the class with the highest cumulative frequency"
+        },
+        {
+          "option": "The median class is the first class whose cumulative frequency is >= N/2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If N=50, CF=10, f=20, L=30, h=10, what is the median?",
+      "options": [
+        {
+          "option": "37.5",
+          "is_answer": true
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "32.5"
+        },
+        {
+          "option": "35"
+        }
+      ]
+    },
+    {
+      "question": "Can the median be calculated for open-ended distributions?",
+      "options": [
+        {
+          "option": "Yes, it can be calculated",
+          "is_answer": true
+        },
+        {
+          "option": "Only if the mode is known"
+        },
+        {
+          "option": "No, it cannot be calculated"
+        },
+        {
+          "option": "Only if the mean is known"
+        }
+      ]
+    },
+    {
+      "question": "What is the median of a distribution if it is symmetric?",
+      "options": [
+        {
+          "option": "Less than the mean"
+        },
+        {
+          "option": "Equal to the mean",
+          "is_answer": true
+        },
+        {
+          "option": "Greater than the mean"
+        },
+        {
+          "option": "Zero"
+        }
+      ]
+    },
+    {
+      "question": "In the mode formula for grouped data, what does 'L' represent?",
+      "options": [
+        {
+          "option": "Lower limit of the modal class",
+          "is_answer": true
+        },
+        {
+          "option": "Length of the entire data set"
+        },
+        {
+          "option": "Lower limit of the median class"
+        },
+        {
+          "option": "Lower limit of the cumulative frequency"
+        }
+      ]
+    },
+    {
+      "question": "In the mode formula, what does 'f1' represent?",
+      "options": [
+        {
+          "option": "Frequency of the class succeeding the modal class"
+        },
+        {
+          "option": "Frequency of the modal class",
+          "is_answer": true
+        },
+        {
+          "option": "Total frequency of the distribution"
+        },
+        {
+          "option": "Frequency of the class preceding the modal class"
+        }
+      ]
+    },
+    {
+      "question": "In the mode formula, what does 'h' represent?",
+      "options": [
+        {
+          "option": "Half of the range"
+        },
+        {
+          "option": "Highest frequency value"
+        },
+        {
+          "option": "Size of the class interval",
+          "is_answer": true
+        },
+        {
+          "option": "Height of the frequency graph"
+        }
+      ]
+    },
+    {
+      "question": "What is the frequency of the class preceding the modal class denoted as?",
+      "options": [
+        {
+          "option": "f1"
+        },
+        {
+          "option": "f2"
+        },
+        {
+          "option": "f0",
+          "is_answer": true
+        },
+        {
+          "option": "f-1"
+        }
+      ]
+    },
+    {
+      "question": "If the modal class is 20-30, what is the value of L?",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "Which term in the mode formula represents the frequency of the class succeeding the modal class?",
+      "options": [
+        {
+          "option": "h"
+        },
+        {
+          "option": "f1"
+        },
+        {
+          "option": "f0"
+        },
+        {
+          "option": "f2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the correct formula for calculating the mode of grouped data?",
+      "options": [
+        {
+          "option": "L + [(f0 - f1) / (2f1 - f0 - f2)] * h"
+        },
+        {
+          "option": "L + [(f1 - f2) / (2f1 - f0 - f2)] * h"
+        },
+        {
+          "option": "L + [(f1 - f0) / (f1 - f0 - f2)] * h"
+        },
+        {
+          "option": "L + [(f1 - f0) / (2f1 - f0 - f2)] * h",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In a frequency distribution, the modal class is the class with:",
+      "options": [
+        {
+          "option": "Highest frequency",
+          "is_answer": true
+        },
+        {
+          "option": "Lowest frequency"
+        },
+        {
+          "option": "Highest cumulative frequency"
+        },
+        {
+          "option": "Lowest cumulative frequency"
+        }
+      ]
+    },
+    {
+      "question": "If f1 = 10, f0 = 8, and f2 = 6, what is the value of (f1 - f0)?",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "-2"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "If f1 = 15, f0 = 10, and f2 = 5, what is the value of (2f1 - f0 - f2)?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If L=20, h=10, (f1-f0)=2, and (2f1-f0-f2)=5, what is the mode?",
+      "options": [
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "22"
+        }
+      ]
+    },
+    {
+      "question": "Can the mode of a grouped frequency distribution be calculated if the class intervals are unequal?",
+      "options": [
+        {
+          "option": "Only if the data is symmetric"
+        },
+        {
+          "option": "Only if the mean is known"
+        },
+        {
+          "option": "Yes, but it is complex",
+          "is_answer": true
+        },
+        {
+          "option": "No, it is impossible"
+        }
+      ]
+    },
+    {
+      "question": "What happens to the mode if all frequencies are equal?",
+      "options": [
+        {
+          "option": "Mode is zero"
+        },
+        {
+          "option": "Mode is not defined",
+          "is_answer": true
+        },
+        {
+          "option": "Mode is the median"
+        },
+        {
+          "option": "Mode is the mean"
+        }
+      ]
+    },
+    {
+      "question": "If the modal class is 40-50, what is the class size 'h'?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "50"
+        }
+      ]
+    },
+    {
+      "question": "The mode of a distribution is the value that occurs:",
+      "options": [
+        {
+          "option": "At the beginning"
+        },
+        {
+          "option": "Least frequently"
+        },
+        {
+          "option": "Most frequently",
+          "is_answer": true
+        },
+        {
+          "option": "In the middle"
+        }
+      ]
+    },
+    {
+      "question": "In the formula, what is the denominator of the fraction part?",
+      "options": [
+        {
+          "option": "2f1 - f0 - f2",
+          "is_answer": true
+        },
+        {
+          "option": "f1 - f2"
+        },
+        {
+          "option": "f1 - f0"
+        },
+        {
+          "option": "f1 + f0 + f2"
+        }
+      ]
+    },
+    {
+      "question": "If f1 = f0, what happens to the mode calculation?",
+      "options": [
+        {
+          "option": "Mode = L",
+          "is_answer": true
+        },
+        {
+          "option": "Mode = f1"
+        },
+        {
+          "option": "Mode = 0"
+        },
+        {
+          "option": "Mode is undefined"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is true about the modal class?",
+      "options": [
+        {
+          "option": "It has the maximum frequency",
+          "is_answer": true
+        },
+        {
+          "option": "It is always the first class"
+        },
+        {
+          "option": "It is always the last class"
+        },
+        {
+          "option": "It has the minimum frequency"
+        }
+      ]
+    },
+    {
+      "question": "If L=10, f1=20, f0=15, f2=10, h=5, what is the numerator of the fraction?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The mode is a measure of:",
+      "options": [
+        {
+          "option": "Probability"
+        },
+        {
+          "option": "Central tendency",
+          "is_answer": true
+        },
+        {
+          "option": "Dispersion"
+        },
+        {
+          "option": "Correlation"
+        }
+      ]
+    },
+    {
+      "question": "In the step-deviation method, what does 'h' represent?",
+      "options": [
+        {
+          "option": "Total number of observations"
+        },
+        {
+          "option": "Class width",
+          "is_answer": true
+        },
+        {
+          "option": "Assumed mean"
+        },
+        {
+          "option": "Frequency"
+        }
+      ]
+    },
+    {
+      "question": "What is the formula for deviation 'd' in the assumed mean method?",
+      "options": [
+        {
+          "option": "x + A"
+        },
+        {
+          "option": "A - x"
+        },
+        {
+          "option": "x / A"
+        },
+        {
+          "option": "x - A",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In the step-deviation formula, what is the expression for 'u'?",
+      "options": [
+        {
+          "option": "(x + A) / h"
+        },
+        {
+          "option": "h / (x - A)"
+        },
+        {
+          "option": "(x - A) / h",
+          "is_answer": true
+        },
+        {
+          "option": "x - A"
+        }
+      ]
+    },
+    {
+      "question": "Which method is most suitable when class intervals are equal and large?",
+      "options": [
+        {
+          "option": "Median method"
+        },
+        {
+          "option": "Step-deviation method",
+          "is_answer": true
+        },
+        {
+          "option": "Assumed mean method"
+        },
+        {
+          "option": "Direct method"
+        }
+      ]
+    },
+    {
+      "question": "In the formula Mean = A + [Σ(f*d) / N], what does 'N' represent?",
+      "options": [
+        {
+          "option": "Assumed mean"
+        },
+        {
+          "option": "Sum of frequencies",
+          "is_answer": true
+        },
+        {
+          "option": "Number of classes"
+        },
+        {
+          "option": "Class width"
+        }
+      ]
+    },
+    {
+      "question": "If all deviations are zero, the mean is equal to:",
+      "options": [
+        {
+          "option": "Class width (h)"
+        },
+        {
+          "option": "Total frequency (N)"
+        },
+        {
+          "option": "Assumed mean (A)",
+          "is_answer": true
+        },
+        {
+          "option": "Zero"
+        }
+      ]
+    },
+    {
+      "question": "What is the primary purpose of using the assumed mean method?",
+      "options": [
+        {
+          "option": "To find the median"
+        },
+        {
+          "option": "To increase complexity"
+        },
+        {
+          "option": "To find the mode"
+        },
+        {
+          "option": "To simplify calculations",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In the step-deviation formula, what is the final term added to 'A'?",
+      "options": [
+        {
+          "option": "(Σ(f*u) / Σf) * h",
+          "is_answer": true
+        },
+        {
+          "option": "Σ(f*u) * h"
+        },
+        {
+          "option": "Σ(f*u) / Σf"
+        },
+        {
+          "option": "Σ(f*u) / h"
+        }
+      ]
+    },
+    {
+      "question": "Which value is usually chosen as the assumed mean 'A'?",
+      "options": [
+        {
+          "option": "Last class mark"
+        },
+        {
+          "option": "Middle value of class marks",
+          "is_answer": true
+        },
+        {
+          "option": "Zero"
+        },
+        {
+          "option": "First class mark"
+        }
+      ]
+    },
+    {
+      "question": "The step-deviation method is a modification of which method?",
+      "options": [
+        {
+          "option": "Mode method"
+        },
+        {
+          "option": "Assumed mean method",
+          "is_answer": true
+        },
+        {
+          "option": "Direct method"
+        },
+        {
+          "option": "Median method"
+        }
+      ]
+    },
+    {
+      "question": "If 'd' is the deviation, then Σ(f*d) can be:",
+      "options": [
+        {
+          "option": "Always negative"
+        },
+        {
+          "option": "Positive, negative, or zero",
+          "is_answer": true
+        },
+        {
+          "option": "Always positive"
+        },
+        {
+          "option": "Always zero"
+        }
+      ]
+    },
+    {
+      "question": "What is the class mark (x) of a class interval 10-20?",
+      "options": [
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "In the assumed mean method, the mean is independent of:",
+      "options": [
+        {
+          "option": "The range of data"
+        },
+        {
+          "option": "The values of f"
+        },
+        {
+          "option": "The choice of A",
+          "is_answer": true
+        },
+        {
+          "option": "The values of x"
+        }
+      ]
+    },
+    {
+      "question": "If class width 'h' is 10, what is the value of u if x=25 and A=15?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is NOT a method to find the mean of grouped data?",
+      "options": [
+        {
+          "option": "Direct method"
+        },
+        {
+          "option": "Range method",
+          "is_answer": true
+        },
+        {
+          "option": "Assumed mean method"
+        },
+        {
+          "option": "Step-deviation method"
+        }
+      ]
+    },
+    {
+      "question": "The sum of deviations from the assumed mean is:",
+      "options": [
+        {
+          "option": "Σx"
+        },
+        {
+          "option": "Σf"
+        },
+        {
+          "option": "Σd"
+        },
+        {
+          "option": "Σf*d",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If all class intervals are of equal width, we can use:",
+      "options": [
+        {
+          "option": "Step-deviation method",
+          "is_answer": true
+        },
+        {
+          "option": "Only mode method"
+        },
+        {
+          "option": "Only direct method"
+        },
+        {
+          "option": "Only median method"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of Σ(f*d) if A is the actual mean?",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "N"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "h"
+        }
+      ]
+    },
+    {
+      "question": "In the step-deviation method, 'u' is calculated as:",
+      "options": [
+        {
+          "option": "x / h"
+        },
+        {
+          "option": "(x - A) * h"
+        },
+        {
+          "option": "(x - A) / h",
+          "is_answer": true
+        },
+        {
+          "option": "x - A"
+        }
+      ]
+    },
+    {
+      "question": "The assumed mean method is preferred over the direct method when:",
+      "options": [
+        {
+          "option": "x and f are large",
+          "is_answer": true
+        },
+        {
+          "option": "f is zero"
+        },
+        {
+          "option": "x is zero"
+        },
+        {
+          "option": "x and f are small"
+        }
+      ]
+    },
+    {
+      "question": "What is the empirical relationship between Mean, Median, and Mode for a moderately skewed distribution?",
+      "options": [
+        {
+          "option": "Mode = Median - Mean"
+        },
+        {
+          "option": "Mode = 3(Mean) - 2(Median)"
+        },
+        {
+          "option": "Mode = 3(Median) - 2(Mean)",
+          "is_answer": true
+        },
+        {
+          "option": "Mode = 2(Median) - 3(Mean)"
+        }
+      ]
+    },
+    {
+      "question": "If the Mean is 20 and the Median is 25, what is the Mode?",
+      "options": [
+        {
+          "option": "40"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "35",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "If the Mode is 40 and the Mean is 20, what is the Median?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "26.67",
+          "is_answer": true
+        },
+        {
+          "option": "35"
+        }
+      ]
+    },
+    {
+      "question": "Which formula correctly represents the Mean in terms of Mode and Median?",
+      "options": [
+        {
+          "option": "Mean = 2*Median - 3*Mode"
+        },
+        {
+          "option": "Mean = (3*Median - Mode) / 2",
+          "is_answer": true
+        },
+        {
+          "option": "Mean = (Mode - 3*Median) / 2"
+        },
+        {
+          "option": "Mean = 3*Median - Mode"
+        }
+      ]
+    },
+    {
+      "question": "In a symmetrical distribution, which of the following is true?",
+      "options": [
+        {
+          "option": "Mean = Median = Mode",
+          "is_answer": true
+        },
+        {
+          "option": "Mode > Median > Mean"
+        },
+        {
+          "option": "Mean > Median > Mode"
+        },
+        {
+          "option": "Mean = 2*Median"
+        }
+      ]
+    },
+    {
+      "question": "If Mean = 10 and Mode = 10, what is the Median?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "The empirical relationship is valid for which type of distribution?",
+      "options": [
+        {
+          "option": "Uniform"
+        },
+        {
+          "option": "Highly skewed"
+        },
+        {
+          "option": "Moderately skewed",
+          "is_answer": true
+        },
+        {
+          "option": "Perfectly symmetrical"
+        }
+      ]
+    },
+    {
+      "question": "If Median = 15 and Mean = 12, find the Mode.",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "21",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is an alternative form of the empirical formula?",
+      "options": [
+        {
+          "option": "Mean - Mode = 3(Mean - Median)",
+          "is_answer": true
+        },
+        {
+          "option": "Mean - Mode = 2(Mean - Median)"
+        },
+        {
+          "option": "Mode - Mean = 3(Mean - Median)"
+        },
+        {
+          "option": "Mean - Median = 3(Mean - Mode)"
+        }
+      ]
+    },
+    {
+      "question": "If the difference between Mean and Median is 5, what is the difference between Mean and Mode?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of (Mean - Mode) / (Mean - Median)?",
+      "options": [
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "If Mode = 25 and Median = 20, what is the Mean?",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "17.5",
+          "is_answer": true
+        },
+        {
+          "option": "22.5"
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "Who proposed the empirical relationship between Mean, Median, and Mode?",
+      "options": [
+        {
+          "option": "Francis Galton"
+        },
+        {
+          "option": "Ronald Fisher"
+        },
+        {
+          "option": "Isaac Newton"
+        },
+        {
+          "option": "Karl Pearson",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In a negatively skewed distribution, which is true?",
+      "options": [
+        {
+          "option": "Mean < Median < Mode",
+          "is_answer": true
+        },
+        {
+          "option": "Mode < Median < Mean"
+        },
+        {
+          "option": "Mean = Median = Mode"
+        },
+        {
+          "option": "Mean > Median > Mode"
+        }
+      ]
+    },
+    {
+      "question": "In a positively skewed distribution, which is true?",
+      "options": [
+        {
+          "option": "Mean > Median > Mode",
+          "is_answer": true
+        },
+        {
+          "option": "Mean = Median = Mode"
+        },
+        {
+          "option": "Mean < Median < Mode"
+        },
+        {
+          "option": "Mode > Median > Mean"
+        }
+      ]
+    },
+    {
+      "question": "If Mean = 30 and Median = 30, what is the Mode?",
+      "options": [
+        {
+          "option": "40"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "30",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The empirical formula is used to estimate which measure of central tendency?",
+      "options": [
+        {
+          "option": "Range"
+        },
+        {
+          "option": "Mean"
+        },
+        {
+          "option": "Mode",
+          "is_answer": true
+        },
+        {
+          "option": "Median"
+        }
+      ]
+    },
+    {
+      "question": "If Mode = 12 and Mean = 18, what is the Median?",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "17"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "14"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is equivalent to 3(Median - Mean)?",
+      "options": [
+        {
+          "option": "3(Median) - 3(Mean)",
+          "is_answer": true
+        },
+        {
+          "option": "3(Median) - 2(Mean)"
+        },
+        {
+          "option": "Median - Mean"
+        },
+        {
+          "option": "2(Mean) - 3(Median)"
+        }
+      ]
+    },
+    {
+      "question": "If Mean = 50 and Median = 45, what is the Mode?",
+      "options": [
+        {
+          "option": "45"
+        },
+        {
+          "option": "35",
+          "is_answer": true
+        },
+        {
+          "option": "50"
+        },
+        {
+          "option": "40"
+        }
+      ]
+    },
+    {
+      "question": "What is the range of the data set: 10, 15, 20, 25, 30?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "For a data set with Max=50 and Min=10, what is the coefficient of range?",
+      "options": [
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0.66",
+          "is_answer": true
+        },
+        {
+          "option": "0.8"
+        },
+        {
+          "option": "0.4"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is the correct formula for the range?",
+      "options": [
+        {
+          "option": "Max / Min"
+        },
+        {
+          "option": "Max + Min"
+        },
+        {
+          "option": "Min - Max"
+        },
+        {
+          "option": "Max - Min",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the coefficient of range formula?",
+      "options": [
+        {
+          "option": "(Max - Min) / Max"
+        },
+        {
+          "option": "(Max + Min) / Min"
+        },
+        {
+          "option": "(Max - Min) / (Max + Min)",
+          "is_answer": true
+        },
+        {
+          "option": "(Max + Min) / (Max - Min)"
+        }
+      ]
+    },
+    {
+      "question": "Find the range of: 5, 12, 18, 2, 9.",
+      "options": [
+        {
+          "option": "14"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If Max=20 and Min=20, what is the range?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "What is the coefficient of range if Max=10 and Min=0?",
+      "options": [
+        {
+          "option": "0.1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0.5"
+        }
+      ]
+    },
+    {
+      "question": "Range is a measure of what?",
+      "options": [
+        {
+          "option": "Correlation"
+        },
+        {
+          "option": "Dispersion",
+          "is_answer": true
+        },
+        {
+          "option": "Probability"
+        },
+        {
+          "option": "Central Tendency"
+        }
+      ]
+    },
+    {
+      "question": "If all values in a data set are the same, the range is:",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "Undefined"
+        },
+        {
+          "option": "The value itself"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Calculate the range for: 100, 200, 300, 400.",
+      "options": [
+        {
+          "option": "300",
+          "is_answer": true
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "200"
+        },
+        {
+          "option": "400"
+        }
+      ]
+    },
+    {
+      "question": "The coefficient of range is always between:",
+      "options": [
+        {
+          "option": "-1 and 1"
+        },
+        {
+          "option": "0 and infinity"
+        },
+        {
+          "option": "1 and 10"
+        },
+        {
+          "option": "0 and 1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the coefficient of range for: 2, 4, 6, 8.",
+      "options": [
+        {
+          "option": "0.6",
+          "is_answer": true
+        },
+        {
+          "option": "0.8"
+        },
+        {
+          "option": "0.4"
+        },
+        {
+          "option": "0.5"
+        }
+      ]
+    },
+    {
+      "question": "Which measure is affected most by extreme values?",
+      "options": [
+        {
+          "option": "Mean"
+        },
+        {
+          "option": "Range",
+          "is_answer": true
+        },
+        {
+          "option": "Median"
+        },
+        {
+          "option": "Mode"
+        }
+      ]
+    },
+    {
+      "question": "If Max=100 and Min=50, the range is:",
+      "options": [
+        {
+          "option": "50",
+          "is_answer": true
+        },
+        {
+          "option": "0.33"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "150"
+        }
+      ]
+    },
+    {
+      "question": "What is the coefficient of range for: 5, 5, 5, 5?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "0.5"
+        }
+      ]
+    },
+    {
+      "question": "Range is a:",
+      "options": [
+        {
+          "option": "Average"
+        },
+        {
+          "option": "Relative measure"
+        },
+        {
+          "option": "Frequency"
+        },
+        {
+          "option": "Absolute measure",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Coefficient of range is a:",
+      "options": [
+        {
+          "option": "Central tendency"
+        },
+        {
+          "option": "Absolute measure"
+        },
+        {
+          "option": "Summation"
+        },
+        {
+          "option": "Relative measure",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If Max=10 and Min=2, the coefficient of range is:",
+      "options": [
+        {
+          "option": "0.4"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0.66",
+          "is_answer": true
+        },
+        {
+          "option": "0.8"
+        }
+      ]
+    },
+    {
+      "question": "The range of the values 1, 5, 9, 13 is:",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "13"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is not a measure of dispersion?",
+      "options": [
+        {
+          "option": "Quartile Deviation"
+        },
+        {
+          "option": "Range"
+        },
+        {
+          "option": "Mean",
+          "is_answer": true
+        },
+        {
+          "option": "Standard Deviation"
+        }
+      ]
+    },
+    {
+      "question": "What is the formula for the Interquartile Range (IQR)?",
+      "options": [
+        {
+          "option": "Q3 + Q1"
+        },
+        {
+          "option": "(Q3 - Q1) / 2"
+        },
+        {
+          "option": "Q3 - Q1",
+          "is_answer": true
+        },
+        {
+          "option": "Q1 - Q3"
+        }
+      ]
+    },
+    {
+      "question": "What is the formula for Quartile Deviation (QD)?",
+      "options": [
+        {
+          "option": "(Q3 - Q1) / 2",
+          "is_answer": true
+        },
+        {
+          "option": "Q3 - Q1"
+        },
+        {
+          "option": "(Q3 + Q1) / 2"
+        },
+        {
+          "option": "Q3 / Q1"
+        }
+      ]
+    },
+    {
+      "question": "If Q1 = 10 and Q3 = 30, what is the IQR?",
+      "options": [
+        {
+          "option": "40"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "If Q1 = 20 and Q3 = 60, what is the Quartile Deviation?",
+      "options": [
+        {
+          "option": "40"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "80"
+        }
+      ]
+    },
+    {
+      "question": "The first quartile (Q1) represents which percentile?",
+      "options": [
+        {
+          "option": "10th"
+        },
+        {
+          "option": "25th",
+          "is_answer": true
+        },
+        {
+          "option": "75th"
+        },
+        {
+          "option": "50th"
+        }
+      ]
+    },
+    {
+      "question": "The third quartile (Q3) represents which percentile?",
+      "options": [
+        {
+          "option": "50th"
+        },
+        {
+          "option": "25th"
+        },
+        {
+          "option": "100th"
+        },
+        {
+          "option": "75th",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is another name for Quartile Deviation?",
+      "options": [
+        {
+          "option": "Range"
+        },
+        {
+          "option": "Mean deviation"
+        },
+        {
+          "option": "Semi-interquartile range",
+          "is_answer": true
+        },
+        {
+          "option": "Standard deviation"
+        }
+      ]
+    },
+    {
+      "question": "If IQR is 10, what is the Quartile Deviation?",
+      "options": [
+        {
+          "option": "2.5"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "Which measure of dispersion is based on the middle 50% of the data?",
+      "options": [
+        {
+          "option": "Range"
+        },
+        {
+          "option": "Standard Deviation"
+        },
+        {
+          "option": "Variance"
+        },
+        {
+          "option": "Interquartile Range",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If Q3 = 50 and Q1 = 30, what is the IQR?",
+      "options": [
+        {
+          "option": "80"
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Quartile deviation is a measure of:",
+      "options": [
+        {
+          "option": "Central tendency"
+        },
+        {
+          "option": "Dispersion",
+          "is_answer": true
+        },
+        {
+          "option": "Skewness"
+        },
+        {
+          "option": "Correlation"
+        }
+      ]
+    },
+    {
+      "question": "If the Quartile Deviation is 15, what is the IQR?",
+      "options": [
+        {
+          "option": "7.5"
+        },
+        {
+          "option": "30",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "45"
+        }
+      ]
+    },
+    {
+      "question": "The second quartile (Q2) is equal to:",
+      "options": [
+        {
+          "option": "Mean"
+        },
+        {
+          "option": "Mode"
+        },
+        {
+          "option": "Median",
+          "is_answer": true
+        },
+        {
+          "option": "Range"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is affected by extreme values?",
+      "options": [
+        {
+          "option": "Range",
+          "is_answer": true
+        },
+        {
+          "option": "None of these"
+        },
+        {
+          "option": "Quartile Deviation"
+        },
+        {
+          "option": "Interquartile Range"
+        }
+      ]
+    },
+    {
+      "question": "If Q1 = 5 and Q3 = 25, find the Quartile Deviation.",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "The Interquartile Range covers what percentage of the data?",
+      "options": [
+        {
+          "option": "50%",
+          "is_answer": true
+        },
+        {
+          "option": "75%"
+        },
+        {
+          "option": "100%"
+        },
+        {
+          "option": "25%"
+        }
+      ]
+    },
+    {
+      "question": "If Q3 = 100 and Q1 = 40, calculate the IQR.",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "140"
+        },
+        {
+          "option": "70"
+        },
+        {
+          "option": "60",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which measure is more robust against outliers than the range?",
+      "options": [
+        {
+          "option": "Mean"
+        },
+        {
+          "option": "Range"
+        },
+        {
+          "option": "Standard Deviation"
+        },
+        {
+          "option": "Interquartile Range",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If Q1 = 12 and Q3 = 28, what is the Quartile Deviation?",
+      "options": [
+        {
+          "option": "16"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The value of Quartile Deviation is always:",
+      "options": [
+        {
+          "option": "Zero"
+        },
+        {
+          "option": "Non-negative",
+          "is_answer": true
+        },
+        {
+          "option": "Imaginary"
+        },
+        {
+          "option": "Negative"
+        }
+      ]
+    },
+    {
+      "question": "What is the divisor used in the formula for population variance?",
+      "options": [
+        {
+          "option": "N",
+          "is_answer": true
+        },
+        {
+          "option": "N-1"
+        },
+        {
+          "option": "n-1"
+        },
+        {
+          "option": "n"
+        }
+      ]
+    },
+    {
+      "question": "What is the divisor used in the formula for sample variance?",
+      "options": [
+        {
+          "option": "N"
+        },
+        {
+          "option": "n-1",
+          "is_answer": true
+        },
+        {
+          "option": "n"
+        },
+        {
+          "option": "N-1"
+        }
+      ]
+    },
+    {
+      "question": "Why do we divide by (n-1) instead of n in sample variance?",
+      "options": [
+        {
+          "option": "To correct bias in estimation",
+          "is_answer": true
+        },
+        {
+          "option": "To simplify the calculation"
+        },
+        {
+          "option": "To make the number smaller"
+        },
+        {
+          "option": "To match population variance"
+        }
+      ]
+    },
+    {
+      "question": "What does the symbol sigma squared (σ²) represent?",
+      "options": [
+        {
+          "option": "Population variance",
+          "is_answer": true
+        },
+        {
+          "option": "Standard deviation"
+        },
+        {
+          "option": "Sample variance"
+        },
+        {
+          "option": "Population mean"
+        }
+      ]
+    },
+    {
+      "question": "What does the symbol s² represent?",
+      "options": [
+        {
+          "option": "Population variance"
+        },
+        {
+          "option": "Sample mean"
+        },
+        {
+          "option": "Standard error"
+        },
+        {
+          "option": "Sample variance",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If all values in a dataset are the same, what is the variance?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "The mean"
+        },
+        {
+          "option": "The sum of values"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Variance is the average of the squared differences from the:",
+      "options": [
+        {
+          "option": "Range"
+        },
+        {
+          "option": "Mode"
+        },
+        {
+          "option": "Median"
+        },
+        {
+          "option": "Mean",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is always non-negative?",
+      "options": [
+        {
+          "option": "Median"
+        },
+        {
+          "option": "Mean"
+        },
+        {
+          "option": "Sum of deviations"
+        },
+        {
+          "option": "Variance",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the square root of variance called?",
+      "options": [
+        {
+          "option": "Mean"
+        },
+        {
+          "option": "Range"
+        },
+        {
+          "option": "Standard deviation",
+          "is_answer": true
+        },
+        {
+          "option": "Variance"
+        }
+      ]
+    },
+    {
+      "question": "In the population variance formula, what does 'mu' (μ) represent?",
+      "options": [
+        {
+          "option": "Sample mean"
+        },
+        {
+          "option": "Population mean",
+          "is_answer": true
+        },
+        {
+          "option": "Number of items"
+        },
+        {
+          "option": "Sum of squares"
+        }
+      ]
+    },
+    {
+      "question": "In the sample variance formula, what does 'x-bar' (x̄) represent?",
+      "options": [
+        {
+          "option": "Sample mean",
+          "is_answer": true
+        },
+        {
+          "option": "Population mean"
+        },
+        {
+          "option": "Individual value"
+        },
+        {
+          "option": "Sample size"
+        }
+      ]
+    },
+    {
+      "question": "What happens to the sample variance as the sample size increases?",
+      "options": [
+        {
+          "option": "It increases indefinitely"
+        },
+        {
+          "option": "It becomes a better estimate of population variance",
+          "is_answer": true
+        },
+        {
+          "option": "It becomes negative"
+        },
+        {
+          "option": "It becomes zero"
+        }
+      ]
+    },
+    {
+      "question": "Which measure is more sensitive to outliers?",
+      "options": [
+        {
+          "option": "Mode"
+        },
+        {
+          "option": "Median"
+        },
+        {
+          "option": "Variance",
+          "is_answer": true
+        },
+        {
+          "option": "Range"
+        }
+      ]
+    },
+    {
+      "question": "If you multiply every data point by 2, what happens to the variance?",
+      "options": [
+        {
+          "option": "It stays the same"
+        },
+        {
+          "option": "It is multiplied by 4",
+          "is_answer": true
+        },
+        {
+          "option": "It is divided by 2"
+        },
+        {
+          "option": "It is multiplied by 2"
+        }
+      ]
+    },
+    {
+      "question": "What is the unit of variance compared to the original data?",
+      "options": [
+        {
+          "option": "Square root units"
+        },
+        {
+          "option": "Same units"
+        },
+        {
+          "option": "No units"
+        },
+        {
+          "option": "Squared units",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The sum of squared deviations from the mean is always:",
+      "options": [
+        {
+          "option": "Always positive"
+        },
+        {
+          "option": "Positive or zero",
+          "is_answer": true
+        },
+        {
+          "option": "Always zero"
+        },
+        {
+          "option": "Always negative"
+        }
+      ]
+    },
+    {
+      "question": "Which term is used for (n-1) in sample variance?",
+      "options": [
+        {
+          "option": "Standard error"
+        },
+        {
+          "option": "Population correction"
+        },
+        {
+          "option": "Degrees of freedom"
+        },
+        {
+          "option": "Bessel's correction",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Variance measures the:",
+      "options": [
+        {
+          "option": "Sample size"
+        },
+        {
+          "option": "Average value"
+        },
+        {
+          "option": "Central tendency"
+        },
+        {
+          "option": "Spread of data",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If a constant 'k' is added to every data point, what happens to the variance?",
+      "options": [
+        {
+          "option": "It decreases by k"
+        },
+        {
+          "option": "It increases by k"
+        },
+        {
+          "option": "It increases by k squared"
+        },
+        {
+          "option": "It remains unchanged",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is a measure of dispersion?",
+      "options": [
+        {
+          "option": "Mode"
+        },
+        {
+          "option": "Mean"
+        },
+        {
+          "option": "Median"
+        },
+        {
+          "option": "Variance",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the shortcut formula for standard deviation (sigma)?",
+      "options": [
+        {
+          "option": "sqrt[(Sum(x^2)/N) + (Mean)^2]"
+        },
+        {
+          "option": "(Sum(x)/N)^2 - Mean"
+        },
+        {
+          "option": "sqrt[(Sum(x^2)/N) - (Mean)^2]",
+          "is_answer": true
+        },
+        {
+          "option": "Sum(x^2)/N - Mean"
+        }
+      ]
+    },
+    {
+      "question": "How does adding a constant 'c' to every observation affect the standard deviation?",
+      "options": [
+        {
+          "option": "It decreases by c"
+        },
+        {
+          "option": "It increases by c"
+        },
+        {
+          "option": "It becomes c times"
+        },
+        {
+          "option": "It remains unchanged",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If every observation is multiplied by a constant 'k', what happens to the standard deviation?",
+      "options": [
+        {
+          "option": "It becomes k^2 times"
+        },
+        {
+          "option": "It increases by k"
+        },
+        {
+          "option": "It remains the same"
+        },
+        {
+          "option": "It becomes |k| times the original",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The standard deviation is independent of which change?",
+      "options": [
+        {
+          "option": "None of these"
+        },
+        {
+          "option": "Change of scale"
+        },
+        {
+          "option": "Both scale and origin"
+        },
+        {
+          "option": "Change of origin",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If sigma is the standard deviation of x, what is the standard deviation of (x - a)?",
+      "options": [
+        {
+          "option": "sigma - a"
+        },
+        {
+          "option": "sigma^2"
+        },
+        {
+          "option": "sigma + a"
+        },
+        {
+          "option": "sigma",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If sigma is the standard deviation of x, what is the standard deviation of (ax + b)?",
+      "options": [
+        {
+          "option": "sigma + b"
+        },
+        {
+          "option": "|a| * sigma",
+          "is_answer": true
+        },
+        {
+          "option": "a * sigma + b"
+        },
+        {
+          "option": "a * sigma"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the correct variance formula using the shortcut method?",
+      "options": [
+        {
+          "option": "(Sum(x^2)/N) - (Mean)^2",
+          "is_answer": true
+        },
+        {
+          "option": "(Mean)^2 - (Sum(x^2)/N)"
+        },
+        {
+          "option": "(Sum(x^2)/N) + (Mean)^2"
+        },
+        {
+          "option": "Sum(x^2)/N"
+        }
+      ]
+    },
+    {
+      "question": "Standard deviation is defined as the square root of what?",
+      "options": [
+        {
+          "option": "Variance",
+          "is_answer": true
+        },
+        {
+          "option": "Mean"
+        },
+        {
+          "option": "Sum of squares"
+        },
+        {
+          "option": "Range"
+        }
+      ]
+    },
+    {
+      "question": "If all values in a dataset are the same, the standard deviation is:",
+      "options": [
+        {
+          "option": "Undefined"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "Mean"
+        }
+      ]
+    },
+    {
+      "question": "What is the effect on standard deviation if all values are multiplied by -2?",
+      "options": [
+        {
+          "option": "It doubles",
+          "is_answer": true
+        },
+        {
+          "option": "It becomes -2 times"
+        },
+        {
+          "option": "It becomes half"
+        },
+        {
+          "option": "It remains the same"
+        }
+      ]
+    },
+    {
+      "question": "The shortcut formula for standard deviation is derived from which concept?",
+      "options": [
+        {
+          "option": "Median"
+        },
+        {
+          "option": "Range"
+        },
+        {
+          "option": "Sum of squares of deviations",
+          "is_answer": true
+        },
+        {
+          "option": "Mean absolute deviation"
+        }
+      ]
+    },
+    {
+      "question": "If the variance of a set is 25, what is the standard deviation?",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "12.5"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "625"
+        }
+      ]
+    },
+    {
+      "question": "Standard deviation is always:",
+      "options": [
+        {
+          "option": "Negative"
+        },
+        {
+          "option": "Fractional"
+        },
+        {
+          "option": "Non-negative",
+          "is_answer": true
+        },
+        {
+          "option": "Zero"
+        }
+      ]
+    },
+    {
+      "question": "Which property allows us to ignore the origin when calculating standard deviation?",
+      "options": [
+        {
+          "option": "Origin shift property",
+          "is_answer": true
+        },
+        {
+          "option": "Variance property"
+        },
+        {
+          "option": "Scale change property"
+        },
+        {
+          "option": "Mean property"
+        }
+      ]
+    },
+    {
+      "question": "If x has standard deviation sigma, what is the standard deviation of x + 10?",
+      "options": [
+        {
+          "option": "sigma",
+          "is_answer": true
+        },
+        {
+          "option": "10 * sigma"
+        },
+        {
+          "option": "sigma + 10"
+        },
+        {
+          "option": "sigma - 10"
+        }
+      ]
+    },
+    {
+      "question": "The shortcut formula is most useful when:",
+      "options": [
+        {
+          "option": "Mean is a fraction",
+          "is_answer": true
+        },
+        {
+          "option": "Data is constant"
+        },
+        {
+          "option": "Data is small"
+        },
+        {
+          "option": "N is 1"
+        }
+      ]
+    },
+    {
+      "question": "What is the standard deviation of a constant 'k'?",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "k^2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "k"
+        }
+      ]
+    },
+    {
+      "question": "If we multiply all data points by 5, the variance becomes:",
+      "options": [
+        {
+          "option": "25 times",
+          "is_answer": true
+        },
+        {
+          "option": "10 times"
+        },
+        {
+          "option": "5 times"
+        },
+        {
+          "option": "Remains same"
+        }
+      ]
+    },
+    {
+      "question": "Which term in the shortcut formula represents the mean of squares?",
+      "options": [
+        {
+          "option": "Mean^2"
+        },
+        {
+          "option": "Sum(x^2)/N",
+          "is_answer": true
+        },
+        {
+          "option": "(Sum(x)/N)^2"
+        },
+        {
+          "option": "Sum(x)/N"
+        }
+      ]
+    },
+    {
+      "question": "Standard deviation is a measure of:",
+      "options": [
+        {
+          "option": "Dispersion",
+          "is_answer": true
+        },
+        {
+          "option": "Skewness"
+        },
+        {
+          "option": "Central tendency"
+        },
+        {
+          "option": "Kurtosis"
+        }
+      ]
+    },
+    {
+      "question": "What is the formula for Mean Deviation about the Mean for a discrete series?",
+      "options": [
+        {
+          "option": "Σf(x - x̄) / Σf"
+        },
+        {
+          "option": "Σ|x - x̄| / N²"
+        },
+        {
+          "option": "Σ(x - x̄)² / N"
+        },
+        {
+          "option": "Σf|x - x̄| / Σf",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If all observations in a data set are equal, what is the Mean Deviation about the mean?",
+      "options": [
+        {
+          "option": "Mean"
+        },
+        {
+          "option": "Standard Deviation"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "Mean deviation is always calculated using which type of values?",
+      "options": [
+        {
+          "option": "Logarithmic values"
+        },
+        {
+          "option": "Absolute values",
+          "is_answer": true
+        },
+        {
+          "option": "Squared values"
+        },
+        {
+          "option": "Negative values"
+        }
+      ]
+    },
+    {
+      "question": "For a given set of data, the sum of deviations taken from the median is:",
+      "options": [
+        {
+          "option": "Minimum",
+          "is_answer": true
+        },
+        {
+          "option": "Maximum"
+        },
+        {
+          "option": "Equal to Mean"
+        },
+        {
+          "option": "Zero"
+        }
+      ]
+    },
+    {
+      "question": "Which measure of central tendency minimizes the sum of absolute deviations?",
+      "options": [
+        {
+          "option": "Mode"
+        },
+        {
+          "option": "Mean"
+        },
+        {
+          "option": "Geometric Mean"
+        },
+        {
+          "option": "Median",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the Mean Deviation about the mean for the set {2, 4, 6}?",
+      "options": [
+        {
+          "option": "1.33",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "If each observation is increased by 5, how does the Mean Deviation change?",
+      "options": [
+        {
+          "option": "Remains unchanged",
+          "is_answer": true
+        },
+        {
+          "option": "Increases by 5"
+        },
+        {
+          "option": "Decreases by 5"
+        },
+        {
+          "option": "Multiplied by 5"
+        }
+      ]
+    },
+    {
+      "question": "Mean deviation is a measure of:",
+      "options": [
+        {
+          "option": "Dispersion",
+          "is_answer": true
+        },
+        {
+          "option": "Skewness"
+        },
+        {
+          "option": "Central Tendency"
+        },
+        {
+          "option": "Correlation"
+        }
+      ]
+    },
+    {
+      "question": "The sum of absolute deviations from the mean is always:",
+      "options": [
+        {
+          "option": "Less than sum of deviations from median"
+        },
+        {
+          "option": "Equal to zero"
+        },
+        {
+          "option": "Greater than or equal to sum of deviations from median",
+          "is_answer": true
+        },
+        {
+          "option": "Always negative"
+        }
+      ]
+    },
+    {
+      "question": "If all observations are multiplied by a constant 'k', the Mean Deviation is:",
+      "options": [
+        {
+          "option": "Remains same"
+        },
+        {
+          "option": "Divided by k"
+        },
+        {
+          "option": "Multiplied by |k|",
+          "is_answer": true
+        },
+        {
+          "option": "Multiplied by k"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is true regarding Mean Deviation?",
+      "options": [
+        {
+          "option": "It is based on all observations",
+          "is_answer": true
+        },
+        {
+          "option": "It is based on only extreme values"
+        },
+        {
+          "option": "It is always equal to standard deviation"
+        },
+        {
+          "option": "It is not affected by outliers"
+        }
+      ]
+    },
+    {
+      "question": "What is the Mean Deviation of the set {5, 5, 5, 5}?",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "The coefficient of Mean Deviation is calculated as:",
+      "options": [
+        {
+          "option": "Average / Mean Deviation"
+        },
+        {
+          "option": "Mean Deviation * Average"
+        },
+        {
+          "option": "Mean Deviation + Average"
+        },
+        {
+          "option": "Mean Deviation / Average",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Mean deviation about median is denoted by:",
+      "options": [
+        {
+          "option": "Var"
+        },
+        {
+          "option": "S.D."
+        },
+        {
+          "option": "M.D.(x̄)"
+        },
+        {
+          "option": "M.D.(M)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the mean of a series is 20 and the sum of absolute deviations is 100 for 10 items, what is the Mean Deviation?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Mean deviation is less sensitive to extreme values than:",
+      "options": [
+        {
+          "option": "Range"
+        },
+        {
+          "option": "Median"
+        },
+        {
+          "option": "Standard Deviation",
+          "is_answer": true
+        },
+        {
+          "option": "Mode"
+        }
+      ]
+    },
+    {
+      "question": "The unit of Mean Deviation is:",
+      "options": [
+        {
+          "option": "Same as the original data",
+          "is_answer": true
+        },
+        {
+          "option": "Square of the unit of data"
+        },
+        {
+          "option": "Percentage"
+        },
+        {
+          "option": "No unit"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a disadvantage of Mean Deviation?",
+      "options": [
+        {
+          "option": "It is too simple"
+        },
+        {
+          "option": "Algebraic manipulation is difficult",
+          "is_answer": true
+        },
+        {
+          "option": "It ignores negative values"
+        },
+        {
+          "option": "It is not a measure of dispersion"
+        }
+      ]
+    },
+    {
+      "question": "For a normal distribution, the relationship between Mean Deviation (MD) and Standard Deviation (SD) is approximately:",
+      "options": [
+        {
+          "option": "MD = 1.2 SD"
+        },
+        {
+          "option": "MD = 0.5 SD"
+        },
+        {
+          "option": "MD = 0.8 SD",
+          "is_answer": true
+        },
+        {
+          "option": "MD = SD"
+        }
+      ]
+    },
+    {
+      "question": "Mean deviation can be calculated about:",
+      "options": [
+        {
+          "option": "Only Mode"
+        },
+        {
+          "option": "Only Median"
+        },
+        {
+          "option": "Any central value",
+          "is_answer": true
+        },
+        {
+          "option": "Only Mean"
+        }
+      ]
+    },
+    {
+      "question": "What is the relationship between Variance and Standard Deviation?",
+      "options": [
+        {
+          "option": "Variance is the square root of Standard Deviation"
+        },
+        {
+          "option": "Standard Deviation is the square root of Variance",
+          "is_answer": true
+        },
+        {
+          "option": "Standard Deviation is the square of Variance"
+        },
+        {
+          "option": "Standard Deviation is equal to Variance"
+        }
+      ]
+    },
+    {
+      "question": "What is the standard deviation of a constant set of numbers like {5, 5, 5}?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "If the variance of a dataset is 16, what is the standard deviation?",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "256"
+        }
+      ]
+    },
+    {
+      "question": "Standard deviation measures the dispersion of data points relative to what?",
+      "options": [
+        {
+          "option": "The mean",
+          "is_answer": true
+        },
+        {
+          "option": "The range"
+        },
+        {
+          "option": "The mode"
+        },
+        {
+          "option": "The median"
+        }
+      ]
+    },
+    {
+      "question": "Which symbol is commonly used to represent the population standard deviation?",
+      "options": [
+        {
+          "option": "Σ (sigma capital)"
+        },
+        {
+          "option": "μ (mu)"
+        },
+        {
+          "option": "x̄"
+        },
+        {
+          "option": "σ (sigma)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If every value in a dataset is increased by 10, what happens to the standard deviation?",
+      "options": [
+        {
+          "option": "It increases by 10"
+        },
+        {
+          "option": "It decreases by 10"
+        },
+        {
+          "option": "It doubles"
+        },
+        {
+          "option": "It remains the same",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the square of the standard deviation called?",
+      "options": [
+        {
+          "option": "Range"
+        },
+        {
+          "option": "Median"
+        },
+        {
+          "option": "Mean"
+        },
+        {
+          "option": "Variance",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is true about standard deviation?",
+      "options": [
+        {
+          "option": "It is always greater than the variance"
+        },
+        {
+          "option": "It is always equal to the mean"
+        },
+        {
+          "option": "It is always non-negative",
+          "is_answer": true
+        },
+        {
+          "option": "It can be negative"
+        }
+      ]
+    },
+    {
+      "question": "If you multiply every value in a dataset by 2, what happens to the standard deviation?",
+      "options": [
+        {
+          "option": "It remains the same"
+        },
+        {
+          "option": "It is multiplied by 2",
+          "is_answer": true
+        },
+        {
+          "option": "It is divided by 2"
+        },
+        {
+          "option": "It is multiplied by 4"
+        }
+      ]
+    },
+    {
+      "question": "What is the standard deviation of the set {1, 1, 1, 1}?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "0.25"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the standard deviation is 5, what is the variance?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "2.23"
+        },
+        {
+          "option": "25",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Standard deviation is calculated using which of the following?",
+      "options": [
+        {
+          "option": "Median"
+        },
+        {
+          "option": "Range"
+        },
+        {
+          "option": "Mean",
+          "is_answer": true
+        },
+        {
+          "option": "Mode"
+        }
+      ]
+    },
+    {
+      "question": "A low standard deviation indicates that the data points are:",
+      "options": [
+        {
+          "option": "Far from the mean"
+        },
+        {
+          "option": "Randomly distributed"
+        },
+        {
+          "option": "Close to the mean",
+          "is_answer": true
+        },
+        {
+          "option": "Very spread out"
+        }
+      ]
+    },
+    {
+      "question": "What does a high standard deviation suggest?",
+      "options": [
+        {
+          "option": "Data is identical"
+        },
+        {
+          "option": "High variability in data",
+          "is_answer": true
+        },
+        {
+          "option": "Mean is zero"
+        },
+        {
+          "option": "Data is very consistent"
+        }
+      ]
+    },
+    {
+      "question": "In a normal distribution, approximately what percentage of data falls within one standard deviation of the mean?",
+      "options": [
+        {
+          "option": "99.7%"
+        },
+        {
+          "option": "50%"
+        },
+        {
+          "option": "68%",
+          "is_answer": true
+        },
+        {
+          "option": "95%"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a unit of standard deviation?",
+      "options": [
+        {
+          "option": "Percentage"
+        },
+        {
+          "option": "The same as the data units",
+          "is_answer": true
+        },
+        {
+          "option": "Unitless"
+        },
+        {
+          "option": "Square of data units"
+        }
+      ]
+    },
+    {
+      "question": "The sum of deviations from the mean is always:",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "The mean"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "The variance"
+        }
+      ]
+    },
+    {
+      "question": "Standard deviation is the root-mean-square deviation from the:",
+      "options": [
+        {
+          "option": "Mean",
+          "is_answer": true
+        },
+        {
+          "option": "Range"
+        },
+        {
+          "option": "Mode"
+        },
+        {
+          "option": "Median"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following indicates greater consistency in a data set?",
+      "options": [
+        {
+          "option": "Lower Standard Deviation alone"
+        },
+        {
+          "option": "Lower Coefficient of Variation",
+          "is_answer": true
+        },
+        {
+          "option": "Higher Coefficient of Variation"
+        },
+        {
+          "option": "Higher Mean"
+        }
+      ]
+    },
+    {
+      "question": "What is the formula for the Coefficient of Variation (CV)?",
+      "options": [
+        {
+          "option": "(Variance / Mean) * 100"
+        },
+        {
+          "option": "(Standard Deviation / Variance) * 100"
+        },
+        {
+          "option": "(Standard Deviation / Mean) * 100",
+          "is_answer": true
+        },
+        {
+          "option": "(Mean / Standard Deviation) * 100"
+        }
+      ]
+    },
+    {
+      "question": "If Team A has a CV of 5% and Team B has a CV of 12%, which team is more consistent?",
+      "options": [
+        {
+          "option": "Both are equally consistent"
+        },
+        {
+          "option": "Cannot be determined"
+        },
+        {
+          "option": "Team A",
+          "is_answer": true
+        },
+        {
+          "option": "Team B"
+        }
+      ]
+    },
+    {
+      "question": "The Coefficient of Variation is a measure of:",
+      "options": [
+        {
+          "option": "Central tendency"
+        },
+        {
+          "option": "Absolute dispersion"
+        },
+        {
+          "option": "Relative dispersion",
+          "is_answer": true
+        },
+        {
+          "option": "Skewness"
+        }
+      ]
+    },
+    {
+      "question": "If two series have the same mean, the one with the smaller standard deviation will have:",
+      "options": [
+        {
+          "option": "The same CV"
+        },
+        {
+          "option": "Zero CV"
+        },
+        {
+          "option": "A larger CV"
+        },
+        {
+          "option": "A smaller CV",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Coefficient of Variation is expressed in:",
+      "options": [
+        {
+          "option": "Units of the data"
+        },
+        {
+          "option": "No units"
+        },
+        {
+          "option": "Percentage",
+          "is_answer": true
+        },
+        {
+          "option": "Square units"
+        }
+      ]
+    },
+    {
+      "question": "To compare the stability of two different data sets with different units, we use:",
+      "options": [
+        {
+          "option": "Mean"
+        },
+        {
+          "option": "Standard Deviation"
+        },
+        {
+          "option": "Range"
+        },
+        {
+          "option": "Coefficient of Variation",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A lower CV value implies:",
+      "options": [
+        {
+          "option": "Higher stability",
+          "is_answer": true
+        },
+        {
+          "option": "Lower stability"
+        },
+        {
+          "option": "Higher mean"
+        },
+        {
+          "option": "Higher variability"
+        }
+      ]
+    },
+    {
+      "question": "If the standard deviation is 10 and the mean is 50, what is the CV?",
+      "options": [
+        {
+          "option": "20%",
+          "is_answer": true
+        },
+        {
+          "option": "50%"
+        },
+        {
+          "option": "5%"
+        },
+        {
+          "option": "10%"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is true regarding the Coefficient of Variation?",
+      "options": [
+        {
+          "option": "It is always greater than 100"
+        },
+        {
+          "option": "It cannot be calculated for negative values"
+        },
+        {
+          "option": "It depends on the units of measurement"
+        },
+        {
+          "option": "It is independent of units",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If two players have the same average score, the one with the lower CV is:",
+      "options": [
+        {
+          "option": "Less talented"
+        },
+        {
+          "option": "More consistent",
+          "is_answer": true
+        },
+        {
+          "option": "More erratic"
+        },
+        {
+          "option": "Less consistent"
+        }
+      ]
+    },
+    {
+      "question": "The Coefficient of Variation is calculated as a percentage to:",
+      "options": [
+        {
+          "option": "Make it unit-free",
+          "is_answer": true
+        },
+        {
+          "option": "Decrease its value"
+        },
+        {
+          "option": "Simplify the mean"
+        },
+        {
+          "option": "Increase its value"
+        }
+      ]
+    },
+    {
+      "question": "If CV of Series X is 15% and CV of Series Y is 25%, which series is more stable?",
+      "options": [
+        {
+          "option": "Both are equally stable"
+        },
+        {
+          "option": "Series Y"
+        },
+        {
+          "option": "Cannot be compared"
+        },
+        {
+          "option": "Series X",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What does a high Coefficient of Variation indicate?",
+      "options": [
+        {
+          "option": "High consistency"
+        },
+        {
+          "option": "High accuracy"
+        },
+        {
+          "option": "Low dispersion"
+        },
+        {
+          "option": "High variability",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the mean is 20 and standard deviation is 4, the CV is:",
+      "options": [
+        {
+          "option": "4%"
+        },
+        {
+          "option": "80%"
+        },
+        {
+          "option": "20%",
+          "is_answer": true
+        },
+        {
+          "option": "5%"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is a relative measure of dispersion?",
+      "options": [
+        {
+          "option": "Variance"
+        },
+        {
+          "option": "Standard Deviation"
+        },
+        {
+          "option": "Coefficient of Variation",
+          "is_answer": true
+        },
+        {
+          "option": "Mean Deviation"
+        }
+      ]
+    },
+    {
+      "question": "If all values in a data set are the same, the CV will be:",
+      "options": [
+        {
+          "option": "0%",
+          "is_answer": true
+        },
+        {
+          "option": "50%"
+        },
+        {
+          "option": "Undefined"
+        },
+        {
+          "option": "100%"
+        }
+      ]
+    },
+    {
+      "question": "The Coefficient of Variation is primarily used to compare:",
+      "options": [
+        {
+          "option": "The range of two series"
+        },
+        {
+          "option": "The mean of two series"
+        },
+        {
+          "option": "Consistency of two series",
+          "is_answer": true
+        },
+        {
+          "option": "The sum of two series"
+        }
+      ]
+    },
+    {
+      "question": "If the standard deviation is equal to the mean, the CV is:",
+      "options": [
+        {
+          "option": "0%"
+        },
+        {
+          "option": "100%",
+          "is_answer": true
+        },
+        {
+          "option": "50%"
+        },
+        {
+          "option": "1%"
+        }
+      ]
+    },
+    {
+      "question": "A data set with a CV of 0% is considered:",
+      "options": [
+        {
+          "option": "Perfectly consistent",
+          "is_answer": true
+        },
+        {
+          "option": "Moderately consistent"
+        },
+        {
+          "option": "Unreliable"
+        },
+        {
+          "option": "Highly inconsistent"
+        }
+      ]
+    },
+    {
+      "question": "If every observation in a dataset is increased by 5, what happens to the mean?",
+      "options": [
+        {
+          "option": "It remains unchanged"
+        },
+        {
+          "option": "It decreases by 5"
+        },
+        {
+          "option": "It increases by 25"
+        },
+        {
+          "option": "It increases by 5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If every observation in a dataset is multiplied by 2, what happens to the standard deviation?",
+      "options": [
+        {
+          "option": "It is multiplied by 4"
+        },
+        {
+          "option": "It is divided by 2"
+        },
+        {
+          "option": "It is multiplied by 2",
+          "is_answer": true
+        },
+        {
+          "option": "It remains unchanged"
+        }
+      ]
+    },
+    {
+      "question": "If every observation in a dataset is increased by 10, what happens to the standard deviation?",
+      "options": [
+        {
+          "option": "It increases by 10"
+        },
+        {
+          "option": "It increases by 100"
+        },
+        {
+          "option": "It remains unchanged",
+          "is_answer": true
+        },
+        {
+          "option": "It decreases by 10"
+        }
+      ]
+    },
+    {
+      "question": "If every observation is multiplied by 3, what happens to the mean?",
+      "options": [
+        {
+          "option": "It increases by 3"
+        },
+        {
+          "option": "It is divided by 3"
+        },
+        {
+          "option": "It remains unchanged"
+        },
+        {
+          "option": "It is multiplied by 3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If every observation is multiplied by -2, what happens to the standard deviation?",
+      "options": [
+        {
+          "option": "It remains unchanged"
+        },
+        {
+          "option": "It is multiplied by -2"
+        },
+        {
+          "option": "It is multiplied by 2",
+          "is_answer": true
+        },
+        {
+          "option": "It is divided by 2"
+        }
+      ]
+    },
+    {
+      "question": "If a constant k is added to all observations, the variance:",
+      "options": [
+        {
+          "option": "Increases by k squared"
+        },
+        {
+          "option": "Decreases by k"
+        },
+        {
+          "option": "Increases by k"
+        },
+        {
+          "option": "Remains unchanged",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If all observations are multiplied by k, the variance is multiplied by:",
+      "options": [
+        {
+          "option": "k cubed"
+        },
+        {
+          "option": "k squared",
+          "is_answer": true
+        },
+        {
+          "option": "k"
+        },
+        {
+          "option": "1/k"
+        }
+      ]
+    },
+    {
+      "question": "Which measure of dispersion is affected by a change of origin?",
+      "options": [
+        {
+          "option": "None of these",
+          "is_answer": true
+        },
+        {
+          "option": "Variance"
+        },
+        {
+          "option": "Range"
+        },
+        {
+          "option": "Standard deviation"
+        }
+      ]
+    },
+    {
+      "question": "If the mean of a set of values is 20 and each value is increased by 5, the new mean is:",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "25",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "If the standard deviation of a set is 5 and each value is multiplied by 3, the new standard deviation is:",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The range of a dataset is 10. If each value is increased by 2, the new range is:",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "If all values in a dataset are multiplied by -1, the mean:",
+      "options": [
+        {
+          "option": "Remains the same"
+        },
+        {
+          "option": "Becomes 0"
+        },
+        {
+          "option": "Becomes negative of the original mean",
+          "is_answer": true
+        },
+        {
+          "option": "Increases by 1"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is independent of change of origin?",
+      "options": [
+        {
+          "option": "Median"
+        },
+        {
+          "option": "Mode"
+        },
+        {
+          "option": "Mean"
+        },
+        {
+          "option": "Standard deviation",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If each observation is multiplied by k, the mean is multiplied by:",
+      "options": [
+        {
+          "option": "k squared"
+        },
+        {
+          "option": "1/k"
+        },
+        {
+          "option": "k+1"
+        },
+        {
+          "option": "k",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the variance of a dataset is 16, what is the variance after adding 5 to each observation?",
+      "options": [
+        {
+          "option": "81"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "21"
+        }
+      ]
+    },
+    {
+      "question": "If the mean of a dataset is 50 and each value is divided by 2, the new mean is:",
+      "options": [
+        {
+          "option": "100"
+        },
+        {
+          "option": "25",
+          "is_answer": true
+        },
+        {
+          "option": "50"
+        },
+        {
+          "option": "48"
+        }
+      ]
+    },
+    {
+      "question": "If all observations are multiplied by 4, the standard deviation is multiplied by:",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "Adding a constant to all observations changes the:",
+      "options": [
+        {
+          "option": "Standard deviation"
+        },
+        {
+          "option": "Mean",
+          "is_answer": true
+        },
+        {
+          "option": "Range"
+        },
+        {
+          "option": "Variance"
+        }
+      ]
+    },
+    {
+      "question": "If the variance of x is 9, what is the variance of 2x?",
+      "options": [
+        {
+          "option": "81"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "36",
+          "is_answer": true
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is affected by both change of origin and scale?",
+      "options": [
+        {
+          "option": "Range"
+        },
+        {
+          "option": "Variance"
+        },
+        {
+          "option": "Standard deviation"
+        },
+        {
+          "option": "Mean",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What percentage of data falls below the 60th percentile (P60)?",
+      "options": [
+        {
+          "option": "40%"
+        },
+        {
+          "option": "6%"
+        },
+        {
+          "option": "60%",
+          "is_answer": true
+        },
+        {
+          "option": "10%"
+        }
+      ]
+    },
+    {
+      "question": "Which decile is equivalent to the 50th percentile (P50)?",
+      "options": [
+        {
+          "option": "D8"
+        },
+        {
+          "option": "D2"
+        },
+        {
+          "option": "D5",
+          "is_answer": true
+        },
+        {
+          "option": "D10"
+        }
+      ]
+    },
+    {
+      "question": "How many deciles are there in a data distribution?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "100"
+        }
+      ]
+    },
+    {
+      "question": "The 25th percentile (P25) is also known as:",
+      "options": [
+        {
+          "option": "Median"
+        },
+        {
+          "option": "Second Decile"
+        },
+        {
+          "option": "Third Quartile"
+        },
+        {
+          "option": "First Quartile",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What does the 80th percentile (P80) represent?",
+      "options": [
+        {
+          "option": "The value below which 80% of the data falls",
+          "is_answer": true
+        },
+        {
+          "option": "The 8th decile"
+        },
+        {
+          "option": "The value above which 80% of the data falls"
+        },
+        {
+          "option": "The average of the top 80%"
+        }
+      ]
+    },
+    {
+      "question": "Which percentile is equivalent to the 9th decile (D9)?",
+      "options": [
+        {
+          "option": "P9"
+        },
+        {
+          "option": "P80"
+        },
+        {
+          "option": "P90",
+          "is_answer": true
+        },
+        {
+          "option": "P10"
+        }
+      ]
+    },
+    {
+      "question": "How many percentiles are there in a data distribution?",
+      "options": [
+        {
+          "option": "99",
+          "is_answer": true
+        },
+        {
+          "option": "50"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "The median of a data set is equal to which percentile?",
+      "options": [
+        {
+          "option": "P100"
+        },
+        {
+          "option": "P25"
+        },
+        {
+          "option": "P75"
+        },
+        {
+          "option": "P50",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If a student scores at the 95th percentile, what does it mean?",
+      "options": [
+        {
+          "option": "The student got 95% marks"
+        },
+        {
+          "option": "The student scored better than 95% of the students",
+          "is_answer": true
+        },
+        {
+          "option": "The student is in the bottom 5%"
+        },
+        {
+          "option": "The student scored 95 out of 100"
+        }
+      ]
+    },
+    {
+      "question": "Which decile represents the 30th percentile?",
+      "options": [
+        {
+          "option": "D30"
+        },
+        {
+          "option": "D0.3"
+        },
+        {
+          "option": "D7"
+        },
+        {
+          "option": "D3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Percentiles divide a distribution into how many equal parts?",
+      "options": [
+        {
+          "option": "100",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "Deciles divide a distribution into how many equal parts?",
+      "options": [
+        {
+          "option": "100"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "What is the percentile rank of the median?",
+      "options": [
+        {
+          "option": "75"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "50",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is true regarding deciles?",
+      "options": [
+        {
+          "option": "D1 is the maximum value"
+        },
+        {
+          "option": "D5 is the median",
+          "is_answer": true
+        },
+        {
+          "option": "D10 is the median"
+        },
+        {
+          "option": "D9 is the minimum value"
+        }
+      ]
+    },
+    {
+      "question": "If a data set has 100 values, where is the 10th percentile located?",
+      "options": [
+        {
+          "option": "At the 100th value"
+        },
+        {
+          "option": "At the 1st value"
+        },
+        {
+          "option": "At the 10th value",
+          "is_answer": true
+        },
+        {
+          "option": "At the 50th value"
+        }
+      ]
+    },
+    {
+      "question": "What is the range of values covered by the interquartile range (IQR) in terms of percentiles?",
+      "options": [
+        {
+          "option": "P10 to P90"
+        },
+        {
+          "option": "P50 to P100"
+        },
+        {
+          "option": "P0 to P100"
+        },
+        {
+          "option": "P25 to P75",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which decile corresponds to the 70th percentile?",
+      "options": [
+        {
+          "option": "D7",
+          "is_answer": true
+        },
+        {
+          "option": "D0.7"
+        },
+        {
+          "option": "D3"
+        },
+        {
+          "option": "D70"
+        }
+      ]
+    },
+    {
+      "question": "The 100th percentile (P100) represents:",
+      "options": [
+        {
+          "option": "The minimum value in the data set"
+        },
+        {
+          "option": "The maximum value in the data set",
+          "is_answer": true
+        },
+        {
+          "option": "The median"
+        },
+        {
+          "option": "The average value"
+        }
+      ]
+    },
+    {
+      "question": "If you are at the 20th percentile, what percentage of the data is above you?",
+      "options": [
+        {
+          "option": "20%"
+        },
+        {
+          "option": "50%"
+        },
+        {
+          "option": "80%",
+          "is_answer": true
+        },
+        {
+          "option": "10%"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is NOT a measure of position?",
+      "options": [
+        {
+          "option": "Quartile"
+        },
+        {
+          "option": "Decile"
+        },
+        {
+          "option": "Percentile"
+        },
+        {
+          "option": "Mean",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the kurtosis value of a normal distribution?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "Which term describes a distribution with a kurtosis value of 3?",
+      "options": [
+        {
+          "option": "Hyperkurtic"
+        },
+        {
+          "option": "Mesokurtic",
+          "is_answer": true
+        },
+        {
+          "option": "Platykurtic"
+        },
+        {
+          "option": "Leptokurtic"
+        }
+      ]
+    },
+    {
+      "question": "A distribution with a sharp peak and fat tails is called:",
+      "options": [
+        {
+          "option": "Mesokurtic"
+        },
+        {
+          "option": "Symmetric"
+        },
+        {
+          "option": "Platykurtic"
+        },
+        {
+          "option": "Leptokurtic",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A distribution with a flat peak and thin tails is called:",
+      "options": [
+        {
+          "option": "Platykurtic",
+          "is_answer": true
+        },
+        {
+          "option": "Leptokurtic"
+        },
+        {
+          "option": "Asymmetric"
+        },
+        {
+          "option": "Mesokurtic"
+        }
+      ]
+    },
+    {
+      "question": "If kurtosis is greater than 3, the distribution is:",
+      "options": [
+        {
+          "option": "Normal"
+        },
+        {
+          "option": "Platykurtic"
+        },
+        {
+          "option": "Mesokurtic"
+        },
+        {
+          "option": "Leptokurtic",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If kurtosis is less than 3, the distribution is:",
+      "options": [
+        {
+          "option": "Leptokurtic"
+        },
+        {
+          "option": "Normal"
+        },
+        {
+          "option": "Mesokurtic"
+        },
+        {
+          "option": "Platykurtic",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What does kurtosis primarily measure in a distribution?",
+      "options": [
+        {
+          "option": "Central tendency"
+        },
+        {
+          "option": "Standard deviation"
+        },
+        {
+          "option": "Mean value"
+        },
+        {
+          "option": "Tail heaviness",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which distribution has the thinnest tails?",
+      "options": [
+        {
+          "option": "Mesokurtic"
+        },
+        {
+          "option": "Platykurtic",
+          "is_answer": true
+        },
+        {
+          "option": "Leptokurtic"
+        },
+        {
+          "option": "Normal"
+        }
+      ]
+    },
+    {
+      "question": "Which distribution has the heaviest tails?",
+      "options": [
+        {
+          "option": "Normal"
+        },
+        {
+          "option": "Mesokurtic"
+        },
+        {
+          "option": "Platykurtic"
+        },
+        {
+          "option": "Leptokurtic",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Excess kurtosis is calculated as:",
+      "options": [
+        {
+          "option": "Kurtosis - 3",
+          "is_answer": true
+        },
+        {
+          "option": "Kurtosis + 3"
+        },
+        {
+          "option": "3 - Kurtosis"
+        },
+        {
+          "option": "Kurtosis / 3"
+        }
+      ]
+    },
+    {
+      "question": "What is the excess kurtosis of a normal distribution?",
+      "options": [
+        {
+          "option": "-1"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A leptokurtic distribution has an excess kurtosis that is:",
+      "options": [
+        {
+          "option": "Zero"
+        },
+        {
+          "option": "Undefined"
+        },
+        {
+          "option": "Negative"
+        },
+        {
+          "option": "Positive",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A platykurtic distribution has an excess kurtosis that is:",
+      "options": [
+        {
+          "option": "Undefined"
+        },
+        {
+          "option": "Zero"
+        },
+        {
+          "option": "Negative",
+          "is_answer": true
+        },
+        {
+          "option": "Positive"
+        }
+      ]
+    },
+    {
+      "question": "Kurtosis is a measure of which aspect of a probability distribution?",
+      "options": [
+        {
+          "option": "Shape of tails",
+          "is_answer": true
+        },
+        {
+          "option": "Mean"
+        },
+        {
+          "option": "Median"
+        },
+        {
+          "option": "Mode"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is true for a mesokurtic distribution?",
+      "options": [
+        {
+          "option": "It is normal",
+          "is_answer": true
+        },
+        {
+          "option": "It is peaked"
+        },
+        {
+          "option": "It is flat"
+        },
+        {
+          "option": "It is skewed"
+        }
+      ]
+    },
+    {
+      "question": "The term 'kurtosis' is derived from a Greek word meaning:",
+      "options": [
+        {
+          "option": "Sharp"
+        },
+        {
+          "option": "Flat"
+        },
+        {
+          "option": "Pointed"
+        },
+        {
+          "option": "Curved or bulging",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In a leptokurtic distribution, outliers are:",
+      "options": [
+        {
+          "option": "More frequent",
+          "is_answer": true
+        },
+        {
+          "option": "Less frequent"
+        },
+        {
+          "option": "Equal to normal"
+        },
+        {
+          "option": "Non-existent"
+        }
+      ]
+    },
+    {
+      "question": "In a platykurtic distribution, outliers are:",
+      "options": [
+        {
+          "option": "More frequent"
+        },
+        {
+          "option": "Non-existent"
+        },
+        {
+          "option": "Less frequent",
+          "is_answer": true
+        },
+        {
+          "option": "Equal to normal"
+        }
+      ]
+    },
+    {
+      "question": "Which distribution is often described as having a 'flat top'?",
+      "options": [
+        {
+          "option": "Platykurtic",
+          "is_answer": true
+        },
+        {
+          "option": "Leptokurtic"
+        },
+        {
+          "option": "Normal"
+        },
+        {
+          "option": "Mesokurtic"
+        }
+      ]
+    },
+    {
+      "question": "Kurtosis measures the combined effect of:",
+      "options": [
+        {
+          "option": "Mean and variance"
+        },
+        {
+          "option": "Skewness and mean"
+        },
+        {
+          "option": "Tails and peak",
+          "is_answer": true
+        },
+        {
+          "option": "Median and mode"
+        }
+      ]
+    },
+    {
+      "question": "Which value represents the median in a box and whisker plot?",
+      "options": [
+        {
+          "option": "Q2",
+          "is_answer": true
+        },
+        {
+          "option": "Q3"
+        },
+        {
+          "option": "Q1"
+        },
+        {
+          "option": "Minimum"
+        }
+      ]
+    },
+    {
+      "question": "How is the Interquartile Range (IQR) calculated?",
+      "options": [
+        {
+          "option": "Maximum - Minimum"
+        },
+        {
+          "option": "Q3 - Q1",
+          "is_answer": true
+        },
+        {
+          "option": "Q2 - Q1"
+        },
+        {
+          "option": "Q3 - Q2"
+        }
+      ]
+    },
+    {
+      "question": "What is the upper fence formula for identifying outliers?",
+      "options": [
+        {
+          "option": "Q1 - 1.5 * IQR"
+        },
+        {
+          "option": "Q3 + 1.5 * IQR",
+          "is_answer": true
+        },
+        {
+          "option": "Q3 + 1.5"
+        },
+        {
+          "option": "Maximum + 1.5 * IQR"
+        }
+      ]
+    },
+    {
+      "question": "In a five-number summary, what does the 'Maximum' represent?",
+      "options": [
+        {
+          "option": "The range of the data"
+        },
+        {
+          "option": "The value at the end of the box"
+        },
+        {
+          "option": "The median of the upper half"
+        },
+        {
+          "option": "The largest value in the data set",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What does the box in a box and whisker plot represent?",
+      "options": [
+        {
+          "option": "The outliers only"
+        },
+        {
+          "option": "The mean of the data"
+        },
+        {
+          "option": "The entire range of the data"
+        },
+        {
+          "option": "The middle 50% of the data",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the lower fence formula for identifying outliers?",
+      "options": [
+        {
+          "option": "Q1 - 1.5 * IQR",
+          "is_answer": true
+        },
+        {
+          "option": "Q3 - 1.5 * IQR"
+        },
+        {
+          "option": "Minimum - 1.5 * IQR"
+        },
+        {
+          "option": "Q1 + 1.5 * IQR"
+        }
+      ]
+    },
+    {
+      "question": "Which part of the five-number summary is Q1?",
+      "options": [
+        {
+          "option": "First Quartile",
+          "is_answer": true
+        },
+        {
+          "option": "Median"
+        },
+        {
+          "option": "Minimum"
+        },
+        {
+          "option": "Third Quartile"
+        }
+      ]
+    },
+    {
+      "question": "If the minimum is 5 and the maximum is 25, what is the range?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "What does the length of the whiskers represent?",
+      "options": [
+        {
+          "option": "The median"
+        },
+        {
+          "option": "Data outside the box",
+          "is_answer": true
+        },
+        {
+          "option": "The IQR"
+        },
+        {
+          "option": "The total count of data"
+        }
+      ]
+    },
+    {
+      "question": "Which value is the median of the upper half of the data?",
+      "options": [
+        {
+          "option": "Q2"
+        },
+        {
+          "option": "Q3",
+          "is_answer": true
+        },
+        {
+          "option": "Maximum"
+        },
+        {
+          "option": "Q1"
+        }
+      ]
+    },
+    {
+      "question": "In a box plot, what does a point beyond the fences represent?",
+      "options": [
+        {
+          "option": "An outlier",
+          "is_answer": true
+        },
+        {
+          "option": "The median"
+        },
+        {
+          "option": "The maximum"
+        },
+        {
+          "option": "The minimum"
+        }
+      ]
+    },
+    {
+      "question": "What is the second quartile (Q2) also known as?",
+      "options": [
+        {
+          "option": "Range"
+        },
+        {
+          "option": "Median",
+          "is_answer": true
+        },
+        {
+          "option": "Mean"
+        },
+        {
+          "option": "Mode"
+        }
+      ]
+    },
+    {
+      "question": "If Q1=10 and Q3=20, what is the IQR?",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is NOT part of the five-number summary?",
+      "options": [
+        {
+          "option": "Maximum"
+        },
+        {
+          "option": "Minimum"
+        },
+        {
+          "option": "Median"
+        },
+        {
+          "option": "Mean",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The median divides the data into how many equal parts?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of the first quartile (Q1)?",
+      "options": [
+        {
+          "option": "Median of the lower half",
+          "is_answer": true
+        },
+        {
+          "option": "Median of the whole data"
+        },
+        {
+          "option": "The minimum value"
+        },
+        {
+          "option": "Median of the upper half"
+        }
+      ]
+    },
+    {
+      "question": "If IQR is 8, what is the outlier threshold multiplier?",
+      "options": [
+        {
+          "option": "2.0"
+        },
+        {
+          "option": "1.0"
+        },
+        {
+          "option": "1.5",
+          "is_answer": true
+        },
+        {
+          "option": "0.5"
+        }
+      ]
+    },
+    {
+      "question": "Which measure is used to define the boundaries of the box?",
+      "options": [
+        {
+          "option": "Minimum and Maximum"
+        },
+        {
+          "option": "Q1 and Median"
+        },
+        {
+          "option": "Q1 and Q3",
+          "is_answer": true
+        },
+        {
+          "option": "Median and Mean"
+        }
+      ]
+    },
+    {
+      "question": "What is the range of the entire data set?",
+      "options": [
+        {
+          "option": "Q3 - Q1"
+        },
+        {
+          "option": "Maximum - Minimum",
+          "is_answer": true
+        },
+        {
+          "option": "Maximum + Minimum"
+        },
+        {
+          "option": "Q3 + Q1"
+        }
+      ]
+    },
+    {
+      "question": "If a data set has 100 values, where is the median located?",
+      "options": [
+        {
+          "option": "Between the 50th and 51st value",
+          "is_answer": true
+        },
+        {
+          "option": "At the 25th value"
+        },
+        {
+          "option": "At the 100th value"
+        },
+        {
+          "option": "At the 50th value"
+        }
+      ]
+    },
+    {
+      "question": "In a perfectly symmetric distribution, which of the following is true?",
+      "options": [
+        {
+          "option": "Mean > Median > Mode"
+        },
+        {
+          "option": "Mean < Median < Mode"
+        },
+        {
+          "option": "Mean = Median = Mode",
+          "is_answer": true
+        },
+        {
+          "option": "Mean = Median < Mode"
+        }
+      ]
+    },
+    {
+      "question": "In a positively skewed distribution, which relationship holds?",
+      "options": [
+        {
+          "option": "Mode > Median > Mean"
+        },
+        {
+          "option": "Mean = Median = Mode"
+        },
+        {
+          "option": "Mean > Median > Mode",
+          "is_answer": true
+        },
+        {
+          "option": "Mean < Median < Mode"
+        }
+      ]
+    },
+    {
+      "question": "In a negatively skewed distribution, which relationship holds?",
+      "options": [
+        {
+          "option": "Mean = Median = Mode"
+        },
+        {
+          "option": "Mode < Median < Mean"
+        },
+        {
+          "option": "Mean < Median < Mode",
+          "is_answer": true
+        },
+        {
+          "option": "Mean > Median > Mode"
+        }
+      ]
+    },
+    {
+      "question": "What is the shape of a distribution where the mean is equal to the median?",
+      "options": [
+        {
+          "option": "Bimodal"
+        },
+        {
+          "option": "Positively skewed"
+        },
+        {
+          "option": "Negatively skewed"
+        },
+        {
+          "option": "Symmetric",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the tail of the distribution extends towards the right, the skewness is:",
+      "options": [
+        {
+          "option": "Zero"
+        },
+        {
+          "option": "Undefined"
+        },
+        {
+          "option": "Positive",
+          "is_answer": true
+        },
+        {
+          "option": "Negative"
+        }
+      ]
+    },
+    {
+      "question": "If the tail of the distribution extends towards the left, the skewness is:",
+      "options": [
+        {
+          "option": "Zero"
+        },
+        {
+          "option": "Positive"
+        },
+        {
+          "option": "Negative",
+          "is_answer": true
+        },
+        {
+          "option": "Undefined"
+        }
+      ]
+    },
+    {
+      "question": "In a positively skewed distribution, the mode is usually:",
+      "options": [
+        {
+          "option": "Less than the mean",
+          "is_answer": true
+        },
+        {
+          "option": "Equal to the mean"
+        },
+        {
+          "option": "Greater than the mean"
+        },
+        {
+          "option": "Equal to the median"
+        }
+      ]
+    },
+    {
+      "question": "In a negatively skewed distribution, the mode is usually:",
+      "options": [
+        {
+          "option": "Equal to the median"
+        },
+        {
+          "option": "Less than the mean"
+        },
+        {
+          "option": "Greater than the mean",
+          "is_answer": true
+        },
+        {
+          "option": "Equal to the mean"
+        }
+      ]
+    },
+    {
+      "question": "Which measure is most affected by outliers in a skewed distribution?",
+      "options": [
+        {
+          "option": "Mode"
+        },
+        {
+          "option": "Median"
+        },
+        {
+          "option": "Mean",
+          "is_answer": true
+        },
+        {
+          "option": "Range"
+        }
+      ]
+    },
+    {
+      "question": "For a symmetric distribution, the skewness value is:",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "If Mean < Median, the distribution is likely:",
+      "options": [
+        {
+          "option": "Symmetric"
+        },
+        {
+          "option": "Normal"
+        },
+        {
+          "option": "Positively skewed"
+        },
+        {
+          "option": "Negatively skewed",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If Mean > Median, the distribution is likely:",
+      "options": [
+        {
+          "option": "Negatively skewed"
+        },
+        {
+          "option": "Positively skewed",
+          "is_answer": true
+        },
+        {
+          "option": "Symmetric"
+        },
+        {
+          "option": "Normal"
+        }
+      ]
+    },
+    {
+      "question": "In a perfectly symmetric distribution, the mean is:",
+      "options": [
+        {
+          "option": "Twice the median"
+        },
+        {
+          "option": "Less than the median"
+        },
+        {
+          "option": "Equal to the median",
+          "is_answer": true
+        },
+        {
+          "option": "Greater than the median"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following describes a negatively skewed distribution?",
+      "options": [
+        {
+          "option": "Long tail on the right"
+        },
+        {
+          "option": "Equal tails on both sides"
+        },
+        {
+          "option": "No tail"
+        },
+        {
+          "option": "Long tail on the left",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of the following describes a positively skewed distribution?",
+      "options": [
+        {
+          "option": "Long tail on the right",
+          "is_answer": true
+        },
+        {
+          "option": "Equal tails on both sides"
+        },
+        {
+          "option": "Long tail on the left"
+        },
+        {
+          "option": "No tail"
+        }
+      ]
+    },
+    {
+      "question": "In a symmetric distribution, the mode is:",
+      "options": [
+        {
+          "option": "Not related to the mean"
+        },
+        {
+          "option": "Equal to the mean",
+          "is_answer": true
+        },
+        {
+          "option": "Less than the mean"
+        },
+        {
+          "option": "Greater than the mean"
+        }
+      ]
+    },
+    {
+      "question": "Skewness measures the degree of:",
+      "options": [
+        {
+          "option": "Dispersion"
+        },
+        {
+          "option": "Central tendency"
+        },
+        {
+          "option": "Asymmetry",
+          "is_answer": true
+        },
+        {
+          "option": "Symmetry"
+        }
+      ]
+    },
+    {
+      "question": "If a distribution has a long tail to the right, the mean is usually:",
+      "options": [
+        {
+          "option": "Greater than the median",
+          "is_answer": true
+        },
+        {
+          "option": "Zero"
+        },
+        {
+          "option": "Less than the median"
+        },
+        {
+          "option": "Equal to the median"
+        }
+      ]
+    },
+    {
+      "question": "If a distribution has a long tail to the left, the mean is usually:",
+      "options": [
+        {
+          "option": "Greater than the median"
+        },
+        {
+          "option": "Zero"
+        },
+        {
+          "option": "Equal to the median"
+        },
+        {
+          "option": "Less than the median",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is true for a normal distribution?",
+      "options": [
+        {
+          "option": "Positively skewed"
+        },
+        {
+          "option": "Negatively skewed"
+        },
+        {
+          "option": "Highly skewed"
+        },
+        {
+          "option": "Symmetric",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the range of the Karl Pearson correlation coefficient (r)?",
+      "options": [
+        {
+          "option": "-1 to +1",
+          "is_answer": true
+        },
+        {
+          "option": "-infinity to +infinity"
+        },
+        {
+          "option": "0 to 1"
+        },
+        {
+          "option": "0 to 100"
+        }
+      ]
+    },
+    {
+      "question": "If r = +1, what type of correlation exists between the variables?",
+      "options": [
+        {
+          "option": "Moderate positive correlation"
+        },
+        {
+          "option": "No correlation"
+        },
+        {
+          "option": "Perfect negative correlation"
+        },
+        {
+          "option": "Perfect positive correlation",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What does a correlation coefficient of 0 indicate?",
+      "options": [
+        {
+          "option": "Perfect negative correlation"
+        },
+        {
+          "option": "No linear correlation",
+          "is_answer": true
+        },
+        {
+          "option": "Perfect positive correlation"
+        },
+        {
+          "option": "Strong negative correlation"
+        }
+      ]
+    },
+    {
+      "question": "Which formula correctly represents Karl Pearson's r?",
+      "options": [
+        {
+          "option": "Cov(X,Y) * (σX * σY)"
+        },
+        {
+          "option": "σX * σY / Cov(X,Y)"
+        },
+        {
+          "option": "Cov(X,Y) / (σX + σY)"
+        },
+        {
+          "option": "Cov(X,Y) / (σX * σY)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If r = -1, what is the nature of the relationship?",
+      "options": [
+        {
+          "option": "No correlation"
+        },
+        {
+          "option": "Weak negative correlation"
+        },
+        {
+          "option": "Perfect positive correlation"
+        },
+        {
+          "option": "Perfect negative correlation",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The correlation coefficient is independent of which of the following?",
+      "options": [
+        {
+          "option": "Change of origin and scale",
+          "is_answer": true
+        },
+        {
+          "option": "None of the above"
+        },
+        {
+          "option": "Change of scale only"
+        },
+        {
+          "option": "Change of origin only"
+        }
+      ]
+    },
+    {
+      "question": "If r is positive, as X increases, what happens to Y?",
+      "options": [
+        {
+          "option": "Y remains constant"
+        },
+        {
+          "option": "Y becomes zero"
+        },
+        {
+          "option": "Y tends to decrease"
+        },
+        {
+          "option": "Y tends to increase",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of r if the variables are perfectly inversely related?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "+1"
+        },
+        {
+          "option": "0.5"
+        }
+      ]
+    },
+    {
+      "question": "Karl Pearson's correlation coefficient is also known as?",
+      "options": [
+        {
+          "option": "Rank correlation"
+        },
+        {
+          "option": "Multiple correlation"
+        },
+        {
+          "option": "Partial correlation"
+        },
+        {
+          "option": "Product-moment correlation",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If r = 0.8, how would you describe the correlation?",
+      "options": [
+        {
+          "option": "Strong negative"
+        },
+        {
+          "option": "Weak positive"
+        },
+        {
+          "option": "No correlation"
+        },
+        {
+          "option": "Strong positive",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of the following values is impossible for r?",
+      "options": [
+        {
+          "option": "-0.5"
+        },
+        {
+          "option": "0.9"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1.5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If r = -0.2, how would you describe the correlation?",
+      "options": [
+        {
+          "option": "Strong negative"
+        },
+        {
+          "option": "Weak positive"
+        },
+        {
+          "option": "Strong positive"
+        },
+        {
+          "option": "Weak negative",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What does a negative r value imply?",
+      "options": [
+        {
+          "option": "Perfect relationship"
+        },
+        {
+          "option": "No relationship"
+        },
+        {
+          "option": "Inverse relationship",
+          "is_answer": true
+        },
+        {
+          "option": "Direct relationship"
+        }
+      ]
+    },
+    {
+      "question": "The correlation coefficient measures the strength of what?",
+      "options": [
+        {
+          "option": "Non-linear relationship"
+        },
+        {
+          "option": "Linear relationship",
+          "is_answer": true
+        },
+        {
+          "option": "Variance"
+        },
+        {
+          "option": "Causal relationship"
+        }
+      ]
+    },
+    {
+      "question": "If all points on a scatter diagram lie on a straight line, r is?",
+      "options": [
+        {
+          "option": "Between 0 and 1"
+        },
+        {
+          "option": "+1 or -1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "0.5"
+        }
+      ]
+    },
+    {
+      "question": "What is the square of the correlation coefficient (r^2) called?",
+      "options": [
+        {
+          "option": "Coefficient of variation"
+        },
+        {
+          "option": "Standard error"
+        },
+        {
+          "option": "Coefficient of determination",
+          "is_answer": true
+        },
+        {
+          "option": "Covariance"
+        }
+      ]
+    },
+    {
+      "question": "If r = 0, the variables are said to be?",
+      "options": [
+        {
+          "option": "Uncorrelated",
+          "is_answer": true
+        },
+        {
+          "option": "Perfectly correlated"
+        },
+        {
+          "option": "Negatively correlated"
+        },
+        {
+          "option": "Positively correlated"
+        }
+      ]
+    },
+    {
+      "question": "Correlation coefficient is a measure of?",
+      "options": [
+        {
+          "option": "Probability"
+        },
+        {
+          "option": "Linear association",
+          "is_answer": true
+        },
+        {
+          "option": "Total sum"
+        },
+        {
+          "option": "Average value"
+        }
+      ]
+    },
+    {
+      "question": "If r = 0.5, the correlation is?",
+      "options": [
+        {
+          "option": "Moderate positive",
+          "is_answer": true
+        },
+        {
+          "option": "Weak positive"
+        },
+        {
+          "option": "Strong positive"
+        },
+        {
+          "option": "Perfect positive"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a property of the correlation coefficient?",
+      "options": [
+        {
+          "option": "It is a unitless measure",
+          "is_answer": true
+        },
+        {
+          "option": "It is always greater than 1"
+        },
+        {
+          "option": "It depends on units of measurement"
+        },
+        {
+          "option": "It is always positive"
+        }
+      ]
+    },
+    {
+      "question": "What is the range of Spearman's rank correlation coefficient?",
+      "options": [
+        {
+          "option": "-infinity to +infinity"
+        },
+        {
+          "option": "-1 to +1",
+          "is_answer": true
+        },
+        {
+          "option": "0 to 100"
+        },
+        {
+          "option": "0 to 1"
+        }
+      ]
+    },
+    {
+      "question": "In the formula for Spearman's rho, what does 'd' represent?",
+      "options": [
+        {
+          "option": "Difference between ranks",
+          "is_answer": true
+        },
+        {
+          "option": "Number of observations"
+        },
+        {
+          "option": "Sum of ranks"
+        },
+        {
+          "option": "Standard deviation"
+        }
+      ]
+    },
+    {
+      "question": "If all ranks are identical for two variables, what is the value of Spearman's rho?",
+      "options": [
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of Spearman's rho if there is perfect negative correlation?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "-0.5"
+        }
+      ]
+    },
+    {
+      "question": "What is the multiplier in the numerator of the Spearman's rank correlation formula?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "Spearman's rank correlation is a type of which statistical measure?",
+      "options": [
+        {
+          "option": "Descriptive"
+        },
+        {
+          "option": "Inferential"
+        },
+        {
+          "option": "Non-parametric",
+          "is_answer": true
+        },
+        {
+          "option": "Parametric"
+        }
+      ]
+    },
+    {
+      "question": "What does 'n' represent in the Spearman's rank correlation formula?",
+      "options": [
+        {
+          "option": "Number of pairs of observations",
+          "is_answer": true
+        },
+        {
+          "option": "Rank difference"
+        },
+        {
+          "option": "Mean of ranks"
+        },
+        {
+          "option": "Sum of squares"
+        }
+      ]
+    },
+    {
+      "question": "If there is no correlation between two variables, what will be the Spearman's correlation coefficient?",
+      "options": [
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "Spearman's rank correlation is based on:",
+      "options": [
+        {
+          "option": "Ranks of data",
+          "is_answer": true
+        },
+        {
+          "option": "Variance of data"
+        },
+        {
+          "option": "Mean of data"
+        },
+        {
+          "option": "Actual values of data"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is the correct formula for Spearman's rho?",
+      "options": [
+        {
+          "option": "1 - (6 * Σd^2) / (n * (n^2 - 1))",
+          "is_answer": true
+        },
+        {
+          "option": "1 - (Σd^2) / (n * (n^2 - 1))"
+        },
+        {
+          "option": "6 * Σd^2 / (n * (n^2 - 1))"
+        },
+        {
+          "option": "1 + (6 * Σd^2) / (n * (n^2 - 1))"
+        }
+      ]
+    },
+    {
+      "question": "Spearman's rank correlation is also known as:",
+      "options": [
+        {
+          "option": "Rank correlation coefficient",
+          "is_answer": true
+        },
+        {
+          "option": "Linear regression"
+        },
+        {
+          "option": "Pearson correlation"
+        },
+        {
+          "option": "Standard error"
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of differences of ranks (Σd) in a set of data?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "n^2"
+        },
+        {
+          "option": "n"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Spearman's rank correlation is useful when data is:",
+      "options": [
+        {
+          "option": "Ordinal",
+          "is_answer": true
+        },
+        {
+          "option": "Nominal"
+        },
+        {
+          "option": "Interval"
+        },
+        {
+          "option": "Ratio"
+        }
+      ]
+    },
+    {
+      "question": "If the value of Spearman's rho is 0.8, the correlation is:",
+      "options": [
+        {
+          "option": "Strong positive",
+          "is_answer": true
+        },
+        {
+          "option": "Weak positive"
+        },
+        {
+          "option": "Strong negative"
+        },
+        {
+          "option": "No correlation"
+        }
+      ]
+    },
+    {
+      "question": "What happens to the value of Spearman's rho as the sum of squared differences (Σd^2) increases?",
+      "options": [
+        {
+          "option": "Remains constant"
+        },
+        {
+          "option": "Increases"
+        },
+        {
+          "option": "Becomes zero"
+        },
+        {
+          "option": "Decreases",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Spearman's rank correlation is preferred over Pearson's when:",
+      "options": [
+        {
+          "option": "Data has outliers",
+          "is_answer": true
+        },
+        {
+          "option": "Data is normally distributed"
+        },
+        {
+          "option": "Data is linear"
+        },
+        {
+          "option": "Sample size is very large"
+        }
+      ]
+    },
+    {
+      "question": "If n=5, what is the value of n(n^2 - 1)?",
+      "options": [
+        {
+          "option": "125"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "120",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Spearman's rank correlation coefficient was developed by:",
+      "options": [
+        {
+          "option": "Karl Pearson"
+        },
+        {
+          "option": "Ronald Fisher"
+        },
+        {
+          "option": "Francis Galton"
+        },
+        {
+          "option": "Charles Spearman",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Can Spearman's rank correlation be used for non-linear relationships?",
+      "options": [
+        {
+          "option": "Yes",
+          "is_answer": true
+        },
+        {
+          "option": "Only for constant"
+        },
+        {
+          "option": "Only for linear"
+        },
+        {
+          "option": "No"
+        }
+      ]
+    },
+    {
+      "question": "If the ranks are 1, 2, 3 and 3, 2, 1, what is Σd^2?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "What is the relationship between the correlation coefficient (r) and the regression coefficients (b_yx and b_xy)?",
+      "options": [
+        {
+          "option": "r = b_yx * b_xy"
+        },
+        {
+          "option": "r = (b_yx + b_xy) / 2"
+        },
+        {
+          "option": "r = ±√(b_yx * b_xy)",
+          "is_answer": true
+        },
+        {
+          "option": "r = b_yx / b_xy"
+        }
+      ]
+    },
+    {
+      "question": "If both regression coefficients are negative, what will be the sign of the correlation coefficient?",
+      "options": [
+        {
+          "option": "Positive"
+        },
+        {
+          "option": "Zero"
+        },
+        {
+          "option": "Undefined"
+        },
+        {
+          "option": "Negative",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If b_yx = 0.8 and b_xy = 0.2, what is the value of r?",
+      "options": [
+        {
+          "option": "0.16"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "1.0"
+        },
+        {
+          "option": "0.4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Can the product of two regression coefficients be greater than 1?",
+      "options": [
+        {
+          "option": "No",
+          "is_answer": true
+        },
+        {
+          "option": "Only if negative"
+        },
+        {
+          "option": "Yes"
+        },
+        {
+          "option": "Only if zero"
+        }
+      ]
+    },
+    {
+      "question": "If one regression coefficient is greater than 1, the other must be:",
+      "options": [
+        {
+          "option": "Greater than 1"
+        },
+        {
+          "option": "Less than 1",
+          "is_answer": true
+        },
+        {
+          "option": "Negative"
+        },
+        {
+          "option": "Equal to 1"
+        }
+      ]
+    },
+    {
+      "question": "The arithmetic mean of the regression coefficients is always:",
+      "options": [
+        {
+          "option": "Less than r"
+        },
+        {
+          "option": "Greater than or equal to r",
+          "is_answer": true
+        },
+        {
+          "option": "Independent of r"
+        },
+        {
+          "option": "Equal to r"
+        }
+      ]
+    },
+    {
+      "question": "If b_yx = -0.5 and b_xy = -0.8, what is the value of r?",
+      "options": [
+        {
+          "option": "0.632"
+        },
+        {
+          "option": "0.4"
+        },
+        {
+          "option": "-0.4"
+        },
+        {
+          "option": "-0.632",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Regression coefficients are independent of:",
+      "options": [
+        {
+          "option": "Change of origin",
+          "is_answer": true
+        },
+        {
+          "option": "Change of scale"
+        },
+        {
+          "option": "None of these"
+        },
+        {
+          "option": "Both origin and scale"
+        }
+      ]
+    },
+    {
+      "question": "If b_yx = 1.2 and b_xy = 0.9, is this possible?",
+      "options": [
+        {
+          "option": "Yes"
+        },
+        {
+          "option": "Only if r is negative"
+        },
+        {
+          "option": "No",
+          "is_answer": true
+        },
+        {
+          "option": "Only if r is zero"
+        }
+      ]
+    },
+    {
+      "question": "The sign of the correlation coefficient is determined by:",
+      "options": [
+        {
+          "option": "The variance of the variables"
+        },
+        {
+          "option": "The mean of the variables"
+        },
+        {
+          "option": "The sign of the regression coefficients",
+          "is_answer": true
+        },
+        {
+          "option": "The magnitude of the regression coefficients"
+        }
+      ]
+    },
+    {
+      "question": "If b_yx = 0, then r is equal to:",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "Undefined"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "The regression coefficients b_yx and b_xy must have:",
+      "options": [
+        {
+          "option": "The same sign",
+          "is_answer": true
+        },
+        {
+          "option": "Negative signs only"
+        },
+        {
+          "option": "Different signs"
+        },
+        {
+          "option": "Positive signs only"
+        }
+      ]
+    },
+    {
+      "question": "If b_yx = 2 and b_xy = 0.5, then r is:",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "The value of r lies between:",
+      "options": [
+        {
+          "option": "-1 and 0"
+        },
+        {
+          "option": "0 and 1"
+        },
+        {
+          "option": "-1 and 1",
+          "is_answer": true
+        },
+        {
+          "option": "0 and infinity"
+        }
+      ]
+    },
+    {
+      "question": "If b_yx = -1.5 and b_xy = -0.5, is this valid?",
+      "options": [
+        {
+          "option": "No"
+        },
+        {
+          "option": "Only if r is 1"
+        },
+        {
+          "option": "Only if r is positive"
+        },
+        {
+          "option": "Yes",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If both regression coefficients are 1, then r is:",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "The product of regression coefficients b_yx * b_xy is equal to:",
+      "options": [
+        {
+          "option": "√r"
+        },
+        {
+          "option": "1/r"
+        },
+        {
+          "option": "r²",
+          "is_answer": true
+        },
+        {
+          "option": "r"
+        }
+      ]
+    },
+    {
+      "question": "If r = 0, then the regression coefficients are:",
+      "options": [
+        {
+          "option": "Both 1"
+        },
+        {
+          "option": "Both 0",
+          "is_answer": true
+        },
+        {
+          "option": "Both -1"
+        },
+        {
+          "option": "Undefined"
+        }
+      ]
+    },
+    {
+      "question": "Regression coefficients are affected by:",
+      "options": [
+        {
+          "option": "None of these"
+        },
+        {
+          "option": "Change of scale",
+          "is_answer": true
+        },
+        {
+          "option": "Neither origin nor scale"
+        },
+        {
+          "option": "Change of origin"
+        }
+      ]
+    },
+    {
+      "question": "If b_yx = 0.5 and b_xy = 0.5, then r is:",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0.5",
+          "is_answer": true
+        },
+        {
+          "option": "0.25"
+        }
+      ]
+    },
+    {
+      "question": "What is the formula for the regression coefficient b_yx?",
+      "options": [
+        {
+          "option": "r / (sigma_Y * sigma_X)"
+        },
+        {
+          "option": "r * (sigma_Y / sigma_X)",
+          "is_answer": true
+        },
+        {
+          "option": "r * (sigma_X / sigma_Y)"
+        },
+        {
+          "option": "r^2 * (sigma_Y / sigma_X)"
+        }
+      ]
+    },
+    {
+      "question": "Which point does the line of best fit always pass through?",
+      "options": [
+        {
+          "option": "(1, 1)"
+        },
+        {
+          "option": "(sigma_X, sigma_Y)"
+        },
+        {
+          "option": "(X_bar, Y_bar)",
+          "is_answer": true
+        },
+        {
+          "option": "(0, 0)"
+        }
+      ]
+    },
+    {
+      "question": "If r = 0, what is the slope of the regression line of Y on X?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "Infinity"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "Undefined"
+        }
+      ]
+    },
+    {
+      "question": "What does the regression coefficient b_yx represent?",
+      "options": [
+        {
+          "option": "The mean of Y"
+        },
+        {
+          "option": "The y-intercept"
+        },
+        {
+          "option": "The slope of the line",
+          "is_answer": true
+        },
+        {
+          "option": "The correlation coefficient"
+        }
+      ]
+    },
+    {
+      "question": "If sigma_X = sigma_Y, then b_yx is equal to:",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "r",
+          "is_answer": true
+        },
+        {
+          "option": "r^2"
+        },
+        {
+          "option": "1/r"
+        }
+      ]
+    },
+    {
+      "question": "The regression line of Y on X minimizes the sum of squares of:",
+      "options": [
+        {
+          "option": "Vertical deviations",
+          "is_answer": true
+        },
+        {
+          "option": "Perpendicular distances"
+        },
+        {
+          "option": "Product of deviations"
+        },
+        {
+          "option": "Horizontal deviations"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of b_yx if the correlation is perfect positive?",
+      "options": [
+        {
+          "option": "sigma_Y / sigma_X",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "sigma_X / sigma_Y"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "The regression coefficient b_yx is independent of:",
+      "options": [
+        {
+          "option": "Change of scale"
+        },
+        {
+          "option": "Standard deviation"
+        },
+        {
+          "option": "Correlation"
+        },
+        {
+          "option": "Change of origin",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If b_yx is negative, then r must be:",
+      "options": [
+        {
+          "option": "One"
+        },
+        {
+          "option": "Zero"
+        },
+        {
+          "option": "Negative",
+          "is_answer": true
+        },
+        {
+          "option": "Positive"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is true for regression lines?",
+      "options": [
+        {
+          "option": "They are always parallel"
+        },
+        {
+          "option": "They are always perpendicular"
+        },
+        {
+          "option": "They intersect at (X_bar, Y_bar)",
+          "is_answer": true
+        },
+        {
+          "option": "They never intersect"
+        }
+      ]
+    },
+    {
+      "question": "The regression equation of Y on X is given by:",
+      "options": [
+        {
+          "option": "Y - Y_bar = b_yx(X - X_bar)",
+          "is_answer": true
+        },
+        {
+          "option": "Y = a + bX"
+        },
+        {
+          "option": "Y_bar = a + bX_bar"
+        },
+        {
+          "option": "X - X_bar = b_yx(Y - Y_bar)"
+        }
+      ]
+    },
+    {
+      "question": "If b_yx = 0.8 and b_xy = 0.2, what is the correlation coefficient r?",
+      "options": [
+        {
+          "option": "1.0"
+        },
+        {
+          "option": "0.4",
+          "is_answer": true
+        },
+        {
+          "option": "0.16"
+        },
+        {
+          "option": "0.5"
+        }
+      ]
+    },
+    {
+      "question": "The regression coefficient b_yx is also known as:",
+      "options": [
+        {
+          "option": "Slope of regression line",
+          "is_answer": true
+        },
+        {
+          "option": "Intercept"
+        },
+        {
+          "option": "Variance"
+        },
+        {
+          "option": "Correlation"
+        }
+      ]
+    },
+    {
+      "question": "If the regression line is horizontal, the slope b_yx is:",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "Negative"
+        },
+        {
+          "option": "Undefined"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The value of r^2 is always:",
+      "options": [
+        {
+          "option": "Negative"
+        },
+        {
+          "option": "Between -1 and 1"
+        },
+        {
+          "option": "Greater than 1"
+        },
+        {
+          "option": "Between 0 and 1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If b_yx = 1.5, it means for every unit increase in X, Y increases by:",
+      "options": [
+        {
+          "option": "1.5 units",
+          "is_answer": true
+        },
+        {
+          "option": "0.5 units"
+        },
+        {
+          "option": "2.5 units"
+        },
+        {
+          "option": "1 unit"
+        }
+      ]
+    },
+    {
+      "question": "The regression coefficient is affected by:",
+      "options": [
+        {
+          "option": "Change of scale",
+          "is_answer": true
+        },
+        {
+          "option": "Change of origin"
+        },
+        {
+          "option": "Both"
+        },
+        {
+          "option": "Neither"
+        }
+      ]
+    },
+    {
+      "question": "What is the relationship between b_yx and b_xy?",
+      "options": [
+        {
+          "option": "b_yx / b_xy = r"
+        },
+        {
+          "option": "b_yx + b_xy = r"
+        },
+        {
+          "option": "b_yx * b_xy = r^2",
+          "is_answer": true
+        },
+        {
+          "option": "b_yx * b_xy = r"
+        }
+      ]
+    },
+    {
+      "question": "If r = 1, the regression lines:",
+      "options": [
+        {
+          "option": "Are parallel"
+        },
+        {
+          "option": "Are perpendicular"
+        },
+        {
+          "option": "Do not exist"
+        },
+        {
+          "option": "Coincide",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The regression coefficient b_yx is defined as:",
+      "options": [
+        {
+          "option": "Cov(X,Y) / Var(X)",
+          "is_answer": true
+        },
+        {
+          "option": "Var(Y) / Cov(X,Y)"
+        },
+        {
+          "option": "Var(X) / Cov(X,Y)"
+        },
+        {
+          "option": "Cov(X,Y) / Var(Y)"
+        }
+      ]
+    },
+    {
+      "question": "What is the mean of the standard normal distribution?",
+      "options": [
+        {
+          "option": "-1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "What is the variance of the standard normal distribution?",
+      "options": [
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "What is the standard deviation of the standard normal distribution?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0.5"
+        }
+      ]
+    },
+    {
+      "question": "If X = 10, mu = 10, and sigma = 2, what is the Z-score?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "What does a Z-score of 0 represent?",
+      "options": [
+        {
+          "option": "The variance"
+        },
+        {
+          "option": "The mean",
+          "is_answer": true
+        },
+        {
+          "option": "The standard deviation"
+        },
+        {
+          "option": "The median is 1"
+        }
+      ]
+    },
+    {
+      "question": "The total area under the standard normal curve is equal to:",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "0.5"
+        }
+      ]
+    },
+    {
+      "question": "If a Z-score is negative, the value X is:",
+      "options": [
+        {
+          "option": "Equal to the variance"
+        },
+        {
+          "option": "Equal to the mean"
+        },
+        {
+          "option": "Greater than the mean"
+        },
+        {
+          "option": "Less than the mean",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is the formula for a Z-score?",
+      "options": [
+        {
+          "option": "Z = (X - mu) / sigma",
+          "is_answer": true
+        },
+        {
+          "option": "Z = (X + mu) / sigma"
+        },
+        {
+          "option": "Z = X / sigma"
+        },
+        {
+          "option": "Z = (mu - X) / sigma"
+        }
+      ]
+    },
+    {
+      "question": "What is the shape of the standard normal distribution curve?",
+      "options": [
+        {
+          "option": "U-shaped"
+        },
+        {
+          "option": "Linear"
+        },
+        {
+          "option": "Exponential"
+        },
+        {
+          "option": "Bell-shaped",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In a standard normal distribution, what percentage of data falls within 1 standard deviation of the mean?",
+      "options": [
+        {
+          "option": "50%"
+        },
+        {
+          "option": "99.7%"
+        },
+        {
+          "option": "68%",
+          "is_answer": true
+        },
+        {
+          "option": "95%"
+        }
+      ]
+    },
+    {
+      "question": "What is the Z-score if X = 12, mu = 10, and sigma = 2?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "The standard normal distribution is symmetric about:",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "mu"
+        },
+        {
+          "option": "sigma"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What happens to the Z-score as X increases?",
+      "options": [
+        {
+          "option": "It increases",
+          "is_answer": true
+        },
+        {
+          "option": "It becomes zero"
+        },
+        {
+          "option": "It decreases"
+        },
+        {
+          "option": "It stays the same"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of Z being exactly 0 in a continuous distribution?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "0.95"
+        },
+        {
+          "option": "0.5"
+        }
+      ]
+    },
+    {
+      "question": "Which rule describes the percentage of data within 1, 2, and 3 standard deviations?",
+      "options": [
+        {
+          "option": "Empirical Rule",
+          "is_answer": true
+        },
+        {
+          "option": "Central Limit Theorem"
+        },
+        {
+          "option": "Law of Large Numbers"
+        },
+        {
+          "option": "Bayes' Theorem"
+        }
+      ]
+    },
+    {
+      "question": "If Z = 2, what does this mean?",
+      "options": [
+        {
+          "option": "X is 2 standard deviations below the mean"
+        },
+        {
+          "option": "X is 2 times the mean"
+        },
+        {
+          "option": "X is 2 standard deviations above the mean",
+          "is_answer": true
+        },
+        {
+          "option": "X is 2 units above the mean"
+        }
+      ]
+    },
+    {
+      "question": "What is the median of the standard normal distribution?",
+      "options": [
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "If X = 8, mu = 10, and sigma = 2, what is the Z-score?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "-2"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "The standard normal distribution is also known as:",
+      "options": [
+        {
+          "option": "F-distribution"
+        },
+        {
+          "option": "Z-distribution",
+          "is_answer": true
+        },
+        {
+          "option": "Chi-square distribution"
+        },
+        {
+          "option": "T-distribution"
+        }
+      ]
+    },
+    {
+      "question": "What is the mode of the standard normal distribution?",
+      "options": [
+        {
+          "option": "None"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0.5"
+        }
+      ]
+    },
+    {
+      "question": "What does the intersection point of a 'less-than' ogive and a 'more-than' ogive represent?",
+      "options": [
+        {
+          "option": "Mode"
+        },
+        {
+          "option": "Median",
+          "is_answer": true
+        },
+        {
+          "option": "Mean"
+        },
+        {
+          "option": "Range"
+        }
+      ]
+    },
+    {
+      "question": "Which axis is used to plot the cumulative frequencies in an ogive?",
+      "options": [
+        {
+          "option": "Y-axis",
+          "is_answer": true
+        },
+        {
+          "option": "Origin"
+        },
+        {
+          "option": "Z-axis"
+        },
+        {
+          "option": "X-axis"
+        }
+      ]
+    },
+    {
+      "question": "What is the shape of a 'less-than' ogive?",
+      "options": [
+        {
+          "option": "Falling"
+        },
+        {
+          "option": "Horizontal"
+        },
+        {
+          "option": "Vertical"
+        },
+        {
+          "option": "Rising",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the shape of a 'more-than' ogive?",
+      "options": [
+        {
+          "option": "Rising"
+        },
+        {
+          "option": "Horizontal"
+        },
+        {
+          "option": "Falling",
+          "is_answer": true
+        },
+        {
+          "option": "Vertical"
+        }
+      ]
+    },
+    {
+      "question": "To draw an ogive, which values are plotted on the X-axis?",
+      "options": [
+        {
+          "option": "Mid-points"
+        },
+        {
+          "option": "Class boundaries",
+          "is_answer": true
+        },
+        {
+          "option": "Cumulative frequencies"
+        },
+        {
+          "option": "Simple frequencies"
+        }
+      ]
+    },
+    {
+      "question": "The cumulative frequency of the last class interval in a 'less-than' ogive is equal to:",
+      "options": [
+        {
+          "option": "Zero"
+        },
+        {
+          "option": "Median"
+        },
+        {
+          "option": "Mean"
+        },
+        {
+          "option": "Total frequency (N)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which type of frequency distribution is required to construct an ogive?",
+      "options": [
+        {
+          "option": "Individual series"
+        },
+        {
+          "option": "Ungrouped data"
+        },
+        {
+          "option": "Grouped frequency distribution",
+          "is_answer": true
+        },
+        {
+          "option": "Discrete series"
+        }
+      ]
+    },
+    {
+      "question": "If the total frequency N is 100, at what cumulative frequency does the median occur?",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "50",
+          "is_answer": true
+        },
+        {
+          "option": "75"
+        }
+      ]
+    },
+    {
+      "question": "An ogive is also known as:",
+      "options": [
+        {
+          "option": "Histogram"
+        },
+        {
+          "option": "Bar chart"
+        },
+        {
+          "option": "Cumulative frequency curve",
+          "is_answer": true
+        },
+        {
+          "option": "Frequency polygon"
+        }
+      ]
+    },
+    {
+      "question": "What is the starting point of a 'less-than' ogive on the X-axis?",
+      "options": [
+        {
+          "option": "Lower boundary of the first class",
+          "is_answer": true
+        },
+        {
+          "option": "Mid-point of the first class"
+        },
+        {
+          "option": "Zero"
+        },
+        {
+          "option": "Upper boundary of the first class"
+        }
+      ]
+    },
+    {
+      "question": "What is the starting point of a 'more-than' ogive on the X-axis?",
+      "options": [
+        {
+          "option": "Zero"
+        },
+        {
+          "option": "Mid-point of the first class"
+        },
+        {
+          "option": "Lower boundary of the first class",
+          "is_answer": true
+        },
+        {
+          "option": "Upper boundary of the first class"
+        }
+      ]
+    },
+    {
+      "question": "The sum of the 'less-than' cumulative frequency and 'more-than' cumulative frequency for any class is equal to:",
+      "options": [
+        {
+          "option": "Mean"
+        },
+        {
+          "option": "Zero"
+        },
+        {
+          "option": "Median"
+        },
+        {
+          "option": "Total frequency (N)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which statistical measure can be determined graphically using an ogive?",
+      "options": [
+        {
+          "option": "Standard deviation"
+        },
+        {
+          "option": "Mean"
+        },
+        {
+          "option": "Range"
+        },
+        {
+          "option": "Median",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In a 'less-than' ogive, the cumulative frequency is plotted against:",
+      "options": [
+        {
+          "option": "Lower class boundaries"
+        },
+        {
+          "option": "Mid-points"
+        },
+        {
+          "option": "Upper class boundaries",
+          "is_answer": true
+        },
+        {
+          "option": "Class marks"
+        }
+      ]
+    },
+    {
+      "question": "In a 'more-than' ogive, the cumulative frequency is plotted against:",
+      "options": [
+        {
+          "option": "Class marks"
+        },
+        {
+          "option": "Lower class boundaries",
+          "is_answer": true
+        },
+        {
+          "option": "Mid-points"
+        },
+        {
+          "option": "Upper class boundaries"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of the cumulative frequency at the lower boundary of the first class in a 'more-than' ogive?",
+      "options": [
+        {
+          "option": "Total frequency (N)",
+          "is_answer": true
+        },
+        {
+          "option": "Median"
+        },
+        {
+          "option": "Zero"
+        },
+        {
+          "option": "Mean"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of the cumulative frequency at the upper boundary of the last class in a 'more-than' ogive?",
+      "options": [
+        {
+          "option": "Mean"
+        },
+        {
+          "option": "Zero",
+          "is_answer": true
+        },
+        {
+          "option": "Median"
+        },
+        {
+          "option": "Total frequency (N)"
+        }
+      ]
+    },
+    {
+      "question": "If the intersection point of two ogives is (x, y), then the median is:",
+      "options": [
+        {
+          "option": "x-y"
+        },
+        {
+          "option": "y"
+        },
+        {
+          "option": "x+y"
+        },
+        {
+          "option": "x",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is true about ogives?",
+      "options": [
+        {
+          "option": "They are used to find the mean"
+        },
+        {
+          "option": "They are used to find the range"
+        },
+        {
+          "option": "They are used to find the median",
+          "is_answer": true
+        },
+        {
+          "option": "They are used to find the mode"
+        }
+      ]
+    },
+    {
+      "question": "Can an ogive be used to estimate quartiles?",
+      "options": [
+        {
+          "option": "No"
+        },
+        {
+          "option": "Only for large data"
+        },
+        {
+          "option": "Only for small data"
+        },
+        {
+          "option": "Yes",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the mean of a distribution is 20 and the mode is 26, what is the median using Karl Pearson's empirical relation?",
+      "options": [
+        {
+          "option": "22",
+          "is_answer": true
+        },
+        {
+          "option": "23"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "21"
+        }
+      ]
+    },
+    {
+      "question": "Given regression coefficients b_yx = 0.8 and b_xy = 0.2, what is the correlation coefficient r?",
+      "options": [
+        {
+          "option": "0.4",
+          "is_answer": true
+        },
+        {
+          "option": "0.6"
+        },
+        {
+          "option": "0.16"
+        },
+        {
+          "option": "0.5"
+        }
+      ]
+    },
+    {
+      "question": "In a grouped frequency distribution, if the sum of f*x is 500 and the sum of f is 20, what is the mean?",
+      "options": [
+        {
+          "option": "50"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "25",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the mean is 50 and the standard deviation is 5, what is the coefficient of variation?",
+      "options": [
+        {
+          "option": "25%"
+        },
+        {
+          "option": "10%",
+          "is_answer": true
+        },
+        {
+          "option": "5%"
+        },
+        {
+          "option": "50%"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is true for regression lines intersecting at the mean point?",
+      "options": [
+        {
+          "option": "(0, 0)"
+        },
+        {
+          "option": "(x_bar, y_bar)",
+          "is_answer": true
+        },
+        {
+          "option": "(mean, variance)"
+        },
+        {
+          "option": "(1, 1)"
+        }
+      ]
+    },
+    {
+      "question": "If the correlation coefficient r = 1, what does it indicate?",
+      "options": [
+        {
+          "option": "No correlation"
+        },
+        {
+          "option": "Weak correlation"
+        },
+        {
+          "option": "Perfect negative correlation"
+        },
+        {
+          "option": "Perfect positive correlation",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If each value in a dataset is increased by 5, what happens to the variance?",
+      "options": [
+        {
+          "option": "Increases by 5"
+        },
+        {
+          "option": "Increases by 25"
+        },
+        {
+          "option": "Remains unchanged",
+          "is_answer": true
+        },
+        {
+          "option": "Decreases by 5"
+        }
+      ]
+    },
+    {
+      "question": "What is the relationship between Mean, Median, and Mode in a symmetrical distribution?",
+      "options": [
+        {
+          "option": "Mode > Median > Mean"
+        },
+        {
+          "option": "Mean = Median + Mode"
+        },
+        {
+          "option": "Mean = Median = Mode",
+          "is_answer": true
+        },
+        {
+          "option": "Mean > Median > Mode"
+        }
+      ]
+    },
+    {
+      "question": "If the regression coefficient b_yx is 1.5, what does it imply?",
+      "options": [
+        {
+          "option": "For 1 unit increase in y, x increases by 1.5"
+        },
+        {
+          "option": "x and y are independent"
+        },
+        {
+          "option": "The correlation is negative"
+        },
+        {
+          "option": "For 1 unit increase in x, y increases by 1.5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which measure of dispersion is least affected by extreme values?",
+      "options": [
+        {
+          "option": "Interquartile range",
+          "is_answer": true
+        },
+        {
+          "option": "Range"
+        },
+        {
+          "option": "Variance"
+        },
+        {
+          "option": "Standard deviation"
+        }
+      ]
+    },
+    {
+      "question": "If the sum of squares of deviations from the mean is 100 and n=10, what is the variance?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "100"
+        }
+      ]
+    },
+    {
+      "question": "The value of the correlation coefficient r always lies between:",
+      "options": [
+        {
+          "option": "-1 and 0"
+        },
+        {
+          "option": "0 and infinity"
+        },
+        {
+          "option": "0 and 1"
+        },
+        {
+          "option": "-1 and 1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the variance of a series is 25, what is the standard deviation?",
+      "options": [
+        {
+          "option": "12.5"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "625"
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is a measure of central tendency?",
+      "options": [
+        {
+          "option": "Standard deviation"
+        },
+        {
+          "option": "Variance"
+        },
+        {
+          "option": "Median",
+          "is_answer": true
+        },
+        {
+          "option": "Range"
+        }
+      ]
+    },
+    {
+      "question": "If the mean of 10 observations is 15, what is the sum of observations?",
+      "options": [
+        {
+          "option": "1.5"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "150",
+          "is_answer": true
+        },
+        {
+          "option": "100"
+        }
+      ]
+    },
+    {
+      "question": "What is the square of the correlation coefficient known as?",
+      "options": [
+        {
+          "option": "Standard error"
+        },
+        {
+          "option": "Variance"
+        },
+        {
+          "option": "Regression coefficient"
+        },
+        {
+          "option": "Coefficient of determination",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the regression line is y = 2x + 3, what is the slope?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "Which statistical measure is used to check the consistency of data?",
+      "options": [
+        {
+          "option": "Mode"
+        },
+        {
+          "option": "Median"
+        },
+        {
+          "option": "Mean"
+        },
+        {
+          "option": "Coefficient of variation",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which measure of central tendency is most affected by extreme outliers?",
+      "options": [
+        {
+          "option": "Mode"
+        },
+        {
+          "option": "Median"
+        },
+        {
+          "option": "Mean",
+          "is_answer": true
+        },
+        {
+          "option": "Range"
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of deviations of individual observations from their mean?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "Mean"
+        },
+        {
+          "option": "Standard Deviation"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In a perfectly symmetrical distribution, which of the following is true?",
+      "options": [
+        {
+          "option": "Mean < Median < Mode"
+        },
+        {
+          "option": "Mean = Median + Mode"
+        },
+        {
+          "option": "Mean > Median > Mode"
+        },
+        {
+          "option": "Mean = Median = Mode",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which statistical measure represents the square root of the variance?",
+      "options": [
+        {
+          "option": "Interquartile Range"
+        },
+        {
+          "option": "Mean Absolute Deviation"
+        },
+        {
+          "option": "Standard Deviation",
+          "is_answer": true
+        },
+        {
+          "option": "Range"
+        }
+      ]
+    }
+  ]
+}

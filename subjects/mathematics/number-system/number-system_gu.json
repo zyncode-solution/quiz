@@ -1,0 +1,9005 @@
+{
+  "total_questions": 500,
+  "questions": [
+    {
+      "question": "નીચેનામાંથી કઈ સંખ્યા અસંમેય સંખ્યા છે?",
+      "options": [
+        {
+          "option": "√2",
+          "is_answer": true
+        },
+        {
+          "option": "√9"
+        },
+        {
+          "option": "4/2"
+        },
+        {
+          "option": "0.5"
+        }
+      ]
+    },
+    {
+      "question": "આમાંથી કઈ સંમેય સંખ્યા છે?",
+      "options": [
+        {
+          "option": "√3"
+        },
+        {
+          "option": "0.75",
+          "is_answer": true
+        },
+        {
+          "option": "√5"
+        },
+        {
+          "option": "π"
+        }
+      ]
+    },
+    {
+      "question": "સંકર સંખ્યાનું સ્વરૂપ શું છે?",
+      "options": [
+        {
+          "option": "a + bi",
+          "is_answer": true
+        },
+        {
+          "option": "√a"
+        },
+        {
+          "option": "a + b"
+        },
+        {
+          "option": "a/b"
+        }
+      ]
+    },
+    {
+      "question": "શું 0 એ સંમેય સંખ્યા છે?",
+      "options": [
+        {
+          "option": "અસંમેય"
+        },
+        {
+          "option": "સંકર"
+        },
+        {
+          "option": "ના"
+        },
+        {
+          "option": "હા",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "સંખ્યાઓના કયા સમૂહમાં સંમેય અને અસંમેય બંને સંખ્યાઓનો સમાવેશ થાય છે?",
+      "options": [
+        {
+          "option": "વાસ્તવિક સંખ્યાઓ",
+          "is_answer": true
+        },
+        {
+          "option": "પ્રાકૃતિક સંખ્યાઓ"
+        },
+        {
+          "option": "પૂર્ણ સંખ્યાઓ"
+        },
+        {
+          "option": "પૂર્ણાંક સંખ્યાઓ"
+        }
+      ]
+    },
+    {
+      "question": "i² નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "i"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કઈ શાંત દશાંશ સંખ્યા છે?",
+      "options": [
+        {
+          "option": "√2"
+        },
+        {
+          "option": "π"
+        },
+        {
+          "option": "0.333..."
+        },
+        {
+          "option": "0.25",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "શું બધા પૂર્ણાંકો સંમેય સંખ્યાઓ છે?",
+      "options": [
+        {
+          "option": "માત્ર ધન"
+        },
+        {
+          "option": "માત્ર ઋણ"
+        },
+        {
+          "option": "હા",
+          "is_answer": true
+        },
+        {
+          "option": "ના"
+        }
+      ]
+    },
+    {
+      "question": "કઈ સંખ્યા સંમેય પણ નથી અને અસંમેય પણ નથી?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "√4"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "કોઈ નહીં",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "π (પાઈ) નું વર્ગીકરણ શું છે?",
+      "options": [
+        {
+          "option": "પ્રાકૃતિક"
+        },
+        {
+          "option": "અસંમેય",
+          "is_answer": true
+        },
+        {
+          "option": "પૂર્ણાંક"
+        },
+        {
+          "option": "સંમેય"
+        }
+      ]
+    },
+    {
+      "question": "આમાંથી કઈ અનંત આવૃત દશાંશ સંખ્યા છે?",
+      "options": [
+        {
+          "option": "0.666...",
+          "is_answer": true
+        },
+        {
+          "option": "√2"
+        },
+        {
+          "option": "0.125"
+        },
+        {
+          "option": "0.5"
+        }
+      ]
+    },
+    {
+      "question": "શું અસંમેય સંખ્યાને p/q અપૂર્ણાંક તરીકે દર્શાવી શકાય?",
+      "options": [
+        {
+          "option": "ના",
+          "is_answer": true
+        },
+        {
+          "option": "હા"
+        },
+        {
+          "option": "માત્ર જો p=0 હોય"
+        },
+        {
+          "option": "માત્ર જો q=1 હોય"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કઈ વાસ્તવિક સંખ્યા છે?",
+      "options": [
+        {
+          "option": "-10"
+        },
+        {
+          "option": "0.75"
+        },
+        {
+          "option": "આ બધી જ",
+          "is_answer": true
+        },
+        {
+          "option": "√5"
+        }
+      ]
+    },
+    {
+      "question": "કાલ્પનિક એકમ કયો છે?",
+      "options": [
+        {
+          "option": "i",
+          "is_answer": true
+        },
+        {
+          "option": "x"
+        },
+        {
+          "option": "j"
+        },
+        {
+          "option": "k"
+        }
+      ]
+    },
+    {
+      "question": "શું √-1 વાસ્તવિક સંખ્યા છે?",
+      "options": [
+        {
+          "option": "હા"
+        },
+        {
+          "option": "સંમેય"
+        },
+        {
+          "option": "ના",
+          "is_answer": true
+        },
+        {
+          "option": "અસંમેય"
+        }
+      ]
+    },
+    {
+      "question": "આમાંથી કઈ પૂર્ણ વર્ગ સંખ્યા છે અને તેથી સંમેય છે?",
+      "options": [
+        {
+          "option": "√3"
+        },
+        {
+          "option": "√16",
+          "is_answer": true
+        },
+        {
+          "option": "√2"
+        },
+        {
+          "option": "√5"
+        }
+      ]
+    },
+    {
+      "question": "અનંત અને અનાવૃત દશાંશ સંખ્યા શું છે?",
+      "options": [
+        {
+          "option": "અસંમેય",
+          "is_answer": true
+        },
+        {
+          "option": "પૂર્ણાંક"
+        },
+        {
+          "option": "સંમેય"
+        },
+        {
+          "option": "પૂર્ણ"
+        }
+      ]
+    },
+    {
+      "question": "કઈ સંખ્યા શૂન્ય કાલ્પનિક ભાગ ધરાવતી સંકર સંખ્યા છે?",
+      "options": [
+        {
+          "option": "2+3i"
+        },
+        {
+          "option": "√-2"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "5i"
+        }
+      ]
+    },
+    {
+      "question": "શું સંમેય સંખ્યાઓ વાસ્તવિક સંખ્યાઓનો ઉપગણ છે?",
+      "options": [
+        {
+          "option": "હા",
+          "is_answer": true
+        },
+        {
+          "option": "ના"
+        },
+        {
+          "option": "માત્ર ધન"
+        },
+        {
+          "option": "માત્ર ઋણ"
+        }
+      ]
+    },
+    {
+      "question": "એક બેકી સંખ્યા અને એક એકી સંખ્યાનો સરવાળો શું થાય?",
+      "options": [
+        {
+          "option": "બેકી સંખ્યા"
+        },
+        {
+          "option": "અવિભાજ્ય સંખ્યા"
+        },
+        {
+          "option": "વિભાજ્ય સંખ્યા"
+        },
+        {
+          "option": "એકી સંખ્યા",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "એક બેકી સંખ્યા અને એક એકી સંખ્યાનો ગુણાકાર શું થાય?",
+      "options": [
+        {
+          "option": "એકી સંખ્યા"
+        },
+        {
+          "option": "બેકી સંખ્યા",
+          "is_answer": true
+        },
+        {
+          "option": "વિભાજ્ય સંખ્યા"
+        },
+        {
+          "option": "અવિભાજ્ય સંખ્યા"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કઈ એકમાત્ર બેકી અવિભાજ્ય સંખ્યા છે?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "સૌથી નાની વિભાજ્ય સંખ્યા કઈ છે?",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "બે સંખ્યાઓ પરસ્પર અવિભાજ્ય (co-prime) કહેવાય જો તેમનો ગુરુત્તમ સામાન્ય અવયવ (GCD) કેટલો હોય?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "ગોલ્ડબેકનું અનુમાન જણાવે છે કે 2 થી મોટી દરેક બેકી સંખ્યા કોનો સરવાળો છે?",
+      "options": [
+        {
+          "option": "બે વિભાજ્ય સંખ્યાઓ"
+        },
+        {
+          "option": "બે એકી સંખ્યાઓ"
+        },
+        {
+          "option": "બે બેકી સંખ્યાઓ"
+        },
+        {
+          "option": "બે અવિભાજ્ય સંખ્યાઓ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "બે એકી સંખ્યાઓનો સરવાળો શું થાય?",
+      "options": [
+        {
+          "option": "અવિભાજ્ય સંખ્યા"
+        },
+        {
+          "option": "વિભાજ્ય સંખ્યા"
+        },
+        {
+          "option": "બેકી સંખ્યા",
+          "is_answer": true
+        },
+        {
+          "option": "એકી સંખ્યા"
+        }
+      ]
+    },
+    {
+      "question": "શું સંખ્યા 1 અવિભાજ્ય છે, વિભાજ્ય છે, કે બંનેમાંથી એક પણ નહીં?",
+      "options": [
+        {
+          "option": "એક પણ નહીં",
+          "is_answer": true
+        },
+        {
+          "option": "અવિભાજ્ય"
+        },
+        {
+          "option": "બંને"
+        },
+        {
+          "option": "વિભાજ્ય"
+        }
+      ]
+    },
+    {
+      "question": "બે એકી સંખ્યાઓનો ગુણાકાર શું થાય?",
+      "options": [
+        {
+          "option": "અવિભાજ્ય સંખ્યા"
+        },
+        {
+          "option": "વિભાજ્ય સંખ્યા"
+        },
+        {
+          "option": "એકી સંખ્યા",
+          "is_answer": true
+        },
+        {
+          "option": "બેકી સંખ્યા"
+        }
+      ]
+    },
+    {
+      "question": "આમાંથી કઈ જોડી પરસ્પર અવિભાજ્ય (co-prime) છે?",
+      "options": [
+        {
+          "option": "10 અને 15"
+        },
+        {
+          "option": "6 અને 9"
+        },
+        {
+          "option": "8 અને 9",
+          "is_answer": true
+        },
+        {
+          "option": "2 અને 4"
+        }
+      ]
+    },
+    {
+      "question": "બે બેકી સંખ્યાઓનો સરવાળો હંમેશા શું હોય છે?",
+      "options": [
+        {
+          "option": "એકી સંખ્યા"
+        },
+        {
+          "option": "અવિભાજ્ય સંખ્યા"
+        },
+        {
+          "option": "વિભાજ્ય સંખ્યા"
+        },
+        {
+          "option": "બેકી સંખ્યા",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "અવિભાજ્ય સંખ્યાના કુલ કેટલા અવયવો હોય છે?",
+      "options": [
+        {
+          "option": "ચાર"
+        },
+        {
+          "option": "બે",
+          "is_answer": true
+        },
+        {
+          "option": "એક"
+        },
+        {
+          "option": "ત્રણ"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કઈ વિભાજ્ય સંખ્યા છે?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "બે બેકી સંખ્યાઓનો ગુણાકાર શું થાય?",
+      "options": [
+        {
+          "option": "એકી સંખ્યા"
+        },
+        {
+          "option": "અવિભાજ્ય સંખ્યા"
+        },
+        {
+          "option": "વિભાજ્ય સંખ્યા"
+        },
+        {
+          "option": "બેકી સંખ્યા",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "શું બધી અવિભાજ્ય સંખ્યાઓ એકી હોય છે?",
+      "options": [
+        {
+          "option": "ના, 1 અવિભાજ્ય છે"
+        },
+        {
+          "option": "ના, 4 અવિભાજ્ય છે"
+        },
+        {
+          "option": "ના, 2 બેકી છે",
+          "is_answer": true
+        },
+        {
+          "option": "હા, બધી એકી છે"
+        }
+      ]
+    },
+    {
+      "question": "કઈ સંખ્યા અવિભાજ્ય પણ નથી અને વિભાજ્ય પણ નથી?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "કોઈ સંખ્યા બેકી છે જો તે કોના વડે ભાગી શકાય?",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "સૌથી નાની એકી અવિભાજ્ય સંખ્યા કઈ છે?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો કોઈ સંખ્યાના બેથી વધુ અવયવો હોય, તો તેને શું કહેવાય?",
+      "options": [
+        {
+          "option": "અવિભાજ્ય સંખ્યા"
+        },
+        {
+          "option": "બેકી સંખ્યા"
+        },
+        {
+          "option": "એકી સંખ્યા"
+        },
+        {
+          "option": "વિભાજ્ય સંખ્યા",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કઈ અવિભાજ્ય સંખ્યા છે?",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "11",
+          "is_answer": true
+        },
+        {
+          "option": "21"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કઈ સંખ્યા 3 વડે વિભાજ્ય છે?",
+      "options": [
+        {
+          "option": "456",
+          "is_answer": true
+        },
+        {
+          "option": "457"
+        },
+        {
+          "option": "458"
+        },
+        {
+          "option": "454"
+        }
+      ]
+    },
+    {
+      "question": "જો કોઈ સંખ્યાના છેલ્લા બે અંકો આના વડે વિભાજ્ય હોય તો તે સંખ્યા 4 વડે વિભાજ્ય છે:",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "કઈ સંખ્યા 6 વડે વિભાજ્ય છે?",
+      "options": [
+        {
+          "option": "119"
+        },
+        {
+          "option": "118"
+        },
+        {
+          "option": "115"
+        },
+        {
+          "option": "114",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો કોઈ સંખ્યાના અંકોનો સરવાળો આના વડે વિભાજ્ય હોય તો તે સંખ્યા 9 વડે વિભાજ્ય છે:",
+      "options": [
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "આમાંથી કઈ સંખ્યા 5 વડે વિભાજ્ય છે?",
+      "options": [
+        {
+          "option": "123"
+        },
+        {
+          "option": "125",
+          "is_answer": true
+        },
+        {
+          "option": "122"
+        },
+        {
+          "option": "127"
+        }
+      ]
+    },
+    {
+      "question": "જો કોઈ સંખ્યાના છેલ્લા ત્રણ અંકો આના વડે વિભાજ્ય હોય તો તે સંખ્યા 8 વડે વિભાજ્ય છે:",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "કઈ સંખ્યા 11 વડે વિભાજ્ય છે?",
+      "options": [
+        {
+          "option": "124"
+        },
+        {
+          "option": "121",
+          "is_answer": true
+        },
+        {
+          "option": "122"
+        },
+        {
+          "option": "123"
+        }
+      ]
+    },
+    {
+      "question": "જો કોઈ સંખ્યાનો છેલ્લો અંક આ હોય તો તે સંખ્યા 10 વડે વિભાજ્ય છે:",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કઈ સંખ્યા 7 વડે વિભાજ્ય છે?",
+      "options": [
+        {
+          "option": "93"
+        },
+        {
+          "option": "94"
+        },
+        {
+          "option": "92"
+        },
+        {
+          "option": "91",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "13 વડે વિભાજ્યતા ચકાસવા માટે, છેલ્લા અંકને 4 વડે ગુણીને બાકીની સંખ્યામાં ઉમેરો. જો પરિણામ 13 વડે વિભાજ્ય હોય, તો મૂળ સંખ્યા આના વડે વિભાજ્ય છે:",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "13",
+          "is_answer": true
+        },
+        {
+          "option": "11"
+        }
+      ]
+    },
+    {
+      "question": "કઈ સંખ્યા 2 વડે વિભાજ્ય છે?",
+      "options": [
+        {
+          "option": "48",
+          "is_answer": true
+        },
+        {
+          "option": "51"
+        },
+        {
+          "option": "53"
+        },
+        {
+          "option": "49"
+        }
+      ]
+    },
+    {
+      "question": "જો કોઈ સંખ્યા આ બંને વડે વિભાજ્ય હોય તો તે 6 વડે વિભાજ્ય છે:",
+      "options": [
+        {
+          "option": "2 અને 3",
+          "is_answer": true
+        },
+        {
+          "option": "2 અને 4"
+        },
+        {
+          "option": "3 અને 4"
+        },
+        {
+          "option": "1 અને 6"
+        }
+      ]
+    },
+    {
+      "question": "આમાંથી કઈ સંખ્યા 9 વડે વિભાજ્ય છે?",
+      "options": [
+        {
+          "option": "81",
+          "is_answer": true
+        },
+        {
+          "option": "83"
+        },
+        {
+          "option": "82"
+        },
+        {
+          "option": "84"
+        }
+      ]
+    },
+    {
+      "question": "જો કોઈ સંખ્યાનો છેલ્લો અંક આ હોય તો તે 5 વડે વિભાજ્ય છે:",
+      "options": [
+        {
+          "option": "0 અથવા 2"
+        },
+        {
+          "option": "0 અથવા 5",
+          "is_answer": true
+        },
+        {
+          "option": "5 અથવા 1"
+        },
+        {
+          "option": "2 અથવા 5"
+        }
+      ]
+    },
+    {
+      "question": "કઈ સંખ્યા 4 વડે વિભાજ્ય છે?",
+      "options": [
+        {
+          "option": "113"
+        },
+        {
+          "option": "112",
+          "is_answer": true
+        },
+        {
+          "option": "117"
+        },
+        {
+          "option": "115"
+        }
+      ]
+    },
+    {
+      "question": "જો કોઈ સંખ્યાના અંકોનો સરવાળો આના વડે વિભાજ્ય હોય તો તે 3 વડે વિભાજ્ય છે:",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કઈ સંખ્યા 8 વડે વિભાજ્ય છે?",
+      "options": [
+        {
+          "option": "105"
+        },
+        {
+          "option": "107"
+        },
+        {
+          "option": "104",
+          "is_answer": true
+        },
+        {
+          "option": "106"
+        }
+      ]
+    },
+    {
+      "question": "જો એકી અને બેકી સ્થાન પરના અંકોના સરવાળાનો તફાવત આના વડે વિભાજ્ય હોય તો તે 11 વડે વિભાજ્ય છે:",
+      "options": [
+        {
+          "option": "11 અથવા 1"
+        },
+        {
+          "option": "0 અથવા 2"
+        },
+        {
+          "option": "11 અથવા 22"
+        },
+        {
+          "option": "11 અથવા 0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "કઈ સંખ્યા 13 વડે વિભાજ્ય છે?",
+      "options": [
+        {
+          "option": "169",
+          "is_answer": true
+        },
+        {
+          "option": "171"
+        },
+        {
+          "option": "172"
+        },
+        {
+          "option": "170"
+        }
+      ]
+    },
+    {
+      "question": "આમાંથી કઈ સંખ્યા 7 વડે વિભાજ્ય છે?",
+      "options": [
+        {
+          "option": "147",
+          "is_answer": true
+        },
+        {
+          "option": "150"
+        },
+        {
+          "option": "148"
+        },
+        {
+          "option": "149"
+        }
+      ]
+    },
+    {
+      "question": "ભાજ્ય = (ભાજક * ભાગફળ) + શેષ સંબંધમાં, શેષ (r) માટેની શરત શું છે?",
+      "options": [
+        {
+          "option": "r = 0"
+        },
+        {
+          "option": "0 <= r < ભાજક",
+          "is_answer": true
+        },
+        {
+          "option": "0 < r <= ભાજક"
+        },
+        {
+          "option": "r > ભાજક"
+        }
+      ]
+    },
+    {
+      "question": "જો ભાજ્ય 25 હોય અને ભાજક 4 હોય, તો શેષ શું મળે?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "17 ને 5 વડે ભાગતા યુક્લિડની ભાગવિધિ મુજબ ભાગફળ શું મળે?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "જો a = bq + r હોય, તો નીચેનામાંથી શું હંમેશા સાચું છે?",
+      "options": [
+        {
+          "option": "r = b"
+        },
+        {
+          "option": "q < r"
+        },
+        {
+          "option": "r < b",
+          "is_answer": true
+        },
+        {
+          "option": "r > b"
+        }
+      ]
+    },
+    {
+      "question": "30 ને 6 વડે ભાગતા શેષ શું મળે?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "જો ભાજ્ય = 47, ભાજક = 9, અને ભાગફળ = 5 હોય, તો શેષ શું મળે?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "યુક્લિડની ભાગવિધિનું સાચું સ્વરૂપ કયું છે?",
+      "options": [
+        {
+          "option": "a = r + bq"
+        },
+        {
+          "option": "a = q + br"
+        },
+        {
+          "option": "a = b + qr"
+        },
+        {
+          "option": "a = bq + r",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો a = 13 અને b = 3 હોય, તો a = bq + r થાય તેવા q અને r શોધો.",
+      "options": [
+        {
+          "option": "q=4, r=0"
+        },
+        {
+          "option": "q=5, r=1"
+        },
+        {
+          "option": "q=3, r=4"
+        },
+        {
+          "option": "q=4, r=1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "7 વડે ભાગાકાર કરતી વખતે શક્ય મહત્તમ શેષ કેટલી હોય?",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "જો શેષ 0 હોય, તો તે ભાજક વિશે શું સૂચવે છે?",
+      "options": [
+        {
+          "option": "ભાજક 0 છે"
+        },
+        {
+          "option": "ભાજક અવિભાજ્ય છે"
+        },
+        {
+          "option": "ભાજક એ અવયવ છે",
+          "is_answer": true
+        },
+        {
+          "option": "ભાજક 1 છે"
+        }
+      ]
+    },
+    {
+      "question": "જો ભાજક=8, ભાગફળ=6, અને શેષ=3 હોય, તો ભાજ્ય શોધો.",
+      "options": [
+        {
+          "option": "54"
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "50"
+        },
+        {
+          "option": "51",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "a = bq + r માં, 'q' શું દર્શાવે છે?",
+      "options": [
+        {
+          "option": "ભાગફળ",
+          "is_answer": true
+        },
+        {
+          "option": "ભાજ્ય"
+        },
+        {
+          "option": "ભાજક"
+        },
+        {
+          "option": "શેષ"
+        }
+      ]
+    },
+    {
+      "question": "4 વડે ભાગાકાર કરતી વખતે નીચેનામાંથી કઈ શેષ અશક્ય છે?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "જો 22 = 7 * 3 + 1 હોય, તો ભાજક ઓળખો.",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "22"
+        }
+      ]
+    },
+    {
+      "question": "100 ને 9 વડે ભાગતા શેષ શું મળે?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "જો a = bq + r હોય, તો r ની ન્યૂનતમ કિંમત શું છે?",
+      "options": [
+        {
+          "option": "q"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "b"
+        }
+      ]
+    },
+    {
+      "question": "55 ને 6 વડે ભાગતા ભાગફળ શોધો.",
+      "options": [
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "જો ભાજ્ય = 10, ભાજક = 3 હોય, તો 10 = 3 * 3 + r. r શું છે?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "શું શેષ ભાજક જેટલી હોઈ શકે?",
+      "options": [
+        {
+          "option": "ના",
+          "is_answer": true
+        },
+        {
+          "option": "માત્ર જો ભાજ્ય 0 હોય"
+        },
+        {
+          "option": "માત્ર જો ભાગફળ 1 હોય"
+        },
+        {
+          "option": "હા"
+        }
+      ]
+    },
+    {
+      "question": "જો 40 = 5 * 8 + 0 હોય, તો ભાગફળ શું છે?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "એક સંખ્યાને જ્યારે ક્રમશઃ 4 અને 5 વડે ભાગવામાં આવે ત્યારે શેષ અનુક્રમે 1 અને 4 વધે છે. તો તે સૌથી નાની સંખ્યા કઈ છે?",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "11"
+        },
+        {
+          "option": "13"
+        }
+      ]
+    },
+    {
+      "question": "એક સંખ્યાને ક્રમશઃ 3 અને 7 વડે ભાગતા શેષ 2 અને 1 વધે છે. તે સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "14"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "એક સંખ્યાને ક્રમશઃ 5 અને 6 વડે ભાગતા શેષ 3 અને 2 વધે છે. સૌથી નાની સંખ્યા કઈ છે?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "22"
+        },
+        {
+          "option": "18",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "એક સંખ્યાને ક્રમશઃ 2, 3 અને 5 વડે ભાગતા શેષ 1, 2 અને 3 વધે છે. સૌથી નાની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "29"
+        },
+        {
+          "option": "23",
+          "is_answer": true
+        },
+        {
+          "option": "27"
+        }
+      ]
+    },
+    {
+      "question": "એક સંખ્યાને ક્રમશઃ 3, 4 અને 5 વડે ભાગતા શેષ 2, 1 અને 4 વધે છે. સૌથી નાની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "65"
+        },
+        {
+          "option": "59",
+          "is_answer": true
+        },
+        {
+          "option": "63"
+        },
+        {
+          "option": "61"
+        }
+      ]
+    },
+    {
+      "question": "એક સંખ્યાને ક્રમશઃ 4, 5 અને 6 વડે ભાગતા શેષ 3, 4 અને 5 વધે છે. સૌથી નાની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "123"
+        },
+        {
+          "option": "119",
+          "is_answer": true
+        },
+        {
+          "option": "125"
+        },
+        {
+          "option": "121"
+        }
+      ]
+    },
+    {
+      "question": "એક સંખ્યાને ક્રમશઃ 2, 4 અને 5 વડે ભાગતા શેષ 1, 2 અને 3 વધે છે. સૌથી નાની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "43"
+        },
+        {
+          "option": "45"
+        },
+        {
+          "option": "39",
+          "is_answer": true
+        },
+        {
+          "option": "41"
+        }
+      ]
+    },
+    {
+      "question": "એક સંખ્યાને ક્રમશઃ 3, 5 અને 8 વડે ભાગતા શેષ 1, 4 અને 7 વધે છે. સૌથી નાની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "122"
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "124"
+        },
+        {
+          "option": "118",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "એક સંખ્યાને ક્રમશઃ 5, 4 અને 3 વડે ભાગતા શેષ 4, 3 અને 2 વધે છે. સૌથી નાની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "59",
+          "is_answer": true
+        },
+        {
+          "option": "63"
+        },
+        {
+          "option": "61"
+        },
+        {
+          "option": "65"
+        }
+      ]
+    },
+    {
+      "question": "એક સંખ્યાને ક્રમશઃ 6, 5 અને 4 વડે ભાગતા શેષ 5, 4 અને 3 વધે છે. સૌથી નાની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "123"
+        },
+        {
+          "option": "119",
+          "is_answer": true
+        },
+        {
+          "option": "125"
+        },
+        {
+          "option": "121"
+        }
+      ]
+    },
+    {
+      "question": "એક સંખ્યાને ક્રમશઃ 7, 6 અને 5 વડે ભાગતા શેષ 6, 5 અને 4 વધે છે. સૌથી નાની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "215"
+        },
+        {
+          "option": "209",
+          "is_answer": true
+        },
+        {
+          "option": "211"
+        },
+        {
+          "option": "213"
+        }
+      ]
+    },
+    {
+      "question": "એક સંખ્યાને ક્રમશઃ 3, 2 અને 5 વડે ભાગતા શેષ 2, 1 અને 4 વધે છે. સૌથી નાની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "33"
+        },
+        {
+          "option": "29",
+          "is_answer": true
+        },
+        {
+          "option": "31"
+        },
+        {
+          "option": "35"
+        }
+      ]
+    },
+    {
+      "question": "એક સંખ્યાને ક્રમશઃ 4, 3 અને 2 વડે ભાગતા શેષ 3, 2 અને 1 વધે છે. સૌથી નાની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "23",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "29"
+        },
+        {
+          "option": "27"
+        }
+      ]
+    },
+    {
+      "question": "એક સંખ્યાને ક્રમશઃ 5, 3 અને 2 વડે ભાગતા શેષ 4, 2 અને 1 વધે છે. સૌથી નાની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "35"
+        },
+        {
+          "option": "33"
+        },
+        {
+          "option": "29",
+          "is_answer": true
+        },
+        {
+          "option": "31"
+        }
+      ]
+    },
+    {
+      "question": "એક સંખ્યાને ક્રમશઃ 2, 5 અને 3 વડે ભાગતા શેષ 1, 4 અને 2 વધે છે. સૌથી નાની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "31"
+        },
+        {
+          "option": "29",
+          "is_answer": true
+        },
+        {
+          "option": "35"
+        },
+        {
+          "option": "33"
+        }
+      ]
+    },
+    {
+      "question": "એક સંખ્યાને ક્રમશઃ 3, 4 અને 6 વડે ભાગતા શેષ 2, 3 અને 5 વધે છે. સૌથી નાની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "73"
+        },
+        {
+          "option": "71",
+          "is_answer": true
+        },
+        {
+          "option": "75"
+        },
+        {
+          "option": "77"
+        }
+      ]
+    },
+    {
+      "question": "એક સંખ્યાને ક્રમશઃ 4, 6 અને 3 વડે ભાગતા શેષ 3, 5 અને 2 વધે છે. સૌથી નાની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "77"
+        },
+        {
+          "option": "73"
+        },
+        {
+          "option": "75"
+        },
+        {
+          "option": "71",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "એક સંખ્યાને ક્રમશઃ 5, 6 અને 4 વડે ભાગતા શેષ 4, 5 અને 3 વધે છે. સૌથી નાની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "119",
+          "is_answer": true
+        },
+        {
+          "option": "125"
+        },
+        {
+          "option": "121"
+        },
+        {
+          "option": "123"
+        }
+      ]
+    },
+    {
+      "question": "એક સંખ્યાને ક્રમશઃ 6, 4 અને 5 વડે ભાગતા શેષ 5, 3 અને 4 વધે છે. સૌથી નાની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "119",
+          "is_answer": true
+        },
+        {
+          "option": "123"
+        },
+        {
+          "option": "121"
+        },
+        {
+          "option": "125"
+        }
+      ]
+    },
+    {
+      "question": "એક સંખ્યાને ક્રમશઃ 3, 5 અને 4 વડે ભાગતા શેષ 2, 4 અને 3 વધે છે. સૌથી નાની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "65"
+        },
+        {
+          "option": "63"
+        },
+        {
+          "option": "59",
+          "is_answer": true
+        },
+        {
+          "option": "61"
+        }
+      ]
+    },
+    {
+      "question": "17 ને 5 વડે ભાગતા શેષ શું મળે?",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "23 mod 7 ની ગણતરી કરો.",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "(12 + 15) mod 10 શું થાય?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "8 * 9 ને 7 વડે ભાગતા શેષ શોધો.",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "જો a ≡ 3 (mod 5) હોય, તો a ને 5 વડે ભાગતા શેષ શું મળે?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "100 mod 9 શું થાય?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "(14 * 14) mod 5 શોધો.",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "50 mod 11 ની શેષ શું છે?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "(20 + 25) mod 6 ની ગણતરી કરો.",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "7 mod 8 શું થાય?",
+      "options": [
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "13 * 13 ને 4 વડે ભાગતા શેષ શોધો.",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "45 mod 7 શું થાય?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "(10 * 10) mod 3 ની ગણતરી કરો.",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "33 mod 10 ની શેષ શું છે?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "(15 + 16 + 17) mod 5 શોધો.",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "2 mod 5 શું થાય?",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "(6 * 7) mod 5 ની ગણતરી કરો.",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "81 mod 8 ની શેષ શું છે?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "(11 * 12) mod 10 શોધો.",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "19 mod 4 શું થાય?",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "Euler's totient function φ(7) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "φ(10) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "જો p અવિભાજ્ય સંખ્યા હોય, તો φ(p) શું છે?",
+      "options": [
+        {
+          "option": "p"
+        },
+        {
+          "option": "p-1",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "p+1"
+        }
+      ]
+    },
+    {
+      "question": "φ(p^k) નું મૂલ્ય શું છે જ્યાં p અવિભાજ્ય છે?",
+      "options": [
+        {
+          "option": "p^(k-1)"
+        },
+        {
+          "option": "p^k"
+        },
+        {
+          "option": "p^k - 1"
+        },
+        {
+          "option": "p^k - p^(k-1)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Euler ના પ્રમેય મુજબ, જો gcd(a, n) = 1 હોય, તો a^φ(n) ≡ ?",
+      "options": [
+        {
+          "option": "a (mod n)"
+        },
+        {
+          "option": "n (mod n)"
+        },
+        {
+          "option": "1 (mod n)",
+          "is_answer": true
+        },
+        {
+          "option": "0 (mod n)"
+        }
+      ]
+    },
+    {
+      "question": "φ(1) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "અવ્યાખ્યાયિત"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "φ(8) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "Fermat ના નાના પ્રમેય મુજબ, અવિભાજ્ય p અને gcd(a, p) = 1 માટે, a^(p-1) ≡ ?",
+      "options": [
+        {
+          "option": "p (mod p)"
+        },
+        {
+          "option": "0 (mod p)"
+        },
+        {
+          "option": "1 (mod p)",
+          "is_answer": true
+        },
+        {
+          "option": "a (mod p)"
+        }
+      ]
+    },
+    {
+      "question": "φ(12) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "Euler નું totient ફંક્શન ગુણાત્મક છે, એટલે કે φ(mn) = φ(m)φ(n) જો?",
+      "options": [
+        {
+          "option": "m = n"
+        },
+        {
+          "option": "m + n = 1"
+        },
+        {
+          "option": "m અને n અવિભાજ્ય છે"
+        },
+        {
+          "option": "gcd(m, n) = 1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "φ(15) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "φ(2^3) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જ્યારે n > 2 હોય ત્યારે φ(n) માટે નીચેનામાંથી શું સાચું છે?",
+      "options": [
+        {
+          "option": "φ(n) બેકી છે",
+          "is_answer": true
+        },
+        {
+          "option": "φ(n) = 0"
+        },
+        {
+          "option": "φ(n) = n"
+        },
+        {
+          "option": "φ(n) એકી છે"
+        }
+      ]
+    },
+    {
+      "question": "φ(13) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "13"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "11"
+        }
+      ]
+    },
+    {
+      "question": "φ(9) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "જો n = p*q જ્યાં p, q અલગ અવિભાજ્ય સંખ્યાઓ છે, તો φ(n) શું છે?",
+      "options": [
+        {
+          "option": "pq"
+        },
+        {
+          "option": "p+q"
+        },
+        {
+          "option": "(p-1)(q-1)",
+          "is_answer": true
+        },
+        {
+          "option": "p*q-1"
+        }
+      ]
+    },
+    {
+      "question": "φ(20) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "φ(16) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "φ(11) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "11"
+        }
+      ]
+    },
+    {
+      "question": "φ(14) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "વિલ્સનના પ્રમેય મુજબ, કોઈપણ અવિભાજ્ય સંખ્યા p માટે (p-1)! mod p શું છે?",
+      "options": [
+        {
+          "option": "p"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "p-1",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "જ્યારે 6! ને 7 વડે ભાગવામાં આવે ત્યારે શેષ શું વધે?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "વિલ્સનનું પ્રમેય લાગુ પડવા માટે નીચેનામાંથી કઈ શરત જરૂરી છે?",
+      "options": [
+        {
+          "option": "p અવિભાજ્ય હોવું જોઈએ",
+          "is_answer": true
+        },
+        {
+          "option": "p બેકી હોવું જોઈએ"
+        },
+        {
+          "option": "p વિભાજ્ય હોવું જોઈએ"
+        },
+        {
+          "option": "p પૂર્ણવર્ગ હોવું જોઈએ"
+        }
+      ]
+    },
+    {
+      "question": "10! mod 11 શું થાય?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "જો (n-1)! ≡ -1 (mod n) હોય, તો n શું હોવું જોઈએ?",
+      "options": [
+        {
+          "option": "બેકી"
+        },
+        {
+          "option": "એકી"
+        },
+        {
+          "option": "અવિભાજ્ય",
+          "is_answer": true
+        },
+        {
+          "option": "વિભાજ્ય"
+        }
+      ]
+    },
+    {
+      "question": "4! ને 5 વડે ભાગતા શેષ શું મળે?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "વિલ્સનના પ્રમેય પર આધારિત અવિભાજ્યતા કસોટી કઈ છે?",
+      "options": [
+        {
+          "option": "યુક્લિડિયન અલ્ગોરિધમ"
+        },
+        {
+          "option": "ફર્માનું નાનું પ્રમેય"
+        },
+        {
+          "option": "ઇરાટોસ્થેનિસની ચાળણી"
+        },
+        {
+          "option": "વિલ્સનનું પ્રમેય",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "12! mod 13 શું થાય?",
+      "options": [
+        {
+          "option": "11"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "અવિભાજ્ય p માટે, (p-2)! mod p શું થાય?",
+      "options": [
+        {
+          "option": "p-2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "p-1"
+        }
+      ]
+    },
+    {
+      "question": "શું વિલ્સનનું પ્રમેય મોટી અવિભાજ્ય સંખ્યાઓ ચકાસવા માટે ઉપયોગી છે?",
+      "options": [
+        {
+          "option": "હા, તે સૌથી ઝડપી પદ્ધતિ છે"
+        },
+        {
+          "option": "માત્ર બેકી સંખ્યાઓ માટે"
+        },
+        {
+          "option": "માત્ર ઋણ સંખ્યાઓ માટે"
+        },
+        {
+          "option": "ના, કારણ કે ફેક્ટોરિયલ ખૂબ ઝડપથી વધે છે",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "2! mod 3 શું થાય?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો p અવિભાજ્ય હોય, તો (p-1)! + 1 કોના વડે વિભાજ્ય છે?",
+      "options": [
+        {
+          "option": "p-1"
+        },
+        {
+          "option": "p",
+          "is_answer": true
+        },
+        {
+          "option": "p+1"
+        },
+        {
+          "option": "2p"
+        }
+      ]
+    },
+    {
+      "question": "4! mod 7 શું થાય?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "3! mod 5 શું થાય?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "વિલ્સનનું પ્રમેય જણાવે છે કે (p-1)! ≡ -1 (mod p). -1 mod p કોની બરાબર છે?",
+      "options": [
+        {
+          "option": "p-1",
+          "is_answer": true
+        },
+        {
+          "option": "p"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "5! mod 7 શું થાય?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "જો n વિભાજ્ય હોય અને n > 4 હોય, તો (n-1)! mod n શું થાય?",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "n-1"
+        },
+        {
+          "option": "n"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "1! mod 2 શું થાય?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "પ્રમેય (p-1)! ≡ -1 (mod p) નું નામ કોના પરથી રાખવામાં આવ્યું છે?",
+      "options": [
+        {
+          "option": "કાર્લ ફ્રેડરિક ગૌસ"
+        },
+        {
+          "option": "પિયર ડી ફર્મા"
+        },
+        {
+          "option": "લિયોનહાર્ડ યુલર"
+        },
+        {
+          "option": "જોન વિલ્સન",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "7^95 નો એકમનો અંક કયો છે?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "7^95 - 3^58 નો એકમનો અંક શોધો.",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "2^100 નો એકમનો અંક કયો છે?",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "4^44 નો એકમનો અંક કયો છે?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "9^99 નો એકમનો અંક કયો છે?",
+      "options": [
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "8^123 નો એકમનો અંક કયો છે?",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "7^71 * 6^63 * 3^65 નો એકમનો અંક કયો છે?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "5^1000 નો એકમનો અંક કયો છે?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "124^372 + 124^373 નો એકમનો અંક કયો છે?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "7^95 * 3^58 નો એકમનો અંક કયો છે?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "3^65 * 6^59 * 7^71 નો એકમનો અંક કયો છે?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "22^23 નો એકમનો અંક કયો છે?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "7^105 નો એકમનો અંક કયો છે?",
+      "options": [
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "9^100 નો એકમનો અંક કયો છે?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "3^40 નો એકમનો અંક કયો છે?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "8^44 નો એકમનો અંક કયો છે?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "7^4 * 3^4 નો એકમનો અંક કયો છે?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "2^3 * 3^2 * 4^1 નો એકમનો અંક કયો છે?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "17^17 નો એકમનો અંક કયો છે?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "7^400 ના છેલ્લા બે અંકો કયા છે?",
+      "options": [
+        {
+          "option": "49"
+        },
+        {
+          "option": "43"
+        },
+        {
+          "option": "07"
+        },
+        {
+          "option": "01",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "3^100 ના છેલ્લા બે અંકો કયા છે?",
+      "options": [
+        {
+          "option": "27"
+        },
+        {
+          "option": "03"
+        },
+        {
+          "option": "09"
+        },
+        {
+          "option": "01",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "2^100 ના છેલ્લા બે અંકો કયા છે?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "64"
+        },
+        {
+          "option": "76",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "9^200 ના છેલ્લા બે અંકો કયા છે?",
+      "options": [
+        {
+          "option": "09"
+        },
+        {
+          "option": "19"
+        },
+        {
+          "option": "01",
+          "is_answer": true
+        },
+        {
+          "option": "81"
+        }
+      ]
+    },
+    {
+      "question": "51^20 ના છેલ્લા બે અંકો કયા છે?",
+      "options": [
+        {
+          "option": "21"
+        },
+        {
+          "option": "51"
+        },
+        {
+          "option": "11"
+        },
+        {
+          "option": "01",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "7^200 ના છેલ્લા બે અંકો કયા છે?",
+      "options": [
+        {
+          "option": "43"
+        },
+        {
+          "option": "49"
+        },
+        {
+          "option": "07"
+        },
+        {
+          "option": "01",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "13^40 ના છેલ્લા બે અંકો કયા છે?",
+      "options": [
+        {
+          "option": "39"
+        },
+        {
+          "option": "13"
+        },
+        {
+          "option": "69"
+        },
+        {
+          "option": "01",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "17^40 ના છેલ્લા બે અંકો કયા છે?",
+      "options": [
+        {
+          "option": "17"
+        },
+        {
+          "option": "57"
+        },
+        {
+          "option": "89"
+        },
+        {
+          "option": "01",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "11^100 ના છેલ્લા બે અંકો કયા છે?",
+      "options": [
+        {
+          "option": "31"
+        },
+        {
+          "option": "01",
+          "is_answer": true
+        },
+        {
+          "option": "11"
+        },
+        {
+          "option": "21"
+        }
+      ]
+    },
+    {
+      "question": "21^40 ના છેલ્લા બે અંકો કયા છે?",
+      "options": [
+        {
+          "option": "01",
+          "is_answer": true
+        },
+        {
+          "option": "81"
+        },
+        {
+          "option": "21"
+        },
+        {
+          "option": "41"
+        }
+      ]
+    },
+    {
+      "question": "31^20 ના છેલ્લા બે અંકો કયા છે?",
+      "options": [
+        {
+          "option": "01",
+          "is_answer": true
+        },
+        {
+          "option": "31"
+        },
+        {
+          "option": "61"
+        },
+        {
+          "option": "91"
+        }
+      ]
+    },
+    {
+      "question": "41^10 ના છેલ્લા બે અંકો કયા છે?",
+      "options": [
+        {
+          "option": "21"
+        },
+        {
+          "option": "01",
+          "is_answer": true
+        },
+        {
+          "option": "41"
+        },
+        {
+          "option": "81"
+        }
+      ]
+    },
+    {
+      "question": "6^20 ના છેલ્લા બે અંકો કયા છે?",
+      "options": [
+        {
+          "option": "76",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "96"
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "24^20 ના છેલ્લા બે અંકો કયા છે?",
+      "options": [
+        {
+          "option": "64"
+        },
+        {
+          "option": "44"
+        },
+        {
+          "option": "76",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        }
+      ]
+    },
+    {
+      "question": "76^100 ના છેલ્લા બે અંકો કયા છે?",
+      "options": [
+        {
+          "option": "06"
+        },
+        {
+          "option": "26"
+        },
+        {
+          "option": "76",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "5^4 ના છેલ્લા બે અંકો કયા છે?",
+      "options": [
+        {
+          "option": "05"
+        },
+        {
+          "option": "35"
+        },
+        {
+          "option": "25",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "15^2 ના છેલ્લા બે અંકો કયા છે?",
+      "options": [
+        {
+          "option": "25",
+          "is_answer": true
+        },
+        {
+          "option": "35"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "05"
+        }
+      ]
+    },
+    {
+      "question": "25^3 ના છેલ્લા બે અંકો કયા છે?",
+      "options": [
+        {
+          "option": "25",
+          "is_answer": true
+        },
+        {
+          "option": "00"
+        },
+        {
+          "option": "75"
+        },
+        {
+          "option": "50"
+        }
+      ]
+    },
+    {
+      "question": "35^2 ના છેલ્લા બે અંકો કયા છે?",
+      "options": [
+        {
+          "option": "25",
+          "is_answer": true
+        },
+        {
+          "option": "45"
+        },
+        {
+          "option": "35"
+        },
+        {
+          "option": "55"
+        }
+      ]
+    },
+    {
+      "question": "9^10 ના છેલ્લા બે અંકો કયા છે?",
+      "options": [
+        {
+          "option": "49",
+          "is_answer": true
+        },
+        {
+          "option": "81"
+        },
+        {
+          "option": "29"
+        },
+        {
+          "option": "09"
+        }
+      ]
+    },
+    {
+      "question": "25! માં કેટલા અંતિમ શૂન્યો છે?",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "100! માં કેટલા અંતિમ શૂન્યો છે?",
+      "options": [
+        {
+          "option": "22"
+        },
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "50! માં કેટલા અંતિમ શૂન્યો છે?",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "11"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "13"
+        }
+      ]
+    },
+    {
+      "question": "125! માં કેટલા અંતિમ શૂન્યો છે?",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "31",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "200! માં કેટલા અંતિમ શૂન્યો છે?",
+      "options": [
+        {
+          "option": "50"
+        },
+        {
+          "option": "45"
+        },
+        {
+          "option": "49",
+          "is_answer": true
+        },
+        {
+          "option": "40"
+        }
+      ]
+    },
+    {
+      "question": "10! માં કેટલા અંતિમ શૂન્યો છે?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "30! માં કેટલા અંતિમ શૂન્યો છે?",
+      "options": [
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "400! માં કેટલા અંતિમ શૂન્યો છે?",
+      "options": [
+        {
+          "option": "100"
+        },
+        {
+          "option": "80"
+        },
+        {
+          "option": "95"
+        },
+        {
+          "option": "99",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "60! માં કેટલા અંતિમ શૂન્યો છે?",
+      "options": [
+        {
+          "option": "14",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "13"
+        }
+      ]
+    },
+    {
+      "question": "150! માં કેટલા અંતિમ શૂન્યો છે?",
+      "options": [
+        {
+          "option": "37",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "35"
+        },
+        {
+          "option": "40"
+        }
+      ]
+    },
+    {
+      "question": "250! માં કેટલા અંતિમ શૂન્યો છે?",
+      "options": [
+        {
+          "option": "62",
+          "is_answer": true
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "50"
+        },
+        {
+          "option": "65"
+        }
+      ]
+    },
+    {
+      "question": "500! માં કેટલા અંતિમ શૂન્યો છે?",
+      "options": [
+        {
+          "option": "100"
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "124",
+          "is_answer": true
+        },
+        {
+          "option": "125"
+        }
+      ]
+    },
+    {
+      "question": "75! માં કેટલા અંતિમ શૂન્યો છે?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "18",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "20! માં કેટલા અંતિમ શૂન્યો છે?",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "300! માં કેટલા અંતિમ શૂન્યો છે?",
+      "options": [
+        {
+          "option": "74",
+          "is_answer": true
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "75"
+        },
+        {
+          "option": "70"
+        }
+      ]
+    },
+    {
+      "question": "80! માં કેટલા અંતિમ શૂન્યો છે?",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "19",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "1000! માં કેટલા અંતિમ શૂન્યો છે?",
+      "options": [
+        {
+          "option": "240"
+        },
+        {
+          "option": "250"
+        },
+        {
+          "option": "200"
+        },
+        {
+          "option": "249",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "45! માં કેટલા અંતિમ શૂન્યો છે?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "11"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "35! માં કેટલા અંતિમ શૂન્યો છે?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "625! માં કેટલા અંતિમ શૂન્યો છે?",
+      "options": [
+        {
+          "option": "156",
+          "is_answer": true
+        },
+        {
+          "option": "125"
+        },
+        {
+          "option": "160"
+        },
+        {
+          "option": "150"
+        }
+      ]
+    },
+    {
+      "question": "4! ને ભાગતી 2 ની મહત્તમ ઘાત કઈ છે?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "6! ને ભાગતી 3 ની મહત્તમ ઘાત કઈ છે?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "10! ને ભાગતી 5 ની મહત્તમ ઘાત કઈ છે?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "10! ને ભાગતી 2 ની મહત્તમ ઘાત કઈ છે?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "14! ને ભાગતી 7 ની મહત્તમ ઘાત કઈ છે?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "9! ને ભાગતી 3 ની મહત્તમ ઘાત કઈ છે?",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "8! ને ભાગતી 2 ની મહત્તમ ઘાત કઈ છે?",
+      "options": [
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "25! ને ભાગતી 5 ની મહત્તમ ઘાત કઈ છે?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "12! ને ભાગતી 3 ની મહત્તમ ઘાત કઈ છે?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "16! ને ભાગતી 2 ની મહત્તમ ઘાત કઈ છે?",
+      "options": [
+        {
+          "option": "16"
+        },
+        {
+          "option": "13"
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "22! ને ભાગતી 11 ની મહત્તમ ઘાત કઈ છે?",
+      "options": [
+        {
+          "option": "11"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "27! ને ભાગતી 3 ની મહત્તમ ઘાત કઈ છે?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "13",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "14"
+        }
+      ]
+    },
+    {
+      "question": "32! ને ભાગતી 2 ની મહત્તમ ઘાત કઈ છે?",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "29"
+        },
+        {
+          "option": "31",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "50! ને ભાગતી 7 ની મહત્તમ ઘાત કઈ છે?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "100! ને ભાગતી 5 ની મહત્તમ ઘાત કઈ છે?",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "23"
+        }
+      ]
+    },
+    {
+      "question": "20! ને ભાગતી 3 ની મહત્તમ ઘાત કઈ છે?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "20! ને ભાગતી 2 ની મહત્તમ ઘાત કઈ છે?",
+      "options": [
+        {
+          "option": "17"
+        },
+        {
+          "option": "18",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "19"
+        }
+      ]
+    },
+    {
+      "question": "26! ને ભાગતી 13 ની મહત્તમ ઘાત કઈ છે?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "13"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "30! ને ભાગતી 5 ની મહત્તમ ઘાત કઈ છે?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "6! ને ભાગતી 2 ની મહત્તમ ઘાત કઈ છે?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "12 (2^2 * 3^1) ના કુલ અવયવોની સંખ્યા કેટલી છે?",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "18 (2^1 * 3^2) સંખ્યાના કેટલા અવયવો છે?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "20 (2^2 * 5^1) ના અવયવોની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "24 (2^3 * 3^1) ના કુલ અવયવોની સંખ્યા કેટલી છે?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "36 (2^2 * 3^2) ના કેટલા અવયવો છે?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "40 (2^3 * 5^1) ના અવયવોની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "45 (3^2 * 5^1) ના કુલ અવયવોની સંખ્યા કેટલી છે?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "50 (2^1 * 5^2) ના કેટલા અવયવો છે?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "60 (2^2 * 3^1 * 5^1) ના અવયવોની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "72 (2^3 * 3^2) ના કુલ અવયવોની સંખ્યા કેટલી છે?",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "80 (2^4 * 5^1) ના કેટલા અવયવો છે?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "96 (2^5 * 3^1) ના અવયવોની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "100 (2^2 * 5^2) ના કુલ અવયવોની સંખ્યા કેટલી છે?",
+      "options": [
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "108 (2^2 * 3^3) ના કેટલા અવયવો છે?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "120 (2^3 * 3^1 * 5^1) ના અવયવોની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "144 (2^4 * 3^2) ના કુલ અવયવોની સંખ્યા કેટલી છે?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "150 (2^1 * 3^1 * 5^2) ના કેટલા અવયવો છે?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "200 (2^3 * 5^2) ના અવયવોની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "250 (2^1 * 5^3) ના કુલ અવયવોની સંખ્યા કેટલી છે?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "300 (2^2 * 3^1 * 5^2) ના કેટલા અવયવો છે?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "18",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "6 ના ભાજકોનો સરવાળો કેટલો થાય?",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "10 ના ભાજકોનો સરવાળો કેટલો થાય?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "18",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "12 ના ભાજકોનો સરવાળો કેટલો થાય?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "28",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "7 ના ભાજકોનો સરવાળો કેટલો થાય?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "15 ના ભાજકોનો સરવાળો કેટલો થાય?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "24",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "8 ના ભાજકોનો સરવાળો કેટલો થાય?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "9 ના ભાજકોનો સરવાળો કેટલો થાય?",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "13",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "14 ના ભાજકોનો સરવાળો કેટલો થાય?",
+      "options": [
+        {
+          "option": "28"
+        },
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "16 ના ભાજકોનો સરવાળો કેટલો થાય?",
+      "options": [
+        {
+          "option": "31",
+          "is_answer": true
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "20 ના ભાજકોનો સરવાળો કેટલો થાય?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "42",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        }
+      ]
+    },
+    {
+      "question": "11 ના ભાજકોનો સરવાળો કેટલો થાય?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "22"
+        },
+        {
+          "option": "11"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "18 ના ભાજકોનો સરવાળો કેટલો થાય?",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "39",
+          "is_answer": true
+        },
+        {
+          "option": "27"
+        }
+      ]
+    },
+    {
+      "question": "21 ના ભાજકોનો સરવાળો કેટલો થાય?",
+      "options": [
+        {
+          "option": "21"
+        },
+        {
+          "option": "28"
+        },
+        {
+          "option": "32",
+          "is_answer": true
+        },
+        {
+          "option": "42"
+        }
+      ]
+    },
+    {
+      "question": "25 ના ભાજકોનો સરવાળો કેટલો થાય?",
+      "options": [
+        {
+          "option": "50"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "31",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "24 ના ભાજકોનો સરવાળો કેટલો થાય?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "60",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "13 ના ભાજકોનો સરવાળો કેટલો થાય?",
+      "options": [
+        {
+          "option": "26"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "14",
+          "is_answer": true
+        },
+        {
+          "option": "13"
+        }
+      ]
+    },
+    {
+      "question": "30 ના ભાજકોનો સરવાળો કેટલો થાય?",
+      "options": [
+        {
+          "option": "60"
+        },
+        {
+          "option": "72",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "45"
+        }
+      ]
+    },
+    {
+      "question": "27 ના ભાજકોનો સરવાળો કેટલો થાય?",
+      "options": [
+        {
+          "option": "54"
+        },
+        {
+          "option": "27"
+        },
+        {
+          "option": "40",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "32 ના ભાજકોનો સરવાળો કેટલો થાય?",
+      "options": [
+        {
+          "option": "32"
+        },
+        {
+          "option": "63",
+          "is_answer": true
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "64"
+        }
+      ]
+    },
+    {
+      "question": "4 ના ભાજકોનો સરવાળો કેટલો થાય?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "જો કોઈ સંખ્યા N ના કુલ 'd' ભાજકો હોય, તો તેના તમામ ભાજકોનો ગુણાકાર શું થાય?",
+      "options": [
+        {
+          "option": "N^(d-1)"
+        },
+        {
+          "option": "d^(N/2)"
+        },
+        {
+          "option": "N^d"
+        },
+        {
+          "option": "N^(d/2)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "સંખ્યા 6 ના તમામ ભાજકોનો ગુણાકાર શું છે?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "36",
+          "is_answer": true
+        },
+        {
+          "option": "216"
+        }
+      ]
+    },
+    {
+      "question": "જો સંખ્યા N પૂર્ણ વર્ગ હોય, તો તેના ભાજકોની સંખ્યા હંમેશા કેવી હોય છે?",
+      "options": [
+        {
+          "option": "અવિભાજ્ય (Prime)"
+        },
+        {
+          "option": "બેકી (Even)"
+        },
+        {
+          "option": "એકી (Odd)",
+          "is_answer": true
+        },
+        {
+          "option": "4 નો ગુણક"
+        }
+      ]
+    },
+    {
+      "question": "સંખ્યા 10 ના તમામ ભાજકોનો ગુણાકાર શું છે?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "100",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "1000"
+        }
+      ]
+    },
+    {
+      "question": "4 ભાજકો ધરાવતી સંખ્યા N માટે, ભાજકોનો ગુણાકાર શું થાય?",
+      "options": [
+        {
+          "option": "N^4"
+        },
+        {
+          "option": "N^3"
+        },
+        {
+          "option": "N"
+        },
+        {
+          "option": "N^2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "સંખ્યા 9 ના તમામ ભાજકોનો ગુણાકાર શું છે?",
+      "options": [
+        {
+          "option": "27",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "81"
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "જો N = p^k (જ્યાં p અવિભાજ્ય છે), તો ભાજકોનો ગુણાકાર શું થાય?",
+      "options": [
+        {
+          "option": "p^k"
+        },
+        {
+          "option": "p^(k^2)"
+        },
+        {
+          "option": "p^(k(k+1)/2)",
+          "is_answer": true
+        },
+        {
+          "option": "p^(k+1)"
+        }
+      ]
+    },
+    {
+      "question": "સંખ્યા 12 ના તમામ ભાજકોનો ગુણાકાર શું છે?",
+      "options": [
+        {
+          "option": "1728",
+          "is_answer": true
+        },
+        {
+          "option": "20736"
+        },
+        {
+          "option": "144"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "અવિભાજ્ય સંખ્યા p ના ભાજકોની સંખ્યા કેટલી હોય છે?",
+      "options": [
+        {
+          "option": "p-1"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "p"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "અવિભાજ્ય સંખ્યા p ના તમામ ભાજકોનો ગુણાકાર શું છે?",
+      "options": [
+        {
+          "option": "p^2"
+        },
+        {
+          "option": "p",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2p"
+        }
+      ]
+    },
+    {
+      "question": "જો કોઈ સંખ્યાના 6 ભાજકો હોય, તો તેના ભાજકોનો ગુણાકાર શું થાય?",
+      "options": [
+        {
+          "option": "N^6"
+        },
+        {
+          "option": "N^2"
+        },
+        {
+          "option": "N^4"
+        },
+        {
+          "option": "N^3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "સંખ્યા 8 ના તમામ ભાજકોનો ગુણાકાર શું છે?",
+      "options": [
+        {
+          "option": "64",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "512"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "ભાજકોનો ગુણાકાર N^(d/2) છે. અહીં 'd' શું દર્શાવે છે?",
+      "options": [
+        {
+          "option": "અવિભાજ્ય અવયવોની સંખ્યા"
+        },
+        {
+          "option": "ભાજકોની કુલ સંખ્યા",
+          "is_answer": true
+        },
+        {
+          "option": "N નો ઘાતાંક"
+        },
+        {
+          "option": "સંખ્યા N પોતે"
+        }
+      ]
+    },
+    {
+      "question": "સંખ્યા 16 ના તમામ ભાજકોનો ગુણાકાર શું છે?",
+      "options": [
+        {
+          "option": "16"
+        },
+        {
+          "option": "4096"
+        },
+        {
+          "option": "256"
+        },
+        {
+          "option": "1024",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો N પૂર્ણ વર્ગ હોય, તો તેના ભાજકોનો ગુણાકાર શું થાય?",
+      "options": [
+        {
+          "option": "sqrt(N)"
+        },
+        {
+          "option": "N^(ભાજકોની સંખ્યા / 2)",
+          "is_answer": true
+        },
+        {
+          "option": "N^(ભાજકોની સંખ્યા)"
+        },
+        {
+          "option": "N^2"
+        }
+      ]
+    },
+    {
+      "question": "સંખ્યા 15 ના તમામ ભાજકોનો ગુણાકાર શું છે?",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "225",
+          "is_answer": true
+        },
+        {
+          "option": "45"
+        }
+      ]
+    },
+    {
+      "question": "ભાજકોના ગુણાકાર માટે નીચેનામાંથી શું સાચું છે?",
+      "options": [
+        {
+          "option": "તે હંમેશા N જેટલું હોય છે"
+        },
+        {
+          "option": "તે હંમેશા બેકી હોય છે"
+        },
+        {
+          "option": "તે હંમેશા અવિભાજ્ય સંખ્યા હોય છે"
+        },
+        {
+          "option": "જો N પૂર્ણ વર્ગ હોય તો તે હંમેશા પૂર્ણ વર્ગ હોય છે",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "સંખ્યા 7 ના તમામ ભાજકોનો ગુણાકાર શું છે?",
+      "options": [
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "49"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "જો કોઈ સંખ્યાના 8 ભાજકો હોય, તો તેના ભાજકોનો ગુણાકાર શું થાય?",
+      "options": [
+        {
+          "option": "N^8"
+        },
+        {
+          "option": "N^4",
+          "is_answer": true
+        },
+        {
+          "option": "N^16"
+        },
+        {
+          "option": "N^2"
+        }
+      ]
+    },
+    {
+      "question": "સંખ્યા 4 ના તમામ ભાજકોનો ગુણાકાર શું છે?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "સંખ્યા 12 ના કેટલા એકી ભાજકો છે?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "18 ના બેકી ભાજકોની સંખ્યા કેટલી છે?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "20 નું અવિભાજ્ય અવયવીકરણ 2^2 * 5^1 છે. તેના કેટલા એકી ભાજકો છે?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "12 ના એકી ભાજકોનો સરવાળો કેટલો થાય?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "24 ના કેટલા બેકી ભાજકો છે?",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "જો n = 2^3 * 3^2 હોય, તો n ના કેટલા એકી ભાજકો હોય?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "15 ના તમામ એકી ભાજકોનો સરવાળો કેટલો છે?",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "24",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "30 ના કેટલા બેકી ભાજકો છે?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "n = 2^a * m (જ્યાં m એકી છે) માટે, બેકી ભાજકોની સંખ્યા કેટલી થાય?",
+      "options": [
+        {
+          "option": "(a+1) * (m ના ભાજકોની સંખ્યા)"
+        },
+        {
+          "option": "a * (m ના ભાજકોની સંખ્યા)",
+          "is_answer": true
+        },
+        {
+          "option": "a * (m ના ભાજકોની સંખ્યા + 1)"
+        },
+        {
+          "option": "m ના ભાજકોની સંખ્યા"
+        }
+      ]
+    },
+    {
+      "question": "100 ના કેટલા એકી ભાજકો છે?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "12 ના બેકી ભાજકોનો સરવાળો કેટલો છે?",
+      "options": [
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "2^4 * 3^3 ના કેટલા એકી ભાજકો છે?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "48 ના બેકી ભાજકોની સંખ્યા કેટલી છે?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "210 ના કેટલા એકી ભાજકો છે?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "20 ના એકી ભાજકોનો સરવાળો કેટલો છે?",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "2^5 ના કેટલા બેકી ભાજકો છે?",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "જો n = 3^2 * 5^1 હોય, તો n ના કેટલા એકી ભાજકો છે?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "40 ના કેટલા બેકી ભાજકો છે?",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "2^3 * 7^2 ના એકી ભાજકોની સંખ્યા કેટલી છે?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "18 ના એકી ભાજકોનો સરવાળો કેટલો છે?",
+      "options": [
+        {
+          "option": "13",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કઈ સંખ્યાઓની જોડી સહ-અવિભાજ્ય (co-prime) છે?",
+      "options": [
+        {
+          "option": "(14, 21)"
+        },
+        {
+          "option": "(15, 20)"
+        },
+        {
+          "option": "(14, 15)",
+          "is_answer": true
+        },
+        {
+          "option": "(12, 18)"
+        }
+      ]
+    },
+    {
+      "question": "બે સહ-અવિભાજ્ય સંખ્યાઓનો ગુરુત્તમ સામાન્ય અવયવ (GCD) શું છે?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "નાની સંખ્યા"
+        }
+      ]
+    },
+    {
+      "question": "શું બે ક્રમિક પૂર્ણાંકો હંમેશા સહ-અવિભાજ્ય હોય છે?",
+      "options": [
+        {
+          "option": "ના"
+        },
+        {
+          "option": "હા",
+          "is_answer": true
+        },
+        {
+          "option": "માત્ર જો બંને એકી હોય"
+        },
+        {
+          "option": "માત્ર જો બંને બેકી હોય"
+        }
+      ]
+    },
+    {
+      "question": "કઈ જોડી સહ-અવિભાજ્ય નથી?",
+      "options": [
+        {
+          "option": "(11, 13)"
+        },
+        {
+          "option": "(9, 21)",
+          "is_answer": true
+        },
+        {
+          "option": "(8, 9)"
+        },
+        {
+          "option": "(17, 19)"
+        }
+      ]
+    },
+    {
+      "question": "શું બે અલગ અવિભાજ્ય સંખ્યાઓ હંમેશા સહ-અવિભાજ્ય હોય છે?",
+      "options": [
+        {
+          "option": "માત્ર જો તે ક્રમિક હોય"
+        },
+        {
+          "option": "માત્ર જો તેમનો સરવાળો એકી હોય"
+        },
+        {
+          "option": "ના"
+        },
+        {
+          "option": "હા",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "શું સંખ્યા 1 દરેક ધન પૂર્ણાંક સાથે સહ-અવિભાજ્ય છે?",
+      "options": [
+        {
+          "option": "માત્ર એકી સંખ્યાઓ સાથે"
+        },
+        {
+          "option": "માત્ર અવિભાજ્ય સંખ્યાઓ સાથે"
+        },
+        {
+          "option": "ના"
+        },
+        {
+          "option": "હા",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "આમાંથી કઈ જોડી સહ-અવિભાજ્ય છે?",
+      "options": [
+        {
+          "option": "(25, 26)",
+          "is_answer": true
+        },
+        {
+          "option": "(25, 50)"
+        },
+        {
+          "option": "(25, 35)"
+        },
+        {
+          "option": "(25, 30)"
+        }
+      ]
+    },
+    {
+      "question": "જો GCD(a, b) = 1 હોય, તો a અને b ને શું કહેવાય છે?",
+      "options": [
+        {
+          "option": "સહ-અવિભાજ્ય",
+          "is_answer": true
+        },
+        {
+          "option": "વિભાજ્ય"
+        },
+        {
+          "option": "એકી"
+        },
+        {
+          "option": "બેકી"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કઈ જોડી સહ-અવિભાજ્ય છે?",
+      "options": [
+        {
+          "option": "(21, 42)"
+        },
+        {
+          "option": "(21, 28)"
+        },
+        {
+          "option": "(21, 22)",
+          "is_answer": true
+        },
+        {
+          "option": "(21, 35)"
+        }
+      ]
+    },
+    {
+      "question": "શું બે બેકી સંખ્યાઓ ક્યારેય સહ-અવિભાજ્ય હોય છે?",
+      "options": [
+        {
+          "option": "હા, જો તે ક્રમિક હોય"
+        },
+        {
+          "option": "ના",
+          "is_answer": true
+        },
+        {
+          "option": "હા, જો તે અવિભાજ્ય હોય"
+        },
+        {
+          "option": "હા, હંમેશા"
+        }
+      ]
+    },
+    {
+      "question": "કઈ જોડી સહ-અવિભાજ્ય છે?",
+      "options": [
+        {
+          "option": "(13, 39)"
+        },
+        {
+          "option": "(13, 14)",
+          "is_answer": true
+        },
+        {
+          "option": "(13, 52)"
+        },
+        {
+          "option": "(13, 26)"
+        }
+      ]
+    },
+    {
+      "question": "જો બે સંખ્યાઓ સહ-અવિભાજ્ય હોય, તો શું તે અવિભાજ્ય હોવી જરૂરી છે?",
+      "options": [
+        {
+          "option": "ના",
+          "is_answer": true
+        },
+        {
+          "option": "હા"
+        },
+        {
+          "option": "માત્ર પ્રથમ"
+        },
+        {
+          "option": "માત્ર બીજી"
+        }
+      ]
+    },
+    {
+      "question": "આમાંથી કઈ જોડી સહ-અવિભાજ્ય નથી?",
+      "options": [
+        {
+          "option": "(15, 28)"
+        },
+        {
+          "option": "(15, 25)",
+          "is_answer": true
+        },
+        {
+          "option": "(15, 16)"
+        },
+        {
+          "option": "(15, 22)"
+        }
+      ]
+    },
+    {
+      "question": "17 અને 19 નો GCD શું છે?",
+      "options": [
+        {
+          "option": "17"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "323"
+        },
+        {
+          "option": "19"
+        }
+      ]
+    },
+    {
+      "question": "શું 20 અને 21 સહ-અવિભાજ્ય છે?",
+      "options": [
+        {
+          "option": "માત્ર જો 3 વડે ભાગવામાં આવે"
+        },
+        {
+          "option": "ના"
+        },
+        {
+          "option": "માત્ર જો 2 વડે ભાગવામાં આવે"
+        },
+        {
+          "option": "હા",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "શું અવિભાજ્ય સંખ્યા અને વિભાજ્ય સંખ્યા સહ-અવિભાજ્ય હોઈ શકે?",
+      "options": [
+        {
+          "option": "માત્ર જો વિભાજ્ય બેકી હોય"
+        },
+        {
+          "option": "ના"
+        },
+        {
+          "option": "માત્ર જો અવિભાજ્ય 2 હોય"
+        },
+        {
+          "option": "હા",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કઈ જોડી સહ-અવિભાજ્ય છે?",
+      "options": [
+        {
+          "option": "(3, 8)",
+          "is_answer": true
+        },
+        {
+          "option": "(3, 6)"
+        },
+        {
+          "option": "(3, 12)"
+        },
+        {
+          "option": "(3, 9)"
+        }
+      ]
+    },
+    {
+      "question": "શું 15 અને 28 સહ-અવિભાજ્ય છે?",
+      "options": [
+        {
+          "option": "ના"
+        },
+        {
+          "option": "માત્ર જો તેઓ સામાન્ય અવયવ ધરાવતા હોય"
+        },
+        {
+          "option": "હા",
+          "is_answer": true
+        },
+        {
+          "option": "માત્ર જો બંને બેકી હોય"
+        }
+      ]
+    },
+    {
+      "question": "કઈ જોડી સહ-અવિભાજ્ય નથી?",
+      "options": [
+        {
+          "option": "(4, 5)"
+        },
+        {
+          "option": "(4, 9)"
+        },
+        {
+          "option": "(4, 6)",
+          "is_answer": true
+        },
+        {
+          "option": "(4, 7)"
+        }
+      ]
+    },
+    {
+      "question": "12 અને 18 નો ગુ.સા.અ. (HCF) શું છે?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "4 અને 6 નો લ.સા.અ. (LCM) શું છે?",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "24"
+        }
+      ]
+    },
+    {
+      "question": "બે સંખ્યાઓનો ગુણાકાર તેમના કયા ગુણાકાર બરાબર હોય છે?",
+      "options": [
+        {
+          "option": "સરવાળો અને તફાવત"
+        },
+        {
+          "option": "અવિભાજ્ય અવયવો"
+        },
+        {
+          "option": "ગુ.સા.અ. અને લ.સા.અ.",
+          "is_answer": true
+        },
+        {
+          "option": "ભાગફળ અને શેષ"
+        }
+      ]
+    },
+    {
+      "question": "બે અવિભાજ્ય સંખ્યાઓનો ગુ.સા.અ. શું હોય છે?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "મોટી સંખ્યા"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "સંખ્યાઓનો ગુણાકાર"
+        }
+      ]
+    },
+    {
+      "question": "કઈ પદ્ધતિમાં સંખ્યાને તેના અવિભાજ્ય અવયવોમાં વિભાજિત કરવામાં આવે છે?",
+      "options": [
+        {
+          "option": "બાદબાકીની રીત"
+        },
+        {
+          "option": "સરવાળાની રીત"
+        },
+        {
+          "option": "અવિભાજ્ય અવયવીકરણ",
+          "is_answer": true
+        },
+        {
+          "option": "ભાગાકારની રીત"
+        }
+      ]
+    },
+    {
+      "question": "5 અને 10 નો લ.સા.અ. શું છે?",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "50"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "15 અને 25 નો ગુ.સા.અ. છે:",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "75"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "3, 6 અને 9 નો લ.સા.અ. શું છે?",
+      "options": [
+        {
+          "option": "27"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "18",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "જો ગુ.સા.અ.(a, b) = 1 હોય, તો a અને b ને શું કહેવાય?",
+      "options": [
+        {
+          "option": "સહ-અવિભાજ્ય",
+          "is_answer": true
+        },
+        {
+          "option": "બેકી"
+        },
+        {
+          "option": "વિભાજ્ય"
+        },
+        {
+          "option": "એકી"
+        }
+      ]
+    },
+    {
+      "question": "7 અને 14 નો ગુ.સા.અ. શું છે?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "બે અવિભાજ્ય સંખ્યાઓનો લ.સા.અ. હંમેશા શું હોય છે?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "તેમનો સરવાળો"
+        },
+        {
+          "option": "તેમનો ગુણાકાર",
+          "is_answer": true
+        },
+        {
+          "option": "મોટી સંખ્યા"
+        }
+      ]
+    },
+    {
+      "question": "20 અને 30 નો ગુ.સા.અ. શું છે?",
+      "options": [
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "કોઈપણ બે સંખ્યા a અને b માટે શું હંમેશા સાચું છે?",
+      "options": [
+        {
+          "option": "ગુ.સા.અ.(a,b) > લ.સા.અ.(a,b)"
+        },
+        {
+          "option": "ગુ.સા.અ.(a,b) + લ.સા.અ.(a,b) = a + b"
+        },
+        {
+          "option": "ગુ.સા.અ.(a,b) = લ.સા.અ.(a,b)"
+        },
+        {
+          "option": "ગુ.સા.અ.(a,b) * લ.સા.અ.(a,b) = a * b",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "8 અને 12 નો લ.સા.અ. શું છે?",
+      "options": [
+        {
+          "option": "48"
+        },
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "16 અને 24 નો ગુ.સા.અ. છે:",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "7 અને 11 નો લ.સા.અ. શું છે?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "11"
+        },
+        {
+          "option": "77",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "10, 20 અને 30 નો ગુ.સા.અ. શું છે?",
+      "options": [
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "LCM નું પૂરું નામ શું છે?",
+      "options": [
+        {
+          "option": "લોન્ગેસ્ટ કોમન મલ્ટીપલ"
+        },
+        {
+          "option": "લીસ્ટ કોમન મલ્ટીપલ",
+          "is_answer": true
+        },
+        {
+          "option": "લીસ્ટ કોમન મેથડ"
+        },
+        {
+          "option": "લોએસ્ટ કોમન મલ્ટીપલ"
+        }
+      ]
+    },
+    {
+      "question": "13 અને 17 નો ગુ.સા.અ. શું છે?",
+      "options": [
+        {
+          "option": "221"
+        },
+        {
+          "option": "17"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "13"
+        }
+      ]
+    },
+    {
+      "question": "2, 4 અને 8 નો લ.સા.અ. શું છે?",
+      "options": [
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "કોઈપણ બે ધન પૂર્ણાંકો a અને b માટે, તેમના ગુણાકાર, ગુ.સા.અ. અને લ.સા.અ. વચ્ચેનો સંબંધ શું છે?",
+      "options": [
+        {
+          "option": "a * b = ગુ.સા.અ. + લ.સા.અ."
+        },
+        {
+          "option": "a * b = ગુ.સા.અ. / લ.સા.અ."
+        },
+        {
+          "option": "a * b = લ.સા.અ. / ગુ.સા.અ."
+        },
+        {
+          "option": "a * b = ગુ.સા.અ. * લ.સા.અ.",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "ગુ.સા.અ. અને લ.સા.અ. ના સંદર્ભમાં નીચેનામાંથી કયું વિધાન હંમેશા સાચું છે?",
+      "options": [
+        {
+          "option": "લ.સા.અ. હંમેશા ગુ.સા.અ. ને ભાગે છે"
+        },
+        {
+          "option": "ગુ.સા.અ. હંમેશા લ.સા.અ. કરતા મોટો હોય છે"
+        },
+        {
+          "option": "ગુ.સા.અ. અને લ.સા.અ. હંમેશા સમાન હોય છે"
+        },
+        {
+          "option": "ગુ.સા.અ. હંમેશા લ.સા.અ. ને ભાગે છે",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "અપૂર્ણાંકોનો ગુ.સા.અ. કેવી રીતે ગણવામાં આવે છે?",
+      "options": [
+        {
+          "option": "અંશનો ગુ.સા.અ. / છેદનો લ.સા.અ.",
+          "is_answer": true
+        },
+        {
+          "option": "અંશનો ગુ.સા.અ. / છેદનો ગુ.સા.અ."
+        },
+        {
+          "option": "અંશનો લ.સા.અ. / છેદનો ગુ.સા.અ."
+        },
+        {
+          "option": "અંશનો લ.સા.અ. / છેદનો લ.સા.અ."
+        }
+      ]
+    },
+    {
+      "question": "અપૂર્ણાંકોનો લ.સા.અ. કેવી રીતે ગણવામાં આવે છે?",
+      "options": [
+        {
+          "option": "અંશનો ગુ.સા.અ. / છેદનો ગુ.સા.અ."
+        },
+        {
+          "option": "અંશનો લ.સા.અ. / છેદનો લ.સા.અ."
+        },
+        {
+          "option": "અંશનો ગુ.સા.અ. / છેદનો લ.સા.અ."
+        },
+        {
+          "option": "અંશનો લ.સા.અ. / છેદનો ગુ.સા.અ.",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો બે સંખ્યાઓનો ગુણાકાર 120 હોય અને તેમનો ગુ.સા.અ. 2 હોય, તો તેમનો લ.સા.અ. કેટલો થાય?",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "60",
+          "is_answer": true
+        },
+        {
+          "option": "240"
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "શું બે સંખ્યાઓનો ગુ.સા.અ. તેમના લ.સા.અ. કરતા મોટો હોઈ શકે?",
+      "options": [
+        {
+          "option": "હા, હંમેશા"
+        },
+        {
+          "option": "માત્ર જો સંખ્યાઓ અવિભાજ્ય હોય"
+        },
+        {
+          "option": "માત્ર જો સંખ્યાઓ સમાન હોય"
+        },
+        {
+          "option": "ના, ક્યારેય નહીં",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો બે સંખ્યાઓ પરસ્પર અવિભાજ્ય હોય, તો તેમનો ગુ.સા.અ. શું થાય?",
+      "options": [
+        {
+          "option": "સંખ્યાઓનો ગુણાકાર"
+        },
+        {
+          "option": "નાની સંખ્યા"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો બે સંખ્યાઓ પરસ્પર અવિભાજ્ય હોય, તો તેમનો લ.સા.અ. શું થાય?",
+      "options": [
+        {
+          "option": "સંખ્યાઓનો ગુણાકાર",
+          "is_answer": true
+        },
+        {
+          "option": "સંખ્યાઓનો તફાવત"
+        },
+        {
+          "option": "સંખ્યાઓનો સરવાળો"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "બે ક્રમિક પ્રાકૃતિક સંખ્યાઓનો ગુ.સા.અ. શું થાય?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "નાની સંખ્યા"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "બે ક્રમિક પ્રાકૃતિક સંખ્યાઓનો લ.સા.અ. શું થાય?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "સંખ્યાઓનો ગુણાકાર",
+          "is_answer": true
+        },
+        {
+          "option": "સંખ્યાઓનો સરવાળો"
+        },
+        {
+          "option": "મોટી સંખ્યા"
+        }
+      ]
+    },
+    {
+      "question": "જો ગુ.સા.અ.(a, b) = 5 અને લ.સા.અ.(a, b) = 50 હોય, તો નીચેનામાંથી કઈ સંખ્યાઓ હોઈ શકે?",
+      "options": [
+        {
+          "option": "5 અને 10"
+        },
+        {
+          "option": "25 અને 50"
+        },
+        {
+          "option": "5 અને 5"
+        },
+        {
+          "option": "10 અને 25",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "બે સંખ્યાઓનો ગુ.સા.અ. 12 છે અને તેમનો લ.સા.અ. 144 છે. જો એક સંખ્યા 36 હોય, તો બીજી સંખ્યા કઈ છે?",
+      "options": [
+        {
+          "option": "72"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "48",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "શું બે સંખ્યાઓનો ગુ.સા.અ. અવિભાજ્ય સંખ્યા હોઈ શકે?",
+      "options": [
+        {
+          "option": "માત્ર જો સંખ્યાઓ સમાન હોય"
+        },
+        {
+          "option": "ના"
+        },
+        {
+          "option": "માત્ર જો સંખ્યાઓ એકી હોય"
+        },
+        {
+          "option": "હા",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો a એ b ને ભાગે, તો a અને b નો ગુ.સા.અ. શું થાય?",
+      "options": [
+        {
+          "option": "b"
+        },
+        {
+          "option": "a * b"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "a",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો a એ b ને ભાગે, તો a અને b નો લ.સા.અ. શું થાય?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "a * b"
+        },
+        {
+          "option": "b",
+          "is_answer": true
+        },
+        {
+          "option": "a"
+        }
+      ]
+    },
+    {
+      "question": "1/2, 3/4 અને 5/6 નો ગુ.સા.અ. શું થાય?",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "1/12",
+          "is_answer": true
+        },
+        {
+          "option": "5/12"
+        },
+        {
+          "option": "15/12"
+        }
+      ]
+    },
+    {
+      "question": "1/2, 3/4 અને 5/6 નો લ.સા.અ. શું થાય?",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "15/2",
+          "is_answer": true
+        },
+        {
+          "option": "1/12"
+        },
+        {
+          "option": "5/12"
+        }
+      ]
+    },
+    {
+      "question": "બે સંખ્યાઓનો ગુણાકાર 1600 છે અને તેમનો ગુ.સા.અ. 5 છે. તેમનો લ.સા.અ. શું થાય?",
+      "options": [
+        {
+          "option": "8000"
+        },
+        {
+          "option": "400"
+        },
+        {
+          "option": "320",
+          "is_answer": true
+        },
+        {
+          "option": "160"
+        }
+      ]
+    },
+    {
+      "question": "કોઈપણ બે સંખ્યાઓ a અને b માટે નીચેનામાંથી શું સાચું છે?",
+      "options": [
+        {
+          "option": "ગુ.સા.અ.(a, b) * લ.સા.અ.(a, b) = a * b",
+          "is_answer": true
+        },
+        {
+          "option": "ગુ.સા.અ.(a, b) + લ.સા.અ.(a, b) = a * b"
+        },
+        {
+          "option": "ગુ.સા.અ.(a, b) - લ.સા.અ.(a, b) = a * b"
+        },
+        {
+          "option": "ગુ.સા.અ.(a, b) / લ.સા.અ.(a, b) = a * b"
+        }
+      ]
+    },
+    {
+      "question": "જો બે સંખ્યાઓનો ગુ.સા.અ. 1 હોય, તો તેમને શું કહેવાય?",
+      "options": [
+        {
+          "option": "બેકી સંખ્યાઓ"
+        },
+        {
+          "option": "પરસ્પર અવિભાજ્ય સંખ્યાઓ",
+          "is_answer": true
+        },
+        {
+          "option": "વિભાજ્ય સંખ્યાઓ"
+        },
+        {
+          "option": "અવિભાજ્ય સંખ્યાઓ"
+        }
+      ]
+    },
+    {
+      "question": "એક રૂમ 12 મીટર લાંબો અને 8 મીટર પહોળો છે. તે રૂમના ભોંયતળિયે લગાવી શકાય તેવી સૌથી મોટી ચોરસ ટાઇલની બાજુનું માપ કેટલું હશે?",
+      "options": [
+        {
+          "option": "4 મીટર",
+          "is_answer": true
+        },
+        {
+          "option": "8 મીટર"
+        },
+        {
+          "option": "2 મીટર"
+        },
+        {
+          "option": "6 મીટર"
+        }
+      ]
+    },
+    {
+      "question": "બે પાત્રોમાં 20 લીટર અને 30 લીટર દૂધ છે. માપવાના પાત્રની મહત્તમ ક્ષમતા કેટલી હોવી જોઈએ જેથી બંનેને ચોક્કસ રીતે માપી શકાય?",
+      "options": [
+        {
+          "option": "10 લીટર",
+          "is_answer": true
+        },
+        {
+          "option": "15 લીટર"
+        },
+        {
+          "option": "2 લીટર"
+        },
+        {
+          "option": "5 લીટર"
+        }
+      ]
+    },
+    {
+      "question": "એક ભોંયતળિયું 16 મીટર બાય 24 મીટરનું છે. કાપ્યા વગર તેને ઢાંકવા માટે સૌથી મોટી ચોરસ ટાઇલનું માપ શું હશે?",
+      "options": [
+        {
+          "option": "2 મીટર"
+        },
+        {
+          "option": "8 મીટર",
+          "is_answer": true
+        },
+        {
+          "option": "12 મીટર"
+        },
+        {
+          "option": "4 મીટર"
+        }
+      ]
+    },
+    {
+      "question": "બે ડ્રમમાં 45 લીટર અને 75 લીટર તેલ છે. તે બંનેને ચોક્કસ રીતે માપી શકે તેવું સૌથી મોટું માપ કયું છે?",
+      "options": [
+        {
+          "option": "15 લીટર",
+          "is_answer": true
+        },
+        {
+          "option": "3 લીટર"
+        },
+        {
+          "option": "5 લીટર"
+        },
+        {
+          "option": "25 લીટર"
+        }
+      ]
+    },
+    {
+      "question": "એક લંબચોરસ ખેતર 36 મીટર લાંબુ અને 24 મીટર પહોળું છે. ખેતરને વિભાજિત કરી શકે તેવા સૌથી મોટા ચોરસ પ્લોટની બાજુનું માપ શું હશે?",
+      "options": [
+        {
+          "option": "8 મીટર"
+        },
+        {
+          "option": "12 મીટર",
+          "is_answer": true
+        },
+        {
+          "option": "4 મીટર"
+        },
+        {
+          "option": "6 મીટર"
+        }
+      ]
+    },
+    {
+      "question": "બે ટાંકીમાં 18 લીટર અને 27 લીટર પાણી છે. બંનેને માપવા માટે ડોલની મહત્તમ ક્ષમતા શોધો.",
+      "options": [
+        {
+          "option": "1 લીટર"
+        },
+        {
+          "option": "9 લીટર",
+          "is_answer": true
+        },
+        {
+          "option": "3 લીટર"
+        },
+        {
+          "option": "6 લીટર"
+        }
+      ]
+    },
+    {
+      "question": "એક રૂમ 10 મીટર બાય 15 મીટરનો છે. સંપૂર્ણ રીતે બંધબેસતી સૌથી મોટી ચોરસ ટાઇલનું માપ શું છે?",
+      "options": [
+        {
+          "option": "2 મીટર"
+        },
+        {
+          "option": "3 મીટર"
+        },
+        {
+          "option": "5 મીટર",
+          "is_answer": true
+        },
+        {
+          "option": "1 મીટર"
+        }
+      ]
+    },
+    {
+      "question": "બે પાત્રોમાં 40 લીટર અને 60 લીટર પ્રવાહી છે. માપવાના પાત્રની સૌથી મોટી ક્ષમતા કેટલી છે?",
+      "options": [
+        {
+          "option": "5 લીટર"
+        },
+        {
+          "option": "30 લીટર"
+        },
+        {
+          "option": "20 લીટર",
+          "is_answer": true
+        },
+        {
+          "option": "10 લીટર"
+        }
+      ]
+    },
+    {
+      "question": "એક ભોંયતળિયું 28 મીટર બાય 35 મીટરનું છે. સૌથી મોટી ચોરસ ટાઇલની બાજુની લંબાઈ કેટલી છે?",
+      "options": [
+        {
+          "option": "7 મીટર",
+          "is_answer": true
+        },
+        {
+          "option": "4 મીટર"
+        },
+        {
+          "option": "5 મીટર"
+        },
+        {
+          "option": "1 મીટર"
+        }
+      ]
+    },
+    {
+      "question": "બે ડ્રમમાં 14 લીટર અને 21 લીટર દૂધ છે. માપવાના પાત્રની મહત્તમ ક્ષમતા કેટલી છે?",
+      "options": [
+        {
+          "option": "2 લીટર"
+        },
+        {
+          "option": "3 લીટર"
+        },
+        {
+          "option": "7 લીટર",
+          "is_answer": true
+        },
+        {
+          "option": "1 લીટર"
+        }
+      ]
+    },
+    {
+      "question": "એક રૂમ 20 મીટર બાય 25 મીટરનો છે. સૌથી મોટી ચોરસ ટાઇલનું માપ શું છે?",
+      "options": [
+        {
+          "option": "5 મીટર",
+          "is_answer": true
+        },
+        {
+          "option": "4 મીટર"
+        },
+        {
+          "option": "2 મીટર"
+        },
+        {
+          "option": "1 મીટર"
+        }
+      ]
+    },
+    {
+      "question": "બે ટાંકીમાં 32 લીટર અને 48 લીટર પાણી છે. સૌથી મોટું માપ કયું છે?",
+      "options": [
+        {
+          "option": "16 લીટર",
+          "is_answer": true
+        },
+        {
+          "option": "24 લીટર"
+        },
+        {
+          "option": "4 લીટર"
+        },
+        {
+          "option": "8 લીટર"
+        }
+      ]
+    },
+    {
+      "question": "એક ભોંયતળિયું 42 મીટર બાય 56 મીટરનું છે. સૌથી મોટી ચોરસ ટાઇલની બાજુ કેટલી છે?",
+      "options": [
+        {
+          "option": "14 મીટર",
+          "is_answer": true
+        },
+        {
+          "option": "2 મીટર"
+        },
+        {
+          "option": "7 મીટર"
+        },
+        {
+          "option": "8 મીટર"
+        }
+      ]
+    },
+    {
+      "question": "બે પાત્રોમાં 12 લીટર અને 18 લીટર તેલ છે. માપવાના પાત્રની મહત્તમ ક્ષમતા શોધો.",
+      "options": [
+        {
+          "option": "3 લીટર"
+        },
+        {
+          "option": "9 લીટર"
+        },
+        {
+          "option": "2 લીટર"
+        },
+        {
+          "option": "6 લીટર",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "એક રૂમ 15 મીટર બાય 20 મીટરનો છે. સૌથી મોટી ચોરસ ટાઇલનું માપ શું છે?",
+      "options": [
+        {
+          "option": "5 મીટર",
+          "is_answer": true
+        },
+        {
+          "option": "3 મીટર"
+        },
+        {
+          "option": "1 મીટર"
+        },
+        {
+          "option": "2 મીટર"
+        }
+      ]
+    },
+    {
+      "question": "બે ડ્રમમાં 24 લીટર અને 36 લીટર દૂધ છે. સૌથી મોટું માપ કયું છે?",
+      "options": [
+        {
+          "option": "12 લીટર",
+          "is_answer": true
+        },
+        {
+          "option": "6 લીટર"
+        },
+        {
+          "option": "4 લીટર"
+        },
+        {
+          "option": "8 લીટર"
+        }
+      ]
+    },
+    {
+      "question": "એક ભોંયતળિયું 30 મીટર બાય 45 મીટરનું છે. સૌથી મોટી ચોરસ ટાઇલની બાજુ કેટલી છે?",
+      "options": [
+        {
+          "option": "3 મીટર"
+        },
+        {
+          "option": "5 મીટર"
+        },
+        {
+          "option": "10 મીટર"
+        },
+        {
+          "option": "15 મીટર",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "બે ટાંકીમાં 50 લીટર અને 75 લીટર પાણી છે. માપવાના પાત્રની મહત્તમ ક્ષમતા કેટલી છે?",
+      "options": [
+        {
+          "option": "25 લીટર",
+          "is_answer": true
+        },
+        {
+          "option": "5 લીટર"
+        },
+        {
+          "option": "15 લીટર"
+        },
+        {
+          "option": "10 લીટર"
+        }
+      ]
+    },
+    {
+      "question": "એક રૂમ 18 મીટર બાય 24 મીટરનો છે. સૌથી મોટી ચોરસ ટાઇલનું માપ શું છે?",
+      "options": [
+        {
+          "option": "3 મીટર"
+        },
+        {
+          "option": "2 મીટર"
+        },
+        {
+          "option": "4 મીટર"
+        },
+        {
+          "option": "6 મીટર",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "બે પાત્રોમાં 22 લીટર અને 33 લીટર તેલ છે. સૌથી મોટું માપ કયું છે?",
+      "options": [
+        {
+          "option": "1 લીટર"
+        },
+        {
+          "option": "3 લીટર"
+        },
+        {
+          "option": "2 લીટર"
+        },
+        {
+          "option": "11 લીટર",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "ત્રણ ઘંટડીઓ 12, 15 અને 18 સેકન્ડના અંતરે વાગે છે. જો તેઓ અત્યારે સાથે વાગે, તો હવે પછી કેટલા સેકન્ડ પછી તેઓ ફરીથી સાથે વાગશે?",
+      "options": [
+        {
+          "option": "180 સેકન્ડ",
+          "is_answer": true
+        },
+        {
+          "option": "540 સેકન્ડ"
+        },
+        {
+          "option": "360 સેકન્ડ"
+        },
+        {
+          "option": "90 સેકન્ડ"
+        }
+      ]
+    },
+    {
+      "question": "ઘંટડીઓ 6, 8 અને 12 સેકન્ડના અંતરે વાગે છે. તેઓ ફરીથી ક્યારે સાથે વાગશે?",
+      "options": [
+        {
+          "option": "48 સેકન્ડ"
+        },
+        {
+          "option": "24 સેકન્ડ",
+          "is_answer": true
+        },
+        {
+          "option": "36 સેકન્ડ"
+        },
+        {
+          "option": "12 સેકન્ડ"
+        }
+      ]
+    },
+    {
+      "question": "ચાર ઘંટડીઓ 5, 10, 15 અને 20 સેકન્ડના અંતરે વાગે છે. તેઓ ફરીથી સાથે વાગતા કેટલો સમય લેશે?",
+      "options": [
+        {
+          "option": "30 સેકન્ડ"
+        },
+        {
+          "option": "120 સેકન્ડ"
+        },
+        {
+          "option": "60 સેકન્ડ",
+          "is_answer": true
+        },
+        {
+          "option": "90 સેકન્ડ"
+        }
+      ]
+    },
+    {
+      "question": "બે ઘંટડીઓ 10 અને 15 સેકન્ડના અંતરે વાગે છે. કેટલા સેકન્ડ પછી તેઓ સાથે વાગશે?",
+      "options": [
+        {
+          "option": "15 સેકન્ડ"
+        },
+        {
+          "option": "45 સેકન્ડ"
+        },
+        {
+          "option": "60 સેકન્ડ"
+        },
+        {
+          "option": "30 સેકન્ડ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "ઘંટડીઓ 4, 6 અને 8 સેકન્ડના અંતરે વાગે છે. તેઓ ક્યારે સાથે વાગશે?",
+      "options": [
+        {
+          "option": "12 સેકન્ડ"
+        },
+        {
+          "option": "48 સેકન્ડ"
+        },
+        {
+          "option": "32 સેકન્ડ"
+        },
+        {
+          "option": "24 સેકન્ડ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "ત્રણ ઘંટડીઓ 9, 12 અને 15 સેકન્ડના અંતરે વાગે છે. તેઓ ફરીથી ક્યારે સાથે વાગશે?",
+      "options": [
+        {
+          "option": "180 સેકન્ડ",
+          "is_answer": true
+        },
+        {
+          "option": "360 સેકન્ડ"
+        },
+        {
+          "option": "90 સેકન્ડ"
+        },
+        {
+          "option": "270 સેકન્ડ"
+        }
+      ]
+    },
+    {
+      "question": "ઘંટડીઓ 2, 4, 6 અને 8 સેકન્ડના અંતરે વાગે છે. તેઓ ક્યારે સાથે વાગશે?",
+      "options": [
+        {
+          "option": "12 સેકન્ડ"
+        },
+        {
+          "option": "24 સેકન્ડ",
+          "is_answer": true
+        },
+        {
+          "option": "36 સેકન્ડ"
+        },
+        {
+          "option": "48 સેકન્ડ"
+        }
+      ]
+    },
+    {
+      "question": "ત્રણ ઘંટડીઓ 7, 14 અને 21 સેકન્ડના અંતરે વાગે છે. તેઓ ક્યારે સાથે વાગશે?",
+      "options": [
+        {
+          "option": "21 સેકન્ડ"
+        },
+        {
+          "option": "42 સેકન્ડ",
+          "is_answer": true
+        },
+        {
+          "option": "63 સેકન્ડ"
+        },
+        {
+          "option": "84 સેકન્ડ"
+        }
+      ]
+    },
+    {
+      "question": "ઘંટડીઓ 3, 6 અને 9 સેકન્ડના અંતરે વાગે છે. તેઓ ક્યારે સાથે વાગશે?",
+      "options": [
+        {
+          "option": "9 સેકન્ડ"
+        },
+        {
+          "option": "36 સેકન્ડ"
+        },
+        {
+          "option": "27 સેકન્ડ"
+        },
+        {
+          "option": "18 સેકન્ડ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "ઘંટડીઓ 5, 15 અને 25 સેકન્ડના અંતરે વાગે છે. તેઓ ક્યારે સાથે વાગશે?",
+      "options": [
+        {
+          "option": "75 સેકન્ડ",
+          "is_answer": true
+        },
+        {
+          "option": "25 સેકન્ડ"
+        },
+        {
+          "option": "50 સેકન્ડ"
+        },
+        {
+          "option": "150 સેકન્ડ"
+        }
+      ]
+    },
+    {
+      "question": "ઘંટડીઓ 8, 12 અને 16 સેકન્ડના અંતરે વાગે છે. તેઓ ક્યારે સાથે વાગશે?",
+      "options": [
+        {
+          "option": "24 સેકન્ડ"
+        },
+        {
+          "option": "96 સેકન્ડ"
+        },
+        {
+          "option": "48 સેકન્ડ",
+          "is_answer": true
+        },
+        {
+          "option": "32 સેકન્ડ"
+        }
+      ]
+    },
+    {
+      "question": "ઘંટડીઓ 10, 20 અને 30 સેકન્ડના અંતરે વાગે છે. તેઓ ક્યારે સાથે વાગશે?",
+      "options": [
+        {
+          "option": "90 સેકન્ડ"
+        },
+        {
+          "option": "120 સેકન્ડ"
+        },
+        {
+          "option": "60 સેકન્ડ",
+          "is_answer": true
+        },
+        {
+          "option": "30 સેકન્ડ"
+        }
+      ]
+    },
+    {
+      "question": "ઘંટડીઓ 4, 5 અને 10 સેકન્ડના અંતરે વાગે છે. તેઓ ક્યારે સાથે વાગશે?",
+      "options": [
+        {
+          "option": "20 સેકન્ડ",
+          "is_answer": true
+        },
+        {
+          "option": "40 સેકન્ડ"
+        },
+        {
+          "option": "60 સેકન્ડ"
+        },
+        {
+          "option": "10 સેકન્ડ"
+        }
+      ]
+    },
+    {
+      "question": "ઘંટડીઓ 6, 9 અને 12 સેકન્ડના અંતરે વાગે છે. તેઓ ક્યારે સાથે વાગશે?",
+      "options": [
+        {
+          "option": "36 સેકન્ડ",
+          "is_answer": true
+        },
+        {
+          "option": "54 સેકન્ડ"
+        },
+        {
+          "option": "18 સેકન્ડ"
+        },
+        {
+          "option": "72 સેકન્ડ"
+        }
+      ]
+    },
+    {
+      "question": "ઘંટડીઓ 2, 3 અને 5 સેકન્ડના અંતરે વાગે છે. તેઓ ક્યારે સાથે વાગશે?",
+      "options": [
+        {
+          "option": "60 સેકન્ડ"
+        },
+        {
+          "option": "10 સેકન્ડ"
+        },
+        {
+          "option": "30 સેકન્ડ",
+          "is_answer": true
+        },
+        {
+          "option": "15 સેકન્ડ"
+        }
+      ]
+    },
+    {
+      "question": "ઘંટડીઓ 4, 8 અને 12 સેકન્ડના અંતરે વાગે છે. તેઓ ક્યારે સાથે વાગશે?",
+      "options": [
+        {
+          "option": "48 સેકન્ડ"
+        },
+        {
+          "option": "12 સેકન્ડ"
+        },
+        {
+          "option": "24 સેકન્ડ",
+          "is_answer": true
+        },
+        {
+          "option": "36 સેકન્ડ"
+        }
+      ]
+    },
+    {
+      "question": "ઘંટડીઓ 5, 6 અને 10 સેકન્ડના અંતરે વાગે છે. તેઓ ક્યારે સાથે વાગશે?",
+      "options": [
+        {
+          "option": "15 સેકન્ડ"
+        },
+        {
+          "option": "45 સેકન્ડ"
+        },
+        {
+          "option": "60 સેકન્ડ"
+        },
+        {
+          "option": "30 સેકન્ડ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "ઘંટડીઓ 3, 4 અને 6 સેકન્ડના અંતરે વાગે છે. તેઓ ક્યારે સાથે વાગશે?",
+      "options": [
+        {
+          "option": "12 સેકન્ડ",
+          "is_answer": true
+        },
+        {
+          "option": "6 સેકન્ડ"
+        },
+        {
+          "option": "18 સેકન્ડ"
+        },
+        {
+          "option": "24 સેકન્ડ"
+        }
+      ]
+    },
+    {
+      "question": "ઘંટડીઓ 2, 5 અને 10 સેકન્ડના અંતરે વાગે છે. તેઓ ક્યારે સાથે વાગશે?",
+      "options": [
+        {
+          "option": "20 સેકન્ડ"
+        },
+        {
+          "option": "30 સેકન્ડ"
+        },
+        {
+          "option": "10 સેકન્ડ",
+          "is_answer": true
+        },
+        {
+          "option": "5 સેકન્ડ"
+        }
+      ]
+    },
+    {
+      "question": "ઘંટડીઓ 7, 8 અને 14 સેકન્ડના અંતરે વાગે છે. તેઓ ક્યારે સાથે વાગશે?",
+      "options": [
+        {
+          "option": "28 સેકન્ડ"
+        },
+        {
+          "option": "56 સેકન્ડ",
+          "is_answer": true
+        },
+        {
+          "option": "112 સેકન્ડ"
+        },
+        {
+          "option": "84 સેકન્ડ"
+        }
+      ]
+    },
+    {
+      "question": "√72 નું સાદું રૂપ આપો.",
+      "options": [
+        {
+          "option": "12√6"
+        },
+        {
+          "option": "6√2",
+          "is_answer": true
+        },
+        {
+          "option": "3√8"
+        },
+        {
+          "option": "2√6"
+        }
+      ]
+    },
+    {
+      "question": "1/√3 ના છેદનું સંમેયીકરણ કરો.",
+      "options": [
+        {
+          "option": "3/√3"
+        },
+        {
+          "option": "√3"
+        },
+        {
+          "option": "√3/3",
+          "is_answer": true
+        },
+        {
+          "option": "1/3"
+        }
+      ]
+    },
+    {
+      "question": "√(3 + 2√2) ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "2 + √3"
+        },
+        {
+          "option": "√2 + 1",
+          "is_answer": true
+        },
+        {
+          "option": "√2 - 1"
+        },
+        {
+          "option": "√3 + √2"
+        }
+      ]
+    },
+    {
+      "question": "√50 - √18 નું સાદું રૂપ આપો.",
+      "options": [
+        {
+          "option": "8√2"
+        },
+        {
+          "option": "4√2"
+        },
+        {
+          "option": "2√2",
+          "is_answer": true
+        },
+        {
+          "option": "√32"
+        }
+      ]
+    },
+    {
+      "question": "1/(2 + √3) નું સંમેયીકરણ કરો.",
+      "options": [
+        {
+          "option": "2 + √3"
+        },
+        {
+          "option": "√3 - 2"
+        },
+        {
+          "option": "2 - √3",
+          "is_answer": true
+        },
+        {
+          "option": "1/(2 - √3)"
+        }
+      ]
+    },
+    {
+      "question": "√27 + √12 નું સાદું રૂપ આપો.",
+      "options": [
+        {
+          "option": "6√3"
+        },
+        {
+          "option": "3√3"
+        },
+        {
+          "option": "5√3",
+          "is_answer": true
+        },
+        {
+          "option": "2√3"
+        }
+      ]
+    },
+    {
+      "question": "√(7 + 4√3) ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "√7 + √3"
+        },
+        {
+          "option": "2 + √3",
+          "is_answer": true
+        },
+        {
+          "option": "2 - √3"
+        },
+        {
+          "option": "√3 + 1"
+        }
+      ]
+    },
+    {
+      "question": "√8 × √2 નું સાદું રૂપ આપો.",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "√16"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "3/(√5 - √2) નું સંમેયીકરણ કરો.",
+      "options": [
+        {
+          "option": "√5 + √2",
+          "is_answer": true
+        },
+        {
+          "option": "3(√5 + √2)"
+        },
+        {
+          "option": "√5 - √2"
+        },
+        {
+          "option": "(√5 + √2)/3"
+        }
+      ]
+    },
+    {
+      "question": "√125 નું સાદું રૂપ આપો.",
+      "options": [
+        {
+          "option": "25√5"
+        },
+        {
+          "option": "10√5"
+        },
+        {
+          "option": "5√25"
+        },
+        {
+          "option": "5√5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "√(4 + 2√3) ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "√2 + √3"
+        },
+        {
+          "option": "2 + √3"
+        },
+        {
+          "option": "√3 + 1",
+          "is_answer": true
+        },
+        {
+          "option": "√3 - 1"
+        }
+      ]
+    },
+    {
+      "question": "√200 / √2 નું સાદું રૂપ આપો.",
+      "options": [
+        {
+          "option": "100"
+        },
+        {
+          "option": "50"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "1/(√7 + √6) નું સંમેયીકરણ કરો.",
+      "options": [
+        {
+          "option": "√7 - √6",
+          "is_answer": true
+        },
+        {
+          "option": "1/(√7 - √6)"
+        },
+        {
+          "option": "√6 - √7"
+        },
+        {
+          "option": "√7 + √6"
+        }
+      ]
+    },
+    {
+      "question": "√48 નું સાદું રૂપ આપો.",
+      "options": [
+        {
+          "option": "6√2"
+        },
+        {
+          "option": "4√3",
+          "is_answer": true
+        },
+        {
+          "option": "2√12"
+        },
+        {
+          "option": "8√6"
+        }
+      ]
+    },
+    {
+      "question": "√(6 + 2√5) ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "√5 + 1",
+          "is_answer": true
+        },
+        {
+          "option": "√5 - 1"
+        },
+        {
+          "option": "2 + √5"
+        },
+        {
+          "option": "√3 + √2"
+        }
+      ]
+    },
+    {
+      "question": "√32 + √8 નું સાદું રૂપ આપો.",
+      "options": [
+        {
+          "option": "4√2"
+        },
+        {
+          "option": "8√2"
+        },
+        {
+          "option": "2√2"
+        },
+        {
+          "option": "6√2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "2/(√5 + 1) નું સંમેયીકરણ કરો.",
+      "options": [
+        {
+          "option": "2(√5 - 1)"
+        },
+        {
+          "option": "√5 - 1"
+        },
+        {
+          "option": "√5 + 1"
+        },
+        {
+          "option": "(√5 - 1)/2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "√98 નું સાદું રૂપ આપો.",
+      "options": [
+        {
+          "option": "7√2",
+          "is_answer": true
+        },
+        {
+          "option": "2√7"
+        },
+        {
+          "option": "4√7"
+        },
+        {
+          "option": "14√2"
+        }
+      ]
+    },
+    {
+      "question": "√(8 + 2√7) ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "√7 + 1",
+          "is_answer": true
+        },
+        {
+          "option": "√7 - 1"
+        },
+        {
+          "option": "2 + √7"
+        },
+        {
+          "option": "√8 + √7"
+        }
+      ]
+    },
+    {
+      "question": "√75 - √27 નું સાદું રૂપ આપો.",
+      "options": [
+        {
+          "option": "√48"
+        },
+        {
+          "option": "3√3"
+        },
+        {
+          "option": "2√3",
+          "is_answer": true
+        },
+        {
+          "option": "4√3"
+        }
+      ]
+    },
+    {
+      "question": "0.333... ને અપૂર્ણાંકમાં ફેરવો.",
+      "options": [
+        {
+          "option": "33/100"
+        },
+        {
+          "option": "3/10"
+        },
+        {
+          "option": "1/33"
+        },
+        {
+          "option": "1/3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "0.666... ને અપૂર્ણાંકમાં ફેરવો.",
+      "options": [
+        {
+          "option": "2/3",
+          "is_answer": true
+        },
+        {
+          "option": "1/6"
+        },
+        {
+          "option": "66/100"
+        },
+        {
+          "option": "6/10"
+        }
+      ]
+    },
+    {
+      "question": "0.222... ને અપૂર્ણાંકમાં ફેરવો.",
+      "options": [
+        {
+          "option": "1/22"
+        },
+        {
+          "option": "2/9",
+          "is_answer": true
+        },
+        {
+          "option": "22/100"
+        },
+        {
+          "option": "2/10"
+        }
+      ]
+    },
+    {
+      "question": "0.555... ને અપૂર્ણાંકમાં ફેરવો.",
+      "options": [
+        {
+          "option": "1/5"
+        },
+        {
+          "option": "5/10"
+        },
+        {
+          "option": "5/9",
+          "is_answer": true
+        },
+        {
+          "option": "55/100"
+        }
+      ]
+    },
+    {
+      "question": "0.444... ને અપૂર્ણાંકમાં ફેરવો.",
+      "options": [
+        {
+          "option": "4/9",
+          "is_answer": true
+        },
+        {
+          "option": "4/10"
+        },
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "44/100"
+        }
+      ]
+    },
+    {
+      "question": "0.777... ને અપૂર્ણાંકમાં ફેરવો.",
+      "options": [
+        {
+          "option": "1/7"
+        },
+        {
+          "option": "7/9",
+          "is_answer": true
+        },
+        {
+          "option": "77/100"
+        },
+        {
+          "option": "7/10"
+        }
+      ]
+    },
+    {
+      "question": "0.888... ને અપૂર્ણાંકમાં ફેરવો.",
+      "options": [
+        {
+          "option": "8/10"
+        },
+        {
+          "option": "8/9",
+          "is_answer": true
+        },
+        {
+          "option": "88/100"
+        },
+        {
+          "option": "1/8"
+        }
+      ]
+    },
+    {
+      "question": "0.111... ને અપૂર્ણાંકમાં ફેરવો.",
+      "options": [
+        {
+          "option": "1/9",
+          "is_answer": true
+        },
+        {
+          "option": "1/11"
+        },
+        {
+          "option": "1/10"
+        },
+        {
+          "option": "11/100"
+        }
+      ]
+    },
+    {
+      "question": "0.2323... ને અપૂર્ણાંકમાં ફેરવો.",
+      "options": [
+        {
+          "option": "23/999"
+        },
+        {
+          "option": "23/90"
+        },
+        {
+          "option": "23/100"
+        },
+        {
+          "option": "23/99",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "0.4545... ને અપૂર્ણાંકમાં ફેરવો.",
+      "options": [
+        {
+          "option": "45/99",
+          "is_answer": true
+        },
+        {
+          "option": "45/100"
+        },
+        {
+          "option": "5/11"
+        },
+        {
+          "option": "45/90"
+        }
+      ]
+    },
+    {
+      "question": "0.1212... ને અપૂર્ણાંકમાં ફેરવો.",
+      "options": [
+        {
+          "option": "12/100"
+        },
+        {
+          "option": "12/90"
+        },
+        {
+          "option": "1/12"
+        },
+        {
+          "option": "12/99",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "0.0909... ને અપૂર્ણાંકમાં ફેરવો.",
+      "options": [
+        {
+          "option": "1/9"
+        },
+        {
+          "option": "9/90"
+        },
+        {
+          "option": "9/99",
+          "is_answer": true
+        },
+        {
+          "option": "9/100"
+        }
+      ]
+    },
+    {
+      "question": "0.123123... ને અપૂર્ણાંકમાં ફેરવો.",
+      "options": [
+        {
+          "option": "123/999",
+          "is_answer": true
+        },
+        {
+          "option": "1/123"
+        },
+        {
+          "option": "123/1000"
+        },
+        {
+          "option": "123/990"
+        }
+      ]
+    },
+    {
+      "question": "0.001001... ને અપૂર્ણાંકમાં ફેરવો.",
+      "options": [
+        {
+          "option": "1/1000"
+        },
+        {
+          "option": "1/990"
+        },
+        {
+          "option": "1/100"
+        },
+        {
+          "option": "1/999",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "0.5454... ને અપૂર્ણાંકમાં ફેરવો.",
+      "options": [
+        {
+          "option": "54/99",
+          "is_answer": true
+        },
+        {
+          "option": "6/11"
+        },
+        {
+          "option": "54/100"
+        },
+        {
+          "option": "54/90"
+        }
+      ]
+    },
+    {
+      "question": "0.3636... ને અપૂર્ણાંકમાં ફેરવો.",
+      "options": [
+        {
+          "option": "36/100"
+        },
+        {
+          "option": "36/99",
+          "is_answer": true
+        },
+        {
+          "option": "4/11"
+        },
+        {
+          "option": "36/90"
+        }
+      ]
+    },
+    {
+      "question": "0.7272... ને અપૂર્ણાંકમાં ફેરવો.",
+      "options": [
+        {
+          "option": "72/99",
+          "is_answer": true
+        },
+        {
+          "option": "72/100"
+        },
+        {
+          "option": "8/11"
+        },
+        {
+          "option": "72/90"
+        }
+      ]
+    },
+    {
+      "question": "0.0101... ને અપૂર્ણાંકમાં ફેરવો.",
+      "options": [
+        {
+          "option": "1/10"
+        },
+        {
+          "option": "1/90"
+        },
+        {
+          "option": "1/99",
+          "is_answer": true
+        },
+        {
+          "option": "1/100"
+        }
+      ]
+    },
+    {
+      "question": "0.2727... ને અપૂર્ણાંકમાં ફેરવો.",
+      "options": [
+        {
+          "option": "27/90"
+        },
+        {
+          "option": "27/99",
+          "is_answer": true
+        },
+        {
+          "option": "3/11"
+        },
+        {
+          "option": "27/100"
+        }
+      ]
+    },
+    {
+      "question": "0.8181... ને અપૂર્ણાંકમાં ફેરવો.",
+      "options": [
+        {
+          "option": "81/100"
+        },
+        {
+          "option": "81/99",
+          "is_answer": true
+        },
+        {
+          "option": "9/11"
+        },
+        {
+          "option": "81/90"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કયું તમામ પૂર્ણ સંખ્યાઓનો સમૂહ રજૂ કરે છે?",
+      "options": [
+        {
+          "option": "{-1, 0, 1, 2, ...}"
+        },
+        {
+          "option": "{0, 1, 2, 3, ...}",
+          "is_answer": true
+        },
+        {
+          "option": "{..., -2, -1, 0, 1, 2, ...}"
+        },
+        {
+          "option": "{1, 2, 3, ...}"
+        }
+      ]
+    },
+    {
+      "question": "પ્રાકૃતિક સંખ્યા 1 ની પૂર્વવર્તી સંખ્યા કઈ છે?",
+      "options": [
+        {
+          "option": "પ્રાકૃતિક સંખ્યાઓમાં અસ્તિત્વ નથી"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "-15 ની વિરોધી સંખ્યા (યોગ્ય પ્રતિલોમ) શું છે?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "-15"
+        },
+        {
+          "option": "1/15"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કઈ સંખ્યા પ્રાકૃતિક સંખ્યા છે પરંતુ પૂર્ણ સંખ્યા નથી?",
+      "options": [
+        {
+          "option": "કોઈ નહીં",
+          "is_answer": true
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "-1 ની અનુવર્તી સંખ્યા કઈ છે?",
+      "options": [
+        {
+          "option": "-2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "અસ્તિત્વ નથી"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જ્યારે કોઈપણ પૂર્ણાંકનો ગુણાકાર શૂન્ય સાથે કરવામાં આવે ત્યારે શું થાય છે?",
+      "options": [
+        {
+          "option": "પરિણામ પૂર્ણાંક પોતે જ આવે છે"
+        },
+        {
+          "option": "પરિણામ 1 આવે છે"
+        },
+        {
+          "option": "પરિણામ 0 આવે છે",
+          "is_answer": true
+        },
+        {
+          "option": "પરિણામ અવ્યાખ્યાયિત છે"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી સૌથી નાની ધન પૂર્ણાંક સંખ્યા કઈ છે?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "કોઈ પૂર્ણાંક અને તેની વિરોધી સંખ્યાનો સરવાળો કેટલો થાય છે?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "પૂર્ણાંક પોતે"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "પૂર્ણ સંખ્યાઓના સમૂહમાં કઈ પૂર્ણ સંખ્યાનો પૂર્વવર્તી નથી?",
+      "options": [
+        {
+          "option": "-1"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "એવી કોઈ સંખ્યા નથી"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કઈ સંખ્યા ધન કે ઋણ બંનેમાંથી એકપણ પૂર્ણાંક નથી?",
+      "options": [
+        {
+          "option": "-1"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1 અને -1 બંને"
+        }
+      ]
+    },
+    {
+      "question": "પૂર્ણ સંખ્યાઓમાં 999 ની અનુવર્તી સંખ્યા કઈ છે?",
+      "options": [
+        {
+          "option": "998"
+        },
+        {
+          "option": "999"
+        },
+        {
+          "option": "1000",
+          "is_answer": true
+        },
+        {
+          "option": "1001"
+        }
+      ]
+    },
+    {
+      "question": "જ્યારે કોઈપણ પૂર્ણાંક 'a' માંથી 0 બાદ કરવામાં આવે ત્યારે શું પરિણામ મળે?",
+      "options": [
+        {
+          "option": "a",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "-a"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "પૂર્ણાંક સંખ્યાઓ માટે કયું વિધાન સાચું છે?",
+      "options": [
+        {
+          "option": "દરેક ઋણ પૂર્ણાંક શૂન્ય કરતા મોટો હોય છે"
+        },
+        {
+          "option": "-5 એ -2 કરતા મોટો છે"
+        },
+        {
+          "option": "દરેક ધન પૂર્ણાંક દરેક ઋણ પૂર્ણાંક કરતા મોટો હોય છે",
+          "is_answer": true
+        },
+        {
+          "option": "શૂન્ય એ ઋણ પૂર્ણાંક છે"
+        }
+      ]
+    },
+    {
+      "question": "0 ની વિરોધી સંખ્યા (યોગ્ય પ્રતિલોમ) શું છે?",
+      "options": [
+        {
+          "option": "અસ્તિત્વ નથી"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કયો સમૂહ બાદબાકીની ક્રિયા માટે સંવૃત (closed) છે?",
+      "options": [
+        {
+          "option": "પૂર્ણ સંખ્યાઓ"
+        },
+        {
+          "option": "પ્રાકૃતિક સંખ્યાઓ"
+        },
+        {
+          "option": "આમાંથી કોઈ નહીં"
+        },
+        {
+          "option": "પૂર્ણાંક સંખ્યાઓ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "-10 ની પૂર્વવર્તી સંખ્યા કઈ છે?",
+      "options": [
+        {
+          "option": "-9"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "-11",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "સૌથી મોટો ઋણ પૂર્ણાંક કયો છે?",
+      "options": [
+        {
+          "option": "-100"
+        },
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-અનંત"
+        }
+      ]
+    },
+    {
+      "question": "જ્યારે કોઈપણ પૂર્ણ સંખ્યામાં 0 ઉમેરવામાં આવે ત્યારે શું મળે છે?",
+      "options": [
+        {
+          "option": "પૂર્ણ સંખ્યા પોતે",
+          "is_answer": true
+        },
+        {
+          "option": "સંખ્યાની અનુવર્તી સંખ્યા"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "સંખ્યા રેખા પર 0 ની ડાબી બાજુએ નીચેનામાંથી કઈ સંખ્યા આવેલી છે?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "-5",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "એક ઋણ પૂર્ણાંક અને શૂન્ય નો ગુણાકાર કેટલો થાય?",
+      "options": [
+        {
+          "option": "-1"
+        },
+        {
+          "option": "એક ઋણ પૂર્ણાંક"
+        },
+        {
+          "option": "એક ધન પૂર્ણાંક"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જ્યારે 3^100 ને 7 વડે ભાગવામાં આવે ત્યારે શેષ શું વધે?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "7^2023 નો છેલ્લો અંક શોધો.",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કયું 7 મોડ્યુલોનું આદિમ મૂળ (primitive root) છે?",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "x માટે ઉકેલો: 5x ≡ 3 (mod 11).",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "ઓઈલરના ટોશિયન્ટ ફંક્શન φ(20) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "2^50 ને 31 વડે ભાગતા મળતી શેષ શોધો.",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "સૌથી નાનો ધન પૂર્ણાંક n કયો છે જેથી n! એ 11 વડે વિભાજ્ય હોય?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "11",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "10^10 mod 13 ની ગણતરી કરો.",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "72 ના કેટલા ભાજકો (divisors) છે?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "જ્યારે 100! ને 101 વડે ભાગવામાં આવે ત્યારે શેષ શું વધે?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "50"
+        },
+        {
+          "option": "100",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "7 મોડ્યુલો 3 નો ગુણાત્મક વ્યસ્ત (multiplicative inverse) શોધો.",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "આમાંથી કઈ ફર્મા અવિભાજ્ય સંખ્યા (Fermat prime) છે?",
+      "options": [
+        {
+          "option": "17",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "27"
+        },
+        {
+          "option": "21"
+        }
+      ]
+    },
+    {
+      "question": "2^10 mod 11 નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "જો a ≡ b (mod n) હોય, તો શું હંમેશા સાચું છે?",
+      "options": [
+        {
+          "option": "a/n ≡ b/n (mod n)"
+        },
+        {
+          "option": "a ≡ b (mod n^2)"
+        },
+        {
+          "option": "a+n ≡ b (mod n)"
+        },
+        {
+          "option": "a^k ≡ b^k (mod n)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "15^20 mod 7 ની શેષ શોધો.",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "120 અને 45 નો ગુ.સા.અ. (GCD) શું છે?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "1 અને 20 ની વચ્ચે કેટલી અવિભાજ્ય સંખ્યાઓ છે?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "x માટે ઉકેલો: x ≡ 2 (mod 3) અને x ≡ 3 (mod 5).",
+      "options": [
+        {
+          "option": "11"
+        },
+        {
+          "option": "13"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "7^100 ને 10 વડે ભાગતા મળતી શેષ શું છે?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "કઈ સંખ્યા 5 mod 9 ને અનુરૂપ (congruent) છે?",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "14",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "સૌથી નાની અવિભાજ્ય સંખ્યા કઈ છે?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "1/2 નું દશાંશ સ્વરૂપ શું છે?",
+      "options": [
+        {
+          "option": "0.2"
+        },
+        {
+          "option": "0.12"
+        },
+        {
+          "option": "0.05"
+        },
+        {
+          "option": "0.5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "આમાંથી કઈ પ્રાકૃતિક સંખ્યા છે?",
+      "options": [
+        {
+          "option": "-1"
+        },
+        {
+          "option": "-5"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "પ્રથમ ત્રણ અવિભાજ્ય સંખ્યાઓનો સરવાળો કેટલો થાય?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        }
+      ]
+    }
+  ]
+}

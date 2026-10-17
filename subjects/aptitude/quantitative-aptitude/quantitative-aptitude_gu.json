@@ -1,0 +1,9005 @@
+{
+  "total_questions": 500,
+  "questions": [
+    {
+      "question": "x માટે ઉકેલો: 3x - 5 = 10",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "રેખીય સમીકરણ 2x + 3 = 11 નો ઉકેલ શું છે?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "સમીકરણમાં y ની કિંમત શોધો: 5y - 3 = 2y + 9",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "જો x + y = 10 અને x - y = 4 હોય, તો x ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "એકસાથે સમીકરણો ઉકેલો: 2x + y = 7 અને x - y = 2",
+      "options": [
+        {
+          "option": "x = 3, y = 1",
+          "is_answer": true
+        },
+        {
+          "option": "x = 4, y = -1"
+        },
+        {
+          "option": "x = 1, y = 5"
+        },
+        {
+          "option": "x = 2, y = 3"
+        }
+      ]
+    },
+    {
+      "question": "સમીકરણમાં x ની કિંમત શોધો: (x/2) + (x/3) = 10",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "k ની કઈ કિંમત માટે સમીકરણો x + 2y = 3 અને 2x + 4y = k ને અનંત ઉકેલો હશે?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "x માટે ઉકેલો: 4(x - 2) = 3(x + 1)",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "11",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "જો 3x + 2y = 12 અને x = 4 હોય, તો y ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "સમીકરણ પદ્ધતિમાં y ની સ્થિતિ શું છે: 3x + y = 10 અને 9x + 3y = 30?",
+      "options": [
+        {
+          "option": "y = 0"
+        },
+        {
+          "option": "અનંત ઉકેલો",
+          "is_answer": true
+        },
+        {
+          "option": "કોઈ ઉકેલ નથી"
+        },
+        {
+          "option": "અનન્ય ઉકેલ"
+        }
+      ]
+    },
+    {
+      "question": "x માટે ઉકેલો: 7x - 2 = 5x + 8",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "બે સંખ્યાઓનો સરવાળો 25 છે અને તેમનો તફાવત 5 છે. મોટી સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "આસ્થાપન પદ્ધતિથી ઉકેલો: y = 2x અને x + y = 9",
+      "options": [
+        {
+          "option": "x = 2, y = 4"
+        },
+        {
+          "option": "x = 4, y = 8"
+        },
+        {
+          "option": "x = 3, y = 6",
+          "is_answer": true
+        },
+        {
+          "option": "x = 6, y = 3"
+        }
+      ]
+    },
+    {
+      "question": "જો 0.3x + 0.4 = 0.5x + 0.2 હોય તો x ની કિંમત શોધો",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "1.5"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0.5"
+        }
+      ]
+    },
+    {
+      "question": "જો 5x - 4y = 10 અને 2x = 3y હોય, તો x ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "સમીકરણમાં x ની કિંમત શું છે: 2(x + 3) - 3(x - 1) = 6?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "x અને y ની કિંમતો શોધો: x + 2y = 5 અને 3x + 6y = 15",
+      "options": [
+        {
+          "option": "અનંત ઉકેલો",
+          "is_answer": true
+        },
+        {
+          "option": "કોઈ ઉકેલ નથી"
+        },
+        {
+          "option": "અનન્ય ઉકેલ (1, 2)"
+        },
+        {
+          "option": "અનન્ય ઉકેલ (2, 1)"
+        }
+      ]
+    },
+    {
+      "question": "x માટે ઉકેલો: (2x - 1)/3 = (x + 2)/2",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "જો સમીકરણ પદ્ધતિ x - y = 1 અને x + ky = 5 નો કોઈ ઉકેલ ન હોય, તો k ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "જો 4x/3 - 2 = 6 હોય તો x શોધો",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "બિંદુઓ (2, 3) અને (4, 7) માંથી પસાર થતી રેખાનો ঢાળ (slope) શું છે?",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "-2"
+        }
+      ]
+    },
+    {
+      "question": "જે રેખાનું સમીકરણ 3x - 4y + 5 = 0 છે, તેનો ঢાળ શોધો.",
+      "options": [
+        {
+          "option": "-3/4"
+        },
+        {
+          "option": "3/4",
+          "is_answer": true
+        },
+        {
+          "option": "4/3"
+        },
+        {
+          "option": "-4/3"
+        }
+      ]
+    },
+    {
+      "question": "ઢાળ 2 અને y-અંતಃખંડ 3 વાળી રેખાનું સમીકરણ શું છે?",
+      "options": [
+        {
+          "option": "y = 2x + 3",
+          "is_answer": true
+        },
+        {
+          "option": "2x - y = 3"
+        },
+        {
+          "option": "y = 3x + 2"
+        },
+        {
+          "option": "y = -2x + 3"
+        }
+      ]
+    },
+    {
+      "question": "જો બે રેખાઓ પરસ્પર લંબ હોય અને એક રેખાનો ঢાળ -2/3 હોય, તો બીજી રેખાનો ঢાળ કેટલો થાય?",
+      "options": [
+        {
+          "option": "-2/3"
+        },
+        {
+          "option": "3/2",
+          "is_answer": true
+        },
+        {
+          "option": "2/3"
+        },
+        {
+          "option": "-3/2"
+        }
+      ]
+    },
+    {
+      "question": "બિંદુ (1, 2) માંથી પસાર થતી અને ઢાળ 3 વાળી રેખાનું સમીકરણ શોધો.",
+      "options": [
+        {
+          "option": "y = 3x + 1"
+        },
+        {
+          "option": "y - 1 = 3(x - 2)"
+        },
+        {
+          "option": "y + 2 = 3(x + 1)"
+        },
+        {
+          "option": "y - 2 = 3(x - 1)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "x-અક્ષને સમાંતર રેખાનો ঢાળ કેટલો હોય છે?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "અવ્યાખ્યાયિત (Undefined)"
+        }
+      ]
+    },
+    {
+      "question": "y-અક્ષને સમાંતર રેખાનો ঢાળ કેટલો હોય છે?",
+      "options": [
+        {
+          "option": "અવ્યાખ્યાયિત (Undefined)",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "સમીકરણ 2x + 5y = 10 દ્વારા દર્શાવતી રેખાનો y-અંતઃખંડ શોધો.",
+      "options": [
+        {
+          "option": "-2"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "બિંદુઓ (-1, -2) અને (-3, -4) માંથી પસાર થતી રેખાનો ঢાળ શું છે?",
+      "options": [
+        {
+          "option": "-2"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "જો બે રેખાઓ સમાંતર હોય, તો તેમના ঢાળ (m1 અને m2) વચ્ચેનો સંબંધ શું છે?",
+      "options": [
+        {
+          "option": "m1 * m2 = -1"
+        },
+        {
+          "option": "m1 + m2 = 0"
+        },
+        {
+          "option": "m1 * m2 = 1"
+        },
+        {
+          "option": "m1 = m2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "રેખા 4x - 3y = 12 નો x-અંતઃખંડ શોધો.",
+      "options": [
+        {
+          "option": "-4"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "-3"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "બિંદુઓ (5, 2) અને (5, 8) માંથી પસાર થતી રેખાનો ঢાળ શું છે?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "અવ્યાખ્યાયિત (Undefined)",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "ઉગમબિંદુમાંથી પસાર થતી અને -4 ઢાળવાળી રેખાનું સમીકરણ શોધો.",
+      "options": [
+        {
+          "option": "y = 4x"
+        },
+        {
+          "option": "x + 4y = 0"
+        },
+        {
+          "option": "y = -4x + 1"
+        },
+        {
+          "option": "y = -4x",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "x-અક્ષની ધન દિશા સાથે 45 અંશનો ખૂણો બનાવતી રેખાનો ঢાળ કેટલો થાય?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "અવ્યાખ્યાયિત (Undefined)"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "રેખા 5x + 2y - 7 = 0 ને લંબ હોય તેવી રેખાનો ঢાળ શોધો.",
+      "options": [
+        {
+          "option": "5/2"
+        },
+        {
+          "option": "-5/2"
+        },
+        {
+          "option": "-2/5"
+        },
+        {
+          "option": "2/5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કયું બિંદુ રેખા y = 3x - 1 પર આવેલું છે?",
+      "options": [
+        {
+          "option": "(2, 5)",
+          "is_answer": true
+        },
+        {
+          "option": "(0, 1)"
+        },
+        {
+          "option": "(3, 2)"
+        },
+        {
+          "option": "(1, 3)"
+        }
+      ]
+    },
+    {
+      "question": "બિંદુઓ (0, 0) અને (3, -9) માંથી પસાર થતી રેખાનો ঢાળ શોધો.",
+      "options": [
+        {
+          "option": "-1/3"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "-3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "બિંદુ (4, -5) માંથી પસાર થતી અને 0 ઢાળવાળી રેખાનું સમીકરણ શોધો.",
+      "options": [
+        {
+          "option": "x = 4"
+        },
+        {
+          "option": "x = -5"
+        },
+        {
+          "option": "y = 4"
+        },
+        {
+          "option": "y = -5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "રેખા y = -7x + 4 નો y-અંતઃખંડ શું છે?",
+      "options": [
+        {
+          "option": "-4"
+        },
+        {
+          "option": "-7"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "જો કોઈ રેખા (2, 3) માંથી પસાર થાય અને તેનો ઢાળ 1 હોય, તો તેનો y-અંતઃખંડ કેટલો થાય?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "દ્વિઘાત સમીકરણ 2x^2 - 4x + 3 = 0 નો વિવેચક (discriminant) શું છે?",
+      "options": [
+        {
+          "option": "-4"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "-8",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "દ્વિઘાત સમીકરણ 3x^2 - 5x + 2 = 0 ના બીજ (roots) નો સ્વભાવ શોધો.",
+      "options": [
+        {
+          "option": "સંમેય અને સમાન"
+        },
+        {
+          "option": "સંકિર્ણ અને અવાસ્તવિક"
+        },
+        {
+          "option": "વાસ્તવિક અને સમાન"
+        },
+        {
+          "option": "વાસ્તવિક અને ભિન્ન",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો કોઈ દ્વિઘાત સમીકરણનો વિવેચક શૂન્ય હોય, તો તેના બીજ વિશે શું કહી શકાય?",
+      "options": [
+        {
+          "option": "વાસ્તવિક અને સમાન",
+          "is_answer": true
+        },
+        {
+          "option": "વાસ્તવિક અને ભિન્ન"
+        },
+        {
+          "option": "કાલ્પનિક"
+        },
+        {
+          "option": "અસંમેય"
+        }
+      ]
+    },
+    {
+      "question": "દ્વિઘાત સમીકરણ 4x^2 - 8x + 3 = 0 ના બીજનો સરવાળો કેટલો થાય?",
+      "options": [
+        {
+          "option": "3/4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "-2"
+        },
+        {
+          "option": "-3/4"
+        }
+      ]
+    },
+    {
+      "question": "દ્વિઘાત સમીકરણ 5x^2 + 10x - 3 = 0 ના બીજનો ગુણાકાર કેટલો થાય?",
+      "options": [
+        {
+          "option": "-2"
+        },
+        {
+          "option": "3/5"
+        },
+        {
+          "option": "-3/5",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "'k' ની કઈ કિંમત માટે દ્વિઘાત સમીકરણ x^2 - 4x + k = 0 ના બીજ વાસ્તવિક અને સમાન હશે?",
+      "options": [
+        {
+          "option": "-2"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "-4"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "જો સમીકરણ x^2 - 7x + 12 = 0 નું એક બીજ 4 હોય, તો બીજું બીજ શું છે?",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "-3"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "-4"
+        }
+      ]
+    },
+    {
+      "question": "દ્વિઘાત સમીકરણ x^2 - 9 = 0 ના બીજ શું છે?",
+      "options": [
+        {
+          "option": "-3, -3"
+        },
+        {
+          "option": "0, 3"
+        },
+        {
+          "option": "3, 3"
+        },
+        {
+          "option": "3, -3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "દ્વિઘાત સમીકરણ x^2 + x + 1 = 0 નો વિવેચક શું છે?",
+      "options": [
+        {
+          "option": "-1"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "-3",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "જો કોઈ દ્વિઘાત સમીકરણના બીજ 2 અને 3 હોય, તો સમીકરણ બનાવો.",
+      "options": [
+        {
+          "option": "x^2 - 5x + 6 = 0",
+          "is_answer": true
+        },
+        {
+          "option": "x^2 - 5x - 6 = 0"
+        },
+        {
+          "option": "x^2 + 5x - 6 = 0"
+        },
+        {
+          "option": "x^2 + 5x + 6 = 0"
+        }
+      ]
+    },
+    {
+      "question": "2x^2 + 5x - 7 = 0 ના બીજનો સરવાળો શોધો.",
+      "options": [
+        {
+          "option": "-5/2",
+          "is_answer": true
+        },
+        {
+          "option": "5/2"
+        },
+        {
+          "option": "-7/2"
+        },
+        {
+          "option": "7/2"
+        }
+      ]
+    },
+    {
+      "question": "2x^2 - 3x + 5 = 0 ના બીજનો સ્વભાવ શું છે?",
+      "options": [
+        {
+          "option": "સંકિર્ણ અને અવાસ્તવિક",
+          "is_answer": true
+        },
+        {
+          "option": "વાસ્તવિક અને સમાન"
+        },
+        {
+          "option": "વાસ્તવિક અને ભિન્ન"
+        },
+        {
+          "option": "સંમેય અને ભિન્ન"
+        }
+      ]
+    },
+    {
+      "question": "જો kx^2 - 2x + 3 = 0 ના બીજનો ગુણાકાર 1 હોય, તો k ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "-3"
+        },
+        {
+          "option": "-1/3"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કયા સમીકરણના બીજ 5 અને -5 છે?",
+      "options": [
+        {
+          "option": "x^2 + 25 = 0"
+        },
+        {
+          "option": "x^2 - 25 = 0",
+          "is_answer": true
+        },
+        {
+          "option": "x^2 + 5x - 25 = 0"
+        },
+        {
+          "option": "x^2 - 5x = 0"
+        }
+      ]
+    },
+    {
+      "question": "જો સમીકરણ x^2 - px + 4 = 0 ના બીજ સમાન હોય, તો 'p' ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "-4"
+        },
+        {
+          "option": "±4",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "3x^2 - 12x + 15 = 0 ના બીજનો ગુણાકાર કેટલો થાય?",
+      "options": [
+        {
+          "option": "-5"
+        },
+        {
+          "option": "-4"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "દ્વિઘાત સૂત્રનો ઉપયોગ કરીને x શોધો: x^2 - 5x + 6 = 0.",
+      "options": [
+        {
+          "option": "-2, -3"
+        },
+        {
+          "option": "2, -3"
+        },
+        {
+          "option": "-2, 3"
+        },
+        {
+          "option": "2, 3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો વિવેચક b^2 - 4ac > 0 હોય અને તે પૂર્ણ વર્ગ હોય, તો બીજ નીચે મુજબ છે:",
+      "options": [
+        {
+          "option": "વાસ્તવિક, સંમેય અને ભિન્ન",
+          "is_answer": true
+        },
+        {
+          "option": "વાસ્તવિક અને સમાન"
+        },
+        {
+          "option": "સંકિર્ણ"
+        },
+        {
+          "option": "વાસ્તવિક, અસંમેય અને ભિન્ન"
+        }
+      ]
+    },
+    {
+      "question": "સમીકરણ (x - 2)(x + 3) = 0 ના બીજનો સરવાળો શોધો.",
+      "options": [
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "-6"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "'m' ની કઈ કિંમતો માટે સમીકરણ 9x^2 + mx + 4 = 0 ના બીજ સમાન હોય?",
+      "options": [
+        {
+          "option": "-12"
+        },
+        {
+          "option": "±12",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "±6"
+        }
+      ]
+    },
+    {
+      "question": "बिंदुओं (2, 3) এবং (5, 7) વચ્ચેનું અંતર શોધો.",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "બિंदुओं (1, 2) અને (5, 6) ને જોડતા રેખાखंडનું મધ્યબિંદુ શોધો.",
+      "options": [
+        {
+          "option": "(4, 5)"
+        },
+        {
+          "option": "(3, 4)",
+          "is_answer": true
+        },
+        {
+          "option": "(3, 5)"
+        },
+        {
+          "option": "(2, 3)"
+        }
+      ]
+    },
+    {
+      "question": "ઉગમબિંદુથી બિંદુ (3, 4) નું અંતર કેટલું છે?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "બિંદुओं (-1, -3) અને (5, 5) વચ્ચેનું અંતર શોધો.",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "જો (2, p) અને (6, 4) ને જોડતા રેખાखंडનું મધ્યબિંદુ (4, 5) હોય, તો p ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "બિંદुओं (a, 0) અને (0, b) વચ્ચેનું અંતર શોધો.",
+      "options": [
+        {
+          "option": "a^2 + b^2"
+        },
+        {
+          "option": "sqrt(a + b)"
+        },
+        {
+          "option": "a + b"
+        },
+        {
+          "option": "sqrt(a^2 + b^2)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "(-1, 7) અને (4, -3) ને જોડતી રેખાને 2:3 ના ગુણોત્તરમાં વિભાજિત કરતા બિંદુના યામ શોધો.",
+      "options": [
+        {
+          "option": "(1, 2)"
+        },
+        {
+          "option": "(3, 1)"
+        },
+        {
+          "option": "(2, 3)"
+        },
+        {
+          "option": "(1, 3)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "બિંદुओं (0, 0) અને (-5, -12) વચ્ચેનું અંતર કેટલું છે?",
+      "options": [
+        {
+          "option": "13",
+          "is_answer": true
+        },
+        {
+          "option": "17"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "એક વર્તુળના વ્યાસના અંત્યબિંદુઓ (2, 3) અને (-2, 0) હોય, તો તેના વ્યાસની લંબાઈ શોધો.",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "sqrt(7)"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "બિંદुओं (-3, 10) અને (6, -2) ને જોડતા રેખાखंडનું મધ્યબિંદુ શોધો.",
+      "options": [
+        {
+          "option": "(3, 8)"
+        },
+        {
+          "option": "(1.5, 6)"
+        },
+        {
+          "option": "(4.5, 4)"
+        },
+        {
+          "option": "(1.5, 4)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો (x, 2) અને (3, 6) વચ્ચેનું અંતર 5 હોય, તો x ની ધન કિંમત શોધો.",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "જેના શિરોબિંદુઓ (1, 4), (2, -3) અને (3, 2) હોય તે ત્રિકોણનું મધ્યકેન્દ્ર શોધો.",
+      "options": [
+        {
+          "option": "(3, 3)"
+        },
+        {
+          "option": "(2, 2)"
+        },
+        {
+          "option": "(2, 1)",
+          "is_answer": true
+        },
+        {
+          "option": "(1, 2)"
+        }
+      ]
+    },
+    {
+      "question": "બિંદुओं (2, 3) અને (2, -3) વચ્ચેનું અંતર શોધો.",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "y-अક્ષ બિંદुओं (5, -6) અને (-1, -4) ને જોડતા રેખાखंडને કયા ગુણોત્તરમાં વિભાજિત કરે છે તે શોધો.",
+      "options": [
+        {
+          "option": "3:2"
+        },
+        {
+          "option": "5:1",
+          "is_answer": true
+        },
+        {
+          "option": "1:5"
+        },
+        {
+          "option": "2:3"
+        }
+      ]
+    },
+    {
+      "question": "શિરોબિંદુઓ (0, 4), (0, 0) અને (3, 0) વાળા ત્રિકોણની પરિમિતિ શોધો.",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "જો ક્રમમાં લીધેલા બિંદુઓ (1, 2), (4, y), (x, 6) અને (3, 5) એ સમાંતર બાજુ ચતુષ્કોણના શિરોબિંદુઓ હોય, તો (x, y) શોધો.",
+      "options": [
+        {
+          "option": "(6, 3)",
+          "is_answer": true
+        },
+        {
+          "option": "(4, 2)"
+        },
+        {
+          "option": "(3, 6)"
+        },
+        {
+          "option": "(2, 4)"
+        }
+      ]
+    },
+    {
+      "question": "x-અક્ષ પરનું એવું બિંદુ શોધો જે (2, -5) અને (-2, 9) થી સમાન અંતરે હોય.",
+      "options": [
+        {
+          "option": "(-7, 0)",
+          "is_answer": true
+        },
+        {
+          "option": "(2, 0)"
+        },
+        {
+          "option": "(7, 0)"
+        },
+        {
+          "option": "(-2, 0)"
+        }
+      ]
+    },
+    {
+      "question": "ઉગમબિંદુથી બિંદુ (p, q) નું અંતર શોધો.",
+      "options": [
+        {
+          "option": "sqrt(p^2 + q^2)",
+          "is_answer": true
+        },
+        {
+          "option": "sqrt(p + q)"
+        },
+        {
+          "option": "p^2 + q^2"
+        },
+        {
+          "option": "p + q"
+        }
+      ]
+    },
+    {
+      "question": "બિંદुओं (a + b, a - b) અને (a - b, a + b) ને જોડતા રેખાखंडના મધ્યબિંદુના યામ શોધો.",
+      "options": [
+        {
+          "option": "(b, b)"
+        },
+        {
+          "option": "(a+b, a-b)"
+        },
+        {
+          "option": "(2a, 2b)"
+        },
+        {
+          "option": "(a, a)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "બિંદुओं (cos θ, sin θ) અને (sin θ, -cos θ) વચ્ચેનું અંતર કેટલું છે?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "sqrt(2)",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "જ્યારે બહુપદી $P(x) = x^3 - 2x^2 + x - 5$ ને $(x - 2)$ વડે ભાગવામાં આવે ત્યારે શેષ શું મળે?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "-3",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "-5"
+        }
+      ]
+    },
+    {
+      "question": "જો $(x - 1)$ એ બહુપદી $P(x) = 2x^3 + kx^2 + 3x - 5$ નો અવયવ હોય, તો $k$ ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જ્યારે $x^4 - 3x^2 + 2$ ને $(x + 2)$ વડે ભાગવામાં આવે ત્યારે શેષ શોધો.",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "-2"
+        }
+      ]
+    },
+    {
+      "question": "$a$ ની કઈ કિંમત માટે $(x - a)$ એ $x^3 - a^2x + x + 2a$ નો અવયવ બને?",
+      "options": [
+        {
+          "option": "-1"
+        },
+        {
+          "option": "-2/3",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2/3"
+        }
+      ]
+    },
+    {
+      "question": "બહુપદી $P(x) = 3x^3 - 4x^2 + 7x - 8$ ને $(3x - 1)$ વડે ભાગતા શેષ શું મળે?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "-58/27",
+          "is_answer": true
+        },
+        {
+          "option": "-2"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "જો $x^51 + 51$ ને $x + 1$ વડે ભાગવામાં આવે, તો શેષ કેટલી મળે?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "-50"
+        },
+        {
+          "option": "50",
+          "is_answer": true
+        },
+        {
+          "option": "51"
+        }
+      ]
+    },
+    {
+      "question": "અવયવ પ્રમેયનો ઉપયોગ કરીને ચકાસો કે શું $(x + 2)$ એ $x^3 + 3x^2 + 5x + 6$ નો અવયવ છે.",
+      "options": [
+        {
+          "option": "ના, શેષ -4 છે"
+        },
+        {
+          "option": "ના, શેષ 4 છે"
+        },
+        {
+          "option": "હા, શેષ 2 છે"
+        },
+        {
+          "option": "હા, શેષ 0 છે",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જ્યારે $2x^3 - 9x^2 + x + 12$ ને $(x - 3)$ વડે ભાગવામાં આવે ત્યારે શેષ શોધો.",
+      "options": [
+        {
+          "option": "-6",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "જો બહુપદીઓ $ax^3 + 3x^2 - 13$ અને $2x^3 - 5x + a$ ને $(x - 2)$ વડે ભાગવાથી સમાન શેષ મળે, તો $a$ શોધો.",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "-5"
+        },
+        {
+          "option": "-3"
+        }
+      ]
+    },
+    {
+      "question": "જ્યારે $x^3 - ax^2 + 6x - a$ ને $(x - a)$ વડે ભાગવામાં આવે ત્યારે શેષ શું મળે?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "5a",
+          "is_answer": true
+        },
+        {
+          "option": "6a"
+        },
+        {
+          "option": "a"
+        }
+      ]
+    },
+    {
+      "question": "જો $x^2 + kx + 6$ એ $(x - 2)$ વડે નિઃશેષ ભાગી શકાતું હોય, તો $k$ ની કિંમત કેટલી થાય?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "-5",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "જો $(x - 1)$ એ $4x^3 + 3x^2 - 4x + m$ નો અવયવ હોય, તો $m$ ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "-3",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "$(x^3 - 2x^2 + x + 1)$ ને $(x - 2)$ વડે ભાગતા મળતી શેષ શોધો.",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "-3"
+        }
+      ]
+    },
+    {
+      "question": "જો બહુપદી $P(x) = x^4 - 2x^3 + 3x^2 - ax + b$ ને $(x - 1)$ અને $(x + 1)$ વડે ભાગતા અનુક્રમે 5 અને 19 શેષ વધે, તો $a$ અને $b$ શોધો.",
+      "options": [
+        {
+          "option": "a = 7, b = -8"
+        },
+        {
+          "option": "a = -7, b = 8",
+          "is_answer": true
+        },
+        {
+          "option": "a = -1, b = -2"
+        },
+        {
+          "option": "a = 1, b = 2"
+        }
+      ]
+    },
+    {
+      "question": "ચકાસો કે શું $(x + 1)$ એ $x^3 + x^2 + x + 1$ નો અવયવ છે.",
+      "options": [
+        {
+          "option": "ના, P(-1) = 1"
+        },
+        {
+          "option": "હા, P(-1) = 0",
+          "is_answer": true
+        },
+        {
+          "option": "હા, P(1) = 0"
+        },
+        {
+          "option": "ના, P(-1) = -1"
+        }
+      ]
+    },
+    {
+      "question": "$x^3 - 3x^2 + 4x - 13$ ને $(x - 3)$ વડે ભાગવાથી મળતી શેષ શોધો.",
+      "options": [
+        {
+          "option": "13"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો $x^140 + 2x^151 + k$ એ $(x + 1)$ વડે નિઃશેષ વિભાજ્ય હોય, તો $k$ ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "-3"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "$4x^3 - 12x^2 + 14x - 3$ ને $(2x - 1)$ વડે ભાગતા શેષ કેટલી મળે?",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "-2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "$p$ ની કિંમત શોધો જેના માટે બહુપદી $x^3 + 4x^2 - px + 6$ એ $(x - 2)$ વડે પૂરી રીતે વિભાજ્ય હોય.",
+      "options": [
+        {
+          "option": "-12"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "-15"
+        }
+      ]
+    },
+    {
+      "question": "જો $(x - 2)$ અને $(x - 1/2)$ બંને $px^2 + 5x + r$ ના અવયવો હોય, તો:",
+      "options": [
+        {
+          "option": "p = r",
+          "is_answer": true
+        },
+        {
+          "option": "p + r = 0"
+        },
+        {
+          "option": "2p = r"
+        },
+        {
+          "option": "p = 2r"
+        }
+      ]
+    },
+    {
+      "question": "અસમાનતા ઉકેલો: -3x + 5 < 14",
+      "options": [
+        {
+          "option": "x < 3"
+        },
+        {
+          "option": "x > 3"
+        },
+        {
+          "option": "x > -3",
+          "is_answer": true
+        },
+        {
+          "option": "x < -3"
+        }
+      ]
+    },
+    {
+      "question": "સંપૂર્ણ મૂલ્ય અસમાનતા માટે ઉકેલ સમૂહ શોધો: |x - 2| ≤ 5",
+      "options": [
+        {
+          "option": "x ≥ 7 અથવા x ≤ -3"
+        },
+        {
+          "option": "-7 ≤ x ≤ 3"
+        },
+        {
+          "option": "-3 ≤ x ≤ 7",
+          "is_answer": true
+        },
+        {
+          "option": "-5 ≤ x ≤ 5"
+        }
+      ]
+    },
+    {
+      "question": "x માટે ઉકેલો: 2|x + 1| - 4 = 6",
+      "options": [
+        {
+          "option": "x = 6 અથવા x = -4"
+        },
+        {
+          "option": "x = 5 અથવા x = -5"
+        },
+        {
+          "option": "x = 4 અથવા x = -6",
+          "is_answer": true
+        },
+        {
+          "option": "x = 2 અથવા x = -3"
+        }
+      ]
+    },
+    {
+      "question": "અસમાનતા 5 - 2x ≥ 11 નો ઉકેલ શું છે?",
+      "options": [
+        {
+          "option": "x ≥ 3"
+        },
+        {
+          "option": "x ≤ -3",
+          "is_answer": true
+        },
+        {
+          "option": "x ≥ -3"
+        },
+        {
+          "option": "x ≤ 3"
+        }
+      ]
+    },
+    {
+      "question": "મોડ્યુલસ અસમાનતા ઉકેલો: |3x - 1| > 8",
+      "options": [
+        {
+          "option": "x > 3 અથવા x < -7/3",
+          "is_answer": true
+        },
+        {
+          "option": "x > 7/3 અથવા x < -3"
+        },
+        {
+          "option": "-7/3 < x < 3"
+        },
+        {
+          "option": "-3 < x < 7/3"
+        }
+      ]
+    },
+    {
+      "question": "|x| = -x ને સંતોષતા x ના તમામ વાસ્તવિક મૂલ્યો શોધો",
+      "options": [
+        {
+          "option": "કોઈ ઉકેલ નથી"
+        },
+        {
+          "option": "x ≥ 0"
+        },
+        {
+          "option": "x ≤ 0",
+          "is_answer": true
+        },
+        {
+          "option": "x = 0"
+        }
+      ]
+    },
+    {
+      "question": "સંયુક્ત અસમાનતા ઉકેલો: -2 ≤ 3x - 5 < 7",
+      "options": [
+        {
+          "option": "1 < x ≤ 4"
+        },
+        {
+          "option": "1 ≤ x ≤ 4"
+        },
+        {
+          "option": "1 ≤ x < 4",
+          "is_answer": true
+        },
+        {
+          "option": "-1 ≤ x < 4"
+        }
+      ]
+    },
+    {
+      "question": "સમીકરણ ઉકેલો: |2x - 3| = 5",
+      "options": [
+        {
+          "option": "x = -4 અથવા x = -1"
+        },
+        {
+          "option": "x = 1 અથવા x = -4"
+        },
+        {
+          "option": "x = 4 અથવા x = 1"
+        },
+        {
+          "option": "x = 4 અથવા x = -1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "અસમાનતા 4x - 7 ≥ 6x + 3 નો ઉકેલ શું છે?",
+      "options": [
+        {
+          "option": "x ≤ -5",
+          "is_answer": true
+        },
+        {
+          "option": "x ≥ -5"
+        },
+        {
+          "option": "x ≤ 5"
+        },
+        {
+          "option": "x ≥ 5"
+        }
+      ]
+    },
+    {
+      "question": "x માટે ઉકેલો: |x + 3| + 2 < 7",
+      "options": [
+        {
+          "option": "x > 2 અથવા x < -8"
+        },
+        {
+          "option": "-5 < x < 5"
+        },
+        {
+          "option": "-8 < x < 2",
+          "is_answer": true
+        },
+        {
+          "option": "-2 < x < 8"
+        }
+      ]
+    },
+    {
+      "question": "x ની રેન્જ શોધો જેના માટે |x - 4| = x - 4 થાય",
+      "options": [
+        {
+          "option": "x < 4"
+        },
+        {
+          "option": "x > 4"
+        },
+        {
+          "option": "x ≥ 4",
+          "is_answer": true
+        },
+        {
+          "option": "x ≤ 4"
+        }
+      ]
+    },
+    {
+      "question": "અસમાનતા ઉકેલો: (2x / 3) - 4 > (x / 2) + 1",
+      "options": [
+        {
+          "option": "x < 30"
+        },
+        {
+          "option": "x > 30",
+          "is_answer": true
+        },
+        {
+          "option": "x > 15"
+        },
+        {
+          "option": "x < 15"
+        }
+      ]
+    },
+    {
+      "question": "મોડ્યુલ ધરાવતું સમીકરણ ઉકેલો: |x - 2| + |x + 1| = 5",
+      "options": [
+        {
+          "option": "x = 5 અથવા x = -1"
+        },
+        {
+          "option": "x = 2 અથવા x = -3"
+        },
+        {
+          "option": "x = 1 અથવા x = -5"
+        },
+        {
+          "option": "x = 3 અથવા x = -2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "|x| < 3 ના પૂર્ણાંક ઉકેલો શું છે?",
+      "options": [
+        {
+          "option": "-2, -1, 0, 1, 2",
+          "is_answer": true
+        },
+        {
+          "option": "-2, -1, 1, 2"
+        },
+        {
+          "option": "0, 1, 2"
+        },
+        {
+          "option": "-3, -2, -1, 0, 1, 2, 3"
+        }
+      ]
+    },
+    {
+      "question": "અસમાનતા ઉકેલો: -5 < 2x + 3 ≤ 9",
+      "options": [
+        {
+          "option": "-4 < x ≤ 3",
+          "is_answer": true
+        },
+        {
+          "option": "-5 < x ≤ 3"
+        },
+        {
+          "option": "-4 ≤ x < 3"
+        },
+        {
+          "option": "-3 < x ≤ 4"
+        }
+      ]
+    },
+    {
+      "question": "તમામ વાસ્તવિક x નો સમૂહ શોધો જેથી |x - 5| < 0 થાય",
+      "options": [
+        {
+          "option": "x = 5"
+        },
+        {
+          "option": "x < 5"
+        },
+        {
+          "option": "બધી વાસ્તવિક સંખ્યાઓ"
+        },
+        {
+          "option": "ખાલી ગણ (કોઈ ઉકેલ નથી)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "x માટે ઉકેલો: 3(x - 2) < 2(x + 1)",
+      "options": [
+        {
+          "option": "x > 4"
+        },
+        {
+          "option": "x > 8"
+        },
+        {
+          "option": "x < 8",
+          "is_answer": true
+        },
+        {
+          "option": "x < 4"
+        }
+      ]
+    },
+    {
+      "question": "મોડ્યુલસ સમીકરણ ઉકેલો: |5 - 2x| = 9",
+      "options": [
+        {
+          "option": "x = 7 અથવા x = 2"
+        },
+        {
+          "option": "x = -2 અથવા x = -7"
+        },
+        {
+          "option": "x = -2 અથવા x = 7",
+          "is_answer": true
+        },
+        {
+          "option": "x = 2 અથવા x = -7"
+        }
+      ]
+    },
+    {
+      "question": "જો |x + 2| ≤ 4 હોય, તો x નું મહત્તમ મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "-2"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "અસમાનતા ઉકેલો: x / (x - 2) ≥ 0",
+      "options": [
+        {
+          "option": "x < 0 અથવા x ≥ 2"
+        },
+        {
+          "option": "x ≤ 0 અથવા x > 2",
+          "is_answer": true
+        },
+        {
+          "option": "0 < x ≤ 2"
+        },
+        {
+          "option": "0 ≤ x < 2"
+        }
+      ]
+    },
+    {
+      "question": "6 સેમી અને 8 સેમી લંબાઈની બાજુઓ વાળા કાટકોણ ત્રિકોણના કર્ણની લંબાઈ કેટલી થાય?",
+      "options": [
+        {
+          "option": "12 સેમી"
+        },
+        {
+          "option": "10 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "14 સેમી"
+        },
+        {
+          "option": "7 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કઈ બાજુઓની લંબાઈનો સમૂહ પાયથાગોરસ ત્રિપુટી બનાવે છે?",
+      "options": [
+        {
+          "option": "4, 5, 6"
+        },
+        {
+          "option": "5, 12, 13",
+          "is_answer": true
+        },
+        {
+          "option": "2, 3, 4"
+        },
+        {
+          "option": "6, 8, 11"
+        }
+      ]
+    },
+    {
+      "question": "જો કાટકોણ ત્રિકોણનો કર્ણ 17 સેમી અને એક બાજુ 8 સેમી હોય, તો બીજી બાજુની લંબાઈ કેટલી થાય?",
+      "options": [
+        {
+          "option": "25 સેમી"
+        },
+        {
+          "option": "9 સેમી"
+        },
+        {
+          "option": "12 સેમી"
+        },
+        {
+          "option": "15 સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "થેલ્સ પ્રમેય (મૂળભૂત પ્રમાણસરતા પ્રમેય) મુજબ, જો ત્રિકોણની એક બાજુને સમાંતર રેખા દોરવામાં આવે જે અન્ય બે બાજુઓને છેદે, તો તે બે બાજુઓને કયા ગુણોત્તરમાં વિભાજિત કરે છે?",
+      "options": [
+        {
+          "option": "તેમના વર્ગોના ગુણોત્તરમાં"
+        },
+        {
+          "option": "વ્યસ્ત ગુણોત્તરમાં"
+        },
+        {
+          "option": "સમાન ગુણોત્તરમાં",
+          "is_answer": true
+        },
+        {
+          "option": "સરખા અર્ધ ભાગમાં"
+        }
+      ]
+    },
+    {
+      "question": "બે ત્રિકોણ સમરૂપ છે જો તેમના અનુરૂપ ખૂણા સમાન હોય. આ સમરૂપતાની શરત કઈ તરીકે ઓળખાય છે?",
+      "options": [
+        {
+          "option": "RHS સમરૂપતા"
+        },
+        {
+          "option": "SSS સમરૂપતા"
+        },
+        {
+          "option": "SAS સમરૂપતા"
+        },
+        {
+          "option": "AAA સમરૂપતા",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો બે સમરૂપ ત્રિકોણના ક્ષેત્રફળોનો ગુણોત્તર 9 : 16 હોય, તો તેમની અનુરૂપ બાજુઓનો ગુણોત્તર કેટલો થાય?",
+      "options": [
+        {
+          "option": "3 : 8"
+        },
+        {
+          "option": "3 : 4",
+          "is_answer": true
+        },
+        {
+          "option": "81 : 256"
+        },
+        {
+          "option": "9 : 16"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કઈ ત્રિકોણની એકરૂપતાની શરત નથી?",
+      "options": [
+        {
+          "option": "ASA"
+        },
+        {
+          "option": "SAS"
+        },
+        {
+          "option": "AAA",
+          "is_answer": true
+        },
+        {
+          "option": "SSS"
+        }
+      ]
+    },
+    {
+      "question": "કાટકોણ ત્રિકોણમાં બે બાજુઓની લંબાઈ 3x અને 4x છે, અને કર્ણ 20 સેમી છે. x નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "3 સેમી"
+        },
+        {
+          "option": "4 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "6 સેમી"
+        },
+        {
+          "option": "5 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "જો ત્રિકોણ ABC અને ત્રિકોણ PQR એકરૂપ હોય, તો નીચેનામાંથી કયું ચોક્કસપણે સાચું છે?",
+      "options": [
+        {
+          "option": "AC = QR"
+        },
+        {
+          "option": "ક્ષેત્રફળ(ABC) != ક્ષેત્રફળ(PQR)"
+        },
+        {
+          "option": "BC = PR"
+        },
+        {
+          "option": "AB = PQ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જેની બાજુઓનો ગુણોત્તર 3:4:5 છે તેવા કાટકોણ ત્રિકોણની પરિમિતિ 36 સેમી છે. તેના કર્ણની લંબાઈ કેટલી છે?",
+      "options": [
+        {
+          "option": "15 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "12 સેમી"
+        },
+        {
+          "option": "20 સેમી"
+        },
+        {
+          "option": "9 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "જો 10 મીટર લાંબી સીડી જમીનથી 8 મીટર ઊંચી બારી સુધી પહોંચે, તો સીડીનો પાયો દીવાલથી કેટલા અંતરે હશે?",
+      "options": [
+        {
+          "option": "2 મીટર"
+        },
+        {
+          "option": "4 મીટર"
+        },
+        {
+          "option": "5 મીટર"
+        },
+        {
+          "option": "6 મીટર",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "બે ત્રિકોણો 2:3 ના સ્કેલ ફેક્ટર સાથે સમરૂપ છે. જો નાના ત્રિકોણની પરિમિતિ 30 સેમી હોય, તો મોટા ત્રિકોણની પરિમિતિ કેટલી થાય?",
+      "options": [
+        {
+          "option": "45 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "20 સેમી"
+        },
+        {
+          "option": "40 સેમી"
+        },
+        {
+          "option": "60 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "ત્રિકોણ ABC માં, DE એ BC ને સમાંતર છે, AB ને D માં અને AC ને E માં છેદે છે. જો AD = 2 સેમી, DB = 3 સેમી, અને AE = 4 સેમી હોય, તો EC ની લંબાઈ કેટલી થાય?",
+      "options": [
+        {
+          "option": "5 સેમી"
+        },
+        {
+          "option": "6 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "4 સેમી"
+        },
+        {
+          "option": "8 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "જે ચોરસની બાજુ 5√2 સેમી હોય તેના વિકર્ણની લંબાઈ કેટલી થાય?",
+      "options": [
+        {
+          "option": "10 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "5√2 સેમી"
+        },
+        {
+          "option": "10√2 સેમી"
+        },
+        {
+          "option": "5 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "જો બે સમરૂપ ત્રિકોણોના અનુરૂપ વેધનો ગુણોત્તર 4:9 હોય, તો તેમના ક્ષેત્રફળોનો ગુણોત્તર કેટલો થાય?",
+      "options": [
+        {
+          "option": "4:9"
+        },
+        {
+          "option": "2:3"
+        },
+        {
+          "option": "16:81",
+          "is_answer": true
+        },
+        {
+          "option": "81:16"
+        }
+      ]
+    },
+    {
+      "question": "એક માણસ પૂર્વ તરફ 15 મીટર અને પછી ઉત્તર તરફ 20 મીટર જાય છે. તે શરૂઆતની જગ્યાથી કેટલા અંતરે છે?",
+      "options": [
+        {
+          "option": "30 મીટર"
+        },
+        {
+          "option": "35 મીટર"
+        },
+        {
+          "option": "20 મીટર"
+        },
+        {
+          "option": "25 મીટર",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "કઈ પાયથાગોરસ ત્રિપુટીમાં એક બાજુ 24 અને કર્ણ 26 આપેલો છે?",
+      "options": [
+        {
+          "option": "8, 24, 26"
+        },
+        {
+          "option": "7, 24, 25"
+        },
+        {
+          "option": "12, 24, 28"
+        },
+        {
+          "option": "10, 24, 26",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો બે ત્રિકોણની અનુરૂપ બાજુઓની બે જોડી પ્રમાણસર હોય અને તેમની વચ્ચેનો ખૂણો સમાન હોય, તો સમરૂપતાની શરત કઈ છે?",
+      "options": [
+        {
+          "option": "RHS સમરૂપતા"
+        },
+        {
+          "option": "AAA સમરૂપતા"
+        },
+        {
+          "option": "SAS સમરૂપતા",
+          "is_answer": true
+        },
+        {
+          "option": "SSS સમરૂપતા"
+        }
+      ]
+    },
+    {
+      "question": "12 સેમી બાજુવાળા સમબાજુ ત્રિકોણનો વેધ કેટલો થાય?",
+      "options": [
+        {
+          "option": "6√3 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "12√3 સેમી"
+        },
+        {
+          "option": "6 સેમી"
+        },
+        {
+          "option": "4√3 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "જો ત્રિકોણની બાજુઓ 7 સેમી, 24 સેમી અને 25 સેમી હોય, તો તે કયા પ્રકારનો ત્રિકોણ છે?",
+      "options": [
+        {
+          "option": "ગુરૂકોણ ત્રિકોણ"
+        },
+        {
+          "option": "સમબાજુ ત્રિકોણ"
+        },
+        {
+          "option": "કાટકોણ ત્રિકોણ",
+          "is_answer": true
+        },
+        {
+          "option": "લઘુકોણ ત્રિકોણ"
+        }
+      ]
+    },
+    {
+      "question": "વર્તુળના સ્પર્શક અને સ્પર્શબિંદુમાંથી પસાર થતી ત્રિજ્યા વચ્ચેનો ખૂણો કેટલો હોય છે?",
+      "options": [
+        {
+          "option": "૬૦ અંશ"
+        },
+        {
+          "option": "૪૫ અંશ"
+        },
+        {
+          "option": "૯૦ અંશ",
+          "is_answer": true
+        },
+        {
+          "option": "૧૮૦ અંશ"
+        }
+      ]
+    },
+    {
+      "question": "બહારી બિંદુ P થી કેન્દ્ર O વાળા વર્તુળ પર બે સ્પર્શકો PA અને PB દોરવામાં આવ્યા છે. જો PA = 8 સેમી હોય, તો PB ની લંબાઈ કેટલી છે?",
+      "options": [
+        {
+          "option": "૮ સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "૪ સેમી"
+        },
+        {
+          "option": "૧૬ સેમી"
+        },
+        {
+          "option": "૬ સેમી"
+        }
+      ]
+    },
+    {
+      "question": "વર્તુળના કેન્દ્રથી 6 સેમી અંતરે 16 સેમી લંબાઈની જીવા આવેલી છે. વર્તુળની ત્રિજ્યા કેટલી છે?",
+      "options": [
+        {
+          "option": "૮ સેમી"
+        },
+        {
+          "option": "૧૨ સેમી"
+        },
+        {
+          "option": "૧૦ સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "૧૪ સેમી"
+        }
+      ]
+    },
+    {
+      "question": "જો વર્તુળની બે જીવાઓ AB અને CD બિંદુ P પર અંદરના ભાગમાં છેદે છે, તો નીચેનામાંથી કયો સંબંધ હંમેશા સાચો છે?",
+      "options": [
+        {
+          "option": "AP * AB = CP * CD"
+        },
+        {
+          "option": "AP + PB = CP + PD"
+        },
+        {
+          "option": "AP * PB = CP * PD",
+          "is_answer": true
+        },
+        {
+          "option": "AP * PC = BP * PD"
+        }
+      ]
+    },
+    {
+      "question": "વૈકલ્પિક વૃત્તખંડ પ્રમેય મુજબ, સ્પર્શક અને સ્પર્શબિંદુમાંથી પસાર થતી જીવા વચ્ચેનો ખૂણો કોના બરાબર હોય છે?",
+      "options": [
+        {
+          "option": "કોટિકોણ જેટલો"
+        },
+        {
+          "option": "વૈકલ્પિક વૃત્તખંડના ખૂણા જેટલો",
+          "is_answer": true
+        },
+        {
+          "option": "વૈકલ્પિક વૃત્તખંડના ખૂણાના બમણા જેટલો"
+        },
+        {
+          "option": "કેન્દ્ર આગળના ખૂણા જેટલો"
+        }
+      ]
+    },
+    {
+      "question": "બહારી બિંદુમાંથી વર્તુળ પર મહત્તમ કેટલા સ્પર્શકો દોરી શકાય છે?",
+      "options": [
+        {
+          "option": "૦"
+        },
+        {
+          "option": "૧"
+        },
+        {
+          "option": "અનંત"
+        },
+        {
+          "option": "૨",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "એક વર્તુળની ત્રિજ્યા 5 સેમી છે. કેન્દ્રથી 3 સેમી અંતરે એક જીવા દોરવામાં આવી છે. જીવા ની લંબાઈ કેટલી છે?",
+      "options": [
+        {
+          "option": "૪ સેમી"
+        },
+        {
+          "option": "૬ સેમી"
+        },
+        {
+          "option": "૮ સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "૧૦ સેમી"
+        }
+      ]
+    },
+    {
+      "question": "જો વર્તુળની જીવા AB કેન્દ્ર આગળ 90 અંશ નો ખૂણો આંતરે, તો A અને B ને કેન્દ્ર સાથે જોડવાથી કયા પ્રકારનો ત્રિકોણ બને છે?",
+      "options": [
+        {
+          "option": "ગુરુકોણ ત્રિકોણ"
+        },
+        {
+          "option": "સમબાજુ ત્રિકોણ"
+        },
+        {
+          "option": "સમદ્વિબાજુ કાટકોણ ત્રિકોણ",
+          "is_answer": true
+        },
+        {
+          "option": "વિષમબાજુ ત્રિકોણ"
+        }
+      ]
+    },
+    {
+      "question": "વર્તુળના કેન્દ્રમાંથી જીવા પર દોરેલો લંબ:",
+      "options": [
+        {
+          "option": "જીવા જેટલો હોય છે"
+        },
+        {
+          "option": "જીવા કરતા બમણો હોય છે"
+        },
+        {
+          "option": "જીવાને સમાંતર હોય છે"
+        },
+        {
+          "option": "જીવાને દુભાગે છે",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "બે સમકેન્દ્રી વર્તુળોની ત્રિજ્યાઓ 5 સેમી અને 3 સેમી છે. મોટા વર્તુળની જીવા ની લંબાઈ શોધો જે નાના વર્તુળને સ્પર્શે છે.",
+      "options": [
+        {
+          "option": "૧૦ સેમી"
+        },
+        {
+          "option": "૪ સેમી"
+        },
+        {
+          "option": "૬ સેમી"
+        },
+        {
+          "option": "૮ સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો બહારી બિંદુ P થી વર્તુળ પર બે છેદિકાઓ PAB અને PCD દોરવામાં આવે, તો નીચેનામાંથી કયું સાચું છે?",
+      "options": [
+        {
+          "option": "PA * AB = PC * CD"
+        },
+        {
+          "option": "PA * PB = PC * PD",
+          "is_answer": true
+        },
+        {
+          "option": "PA + PB = PC + PD"
+        },
+        {
+          "option": "PB * AB = PD * CD"
+        }
+      ]
+    },
+    {
+      "question": "વર્તુળની સમાન જીવાઓ કોનાથી સમાન અંતરે આવેલી હોય છે?",
+      "options": [
+        {
+          "option": "પરિઘથી"
+        },
+        {
+          "option": "કેન્દ્રથી",
+          "is_answer": true
+        },
+        {
+          "option": "સ્પર્શકથી"
+        },
+        {
+          "option": "વ્યાસથી"
+        }
+      ]
+    },
+    {
+      "question": "अर्धવર્તુળમાંનો ખૂણો હંમેશા કેવો હોય છે?",
+      "options": [
+        {
+          "option": "લઘુકોણ"
+        },
+        {
+          "option": "ગુરુકોણ"
+        },
+        {
+          "option": "કાટખૂણો",
+          "is_answer": true
+        },
+        {
+          "option": "સરળકોણ"
+        }
+      ]
+    },
+    {
+      "question": "જો બહારી બિંદુ P થી વર્તુળ પર એક સ્પર્શક PT અને એક છેદિકા PAB દોરવામાં આવે, તો PT^2 કોના બરાબર થાય?",
+      "options": [
+        {
+          "option": "PA * PB",
+          "is_answer": true
+        },
+        {
+          "option": "PA + PB"
+        },
+        {
+          "option": "PB * AB"
+        },
+        {
+          "option": "PA * AB"
+        }
+      ]
+    },
+    {
+      "question": "બહારી બિંદુથી વર્તુળ પર દોરેલા સ્પર્શકોની લંબાઈ કેવી હોય છે?",
+      "options": [
+        {
+          "option": "લંબ"
+        },
+        {
+          "option": "સમાન",
+          "is_answer": true
+        },
+        {
+          "option": "સમાંતર"
+        },
+        {
+          "option": "અસમાન"
+        }
+      ]
+    },
+    {
+      "question": "જે રેખા વર્તુળને બે ભિન્ન બિંદુઓમાં છેદે તેને શું કહે છે?",
+      "options": [
+        {
+          "option": "છેદિકા",
+          "is_answer": true
+        },
+        {
+          "option": "જીવા"
+        },
+        {
+          "option": "વ્યાસ"
+        },
+        {
+          "option": "સ્પર્શક"
+        }
+      ]
+    },
+    {
+      "question": "જો r ત્રિજ્યા અને O કેન્દ્ર વાળા વર્તુળ પર બહારી બિંદુ P થી દોરેલા બે સ્પર્શકો વચ્ચેનો ખૂણો 60 અંશ હોય, તો અંતર OP કેટલું થાય?",
+      "options": [
+        {
+          "option": "sqrt(3)r"
+        },
+        {
+          "option": "r"
+        },
+        {
+          "option": "૩r"
+        },
+        {
+          "option": "૨r",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "10 સેમી ત્રિજ્યાવાળા વર્તુળની જીવા કેન્દ્ર આગળ કાટખૂણો આંતરે છે. જીવાની લંબાઈ શોધો.",
+      "options": [
+        {
+          "option": "૫*sqrt(2) સેમી"
+        },
+        {
+          "option": "૧૦ સેમી"
+        },
+        {
+          "option": "૨૦ સેમી"
+        },
+        {
+          "option": "૧૦*sqrt(2) સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "એકબીજાને ન સ્પર્શતા કે ન છેદતા બે અલગ વર્તુળો પર કુલ કેટલા સામાન્ય સ્પર્શકો દોરી શકાય?",
+      "options": [
+        {
+          "option": "૨"
+        },
+        {
+          "option": "૧"
+        },
+        {
+          "option": "૩"
+        },
+        {
+          "option": "૪",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો વર્તુળની જીવા વર્તુળની ત્રિજ્યા જેટલી જ હોય, તો જીવા દ્વારા કેન્દ્ર આગળ આંતરેલો ખૂણો કેટલો થાય?",
+      "options": [
+        {
+          "option": "૪૫ અંશ"
+        },
+        {
+          "option": "૬૦ અંશ",
+          "is_answer": true
+        },
+        {
+          "option": "૩૦ અંશ"
+        },
+        {
+          "option": "૯૦ અંશ"
+        }
+      ]
+    },
+    {
+      "question": "જે ત્રિકોણની બાજુઓ 13 સેમી, 14 સેમી અને 15 સેમી હોય તેનું ક્ષેત્રફળ શોધો.",
+      "options": [
+        {
+          "option": "84 ચો સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "80 ચો સેમી"
+        },
+        {
+          "option": "90 ચો સેમી"
+        },
+        {
+          "option": "72 ચો સેમી"
+        }
+      ]
+    },
+    {
+      "question": "7 સેમી, 24 સેમી અને 25 સેમી બાજુઓ વાળા ત્રિકોણની અર્ધ-પરિમિતિ (semi-perimeter) કેટલી થાય?",
+      "options": [
+        {
+          "option": "56 સેમી"
+        },
+        {
+          "option": "28 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "14 સેમી"
+        },
+        {
+          "option": "25 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "હેરોનના સૂત્રનો ઉપયોગ કરીને 8 સેમી બાજુવાળા સમબાજુ ત્રિકોણનું ક્ષેત્રફળ શોધો (આશરે).",
+      "options": [
+        {
+          "option": "27.71 ચો સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "24.50 ચો સેમી"
+        },
+        {
+          "option": "32.00 ચો સેમી"
+        },
+        {
+          "option": "30.25 ચો સેમી"
+        }
+      ]
+    },
+    {
+      "question": "એક ત્રિકોણાકાર ખેતરની બાજુઓ 55 મીટર, 60 મીટર અને 65 મીટર છે. તેનું ક્ષેત્રફળ શોધો.",
+      "options": [
+        {
+          "option": "1500 ચો મીટર",
+          "is_answer": true
+        },
+        {
+          "option": "1550 ચો મીટર"
+        },
+        {
+          "option": "1650 ચો મીટર"
+        },
+        {
+          "option": "1400 ચો મીટર"
+        }
+      ]
+    },
+    {
+      "question": "9 સેમી, 10 સેમી અને 11 સેમી બાજુઓ ધરાવતા ત્રિકોણનું ક્ષેત્રફળ શોધો.",
+      "options": [
+        {
+          "option": "30 ચો સેમી"
+        },
+        {
+          "option": "15 √2 ચો સેમી"
+        },
+        {
+          "option": "45 ચો સેમી"
+        },
+        {
+          "option": "30 √2 ચો સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો સમબાજુ ત્રિકોણની પરિમિતિ 30 સેમી હોય, તો હેરોનના સૂત્રથી તેનું ક્ષેત્રફળ શોધો.",
+      "options": [
+        {
+          "option": "50 √3 ચો સેમી"
+        },
+        {
+          "option": "75 ચો સેમી"
+        },
+        {
+          "option": "100 ચો સેમી"
+        },
+        {
+          "option": "25 √3 ચો સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "એક ત્રિકોણની બાજુઓનો ગુણોત્તર 3 : 4 : 5 છે અને તેની પરિમિતિ 36 સેમી છે. તેનું ક્ષેત્રફળ શોધો.",
+      "options": [
+        {
+          "option": "60 ચો સેમી"
+        },
+        {
+          "option": "108 ચો સેમી"
+        },
+        {
+          "option": "72 ચો સેમી"
+        },
+        {
+          "option": "54 ચો સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જે ત્રિકોણની બાજુઓ 18 સેમી, 24 સેમી અને 30 સેમી હોય તેનું ક્ષેત્રફળ શોધો.",
+      "options": [
+        {
+          "option": "150 ચો સેમી"
+        },
+        {
+          "option": "180 ચો સેમી"
+        },
+        {
+          "option": "240 ચો સેમી"
+        },
+        {
+          "option": "216 ચો સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "a, b અને c બાજુઓ વાળા ત્રિકોણ માટે હેરોનના સૂત્રમાં 's' શું છે?",
+      "options": [
+        {
+          "option": "a + b + c"
+        },
+        {
+          "option": "(a + b + c) / 3"
+        },
+        {
+          "option": "(a + b + c) / 2",
+          "is_answer": true
+        },
+        {
+          "option": "sqrt(a * b * c)"
+        }
+      ]
+    },
+    {
+      "question": "જે સમદ્વિબાજુ ત્રિકોણની સમાન બાજુઓ 5 સેમી અને પાયો 8 સેમી હોય તેનું ક્ષેત્રફળ શોધો.",
+      "options": [
+        {
+          "option": "20 ચો સેમી"
+        },
+        {
+          "option": "12 ચો સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "10 ચો સેમી"
+        },
+        {
+          "option": "16 ચો સેમી"
+        }
+      ]
+    },
+    {
+      "question": "એક ત્રિકોણાકાર પ્લોટની બાજુઓ 3 સેમી, 4 સેમી અને 5 સેમી છે. તેનું ક્ષેત્રફળ કેટલું થાય?",
+      "options": [
+        {
+          "option": "6 ચો સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "12 ચો સેમી"
+        },
+        {
+          "option": "10 ચો સેમી"
+        },
+        {
+          "option": "7.5 ચો સેમી"
+        }
+      ]
+    },
+    {
+      "question": "જો ત્રિકોણની બાજુઓ 11 મીટર, 60 મીટર અને 61 મીટર હોય, તો તેનું ક્ષેત્રફળ શોધો.",
+      "options": [
+        {
+          "option": "660 ચો મીટર"
+        },
+        {
+          "option": "330 ચો મીટર",
+          "is_answer": true
+        },
+        {
+          "option": "360 ચો મીટર"
+        },
+        {
+          "option": "300 ચો મીટર"
+        }
+      ]
+    },
+    {
+      "question": "24 સેમી, 26 સેમી અને 28 સેમી બાજુઓ ધરાવતા ત્રિકોણનું ક્ષેત્રફળ શોધો.",
+      "options": [
+        {
+          "option": "280 ચો સેમી"
+        },
+        {
+          "option": "312 ચો સેમી"
+        },
+        {
+          "option": "290.48 ચો સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "336 ચો સેમી"
+        }
+      ]
+    },
+    {
+      "question": "એક ત્રિકોણાકાર બગીચાની પરિમિતિ 42 મીટર છે અને તેની બાજુઓનો ગુણોત્તર 6 : 7 : 8 છે. ક્ષેત્રફળ શોધો.",
+      "options": [
+        {
+          "option": "14 √15 ચો મીટર"
+        },
+        {
+          "option": "21 √15 ચો મીટર",
+          "is_answer": true
+        },
+        {
+          "option": "28 √15 ચો મીટર"
+        },
+        {
+          "option": "42 √15 ચો મીટર"
+        }
+      ]
+    },
+    {
+      "question": "જે ત્રિકોણની બાજુઓ 20 સેમી, 21 સેમી અને 29 સેમી હોય તેનું ક્ષેત્રફળ શોધો.",
+      "options": [
+        {
+          "option": "290 ચો સેમી"
+        },
+        {
+          "option": "420 ચો સેમી"
+        },
+        {
+          "option": "200 ચો સેમી"
+        },
+        {
+          "option": "210 ચો સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો ત્રિકોણની દરેક બાજુને બમણી કરવામાં આવે, તો હેરોનના સૂત્રથી મળતું ક્ષેત્રફળ કેટલું થાય?",
+      "options": [
+        {
+          "option": "સમાન રહે છે"
+        },
+        {
+          "option": "4 ગણું થાય છે",
+          "is_answer": true
+        },
+        {
+          "option": "8 ગણું થાય છે"
+        },
+        {
+          "option": "2 ગણું થાય છે"
+        }
+      ]
+    },
+    {
+      "question": "10 સેમી, 24 સેમી અને 26 સેમી બાજુઓ ધરાવતા ત્રિકોણનું ક્ષેત્રફળ શોધો.",
+      "options": [
+        {
+          "option": "130 ચો સેમી"
+        },
+        {
+          "option": "60 ચો સેમી"
+        },
+        {
+          "option": "240 ચો સેમી"
+        },
+        {
+          "option": "120 ચો સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "એક ત્રિકોણની બાજુઓ 15 સેમી, 20 સેમી અને 25 સેમી છે. તેનું ક્ષેત્રફળ શોધો.",
+      "options": [
+        {
+          "option": "125 ચો સેમી"
+        },
+        {
+          "option": "175 ચો સેમી"
+        },
+        {
+          "option": "300 ચો સેમી"
+        },
+        {
+          "option": "150 ચો સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "હેરોનના સૂત્રનો ઉપયોગ કરીને 'a' બાજુવાળા સમબાજુ ત્રિકોણનું ક્ષેત્રફળ શું થાય?",
+      "options": [
+        {
+          "option": "3 * a^2 / 4"
+        },
+        {
+          "option": "(√3 / 2) * a^2"
+        },
+        {
+          "option": "(√2 / 4) * a^2"
+        },
+        {
+          "option": "(√3 / 4) * a^2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "12 સેમી, 35 સેમી અને 37 સેમી બાજુઓ વાળા ત્રિકોણનું ક્ષેત્રફળ શોધો.",
+      "options": [
+        {
+          "option": "180 ચો સેમી"
+        },
+        {
+          "option": "420 ચો સેમી"
+        },
+        {
+          "option": "222 ચો સેમી"
+        },
+        {
+          "option": "210 ચો સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "૧૨ સેમી પાયા અને ૫ સેમી ઊંચાઈ ધરાવતા સમાંતર બાજુ ચતુષ્કોણનું ક્ષેત્રફળ કેટલું થાય?",
+      "options": [
+        {
+          "option": "૩૦ ચો સેમી"
+        },
+        {
+          "option": "૧૨૦ ચો સેમી"
+        },
+        {
+          "option": "૬૦ ચો સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "૧૭ ચો સેમી"
+        }
+      ]
+    },
+    {
+      "question": "એક સમચતુષ્કોણના વિકર્ણો અનુક્રમે ૮ સેમી અને ૧૦ સેમી છે, તો તેનું ક્ષેત્રફળ શોધો.",
+      "options": [
+        {
+          "option": "૨૦ ચો સેમી"
+        },
+        {
+          "option": "૮૦ ચો સેમી"
+        },
+        {
+          "option": "૧૮ ચો સેમી"
+        },
+        {
+          "option": "૪૦ ચો સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "એક સમલંબ ચતુષ્કોણની સમાંતર બાજુઓ ૧૦ સેમી અને ૧૨ સેમી છે અને તેમની વચ્ચેનું અંતર ૫ સેમી છે. તેનું ક્ષેત્રફળ કેટલું?",
+      "options": [
+        {
+          "option": "૬૦ ચો સેમી"
+        },
+        {
+          "option": "૫૦ ચો સેમી"
+        },
+        {
+          "option": "૧૧૦ ચો સેમી"
+        },
+        {
+          "option": "૫૫ ચો સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો સમાંતર બાજુ ચતુષ્કોણનું ક્ષેત્રફળ ૮૪ ચો સેમી અને ઊંચાઈ ૭ સેમી હોય, તો તેનો પાયો શોધો.",
+      "options": [
+        {
+          "option": "૨૧ સેમી"
+        },
+        {
+          "option": "૧૪ સેમી"
+        },
+        {
+          "option": "૧૦ સેમી"
+        },
+        {
+          "option": "૧૨ સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "સમચતુષ્કોણમાં, જો એક વિકર્ણ ૧૨ સેમી અને ક્ષેત્રફળ ૯૬ ચો સેમી હોય, તો બીજા વિકર્ણની લંબાઈ શોધો.",
+      "options": [
+        {
+          "option": "૮ સેમી"
+        },
+        {
+          "option": "૨૪ સેમી"
+        },
+        {
+          "option": "૩૨ સેમી"
+        },
+        {
+          "option": "૧૬ સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "સમલંબ ચતુષ્કોણનું ક્ષેત્રફળ ૧૪૦ ચો સેમી છે. તેની સમાંતર બાજુઓનો સરવાળો ૨૮ સેમી છે. ઊંચાઈ શોધો.",
+      "options": [
+        {
+          "option": "૧૪ સેમી"
+        },
+        {
+          "option": "૧૦ સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "૫ સેમી"
+        },
+        {
+          "option": "૨૦ સેમી"
+        }
+      ]
+    },
+    {
+      "question": "૧૫.૫ સેમી પાયા અને ૪ સેમી ઊંચાઈ ધરાવતા સમાંતર બાજુ ચતુષ્કોણનું ક્ષેત્રફળ શોધો.",
+      "options": [
+        {
+          "option": "૬૨ ચો સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "૧૨૪ ચો સેમી"
+        },
+        {
+          "option": "૩૧ ચો સેમી"
+        },
+        {
+          "option": "૧૯.૫ ચો સેમી"
+        }
+      ]
+    },
+    {
+      "question": "એક સમચતુષ્કોણના વિકર્ણો ૨૪ સેમી અને ૧૦ સેમી છે. સમચતુષ્કોણની બાજુની લંબાઈ શોધો.",
+      "options": [
+        {
+          "option": "૧૩ સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "૧૨ સેમી"
+        },
+        {
+          "option": "૨૬ સેમી"
+        },
+        {
+          "option": "૧૭ સેમી"
+        }
+      ]
+    },
+    {
+      "question": "એક સમલંબ ચતુષ્કોણની સમાંતર બાજુઓ ૧૪ સેમી અને ૧૬ સેમી છે, અને ઊંચાઈ ૮ સેમી છે. ક્ષેત્રફળ કેટલું?",
+      "options": [
+        {
+          "option": "૧૧૨ ચો સેમી"
+        },
+        {
+          "option": "૧૨૦ ચો સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "૨૪૦ ચો સેમી"
+        },
+        {
+          "option": "૬૦ ચો સેમી"
+        }
+      ]
+    },
+    {
+      "question": "જો સમાંતર બાજુ ચતુષ્કોણનો પાયો ત્રણ ગણો કરવામાં આવે અને ઊંચાઈ અડધી કરવામાં આવે, તો ક્ષેત્રફળમાં શું ફેરફાર થાય?",
+      "options": [
+        {
+          "option": "૧.૫ ગણું થાય",
+          "is_answer": true
+        },
+        {
+          "option": "૩ ગણું થાય"
+        },
+        {
+          "option": "૬ ગણું થાય"
+        },
+        {
+          "option": "સમાન રહે"
+        }
+      ]
+    },
+    {
+      "question": "સમચતુષ્કોણનું ક્ષેત્રફળ ૧૫૦ ચો સેમી છે. જો એક વિકર્ણ ૨૦ સેમી હોય, તો બીજો વિકર્ણ શોધો.",
+      "options": [
+        {
+          "option": "૧૦ સેમી"
+        },
+        {
+          "option": "૩૦ સેમી"
+        },
+        {
+          "option": "૧૫ સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "૭.૫ સેમી"
+        }
+      ]
+    },
+    {
+      "question": "સમલંબ ચતુષ્કોણમાં સમાંતર બાજુઓ ૨૦ સેમી અને ૩૦ સેમી છે. જો ક્ષેત્રફળ ૨૫૦ ચો સેમી હોય, તો ઊંચાઈ કેટલી?",
+      "options": [
+        {
+          "option": "૫ સેમી"
+        },
+        {
+          "option": "૨૦ સેમી"
+        },
+        {
+          "option": "૧૦ સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "૨૫ સેમી"
+        }
+      ]
+    },
+    {
+      "question": "૨.૫ મીટર પાયા અને ૧.૬ મીટર ઊંચાઈ ધરાવતા સમાંતર બાજુ ચતુષ્કોણનું ક્ષેત્રફળ કેટલું?",
+      "options": [
+        {
+          "option": "૨ ચો મી"
+        },
+        {
+          "option": "૮ ચો મી"
+        },
+        {
+          "option": "૪ ચો મી",
+          "is_answer": true
+        },
+        {
+          "option": "૪.૧ ચો મી"
+        }
+      ]
+    },
+    {
+      "question": "એક સમચતુષ્કોણની બાજુ ૧૦ સેમી અને તેનો એક વિકર્ણ ૧૬ સેમી છે. તેનું ક્ષેત્રફળ શોધો.",
+      "options": [
+        {
+          "option": "૯૬ ચો સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "૪૮ ચો સેમી"
+        },
+        {
+          "option": "૮૦ ચો સેમી"
+        },
+        {
+          "option": "૧૬૦ ચો સેમી"
+        }
+      ]
+    },
+    {
+      "question": "સમદ્વિબાજુ સમલંબ ચતુષ્કોણની સમાંતર બાજુઓ ૧૨ સેમી અને ૨૦ સેમી છે. જો તેની અસમાંતર બાજુઓ ૫ સેમી હોય, તો તેની ઊંચાઈ શોધો.",
+      "options": [
+        {
+          "option": "૩ સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "૨ સેમી"
+        },
+        {
+          "option": "૪ સેમી"
+        },
+        {
+          "option": "૫ સેમી"
+        }
+      ]
+    },
+    {
+      "question": "જો સમચતુષ્કોણની પરિમિતિ ૫૨ સેમી અને ઊંચાઈ ૭ સેમી હોય, તો તેનું ક્ષેત્રફળ કેટલું?",
+      "options": [
+        {
+          "option": "૯૧ ચો સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "૧૮૨ ચો સેમી"
+        },
+        {
+          "option": "૩૬૪ ચો સેમી"
+        },
+        {
+          "option": "૪૫.૫ ચો સેમી"
+        }
+      ]
+    },
+    {
+      "question": "સમલંબ ચતુષ્કોણની સમાંતર બાજુઓનો ગુણોત્તર ૨:૩ છે અને ઊંચાઈ ૮ સેમી છે. જો ક્ષેત્રફળ ૨૦૦ ચો સેમી હોય, તો સમાંતર બાજુઓની લંબાઈ શોધો.",
+      "options": [
+        {
+          "option": "૧૬ સેમી અને ૨૪ સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "૨૦ સેમી અને ૩૦ સેમી"
+        },
+        {
+          "option": "૮ સેમી અને ૧૨ સેમી"
+        },
+        {
+          "option": "૧૦ સેમી અને ૧૫ સેમી"
+        }
+      ]
+    },
+    {
+      "question": "એક સમાંતર બાજુ ચતુષ્કોણની પાાસેપાસેની બાજુઓ ૧૫ સેમી અને ૭ સેમી છે. જો ૧૫ સેમી બાજુઓ વચ્ચેનું અંતર ૪ સેમી હોય, તો ૭ સેમી બાજુઓ વચ્ચેનું અંતર કેટલું?",
+      "options": [
+        {
+          "option": "૮.૫૭ સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "૧૫ સેમી"
+        },
+        {
+          "option": "૪ સેમી"
+        },
+        {
+          "option": "૭ સેમી"
+        }
+      ]
+    },
+    {
+      "question": "એક સમચતુષ્કોણના વિકર્ણોનો ગુણોત્તર ૩:૪ છે. જો તેનું ક્ષેત્રફળ ૯૬ ચો સેમી હોય, તો મોટા વિકર્ણની લંબાઈ શોધો.",
+      "options": [
+        {
+          "option": "૨૪ સેમી"
+        },
+        {
+          "option": "૧૬ સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "૨૦ સેમી"
+        },
+        {
+          "option": "૧૨ સેમી"
+        }
+      ]
+    },
+    {
+      "question": "એક સમલંબ ચતુષ્કોણનું ક્ષેત્રફળ શોધો જેની સમાંતર બાજુઓ ૨૫ સેમી અને ૧૫ સેમી છે, અને અસમાંતર બાજુઓ લંબ બનાવે છે (એટલે ​​કે ઊંચાઈ ૧૦ સેમી છે).",
+      "options": [
+        {
+          "option": "૨૦૦ ચો સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "૧૦૦ ચો સેમી"
+        },
+        {
+          "option": "૪૦૦ ચો સેમી"
+        },
+        {
+          "option": "૧૫૦ ચો સેમી"
+        }
+      ]
+    },
+    {
+      "question": "જે ચોરસની પરિમિતિ 48 સેમી હોય તેનું ક્ષેત્રફળ કેટલું થાય?",
+      "options": [
+        {
+          "option": "196 ચો સેમી"
+        },
+        {
+          "option": "121 ચો સેમી"
+        },
+        {
+          "option": "169 ચો સેમી"
+        },
+        {
+          "option": "144 ચો સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "15 સેમી લંબાઈ અને 10 સેમી પહોળાઈ વાળા લંબચોરસનું ક્ષેત્રફળ શોધો.",
+      "options": [
+        {
+          "option": "25 ચો સેમી"
+        },
+        {
+          "option": "125 ચો સેમી"
+        },
+        {
+          "option": "150 ચો સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "50 ચો સેમી"
+        }
+      ]
+    },
+    {
+      "question": "7 સેમી ત્રિજ્યા વાળા વર્તુળનો પરિઘ કેટલો થાય? (pi = 22/7 લો)",
+      "options": [
+        {
+          "option": "22 સેમી"
+        },
+        {
+          "option": "44 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "88 સેમી"
+        },
+        {
+          "option": "154 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "14 સેમી ત્રિજ્યા વાળા વર્તુળનું ક્ષેત્રફળ શોધો. (pi = 22/7 લો)",
+      "options": [
+        {
+          "option": "616 ચો સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "308 ચો સેમી"
+        },
+        {
+          "option": "1232 ચો સેમી"
+        },
+        {
+          "option": "88 ચો સેમી"
+        }
+      ]
+    },
+    {
+      "question": "20 સેમી લંબાઈ અને 12 સેમી પહોળાઈ વાળા લંબચોરસની પરિમિતિ કેટલી છે?",
+      "options": [
+        {
+          "option": "32 સેમી"
+        },
+        {
+          "option": "240 સેમી"
+        },
+        {
+          "option": "56 સેમી"
+        },
+        {
+          "option": "64 સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો ચોરસની બાજુની લંબાઈ બમણી કરવામાં આવે, તો તેનું ક્ષેત્રફળ મૂળ ક્ષેત્રફળથી કેટલા ગણું થઈ જાય?",
+      "options": [
+        {
+          "option": "4 ગણું",
+          "is_answer": true
+        },
+        {
+          "option": "8 ગણું"
+        },
+        {
+          "option": "2 ગણું"
+        },
+        {
+          "option": "16 ગણું"
+        }
+      ]
+    },
+    {
+      "question": "7 સેમી ત્રિજ્યા વાળા અર્ધવર્તુળનું ક્ષેત્રફળ શોધો. (pi = 22/7 લો)",
+      "options": [
+        {
+          "option": "77 ચો સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "154 ચો સેમી"
+        },
+        {
+          "option": "44 ચો સેમી"
+        },
+        {
+          "option": "38.5 ચો સેમી"
+        }
+      ]
+    },
+    {
+      "question": "7 સેમી ત્રિજ્યા વાળા અર્ધવર્તુળની પરિમિતિ ગણો. (pi = 22/7 લો)",
+      "options": [
+        {
+          "option": "36 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "44 સેમી"
+        },
+        {
+          "option": "22 સેમી"
+        },
+        {
+          "option": "29 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "21 સેમી ત્રિજ્યા અને 60 અંશના કેન્દ્રીય ખૂણાવાળા વર્તુળના વૃત્તાંશનું ક્ષેત્રફળ શોધો. (pi = 22/7 લો)",
+      "options": [
+        {
+          "option": "462 ચો સેમી"
+        },
+        {
+          "option": "115.5 ચો સેમી"
+        },
+        {
+          "option": "231 ચો સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "693 ચો સેમી"
+        }
+      ]
+    },
+    {
+      "question": "14 સેમી ત્રિજ્યા વાળા વર્તુળના કેન્દ્ર પર 90 અંશનો ખૂણો બનાવતી ચાપની લંબાઈ કેટલી થાય? (pi = 22/7 લો)",
+      "options": [
+        {
+          "option": "88 સેમી"
+        },
+        {
+          "option": "11 સેમી"
+        },
+        {
+          "option": "22 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "44 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "એક ચોરસનો વિકર્ણ 10 સેમી છે. તેનું ક્ષેત્રફળ શોધો.",
+      "options": [
+        {
+          "option": "50 ચો સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "100 ચો સેમી"
+        },
+        {
+          "option": "75 ચો સેમી"
+        },
+        {
+          "option": "25 ચો સેમી"
+        }
+      ]
+    },
+    {
+      "question": "જો વર્તુળનો પરિઘ ચોરસની પરિમિતિ જેટલો હોય, અને ચોરસની બાજુ 22 સેમી હોય, તો વર્તુળની ત્રિજ્યા શોધો. (pi = 22/7 લો)",
+      "options": [
+        {
+          "option": "14 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "7 સેમી"
+        },
+        {
+          "option": "21 સેમી"
+        },
+        {
+          "option": "28 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "જે ચોરસનો વિકર્ણ 8√2 સેમી હોય તેનું ક્ષેત્રફળ શોધો.",
+      "options": [
+        {
+          "option": "16 ચો સેમી"
+        },
+        {
+          "option": "32 ચો સેમી"
+        },
+        {
+          "option": "128 ચો સેમી"
+        },
+        {
+          "option": "64 ચો સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "એક લંબચોરસની લંબાઈ તેની પહોળાઈ કરતાં બમણી છે. જો તેની પરિમિતિ 60 સેમી હોય, તો તેની લંબાઈ શોધો.",
+      "options": [
+        {
+          "option": "15 સેમી"
+        },
+        {
+          "option": "30 સેમી"
+        },
+        {
+          "option": "10 સેમી"
+        },
+        {
+          "option": "20 સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જે વર્તુળનો પરિઘ 88 સેમી હોય તેનું ક્ષેત્રફળ કેટલું થાય? (pi = 22/7 લો)",
+      "options": [
+        {
+          "option": "308 ચો સેમી"
+        },
+        {
+          "option": "1232 ચો સેમી"
+        },
+        {
+          "option": "154 ચો સેમી"
+        },
+        {
+          "option": "616 ચો સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "14 સેમી ત્રિજ્યા અને 90 અંશના કેન્દ્રીય ખૂણાવાળા વર્તુળના વૃત્તાંશની પરિમિતિ શોધો. (pi = 22/7 લો)",
+      "options": [
+        {
+          "option": "28 સેમી"
+        },
+        {
+          "option": "36 સેમી"
+        },
+        {
+          "option": "50 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "44 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "જો વર્તુળની ત્રિજ્યા 50% ઘટાડવામાં આવે, તો તેના ક્ષેત્રફળમાં કેટલા ટકા ઘટાડો થાય?",
+      "options": [
+        {
+          "option": "75%",
+          "is_answer": true
+        },
+        {
+          "option": "50%"
+        },
+        {
+          "option": "100%"
+        },
+        {
+          "option": "25%"
+        }
+      ]
+    },
+    {
+      "question": "એક લંબચોરસ બગીચો 40 મીટર લાંબો અને 30 મીટર પહોળો છે. તેના વિકર્ણની લંબાઈ શોધો.",
+      "options": [
+        {
+          "option": "70 મીટર"
+        },
+        {
+          "option": "50 મીટર",
+          "is_answer": true
+        },
+        {
+          "option": "35 મીટર"
+        },
+        {
+          "option": "60 મીટર"
+        }
+      ]
+    },
+    {
+      "question": "7 સેમી અને 14 સેમી ત્રિજ્યા વાળા બે સમકેન્દ્રી વર્તુળો દ્વારા બનતી રિંગ (વર્તુળાકાર માર્ગ) નું ક્ષેત્રફળ શોધો. (pi = 22/7 લો)",
+      "options": [
+        {
+          "option": "308 ચો સેમી"
+        },
+        {
+          "option": "154 ચો સેમી"
+        },
+        {
+          "option": "462 ચો સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "616 ચો સેમી"
+        }
+      ]
+    },
+    {
+      "question": "ચોરસ અને લંબચોરસની પરિમિતિ સમાન છે. જો ચોરસનું ક્ષેત્રફળ 81 ચો સેમી હોય અને લંબચોરસની લંબાઈ 10 સેમી હોય, તો તેની પહોળાઈ શોધો.",
+      "options": [
+        {
+          "option": "7.5 સેમી"
+        },
+        {
+          "option": "10 સેમી"
+        },
+        {
+          "option": "8 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "9 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "એક લંબઘનની લંબાઈ 12 સેમી, પહોળાઈ 8 સેમી અને ઊંચાઈ 5 સેમી છે, તો તેનું ઘનફળ શોધો.",
+      "options": [
+        {
+          "option": "400 ઘન સેમી"
+        },
+        {
+          "option": "480 ઘન સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "450 ઘન સેમી"
+        },
+        {
+          "option": "520 ઘન સેમી"
+        }
+      ]
+    },
+    {
+      "question": "6 સેમી બાજુની લંબાઈવાળા સમઘનની કુલ સપાટીનું ક્ષેત્રફળ કેટલું થાય?",
+      "options": [
+        {
+          "option": "144 ચોરસ સેમી"
+        },
+        {
+          "option": "256 ચોરસ સેમી"
+        },
+        {
+          "option": "216 ચોરસ સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "180 ચોરસ સેમી"
+        }
+      ]
+    },
+    {
+      "question": "10મી x 10મી x 5મી માપવાળા રૂમમાં મૂકી શકાતા સૌથી લાંબા સળિયાની લંબાઈ શોધો.",
+      "options": [
+        {
+          "option": "15 મીટર",
+          "is_answer": true
+        },
+        {
+          "option": "20 મીટર"
+        },
+        {
+          "option": "25 મીટર"
+        },
+        {
+          "option": "10.5 મીટર"
+        }
+      ]
+    },
+    {
+      "question": "એક સમઘનનું ઘનફળ 512 ઘન સેમી છે. તેનું કુલ સપાટીનું ક્ષેત્રફળ શોધો.",
+      "options": [
+        {
+          "option": "384 ચોરસ સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "192 ચોરસ સેમી"
+        },
+        {
+          "option": "512 ચોરસ સેમી"
+        },
+        {
+          "option": "256 ચોરસ સેમી"
+        }
+      ]
+    },
+    {
+      "question": "જો એક લંબઘનની કુલ સપાટીનું ક્ષેત્રફળ 1300 ચોરસ સેમી હોય, અને તેની લંબાઈ 15 સેમી તથા પહોળાઈ 10 સેમી હોય, તો તેની ઊંચાઈ શોધો.",
+      "options": [
+        {
+          "option": "15 સેમી"
+        },
+        {
+          "option": "25 સેમી"
+        },
+        {
+          "option": "30 સેમી"
+        },
+        {
+          "option": "20 સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "3 સેમી, 4 સેમી અને 12 સેમી પરિમાણવાળા લંબઘનનો વિકર્ણ શોધો.",
+      "options": [
+        {
+          "option": "19 સેમી"
+        },
+        {
+          "option": "10 સેમી"
+        },
+        {
+          "option": "7 સેમી"
+        },
+        {
+          "option": "13 સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "15 મીટર લાંબા, 10 મીટર પહોળા અને 7 મીટર ઊંચા લંબઘનાકાર રૂમની ચારેય દીવાલોને રંગવાનો ખર્ચ રૂ. 5 પ્રતિ ચોરસ મીટરના ભાવે કેટલો થશે?",
+      "options": [
+        {
+          "option": "રૂ. 2500"
+        },
+        {
+          "option": "રૂ. 1250"
+        },
+        {
+          "option": "રૂ. 3500"
+        },
+        {
+          "option": "રૂ. 1750",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો સમઘનની બાજુ 50% વધારવામાં આવે, તો તેના ઘનફળમાં કેટલા ટકાનો વધારો થાય?",
+      "options": [
+        {
+          "option": "300%"
+        },
+        {
+          "option": "125%"
+        },
+        {
+          "option": "237.5%",
+          "is_answer": true
+        },
+        {
+          "option": "150%"
+        }
+      ]
+    },
+    {
+      "question": "જે સમઘનનો વિકર્ણ 6√3 સેમી છે તેનું ઘનફળ શોધો.",
+      "options": [
+        {
+          "option": "108 ઘન સેમી"
+        },
+        {
+          "option": "216 ઘન સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "512 ઘન સેમી"
+        },
+        {
+          "option": "72 ઘન સેમી"
+        }
+      ]
+    },
+    {
+      "question": "એક લંબઘનના પરિમાણોનો ગુણોત્તર 3:2:1 છે અને તેની કુલ સપાટીનું ક્ષેત્રફળ 88 ચોરસ સેમી છે. તેનું ઘનફળ શોધો.",
+      "options": [
+        {
+          "option": "24 ઘન સેમી"
+        },
+        {
+          "option": "96 ઘન સેમી"
+        },
+        {
+          "option": "36 ઘન સેમી"
+        },
+        {
+          "option": "48 ઘન સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "16સેમી x 8સેમી x 4સેમી માપના નક્કર લંબઘનમાંથી 2 સેમી બાજુવાળા કેટલા નાના સમઘન બનાવી શકાય?",
+      "options": [
+        {
+          "option": "16"
+        },
+        {
+          "option": "64"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "32",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો સમઘનની કુલ સપાટીનું ક્ષેત્રફળ તેના આંકડાકીય ઘનફળના 6 ગણા બરાબર હોય, તો તેની બાજુની લંબાઈ કેટલી થાય?",
+      "options": [
+        {
+          "option": "6 એકમ"
+        },
+        {
+          "option": "2 એકમ"
+        },
+        {
+          "option": "1 એકમ",
+          "is_answer": true
+        },
+        {
+          "option": "3 એકમ"
+        }
+      ]
+    },
+    {
+      "question": "જે સમઘનનું ઘનફળ 729 ઘન સેમી છે તેના વિકર્ણની લંબાઈ કેટલી થાય?",
+      "options": [
+        {
+          "option": "9 સેમી"
+        },
+        {
+          "option": "3√3 સેમી"
+        },
+        {
+          "option": "9√3 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "81 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "એક લંબચોરસ પાણીની ટાંકી 6 મીટર લાંબી, 5 મીટર પહોળી અને 4.5 મીટર ઊંડી છે. તેમાં કેટલા લીટર પાણી સમાઈ શકે? (1 ઘન મીટર = 1000 લીટર)",
+      "options": [
+        {
+          "option": "13,500 લીટર"
+        },
+        {
+          "option": "135,000 લીટર",
+          "is_answer": true
+        },
+        {
+          "option": "1,350 લીટર"
+        },
+        {
+          "option": "1,350,000 લીટર"
+        }
+      ]
+    },
+    {
+      "question": "એક લંબઘનની ત્રણ જોડાતી સપાટીઓના ક્ષેત્રફળ X, Y અને Z છે. તેનું ઘનફળ V નીચેનામાંથી કયું હશે?",
+      "options": [
+        {
+          "option": "V = X + Y + Z"
+        },
+        {
+          "option": "V = √(X+Y+Z)"
+        },
+        {
+          "option": "V = √(XYZ)",
+          "is_answer": true
+        },
+        {
+          "option": "V = XYZ"
+        }
+      ]
+    },
+    {
+      "question": "જો સમઘનની બાજુ બમણી કરવામાં આવે, તો તેનું સપાટીનું ક્ષેત્રફળ કેટલા ગણું વધી જાય?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "10 સેમી લંબાઈ, 6 સેમી પહોળાઈ અને 5 સેમી ઊંચાઈવાળા લંબઘનની પાર્શ્વ સપાટીનું (lateral surface area) ક્ષેત્રફળ શોધો.",
+      "options": [
+        {
+          "option": "300 ચોરસ સેમી"
+        },
+        {
+          "option": "200 ચોરસ સેમી"
+        },
+        {
+          "option": "160 ચોરસ સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "120 ચોરસ સેમી"
+        }
+      ]
+    },
+    {
+      "question": "બે સમઘનના ઘનફળનો ગુણોત્તર 27:64 છે. તેમની સપાટીના ક્ષેત્રફળનો ગુણોત્તર કેટલો થાય?",
+      "options": [
+        {
+          "option": "9:16",
+          "is_answer": true
+        },
+        {
+          "option": "81:256"
+        },
+        {
+          "option": "27:64"
+        },
+        {
+          "option": "3:4"
+        }
+      ]
+    },
+    {
+      "question": "જો સમઘનની કુલ સપાટીનું ક્ષેત્રફળ 96 ચોરસ સેમી હોય, તો તેની ધારની લંબાઈ કેટલી થાય?",
+      "options": [
+        {
+          "option": "16 સેમી"
+        },
+        {
+          "option": "4 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "6 સેમી"
+        },
+        {
+          "option": "8 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "ધાતુનો એક લંબઘનાકાર બ્લોક 36 સેમી x 24 સેમી x 18 સેમી માપનો છે. તેને ઓગાળીને 6 સેમી બાજુવાળા નાના સમઘન બનાવવામાં આવે છે. કેટલા સમઘન બનશે?",
+      "options": [
+        {
+          "option": "48"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "72",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        }
+      ]
+    },
+    {
+      "question": "r ત્રિજ્યાવાળા ગોળાર્ધની વક્ર સપાટીનું ક્ષેત્રફળ શોધવાનું સૂત્ર શું છે?",
+      "options": [
+        {
+          "option": "3πr²"
+        },
+        {
+          "option": "4πr²"
+        },
+        {
+          "option": "2πr²",
+          "is_answer": true
+        },
+        {
+          "option": "πr²"
+        }
+      ]
+    },
+    {
+      "question": "r ત્રિજ્યાવાળા ઘન ગોળાર્ધની કુલ સપાટીનું ક્ષેત્રફળ શું છે?",
+      "options": [
+        {
+          "option": "4πr²"
+        },
+        {
+          "option": "2πr²"
+        },
+        {
+          "option": "3πr²",
+          "is_answer": true
+        },
+        {
+          "option": "πr²"
+        }
+      ]
+    },
+    {
+      "question": "r ત્રિજ્યાવાળા ગોળાર્ધનું કદ કેટલું થાય?",
+      "options": [
+        {
+          "option": "2πr³"
+        },
+        {
+          "option": "(1/3)πr³"
+        },
+        {
+          "option": "(4/3)πr³"
+        },
+        {
+          "option": "(2/3)πr³",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "7 સેમી ત્રિજ્યાવાળા ગોળાર્ધની વક્ર સપાટીનું ક્ષેત્રફળ શોધો. (π = 22/7 લો)",
+      "options": [
+        {
+          "option": "154 cm²"
+        },
+        {
+          "option": "462 cm²"
+        },
+        {
+          "option": "308 cm²",
+          "is_answer": true
+        },
+        {
+          "option": "616 cm²"
+        }
+      ]
+    },
+    {
+      "question": "7 સેમી ત્રિજ્યાવાળા ઘન ગોળાર્ધની કુલ સપાટીનું ક્ષેત્રફળ શોધો. (π = 22/7 લો)",
+      "options": [
+        {
+          "option": "616 cm²"
+        },
+        {
+          "option": "308 cm²"
+        },
+        {
+          "option": "154 cm²"
+        },
+        {
+          "option": "462 cm²",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "3 સેમી ત્રિજ્યાવાળા ગોળાર્ધનું કદ શોધો. (π = 22/7 લો)",
+      "options": [
+        {
+          "option": "56.57 cm³",
+          "is_answer": true
+        },
+        {
+          "option": "18.86 cm³"
+        },
+        {
+          "option": "28.28 cm³"
+        },
+        {
+          "option": "113.14 cm³"
+        }
+      ]
+    },
+    {
+      "question": "જો ગોળાર્ધની વક્ર સપાટીનું ક્ષેત્રફળ 396 cm² હોય, તો તેની ત્રિજ્યા શોધો. (π = 22/7 લો)",
+      "options": [
+        {
+          "option": "7.95 cm",
+          "is_answer": true
+        },
+        {
+          "option": "10.5 cm"
+        },
+        {
+          "option": "14 cm"
+        },
+        {
+          "option": "7 cm"
+        }
+      ]
+    },
+    {
+      "question": "જો ઘન ગોળાર્ધની કુલ સપાટીનું ક્ષેત્રફળ 4158 cm² હોય, તો તેની ત્રિજ્યા શોધો. (π = 22/7 લો)",
+      "options": [
+        {
+          "option": "7 cm"
+        },
+        {
+          "option": "28 cm"
+        },
+        {
+          "option": "14 cm"
+        },
+        {
+          "option": "21 cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "6 સેમી ત્રિજ્યાવાળા ગોળાર્ધનું કદ કેટલું થાય? (π = 3.14 લો)",
+      "options": [
+        {
+          "option": "150.72 cm³"
+        },
+        {
+          "option": "452.16 cm³",
+          "is_answer": true
+        },
+        {
+          "option": "904.32 cm³"
+        },
+        {
+          "option": "226.08 cm³"
+        }
+      ]
+    },
+    {
+      "question": "ઘન ગોળાર્ધની કુલ સપાટીના ક્ષેત્રફળ અને વક્ર સપાટીના ક્ષેત્રફળનો ગુણોત્તર શોધો.",
+      "options": [
+        {
+          "option": "3 : 2",
+          "is_answer": true
+        },
+        {
+          "option": "1 : 2"
+        },
+        {
+          "option": "2 : 1"
+        },
+        {
+          "option": "2 : 3"
+        }
+      ]
+    },
+    {
+      "question": "જો ગોળાર્ધની ત્રિજ્યા બમણી કરવામાં આવે, તો તેના કદમાં શું ફેરફાર થાય?",
+      "options": [
+        {
+          "option": "2 ગણું થાય છે"
+        },
+        {
+          "option": "4 ગણું થાય છે"
+        },
+        {
+          "option": "16 ગણું થાય છે"
+        },
+        {
+          "option": "8 ગણું થાય છે",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો ગોળાર્ધની ત્રિજ્યા ત્રણ ગણી કરવામાં આવે, તો તેની વક્ર સપાટીના ક્ષેત્રફળમાં શું ફેરફાર થાય?",
+      "options": [
+        {
+          "option": "3 ગણું થાય છે"
+        },
+        {
+          "option": "6 ગણું થાય છે"
+        },
+        {
+          "option": "27 ગણું થાય છે"
+        },
+        {
+          "option": "9 ગણું થાય છે",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "14 સેમી વ્યાસવાળા ગોળાર્ધની વક્ર સપાટીનું ક્ષેત્રફળ શોધો. (π = 22/7 લો)",
+      "options": [
+        {
+          "option": "616 cm²"
+        },
+        {
+          "option": "154 cm²"
+        },
+        {
+          "option": "308 cm²",
+          "is_answer": true
+        },
+        {
+          "option": "462 cm²"
+        }
+      ]
+    },
+    {
+      "question": "21 સેમી વ્યાસવાળા ગોળાર્ધનું કદ કેટલું થાય? (π = 22/7 લો)",
+      "options": [
+        {
+          "option": "1212.75 cm³"
+        },
+        {
+          "option": "4851 cm³"
+        },
+        {
+          "option": "2425.5 cm³",
+          "is_answer": true
+        },
+        {
+          "option": "3638.25 cm³"
+        }
+      ]
+    },
+    {
+      "question": "જો ગોળાર્ધનું કદ 19404 cm³ હોય, તો તેની ત્રિજ્યા શોધો. (π = 22/7 લો)",
+      "options": [
+        {
+          "option": "21 cm",
+          "is_answer": true
+        },
+        {
+          "option": "7 cm"
+        },
+        {
+          "option": "28 cm"
+        },
+        {
+          "option": "14 cm"
+        }
+      ]
+    },
+    {
+      "question": "28 સેમી વ્યાસવાળા ગોળાર્ધની કુલ સપાટીનું ક્ષેત્રફળ શોધો. (π = 22/7 લો)",
+      "options": [
+        {
+          "option": "2464 cm²"
+        },
+        {
+          "option": "1232 cm²"
+        },
+        {
+          "option": "3696 cm²",
+          "is_answer": true
+        },
+        {
+          "option": "1848 cm²"
+        }
+      ]
+    },
+    {
+      "question": "ગોળાર્ધની વક્ર સપાટીનું ક્ષેત્રફળ 56.52 cm² છે. તેની ત્રિજ્યા શોધો. (π = 3.14 લો)",
+      "options": [
+        {
+          "option": "9 cm"
+        },
+        {
+          "option": "3 cm",
+          "is_answer": true
+        },
+        {
+          "option": "4.5 cm"
+        },
+        {
+          "option": "6 cm"
+        }
+      ]
+    },
+    {
+      "question": "એક અર્ધગોળાકાર વાસણની આંતરિક ત્રિજ્યા 3.5 સેમી છે. તેમાં કેટલું પાણી સમાઈ શકે? (π = 22/7 લો)",
+      "options": [
+        {
+          "option": "89.83 cm³",
+          "is_answer": true
+        },
+        {
+          "option": "179.67 cm³"
+        },
+        {
+          "option": "26.95 cm³"
+        },
+        {
+          "option": "53.9 cm³"
+        }
+      ]
+    },
+    {
+      "question": "જો ગોળાર્ધના કદનું સંખ્યાત્મક મૂલ્ય તેની વક્ર સપાટીના ક્ષેત્રફળના સંખ્યાત્મક મૂલ્ય જેટલું જ હોય, તો તેની ત્રિજ્યા શોધો.",
+      "options": [
+        {
+          "option": "2 એકમ"
+        },
+        {
+          "option": "1.5 એકમ"
+        },
+        {
+          "option": "4 એકમ"
+        },
+        {
+          "option": "3 એકમ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "10 સેમી ત્રિજ્યાવાળા ગોળાર્ધની કુલ સપાટીનું ક્ષેત્રફળ શોધો. (π = 3.14 લો)",
+      "options": [
+        {
+          "option": "314 cm²"
+        },
+        {
+          "option": "1256 cm²"
+        },
+        {
+          "option": "942 cm²",
+          "is_answer": true
+        },
+        {
+          "option": "628 cm²"
+        }
+      ]
+    },
+    {
+      "question": "ગુણોત્તર શ્રેણી (GP) 3, 6, 12, 24, ... નું 5મું પદ શોધો.",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "96"
+        },
+        {
+          "option": "48",
+          "is_answer": true
+        },
+        {
+          "option": "192"
+        }
+      ]
+    },
+    {
+      "question": "જે ગુણોત્તર શ્રેણીનું પ્રથમ પદ 2 અને સામાન્ય ગુણોત્તર 3 હોય, તેનું 7મું પદ શું થાય?",
+      "options": [
+        {
+          "option": "4374"
+        },
+        {
+          "option": "729"
+        },
+        {
+          "option": "486"
+        },
+        {
+          "option": "1458",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "ગુણોત્તર શ્રેણી 1, 2, 4, 8, ... ના પ્રથમ 6 પદોનો સરવાળો શોધો.",
+      "options": [
+        {
+          "option": "127"
+        },
+        {
+          "option": "31"
+        },
+        {
+          "option": "63",
+          "is_answer": true
+        },
+        {
+          "option": "255"
+        }
+      ]
+    },
+    {
+      "question": "અનંત ગુણોત્તર શ્રેણી 8, 4, 2, 1, ... નો અનંત પદો સુધીનો સરવાળો કેટલો થાય?",
+      "options": [
+        {
+          "option": "32"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "એક ગુણોત્તર શ્રેણીમાં, જો 3જું પદ 12 અને 6ઠ્ઠું પદ 96 હોય, તો પ્રથમ પદ 'a' શોધો.",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "1.5"
+        }
+      ]
+    },
+    {
+      "question": "એક ગુણોત્તર શ્રેણી જેનું પ્રથમ પદ 5 અને ચોથું પદ 135 છે, તેનો સામાન્ય ગુણોત્તર શોધો.",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "27"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "ગુણોત્તર શ્રેણી 1, 2, 4, 8, ... નું 10મું પદ શું છે?",
+      "options": [
+        {
+          "option": "1024"
+        },
+        {
+          "option": "256"
+        },
+        {
+          "option": "512",
+          "is_answer": true
+        },
+        {
+          "option": "2048"
+        }
+      ]
+    },
+    {
+      "question": "અનંત ગુણોત્તર શ્રેણી 9, 3, 1, 1/3, ... નો સરવાળો શોધો.",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "13.5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો એક ગુણોત્તર શ્રેણીના પ્રથમ 3 પદોનો સરવાળો 21 હોય અને તેના વર્ગોનો સરવાળો 189 હોય, તો સામાન્ય ગુણોત્તર (r > 1) શોધો.",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "1.5"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "ગુણોત્તર શ્રેણી 5, 10, 20, 40, ... નું કયું પદ 1280 છે?",
+      "options": [
+        {
+          "option": "8th"
+        },
+        {
+          "option": "10th"
+        },
+        {
+          "option": "9th",
+          "is_answer": true
+        },
+        {
+          "option": "7th"
+        }
+      ]
+    },
+    {
+      "question": "ગુણોત્તર શ્રેણી 64, 32, 16, 8, ... નું ચોથું પદ શોધો.",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "ગુણોત્તર શ્રેણી 2, 6, 18, 54, ... ના પ્રથમ 5 પદોનો સરવાળો ગણો.",
+      "options": [
+        {
+          "option": "121"
+        },
+        {
+          "option": "484"
+        },
+        {
+          "option": "81"
+        },
+        {
+          "option": "242",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો કોઈ ગુણોત્તર શ્રેણીનું બીજું પદ 2 અને પાંચમું પદ 1/4 હોય, તો તેનું 8મું પદ શોધો.",
+      "options": [
+        {
+          "option": "1/64"
+        },
+        {
+          "option": "1/8"
+        },
+        {
+          "option": "1/32",
+          "is_answer": true
+        },
+        {
+          "option": "1/16"
+        }
+      ]
+    },
+    {
+      "question": "અનંત ગુણોત્તર શ્રેણી 0.6, 0.06, 0.006, ... નો સરવાળો શોધો.",
+      "options": [
+        {
+          "option": "3/5"
+        },
+        {
+          "option": "2/3",
+          "is_answer": true
+        },
+        {
+          "option": "6/99"
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "જો ત્રણ સંખ્યાઓ ગુણોત્તર શ્રેણીમાં હોય જેથી તેમનો ગુણાકાર 27 અને સરવાળો 13 થાય, તો મધ્યમ પદ શોધો.",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "27"
+        }
+      ]
+    },
+    {
+      "question": "ગુણોત્તર શ્રેણી -3, 6, -12, 24, ... નો સામાન્ય ગુણોત્તર શું છે?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "-2",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "-3"
+        }
+      ]
+    },
+    {
+      "question": "ગુણોત્તર શ્રેણી 1/2, 1/4, 1/8, 1/16, ... નું 6ઠ્ઠું પદ શોધો.",
+      "options": [
+        {
+          "option": "1/256"
+        },
+        {
+          "option": "1/128"
+        },
+        {
+          "option": "1/64",
+          "is_answer": true
+        },
+        {
+          "option": "1/32"
+        }
+      ]
+    },
+    {
+      "question": "જો ગુણોત્તર શ્રેણીનું પ્રથમ પદ 7 અને n-મું પદ 448 હોય તથા સામાન્ય ગુણોત્તર 2 હોય, તો n નું મૂલ્ય શોધો.",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "એક ગુણોત્તર શ્રેણી કે જેમાં a = 5 અને r = 3 હોય, તેના પ્રથમ 4 પદોનો સરવાળો શોધો.",
+      "options": [
+        {
+          "option": "160"
+        },
+        {
+          "option": "80"
+        },
+        {
+          "option": "200",
+          "is_answer": true
+        },
+        {
+          "option": "400"
+        }
+      ]
+    },
+    {
+      "question": "ગુણોત્તર શ્રેણી 16, -8, 4, -2, ... નું 5મું પદ શું છે?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "-2"
+        }
+      ]
+    },
+    {
+      "question": "સમાંતર શ્રેણી 2, 7, 12, ... નું 10મું પદ શોધો.",
+      "options": [
+        {
+          "option": "42"
+        },
+        {
+          "option": "47",
+          "is_answer": true
+        },
+        {
+          "option": "37"
+        },
+        {
+          "option": "52"
+        }
+      ]
+    },
+    {
+      "question": "સમાંતર શ્રેણી -3, -1/2, 2, ... નું 11મું પદ શું છે?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "-20"
+        },
+        {
+          "option": "22",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "સમાંતર શ્રેણી 8, 3, -2, ... ના પ્રથમ 22 પદોનો સરવાળો શોધો.",
+      "options": [
+        {
+          "option": "-979",
+          "is_answer": true
+        },
+        {
+          "option": "-1012"
+        },
+        {
+          "option": "-961"
+        },
+        {
+          "option": "979"
+        }
+      ]
+    },
+    {
+      "question": "સમાંતર શ્રેણી 3, 8, 13, 18, ... નું કયું પદ 78 છે?",
+      "options": [
+        {
+          "option": "15મું"
+        },
+        {
+          "option": "18મું"
+        },
+        {
+          "option": "16મું",
+          "is_answer": true
+        },
+        {
+          "option": "17મું"
+        }
+      ]
+    },
+    {
+      "question": "સમાંતર શ્રેણી 7, 13, 19, ..., 205 માં પદોની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "34",
+          "is_answer": true
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "33"
+        },
+        {
+          "option": "35"
+        }
+      ]
+    },
+    {
+      "question": "સમાંતર શ્રેણી 10, 7, 4, ... નું 30મું પદ શોધો.",
+      "options": [
+        {
+          "option": "-87"
+        },
+        {
+          "option": "-85"
+        },
+        {
+          "option": "77"
+        },
+        {
+          "option": "-77",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "સમાંતર શ્રેણી 2, 7, 12, ... ના પ્રથમ 10 પદોનો સરવાળો શોધો.",
+      "options": [
+        {
+          "option": "225"
+        },
+        {
+          "option": "245",
+          "is_answer": true
+        },
+        {
+          "option": "250"
+        },
+        {
+          "option": "235"
+        }
+      ]
+    },
+    {
+      "question": "જો સમાંતર શ્રેણીનું ત્રીજું અને નવમું પદ અનુક્રમે 4 અને -8 હોય, તો આ શ્રેણીનું કયું પદ શૂન્ય હશે?",
+      "options": [
+        {
+          "option": "6મું"
+        },
+        {
+          "option": "4થું"
+        },
+        {
+          "option": "7મું"
+        },
+        {
+          "option": "5મું",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "તે સમાંતર શ્રેણી શોધો કે જેનું ત્રીજું પદ 16 હોય અને 7મું પદ 5મા પદ કરતા 12 વધુ હોય.",
+      "options": [
+        {
+          "option": "4, 10, 16, 22, ...",
+          "is_answer": true
+        },
+        {
+          "option": "3, 9, 15, 21, ..."
+        },
+        {
+          "option": "6, 11, 16, 21, ..."
+        },
+        {
+          "option": "2, 8, 14, 20, ..."
+        }
+      ]
+    },
+    {
+      "question": "સમાંતર શ્રેણી 3, 8, 13, ..., 253 ના છેલ્લેથી (પ્રથમ પદ તરફ) 20મું પદ શોધો.",
+      "options": [
+        {
+          "option": "163"
+        },
+        {
+          "option": "158",
+          "is_answer": true
+        },
+        {
+          "option": "148"
+        },
+        {
+          "option": "153"
+        }
+      ]
+    },
+    {
+      "question": "સંખ્યાઓની યાદી કે જેનું nમું પદ a_n = 3 + 2n દ્વારા આપવામાં આવે છે, તેના પ્રથમ 24 પદોનો સરવાળો શોધો.",
+      "options": [
+        {
+          "option": "632"
+        },
+        {
+          "option": "680"
+        },
+        {
+          "option": "650"
+        },
+        {
+          "option": "672",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "8 ના પ્રથમ 15 ગુણિતોનો સરવાળો શોધો.",
+      "options": [
+        {
+          "option": "920"
+        },
+        {
+          "option": "960",
+          "is_answer": true
+        },
+        {
+          "option": "940"
+        },
+        {
+          "option": "980"
+        }
+      ]
+    },
+    {
+      "question": "0 અને 50 વચ્ચેની એકી સંખ્યાઓનો સરવાળો શોધો.",
+      "options": [
+        {
+          "option": "650"
+        },
+        {
+          "option": "600"
+        },
+        {
+          "option": "625",
+          "is_answer": true
+        },
+        {
+          "option": "550"
+        }
+      ]
+    },
+    {
+      "question": "કેટલી બે અંકની સંખ્યાઓ 3 થી વિભાજ્ય છે?",
+      "options": [
+        {
+          "option": "29"
+        },
+        {
+          "option": "33"
+        },
+        {
+          "option": "31"
+        },
+        {
+          "option": "30",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો સમાંતર શ્રેણીના પ્રથમ n પદોનો સરવાળો S_n = 4n - n^2 દ્વારા આપવામાં આવે, તો પ્રથમ પદ (S_1) શું છે?",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "સમાંતર શ્રેણી 1, 4, 7, 10, ... ના પ્રથમ 15 પદોનો સરવાળો શોધો.",
+      "options": [
+        {
+          "option": "310"
+        },
+        {
+          "option": "325",
+          "is_answer": true
+        },
+        {
+          "option": "315"
+        },
+        {
+          "option": "340"
+        }
+      ]
+    },
+    {
+      "question": "જો સંખ્યાઓ a, 7, b, 23 સમાંતર શ્રેણી બનાવે છે, તો અનુક્રમે a અને b ની કિંમતો શોધો.",
+      "options": [
+        {
+          "option": "1, 15"
+        },
+        {
+          "option": "0, 15"
+        },
+        {
+          "option": "-1, 15",
+          "is_answer": true
+        },
+        {
+          "option": "-1, 14"
+        }
+      ]
+    },
+    {
+      "question": "એક સમાંતર શ્રેણીમાં, જો a = 7, d = 3, n = 8 હોય, તો a_n શોધો.",
+      "options": [
+        {
+          "option": "26"
+        },
+        {
+          "option": "31"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "28",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "એક સમાંતર શ્રેણીનો સામાન્ય તફાવત શોધો જેનું પ્રથમ પદ 5 છે અને પ્રથમ 4 પદોનો સરવાળો એ પછીના 4 પદોના સરવાળા કરતાં અડધો છે.",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "સમાંતર શ્રેણી 21, 18, 15, ... નું કયું પદ 0 છે?",
+      "options": [
+        {
+          "option": "6ઠ્ઠું"
+        },
+        {
+          "option": "8મું",
+          "is_answer": true
+        },
+        {
+          "option": "9મું"
+        },
+        {
+          "option": "7મું"
+        }
+      ]
+    },
+    {
+      "question": "7 સેમી ત્રિજ્યા અને 10 સેમી ઊંચાઈ ધરાવતા નળાકારનું ઘનફળ શોધો. (pi = 22/7 નો ઉપયોગ કરો)",
+      "options": [
+        {
+          "option": "770 સેમી³"
+        },
+        {
+          "option": "3080 સેમી³"
+        },
+        {
+          "option": "154 સેમી³"
+        },
+        {
+          "option": "1540 સેમી³",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "3.5 સેમી ત્રિજ્યા અને 20 સેમી ઊંચાઈ ધરાવતા નળાકારની વક્ર સપાટીનું ક્ષેત્રફળ કેટલું થાય? (pi = 22/7 નો ઉપયોગ કરો)",
+      "options": [
+        {
+          "option": "440 સેમી²",
+          "is_answer": true
+        },
+        {
+          "option": "220 સેમી²"
+        },
+        {
+          "option": "154 સેમી²"
+        },
+        {
+          "option": "880 સેમી²"
+        }
+      ]
+    },
+    {
+      "question": "6 સેમી ત્રિજ્યા અને 7 સેમી ઊંચાઈ ધરાવતા લંબવૃત્તીય શંકુનું ઘનફળ શોધો. (pi = 22/7 નો ઉપયોગ કરો)",
+      "options": [
+        {
+          "option": "528 સેમી³"
+        },
+        {
+          "option": "132 સેમી³"
+        },
+        {
+          "option": "792 સેમી³"
+        },
+        {
+          "option": "264 સેમી³",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જે શંકુના પાયાની ત્રિજ્યા 3 સેમી અને ઊંચાઈ 4 સેમી હોય તેની ત્રાંસી ઊંચાઈ કેટલી થાય?",
+      "options": [
+        {
+          "option": "7 સેમી"
+        },
+        {
+          "option": "12 સેમી"
+        },
+        {
+          "option": "25 સેમી"
+        },
+        {
+          "option": "5 સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "7 સેમી ત્રિજ્યા ધરાવતા ગોળાની સપાટીનું ક્ષેત્રફળ શોધો. (pi = 22/7 નો ઉપયોગ કરો)",
+      "options": [
+        {
+          "option": "308 સેમી²"
+        },
+        {
+          "option": "1232 સેમી²"
+        },
+        {
+          "option": "154 સેમી²"
+        },
+        {
+          "option": "616 સેમી²",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "3 સેમી ત્રિજ્યા ધરાવતા ગોળાનું ઘનફળ શોધો. (pi = 22/7 નો ઉપયોગ કરો)",
+      "options": [
+        {
+          "option": "226.28 સેમી³"
+        },
+        {
+          "option": "113.14 સેમી³",
+          "is_answer": true
+        },
+        {
+          "option": "37.71 સેમી³"
+        },
+        {
+          "option": "150.50 સેમી³"
+        }
+      ]
+    },
+    {
+      "question": "જો નળાકારની ત્રિજ્યા બમણી કરવામાં આવે અને ઊંચાઈ સમાન રહે, તો તેનું ઘનફળ મૂળ ઘનફળથી કેટલા ગણું થઈ જાય?",
+      "options": [
+        {
+          "option": "કોઈ ફેરફાર નહીં"
+        },
+        {
+          "option": "8 ગણું"
+        },
+        {
+          "option": "2 ગણું"
+        },
+        {
+          "option": "4 ગણું",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "7 સેમી ત્રિજ્યા ધરાવતા નક્કર અર્ધગોળાની કુલ સપાટીનું ક્ષેત્રફળ શોધો. (pi = 22/7 નો ઉપયોગ કરો)",
+      "options": [
+        {
+          "option": "462 સેમી²",
+          "is_answer": true
+        },
+        {
+          "option": "308 સેમી²"
+        },
+        {
+          "option": "616 સેમી²"
+        },
+        {
+          "option": "154 સેમી²"
+        }
+      ]
+    },
+    {
+      "question": "7 સેમી ત્રિજ્યા અને 10 સેમી ત્રાંસી ઊંચાઈ ધરાવતા શંકુની વક્ર સપાટીનું ક્ષેત્રફળ શોધો. (pi = 22/7 નો ઉપયોગ કરો)",
+      "options": [
+        {
+          "option": "110 સેમી²"
+        },
+        {
+          "option": "440 સેમી²"
+        },
+        {
+          "option": "154 સેમી²"
+        },
+        {
+          "option": "220 સેમી²",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "એક નળાકારની વક્ર સપાટીનું ક્ષેત્રફળ 880 સેમી² છે અને તેની ઊંચાઈ 20 સેમી છે. તેની ત્રિજ્યા શોધો. (pi = 22/7 નો ઉપયોગ કરો)",
+      "options": [
+        {
+          "option": "3.5 સેમી"
+        },
+        {
+          "option": "21 સેમી"
+        },
+        {
+          "option": "14 સેમી"
+        },
+        {
+          "option": "7 સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો કોઈ ગોળાનું ઘનફળ અને સપાટીનું ક્ષેત્રફળ આંકડાકીય રીતે સમાન હોય, તો ગોળાની ત્રિજ્યા કેટલી થાય?",
+      "options": [
+        {
+          "option": "pi એકમ"
+        },
+        {
+          "option": "6 એકમ"
+        },
+        {
+          "option": "3 એકમ",
+          "is_answer": true
+        },
+        {
+          "option": "4 એકમ"
+        }
+      ]
+    },
+    {
+      "question": "એવા શંકુનું ઘનફળ શોધો જેના પાયાનું ક્ષેત્રફળ 154 સેમી² અને ઊંચાઈ 12 સેમી છે. (pi = 22/7 નો ઉપયોગ કરો)",
+      "options": [
+        {
+          "option": "616 સેમી³",
+          "is_answer": true
+        },
+        {
+          "option": "1848 સેમી³"
+        },
+        {
+          "option": "308 સેમી³"
+        },
+        {
+          "option": "924 સેમી³"
+        }
+      ]
+    },
+    {
+      "question": "એક નળાકાર ટાંકીની ત્રિજ્યા 14 મી અને ઊંચાઈ 5 મી છે. ઘન મીટરમાં ટાંકીની ક્ષમતા શોધો. (pi = 22/7 નો ઉપયોગ કરો)",
+      "options": [
+        {
+          "option": "3080 મી³",
+          "is_answer": true
+        },
+        {
+          "option": "6160 મી³"
+        },
+        {
+          "option": "1540 મી³"
+        },
+        {
+          "option": "770 મી³"
+        }
+      ]
+    },
+    {
+      "question": "બે ગોળાઓની ત્રિજ્યાઓનો ગુણોત્તર 2:3 છે. તેમના ઘનફળોનો ગુણોત્તર શું છે?",
+      "options": [
+        {
+          "option": "4:9"
+        },
+        {
+          "option": "2:3"
+        },
+        {
+          "option": "16:81"
+        },
+        {
+          "option": "8:27",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો આપેલા શંકુની ત્રિજ્યા અચળ રાખીને તેની ઊંચાઈ ત્રણ ગણી કરવામાં આવે, તો તેનું ઘનફળ કેટલું થાય?",
+      "options": [
+        {
+          "option": "3 ગણું",
+          "is_answer": true
+        },
+        {
+          "option": "9 ગણું"
+        },
+        {
+          "option": "6 ગણું"
+        },
+        {
+          "option": "1/3 ગણું"
+        }
+      ]
+    },
+    {
+      "question": "7 સેમી ત્રિજ્યા અને 10 સેમી ઊંચાઈ ધરાવતા નક્કર નળાકારની કુલ સપાટીનું ક્ષેત્રફળ શોધો. (pi = 22/7 નો ઉપયોગ કરો)",
+      "options": [
+        {
+          "option": "440 સેમી²"
+        },
+        {
+          "option": "308 સેમી²"
+        },
+        {
+          "option": "748 સેમી²",
+          "is_answer": true
+        },
+        {
+          "option": "1540 સેમી²"
+        }
+      ]
+    },
+    {
+      "question": "6 સેમી ત્રિજ્યા ધરાવતા અર્ધગોળાનું ઘનફળ શોધો. (pi = 3.14 નો ઉપયોગ કરો)",
+      "options": [
+        {
+          "option": "452.16 સેમી³",
+          "is_answer": true
+        },
+        {
+          "option": "904.32 સેમી³"
+        },
+        {
+          "option": "113.04 સેમી³"
+        },
+        {
+          "option": "226.08 સેમી³"
+        }
+      ]
+    },
+    {
+      "question": "એક શંકુ આકારનો તંબુ 10 મી ઊંચો છે અને તેના પાયાની ત્રિજ્યા 24 મી છે. તંબુની ત્રાંસી ઊંચાઈ શોધો.",
+      "options": [
+        {
+          "option": "25 મી"
+        },
+        {
+          "option": "34 મી"
+        },
+        {
+          "option": "26 મી",
+          "is_answer": true
+        },
+        {
+          "option": "14 મી"
+        }
+      ]
+    },
+    {
+      "question": "બે ગોળાઓની સપાટીના ક્ષેત્રફળનો ગુણોત્તર 1:4 છે. તેમની ત્રિજ્યાઓનો ગુણોત્તર શું છે?",
+      "options": [
+        {
+          "option": "1:2",
+          "is_answer": true
+        },
+        {
+          "option": "1:8"
+        },
+        {
+          "option": "1:4"
+        },
+        {
+          "option": "1:16"
+        }
+      ]
+    },
+    {
+      "question": "જો 3 સેમી ત્રિજ્યાના નક્કર ગોળાને ઓગાળીને 1 સેમી ત્રિજ્યાના નળાકાર વાયરમાં ફેરવવામાં આવે, તો વાયરની લંબાઈ શોધો.",
+      "options": [
+        {
+          "option": "12 સેમી"
+        },
+        {
+          "option": "36 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "108 સેમી"
+        },
+        {
+          "option": "27 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "6 સેમી ત્રિજ્યાના એક ઘન ધાતુના ગોળાને ઓગાળીને 2 સેમી ત્રિજ્યાની નાની ગોળાકાર ગોળીઓમાં ફેરવવામાં આવે છે. આવી કેટલી ગોળીઓ બનાવી શકાય?",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "27",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "36"
+        }
+      ]
+    },
+    {
+      "question": "3 સેમી ત્રિજ્યા અને 5 સેમી ઊંચાઈવાળા ધાતુના નળાકારને ઓગાળીને 1 સેમી ત્રિજ્યાના નાના ગોળાકાર દડા બનાવવામાં આવે છે. બનેલા દડાઓની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "45",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "4 સેમી ત્રિજ્યાના ધાતુના ગોળાને ઓગાળીને 2 મિમી (0.2 સેમી) ત્રિજ્યાના સમાન વર્તુળાકાર આડછેદવાળો લાંબો તાર બનાવવામાં આવે છે. તારની લંબાઈ શોધો.",
+      "options": [
+        {
+          "option": "320.00 સેમી"
+        },
+        {
+          "option": "426.67 સેમી"
+        },
+        {
+          "option": "106.67 સેમી"
+        },
+        {
+          "option": "213.33 સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "7 સેમી ત્રિજ્યા અને 10 સેમી ઊંચાઈવાળા ઘન લંબવૃત્તીય નળાકારને ઓગાળીને ઘન ગોળો બનાવવામાં આવે છે. ગોળાની ત્રિજ્યા કેટલી છે?",
+      "options": [
+        {
+          "option": "7 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "21 સેમી"
+        },
+        {
+          "option": "3.5 સેમી"
+        },
+        {
+          "option": "14 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "પાયાની ત્રિજ્યા 4 સેમી અને ઊંચાઈ 12 સેમી ધરાવતા ઘન સીસાના નળાકારમાંથી 1 સેમી ત્રિજ્યાની કેટલી ગોળાકાર કારતૂસ (બુલેટ) બનાવી શકાય?",
+      "options": [
+        {
+          "option": "192",
+          "is_answer": true
+        },
+        {
+          "option": "64"
+        },
+        {
+          "option": "256"
+        },
+        {
+          "option": "128"
+        }
+      ]
+    },
+    {
+      "question": "6 સેમી ત્રિજ્યા અને 12 સેમી ઊંચાઈવાળા ધાતુના શંકુને ઓગાળીને 2 સેમી ત્રિજ્યાના ઘન ગોળા બનાવવામાં આવે છે. બનેલા ગોળાઓની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "27"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "9 સેમી ત્રિજ્યાના ધાતુના ગોળાને ઓગાળીને 6 સેમી ત્રિજ્યાના નળાકારમાં રૂપાંતરિત કરવામાં આવે છે. નળાકારની ઊંચાઈ શોધો.",
+      "options": [
+        {
+          "option": "9 સેમી"
+        },
+        {
+          "option": "27 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "18 સેમી"
+        },
+        {
+          "option": "13.5 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "1 સેમી વ્યાસ અને 8 મીટર લંબાઈના તાંબાના તારને ઓગાળીને ઘન ગોળો બનાવવામાં આવે છે. ગોળાની ત્રિજ્યા કેટલી થાય?",
+      "options": [
+        {
+          "option": "1 સેમી"
+        },
+        {
+          "option": "2 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "8 સેમી"
+        },
+        {
+          "option": "4 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "6 સેમી, 8 સેમી અને 10 સેમી ત્રિજ્યાવાળા ત્રણ ઘન ગોળાઓને ઓગાળીને એક મોટો ઘન ગોળો બનાવવામાં આવે છે. નવા ગોળાની ત્રિજ્યા કેટલી છે?",
+      "options": [
+        {
+          "option": "12 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "14 સેમી"
+        },
+        {
+          "option": "16 સેમી"
+        },
+        {
+          "option": "24 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "9 સેમી x 11 સેમી x 12 સેમી પરિમાણવાળા ઘન ધાતુના લંબઘનને ઓગાળીને 3 સેમી ત્રિજ્યાના કેટલા ઘન ગોળા બનાવી શકાય?",
+      "options": [
+        {
+          "option": "28"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "21"
+        }
+      ]
+    },
+    {
+      "question": "32 સેમી ઊંચી અને 18 સેમી પાયાની ત્રિજ્યાવાળી નળાકાર ડોલ રેતીથી ભરેલી છે. આ ડોલને જમીન પર ખાલી કરવામાં આવે છે અને રેતીનો શંકુ આકારનો ढीગ (heap) બનાવવામાં આવે છે. જો શંકુ આકારના ઢગલાની ઊંચાઈ 24 સેમી હોય, તો તેના પાયાની ત્રિજ્યા કેટલી થાય?",
+      "options": [
+        {
+          "option": "24 સેમી"
+        },
+        {
+          "option": "36 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "12 સેમી"
+        },
+        {
+          "option": "18 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "1 સેમી આંતરિક ત્રિજ્યાવાળી વર્તુળાકાર પાઈપમાંથી 80 સેમી/સેકન્ડના વેગથી પાણી 40 સેમી ત્રિજ્યાની ખાલી નળાકાર ટાંકીમાં વહે છે. 30 મિનિટમાં પાણીનું સ્તર કેટલું ઊંચું આવશે?",
+      "options": [
+        {
+          "option": "60 સેમી"
+        },
+        {
+          "option": "45 સેમી"
+        },
+        {
+          "option": "180 સેમી"
+        },
+        {
+          "option": "90 સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "5 સેમી ત્રિજ્યાના ઘન ધાતુના ગોળાને ઓગાળીને શંકુ આકારમાં ફેરવવામાં આવે છે. જો શંકુના પાયાની ત્રિજ્યા 5 સેમી હોય, તો તેની ઊંચાઈ શોધો.",
+      "options": [
+        {
+          "option": "25 સેમી"
+        },
+        {
+          "option": "10 સેમી"
+        },
+        {
+          "option": "15 સેમી"
+        },
+        {
+          "option": "20 સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો 3 સેમી ત્રિજ્યાના ઘન ગોળાને ઓગાળીને 0.2 સેમી ત્રિજ્યાનો તાર બનાવવામાં આવે, તો તારની લંબાઈ કેટલી થાય?",
+      "options": [
+        {
+          "option": "900 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "450 સેમી"
+        },
+        {
+          "option": "225 સેમી"
+        },
+        {
+          "option": "1800 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "4 સેમી ત્રિજ્યા અને 9 સેમી ઊંચાઈવાળા ઘન નળાકારને ઓગાળીને ગોળો બનાવવામાં આવે છે. ગોળાનું કુલ સપાટી ક્ષેત્રફળ કેટલું થાય?",
+      "options": [
+        {
+          "option": "72π સેમી²"
+        },
+        {
+          "option": "36π સેમી²"
+        },
+        {
+          "option": "144π સેમી²",
+          "is_answer": true
+        },
+        {
+          "option": "288π સેમી²"
+        }
+      ]
+    },
+    {
+      "question": "આંતરિક અને બાહ્ય ત્રિજ્યા અનુક્રમે 2 સેમી અને 4 સેમી ધરાવતા પોલા ગોળાને ઓગાળીને 2 સેમી પાયાની ત્રિજ્યાનો ઘન નળાકાર બનાવવામાં આવે છે. નળાકારની ઊંચાઈ શોધો.",
+      "options": [
+        {
+          "option": "14/3 સેમી"
+        },
+        {
+          "option": "7 સેમી"
+        },
+        {
+          "option": "28/3 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "56/3 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "7 સેમી ત્રિજ્યાના ધાતુના ઘન અર્ધગોળાને ઓગાળીને 7 સેમી પાયાની ત્રિજ્યાવાળા લંબવૃત્તીય શંકુમાં રૂપાંતરિત કરવામાં આવે છે. શંકુની ઊંચાઈ શોધો.",
+      "options": [
+        {
+          "option": "7 સેમી"
+        },
+        {
+          "option": "14 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "28 સેમી"
+        },
+        {
+          "option": "21 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "આંતરિક ત્રિજ્યા 6 સેમી અને બાહ્ય ત્રિજ્યા 8 સેમી ધરાવતા અર્ધગોળાકાર વાસણને ઓગાળીને 1 સેમી ત્રિજ્યાના કેટલા ગોળાકાર દડા બનાવી શકાય?",
+      "options": [
+        {
+          "option": "304",
+          "is_answer": true
+        },
+        {
+          "option": "76"
+        },
+        {
+          "option": "608"
+        },
+        {
+          "option": "152"
+        }
+      ]
+    },
+    {
+      "question": "8 સેમી વ્યાસ અને 9 સેમી ઊંચાઈવાળા નળાકાર ધાતુના સળિયાને ઓગાળીને 2 સેમી વ્યાસવાળા નાના ગોળાકાર મણકા બનાવવામાં આવે છે. મણકાની સંખ્યા શોધો.",
+      "options": [
+        {
+          "option": "72"
+        },
+        {
+          "option": "108"
+        },
+        {
+          "option": "216",
+          "is_answer": true
+        },
+        {
+          "option": "144"
+        }
+      ]
+    },
+    {
+      "question": "6 સેમી ત્રિજ્યા અને 15 સેમી ઊંચાઈવાળા નળાકાર કન્ટેનરમાં આઈસક્રમ ભરેલો છે. આ આઈસક્રીમ 10 બાળકોને સમાન શંકુ આકારના કપમાં વહેંચવામાં આવે છે જેના ઉપર અર્ધગોળો છે. જો શંકુ આકારના ભાગની ઊંચાઈ તેના પાયાની ત્રિજ્યા કરતા બોર્જ (બમણી) હોય, તો આઈસક્રીમ શંકુની ત્રિજ્યા શોધો.",
+      "options": [
+        {
+          "option": "1.5 સેમી"
+        },
+        {
+          "option": "4.5 સેમી"
+        },
+        {
+          "option": "3 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "6 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "log_2(32) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "x માટે ઉકેલો: log_3(x) = 4",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "64"
+        },
+        {
+          "option": "27"
+        },
+        {
+          "option": "81",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "મૂલ્ય શોધો: log_10(1000)",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "સાદુરૂપ આપો: log_5(1)",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "log_e(e^5) નું મૂલ્ય શોધો",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "e^5"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "સમીકરણ ઉકેલો: log_2(x) + log_2(x - 3) = 2",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "log_a(xy) કોના બરાબર છે?",
+      "options": [
+        {
+          "option": "log_a(x) - log_a(y)"
+        },
+        {
+          "option": "log_a(x) * log_a(y)"
+        },
+        {
+          "option": "log_a(x) + log_a(y)",
+          "is_answer": true
+        },
+        {
+          "option": "y * log_a(x)"
+        }
+      ]
+    },
+    {
+      "question": "મૂલ્ય શોધો: log_4(64)",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "x માટે ઉકેલો: log_10(x) + log_10(2) = 1",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "log_3(1/9) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "-2",
+          "is_answer": true
+        },
+        {
+          "option": "-3"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "સાદુરૂપ આપો: 2 * log_10(5) + log_10(4)",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "x માટે ઉકેલો: log_x(8) = 3",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "log_b(x^n) કોના બરાબર છે?",
+      "options": [
+        {
+          "option": "n * log_b(x)",
+          "is_answer": true
+        },
+        {
+          "option": "n^log_b(x)"
+        },
+        {
+          "option": "x * log_b(n)"
+        },
+        {
+          "option": "log_b(n) + log_b(x)"
+        }
+      ]
+    },
+    {
+      "question": "મૂલ્ય શોધો: log_2(1/8)",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "-3",
+          "is_answer": true
+        },
+        {
+          "option": "-2"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "જો log_5(x - 1) = 2 હોય તો x શોધો",
+      "options": [
+        {
+          "option": "11"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "26",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "log_7(7) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "49"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "સાદુરૂપ આપો: log_10(50) - log_10(5)",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "45"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "x માટે ઉકેલો: 3^x = 81",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "27"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "મૂલ્ય શોધો: ln(e)",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "e"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "infinity"
+        }
+      ]
+    },
+    {
+      "question": "log_2(log_3(81)) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "3:30 વાગ્યે ઘડિયાળના કલાક અને મિનિટના કાંટા વચ્ચેનો ખૂણો કેટલો થાય?",
+      "options": [
+        {
+          "option": "60°"
+        },
+        {
+          "option": "75°",
+          "is_answer": true
+        },
+        {
+          "option": "90°"
+        },
+        {
+          "option": "105°"
+        }
+      ]
+    },
+    {
+      "question": "4:20 વાગ્યે ઘડિયાળના કાંટા વચ્ચેનો ખૂણો શોધો.",
+      "options": [
+        {
+          "option": "20°"
+        },
+        {
+          "option": "0°"
+        },
+        {
+          "option": "15°"
+        },
+        {
+          "option": "10°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "7:15 વાગ્યે ઘડિયાળના કાંટા વચ્ચેનો ખૂણો કેટલો હશે?",
+      "options": [
+        {
+          "option": "135°"
+        },
+        {
+          "option": "112.5°"
+        },
+        {
+          "option": "120°"
+        },
+        {
+          "option": "127.5°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "2:40 વાગ્યે ઘડિયાળના બે કાંટા વચ્ચેનો ખૂણો શું છે?",
+      "options": [
+        {
+          "option": "190°",
+          "is_answer": true
+        },
+        {
+          "option": "195°"
+        },
+        {
+          "option": "170°"
+        },
+        {
+          "option": "180°"
+        }
+      ]
+    },
+    {
+      "question": "જ્યારે સમય 8:20 હોય ત્યારે ઘડિયાળના કાંટા વચ્ચેનો ખૂણો શોધો.",
+      "options": [
+        {
+          "option": "140°"
+        },
+        {
+          "option": "125°"
+        },
+        {
+          "option": "120°"
+        },
+        {
+          "option": "130°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "10:10 વાગ્યે કલાક અને મિનિટના કાંટા વચ્ચેનો ખૂણો કેટલો છે?",
+      "options": [
+        {
+          "option": "105°"
+        },
+        {
+          "option": "115°",
+          "is_answer": true
+        },
+        {
+          "option": "120°"
+        },
+        {
+          "option": "110°"
+        }
+      ]
+    },
+    {
+      "question": "5:10 વાગ્યે ઘડિયાળના કાંટા વચ્ચેનો ખૂણો ગણો.",
+      "options": [
+        {
+          "option": "90°"
+        },
+        {
+          "option": "85°"
+        },
+        {
+          "option": "100°"
+        },
+        {
+          "option": "95°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "6:00 વાગ્યે ઘડિયાળના કાંટા વચ્ચેનો ખૂણો કેટલો હોય?",
+      "options": [
+        {
+          "option": "90°"
+        },
+        {
+          "option": "360°"
+        },
+        {
+          "option": "0°"
+        },
+        {
+          "option": "180°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "1:25 વાગ્યે ઘડિયાળના કાંટા વચ્ચેનો ખૂણો કેટલો થાય?",
+      "options": [
+        {
+          "option": "60°"
+        },
+        {
+          "option": "45°"
+        },
+        {
+          "option": "55°"
+        },
+        {
+          "option": "52.5°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "9:35 વાગ્યે ઘડિયાળના કાંટા વચ્ચેનો ખૂણો શોધો.",
+      "options": [
+        {
+          "option": "75°"
+        },
+        {
+          "option": "82.5°"
+        },
+        {
+          "option": "70°"
+        },
+        {
+          "option": "77.5°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "11:50 વાગ્યે કાંટા વચ્ચેનો ખૂણો કેટલો છે?",
+      "options": [
+        {
+          "option": "105°"
+        },
+        {
+          "option": "100°"
+        },
+        {
+          "option": "95°",
+          "is_answer": true
+        },
+        {
+          "option": "90°"
+        }
+      ]
+    },
+    {
+      "question": "12:15 વાગ્યે ઘડિયાળના કાંટા વચ્ચેનો ખૂણો શું છે?",
+      "options": [
+        {
+          "option": "90°"
+        },
+        {
+          "option": "82.5°",
+          "is_answer": true
+        },
+        {
+          "option": "85°"
+        },
+        {
+          "option": "75°"
+        }
+      ]
+    },
+    {
+      "question": "3:15 વાગ્યે ઘડિયાળના કાંટા વચ્ચેનો ખૂણો શોધો.",
+      "options": [
+        {
+          "option": "10°"
+        },
+        {
+          "option": "7.5°",
+          "is_answer": true
+        },
+        {
+          "option": "0°"
+        },
+        {
+          "option": "15°"
+        }
+      ]
+    },
+    {
+      "question": "5:45 વાગ્યે ઘડિયાળના કાંટા વચ્ચેનો ખૂણો કેટલો થાય?",
+      "options": [
+        {
+          "option": "90°"
+        },
+        {
+          "option": "105°"
+        },
+        {
+          "option": "97.5°",
+          "is_answer": true
+        },
+        {
+          "option": "100°"
+        }
+      ]
+    },
+    {
+      "question": "8:30 વાગ્યે કલાક અને મિનિટના કાંટા વચ્ચેનો ખૂણો શોધો.",
+      "options": [
+        {
+          "option": "75°",
+          "is_answer": true
+        },
+        {
+          "option": "60°"
+        },
+        {
+          "option": "80°"
+        },
+        {
+          "option": "90°"
+        }
+      ]
+    },
+    {
+      "question": "2:20 વાગ્યે ઘડિયાળના કાંટા વચ્ચેનો ખૂણો કેટલો છે?",
+      "options": [
+        {
+          "option": "45°"
+        },
+        {
+          "option": "50°",
+          "is_answer": true
+        },
+        {
+          "option": "60°"
+        },
+        {
+          "option": "40°"
+        }
+      ]
+    },
+    {
+      "question": "10:25 વાગ્યે ઘડિયાળના કાંટા વચ્ચેનો ખૂણો શોધો.",
+      "options": [
+        {
+          "option": "197.5°",
+          "is_answer": true
+        },
+        {
+          "option": "190°"
+        },
+        {
+          "option": "180°"
+        },
+        {
+          "option": "200°"
+        }
+      ]
+    },
+    {
+      "question": "4:50 વાગ્યે ઘડિયાળના કાંટા વચ્ચેનો ખૂણો કેટલો થાય?",
+      "options": [
+        {
+          "option": "155°",
+          "is_answer": true
+        },
+        {
+          "option": "145°"
+        },
+        {
+          "option": "160°"
+        },
+        {
+          "option": "150°"
+        }
+      ]
+    },
+    {
+      "question": "7:00 વાગ્યે ઘડિયાળના કાંટા વચ્ચેનો ખૂણો શું છે?",
+      "options": [
+        {
+          "option": "180°"
+        },
+        {
+          "option": "150°",
+          "is_answer": true
+        },
+        {
+          "option": "210°"
+        },
+        {
+          "option": "120°"
+        }
+      ]
+    },
+    {
+      "question": "1:00 વાગ્યે ઘડિયાળના કાંટા વચ્ચેનો ખૂણો શોધો.",
+      "options": [
+        {
+          "option": "30°",
+          "is_answer": true
+        },
+        {
+          "option": "60°"
+        },
+        {
+          "option": "15°"
+        },
+        {
+          "option": "45°"
+        }
+      ]
+    },
+    {
+      "question": "બે ધન સંખ્યાઓના સમાંતર મધ્યક (AM), સમગુણોત્તર મધ્યક (GM) અને હાર્મોનિક મધ્યક (HM) વચ્ચેનો સંબંધ શું છે?",
+      "options": [
+        {
+          "option": "AM = GM = HM"
+        },
+        {
+          "option": "AM * HM = GM^2",
+          "is_answer": true
+        },
+        {
+          "option": "AM * GM = HM^2"
+        },
+        {
+          "option": "AM + HM = GM"
+        }
+      ]
+    },
+    {
+      "question": "જો HPનું 3જું પદ 1/5 અને 5મું પદ 1/9 હોય, તો HPનું પ્રથમ પદ શોધો.",
+      "options": [
+        {
+          "option": "1/7"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "ધન વાસ્તવિક સંખ્યાઓના કોઈપણ સમૂહ માટે, નીચેનામાંથી કઈ અસમતા હંમેશા સાચી છે?",
+      "options": [
+        {
+          "option": "GM >= AM >= HM"
+        },
+        {
+          "option": "AM >= HM >= GM"
+        },
+        {
+          "option": "AM >= GM >= HM",
+          "is_answer": true
+        },
+        {
+          "option": "HM >= GM >= AM"
+        }
+      ]
+    },
+    {
+      "question": "2 અને 8 નો હાર્મોનિક મધ્યક શોધો.",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "16/5",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "જો બે સંખ્યાઓનો AM 10 હોય અને તેમનો GM 8 હોય, તો તેમનો HM શોધો.",
+      "options": [
+        {
+          "option": "6.4",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "12.5"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "જો a, b, c એ HP માં હોય, તો નીચેનામાંથી કયું AP માં છે?",
+      "options": [
+        {
+          "option": "a/b, b/c, c/a"
+        },
+        {
+          "option": "a-b, b-c, c-a"
+        },
+        {
+          "option": "1/a, 1/b, 1/c",
+          "is_answer": true
+        },
+        {
+          "option": "a^2, b^2, c^2"
+        }
+      ]
+    },
+    {
+      "question": "ધન સંખ્યાઓમાં AM = GM = HM થવા માટે કઈ શરત પૂરી થવી જોઈએ?",
+      "options": [
+        {
+          "option": "બધી જ સંખ્યાઓ સમાન હોવી જોઈએ",
+          "is_answer": true
+        },
+        {
+          "option": "સંખ્યાઓનો સરવાળો શૂન્ય હોવો જોઈએ"
+        },
+        {
+          "option": "સંખ્યાઓ GP માં હોવી જોઈએ"
+        },
+        {
+          "option": "સંખ્યાઓ AP માં હોવી જોઈએ"
+        }
+      ]
+    },
+    {
+      "question": "જો HPનું બીજું પદ 1/4 અને ચોથું પદ 1/6 હોય, તો છઠ્ઠું પદ શું છે?",
+      "options": [
+        {
+          "option": "1/8",
+          "is_answer": true
+        },
+        {
+          "option": "1/12"
+        },
+        {
+          "option": "1/10"
+        },
+        {
+          "option": "1/7"
+        }
+      ]
+    },
+    {
+      "question": "3, 4 અને 12 નો હાર્મોનિક મધ્યક શું છે?",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "19/3"
+        }
+      ]
+    },
+    {
+      "question": "જો બે ધન સંખ્યાઓનો AM 25 અને HM 9 હોય, તો તેમનો GM શોધો.",
+      "options": [
+        {
+          "option": "17"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો a, b, c એ HP માં હોય, તો પદાવલી a/(b+c-a) + c/(a+b-c) ની કિંમત કેટલી થાય?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "HP 1/3, 1/5, 1/7, ... નું કયું પદ 1/21 છે?",
+      "options": [
+        {
+          "option": "10th",
+          "is_answer": true
+        },
+        {
+          "option": "11th"
+        },
+        {
+          "option": "9th"
+        },
+        {
+          "option": "12th"
+        }
+      ]
+    },
+    {
+      "question": "જો x, y, z એ HP માં હોય, તો y ને શું કહે છે?",
+      "options": [
+        {
+          "option": "x અને z વચ્ચેનો સમગુણોત્તર મધ્યક"
+        },
+        {
+          "option": "x અને z વચ્ચેનો સમાંતર મધ્યક"
+        },
+        {
+          "option": "x અને z નું વર્ગમૂળ"
+        },
+        {
+          "option": "x અને z વચ્ચેનો હાર્મોનિક મધ્યક",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો બે સંખ્યાઓનો AM 5 અને GM 4 હોય, તો બંનેમાંથી મોટી સંખ્યા કઈ છે?",
+      "options": [
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "જો HP ના દરેક પદને શૂન્ય સિવાયના અચળાંક k વડે ગુણવામાં આવે, તો બનતી શ્રેણી શું હશે?",
+      "options": [
+        {
+          "option": "એક GP"
+        },
+        {
+          "option": "એક AP"
+        },
+        {
+          "option": "એક પણ નહીં"
+        },
+        {
+          "option": "એક HP",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "1, 2 અને 3 નો HM શું છે?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "11/18"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "18/11",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો a, b, c એ HP માં હોય, તો (a-b)/(b-c) કોના બરાબર છે?",
+      "options": [
+        {
+          "option": "a/c",
+          "is_answer": true
+        },
+        {
+          "option": "b/a"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "c/a"
+        }
+      ]
+    },
+    {
+      "question": "બે સંખ્યાઓનો હાર્મોનિક મધ્યક 4 છે અને તેમનો સમાંતર મધ્યક 9 છે. તેમનો સમગુણોત્તર મધ્યક શોધો.",
+      "options": [
+        {
+          "option": "13"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "36"
+        }
+      ]
+    },
+    {
+      "question": "જો HP ના p-મું, q-મું અને r-મું પદ અનુક્રમે a, b, c હોય, તો (q-r)bc + (r-p)ca + (p-q)ab ની કિંમત કેટલી થાય?",
+      "options": [
+        {
+          "option": "abc"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "pqr"
+        }
+      ]
+    },
+    {
+      "question": "જો દ્વિઘાત સમીકરણના મૂળ m:n ગુણોત્તરમાં હોય, અને તેમના AM અને HM શોધવામાં આવે, તો ધન મૂળ માટે કયો સંબંધ હંમેશા સાચો છે?",
+      "options": [
+        {
+          "option": "AM + HM = GM"
+        },
+        {
+          "option": "HM >= AM"
+        },
+        {
+          "option": "GM >= AM"
+        },
+        {
+          "option": "AM * HM = GM^2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "સામાન્ય વર્ષમાં કેટલા અતિરિક્ત (odd) દિવસો હોય છે?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "લીપ વર્ષમાં કેટલા અતિરિક્ત (odd) દિવસો હોય છે?",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "100 વર્ષમાં કેટલા અતિરિક્ત (odd) દિવસો હોય છે?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "400 વર્ષમાં કેટલા અતિરિક્ત (odd) દિવસો હોય છે?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "15 ઓગસ્ટ 1947 ના રોજ અઠવાડિયાનો કયો દિવસ હતો?",
+      "options": [
+        {
+          "option": "ગુરુવાર"
+        },
+        {
+          "option": "બુધવાર"
+        },
+        {
+          "option": "શનિવાર"
+        },
+        {
+          "option": "શુક્રવાર",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "26 જાન્યુઆરી 1950 ના રોજ અઠવાડિયાનો કયો દિવસ હતો?",
+      "options": [
+        {
+          "option": "ગુરુવાર",
+          "is_answer": true
+        },
+        {
+          "option": "શુક્રવાર"
+        },
+        {
+          "option": "બુધવાર"
+        },
+        {
+          "option": "મંગળવાર"
+        }
+      ]
+    },
+    {
+      "question": "સતત 100 વર્ષમાં કેટલા લીપ વર્ષ આવે છે?",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "26"
+        },
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "200 વર્ષમાં કેટલા અતિરિક્ત (odd) દિવસો હોય છે?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "300 વર્ષમાં કેટલા અતિરિક્ત (odd) દિવસો હોય છે?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "જો આજે સોમવાર હોય, તો 61 દિવસ પછી કયો દિવસ હશે?",
+      "options": [
+        {
+          "option": "શનિવાર",
+          "is_answer": true
+        },
+        {
+          "option": "સોમવાર"
+        },
+        {
+          "option": "રવિવાર"
+        },
+        {
+          "option": "શુક્રવાર"
+        }
+      ]
+    },
+    {
+      "question": "સદીનો છેલ્લો દિવસ નીચેનામાંથી કયો હોઈ શકે નહીં?",
+      "options": [
+        {
+          "option": "બુધવાર"
+        },
+        {
+          "option": "શુક્રવાર"
+        },
+        {
+          "option": "મંગળવાર",
+          "is_answer": true
+        },
+        {
+          "option": "સોમવાર"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કયું લીપ વર્ષ છે?",
+      "options": [
+        {
+          "option": "1800"
+        },
+        {
+          "option": "1900"
+        },
+        {
+          "option": "2000",
+          "is_answer": true
+        },
+        {
+          "option": "2100"
+        }
+      ]
+    },
+    {
+      "question": "વર્ષ 2005 નું કેલેન્ડર કયા વર્ષના કેલેન્ડર જેવું જ હશે?",
+      "options": [
+        {
+          "option": "2010"
+        },
+        {
+          "option": "2016"
+        },
+        {
+          "option": "2012"
+        },
+        {
+          "option": "2011",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો 1 જાન્યુઆરી 2004 ના રોજ ગુરુવાર હતો, તો 1 જાન્યુઆરી 2005 ના રોજ કયો દિવસ હતો?",
+      "options": [
+        {
+          "option": "શનિવાર",
+          "is_answer": true
+        },
+        {
+          "option": "શુક્રવાર"
+        },
+        {
+          "option": "ગુરુવાર"
+        },
+        {
+          "option": "રવિવાર"
+        }
+      ]
+    },
+    {
+      "question": "26 જાન્યુઆરી 2004 થી 15 મે 2004 સુધી (બંને દિવસો સાથે) કુલ કેટલા દિવસો થાય?",
+      "options": [
+        {
+          "option": "112"
+        },
+        {
+          "option": "109"
+        },
+        {
+          "option": "111",
+          "is_answer": true
+        },
+        {
+          "option": "110"
+        }
+      ]
+    },
+    {
+      "question": "2 ઓક્ટોબર 1869 (મહાત્મા ગાંધીનો જન્મદિન) ના રોજ કયોવાર હતો?",
+      "options": [
+        {
+          "option": "શુક્રવાર"
+        },
+        {
+          "option": "શનિવાર",
+          "is_answer": true
+        },
+        {
+          "option": "રવિવાર"
+        },
+        {
+          "option": "સોમવાર"
+        }
+      ]
+    },
+    {
+      "question": "બે ક્રમિક લીપ વર્ષ વચ્ચે મહત્તમ કેટલો ગેપ હોઈ શકે?",
+      "options": [
+        {
+          "option": "12 વર્ષ"
+        },
+        {
+          "option": "8 વર્ષ",
+          "is_answer": true
+        },
+        {
+          "option": "5 વર્ષ"
+        },
+        {
+          "option": "4 વર્ષ"
+        }
+      ]
+    },
+    {
+      "question": "જો લીપ વર્ષ રવિવારે શરૂ થાય, તો તે કયા દિવસે સમાપ્ત થશે?",
+      "options": [
+        {
+          "option": "શનિવાર"
+        },
+        {
+          "option": "મંગળવાર"
+        },
+        {
+          "option": "સોમવાર",
+          "is_answer": true
+        },
+        {
+          "option": "રવિવાર"
+        }
+      ]
+    },
+    {
+      "question": "અઠવાડિયાનો કયો દિવસ સદીનો પહેલો દિવસ બની શકે છે?",
+      "options": [
+        {
+          "option": "બુધવાર"
+        },
+        {
+          "option": "સોમવાર",
+          "is_answer": true
+        },
+        {
+          "option": "મંગળવાર"
+        },
+        {
+          "option": "ગુરુવાર"
+        }
+      ]
+    },
+    {
+      "question": "સતત 400 વર્ષમાં મહિનાનો 29મી તારીખનો દિવસ કુલ કેટલી વખત આવે?",
+      "options": [
+        {
+          "option": "4800"
+        },
+        {
+          "option": "4500"
+        },
+        {
+          "option": "4497",
+          "is_answer": true
+        },
+        {
+          "option": "4400"
+        }
+      ]
+    },
+    {
+      "question": "એક દિવસમાં (૨૪ કલાક) ઘડિયાળના કાંટા કેટલી વાર એકબીજા પર આવે છે (સંપાત થાય છે)?",
+      "options": [
+        {
+          "option": "૨૪ વખત"
+        },
+        {
+          "option": "૪૪ વખત"
+        },
+        {
+          "option": "૨૨ વખત",
+          "is_answer": true
+        },
+        {
+          "option": "૧૧ વખત"
+        }
+      ]
+    },
+    {
+      "question": "૧૨ કલાકમાં ઘડિયાળના કાંટા કેટલી વાર એકબીજાની વિરુદ્ધ દિશામાં હોય છે?",
+      "options": [
+        {
+          "option": "૧૦ વખત"
+        },
+        {
+          "option": "૧૨ વખત"
+        },
+        {
+          "option": "૧૧ વખત",
+          "is_answer": true
+        },
+        {
+          "option": "૨૨ વખત"
+        }
+      ]
+    },
+    {
+      "question": "૨૪ કલાકમાં ઘડિયાળના કાંટા કેટલી વાર કાટખૂણો બનાવે છે?",
+      "options": [
+        {
+          "option": "૨૪ વખત"
+        },
+        {
+          "option": "૪૪ વખત",
+          "is_answer": true
+        },
+        {
+          "option": "૪૮ વખત"
+        },
+        {
+          "option": "૨૨ વખત"
+        }
+      ]
+    },
+    {
+      "question": "૪ અને ૫ વાગ્યાની વચ્ચે કયા સમયે ઘડિયાળના કાંટા ભેગા થશે?",
+      "options": [
+        {
+          "option": "૪ વાગીને ૨૧ ૯/૧૧ મિનિટ",
+          "is_answer": true
+        },
+        {
+          "option": "૪ વાગીને ૨૨ મિનિટ"
+        },
+        {
+          "option": "૪ વાગીને ૨૧ મિનિટ"
+        },
+        {
+          "option": "૪ વાગીને ૨૦ મિનિટ"
+        }
+      ]
+    },
+    {
+      "question": "૭ અને ૮ વાગ્યાની વચ્ચે કયા સમયે ઘડિયાળના કાંટા એકબીજાની વિરુદ્ધ દિશામાં હશે?",
+      "options": [
+        {
+          "option": "૭ વાગીને ૫ ૫/૧૧ મિનિટ",
+          "is_answer": true
+        },
+        {
+          "option": "૭ વાગીને ૬ મિનિટ"
+        },
+        {
+          "option": "૭ વાગીને ૭ ૫/૧૧ મિનિટ"
+        },
+        {
+          "option": "૭ વાગીને ૫ મિનિટ"
+        }
+      ]
+    },
+    {
+      "question": "૩ અને ૪ વાગ્યાની વચ્ચે કયા સમયે ઘડિયાળના કાંટા કાટખૂણો બનાવશે?",
+      "options": [
+        {
+          "option": "૩ વાગીને ૩૦ મિનિટ"
+        },
+        {
+          "option": "૩ વાગીને ૩૨ મિનિટ"
+        },
+        {
+          "option": "૩ વાગીને ૩૩ મિનિટ"
+        },
+        {
+          "option": "૩ વાગીને ૩૨ ૮/૧૧ મિનિટ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "૧૨ કલાકમાં ઘડિયાળના કાંટા કેટલી વાર ભેગા થાય છે?",
+      "options": [
+        {
+          "option": "૧૦ વખત"
+        },
+        {
+          "option": "૨૨ વખત"
+        },
+        {
+          "option": "૧૧ વખત",
+          "is_answer": true
+        },
+        {
+          "option": "૧૨ વખત"
+        }
+      ]
+    },
+    {
+      "question": "૧૨ કલાકમાં ઘડિયાળના કાંટા કેટલી વાર કાટખૂણો બનાવે છે?",
+      "options": [
+        {
+          "option": "૧૧ વખત"
+        },
+        {
+          "option": "૨૪ વખત"
+        },
+        {
+          "option": "૨૨ વખત",
+          "is_answer": true
+        },
+        {
+          "option": "૪૪ વખત"
+        }
+      ]
+    },
+    {
+      "question": "૨ અને ૩ વાગ્યાની વચ્ચે કયા સમયે ઘડિયાળના કાંટા ભેગા થશે?",
+      "options": [
+        {
+          "option": "૨ વાગીને ૧૦ ૧૦/૧૧ મિનિટ",
+          "is_answer": true
+        },
+        {
+          "option": "૨ વાગીને ૧૦ મિનિટ"
+        },
+        {
+          "option": "૨ વાગીને ૯ ૯/૧૧ મિનિટ"
+        },
+        {
+          "option": "૨ વાગીને ૧૧ મિનિટ"
+        }
+      ]
+    },
+    {
+      "question": "૫ અને ૬ વાગ્યાની વચ્ચે કયા સમયે ઘડિયાળના કાંટા વિરુદ્ધ દિશામાં હશે?",
+      "options": [
+        {
+          "option": "૫ વાગીને ૫૩ ૫/૧૧ મિનિટ"
+        },
+        {
+          "option": "૫ વાગીને ૫૪ ૬/૧૧ મિનિટ",
+          "is_answer": true
+        },
+        {
+          "option": "૫ વાગીને ૫૫ મિનિટ"
+        },
+        {
+          "option": "૫ વાગીને ૫૪ મિનિટ"
+        }
+      ]
+    },
+    {
+      "question": "૯ અને ૧૦ વાગ્યાની વચ્ચેનો સમય શોધો જ્યારે ઘડિયાળના કાંટા કાટખૂણો બનાવે.",
+      "options": [
+        {
+          "option": "૯ વાગીને ૩૨ ૮/૧૧ મિનિટ",
+          "is_answer": true
+        },
+        {
+          "option": "૯ વાગીને ૩૦ મિનિટ"
+        },
+        {
+          "option": "૯ વાગીને ૩૫ મિનિટ"
+        },
+        {
+          "option": "૯ વાગીને ૩૩ મિનિટ"
+        }
+      ]
+    },
+    {
+      "question": "૨૪ કલાકમાં ઘડિયાળના કાંટા કેટલી વાર વિરુદ્ધ દિશામાં હોય છે?",
+      "options": [
+        {
+          "option": "૨૪ વખત"
+        },
+        {
+          "option": "૧૧ વખત"
+        },
+        {
+          "option": "૪૪ વખત"
+        },
+        {
+          "option": "૨૨ વખત",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "૧૦ અને ૧૧ વાગ્યાની વચ્ચે કયા સમયે ઘડિયાળના કાંટા ભેગા થશે?",
+      "options": [
+        {
+          "option": "૧૦ વાગીને ૫૦ મિનિટ"
+        },
+        {
+          "option": "૧૦ વાગીને ૫૫ મિનિટ"
+        },
+        {
+          "option": "૧૦ વાગીને ૫૩ મિનિટ"
+        },
+        {
+          "option": "૧૦ વાગીને ૫૪ ૬/૧૧ મિનિટ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "૮ અને ૯ વાગ્યાની વચ્ચે કયા સમયે ઘડિયાળના કાંટા વિરુદ્ધ દિશામાં હશે?",
+      "options": [
+        {
+          "option": "૮ વાગીને ૧૦ ૧૦/૧૧ મિનિટ",
+          "is_answer": true
+        },
+        {
+          "option": "૮ વાગીને ૯ મિનિટ"
+        },
+        {
+          "option": "૮ વાગીને ૧૨ મિનિટ"
+        },
+        {
+          "option": "૮ વાગીને ૧૧ મિનિટ"
+        }
+      ]
+    },
+    {
+      "question": "૧ અને ૨ વાગ્યાની વચ્ચે કયા સમયે ઘડિયાળના કાંટા કાટખૂણો બનાવશે?",
+      "options": [
+        {
+          "option": "૧ વાગીને ૨૧ ૯/૧૧ મિનિટ",
+          "is_answer": true
+        },
+        {
+          "option": "૧ વાગીને ૨૦ મિનિટ"
+        },
+        {
+          "option": "૧ વાગીને ૨૧ મિનિટ"
+        },
+        {
+          "option": "૧ વાગીને ૨૨ મિનિટ"
+        }
+      ]
+    },
+    {
+      "question": "એક અઠવાડિયામાં મિનિટ અને કલાકના કાંટા કેટલી વાર એકબીજા પર આવે છે?",
+      "options": [
+        {
+          "option": "૧૬૮ વખત"
+        },
+        {
+          "option": "૨૬૪ વખત"
+        },
+        {
+          "option": "૩૦૮ વખત",
+          "is_answer": true
+        },
+        {
+          "option": "૩૩૬ વખત"
+        }
+      ]
+    },
+    {
+      "question": "૬ અને ૭ વાગ્યાની વચ્ચે કયા સમયે ઘડિયાળના કાંટા ભેગા થશે?",
+      "options": [
+        {
+          "option": "૬ વાગીને ૩૫ મિનિટ"
+        },
+        {
+          "option": "૬ વાગીને ૩૦ મિનિટ"
+        },
+        {
+          "option": "૬ વાગીને ૩૩ મિનિટ"
+        },
+        {
+          "option": "૬ વાગીને ૩૨ ૮/૧૧ મિનિટ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "૧૧ અને ૧૨ વાગ્યાની વચ્ચે કયા સમયે ઘડિયાળના કાંટા વિરુદ્ધ દિશામાં હશે?",
+      "options": [
+        {
+          "option": "૧૧ વાગીને ૩૦ મિનિટ",
+          "is_answer": true
+        },
+        {
+          "option": "૧૧ વાગીને ૨૯ મિનિટ"
+        },
+        {
+          "option": "૧૧ વાગીને ૨૭ ૩/૧૧ મિનિટ"
+        },
+        {
+          "option": "૧૧ વાગીને ૩૨ ૮/૧૧ મિનિટ"
+        }
+      ]
+    },
+    {
+      "question": "૪ અને ૫ વાગ્યાની વચ્ચે કયા સમયે ઘડિયાળના કાંટા કાટખૂણો બનાવશે?",
+      "options": [
+        {
+          "option": "૪ વાગીને ૩ ૩/૧૧ મિનિટ અને ૪ વાગીને ૩૬ ૬/૧૧ મિનિટ"
+        },
+        {
+          "option": "૪ વાગીને ૫ ૫/૧૧ મિનિટ અને ૪ વાગીને ૩૮ ૨/૧૧ મિનિટ",
+          "is_answer": true
+        },
+        {
+          "option": "૪ વાગીને ૧૫ મિનિટ અને ૪ વાગીને ૪૫ મિનિટ"
+        },
+        {
+          "option": "૪ વાગીને ૧૦ મિનિટ અને ૪ વાગીને ૪૦ મિનિટ"
+        }
+      ]
+    },
+    {
+      "question": "૧૨ કલાકમાં ઘડિયાળના કાંટા કેટલી વાર સીધી રેખા બનાવે છે (ભેગા થાય અથવા વિરુદ્ધ હોય)?",
+      "options": [
+        {
+          "option": "૨૪ વખત"
+        },
+        {
+          "option": "૨૨ વખત"
+        },
+        {
+          "option": "૧૧ વખત",
+          "is_answer": true
+        },
+        {
+          "option": "૧૨ વખત"
+        }
+      ]
+    },
+    {
+      "question": "sin(30°) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "1/2",
+          "is_answer": true
+        },
+        {
+          "option": "1/√3"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "√3/2"
+        }
+      ]
+    },
+    {
+      "question": "જો tan(θ) = 1 હોય, તો θ નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "90°"
+        },
+        {
+          "option": "45°",
+          "is_answer": true
+        },
+        {
+          "option": "60°"
+        },
+        {
+          "option": "30°"
+        }
+      ]
+    },
+    {
+      "question": "cos(0°) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "√3/2"
+        }
+      ]
+    },
+    {
+      "question": "કાટકોણ ત્રિકોણમાં, sin(θ) ને કઈ રીતે વ્યાખ્યાયિત કરવામાં આવે છે?",
+      "options": [
+        {
+          "option": "સામેની બાજુ / કર્ણ",
+          "is_answer": true
+        },
+        {
+          "option": "કર્ણ / સામેની બાજુ"
+        },
+        {
+          "option": "પાસેની બાજુ / કર્ણ"
+        },
+        {
+          "option": "સામેની બાજુ / પાસેની બાજુ"
+        }
+      ]
+    },
+    {
+      "question": "tan(60°) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "1/√3"
+        },
+        {
+          "option": "√3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો સૂર્યની ઉત્સેધ કોણ 45° હોય, તો 10 મીટર ઊંચા ખાંભલાના પડછાયાની લંબાઈ કેટલી થાય?",
+      "options": [
+        {
+          "option": "10 મી",
+          "is_answer": true
+        },
+        {
+          "option": "10√3 મી"
+        },
+        {
+          "option": "20 મી"
+        },
+        {
+          "option": "5 મી"
+        }
+      ]
+    },
+    {
+      "question": "cosec(30°) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "√3/2"
+        },
+        {
+          "option": "2/√3"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "sec(45°) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "2/√3"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "√2",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "જો ટાવરના પાયાથી 50 મીટર દૂર આવેલા બિંદુથી ટાવરનો ઉત્સેધ કોણ 60° હોય, તો ટાવરની ઊંચાઈ શોધો.",
+      "options": [
+        {
+          "option": "50√3 મી",
+          "is_answer": true
+        },
+        {
+          "option": "100 મી"
+        },
+        {
+          "option": "50/√3 મી"
+        },
+        {
+          "option": "25 મી"
+        }
+      ]
+    },
+    {
+      "question": "cot(90°) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "અવ્યાખ્યાયિત"
+        },
+        {
+          "option": "√3"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જમીનથી 100 મીટર ઊંચાઈએ આવેલા બિંદુથી એક વસ્તુનો અવસાદ કોણ (અવનેત કોણ) 30° છે. તે વસ્તુની બિંદુથી ક્ષિતિજ અંતર શોધો.",
+      "options": [
+        {
+          "option": "100√3 મી",
+          "is_answer": true
+        },
+        {
+          "option": "200 મી"
+        },
+        {
+          "option": "100/√3 મી"
+        },
+        {
+          "option": "50 મી"
+        }
+      ]
+    },
+    {
+      "question": "sin²(θ) + cos²(θ) કોના બરાબર છે?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "θ પર આધાર રાખે છે"
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "જો sin(θ) = cos(θ) હોય, તો લઘુકોણ θ નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "45°",
+          "is_answer": true
+        },
+        {
+          "option": "30°"
+        },
+        {
+          "option": "0°"
+        },
+        {
+          "option": "60°"
+        }
+      ]
+    },
+    {
+      "question": "tan(0°) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "1/√3"
+        },
+        {
+          "option": "અવ્યાખ્યાયિત"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "જો 10 મીટર લાંબી સીડી જમીનથી 10 મીટર ઊંચી બારી સુધી પહોંચે, તો સીડી દ્વારા જમીન સાથે બનતો ખૂણો કેટલો હોય?",
+      "options": [
+        {
+          "option": "45°"
+        },
+        {
+          "option": "90°",
+          "is_answer": true
+        },
+        {
+          "option": "60°"
+        },
+        {
+          "option": "30°"
+        }
+      ]
+    },
+    {
+      "question": "1 + tan²(θ) કોના બરાબર છે?",
+      "options": [
+        {
+          "option": "cosec²(θ)"
+        },
+        {
+          "option": "sec²(θ)",
+          "is_answer": true
+        },
+        {
+          "option": "cot²(θ)"
+        },
+        {
+          "option": "sin²(θ)"
+        }
+      ]
+    },
+    {
+      "question": "તળાવની સપાટીથી h મીટર ઉપર આવેલા બિંદુથી વાદળનો ઉત્સેધ કોણ θ છે. તળાવથી વાદળની ઊંચાઈ શોધો.",
+      "options": [
+        {
+          "option": "h / tan(θ)"
+        },
+        {
+          "option": "h * tan(θ)",
+          "is_answer": true
+        },
+        {
+          "option": "2h * tan(θ)"
+        },
+        {
+          "option": "h * cot(θ)"
+        }
+      ]
+    },
+    {
+      "question": "cos(90°) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "અવ્યાખ્યાયિત"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "જો ઉભા ખંભાના પડછાયાની લંબાઈ તેની ઊંચાઈ કરતાં √3 ગણી હોય, તો સૂર્યનો ઉત્સેધ કોણ કેટલો થાય?",
+      "options": [
+        {
+          "option": "60°"
+        },
+        {
+          "option": "30°",
+          "is_answer": true
+        },
+        {
+          "option": "45°"
+        },
+        {
+          "option": "90°"
+        }
+      ]
+    },
+    {
+      "question": "sin(θ) નો વ્યસ્ત કોણ છે?",
+      "options": [
+        {
+          "option": "cosec(θ)",
+          "is_answer": true
+        },
+        {
+          "option": "cos(θ)"
+        },
+        {
+          "option": "cot(θ)"
+        },
+        {
+          "option": "sec(θ)"
+        }
+      ]
+    },
+    {
+      "question": "એક શંકુના છિન્નકનું ઘનફળ શોધો જેની ઊંચાઈ 12 સેમી અને છેડાઓની ત્રિજ્યા 7 સેમી અને 3 સેમી છે. (পাই = 22/7 વાપરો)",
+      "options": [
+        {
+          "option": "770 cm³"
+        },
+        {
+          "option": "920 cm³"
+        },
+        {
+          "option": "660 cm³"
+        },
+        {
+          "option": "880 cm³",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "10 સેમી ત્રાંસી ઊંચાઈ અને 6 સેમી તથા 2 સેમી પાયાની ત્રિજ્યા ધરાવતા શંકુના છિન્નકનું વક્ર સપાટીનું ક્ષેત્રફળ કેટલું થાય? (পাই = 22/7)",
+      "options": [
+        {
+          "option": "220.00 cm²"
+        },
+        {
+          "option": "314.28 cm²"
+        },
+        {
+          "option": "251.43 cm²",
+          "is_answer": true
+        },
+        {
+          "option": "188.57 cm²"
+        }
+      ]
+    },
+    {
+      "question": "એક શંકુના છિન્નકના વર્તુળાકાર છેડાઓની ત્રિજ્યાઓ 33 સેમી અને 27 સેમી છે, અને તેની ત્રાંસી ઊંચાઈ 10 સેમી છે. તેનું કુલ સપાટીનું ક્ષેત્રફળ શોધો. (পাই = 22/7)",
+      "options": [
+        {
+          "option": "5940.00 cm²"
+        },
+        {
+          "option": "7542.86 cm²",
+          "is_answer": true
+        },
+        {
+          "option": "6820.00 cm²"
+        },
+        {
+          "option": "8140.50 cm²"
+        }
+      ]
+    },
+    {
+      "question": "જો શંકુના છિન્નકની ઊંચાઈ 4 સેમી હોય અને વર્તુળાકાર છેડાઓની ત્રિજ્યા 4 સેમી અને 1 સેમી હોય, તો તેની ત્રાંસી ઊંચાઈ શોધો.",
+      "options": [
+        {
+          "option": "3 cm"
+        },
+        {
+          "option": "4 cm"
+        },
+        {
+          "option": "7 cm"
+        },
+        {
+          "option": "5 cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "એક ડોલ શંકુના છિન્નક સ્વરૂપમાં છે. તેના ઉપરના અને નીચેના વર્તુળાકાર છેડાની ત્રિજ્યા અનુક્રમે 15 સેમી અને 5 સેમી છે. જો ઊંડાઈ 24 સેમી હોય, તો ડોલની ક્ષમતા લિટરમાં શોધો. (পাই = 22/7)",
+      "options": [
+        {
+          "option": "9.2 litres"
+        },
+        {
+          "option": "7.5 litres"
+        },
+        {
+          "option": "8.8 litres",
+          "is_answer": true
+        },
+        {
+          "option": "6.4 litres"
+        }
+      ]
+    },
+    {
+      "question": "શંકુના છિન્નકની ત્રાંસી ઊંચાઈ 5 સેમી છે અને તેના વર્તુળાકાર છેડાઓની પરિમિતિ 18 સેમી અને 6 સેમી છે. વક્ર સપાટીનું ક્ષેત્રફળ શોધો.",
+      "options": [
+        {
+          "option": "30 cm²"
+        },
+        {
+          "option": "120 cm²"
+        },
+        {
+          "option": "60 cm²",
+          "is_answer": true
+        },
+        {
+          "option": "90 cm²"
+        }
+      ]
+    },
+    {
+      "question": "છિન્નકના ઉપર અને નીચેના છેડાની ત્રિજ્યા 14 સેમી અને 7 સેમી છે, અને તેની ઊંચાઈ 6 સેમી છે. તેનું ઘનફળ કેટલું છે? (পাই = 22/7)",
+      "options": [
+        {
+          "option": "1980 cm³"
+        },
+        {
+          "option": "1760 cm³"
+        },
+        {
+          "option": "2288 cm³",
+          "is_answer": true
+        },
+        {
+          "option": "2450 cm³"
+        }
+      ]
+    },
+    {
+      "question": "જો છિન્નકની ત્રાંસી ઊંચાઈ 'l' સૂત્ર sqrt(h^2 + (R - r)^2) દ્વારા આપવામાં આવે, તો h = 8 સેમી, R = 12 સેમી, અને r = 3 સેમી હોય ત્યારે ત્રાંસી ઊંચાઈ કેટલી થાય?",
+      "options": [
+        {
+          "option": "17 cm",
+          "is_answer": true
+        },
+        {
+          "option": "10 cm"
+        },
+        {
+          "option": "13 cm"
+        },
+        {
+          "option": "15 cm"
+        }
+      ]
+    },
+    {
+      "question": "એક કાટકોણ વર્તુળાકાર શંકુના છિન્નકનો પાયાની ત્રિજ્યા 8 સેમી, ઉપરની ત્રિજ્યા 4 સેમી અને ઊંચાઈ 3 સેમી છે. તેનું ઘનફળ શોધો. (পাই = 3.14)",
+      "options": [
+        {
+          "option": "402.12 cm³"
+        },
+        {
+          "option": "251.20 cm³"
+        },
+        {
+          "option": "351.68 cm³",
+          "is_answer": true
+        },
+        {
+          "option": "301.44 cm³"
+        }
+      ]
+    },
+    {
+      "question": "ઉપરની ત્રિજ્યા 5 સેમી, નીચેની ત્રિજ્યા 10 સેમી અને ત્રાંસી ઊંચાઈ 14 સેમી હોય તેવા છિન્નકનું વક્ર સપાટીનું ક્ષેત્રફળ શોધો. (পাই = 22/7)",
+      "options": [
+        {
+          "option": "440 cm²"
+        },
+        {
+          "option": "550 cm²"
+        },
+        {
+          "option": "770 cm²"
+        },
+        {
+          "option": "660 cm²",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો કોઈ શંકુને તેના પાયાને સમાંતર સમતલ દ્વારા કાપવામાં આવે, તો નીચેના ભાગને શું કહે છે?",
+      "options": [
+        {
+          "option": "ગોળો"
+        },
+        {
+          "option": "નળાકાર"
+        },
+        {
+          "option": "શંકુનો ખંડ"
+        },
+        {
+          "option": "શંકુનું છિન્નક",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "4 સેમી ઊંચાઈ ધરાવતા શંકુના છિન્નકના છેડાઓની ત્રિજ્યા 3 સેમી અને 6 સેમી છે. છિન્નકનું કુલ સપાટીનું ક્ષેત્રફળ શોધો. (পাই = 3.14)",
+      "options": [
+        {
+          "option": "210.50 cm²"
+        },
+        {
+          "option": "298.20 cm²"
+        },
+        {
+          "option": "254.34 cm²",
+          "is_answer": true
+        },
+        {
+          "option": "180.00 cm²"
+        }
+      ]
+    },
+    {
+      "question": "એક છિન્નકનું ઘનફળ 3050 સેમી³ છે. જો ઊંચાઈ 15 સેમી અને નીચેની ત્રિજ્યા 10 સેમી હોય, તો ઉપરની ત્રિજ્યા કેટલી થાય? (পাই = 22/7)",
+      "options": [
+        {
+          "option": "4 cm"
+        },
+        {
+          "option": "5 cm",
+          "is_answer": true
+        },
+        {
+          "option": "3 cm"
+        },
+        {
+          "option": "7 cm"
+        }
+      ]
+    },
+    {
+      "question": "જો શંકુના છિન્નકની ત્રિજ્યા અને ઊંચાઈ બંને બમણા કરવામાં આવે તો તેના ઘનફળનું શું થાય?",
+      "options": [
+        {
+          "option": "તે 8 ગણું થઈ જાય છે",
+          "is_answer": true
+        },
+        {
+          "option": "તે સમાન રહે છે"
+        },
+        {
+          "option": "તે 4 ગણું થઈ જાય છે"
+        },
+        {
+          "option": "તે 2 ગણું થઈ જાય છે"
+        }
+      ]
+    },
+    {
+      "question": "એક શંકુના છિન્નકનું વક્ર સપાટીનું ક્ષેત્રફળ 1100 સેમી² છે. જો તેના વર્તુળાકાર છેડાઓની ત્રિજ્યાઓનો સરવાળો 35 સેમી હોય, તો તેની ત્રાંસી ઊંચાઈ શોધો. (পাই = 22/7)",
+      "options": [
+        {
+          "option": "7 cm"
+        },
+        {
+          "option": "10 cm",
+          "is_answer": true
+        },
+        {
+          "option": "21 cm"
+        },
+        {
+          "option": "14 cm"
+        }
+      ]
+    },
+    {
+      "question": "એક છિન્નકનું ઘનફળ શોધો જેની ઉપરની ત્રિજ્યા 2 સેમી, નીચેની ત્રિજ્યા 4 સેમી અને ઊંચાઈ 9 સેમી છે. (পাই = 22/7)",
+      "options": [
+        {
+          "option": "220 cm³"
+        },
+        {
+          "option": "198 cm³"
+        },
+        {
+          "option": "308 cm³"
+        },
+        {
+          "option": "264 cm³",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "પીવાનું એક ગ્લાસ 14 સેમી ઊંચાઈના શંકુના છિન્નકના આકારમાં છે. તેના વર્તુળાકાર છેડાઓના વ્યાસ 4 સેમી અને 2 સેમી છે. ગ્લાસની ક્ષમતા શોધો. (পাই = 22/7)",
+      "options": [
+        {
+          "option": "88.00 cm³"
+        },
+        {
+          "option": "95.33 cm³"
+        },
+        {
+          "option": "102.67 cm³",
+          "is_answer": true
+        },
+        {
+          "option": "124.50 cm³"
+        }
+      ]
+    },
+    {
+      "question": "જો શંકુના છિન્નકની ત્રાંસી ઊંચાઈ 5 સેમી હોય અને ત્રિજ્યાઓ 3 સેમી અને 6 સેમી હોય, તો પાયા અને ટોચના સંયુક્ત ક્ષેત્રફળ કેટલું થાય?",
+      "options": [
+        {
+          "option": "36 pi cm²"
+        },
+        {
+          "option": "54 pi cm²"
+        },
+        {
+          "option": "18 pi cm²"
+        },
+        {
+          "option": "45 pi cm²",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "શંકુના છિન્નકની ત્રાંસી ઊંચાઈ 13 સેમી છે અને તેના વર્તુળાકાર છેડાઓની ત્રિજ્યાઓ વચ્ચેનો તફાવત 5 સેમી છે. છિન્નકની ઊંચાઈ શોધો.",
+      "options": [
+        {
+          "option": "12 cm",
+          "is_answer": true
+        },
+        {
+          "option": "10 cm"
+        },
+        {
+          "option": "8 cm"
+        },
+        {
+          "option": "14 cm"
+        }
+      ]
+    },
+    {
+      "question": "ધાતુની ચાદરથી બનેલી એક ડોલ 28 સેમી ઊંચાઈના શંકુના છિન્નક સ્વરૂપમાં છે, જેના નીચેના અને ઉપરના છેડાની ત્રિજ્યા અનુક્રમે 15 સેમી અને 30 સેમી છે. વક્ર સપાટી માટે રૂ. 5 પ્રતિ 100 સેમી² ના દરે વપરાતી ધાતુની ચાદરની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "Rs. 330",
+          "is_answer": true
+        },
+        {
+          "option": "Rs. 290"
+        },
+        {
+          "option": "Rs. 250"
+        },
+        {
+          "option": "Rs. 410"
+        }
+      ]
+    },
+    {
+      "question": "એક નળાકાર ટાંકીની ત્રિજ્યા 7 મીટર અને ઊંચાઈ 10 મીટર છે. શરૂઆતમાં તેમાં અડધું પાણી ભરેલું છે. જો 1m, 1/2m, 1/4m, ... ત્રિજ્યાવાળા ગોળાઓની ગુણોત્તર શ્રેણી (GP) તેમાં નાખવામાં આવે, તો ટાંકી પૂર્ણ ભરાવા માટે કેટલા ગોળાઓ સમાવી શકાય?",
+      "options": [
+        {
+          "option": "539 ગોળાઓ"
+        },
+        {
+          "option": "269 ગોળાઓ"
+        },
+        {
+          "option": "1078 ગોળાઓ"
+        },
+        {
+          "option": "અનંત ગોળાઓનો સરવાળો અપૂરતો છે",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "કાટકોણ ત્રિકોણની બાજુઓની લંબાઈ સમાંતર શ્રેણી (AP) રચે છે. જો પરિમિતિ 24 સેમી હોય, તો ત્રિકોણનું ક્ષેત્રફળ કેટલું થાય?",
+      "options": [
+        {
+          "option": "48 ચોરસ સેમી"
+        },
+        {
+          "option": "24 ચોરસ સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "30 ચોરસ સેમી"
+        },
+        {
+          "option": "18 ચોરસ સેમી"
+        }
+      ]
+    },
+    {
+      "question": "એક શંકુ આકારના તંબુની પાયાની ત્રિજ્યા 7 મીટર અને ઊંચાઈ 24 મીટર છે. કેનવાસનો ખર્ચ 10 રૂપિયા પ્રતિ ચોરસ મીટર છે. જો દર વર્ષે ખર્ચ 1.1 ના સામાન્ય ગુણોત્તર સાથે ગુણોત્તર શ્રેણીમાં વધે છે, તો ત્રીજા વર્ષે ખર્ચ કેટલો થાય?",
+      "options": [
+        {
+          "option": "5500 રૂ."
+        },
+        {
+          "option": "6655 રૂ.",
+          "is_answer": true
+        },
+        {
+          "option": "7320 રૂ."
+        },
+        {
+          "option": "6050 રૂ."
+        }
+      ]
+    },
+    {
+      "question": "એવી અનંત શ્રેણીનો સરવાળો શોધો જેના પદો ચોરસના ક્ષેત્રફળ છે, જ્યાં પ્રથમ ચોરસની બાજુ 2 છે, અને દરેક અનુવર્તી ચોરસની બાજુ અગાઉના ચોરસ કરતા અડધી છે.",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "32/3"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "16/3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "એક લંબચોરસ બગીચાના પરિમાણો (લંબાઈ, પહોળાઈ અને ઊંચાઈ) સમાંતર શ્રેણી રચે છે. જો પરિમાણોનો સરવાળો 30 મીટર અને ઘનફળ 1000 ઘન મીટર હોય, તો પરિમાણો શોધો.",
+      "options": [
+        {
+          "option": "6m, 10m, 14m"
+        },
+        {
+          "option": "8m, 10m, 12m"
+        },
+        {
+          "option": "5m, 10m, 15m",
+          "is_answer": true
+        },
+        {
+          "option": "4m, 10m, 16m"
+        }
+      ]
+    },
+    {
+      "question": "ત્રણ સમકેન્દ્રી વર્તુળોની ત્રિજ્યા સમાંતર શ્રેણી બનાવે છે. ક્રમિક વર્તુળોની ત્રિજ્યા વચ્ચેનો તફાવત 3 સેમી છે. જો મધ્યમ વર્તુળનું ક્ષેત્રફળ 154 ચોરસ સેમી હોય, તો બહારના વર્તુળની ત્રિજ્યા શોધો.",
+      "options": [
+        {
+          "option": "13 સેમી"
+        },
+        {
+          "option": "4 સેમી"
+        },
+        {
+          "option": "10 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "7 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "એક તારને લંબચોરસ આકારમાં વાળવામાં આવે છે જેની બાજુઓ સામાન્ય તફાવત 2 સાથે AP માં છે અને પરિમિતિ 40 છે. જો આ જ તારને સીધો કરીને વર્તુળ બનાવવામાં આવે, તો વર્તુળનું ક્ષેત્રફળ કેટલું થાય?",
+      "options": [
+        {
+          "option": "154 ચોરસ સેમી"
+        },
+        {
+          "option": "616 ચોરસ સેમી"
+        },
+        {
+          "option": "88 ચોરસ સેમી"
+        },
+        {
+          "option": "125.71 ચોરસ સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "ચતુષ્કોણના ખૂણાઓ સમાંતર શ્રેણીમાં છે. જો સૌથી મોટો ખૂણો સૌથી નાના ખૂણા કરતાં બમણો હોય, તો તમામ ખૂણાઓ શોધો.",
+      "options": [
+        {
+          "option": "60°, 80°, 100°, 120°",
+          "is_answer": true
+        },
+        {
+          "option": "45°, 75°, 105°, 135°"
+        },
+        {
+          "option": "40°, 80°, 100°, 140°"
+        },
+        {
+          "option": "50°, 70°, 90°, 110°"
+        }
+      ]
+    },
+    {
+      "question": "6 સેમી ત્રિજ્યા અને 8 સેમી ઊંચાઈવાળા શંકુની અંદર એક ગોળો કોતરવામાં આવ્યો છે. ગોળાનું ઘનફળ કેટલું છે?",
+      "options": [
+        {
+          "option": "904.78 ઘન સેમી"
+        },
+        {
+          "option": "113.14 ઘન સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "150.72 ઘન સેમી"
+        },
+        {
+          "option": "268.08 ઘન સેમી"
+        }
+      ]
+    },
+    {
+      "question": "ક્રમિક 3 વર્ષ માટે એક શહેરની વસ્તી ગુણોત્તર શ્રેણી રચે છે. જો વસ્તીનો ગુણાકાર 27,000,000 છે અને મધ્ય વર્ષની વસ્તી 3000 છે, તો સામાન્ય ગુણોત્તર શોધો.",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "3 અથવા 1/3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "44 સેમી × 11 સેમી પરિમાણવાળી લંબચોરસ ધાતુની શીટને તેની નાની બાજુ સાથે નળાકાર બનાવવા માટે વાળવામાં આવે છે. નળાકારનું ઘનફળ કેટલું છે?",
+      "options": [
+        {
+          "option": "338.8 ઘન સેમી"
+        },
+        {
+          "option": "677.6 ઘન સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "1355.2 ઘન સેમી"
+        },
+        {
+          "option": "169.4 ઘન સેમી"
+        }
+      ]
+    },
+    {
+      "question": "કાટકોણ ત્રિકોણની ત્રણ બાજુઓની લંબાઈ ક્રમિક બેકી પૂર્ણાંકો છે. કર્ણ શોધો.",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "6 સેમી ત્રિજ્યાના ઘન ધાતુના ગોળાને ઓગાળીને નાના શંકુઓની શ્રેણી બનાવવામાં આવે છે જેની ત્રિજ્યા 1, 2, 3 સેમી અને ઊંચાઈ અનુક્રમે 3, 2, 1 સેમી છે. આવા કેટલા શંકુ સમૂહો બનાવી શકાય?",
+      "options": [
+        {
+          "option": "12 સમૂહ"
+        },
+        {
+          "option": "4 સમૂહ"
+        },
+        {
+          "option": "8 સમૂહ",
+          "is_answer": true
+        },
+        {
+          "option": "16 સમૂહ"
+        }
+      ]
+    },
+    {
+      "question": "શ્રેણીનો સરવાળો શોધો: 1 + 2/3 + 4/9 + 8/27 + ... અનંત સુધી.",
+      "options": [
+        {
+          "option": "1.5"
+        },
+        {
+          "option": "અનંત"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "એક ત્રિકોણની પરિમિતિ 30 સેમી છે અને તેની બાજુઓ સમાંતર શ્રેણીમાં છે. જો સૌથી મોટી બાજુ 13 સેમી હોય, તો ત્રિકોણનું ક્ષેત્રફળ શોધો.",
+      "options": [
+        {
+          "option": "60 ચોરસ સેમી"
+        },
+        {
+          "option": "30 ચોરસ સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "35 ચોરસ સેમી"
+        },
+        {
+          "option": "45 ચોરસ સેમી"
+        }
+      ]
+    },
+    {
+      "question": "એક પોલા નળાકાર પાઇપની આંતરિક ત્રિજ્યા 3 સેમી, બાહ્ય ત્રિજ્યા 5 સેમી અને લંબાઈ 14 સેમી છે. જો તેને ઓગાળીને ઘન બનાવવામાં આવે, તો ઘનની બાજુની લંબાઈ કેટલી થાય?",
+      "options": [
+        {
+          "option": "5 સેમી"
+        },
+        {
+          "option": "8 સેમી"
+        },
+        {
+          "option": "7 સેમી"
+        },
+        {
+          "option": "6 સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "એક દડો 100 મીટરની ઊંચાઈથી નીચે પડે છે. જ્યારે પણ તે બાઉન્સ થાય છે, ત્યારે તે તેની અગાઉની ઊંચાઈના 3/4 ભાગ સુધી ઉછળે છે. અટકી જાય તે પહેલાં દડો કુલ કેટલું ઊભું અંતર કાપશે?",
+      "options": [
+        {
+          "option": "500 મીટર"
+        },
+        {
+          "option": "400 મીટર"
+        },
+        {
+          "option": "700 મીટર",
+          "is_answer": true
+        },
+        {
+          "option": "300 મીટર"
+        }
+      ]
+    },
+    {
+      "question": "એક ત્રિકોણના શિરોબિંદુઓના યામ (0,0), (6,0) અને (0,8) છે. આ ત્રિકોણની અંદર એક વર્તુળ કોતરવામાં આવ્યું છે. અંતઃસ્થ વર્તુળની ત્રિજ્યા શોધો.",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો સમીકરણ $x^2 - px + q = 0$ ના મૂળ ગુણોત્તર શ્રેણીના ગુણોત્તર 'r' માં હોય, તો p, q અને r વચ્ચે કયો સંબંધ સાચો છે?",
+      "options": [
+        {
+          "option": "$pq = r^2$"
+        },
+        {
+          "option": "$p = q(r+1)$"
+        },
+        {
+          "option": "$p^2 = q^2 r$"
+        },
+        {
+          "option": "$p^2 q = q(r+1)^2$",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "5 સેમી ત્રિજ્યા અને 12 સેમી ઊંચાઈવાળી શંકુ આકારની ફ્લાસ્ક પાણીથી ભરેલી છે. આ પાણી 10 સેમી ત્રિજ્યાવાળા નળાકાર કન્ટેનરમાં રેડવામાં આવે છે. નળાકારમાં પાણી કેટલી ઊંચાઈ સુધી વધશે?",
+      "options": [
+        {
+          "option": "2 સેમી"
+        },
+        {
+          "option": "3 સેમી"
+        },
+        {
+          "option": "1 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "4 સેમી"
+        }
+      ]
+    }
+  ]
+}

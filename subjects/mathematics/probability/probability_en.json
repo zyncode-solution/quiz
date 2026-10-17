@@ -1,0 +1,9005 @@
+{
+  "total_questions": 500,
+  "questions": [
+    {
+      "question": "What is the probability of rolling a sum of 7 with two fair 6-sided dice?",
+      "options": [
+        {
+          "option": "6/36",
+          "is_answer": true
+        },
+        {
+          "option": "7/36"
+        },
+        {
+          "option": "5/36"
+        },
+        {
+          "option": "1/36"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of rolling a sum of 2 with two fair 6-sided dice?",
+      "options": [
+        {
+          "option": "3/36"
+        },
+        {
+          "option": "1/36",
+          "is_answer": true
+        },
+        {
+          "option": "0/36"
+        },
+        {
+          "option": "2/36"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of rolling a sum of 12 with two fair 6-sided dice?",
+      "options": [
+        {
+          "option": "1/36",
+          "is_answer": true
+        },
+        {
+          "option": "6/36"
+        },
+        {
+          "option": "2/36"
+        },
+        {
+          "option": "1/6"
+        }
+      ]
+    },
+    {
+      "question": "How many total possible outcomes are there when rolling two 6-sided dice?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "36",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of rolling a sum of 6 with two fair 6-sided dice?",
+      "options": [
+        {
+          "option": "5/36",
+          "is_answer": true
+        },
+        {
+          "option": "4/36"
+        },
+        {
+          "option": "7/36"
+        },
+        {
+          "option": "6/36"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of rolling a sum of 8 with two fair 6-sided dice?",
+      "options": [
+        {
+          "option": "5/36",
+          "is_answer": true
+        },
+        {
+          "option": "6/36"
+        },
+        {
+          "option": "4/36"
+        },
+        {
+          "option": "8/36"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of rolling a sum of 3 with two fair 6-sided dice?",
+      "options": [
+        {
+          "option": "4/36"
+        },
+        {
+          "option": "3/36"
+        },
+        {
+          "option": "1/36"
+        },
+        {
+          "option": "2/36",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of rolling a sum of 11 with two fair 6-sided dice?",
+      "options": [
+        {
+          "option": "3/36"
+        },
+        {
+          "option": "11/36"
+        },
+        {
+          "option": "2/36",
+          "is_answer": true
+        },
+        {
+          "option": "1/36"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of rolling a sum of 4 with two fair 6-sided dice?",
+      "options": [
+        {
+          "option": "2/36"
+        },
+        {
+          "option": "1/36"
+        },
+        {
+          "option": "4/36"
+        },
+        {
+          "option": "3/36",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of rolling a sum of 10 with two fair 6-sided dice?",
+      "options": [
+        {
+          "option": "10/36"
+        },
+        {
+          "option": "3/36",
+          "is_answer": true
+        },
+        {
+          "option": "4/36"
+        },
+        {
+          "option": "2/36"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of rolling a sum of 5 with two fair 6-sided dice?",
+      "options": [
+        {
+          "option": "4/36",
+          "is_answer": true
+        },
+        {
+          "option": "2/36"
+        },
+        {
+          "option": "5/36"
+        },
+        {
+          "option": "3/36"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of rolling a sum of 9 with two fair 6-sided dice?",
+      "options": [
+        {
+          "option": "4/36",
+          "is_answer": true
+        },
+        {
+          "option": "3/36"
+        },
+        {
+          "option": "9/36"
+        },
+        {
+          "option": "5/36"
+        }
+      ]
+    },
+    {
+      "question": "Which sum has the highest probability when rolling two fair 6-sided dice?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of rolling a sum greater than 10 with two dice?",
+      "options": [
+        {
+          "option": "3/36",
+          "is_answer": true
+        },
+        {
+          "option": "4/36"
+        },
+        {
+          "option": "2/36"
+        },
+        {
+          "option": "1/36"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of rolling a sum less than 4 with two dice?",
+      "options": [
+        {
+          "option": "2/36"
+        },
+        {
+          "option": "1/36"
+        },
+        {
+          "option": "3/36",
+          "is_answer": true
+        },
+        {
+          "option": "4/36"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of rolling a sum of 7 or 11 with two dice?",
+      "options": [
+        {
+          "option": "7/36"
+        },
+        {
+          "option": "8/36",
+          "is_answer": true
+        },
+        {
+          "option": "6/36"
+        },
+        {
+          "option": "9/36"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of rolling a sum of 2, 3, or 12 with two dice?",
+      "options": [
+        {
+          "option": "4/36",
+          "is_answer": true
+        },
+        {
+          "option": "5/36"
+        },
+        {
+          "option": "3/36"
+        },
+        {
+          "option": "6/36"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of rolling a sum that is an even number?",
+      "options": [
+        {
+          "option": "20/36"
+        },
+        {
+          "option": "16/36"
+        },
+        {
+          "option": "18/36",
+          "is_answer": true
+        },
+        {
+          "option": "12/36"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of rolling a sum that is an odd number?",
+      "options": [
+        {
+          "option": "18/36",
+          "is_answer": true
+        },
+        {
+          "option": "15/36"
+        },
+        {
+          "option": "17/36"
+        },
+        {
+          "option": "19/36"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of rolling a sum of 1 with two fair 6-sided dice?",
+      "options": [
+        {
+          "option": "1/36"
+        },
+        {
+          "option": "1/6"
+        },
+        {
+          "option": "1/12"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the probability of an event E occurring is 0.35, what is the probability of its complement E'?",
+      "options": [
+        {
+          "option": "0.35"
+        },
+        {
+          "option": "0.65",
+          "is_answer": true
+        },
+        {
+          "option": "1.35"
+        },
+        {
+          "option": "0.75"
+        }
+      ]
+    },
+    {
+      "question": "A coin is tossed 3 times. What is the probability of getting at least one head?",
+      "options": [
+        {
+          "option": "1/8"
+        },
+        {
+          "option": "7/8",
+          "is_answer": true
+        },
+        {
+          "option": "3/8"
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "If P(E) = 1/6, what is P(not E)?",
+      "options": [
+        {
+          "option": "5/6",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "1/6"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "A die is rolled twice. What is the probability of getting at least one 6?",
+      "options": [
+        {
+          "option": "25/36"
+        },
+        {
+          "option": "11/36",
+          "is_answer": true
+        },
+        {
+          "option": "1/6"
+        },
+        {
+          "option": "1/36"
+        }
+      ]
+    },
+    {
+      "question": "If the probability of rain is 0.2, what is the probability that it will not rain?",
+      "options": [
+        {
+          "option": "1.2"
+        },
+        {
+          "option": "0.2"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0.8",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Two dice are rolled. What is the probability that the sum is not 7?",
+      "options": [
+        {
+          "option": "7/36"
+        },
+        {
+          "option": "29/36"
+        },
+        {
+          "option": "5/6",
+          "is_answer": true
+        },
+        {
+          "option": "1/6"
+        }
+      ]
+    },
+    {
+      "question": "If P(E') = 0.45, what is P(E)?",
+      "options": [
+        {
+          "option": "0.55",
+          "is_answer": true
+        },
+        {
+          "option": "0.45"
+        },
+        {
+          "option": "1.45"
+        },
+        {
+          "option": "0.5"
+        }
+      ]
+    },
+    {
+      "question": "A bag contains 4 red and 6 blue balls. If one ball is drawn, what is the probability it is not red?",
+      "options": [
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "1.0"
+        },
+        {
+          "option": "0.6",
+          "is_answer": true
+        },
+        {
+          "option": "0.4"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of not getting a sum of 2 when rolling two dice?",
+      "options": [
+        {
+          "option": "34/36"
+        },
+        {
+          "option": "2/36"
+        },
+        {
+          "option": "35/36",
+          "is_answer": true
+        },
+        {
+          "option": "1/36"
+        }
+      ]
+    },
+    {
+      "question": "If the probability of winning a game is 0.7, what is the probability of losing?",
+      "options": [
+        {
+          "option": "0.7"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "1.7"
+        },
+        {
+          "option": "0.3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A coin is tossed twice. What is the probability of getting at least one tail?",
+      "options": [
+        {
+          "option": "2/4"
+        },
+        {
+          "option": "3/4",
+          "is_answer": true
+        },
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "If P(E) = 0.99, what is P(E')?",
+      "options": [
+        {
+          "option": "0.99"
+        },
+        {
+          "option": "0.01",
+          "is_answer": true
+        },
+        {
+          "option": "0.1"
+        },
+        {
+          "option": "0.09"
+        }
+      ]
+    },
+    {
+      "question": "A card is drawn from a deck. What is the probability it is not an Ace?",
+      "options": [
+        {
+          "option": "1/13"
+        },
+        {
+          "option": "4/52"
+        },
+        {
+          "option": "1/52"
+        },
+        {
+          "option": "12/13",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the probability of an event is 1, what is the probability of its complement?",
+      "options": [
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0.1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "A die is rolled. What is the probability of not getting a 4?",
+      "options": [
+        {
+          "option": "4/6"
+        },
+        {
+          "option": "2/6"
+        },
+        {
+          "option": "1/6"
+        },
+        {
+          "option": "5/6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If P(E) = 0, what is P(E')?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0.9"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "A bag has 3 white and 7 black balls. Probability of not picking a white ball is:",
+      "options": [
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0.3"
+        },
+        {
+          "option": "1.0"
+        },
+        {
+          "option": "0.7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the probability of failing a test is 0.15, what is the probability of passing?",
+      "options": [
+        {
+          "option": "0.15"
+        },
+        {
+          "option": "1.15"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0.85",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Two coins are tossed. What is the probability of not getting two heads?",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "3/4",
+          "is_answer": true
+        },
+        {
+          "option": "2/4"
+        }
+      ]
+    },
+    {
+      "question": "If P(E) = 2/5, what is P(E')?",
+      "options": [
+        {
+          "option": "3/5",
+          "is_answer": true
+        },
+        {
+          "option": "2/5"
+        },
+        {
+          "option": "1/5"
+        },
+        {
+          "option": "4/5"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of drawing a red card from a standard 52-card deck?",
+      "options": [
+        {
+          "option": "26/52"
+        },
+        {
+          "option": "1/13"
+        },
+        {
+          "option": "1/2",
+          "is_answer": true
+        },
+        {
+          "option": "1/4"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of drawing an Ace from a standard 52-card deck?",
+      "options": [
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "4/13"
+        },
+        {
+          "option": "1/52"
+        },
+        {
+          "option": "1/13",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of drawing a Heart from a standard 52-card deck?",
+      "options": [
+        {
+          "option": "1/4",
+          "is_answer": true
+        },
+        {
+          "option": "1/13"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "13/52"
+        }
+      ]
+    },
+    {
+      "question": "How many face cards are there in a standard 52-card deck?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of drawing a King of Spades?",
+      "options": [
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "1/13"
+        },
+        {
+          "option": "1/52",
+          "is_answer": true
+        },
+        {
+          "option": "4/52"
+        }
+      ]
+    },
+    {
+      "question": "If you draw one card, what is the probability it is a black card?",
+      "options": [
+        {
+          "option": "13/52"
+        },
+        {
+          "option": "1/2",
+          "is_answer": true
+        },
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "1/26"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of drawing a card that is either a Heart or a Diamond?",
+      "options": [
+        {
+          "option": "1/2",
+          "is_answer": true
+        },
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "1/13"
+        },
+        {
+          "option": "2/13"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of drawing a Jack, Queen, or King?",
+      "options": [
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "12/52"
+        },
+        {
+          "option": "1/13"
+        },
+        {
+          "option": "3/13",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of drawing a card numbered 2 through 10?",
+      "options": [
+        {
+          "option": "4/13"
+        },
+        {
+          "option": "1/13"
+        },
+        {
+          "option": "9/13",
+          "is_answer": true
+        },
+        {
+          "option": "10/13"
+        }
+      ]
+    },
+    {
+      "question": "If you draw two cards with replacement, what is the probability both are Aces?",
+      "options": [
+        {
+          "option": "1/169",
+          "is_answer": true
+        },
+        {
+          "option": "1/52"
+        },
+        {
+          "option": "1/221"
+        },
+        {
+          "option": "1/13"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of drawing a red face card?",
+      "options": [
+        {
+          "option": "3/26",
+          "is_answer": true
+        },
+        {
+          "option": "1/13"
+        },
+        {
+          "option": "6/52"
+        },
+        {
+          "option": "1/4"
+        }
+      ]
+    },
+    {
+      "question": "How many cards in a deck are not face cards?",
+      "options": [
+        {
+          "option": "40",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "44"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of drawing a card that is a multiple of 3 (3, 6, 9)?",
+      "options": [
+        {
+          "option": "1/13"
+        },
+        {
+          "option": "3/13",
+          "is_answer": true
+        },
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "9/52"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of drawing a card that is not a Spade?",
+      "options": [
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "3/4",
+          "is_answer": true
+        },
+        {
+          "option": "13/52"
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "If you draw two cards without replacement, what is the probability both are red?",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "25/102",
+          "is_answer": true
+        },
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "26/52"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of drawing a Queen of Hearts?",
+      "options": [
+        {
+          "option": "1/13"
+        },
+        {
+          "option": "2/52"
+        },
+        {
+          "option": "1/52",
+          "is_answer": true
+        },
+        {
+          "option": "1/4"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of drawing a card that is a Diamond?",
+      "options": [
+        {
+          "option": "1/13"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "13/52"
+        },
+        {
+          "option": "1/4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many cards in a deck are Aces?",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "13"
+        },
+        {
+          "option": "52"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of drawing a card that is either a 10 or a Jack?",
+      "options": [
+        {
+          "option": "2/13",
+          "is_answer": true
+        },
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "1/13"
+        },
+        {
+          "option": "4/13"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of drawing a black King?",
+      "options": [
+        {
+          "option": "1/13"
+        },
+        {
+          "option": "1/26",
+          "is_answer": true
+        },
+        {
+          "option": "1/52"
+        },
+        {
+          "option": "2/52"
+        }
+      ]
+    },
+    {
+      "question": "In the classical definition of probability, what is the range of the probability P(E) of an event E?",
+      "options": [
+        {
+          "option": "0 <= P(E) <= 1",
+          "is_answer": true
+        },
+        {
+          "option": "-1 <= P(E) <= 1"
+        },
+        {
+          "option": "0 <= P(E) <= 100"
+        },
+        {
+          "option": "0 < P(E) < 1"
+        }
+      ]
+    },
+    {
+      "question": "If n(E) is the number of favorable outcomes and n(S) is the total number of equally likely outcomes, what is the formula for P(E)?",
+      "options": [
+        {
+          "option": "n(E) * n(S)"
+        },
+        {
+          "option": "n(E) / n(S)",
+          "is_answer": true
+        },
+        {
+          "option": "n(E) + n(S)"
+        },
+        {
+          "option": "n(S) / n(E)"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of an impossible event?",
+      "options": [
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "Undefined"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of a sure event?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "Greater than 1"
+        }
+      ]
+    },
+    {
+      "question": "When tossing a fair coin, what is the probability of getting a head?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1/2",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "1/4"
+        }
+      ]
+    },
+    {
+      "question": "In a standard die roll, what is the probability of getting a number greater than 6?",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "1/6"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If P(E) = 0.35, what is the probability of the complement event P(not E)?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "0.35"
+        },
+        {
+          "option": "0.65",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A bag contains 3 red and 2 blue balls. What is the probability of picking a red ball?",
+      "options": [
+        {
+          "option": "3/5",
+          "is_answer": true
+        },
+        {
+          "option": "2/5"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "3/2"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following cannot be the probability of an event?",
+      "options": [
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1.5",
+          "is_answer": true
+        },
+        {
+          "option": "0.1"
+        }
+      ]
+    },
+    {
+      "question": "In a deck of 52 cards, what is the probability of drawing an Ace?",
+      "options": [
+        {
+          "option": "13/52"
+        },
+        {
+          "option": "1/52"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "4/52",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of probabilities of all elementary events in a sample space?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "If a die is rolled, what is the probability of getting an even number?",
+      "options": [
+        {
+          "option": "1/6"
+        },
+        {
+          "option": "2/3"
+        },
+        {
+          "option": "1/2",
+          "is_answer": true
+        },
+        {
+          "option": "1/3"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of getting a number 7 when rolling a standard 6-sided die?",
+      "options": [
+        {
+          "option": "7/6"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1/6"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "If P(E) = 0.05, what is the probability of 'not E'?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "0.95",
+          "is_answer": true
+        },
+        {
+          "option": "0.05"
+        },
+        {
+          "option": "0.5"
+        }
+      ]
+    },
+    {
+      "question": "A box contains 5 blue, 4 white, and 3 red marbles. Total marbles in the box is?",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "In the classical definition, what does 'equally likely' mean?",
+      "options": [
+        {
+          "option": "Each outcome has the same chance of occurring",
+          "is_answer": true
+        },
+        {
+          "option": "Outcomes are always odd"
+        },
+        {
+          "option": "Only one outcome can occur"
+        },
+        {
+          "option": "The sum of outcomes is zero"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of picking a vowel from the word 'MATH'?",
+      "options": [
+        {
+          "option": "1/4",
+          "is_answer": true
+        },
+        {
+          "option": "3/4"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "If you roll two dice, what is the total number of possible outcomes n(S)?",
+      "options": [
+        {
+          "option": "36",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "Which value can represent the probability of an event?",
+      "options": [
+        {
+          "option": "1.2"
+        },
+        {
+          "option": "1.1"
+        },
+        {
+          "option": "-0.5"
+        },
+        {
+          "option": "0.75",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If a card is drawn from a deck, what is the probability that it is a Heart?",
+      "options": [
+        {
+          "option": "1/52"
+        },
+        {
+          "option": "1/4",
+          "is_answer": true
+        },
+        {
+          "option": "1/13"
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "When tossing 3 fair coins, what is the total number of possible outcomes in the sample space?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of getting exactly 1 head when tossing 2 fair coins?",
+      "options": [
+        {
+          "option": "0.25"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0.75"
+        },
+        {
+          "option": "0.5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many ways can you get exactly 2 heads when tossing 4 fair coins?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of getting 0 heads when tossing 3 fair coins?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1/8",
+          "is_answer": true
+        },
+        {
+          "option": "3/8"
+        },
+        {
+          "option": "1/4"
+        }
+      ]
+    },
+    {
+      "question": "If you toss 5 coins, what is the total number of outcomes?",
+      "options": [
+        {
+          "option": "64"
+        },
+        {
+          "option": "32",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of getting all heads when tossing 4 coins?",
+      "options": [
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "1/16",
+          "is_answer": true
+        },
+        {
+          "option": "1/8"
+        }
+      ]
+    },
+    {
+      "question": "How many outcomes result in exactly 3 heads when tossing 4 coins?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of getting at least one head when tossing 2 coins?",
+      "options": [
+        {
+          "option": "3/4",
+          "is_answer": true
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "The number of ways to get 1 head in 3 coin tosses is given by which combination?",
+      "options": [
+        {
+          "option": "2C1"
+        },
+        {
+          "option": "3C1",
+          "is_answer": true
+        },
+        {
+          "option": "3C0"
+        },
+        {
+          "option": "3C2"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of getting exactly 2 heads when tossing 3 coins?",
+      "options": [
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "3/8",
+          "is_answer": true
+        },
+        {
+          "option": "1/8"
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "If n=6, what is the total number of outcomes in the sample space?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "64",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "32"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of 4C2?",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of getting exactly 0 tails when tossing 3 coins?",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "1/8",
+          "is_answer": true
+        },
+        {
+          "option": "3/8"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can you get 0 heads in 5 coin tosses?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of getting exactly 1 head when tossing 3 coins?",
+      "options": [
+        {
+          "option": "1/8"
+        },
+        {
+          "option": "3/8",
+          "is_answer": true
+        },
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "Which formula represents the probability of getting exactly r heads in n tosses?",
+      "options": [
+        {
+          "option": "n! / r!"
+        },
+        {
+          "option": "nCr / n^2"
+        },
+        {
+          "option": "2^n / nCr"
+        },
+        {
+          "option": "nCr / 2^n",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of 5C1?",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "When tossing 4 coins, what is the probability of getting 2 heads?",
+      "options": [
+        {
+          "option": "6/16",
+          "is_answer": true
+        },
+        {
+          "option": "8/16"
+        },
+        {
+          "option": "4/16"
+        },
+        {
+          "option": "1/16"
+        }
+      ]
+    },
+    {
+      "question": "How many outcomes have exactly 1 head in 4 coin tosses?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of getting 3 heads when tossing 3 coins?",
+      "options": [
+        {
+          "option": "1/8",
+          "is_answer": true
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "3/8"
+        }
+      ]
+    },
+    {
+      "question": "When rolling three fair six-sided dice, what is the total number of possible outcomes?",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "216",
+          "is_answer": true
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of getting a sum of 3 when rolling three dice?",
+      "options": [
+        {
+          "option": "1/72"
+        },
+        {
+          "option": "3/216"
+        },
+        {
+          "option": "1/216",
+          "is_answer": true
+        },
+        {
+          "option": "1/18"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of getting all three dice showing the same face?",
+      "options": [
+        {
+          "option": "3/216"
+        },
+        {
+          "option": "1/216"
+        },
+        {
+          "option": "6/216",
+          "is_answer": true
+        },
+        {
+          "option": "1/36"
+        }
+      ]
+    },
+    {
+      "question": "How many ways can you get a sum of 4 with three dice?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability that all three dice show distinct faces?",
+      "options": [
+        {
+          "option": "120/216",
+          "is_answer": true
+        },
+        {
+          "option": "1/6"
+        },
+        {
+          "option": "60/216"
+        },
+        {
+          "option": "210/216"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of getting a sum of 18 with three dice?",
+      "options": [
+        {
+          "option": "1/18"
+        },
+        {
+          "option": "3/216"
+        },
+        {
+          "option": "1/216",
+          "is_answer": true
+        },
+        {
+          "option": "6/216"
+        }
+      ]
+    },
+    {
+      "question": "How many outcomes result in a sum of 10 with three dice?",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "27",
+          "is_answer": true
+        },
+        {
+          "option": "21"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of getting a sum of 5 with three dice?",
+      "options": [
+        {
+          "option": "10/216"
+        },
+        {
+          "option": "5/216"
+        },
+        {
+          "option": "4/216"
+        },
+        {
+          "option": "6/216",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the maximum possible sum when rolling three dice?",
+      "options": [
+        {
+          "option": "18",
+          "is_answer": true
+        },
+        {
+          "option": "21"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "24"
+        }
+      ]
+    },
+    {
+      "question": "What is the minimum possible sum when rolling three dice?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "How many outcomes result in a sum of 6 with three dice?",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of getting a sum of 11 with three dice?",
+      "options": [
+        {
+          "option": "21/216"
+        },
+        {
+          "option": "27/216",
+          "is_answer": true
+        },
+        {
+          "option": "11/216"
+        },
+        {
+          "option": "1/6"
+        }
+      ]
+    },
+    {
+      "question": "If you roll three dice, what is the probability that the sum is less than 5?",
+      "options": [
+        {
+          "option": "5/216"
+        },
+        {
+          "option": "3/216"
+        },
+        {
+          "option": "6/216"
+        },
+        {
+          "option": "4/216",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many ways can you get a sum of 17 with three dice?",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability that at least one die shows a 6?",
+      "options": [
+        {
+          "option": "91/216",
+          "is_answer": true
+        },
+        {
+          "option": "1/6"
+        },
+        {
+          "option": "125/216"
+        },
+        {
+          "option": "6/216"
+        }
+      ]
+    },
+    {
+      "question": "How many outcomes result in a sum of 7 with three dice?",
+      "options": [
+        {
+          "option": "21"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the probability that the sum of three dice is an even number?",
+      "options": [
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "54/216"
+        },
+        {
+          "option": "108/216",
+          "is_answer": true
+        },
+        {
+          "option": "1/3"
+        }
+      ]
+    },
+    {
+      "question": "How many outcomes result in a sum of 9 with three dice?",
+      "options": [
+        {
+          "option": "21"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "25",
+          "is_answer": true
+        },
+        {
+          "option": "27"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of getting a sum of 12 with three dice?",
+      "options": [
+        {
+          "option": "25/216",
+          "is_answer": true
+        },
+        {
+          "option": "27/216"
+        },
+        {
+          "option": "12/216"
+        },
+        {
+          "option": "21/216"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability that the sum of three dice is greater than 16?",
+      "options": [
+        {
+          "option": "3/216"
+        },
+        {
+          "option": "4/216",
+          "is_answer": true
+        },
+        {
+          "option": "1/216"
+        },
+        {
+          "option": "6/216"
+        }
+      ]
+    },
+    {
+      "question": "If events A and B are independent, what is the formula for P(A and B)?",
+      "options": [
+        {
+          "option": "P(A) - P(B)"
+        },
+        {
+          "option": "P(A) * P(B)",
+          "is_answer": true
+        },
+        {
+          "option": "P(A) + P(B)"
+        },
+        {
+          "option": "P(A) / P(B)"
+        }
+      ]
+    },
+    {
+      "question": "If P(A) = 0.5 and P(B) = 0.4, and they are independent, what is P(A and B)?",
+      "options": [
+        {
+          "option": "0.9"
+        },
+        {
+          "option": "0.2",
+          "is_answer": true
+        },
+        {
+          "option": "0.1"
+        },
+        {
+          "option": "0.09"
+        }
+      ]
+    },
+    {
+      "question": "Two events are independent if the occurrence of one event:",
+      "options": [
+        {
+          "option": "Makes the other impossible"
+        },
+        {
+          "option": "Changes the probability of the other"
+        },
+        {
+          "option": "Guarantees the other will happen"
+        },
+        {
+          "option": "Does not affect the probability of the other",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If P(A) = 0.3 and P(B) = 0.2, and P(A and B) = 0.06, are the events independent?",
+      "options": [
+        {
+          "option": "Cannot be determined"
+        },
+        {
+          "option": "Only if P(A) = P(B)"
+        },
+        {
+          "option": "Yes",
+          "is_answer": true
+        },
+        {
+          "option": "No"
+        }
+      ]
+    },
+    {
+      "question": "A coin is tossed and a die is rolled. These are:",
+      "options": [
+        {
+          "option": "Impossible events"
+        },
+        {
+          "option": "Mutually exclusive events"
+        },
+        {
+          "option": "Dependent events"
+        },
+        {
+          "option": "Independent events",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If P(A) = 0.4 and P(B) = 0.5, and P(A and B) = 0.1, are the events independent?",
+      "options": [
+        {
+          "option": "Only if P(A) = 0.5"
+        },
+        {
+          "option": "No",
+          "is_answer": true
+        },
+        {
+          "option": "Depends on sample space"
+        },
+        {
+          "option": "Yes"
+        }
+      ]
+    },
+    {
+      "question": "When drawing two cards from a deck with replacement, the events are:",
+      "options": [
+        {
+          "option": "Complementary"
+        },
+        {
+          "option": "Dependent"
+        },
+        {
+          "option": "Independent",
+          "is_answer": true
+        },
+        {
+          "option": "Mutually exclusive"
+        }
+      ]
+    },
+    {
+      "question": "If P(A) = 0.2 and P(B) = 0.3, and they are independent, what is P(A or B)?",
+      "options": [
+        {
+          "option": "0.06"
+        },
+        {
+          "option": "0.44",
+          "is_answer": true
+        },
+        {
+          "option": "0.6"
+        },
+        {
+          "option": "0.5"
+        }
+      ]
+    },
+    {
+      "question": "Which condition must hold for events A and B to be independent?",
+      "options": [
+        {
+          "option": "P(A|B) = P(B)"
+        },
+        {
+          "option": "P(A or B) = 1"
+        },
+        {
+          "option": "P(A and B) = 0"
+        },
+        {
+          "option": "P(A|B) = P(A)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If P(A) = 0.6, what is P(not A)?",
+      "options": [
+        {
+          "option": "0.4",
+          "is_answer": true
+        },
+        {
+          "option": "0.6"
+        },
+        {
+          "option": "0.36"
+        },
+        {
+          "option": "1.0"
+        }
+      ]
+    },
+    {
+      "question": "Two events A and B are independent. If P(A) = 0.5 and P(B) = 0.5, what is P(A and B)?",
+      "options": [
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0.75"
+        },
+        {
+          "option": "1.0"
+        },
+        {
+          "option": "0.25",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If P(A) = 0.8 and P(B) = 0.1, and they are independent, what is P(A and B)?",
+      "options": [
+        {
+          "option": "0.08",
+          "is_answer": true
+        },
+        {
+          "option": "0.8"
+        },
+        {
+          "option": "0.7"
+        },
+        {
+          "option": "0.9"
+        }
+      ]
+    },
+    {
+      "question": "Can two mutually exclusive events be independent?",
+      "options": [
+        {
+          "option": "Yes, always"
+        },
+        {
+          "option": "Only if one has probability 0",
+          "is_answer": true
+        },
+        {
+          "option": "No, never"
+        },
+        {
+          "option": "Only if both have probability 0.5"
+        }
+      ]
+    },
+    {
+      "question": "If P(A) = 0.25 and P(B) = 0.4, and they are independent, what is P(A and B)?",
+      "options": [
+        {
+          "option": "0.1",
+          "is_answer": true
+        },
+        {
+          "option": "0.01"
+        },
+        {
+          "option": "0.15"
+        },
+        {
+          "option": "0.65"
+        }
+      ]
+    },
+    {
+      "question": "If P(A) = 0.5, what is P(A and A) if A is independent of itself?",
+      "options": [
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "0.25",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is true for independent events A and B?",
+      "options": [
+        {
+          "option": "P(A and B) = P(A) - P(B)"
+        },
+        {
+          "option": "P(A and B) = P(A) + P(B)"
+        },
+        {
+          "option": "P(A and B) = P(A) / P(B)"
+        },
+        {
+          "option": "P(A and B) = P(A) * P(B)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If P(A) = 0.1 and P(B) = 0.1, and they are independent, what is P(A and B)?",
+      "options": [
+        {
+          "option": "0.1"
+        },
+        {
+          "option": "0.2"
+        },
+        {
+          "option": "0.001"
+        },
+        {
+          "option": "0.01",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If two events are independent, the probability of both occurring is:",
+      "options": [
+        {
+          "option": "The average of their individual probabilities"
+        },
+        {
+          "option": "The difference of their individual probabilities"
+        },
+        {
+          "option": "The product of their individual probabilities",
+          "is_answer": true
+        },
+        {
+          "option": "The sum of their individual probabilities"
+        }
+      ]
+    },
+    {
+      "question": "If P(A) = 0.7 and P(B) = 0.2, and they are independent, what is P(A and B)?",
+      "options": [
+        {
+          "option": "0.14",
+          "is_answer": true
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0.9"
+        },
+        {
+          "option": "0.07"
+        }
+      ]
+    },
+    {
+      "question": "If P(A) = 0.4 and P(B) = 0.4, and they are independent, what is P(A and B)?",
+      "options": [
+        {
+          "option": "0.04"
+        },
+        {
+          "option": "0.8"
+        },
+        {
+          "option": "0.16",
+          "is_answer": true
+        },
+        {
+          "option": "0.4"
+        }
+      ]
+    },
+    {
+      "question": "If two events A and B are mutually exclusive, what is P(A or B)?",
+      "options": [
+        {
+          "option": "P(A) * P(B)"
+        },
+        {
+          "option": "P(A) + P(B) - P(A and B)"
+        },
+        {
+          "option": "P(A) + P(B)",
+          "is_answer": true
+        },
+        {
+          "option": "P(A) / P(B)"
+        }
+      ]
+    },
+    {
+      "question": "What is the general addition rule for any two events A and B?",
+      "options": [
+        {
+          "option": "P(A) + P(B) - P(A and B)",
+          "is_answer": true
+        },
+        {
+          "option": "P(A) + P(B)"
+        },
+        {
+          "option": "P(A) * P(B)"
+        },
+        {
+          "option": "P(A) - P(B)"
+        }
+      ]
+    },
+    {
+      "question": "If P(A) = 0.3, P(B) = 0.4, and A and B are mutually exclusive, find P(A or B).",
+      "options": [
+        {
+          "option": "0.12"
+        },
+        {
+          "option": "0.1"
+        },
+        {
+          "option": "0.7",
+          "is_answer": true
+        },
+        {
+          "option": "0.5"
+        }
+      ]
+    },
+    {
+      "question": "For mutually exclusive events, what is the value of P(A and B)?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "P(A) * P(B)"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "0.5"
+        }
+      ]
+    },
+    {
+      "question": "If P(A) = 0.5, P(B) = 0.4, and P(A and B) = 0.2, find P(A or B).",
+      "options": [
+        {
+          "option": "0.3"
+        },
+        {
+          "option": "0.7",
+          "is_answer": true
+        },
+        {
+          "option": "0.1"
+        },
+        {
+          "option": "0.9"
+        }
+      ]
+    },
+    {
+      "question": "Which condition must be met for P(A or B) = P(A) + P(B)?",
+      "options": [
+        {
+          "option": "Events must be dependent"
+        },
+        {
+          "option": "Events must be independent"
+        },
+        {
+          "option": "P(A and B) must be 1"
+        },
+        {
+          "option": "Events must be mutually exclusive",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If A and B are not mutually exclusive, what is subtracted in the addition rule?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "P(A or B)"
+        },
+        {
+          "option": "P(A and B)",
+          "is_answer": true
+        },
+        {
+          "option": "P(A) * P(B)"
+        }
+      ]
+    },
+    {
+      "question": "What does 'mutually exclusive' mean in probability?",
+      "options": [
+        {
+          "option": "Events have equal probability"
+        },
+        {
+          "option": "Events must happen together"
+        },
+        {
+          "option": "Events cannot happen at the same time",
+          "is_answer": true
+        },
+        {
+          "option": "Events are independent"
+        }
+      ]
+    },
+    {
+      "question": "If P(A) = 0.6 and P(B) = 0.2, and they are mutually exclusive, what is P(A or B)?",
+      "options": [
+        {
+          "option": "0.4"
+        },
+        {
+          "option": "0.12"
+        },
+        {
+          "option": "0.7"
+        },
+        {
+          "option": "0.8",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In a deck of cards, are drawing a Heart and drawing a Spade mutually exclusive?",
+      "options": [
+        {
+          "option": "No"
+        },
+        {
+          "option": "Only if drawn together"
+        },
+        {
+          "option": "Depends on the card"
+        },
+        {
+          "option": "Yes",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If P(A) = 0.4, P(B) = 0.5, and P(A or B) = 0.7, what is P(A and B)?",
+      "options": [
+        {
+          "option": "0.9"
+        },
+        {
+          "option": "0.2",
+          "is_answer": true
+        },
+        {
+          "option": "0.1"
+        },
+        {
+          "option": "0.3"
+        }
+      ]
+    },
+    {
+      "question": "Can the probability of the union of two events exceed 1?",
+      "options": [
+        {
+          "option": "Only if mutually exclusive"
+        },
+        {
+          "option": "No",
+          "is_answer": true
+        },
+        {
+          "option": "Yes"
+        },
+        {
+          "option": "Only if independent"
+        }
+      ]
+    },
+    {
+      "question": "If A and B are mutually exclusive, what is P(A or B or C)?",
+      "options": [
+        {
+          "option": "P(A) * P(B) * P(C)"
+        },
+        {
+          "option": "P(A) + P(B) - P(C)"
+        },
+        {
+          "option": "P(A) + P(B) + P(C)",
+          "is_answer": true
+        },
+        {
+          "option": "P(A) + P(B) + P(C) - P(A and B and C)"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of the union of two events if one is a subset of the other?",
+      "options": [
+        {
+          "option": "The probability of the larger set",
+          "is_answer": true
+        },
+        {
+          "option": "The difference of both"
+        },
+        {
+          "option": "The sum of both"
+        },
+        {
+          "option": "The probability of the smaller set"
+        }
+      ]
+    },
+    {
+      "question": "If P(A) = 0.2 and P(B) = 0.2, and they are mutually exclusive, what is P(A or B)?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "0.4",
+          "is_answer": true
+        },
+        {
+          "option": "0.2"
+        },
+        {
+          "option": "0.04"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is true for any two events A and B?",
+      "options": [
+        {
+          "option": "P(A or B) = P(A) + P(B) - P(A and B)",
+          "is_answer": true
+        },
+        {
+          "option": "P(A or B) = P(A) * P(B)"
+        },
+        {
+          "option": "P(A or B) = P(A) - P(B)"
+        },
+        {
+          "option": "P(A or B) = P(A) + P(B)"
+        }
+      ]
+    },
+    {
+      "question": "If P(A) = 0.8, what is P(not A)?",
+      "options": [
+        {
+          "option": "1.8"
+        },
+        {
+          "option": "0.8"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "0.2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "When using the addition rule, what does 'or' represent?",
+      "options": [
+        {
+          "option": "Difference"
+        },
+        {
+          "option": "Intersection"
+        },
+        {
+          "option": "Complement"
+        },
+        {
+          "option": "Union",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If P(A) = 0.3, P(B) = 0.3, and P(A and B) = 0.3, what is P(A or B)?",
+      "options": [
+        {
+          "option": "0.6"
+        },
+        {
+          "option": "0.9"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "0.3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Are the events 'rolling a 2' and 'rolling a 5' on a die mutually exclusive?",
+      "options": [
+        {
+          "option": "Only if rolled twice"
+        },
+        {
+          "option": "Yes",
+          "is_answer": true
+        },
+        {
+          "option": "Only if rolled together"
+        },
+        {
+          "option": "No"
+        }
+      ]
+    },
+    {
+      "question": "If P(A and B) = 0.2 and P(B) = 0.5, what is P(A|B)?",
+      "options": [
+        {
+          "option": "0.4",
+          "is_answer": true
+        },
+        {
+          "option": "2.5"
+        },
+        {
+          "option": "0.1"
+        },
+        {
+          "option": "0.7"
+        }
+      ]
+    },
+    {
+      "question": "A bag contains 3 red and 2 blue marbles. If one red marble is drawn and not replaced, what is the probability of drawing a second red marble?",
+      "options": [
+        {
+          "option": "0.6"
+        },
+        {
+          "option": "0.5",
+          "is_answer": true
+        },
+        {
+          "option": "0.4"
+        },
+        {
+          "option": "0.2"
+        }
+      ]
+    },
+    {
+      "question": "Two cards are drawn from a deck without replacement. What is the probability the second is a King given the first was a King?",
+      "options": [
+        {
+          "option": "3/51",
+          "is_answer": true
+        },
+        {
+          "option": "3/52"
+        },
+        {
+          "option": "4/52"
+        },
+        {
+          "option": "4/51"
+        }
+      ]
+    },
+    {
+      "question": "If P(A|B) = 0.8 and P(B) = 0.3, what is P(A and B)?",
+      "options": [
+        {
+          "option": "0.24",
+          "is_answer": true
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0.11"
+        },
+        {
+          "option": "0.375"
+        }
+      ]
+    },
+    {
+      "question": "In a class, 60% of students like Math and 40% like Science. If 30% like both, what is the probability a student likes Science given they like Math?",
+      "options": [
+        {
+          "option": "0.3"
+        },
+        {
+          "option": "0.4"
+        },
+        {
+          "option": "0.6"
+        },
+        {
+          "option": "0.5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the condition for two events A and B to be dependent?",
+      "options": [
+        {
+          "option": "P(A|B) = P(A)"
+        },
+        {
+          "option": "P(A and B) = P(A)P(B)"
+        },
+        {
+          "option": "P(A or B) = P(A) + P(B)"
+        },
+        {
+          "option": "P(A|B) ≠ P(A)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A box has 5 white and 5 black balls. Two balls are drawn without replacement. What is the probability both are white?",
+      "options": [
+        {
+          "option": "5/18"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "2/9",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If P(B) = 0.4 and P(A and B) = 0.1, find P(A|B).",
+      "options": [
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0.4"
+        },
+        {
+          "option": "0.1"
+        },
+        {
+          "option": "0.25",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A die is rolled. Given the result is even, what is the probability it is a 2?",
+      "options": [
+        {
+          "option": "1/6"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "1/3",
+          "is_answer": true
+        },
+        {
+          "option": "2/3"
+        }
+      ]
+    },
+    {
+      "question": "If P(A) = 0.5, P(B) = 0.5, and P(A|B) = 0.5, are the events independent?",
+      "options": [
+        {
+          "option": "No"
+        },
+        {
+          "option": "Yes",
+          "is_answer": true
+        },
+        {
+          "option": "Only if P(A and B) = 0"
+        },
+        {
+          "option": "Cannot be determined"
+        }
+      ]
+    },
+    {
+      "question": "A jar contains 4 blue and 6 green marbles. If two are drawn without replacement, what is the probability the second is green given the first was blue?",
+      "options": [
+        {
+          "option": "6/9",
+          "is_answer": true
+        },
+        {
+          "option": "6/10"
+        },
+        {
+          "option": "4/9"
+        },
+        {
+          "option": "5/9"
+        }
+      ]
+    },
+    {
+      "question": "What does P(A|B) represent?",
+      "options": [
+        {
+          "option": "Probability of A and B"
+        },
+        {
+          "option": "Probability of A given B has occurred",
+          "is_answer": true
+        },
+        {
+          "option": "Probability of B given A has occurred"
+        },
+        {
+          "option": "Probability of A or B"
+        }
+      ]
+    },
+    {
+      "question": "If P(A|B) = 0, what does this imply about events A and B?",
+      "options": [
+        {
+          "option": "They are identical"
+        },
+        {
+          "option": "They are independent"
+        },
+        {
+          "option": "They are mutually exclusive",
+          "is_answer": true
+        },
+        {
+          "option": "They are exhaustive"
+        }
+      ]
+    },
+    {
+      "question": "Two coins are tossed. Given at least one is heads, what is the probability both are heads?",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "1/3",
+          "is_answer": true
+        },
+        {
+          "option": "2/3"
+        },
+        {
+          "option": "1/4"
+        }
+      ]
+    },
+    {
+      "question": "If P(A) = 0.3 and P(B|A) = 0.2, what is P(A and B)?",
+      "options": [
+        {
+          "option": "0.1"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0.15"
+        },
+        {
+          "option": "0.06",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In a deck of 52 cards, what is the probability of drawing a Heart given the card is Red?",
+      "options": [
+        {
+          "option": "13/52"
+        },
+        {
+          "option": "1/2",
+          "is_answer": true
+        },
+        {
+          "option": "1/13"
+        },
+        {
+          "option": "1/4"
+        }
+      ]
+    },
+    {
+      "question": "If events A and B are dependent, then P(A and B) is equal to:",
+      "options": [
+        {
+          "option": "P(A) * P(B)"
+        },
+        {
+          "option": "P(A) / P(B)"
+        },
+        {
+          "option": "P(A) + P(B)"
+        },
+        {
+          "option": "P(A) * P(B|A)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A bag has 3 blue and 7 red balls. Two balls are drawn. What is the probability the second is blue given the first was red?",
+      "options": [
+        {
+          "option": "7/9"
+        },
+        {
+          "option": "3/7"
+        },
+        {
+          "option": "3/10"
+        },
+        {
+          "option": "3/9",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If P(A|B) = 0.5 and P(A and B) = 0.2, what is P(B)?",
+      "options": [
+        {
+          "option": "0.25"
+        },
+        {
+          "option": "0.1"
+        },
+        {
+          "option": "0.7"
+        },
+        {
+          "option": "0.4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is always true for conditional probability?",
+      "options": [
+        {
+          "option": "P(A|B) = P(A) * P(B)"
+        },
+        {
+          "option": "P(A|B) = P(A) / P(B)"
+        },
+        {
+          "option": "P(A|B) = P(B|A)"
+        },
+        {
+          "option": "P(A|B) = P(A and B) / P(B)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "An urn contains 3 red and 2 blue balls. If 2 balls are drawn without replacement, what is the probability that both are red?",
+      "options": [
+        {
+          "option": "1/5"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "3/10",
+          "is_answer": true
+        },
+        {
+          "option": "2/5"
+        }
+      ]
+    },
+    {
+      "question": "An urn contains 4 red and 6 blue balls. If 2 balls are drawn with replacement, what is the probability that both are blue?",
+      "options": [
+        {
+          "option": "16/25"
+        },
+        {
+          "option": "6/25"
+        },
+        {
+          "option": "1/5"
+        },
+        {
+          "option": "9/25",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "An urn has 5 red and 5 blue balls. If 2 balls are drawn without replacement, what is the probability of getting one of each color?",
+      "options": [
+        {
+          "option": "2/5"
+        },
+        {
+          "option": "4/9"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "5/9",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "An urn contains 2 red and 3 blue balls. If 1 ball is drawn, what is the probability it is red?",
+      "options": [
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "3/5"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "2/5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "An urn contains 6 red and 4 blue balls. If 2 balls are drawn without replacement, what is the probability both are red?",
+      "options": [
+        {
+          "option": "2/5"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "3/10"
+        },
+        {
+          "option": "1/3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "An urn contains 3 red and 7 blue balls. If 2 balls are drawn with replacement, what is the probability both are red?",
+      "options": [
+        {
+          "option": "49/100"
+        },
+        {
+          "option": "9/100",
+          "is_answer": true
+        },
+        {
+          "option": "3/100"
+        },
+        {
+          "option": "21/100"
+        }
+      ]
+    },
+    {
+      "question": "An urn contains 5 red and 3 blue balls. If 2 balls are drawn without replacement, what is the probability both are blue?",
+      "options": [
+        {
+          "option": "3/28",
+          "is_answer": true
+        },
+        {
+          "option": "9/64"
+        },
+        {
+          "option": "1/8"
+        },
+        {
+          "option": "5/28"
+        }
+      ]
+    },
+    {
+      "question": "An urn contains 4 red and 4 blue balls. If 2 balls are drawn without replacement, what is the probability they are the same color?",
+      "options": [
+        {
+          "option": "3/7",
+          "is_answer": true
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "4/7"
+        },
+        {
+          "option": "1/4"
+        }
+      ]
+    },
+    {
+      "question": "An urn contains 1 red and 9 blue balls. If 2 balls are drawn without replacement, what is the probability of getting at least one red ball?",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "1/5",
+          "is_answer": true
+        },
+        {
+          "option": "1/10"
+        },
+        {
+          "option": "9/10"
+        }
+      ]
+    },
+    {
+      "question": "An urn contains 2 red and 8 blue balls. If 2 balls are drawn with replacement, what is the probability of getting one of each color?",
+      "options": [
+        {
+          "option": "8/25",
+          "is_answer": true
+        },
+        {
+          "option": "2/25"
+        },
+        {
+          "option": "1/5"
+        },
+        {
+          "option": "16/25"
+        }
+      ]
+    },
+    {
+      "question": "An urn contains 3 red and 2 blue balls. If 3 balls are drawn without replacement, what is the probability all are red?",
+      "options": [
+        {
+          "option": "1/5"
+        },
+        {
+          "option": "3/10"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1/10"
+        }
+      ]
+    },
+    {
+      "question": "An urn contains 4 red and 2 blue balls. If 2 balls are drawn without replacement, what is the probability both are red?",
+      "options": [
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "4/9"
+        },
+        {
+          "option": "2/5",
+          "is_answer": true
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "An urn contains 5 red and 5 blue balls. If 2 balls are drawn with replacement, what is the probability both are red?",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "2/5"
+        },
+        {
+          "option": "1/4",
+          "is_answer": true
+        },
+        {
+          "option": "1/5"
+        }
+      ]
+    },
+    {
+      "question": "An urn contains 6 red and 4 blue balls. If 2 balls are drawn without replacement, what is the probability they are different colors?",
+      "options": [
+        {
+          "option": "8/15",
+          "is_answer": true
+        },
+        {
+          "option": "2/5"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "7/15"
+        }
+      ]
+    },
+    {
+      "question": "An urn contains 2 red and 4 blue balls. If 2 balls are drawn without replacement, what is the probability both are blue?",
+      "options": [
+        {
+          "option": "2/5",
+          "is_answer": true
+        },
+        {
+          "option": "1/6"
+        },
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "An urn contains 3 red and 3 blue balls. If 2 balls are drawn with replacement, what is the probability both are blue?",
+      "options": [
+        {
+          "option": "1/4",
+          "is_answer": true
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "1/6"
+        }
+      ]
+    },
+    {
+      "question": "An urn contains 7 red and 3 blue balls. If 2 balls are drawn without replacement, what is the probability both are red?",
+      "options": [
+        {
+          "option": "7/15",
+          "is_answer": true
+        },
+        {
+          "option": "2/5"
+        },
+        {
+          "option": "3/10"
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "An urn contains 4 red and 6 blue balls. If 2 balls are drawn without replacement, what is the probability both are red?",
+      "options": [
+        {
+          "option": "2/15",
+          "is_answer": true
+        },
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "1/5"
+        },
+        {
+          "option": "4/25"
+        }
+      ]
+    },
+    {
+      "question": "An urn contains 5 red and 5 blue balls. If 2 balls are drawn without replacement, what is the probability both are blue?",
+      "options": [
+        {
+          "option": "1/5"
+        },
+        {
+          "option": "2/9",
+          "is_answer": true
+        },
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "An urn contains 2 red and 2 blue balls. If 2 balls are drawn with replacement, what is the probability they are the same color?",
+      "options": [
+        {
+          "option": "1/2",
+          "is_answer": true
+        },
+        {
+          "option": "3/4"
+        },
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "1/3"
+        }
+      ]
+    },
+    {
+      "question": "What is the fundamental requirement for the events B1, B2, ..., Bn to form a partition of the sample space S?",
+      "options": [
+        {
+          "option": "They must be independent"
+        },
+        {
+          "option": "They must have equal probabilities"
+        },
+        {
+          "option": "They must be empty sets"
+        },
+        {
+          "option": "They must be mutually exclusive and collectively exhaustive",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If P(A|B1) = 0.5, P(B1) = 0.4, P(A|B2) = 0.3, and P(B2) = 0.6, what is P(A)?",
+      "options": [
+        {
+          "option": "0.20"
+        },
+        {
+          "option": "0.80"
+        },
+        {
+          "option": "0.38",
+          "is_answer": true
+        },
+        {
+          "option": "0.45"
+        }
+      ]
+    },
+    {
+      "question": "The Law of Total Probability relates the marginal probability of an event A to what?",
+      "options": [
+        {
+          "option": "The complement of event A"
+        },
+        {
+          "option": "Conditional probabilities given a partition",
+          "is_answer": true
+        },
+        {
+          "option": "The intersection of all events"
+        },
+        {
+          "option": "The union of all events"
+        }
+      ]
+    },
+    {
+      "question": "If a sample space is partitioned into B1 and B2, what is the sum of P(B1) and P(B2)?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "Which formula represents the Law of Total Probability for a partition B1, B2, ..., Bn?",
+      "options": [
+        {
+          "option": "P(A) = Σ P(A)P(Bi)"
+        },
+        {
+          "option": "P(A) = Σ P(Bi|A)"
+        },
+        {
+          "option": "P(A) = Π P(A|Bi)"
+        },
+        {
+          "option": "P(A) = Σ P(Bi)P(A|Bi)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If P(B1) = 0.2, P(B2) = 0.3, P(B3) = 0.5, and P(A|B1)=0.1, P(A|B2)=0.2, P(A|B3)=0.3, what is P(A)?",
+      "options": [
+        {
+          "option": "0.23",
+          "is_answer": true
+        },
+        {
+          "option": "0.60"
+        },
+        {
+          "option": "0.15"
+        },
+        {
+          "option": "0.50"
+        }
+      ]
+    },
+    {
+      "question": "In the context of total probability, what does P(A|Bi) represent?",
+      "options": [
+        {
+          "option": "The conditional probability of A given Bi",
+          "is_answer": true
+        },
+        {
+          "option": "The probability of A and Bi"
+        },
+        {
+          "option": "The probability of Bi given A"
+        },
+        {
+          "option": "The marginal probability of Bi"
+        }
+      ]
+    },
+    {
+      "question": "If events B1 and B2 form a partition, then P(A) is equal to:",
+      "options": [
+        {
+          "option": "P(A|B1)P(B1) + P(A|B2)P(B2)",
+          "is_answer": true
+        },
+        {
+          "option": "P(A|B1)P(B2) + P(A|B2)P(B1)"
+        },
+        {
+          "option": "P(A|B1) + P(A|B2)"
+        },
+        {
+          "option": "P(A|B1) / P(B1)"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is a necessary condition for a set of events to be a partition?",
+      "options": [
+        {
+          "option": "They must be independent"
+        },
+        {
+          "option": "They must be equally likely"
+        },
+        {
+          "option": "Their union must be the sample space",
+          "is_answer": true
+        },
+        {
+          "option": "They must be subsets of each other"
+        }
+      ]
+    },
+    {
+      "question": "If P(B1) = 0.4 and P(B2) = 0.6, and P(A|B1) = 0.2, P(A|B2) = 0.2, what is P(A)?",
+      "options": [
+        {
+          "option": "0.8"
+        },
+        {
+          "option": "0.6"
+        },
+        {
+          "option": "0.2",
+          "is_answer": true
+        },
+        {
+          "option": "0.4"
+        }
+      ]
+    },
+    {
+      "question": "The Law of Total Probability is a direct consequence of which rule?",
+      "options": [
+        {
+          "option": "Multiplication rule for probability",
+          "is_answer": true
+        },
+        {
+          "option": "Addition rule for independent events"
+        },
+        {
+          "option": "Complement rule"
+        },
+        {
+          "option": "Bayes' Theorem"
+        }
+      ]
+    },
+    {
+      "question": "If a partition consists of n events, how many terms are in the sum for P(A)?",
+      "options": [
+        {
+          "option": "n",
+          "is_answer": true
+        },
+        {
+          "option": "n-1"
+        },
+        {
+          "option": "2n"
+        },
+        {
+          "option": "n+1"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of the union of all events in a partition?",
+      "options": [
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "Cannot be determined"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If P(A|B1) = 1, what does this imply about the relationship between A and B1?",
+      "options": [
+        {
+          "option": "A and B1 are disjoint"
+        },
+        {
+          "option": "A and B1 are independent"
+        },
+        {
+          "option": "A is a subset of B1"
+        },
+        {
+          "option": "B1 is a subset of A",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Can the Law of Total Probability be applied if the events are not mutually exclusive?",
+      "options": [
+        {
+          "option": "Yes, always"
+        },
+        {
+          "option": "Only if the probability is 1"
+        },
+        {
+          "option": "Only if they are independent"
+        },
+        {
+          "option": "No, they must be mutually exclusive",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If P(B1) = 0.5, P(B2) = 0.5, P(A|B1) = 0.4, P(A|B2) = 0.6, what is P(A)?",
+      "options": [
+        {
+          "option": "1.0"
+        },
+        {
+          "option": "0.4"
+        },
+        {
+          "option": "0.5",
+          "is_answer": true
+        },
+        {
+          "option": "0.6"
+        }
+      ]
+    },
+    {
+      "question": "What is the intersection of any two distinct events in a partition?",
+      "options": [
+        {
+          "option": "Empty set",
+          "is_answer": true
+        },
+        {
+          "option": "Sample space"
+        },
+        {
+          "option": "Cannot be determined"
+        },
+        {
+          "option": "The event itself"
+        }
+      ]
+    },
+    {
+      "question": "If P(A) = 0.7 and P(A|B1) = 0.7, what does this suggest about A and B1?",
+      "options": [
+        {
+          "option": "They are mutually exclusive"
+        },
+        {
+          "option": "They might be independent",
+          "is_answer": true
+        },
+        {
+          "option": "They are disjoint"
+        },
+        {
+          "option": "They are identical"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is a requirement for the Law of Total Probability?",
+      "options": [
+        {
+          "option": "The probability of A must be 0"
+        },
+        {
+          "option": "The events must be independent"
+        },
+        {
+          "option": "The events must partition the sample space",
+          "is_answer": true
+        },
+        {
+          "option": "The events must be equal in size"
+        }
+      ]
+    },
+    {
+      "question": "If P(B1) = 0.3, P(B2) = 0.7, P(A|B1) = 0.5, P(A|B2) = 0.1, what is P(A)?",
+      "options": [
+        {
+          "option": "0.15"
+        },
+        {
+          "option": "0.40"
+        },
+        {
+          "option": "0.22",
+          "is_answer": true
+        },
+        {
+          "option": "0.30"
+        }
+      ]
+    },
+    {
+      "question": "What is the primary purpose of Bayes' Theorem in medical diagnostics?",
+      "options": [
+        {
+          "option": "To determine the total number of patients in a hospital"
+        },
+        {
+          "option": "To calculate the probability of a disease given a positive test result",
+          "is_answer": true
+        },
+        {
+          "option": "To find the average age of patients"
+        },
+        {
+          "option": "To calculate the cost of medical equipment"
+        }
+      ]
+    },
+    {
+      "question": "In the formula P(Bi|A) = [P(Bi) * P(A|Bi)] / Sum[P(Bk) * P(A|Bk)], what does P(A|Bi) represent?",
+      "options": [
+        {
+          "option": "The probability of having the disease"
+        },
+        {
+          "option": "The probability of not having the disease"
+        },
+        {
+          "option": "The probability of testing positive given the patient has the disease",
+          "is_answer": true
+        },
+        {
+          "option": "The probability of testing positive"
+        }
+      ]
+    },
+    {
+      "question": "If a test has a sensitivity of 100%, what is P(A|Bi) where Bi is the event of having the disease?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0.1"
+        }
+      ]
+    },
+    {
+      "question": "What is the 'Prior Probability' in the context of Bayes' Theorem?",
+      "options": [
+        {
+          "option": "The probability of the disease before the test result is known",
+          "is_answer": true
+        },
+        {
+          "option": "The probability of the patient being healthy"
+        },
+        {
+          "option": "The probability of the test being negative"
+        },
+        {
+          "option": "The probability of the test being accurate"
+        }
+      ]
+    },
+    {
+      "question": "If the prevalence of a disease is 1%, what is P(Bi)?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "0.1"
+        },
+        {
+          "option": "0.99"
+        },
+        {
+          "option": "0.01",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What does the denominator Sum[P(Bk) * P(A|Bk)] represent in Bayes' Theorem?",
+      "options": [
+        {
+          "option": "The probability of the disease"
+        },
+        {
+          "option": "The probability of a false positive"
+        },
+        {
+          "option": "The probability of a false negative"
+        },
+        {
+          "option": "The total probability of the test result A",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If a test has a specificity of 90%, what is the probability of a healthy person testing negative?",
+      "options": [
+        {
+          "option": "0.09"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0.1"
+        },
+        {
+          "option": "0.9",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is a 'False Positive' in medical testing?",
+      "options": [
+        {
+          "option": "Testing negative when the patient is healthy"
+        },
+        {
+          "option": "Testing positive when the patient has the disease"
+        },
+        {
+          "option": "Testing positive when the patient does not have the disease",
+          "is_answer": true
+        },
+        {
+          "option": "Testing negative when the patient has the disease"
+        }
+      ]
+    },
+    {
+      "question": "If P(A|Bi) = 0.95 and P(A|not Bi) = 0.05, what is the test's sensitivity?",
+      "options": [
+        {
+          "option": "0.05"
+        },
+        {
+          "option": "0.95",
+          "is_answer": true
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0.9"
+        }
+      ]
+    },
+    {
+      "question": "Bayes' Theorem is used to update the probability of a hypothesis based on what?",
+      "options": [
+        {
+          "option": "Old guesses"
+        },
+        {
+          "option": "Random chance"
+        },
+        {
+          "option": "The number of doctors"
+        },
+        {
+          "option": "New evidence",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If a disease is very rare, how does it affect the probability of having the disease given a positive test?",
+      "options": [
+        {
+          "option": "It increases the probability"
+        },
+        {
+          "option": "It has no effect"
+        },
+        {
+          "option": "It makes the probability 1"
+        },
+        {
+          "option": "It decreases the probability",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the complement of the event 'having the disease'?",
+      "options": [
+        {
+          "option": "Having a different disease"
+        },
+        {
+          "option": "Being cured"
+        },
+        {
+          "option": "Not having the disease",
+          "is_answer": true
+        },
+        {
+          "option": "Being tested"
+        }
+      ]
+    },
+    {
+      "question": "Which term in Bayes' Theorem represents the 'Posterior Probability'?",
+      "options": [
+        {
+          "option": "P(Bi)"
+        },
+        {
+          "option": "P(A)"
+        },
+        {
+          "option": "P(Bi|A)",
+          "is_answer": true
+        },
+        {
+          "option": "P(A|Bi)"
+        }
+      ]
+    },
+    {
+      "question": "If P(A|Bi) = 0.9 and P(Bi) = 0.1, what is the numerator of Bayes' Theorem?",
+      "options": [
+        {
+          "option": "0.1"
+        },
+        {
+          "option": "0.09",
+          "is_answer": true
+        },
+        {
+          "option": "0.01"
+        },
+        {
+          "option": "0.9"
+        }
+      ]
+    },
+    {
+      "question": "What does P(A) represent in the context of the total probability theorem?",
+      "options": [
+        {
+          "option": "The probability of the patient being healthy"
+        },
+        {
+          "option": "The probability of the test being wrong"
+        },
+        {
+          "option": "The total probability of the test result",
+          "is_answer": true
+        },
+        {
+          "option": "The probability of the patient being sick"
+        }
+      ]
+    },
+    {
+      "question": "If a test is 100% specific, what is the probability of a false positive?",
+      "options": [
+        {
+          "option": "0.1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "In Bayes' Theorem, what does 'Bi' typically represent?",
+      "options": [
+        {
+          "option": "The test result"
+        },
+        {
+          "option": "The probability of the test"
+        },
+        {
+          "option": "A specific state or hypothesis (e.g., having a disease)",
+          "is_answer": true
+        },
+        {
+          "option": "The total population"
+        }
+      ]
+    },
+    {
+      "question": "If the probability of having a disease is 0.05, what is the probability of not having it?",
+      "options": [
+        {
+          "option": "0.95",
+          "is_answer": true
+        },
+        {
+          "option": "0.1"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0.05"
+        }
+      ]
+    },
+    {
+      "question": "What is the relationship between sensitivity and the false negative rate?",
+      "options": [
+        {
+          "option": "Sensitivity = 0"
+        },
+        {
+          "option": "Sensitivity = 1 - False Negative Rate",
+          "is_answer": true
+        },
+        {
+          "option": "Sensitivity = False Negative Rate"
+        },
+        {
+          "option": "Sensitivity = 1 + False Negative Rate"
+        }
+      ]
+    },
+    {
+      "question": "Why is Bayes' Theorem important in clinical practice?",
+      "options": [
+        {
+          "option": "It makes tests 100% accurate"
+        },
+        {
+          "option": "It reduces the cost of medicine"
+        },
+        {
+          "option": "It helps interpret test results based on prevalence",
+          "is_answer": true
+        },
+        {
+          "option": "It eliminates the need for testing"
+        }
+      ]
+    },
+    {
+      "question": "In the binomial distribution formula, what does 'n' represent?",
+      "options": [
+        {
+          "option": "Number of successes"
+        },
+        {
+          "option": "Probability of failure"
+        },
+        {
+          "option": "Total number of trials",
+          "is_answer": true
+        },
+        {
+          "option": "Probability of success"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of success denoted by in the binomial formula?",
+      "options": [
+        {
+          "option": "k"
+        },
+        {
+          "option": "n"
+        },
+        {
+          "option": "p",
+          "is_answer": true
+        },
+        {
+          "option": "q"
+        }
+      ]
+    },
+    {
+      "question": "In a binomial distribution, what is the sum of p and q (where q = 1-p)?",
+      "options": [
+        {
+          "option": "n"
+        },
+        {
+          "option": "k"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What does 'k' represent in the binomial probability formula P(X=k)?",
+      "options": [
+        {
+          "option": "Total trials"
+        },
+        {
+          "option": "Mean of distribution"
+        },
+        {
+          "option": "Number of successes",
+          "is_answer": true
+        },
+        {
+          "option": "Probability of failure"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is the correct binomial coefficient formula?",
+      "options": [
+        {
+          "option": "n! / k!"
+        },
+        {
+          "option": "n! / (n-k)!"
+        },
+        {
+          "option": "k! / (n-k)!"
+        },
+        {
+          "option": "n! / (k!(n-k)!)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If n=5 and p=0.5, what is the probability of 0 successes?",
+      "options": [
+        {
+          "option": "0.03125",
+          "is_answer": true
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0.05"
+        },
+        {
+          "option": "0.1"
+        }
+      ]
+    },
+    {
+      "question": "What is the mean of a binomial distribution?",
+      "options": [
+        {
+          "option": "np",
+          "is_answer": true
+        },
+        {
+          "option": "sqrt(npq)"
+        },
+        {
+          "option": "npq"
+        },
+        {
+          "option": "n(1-p)"
+        }
+      ]
+    },
+    {
+      "question": "What is the variance of a binomial distribution?",
+      "options": [
+        {
+          "option": "sqrt(npq)"
+        },
+        {
+          "option": "n(1-p)"
+        },
+        {
+          "option": "np"
+        },
+        {
+          "option": "npq",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In binomial distribution, trials must be:",
+      "options": [
+        {
+          "option": "Continuous"
+        },
+        {
+          "option": "Independent",
+          "is_answer": true
+        },
+        {
+          "option": "Infinite"
+        },
+        {
+          "option": "Dependent"
+        }
+      ]
+    },
+    {
+      "question": "What is the standard deviation of a binomial distribution?",
+      "options": [
+        {
+          "option": "sqrt(npq)",
+          "is_answer": true
+        },
+        {
+          "option": "np"
+        },
+        {
+          "option": "n(1-p)"
+        },
+        {
+          "option": "npq"
+        }
+      ]
+    },
+    {
+      "question": "If a coin is tossed 3 times, what is the value of n?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The binomial distribution is applicable for which type of data?",
+      "options": [
+        {
+          "option": "Continuous"
+        },
+        {
+          "option": "Random"
+        },
+        {
+          "option": "Infinite"
+        },
+        {
+          "option": "Discrete",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of nC0?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "n"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "n!"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of nCn?",
+      "options": [
+        {
+          "option": "n"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "n!"
+        }
+      ]
+    },
+    {
+      "question": "In binomial distribution, the probability of success 'p' must be:",
+      "options": [
+        {
+          "option": "0 <= p <= 1",
+          "is_answer": true
+        },
+        {
+          "option": "p < 0"
+        },
+        {
+          "option": "p = 2"
+        },
+        {
+          "option": "p > 1"
+        }
+      ]
+    },
+    {
+      "question": "If n=1, the binomial distribution is known as:",
+      "options": [
+        {
+          "option": "Poisson distribution"
+        },
+        {
+          "option": "Normal distribution"
+        },
+        {
+          "option": "Bernoulli distribution",
+          "is_answer": true
+        },
+        {
+          "option": "Uniform distribution"
+        }
+      ]
+    },
+    {
+      "question": "How many outcomes are possible in each Bernoulli trial?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "Which parameter determines the shape of the binomial distribution?",
+      "options": [
+        {
+          "option": "p",
+          "is_answer": true
+        },
+        {
+          "option": "n!"
+        },
+        {
+          "option": "q!"
+        },
+        {
+          "option": "k"
+        }
+      ]
+    },
+    {
+      "question": "The binomial distribution is symmetric if:",
+      "options": [
+        {
+          "option": "p > 0.5"
+        },
+        {
+          "option": "n = 0"
+        },
+        {
+          "option": "p < 0.5"
+        },
+        {
+          "option": "p = 0.5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of failure 'q' in terms of 'p'?",
+      "options": [
+        {
+          "option": "p - 1"
+        },
+        {
+          "option": "p / 1"
+        },
+        {
+          "option": "1 - p",
+          "is_answer": true
+        },
+        {
+          "option": "1 + p"
+        }
+      ]
+    },
+    {
+      "question": "For a binomial distribution with n=10 and p=0.5, what is the mean?",
+      "options": [
+        {
+          "option": "2.5"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "0.5"
+        }
+      ]
+    },
+    {
+      "question": "What is the formula for the variance of a binomial distribution?",
+      "options": [
+        {
+          "option": "sqrt(np(1-p))"
+        },
+        {
+          "option": "np^2"
+        },
+        {
+          "option": "np"
+        },
+        {
+          "option": "np(1-p)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If n=20 and p=0.2, what is the variance?",
+      "options": [
+        {
+          "option": "0.8"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "3.2",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "For a binomial distribution, if mean is 4 and p=0.5, what is n?",
+      "options": [
+        {
+          "option": "16"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If n=100 and p=0.1, what is the mean?",
+      "options": [
+        {
+          "option": "0.1"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "90"
+        }
+      ]
+    },
+    {
+      "question": "In a binomial distribution, the variance is always:",
+      "options": [
+        {
+          "option": "Less than the mean",
+          "is_answer": true
+        },
+        {
+          "option": "Greater than the mean"
+        },
+        {
+          "option": "Independent of the mean"
+        },
+        {
+          "option": "Equal to the mean"
+        }
+      ]
+    },
+    {
+      "question": "If n=10 and p=0.2, what is the standard deviation?",
+      "options": [
+        {
+          "option": "1.6"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "1.26",
+          "is_answer": true
+        },
+        {
+          "option": "0.8"
+        }
+      ]
+    },
+    {
+      "question": "Which parameter represents the probability of success in a binomial distribution?",
+      "options": [
+        {
+          "option": "mu"
+        },
+        {
+          "option": "q"
+        },
+        {
+          "option": "n"
+        },
+        {
+          "option": "p",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If mean = 12 and variance = 3, what is p?",
+      "options": [
+        {
+          "option": "0.25"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0.75",
+          "is_answer": true
+        },
+        {
+          "option": "0.2"
+        }
+      ]
+    },
+    {
+      "question": "If n=50 and p=0.4, what is the mean?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "0.4"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of q in a binomial distribution if p=0.3?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "0.3"
+        },
+        {
+          "option": "0.7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If mean = 5 and n = 10, what is p?",
+      "options": [
+        {
+          "option": "0.2"
+        },
+        {
+          "option": "0.8"
+        },
+        {
+          "option": "0.1"
+        },
+        {
+          "option": "0.5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The variance of a binomial distribution is maximum when p is:",
+      "options": [
+        {
+          "option": "0.9"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "0.5",
+          "is_answer": true
+        },
+        {
+          "option": "0.1"
+        }
+      ]
+    },
+    {
+      "question": "If n=10 and p=0.5, what is the variance?",
+      "options": [
+        {
+          "option": "1.25"
+        },
+        {
+          "option": "2.5",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "0.5"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is true for a binomial distribution?",
+      "options": [
+        {
+          "option": "Mean = Variance"
+        },
+        {
+          "option": "Mean < Variance"
+        },
+        {
+          "option": "Mean > Variance",
+          "is_answer": true
+        },
+        {
+          "option": "Mean + Variance = 1"
+        }
+      ]
+    },
+    {
+      "question": "If n=20 and p=0.5, what is the standard deviation?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "2.236",
+          "is_answer": true
+        },
+        {
+          "option": "2.5"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "If mean = 2 and variance = 1.6, what is n?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of n*p*q?",
+      "options": [
+        {
+          "option": "Probability"
+        },
+        {
+          "option": "Standard Deviation"
+        },
+        {
+          "option": "Mean"
+        },
+        {
+          "option": "Variance",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If p=0.8, what is q?",
+      "options": [
+        {
+          "option": "0.8"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "0.2",
+          "is_answer": true
+        },
+        {
+          "option": "1.8"
+        }
+      ]
+    },
+    {
+      "question": "Two people arrive independently at a station between 1:00 PM and 2:00 PM. What is the probability they arrive within 15 minutes of each other?",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "7/16",
+          "is_answer": true
+        },
+        {
+          "option": "3/8"
+        }
+      ]
+    },
+    {
+      "question": "A point is chosen uniformly at random on the interval [0, 10]. What is the probability that the point is less than 3?",
+      "options": [
+        {
+          "option": "0.7"
+        },
+        {
+          "option": "0.3",
+          "is_answer": true
+        },
+        {
+          "option": "0.1"
+        },
+        {
+          "option": "0.5"
+        }
+      ]
+    },
+    {
+      "question": "Two people arrive independently between 0 and 1 hour. What is the probability that the first person arrives before the second person?",
+      "options": [
+        {
+          "option": "0.25"
+        },
+        {
+          "option": "1.0"
+        },
+        {
+          "option": "0.75"
+        },
+        {
+          "option": "0.5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A point X is chosen uniformly from [0, 2]. What is the probability that X^2 < 1?",
+      "options": [
+        {
+          "option": "0.5",
+          "is_answer": true
+        },
+        {
+          "option": "1.0"
+        },
+        {
+          "option": "0.25"
+        },
+        {
+          "option": "0.75"
+        }
+      ]
+    },
+    {
+      "question": "If two people arrive independently between 0 and 60 minutes, what is the probability that the difference in their arrival times is greater than 30 minutes?",
+      "options": [
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0.1"
+        },
+        {
+          "option": "0.25",
+          "is_answer": true
+        },
+        {
+          "option": "0.75"
+        }
+      ]
+    },
+    {
+      "question": "A stick of length 1 is broken at a random point. What is the probability that the longer piece is at least twice the length of the shorter piece?",
+      "options": [
+        {
+          "option": "2/3",
+          "is_answer": true
+        },
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "A point is chosen in the interval [0, 5]. What is the probability the point is in [1, 2] or [4, 5]?",
+      "options": [
+        {
+          "option": "0.8"
+        },
+        {
+          "option": "0.2"
+        },
+        {
+          "option": "0.6"
+        },
+        {
+          "option": "0.4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Two people arrive at a meeting place between 12:00 and 1:00. What is the probability they arrive within 10 minutes of each other?",
+      "options": [
+        {
+          "option": "1/6"
+        },
+        {
+          "option": "11/36",
+          "is_answer": true
+        },
+        {
+          "option": "5/36"
+        },
+        {
+          "option": "1/3"
+        }
+      ]
+    },
+    {
+      "question": "A point X is chosen uniformly from [0, 1]. What is the probability that X > 0.8?",
+      "options": [
+        {
+          "option": "0.8"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0.1"
+        },
+        {
+          "option": "0.2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If a point is chosen in [0, 10], what is the probability it is an integer?",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0.1"
+        }
+      ]
+    },
+    {
+      "question": "Two people arrive independently between 0 and 60 minutes. What is the probability that the first person arrives in the first 20 minutes?",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "1/3",
+          "is_answer": true
+        },
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "2/3"
+        }
+      ]
+    },
+    {
+      "question": "A point is chosen in [0, 4]. What is the probability that the point is between 1 and 3?",
+      "options": [
+        {
+          "option": "0.75"
+        },
+        {
+          "option": "0.2"
+        },
+        {
+          "option": "0.25"
+        },
+        {
+          "option": "0.5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Two people arrive between 0 and 1 hour. What is the probability that both arrive in the second half hour?",
+      "options": [
+        {
+          "option": "0.75"
+        },
+        {
+          "option": "0.25",
+          "is_answer": true
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0.1"
+        }
+      ]
+    },
+    {
+      "question": "A point X is chosen from [0, 10]. What is the probability that X < 5 or X > 8?",
+      "options": [
+        {
+          "option": "0.8"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0.7",
+          "is_answer": true
+        },
+        {
+          "option": "0.3"
+        }
+      ]
+    },
+    {
+      "question": "Two people arrive between 0 and 1 hour. What is the probability that at least one arrives in the first 15 minutes?",
+      "options": [
+        {
+          "option": "3/4"
+        },
+        {
+          "option": "9/16"
+        },
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "7/16",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A point is chosen in [0, 2]. What is the probability that the point is exactly 1?",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "0.25"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "Two people arrive between 0 and 60 minutes. What is the probability that the second person arrives after the first?",
+      "options": [
+        {
+          "option": "0.25"
+        },
+        {
+          "option": "0.5",
+          "is_answer": true
+        },
+        {
+          "option": "1.0"
+        },
+        {
+          "option": "0.75"
+        }
+      ]
+    },
+    {
+      "question": "A point is chosen in [0, 1]. What is the probability that the point is in [0.2, 0.5]?",
+      "options": [
+        {
+          "option": "0.2"
+        },
+        {
+          "option": "0.7"
+        },
+        {
+          "option": "0.3",
+          "is_answer": true
+        },
+        {
+          "option": "0.5"
+        }
+      ]
+    },
+    {
+      "question": "Two people arrive between 0 and 1 hour. What is the probability that both arrive in the same 15-minute interval?",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "1/8"
+        },
+        {
+          "option": "1/16"
+        },
+        {
+          "option": "1/4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A point is chosen in [0, 100]. What is the probability that the point is less than 25?",
+      "options": [
+        {
+          "option": "0.1"
+        },
+        {
+          "option": "0.25",
+          "is_answer": true
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0.75"
+        }
+      ]
+    },
+    {
+      "question": "What is the expected value of a fair six-sided die roll?",
+      "options": [
+        {
+          "option": "2.5"
+        },
+        {
+          "option": "3.5",
+          "is_answer": true
+        },
+        {
+          "option": "4.0"
+        },
+        {
+          "option": "3.0"
+        }
+      ]
+    },
+    {
+      "question": "If a game is 'fair', what must the expected net payout be?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A coin is tossed. You win $2 for heads and lose $1 for tails. What is the expected value?",
+      "options": [
+        {
+          "option": "$0.50",
+          "is_answer": true
+        },
+        {
+          "option": "$1.00"
+        },
+        {
+          "option": "$0.75"
+        },
+        {
+          "option": "$0.25"
+        }
+      ]
+    },
+    {
+      "question": "If E(X) = 5 and E(Y) = 3, what is E(X + Y)?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the expected value of a constant 'c'?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "c^2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "c",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If you roll a die and win the number shown in dollars, what is the expected winning?",
+      "options": [
+        {
+          "option": "$3.00"
+        },
+        {
+          "option": "$6.00"
+        },
+        {
+          "option": "$4.00"
+        },
+        {
+          "option": "$3.50",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "For a random variable X, E(aX + b) is equal to:",
+      "options": [
+        {
+          "option": "E(X) + b"
+        },
+        {
+          "option": "aE(X) + b",
+          "is_answer": true
+        },
+        {
+          "option": "aE(X)"
+        },
+        {
+          "option": "a + E(X) + b"
+        }
+      ]
+    },
+    {
+      "question": "If P(X=1) = 0.5 and P(X=0) = 0.5, what is E(X)?",
+      "options": [
+        {
+          "option": "0.25"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0.5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Expected value is also known as:",
+      "options": [
+        {
+          "option": "Mean",
+          "is_answer": true
+        },
+        {
+          "option": "Median"
+        },
+        {
+          "option": "Variance"
+        },
+        {
+          "option": "Mode"
+        }
+      ]
+    },
+    {
+      "question": "If a lottery ticket costs $1 and has a 1/100 chance of winning $50, what is the expected net gain?",
+      "options": [
+        {
+          "option": "$1.00"
+        },
+        {
+          "option": "$0.50"
+        },
+        {
+          "option": "$0"
+        },
+        {
+          "option": "-$0.50",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the expected value of the sum of two independent dice?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If E(X) = 10, what is E(2X)?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "A game has outcomes 10, 20, 30 with probabilities 0.2, 0.5, 0.3. What is E(X)?",
+      "options": [
+        {
+          "option": "21",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is true for expected value?",
+      "options": [
+        {
+          "option": "E(X+Y) = E(X) + E(Y)",
+          "is_answer": true
+        },
+        {
+          "option": "E(X+Y) = E(X) - E(Y)"
+        },
+        {
+          "option": "E(X+Y) = E(X) * E(Y)"
+        },
+        {
+          "option": "E(X+Y) = 0"
+        }
+      ]
+    },
+    {
+      "question": "If you flip a coin twice, what is the expected number of heads?",
+      "options": [
+        {
+          "option": "1.5"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the expected value of a random variable that is always 5?",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "If E(X) = 4 and E(Y) = 2, what is E(X - Y)?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "-2"
+        }
+      ]
+    },
+    {
+      "question": "In a game, you win $10 with probability 0.1 and lose $1 with probability 0.9. What is E(X)?",
+      "options": [
+        {
+          "option": "$0.10",
+          "is_answer": true
+        },
+        {
+          "option": "$1.00"
+        },
+        {
+          "option": "-$0.10"
+        },
+        {
+          "option": "$0"
+        }
+      ]
+    },
+    {
+      "question": "If a game is not fair, the expected value is:",
+      "options": [
+        {
+          "option": "Zero"
+        },
+        {
+          "option": "Positive"
+        },
+        {
+          "option": "Not zero",
+          "is_answer": true
+        },
+        {
+          "option": "Negative"
+        }
+      ]
+    },
+    {
+      "question": "What is the expected value of a Bernoulli trial with success probability p?",
+      "options": [
+        {
+          "option": "p",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "1-p"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "What is the formula for the Poisson probability mass function P(X=k)?",
+      "options": [
+        {
+          "option": "(λ^k * e^λ) / k!"
+        },
+        {
+          "option": "(λ^k * e^-λ) / k!",
+          "is_answer": true
+        },
+        {
+          "option": "(k^λ * e^-k) / λ!"
+        },
+        {
+          "option": "(e^-λ * k!) / λ^k"
+        }
+      ]
+    },
+    {
+      "question": "What does the parameter λ (lambda) represent in a Poisson distribution?",
+      "options": [
+        {
+          "option": "Probability of failure"
+        },
+        {
+          "option": "Average rate of occurrence",
+          "is_answer": true
+        },
+        {
+          "option": "Standard deviation"
+        },
+        {
+          "option": "Maximum value of X"
+        }
+      ]
+    },
+    {
+      "question": "In a Poisson distribution, what is the relationship between the mean and the variance?",
+      "options": [
+        {
+          "option": "Mean is less than variance"
+        },
+        {
+          "option": "Mean is square of variance"
+        },
+        {
+          "option": "Mean is greater than variance"
+        },
+        {
+          "option": "Mean equals variance",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of e (Euler's number) approximately used in Poisson calculations?",
+      "options": [
+        {
+          "option": "0.577"
+        },
+        {
+          "option": "1.618"
+        },
+        {
+          "option": "3.141"
+        },
+        {
+          "option": "2.718",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is a requirement for a Poisson process?",
+      "options": [
+        {
+          "option": "Events occur independently",
+          "is_answer": true
+        },
+        {
+          "option": "The rate λ changes over time"
+        },
+        {
+          "option": "Probability of two events at once is high"
+        },
+        {
+          "option": "Events occur at a fixed interval"
+        }
+      ]
+    },
+    {
+      "question": "If λ = 3, what is the probability of 0 events occurring (P(X=0))?",
+      "options": [
+        {
+          "option": "e^-3",
+          "is_answer": true
+        },
+        {
+          "option": "e^3"
+        },
+        {
+          "option": "1 / e^3"
+        },
+        {
+          "option": "3 * e^-3"
+        }
+      ]
+    },
+    {
+      "question": "What is the range of the random variable X in a Poisson distribution?",
+      "options": [
+        {
+          "option": "0 to 1"
+        },
+        {
+          "option": "1, 2, 3, ..."
+        },
+        {
+          "option": "0, 1, 2, ...",
+          "is_answer": true
+        },
+        {
+          "option": "-∞ to +∞"
+        }
+      ]
+    },
+    {
+      "question": "What is the standard deviation of a Poisson distribution with parameter λ?",
+      "options": [
+        {
+          "option": "λ"
+        },
+        {
+          "option": "sqrt(λ)",
+          "is_answer": true
+        },
+        {
+          "option": "λ^2"
+        },
+        {
+          "option": "1/λ"
+        }
+      ]
+    },
+    {
+      "question": "Which distribution is often used to model the number of rare events in a fixed time?",
+      "options": [
+        {
+          "option": "Binomial distribution"
+        },
+        {
+          "option": "Poisson distribution",
+          "is_answer": true
+        },
+        {
+          "option": "Uniform distribution"
+        },
+        {
+          "option": "Normal distribution"
+        }
+      ]
+    },
+    {
+      "question": "In a Poisson distribution, what is the sum of all probabilities P(X=k) for k=0 to infinity?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "e"
+        },
+        {
+          "option": "λ"
+        }
+      ]
+    },
+    {
+      "question": "What happens to the Poisson distribution as λ becomes very large?",
+      "options": [
+        {
+          "option": "It approaches zero"
+        },
+        {
+          "option": "It approaches a Normal distribution",
+          "is_answer": true
+        },
+        {
+          "option": "It approaches a Binomial distribution"
+        },
+        {
+          "option": "It becomes a constant"
+        }
+      ]
+    },
+    {
+      "question": "If the average number of emails per hour is 5, what is λ?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of 1 event occurring if λ=1?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "e"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "1/e",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a characteristic of the Poisson distribution?",
+      "options": [
+        {
+          "option": "Finite upper bound"
+        },
+        {
+          "option": "Continuous random variable"
+        },
+        {
+          "option": "Symmetric shape for all λ"
+        },
+        {
+          "option": "Discrete random variable",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the variance of a Poisson distribution with λ=4?",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "The Poisson distribution is a limiting case of which distribution?",
+      "options": [
+        {
+          "option": "Normal distribution"
+        },
+        {
+          "option": "Exponential distribution"
+        },
+        {
+          "option": "Binomial distribution",
+          "is_answer": true
+        },
+        {
+          "option": "Chi-square distribution"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of P(X=k) if k is not an integer?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "λ"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "e^-λ"
+        }
+      ]
+    },
+    {
+      "question": "In a Poisson process, what is the probability of two events occurring at the exact same instant?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "λ"
+        },
+        {
+          "option": "0.5"
+        }
+      ]
+    },
+    {
+      "question": "Which mathematician is the Poisson distribution named after?",
+      "options": [
+        {
+          "option": "Siméon Denis Poisson",
+          "is_answer": true
+        },
+        {
+          "option": "Pierre-Simon Laplace"
+        },
+        {
+          "option": "Blaise Pascal"
+        },
+        {
+          "option": "Carl Friedrich Gauss"
+        }
+      ]
+    },
+    {
+      "question": "If λ=2, what is the mean of the distribution?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "If the odds in favor of an event are 3:2, what is the probability of the event occurring?",
+      "options": [
+        {
+          "option": "2/3"
+        },
+        {
+          "option": "3/2"
+        },
+        {
+          "option": "3/5",
+          "is_answer": true
+        },
+        {
+          "option": "2/5"
+        }
+      ]
+    },
+    {
+      "question": "If the probability of an event is 1/4, what are the odds in favor of the event?",
+      "options": [
+        {
+          "option": "3:1"
+        },
+        {
+          "option": "4:1"
+        },
+        {
+          "option": "1:3",
+          "is_answer": true
+        },
+        {
+          "option": "1:4"
+        }
+      ]
+    },
+    {
+      "question": "If the odds against an event are 5:2, what is the probability of the event occurring?",
+      "options": [
+        {
+          "option": "5/2"
+        },
+        {
+          "option": "5/7"
+        },
+        {
+          "option": "2/5"
+        },
+        {
+          "option": "2/7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the probability of an event is 0.6, what are the odds in favor of the event?",
+      "options": [
+        {
+          "option": "6:10"
+        },
+        {
+          "option": "10:6"
+        },
+        {
+          "option": "3:2",
+          "is_answer": true
+        },
+        {
+          "option": "2:3"
+        }
+      ]
+    },
+    {
+      "question": "If the odds in favor of an event are 1:1, what is the probability of the event?",
+      "options": [
+        {
+          "option": "2/1"
+        },
+        {
+          "option": "1/1"
+        },
+        {
+          "option": "1/2",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "If the odds against an event are 4:1, what is the probability of the event NOT occurring?",
+      "options": [
+        {
+          "option": "4/5",
+          "is_answer": true
+        },
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "1/5"
+        },
+        {
+          "option": "4/1"
+        }
+      ]
+    },
+    {
+      "question": "If the probability of an event is 2/3, what are the odds against the event?",
+      "options": [
+        {
+          "option": "3:1"
+        },
+        {
+          "option": "2:1"
+        },
+        {
+          "option": "1:2",
+          "is_answer": true
+        },
+        {
+          "option": "1:3"
+        }
+      ]
+    },
+    {
+      "question": "If the odds in favor of an event are 7:3, what is the probability of the event?",
+      "options": [
+        {
+          "option": "7/3"
+        },
+        {
+          "option": "3/10"
+        },
+        {
+          "option": "7/10",
+          "is_answer": true
+        },
+        {
+          "option": "3/7"
+        }
+      ]
+    },
+    {
+      "question": "If the probability of an event is 0.25, what are the odds against the event?",
+      "options": [
+        {
+          "option": "3:1",
+          "is_answer": true
+        },
+        {
+          "option": "1:3"
+        },
+        {
+          "option": "4:1"
+        },
+        {
+          "option": "1:4"
+        }
+      ]
+    },
+    {
+      "question": "If the odds against an event are 9:1, what is the probability of the event?",
+      "options": [
+        {
+          "option": "1/9"
+        },
+        {
+          "option": "9/1"
+        },
+        {
+          "option": "9/10"
+        },
+        {
+          "option": "1/10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the probability of an event is 5/8, what are the odds in favor of the event?",
+      "options": [
+        {
+          "option": "3:5"
+        },
+        {
+          "option": "5:3",
+          "is_answer": true
+        },
+        {
+          "option": "5:8"
+        },
+        {
+          "option": "8:5"
+        }
+      ]
+    },
+    {
+      "question": "If the odds in favor of an event are 4:5, what is the probability of the event?",
+      "options": [
+        {
+          "option": "5/4"
+        },
+        {
+          "option": "4/5"
+        },
+        {
+          "option": "4/9",
+          "is_answer": true
+        },
+        {
+          "option": "5/9"
+        }
+      ]
+    },
+    {
+      "question": "If the probability of an event is 0.8, what are the odds in favor of the event?",
+      "options": [
+        {
+          "option": "1:4"
+        },
+        {
+          "option": "2:8"
+        },
+        {
+          "option": "8:2"
+        },
+        {
+          "option": "4:1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the odds against an event are 2:3, what is the probability of the event?",
+      "options": [
+        {
+          "option": "3/5",
+          "is_answer": true
+        },
+        {
+          "option": "2/3"
+        },
+        {
+          "option": "2/5"
+        },
+        {
+          "option": "3/2"
+        }
+      ]
+    },
+    {
+      "question": "If the probability of an event is 1/6, what are the odds against the event?",
+      "options": [
+        {
+          "option": "6:1"
+        },
+        {
+          "option": "5:1",
+          "is_answer": true
+        },
+        {
+          "option": "1:6"
+        },
+        {
+          "option": "1:5"
+        }
+      ]
+    },
+    {
+      "question": "If the odds in favor of an event are 1:9, what is the probability of the event?",
+      "options": [
+        {
+          "option": "9/1"
+        },
+        {
+          "option": "1/9"
+        },
+        {
+          "option": "1/10",
+          "is_answer": true
+        },
+        {
+          "option": "9/10"
+        }
+      ]
+    },
+    {
+      "question": "If the probability of an event is 0.5, what are the odds in favor of the event?",
+      "options": [
+        {
+          "option": "1:1",
+          "is_answer": true
+        },
+        {
+          "option": "5:5"
+        },
+        {
+          "option": "1:2"
+        },
+        {
+          "option": "2:1"
+        }
+      ]
+    },
+    {
+      "question": "If the odds against an event are 3:7, what is the probability of the event?",
+      "options": [
+        {
+          "option": "3/10"
+        },
+        {
+          "option": "3/7"
+        },
+        {
+          "option": "7/3"
+        },
+        {
+          "option": "7/10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the probability of an event is 3/4, what are the odds against the event?",
+      "options": [
+        {
+          "option": "3:1"
+        },
+        {
+          "option": "1:4"
+        },
+        {
+          "option": "4:1"
+        },
+        {
+          "option": "1:3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the odds in favor of an event are 2:5, what is the probability of the event?",
+      "options": [
+        {
+          "option": "2/7",
+          "is_answer": true
+        },
+        {
+          "option": "2/5"
+        },
+        {
+          "option": "5/7"
+        },
+        {
+          "option": "5/2"
+        }
+      ]
+    },
+    {
+      "question": "If two archers have hit probabilities of 0.5 and 0.5, what is the probability that the target is hit at least once?",
+      "options": [
+        {
+          "option": "1.0"
+        },
+        {
+          "option": "0.25"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0.75",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Three archers have hit probabilities of 0.1, 0.2, and 0.3. What is the probability that the target is missed by all?",
+      "options": [
+        {
+          "option": "0.496"
+        },
+        {
+          "option": "0.504",
+          "is_answer": true
+        },
+        {
+          "option": "0.006"
+        },
+        {
+          "option": "0.994"
+        }
+      ]
+    },
+    {
+      "question": "If an archer has a hit probability of 0.8, what is the probability they miss the target?",
+      "options": [
+        {
+          "option": "0.8"
+        },
+        {
+          "option": "0.0"
+        },
+        {
+          "option": "1.0"
+        },
+        {
+          "option": "0.2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Two archers have hit probabilities p1=0.4 and p2=0.6. What is the probability that at least one hits the target?",
+      "options": [
+        {
+          "option": "0.4"
+        },
+        {
+          "option": "0.6"
+        },
+        {
+          "option": "0.24"
+        },
+        {
+          "option": "0.76",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the probability of hitting a target is 0.9, what is the probability of missing it twice in a row?",
+      "options": [
+        {
+          "option": "0.01",
+          "is_answer": true
+        },
+        {
+          "option": "0.81"
+        },
+        {
+          "option": "0.09"
+        },
+        {
+          "option": "0.1"
+        }
+      ]
+    },
+    {
+      "question": "Three archers have hit probabilities of 0.5, 0.5, and 0.5. What is the probability that the target is hit at least once?",
+      "options": [
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0.75"
+        },
+        {
+          "option": "0.125"
+        },
+        {
+          "option": "0.875",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If an archer hits the target with probability p, what is the probability of missing it?",
+      "options": [
+        {
+          "option": "1+p"
+        },
+        {
+          "option": "1-p",
+          "is_answer": true
+        },
+        {
+          "option": "p"
+        },
+        {
+          "option": "p^2"
+        }
+      ]
+    },
+    {
+      "question": "Two archers have hit probabilities 0.2 and 0.2. What is the probability that both hit the target?",
+      "options": [
+        {
+          "option": "0.4"
+        },
+        {
+          "option": "0.16"
+        },
+        {
+          "option": "0.36"
+        },
+        {
+          "option": "0.04",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the probability of hitting a target is 0.7, what is the probability of hitting it at least once in two independent attempts?",
+      "options": [
+        {
+          "option": "0.09"
+        },
+        {
+          "option": "0.49"
+        },
+        {
+          "option": "0.7"
+        },
+        {
+          "option": "0.91",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If three archers have hit probabilities p1, p2, p3, what is the probability that all three miss?",
+      "options": [
+        {
+          "option": "1-(1-p1)(1-p2)(1-p3)"
+        },
+        {
+          "option": "p1*p2*p3"
+        },
+        {
+          "option": "p1+p2+p3"
+        },
+        {
+          "option": "(1-p1)(1-p2)(1-p3)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If an archer hits the target with probability 0.5, what is the probability of hitting it exactly once in two attempts?",
+      "options": [
+        {
+          "option": "0.25"
+        },
+        {
+          "option": "0.75"
+        },
+        {
+          "option": "1.0"
+        },
+        {
+          "option": "0.5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Two archers have hit probabilities 0.3 and 0.4. What is the probability that both miss?",
+      "options": [
+        {
+          "option": "0.88"
+        },
+        {
+          "option": "0.58"
+        },
+        {
+          "option": "0.42",
+          "is_answer": true
+        },
+        {
+          "option": "0.12"
+        }
+      ]
+    },
+    {
+      "question": "If the probability of hitting a target is 0.2, what is the probability of hitting it at least once in three independent attempts?",
+      "options": [
+        {
+          "option": "0.008"
+        },
+        {
+          "option": "0.488",
+          "is_answer": true
+        },
+        {
+          "option": "0.2"
+        },
+        {
+          "option": "0.512"
+        }
+      ]
+    },
+    {
+      "question": "If an archer has a hit probability of 1.0, what is the probability they miss?",
+      "options": [
+        {
+          "option": "0.1"
+        },
+        {
+          "option": "0.0",
+          "is_answer": true
+        },
+        {
+          "option": "1.0"
+        },
+        {
+          "option": "0.5"
+        }
+      ]
+    },
+    {
+      "question": "Two archers have hit probabilities 0.5 and 0.6. What is the probability that exactly one hits the target?",
+      "options": [
+        {
+          "option": "0.3"
+        },
+        {
+          "option": "0.2"
+        },
+        {
+          "option": "0.5",
+          "is_answer": true
+        },
+        {
+          "option": "0.8"
+        }
+      ]
+    },
+    {
+      "question": "If the probability of hitting a target is 0.4, what is the probability of missing it in two independent attempts?",
+      "options": [
+        {
+          "option": "0.36",
+          "is_answer": true
+        },
+        {
+          "option": "0.16"
+        },
+        {
+          "option": "0.64"
+        },
+        {
+          "option": "0.6"
+        }
+      ]
+    },
+    {
+      "question": "Three archers have hit probabilities 0.2, 0.2, 0.2. What is the probability that all three hit the target?",
+      "options": [
+        {
+          "option": "0.2"
+        },
+        {
+          "option": "0.008",
+          "is_answer": true
+        },
+        {
+          "option": "0.04"
+        },
+        {
+          "option": "0.02"
+        }
+      ]
+    },
+    {
+      "question": "If an archer hits the target with probability 0.6, what is the probability of missing it in one attempt?",
+      "options": [
+        {
+          "option": "0.4",
+          "is_answer": true
+        },
+        {
+          "option": "0.36"
+        },
+        {
+          "option": "0.6"
+        },
+        {
+          "option": "0.16"
+        }
+      ]
+    },
+    {
+      "question": "Two archers have hit probabilities 0.1 and 0.9. What is the probability that at least one hits the target?",
+      "options": [
+        {
+          "option": "0.99",
+          "is_answer": true
+        },
+        {
+          "option": "0.9"
+        },
+        {
+          "option": "0.1"
+        },
+        {
+          "option": "0.09"
+        }
+      ]
+    },
+    {
+      "question": "If the probability of hitting a target is 0.5, what is the probability of missing it in three independent attempts?",
+      "options": [
+        {
+          "option": "0.25"
+        },
+        {
+          "option": "0.125",
+          "is_answer": true
+        },
+        {
+          "option": "0.0625"
+        },
+        {
+          "option": "0.5"
+        }
+      ]
+    },
+    {
+      "question": "What is the minimum number of people required for the probability of a shared birthday to exceed 50%?",
+      "options": [
+        {
+          "option": "23",
+          "is_answer": true
+        },
+        {
+          "option": "183"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "366"
+        }
+      ]
+    },
+    {
+      "question": "In a group of 366 people, what is the probability that at least two people share a birthday (assuming no leap years)?",
+      "options": [
+        {
+          "option": "0%"
+        },
+        {
+          "option": "100%",
+          "is_answer": true
+        },
+        {
+          "option": "1%"
+        },
+        {
+          "option": "50%"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability that two specific people share a birthday (ignoring leap years)?",
+      "options": [
+        {
+          "option": "23/365"
+        },
+        {
+          "option": "1/365",
+          "is_answer": true
+        },
+        {
+          "option": "1/366"
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "As the number of people (n) increases, what happens to the probability of at least one shared birthday?",
+      "options": [
+        {
+          "option": "It remains constant"
+        },
+        {
+          "option": "It becomes zero"
+        },
+        {
+          "option": "It increases",
+          "is_answer": true
+        },
+        {
+          "option": "It decreases"
+        }
+      ]
+    },
+    {
+      "question": "If there is only 1 person in a room, what is the probability of a shared birthday?",
+      "options": [
+        {
+          "option": "1/365"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "The Birthday Paradox is considered a paradox because:",
+      "options": [
+        {
+          "option": "The result is counter-intuitive",
+          "is_answer": true
+        },
+        {
+          "option": "It only works for leap years"
+        },
+        {
+          "option": "It requires infinite people"
+        },
+        {
+          "option": "It is impossible to calculate"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability that no two people in a group of n share a birthday?",
+      "options": [
+        {
+          "option": "1 / 365^n"
+        },
+        {
+          "option": "n / 365"
+        },
+        {
+          "option": "365Pn / 365^n",
+          "is_answer": true
+        },
+        {
+          "option": "1 - (365Pn / 365^n)"
+        }
+      ]
+    },
+    {
+      "question": "Which assumption is typically made in the standard Birthday Paradox calculation?",
+      "options": [
+        {
+          "option": "Birthdays are uniformly distributed",
+          "is_answer": true
+        },
+        {
+          "option": "Birthdays are dependent events"
+        },
+        {
+          "option": "Leap years are included"
+        },
+        {
+          "option": "People are born in the same month"
+        }
+      ]
+    },
+    {
+      "question": "For 70 people, the probability of at least one shared birthday is approximately:",
+      "options": [
+        {
+          "option": "99.9%",
+          "is_answer": true
+        },
+        {
+          "option": "1%"
+        },
+        {
+          "option": "10%"
+        },
+        {
+          "option": "50%"
+        }
+      ]
+    },
+    {
+      "question": "What is the complement of the event 'at least two people share a birthday'?",
+      "options": [
+        {
+          "option": "All people have different birthdays",
+          "is_answer": true
+        },
+        {
+          "option": "Exactly two people share a birthday"
+        },
+        {
+          "option": "No one has a birthday"
+        },
+        {
+          "option": "Everyone shares the same birthday"
+        }
+      ]
+    },
+    {
+      "question": "If n=367, what is the probability of at least one shared birthday (ignoring leap years)?",
+      "options": [
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "0.99"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The Birthday Paradox formula uses which mathematical concept?",
+      "options": [
+        {
+          "option": "Permutations",
+          "is_answer": true
+        },
+        {
+          "option": "Geometry"
+        },
+        {
+          "option": "Integration"
+        },
+        {
+          "option": "Calculus"
+        }
+      ]
+    },
+    {
+      "question": "In the formula 1 - [365Pn / 365^n], what does 365Pn represent?",
+      "options": [
+        {
+          "option": "Number of ways to assign birthdays such that no two are same",
+          "is_answer": true
+        },
+        {
+          "option": "Total possible birthday combinations"
+        },
+        {
+          "option": "Probability of a shared birthday"
+        },
+        {
+          "option": "Number of leap years"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is true about the Birthday Paradox?",
+      "options": [
+        {
+          "option": "It is a physics law"
+        },
+        {
+          "option": "It is a biological theory"
+        },
+        {
+          "option": "It is a statistical error"
+        },
+        {
+          "option": "It is a probability puzzle",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "For n=10, the probability of a shared birthday is approximately:",
+      "options": [
+        {
+          "option": "12%",
+          "is_answer": true
+        },
+        {
+          "option": "50%"
+        },
+        {
+          "option": "5%"
+        },
+        {
+          "option": "80%"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability that 2 people share a birthday in a group of 2?",
+      "options": [
+        {
+          "option": "2/365"
+        },
+        {
+          "option": "1/366"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "1/365",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If we include leap years (366 days), the number of people required for >50% probability:",
+      "options": [
+        {
+          "option": "Decreases"
+        },
+        {
+          "option": "Stays the same"
+        },
+        {
+          "option": "Becomes zero"
+        },
+        {
+          "option": "Increases",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The Birthday Paradox is often used to demonstrate the vulnerability of:",
+      "options": [
+        {
+          "option": "Hash functions",
+          "is_answer": true
+        },
+        {
+          "option": "Network speed"
+        },
+        {
+          "option": "Database storage"
+        },
+        {
+          "option": "Encryption keys"
+        }
+      ]
+    },
+    {
+      "question": "In the context of the Birthday Paradox, what does 'n' represent?",
+      "options": [
+        {
+          "option": "Probability"
+        },
+        {
+          "option": "Number of people",
+          "is_answer": true
+        },
+        {
+          "option": "Number of leap years"
+        },
+        {
+          "option": "Number of days in a year"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the correct interpretation of the Birthday Paradox result?",
+      "options": [
+        {
+          "option": "Shared birthdays are extremely rare"
+        },
+        {
+          "option": "Shared birthdays only happen in leap years"
+        },
+        {
+          "option": "Shared birthdays are more common than people expect",
+          "is_answer": true
+        },
+        {
+          "option": "Shared birthdays are impossible in small groups"
+        }
+      ]
+    },
+    {
+      "question": "If two witnesses have truth-telling probabilities p1 and p2, what is the probability they agree on a binary fact?",
+      "options": [
+        {
+          "option": "p1*p2"
+        },
+        {
+          "option": "p1 + p2"
+        },
+        {
+          "option": "1 - (p1*p2)"
+        },
+        {
+          "option": "p1*p2 + (1-p1)*(1-p2)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If both witnesses always tell the truth (p1=1, p2=1), what is the probability they agree?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0.25"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If one witness always lies (p1=0) and the other always tells the truth (p2=1), what is the probability they agree?",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0.25"
+        }
+      ]
+    },
+    {
+      "question": "If both witnesses always lie (p1=0, p2=0), what is the probability they agree?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0.75"
+        },
+        {
+          "option": "0.5"
+        }
+      ]
+    },
+    {
+      "question": "If p1=0.5 and p2=0.5, what is the probability they agree?",
+      "options": [
+        {
+          "option": "0.25"
+        },
+        {
+          "option": "0.5",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0.75"
+        }
+      ]
+    },
+    {
+      "question": "The probability of disagreement between two witnesses is given by which formula?",
+      "options": [
+        {
+          "option": "p1*p2"
+        },
+        {
+          "option": "p1 + p2"
+        },
+        {
+          "option": "1 - (p1+p2)"
+        },
+        {
+          "option": "p1(1-p2) + p2(1-p1)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If p1=0.8 and p2=0.8, what is the probability they agree?",
+      "options": [
+        {
+          "option": "0.68",
+          "is_answer": true
+        },
+        {
+          "option": "0.64"
+        },
+        {
+          "option": "0.8"
+        },
+        {
+          "option": "0.32"
+        }
+      ]
+    },
+    {
+      "question": "If p1=0.9 and p2=0.1, what is the probability they agree?",
+      "options": [
+        {
+          "option": "0.09"
+        },
+        {
+          "option": "0.81"
+        },
+        {
+          "option": "0.18",
+          "is_answer": true
+        },
+        {
+          "option": "0.5"
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of the probability of agreement and the probability of disagreement?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "If p1=0.6 and p2=0.4, what is the probability they agree?",
+      "options": [
+        {
+          "option": "0.48",
+          "is_answer": true
+        },
+        {
+          "option": "0.52"
+        },
+        {
+          "option": "0.6"
+        },
+        {
+          "option": "0.24"
+        }
+      ]
+    },
+    {
+      "question": "If p1=0.7 and p2=0.3, what is the probability they disagree?",
+      "options": [
+        {
+          "option": "0.58",
+          "is_answer": true
+        },
+        {
+          "option": "0.79"
+        },
+        {
+          "option": "0.21"
+        },
+        {
+          "option": "0.42"
+        }
+      ]
+    },
+    {
+      "question": "If p1=0.5 and p2=0.2, what is the probability they agree?",
+      "options": [
+        {
+          "option": "0.4"
+        },
+        {
+          "option": "0.6"
+        },
+        {
+          "option": "0.5",
+          "is_answer": true
+        },
+        {
+          "option": "0.1"
+        }
+      ]
+    },
+    {
+      "question": "If p1=1 and p2=0.5, what is the probability they agree?",
+      "options": [
+        {
+          "option": "0.75"
+        },
+        {
+          "option": "0.25"
+        },
+        {
+          "option": "0.5",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "If p1=0.4 and p2=0.4, what is the probability they agree?",
+      "options": [
+        {
+          "option": "0.16"
+        },
+        {
+          "option": "0.48"
+        },
+        {
+          "option": "0.32"
+        },
+        {
+          "option": "0.52",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If p1=0.9 and p2=0.9, what is the probability they agree?",
+      "options": [
+        {
+          "option": "0.82",
+          "is_answer": true
+        },
+        {
+          "option": "0.81"
+        },
+        {
+          "option": "0.9"
+        },
+        {
+          "option": "0.18"
+        }
+      ]
+    },
+    {
+      "question": "If p1=0.3 and p2=0.3, what is the probability they disagree?",
+      "options": [
+        {
+          "option": "0.18"
+        },
+        {
+          "option": "0.58"
+        },
+        {
+          "option": "0.42",
+          "is_answer": true
+        },
+        {
+          "option": "0.09"
+        }
+      ]
+    },
+    {
+      "question": "If p1=0.2 and p2=0.8, what is the probability they agree?",
+      "options": [
+        {
+          "option": "0.16"
+        },
+        {
+          "option": "0.32",
+          "is_answer": true
+        },
+        {
+          "option": "0.64"
+        },
+        {
+          "option": "0.5"
+        }
+      ]
+    },
+    {
+      "question": "If p1=0.5 and p2=0.5, what is the probability they disagree?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "0.5",
+          "is_answer": true
+        },
+        {
+          "option": "0.75"
+        },
+        {
+          "option": "0.25"
+        }
+      ]
+    },
+    {
+      "question": "If p1=0.1 and p2=0.1, what is the probability they agree?",
+      "options": [
+        {
+          "option": "0.1"
+        },
+        {
+          "option": "0.18"
+        },
+        {
+          "option": "0.82",
+          "is_answer": true
+        },
+        {
+          "option": "0.01"
+        }
+      ]
+    },
+    {
+      "question": "If p1=0.7 and p2=0.7, what is the probability they agree?",
+      "options": [
+        {
+          "option": "0.7"
+        },
+        {
+          "option": "0.58",
+          "is_answer": true
+        },
+        {
+          "option": "0.49"
+        },
+        {
+          "option": "0.42"
+        }
+      ]
+    },
+    {
+      "question": "In a batch of N items with D defectives, what is the probability of finding exactly k defectives in a sample of size n?",
+      "options": [
+        {
+          "option": "Poisson distribution"
+        },
+        {
+          "option": "Normal distribution"
+        },
+        {
+          "option": "Hypergeometric distribution",
+          "is_answer": true
+        },
+        {
+          "option": "Binomial distribution"
+        }
+      ]
+    },
+    {
+      "question": "Which condition must be met for the hypergeometric distribution to be applicable in sampling?",
+      "options": [
+        {
+          "option": "Sampling with replacement"
+        },
+        {
+          "option": "Infinite population size"
+        },
+        {
+          "option": "Sampling without replacement",
+          "is_answer": true
+        },
+        {
+          "option": "Constant probability of success"
+        }
+      ]
+    },
+    {
+      "question": "If N=100, D=10, and n=5, what is the total number of ways to choose the sample?",
+      "options": [
+        {
+          "option": "100C10"
+        },
+        {
+          "option": "10C5"
+        },
+        {
+          "option": "100C5",
+          "is_answer": true
+        },
+        {
+          "option": "90C5"
+        }
+      ]
+    },
+    {
+      "question": "In the hypergeometric formula, what does the term (N-D) represent?",
+      "options": [
+        {
+          "option": "Sample size"
+        },
+        {
+          "option": "Number of non-defective items",
+          "is_answer": true
+        },
+        {
+          "option": "Number of defective items"
+        },
+        {
+          "option": "Total number of items"
+        }
+      ]
+    },
+    {
+      "question": "When does the hypergeometric distribution approximate the binomial distribution?",
+      "options": [
+        {
+          "option": "When N is very large compared to n",
+          "is_answer": true
+        },
+        {
+          "option": "When D is zero"
+        },
+        {
+          "option": "When n is larger than N"
+        },
+        {
+          "option": "When N is equal to n"
+        }
+      ]
+    },
+    {
+      "question": "What is the expected number of defectives in a sample of size n from a batch N with D defectives?",
+      "options": [
+        {
+          "option": "n * (D/N)",
+          "is_answer": true
+        },
+        {
+          "option": "D / n"
+        },
+        {
+          "option": "n * (N/D)"
+        },
+        {
+          "option": "N * (n/D)"
+        }
+      ]
+    },
+    {
+      "question": "If you sample with replacement, which distribution should be used instead of hypergeometric?",
+      "options": [
+        {
+          "option": "Poisson distribution"
+        },
+        {
+          "option": "Uniform distribution"
+        },
+        {
+          "option": "Normal distribution"
+        },
+        {
+          "option": "Binomial distribution",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In quality control, what is the 'Acceptance Number' (c)?",
+      "options": [
+        {
+          "option": "Probability of rejection"
+        },
+        {
+          "option": "Number of samples taken"
+        },
+        {
+          "option": "Maximum allowable defectives in a sample",
+          "is_answer": true
+        },
+        {
+          "option": "Total number of items in batch"
+        }
+      ]
+    },
+    {
+      "question": "What is the variance of the hypergeometric distribution?",
+      "options": [
+        {
+          "option": "n * (D/N) * (1 - D/N)"
+        },
+        {
+          "option": "n * (D/N)"
+        },
+        {
+          "option": "n * (D/N) * (1 - D/N) * (N-n)/(N-1)",
+          "is_answer": true
+        },
+        {
+          "option": "n * (N-D) / N"
+        }
+      ]
+    },
+    {
+      "question": "If N=50, D=5, and n=10, what is the probability of finding 0 defectives?",
+      "options": [
+        {
+          "option": "(45C10) / (50C10)",
+          "is_answer": true
+        },
+        {
+          "option": "(5C10) / (50C10)"
+        },
+        {
+          "option": "1 - (45C10/50C10)"
+        },
+        {
+          "option": "(5C0) / (50C10)"
+        }
+      ]
+    },
+    {
+      "question": "Which parameter is NOT required for the hypergeometric distribution?",
+      "options": [
+        {
+          "option": "Number of defectives (D)"
+        },
+        {
+          "option": "Probability of success (p)",
+          "is_answer": true
+        },
+        {
+          "option": "Population size (N)"
+        },
+        {
+          "option": "Sample size (n)"
+        }
+      ]
+    },
+    {
+      "question": "In a hypergeometric experiment, what is the range of possible values for k (number of defectives)?",
+      "options": [
+        {
+          "option": "max(0, n - (N-D)) <= k <= min(n, D)",
+          "is_answer": true
+        },
+        {
+          "option": "0 <= k <= n"
+        },
+        {
+          "option": "0 <= k <= N"
+        },
+        {
+          "option": "0 <= k <= D"
+        }
+      ]
+    },
+    {
+      "question": "What does the 'Finite Population Correction' factor account for?",
+      "options": [
+        {
+          "option": "Sampling with replacement"
+        },
+        {
+          "option": "Small batch size"
+        },
+        {
+          "option": "Large sample size"
+        },
+        {
+          "option": "Sampling without replacement",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If N=20, D=2, and n=2, what is the probability of finding exactly 1 defective?",
+      "options": [
+        {
+          "option": "(18C1) / 20C2"
+        },
+        {
+          "option": "(2C1 * 18C1) / 20C1"
+        },
+        {
+          "option": "(2C1) / 20C2"
+        },
+        {
+          "option": "(2C1 * 18C1) / 20C2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a characteristic of the hypergeometric distribution?",
+      "options": [
+        {
+          "option": "Trials are dependent",
+          "is_answer": true
+        },
+        {
+          "option": "Trials are independent"
+        },
+        {
+          "option": "Probability is constant"
+        },
+        {
+          "option": "Probability changes with each trial"
+        }
+      ]
+    },
+    {
+      "question": "In quality control, what is the 'Operating Characteristic' (OC) curve?",
+      "options": [
+        {
+          "option": "Probability of acceptance vs. fraction defective",
+          "is_answer": true
+        },
+        {
+          "option": "Cost vs. sample size"
+        },
+        {
+          "option": "Batch size vs. sample size"
+        },
+        {
+          "option": "Defectives vs. time"
+        }
+      ]
+    },
+    {
+      "question": "What happens to the probability of finding a defective as the sample size n increases?",
+      "options": [
+        {
+          "option": "It remains constant"
+        },
+        {
+          "option": "It becomes zero"
+        },
+        {
+          "option": "It generally increases",
+          "is_answer": true
+        },
+        {
+          "option": "It generally decreases"
+        }
+      ]
+    },
+    {
+      "question": "If D=0, what is the probability of finding k > 0 defectives?",
+      "options": [
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "Cannot be determined"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The hypergeometric distribution is used for sampling from which type of population?",
+      "options": [
+        {
+          "option": "Finite population",
+          "is_answer": true
+        },
+        {
+          "option": "Normal population"
+        },
+        {
+          "option": "Continuous population"
+        },
+        {
+          "option": "Infinite population"
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of all probabilities in a hypergeometric distribution?",
+      "options": [
+        {
+          "option": "D"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "N"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "In a standard normal distribution, what percentage of data falls within one standard deviation of the mean?",
+      "options": [
+        {
+          "option": "50%"
+        },
+        {
+          "option": "95%"
+        },
+        {
+          "option": "68%",
+          "is_answer": true
+        },
+        {
+          "option": "99.7%"
+        }
+      ]
+    },
+    {
+      "question": "According to the empirical rule, approximately what percentage of data lies within two standard deviations of the mean?",
+      "options": [
+        {
+          "option": "95%",
+          "is_answer": true
+        },
+        {
+          "option": "68%"
+        },
+        {
+          "option": "90%"
+        },
+        {
+          "option": "99.7%"
+        }
+      ]
+    },
+    {
+      "question": "What is the mean of a standard normal distribution?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "What is the standard deviation of a standard normal distribution?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "What percentage of data falls within three standard deviations of the mean in a normal distribution?",
+      "options": [
+        {
+          "option": "99.7%",
+          "is_answer": true
+        },
+        {
+          "option": "99%"
+        },
+        {
+          "option": "95%"
+        },
+        {
+          "option": "68%"
+        }
+      ]
+    },
+    {
+      "question": "The Z-score formula is defined as:",
+      "options": [
+        {
+          "option": "Z = X / sigma"
+        },
+        {
+          "option": "Z = (mu - X) / sigma"
+        },
+        {
+          "option": "Z = (X + mu) / sigma"
+        },
+        {
+          "option": "Z = (X - mu) / sigma",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In a normal distribution, the curve is symmetric about which value?",
+      "options": [
+        {
+          "option": "The mean",
+          "is_answer": true
+        },
+        {
+          "option": "The median"
+        },
+        {
+          "option": "All of the above"
+        },
+        {
+          "option": "The mode"
+        }
+      ]
+    },
+    {
+      "question": "If a data point has a Z-score of 0, where does it lie?",
+      "options": [
+        {
+          "option": "One standard deviation above the mean"
+        },
+        {
+          "option": "One standard deviation below the mean"
+        },
+        {
+          "option": "At the edge of the curve"
+        },
+        {
+          "option": "At the mean",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the total area under the standard normal distribution curve?",
+      "options": [
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "Which rule describes the percentage of data within 1, 2, and 3 standard deviations?",
+      "options": [
+        {
+          "option": "Empirical Rule",
+          "is_answer": true
+        },
+        {
+          "option": "Law of Large Numbers"
+        },
+        {
+          "option": "Central Limit Theorem"
+        },
+        {
+          "option": "Bayes' Theorem"
+        }
+      ]
+    },
+    {
+      "question": "If X is 10, mean is 10, and sigma is 2, what is the Z-score?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What shape does the normal distribution curve have?",
+      "options": [
+        {
+          "option": "Bell-shaped",
+          "is_answer": true
+        },
+        {
+          "option": "Linear"
+        },
+        {
+          "option": "Rectangular"
+        },
+        {
+          "option": "U-shaped"
+        }
+      ]
+    },
+    {
+      "question": "In a normal distribution, approximately what percentage of data is above the mean?",
+      "options": [
+        {
+          "option": "68%"
+        },
+        {
+          "option": "50%",
+          "is_answer": true
+        },
+        {
+          "option": "34%"
+        },
+        {
+          "option": "95%"
+        }
+      ]
+    },
+    {
+      "question": "If a Z-score is 2, what does it mean?",
+      "options": [
+        {
+          "option": "The value is 2 standard deviations above the mean",
+          "is_answer": true
+        },
+        {
+          "option": "The value is 2 units above the mean"
+        },
+        {
+          "option": "The value is 2% above the mean"
+        },
+        {
+          "option": "The value is 2 times the mean"
+        }
+      ]
+    },
+    {
+      "question": "What happens to the normal curve as the standard deviation increases?",
+      "options": [
+        {
+          "option": "It remains unchanged"
+        },
+        {
+          "option": "It shifts to the right"
+        },
+        {
+          "option": "It becomes flatter and wider",
+          "is_answer": true
+        },
+        {
+          "option": "It becomes taller and narrower"
+        }
+      ]
+    },
+    {
+      "question": "The empirical rule is also known as:",
+      "options": [
+        {
+          "option": "The Bell rule"
+        },
+        {
+          "option": "The 68-95-99.7 rule",
+          "is_answer": true
+        },
+        {
+          "option": "The Normal rule"
+        },
+        {
+          "option": "The Z-rule"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of a value being exactly the mean in a continuous normal distribution?",
+      "options": [
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "0.68"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "If a distribution is normal, what is the relationship between mean, median, and mode?",
+      "options": [
+        {
+          "option": "Mode > Median > Mean"
+        },
+        {
+          "option": "They are all equal",
+          "is_answer": true
+        },
+        {
+          "option": "They have no relationship"
+        },
+        {
+          "option": "Mean > Median > Mode"
+        }
+      ]
+    },
+    {
+      "question": "Approximately what percentage of data lies between -1 and +1 standard deviation?",
+      "options": [
+        {
+          "option": "34%"
+        },
+        {
+          "option": "68%",
+          "is_answer": true
+        },
+        {
+          "option": "95%"
+        },
+        {
+          "option": "99.7%"
+        }
+      ]
+    },
+    {
+      "question": "Which parameter determines the spread of the normal distribution?",
+      "options": [
+        {
+          "option": "Median"
+        },
+        {
+          "option": "Standard deviation",
+          "is_answer": true
+        },
+        {
+          "option": "Mean"
+        },
+        {
+          "option": "Sample size"
+        }
+      ]
+    },
+    {
+      "question": "In the standard Monty Hall problem, what is the probability of winning if you switch doors?",
+      "options": [
+        {
+          "option": "2/3",
+          "is_answer": true
+        },
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of winning if you stay with your original choice in the Monty Hall problem?",
+      "options": [
+        {
+          "option": "2/3"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "1/3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Why does switching doors increase your chances of winning?",
+      "options": [
+        {
+          "option": "Because the host always picks the winning door."
+        },
+        {
+          "option": "Because the probability resets to 50/50."
+        },
+        {
+          "option": "Because the host reveals a losing door, concentrating the probability on the remaining door.",
+          "is_answer": true
+        },
+        {
+          "option": "Because the host is biased towards the contestant."
+        }
+      ]
+    },
+    {
+      "question": "Which theorem is primarily used to mathematically model the Monty Hall problem?",
+      "options": [
+        {
+          "option": "Fundamental Theorem of Calculus"
+        },
+        {
+          "option": "Bayes' Theorem",
+          "is_answer": true
+        },
+        {
+          "option": "Pythagorean Theorem"
+        },
+        {
+          "option": "Central Limit Theorem"
+        }
+      ]
+    },
+    {
+      "question": "In Bayesian updating, what does the 'prior' probability represent?",
+      "options": [
+        {
+          "option": "The probability after new evidence is considered."
+        },
+        {
+          "option": "The probability of the contestant losing."
+        },
+        {
+          "option": "The probability of the host winning."
+        },
+        {
+          "option": "The probability before new evidence is considered.",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the 'posterior' probability in the context of Bayesian updating?",
+      "options": [
+        {
+          "option": "The probability of the host making a mistake."
+        },
+        {
+          "option": "The probability before any evidence is seen."
+        },
+        {
+          "option": "The probability after incorporating new evidence.",
+          "is_answer": true
+        },
+        {
+          "option": "The probability that the game is rigged."
+        }
+      ]
+    },
+    {
+      "question": "If there were 4 doors instead of 3, and the host opens one, what is the probability of winning by switching?",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "3/8",
+          "is_answer": true
+        },
+        {
+          "option": "2/3"
+        }
+      ]
+    },
+    {
+      "question": "What assumption must hold true for the Monty Hall solution to be valid?",
+      "options": [
+        {
+          "option": "The host picks a door at random."
+        },
+        {
+          "option": "The prize moves to a different door."
+        },
+        {
+          "option": "The host knows where the prize is and must open a losing door.",
+          "is_answer": true
+        },
+        {
+          "option": "The contestant knows where the prize is."
+        }
+      ]
+    },
+    {
+      "question": "In the Monty Hall problem, what is the probability that the prize is behind the door you initially chose?",
+      "options": [
+        {
+          "option": "1/3",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "2/3"
+        }
+      ]
+    },
+    {
+      "question": "What happens to the probability of the unchosen, unopened door when the host opens a losing door?",
+      "options": [
+        {
+          "option": "It decreases to 1/6."
+        },
+        {
+          "option": "It becomes 1/2."
+        },
+        {
+          "option": "It increases to 2/3.",
+          "is_answer": true
+        },
+        {
+          "option": "It stays 1/3."
+        }
+      ]
+    },
+    {
+      "question": "Which famous mathematician is associated with the Monty Hall problem?",
+      "options": [
+        {
+          "option": "Carl Friedrich Gauss"
+        },
+        {
+          "option": "Isaac Newton"
+        },
+        {
+          "option": "Albert Einstein"
+        },
+        {
+          "option": "Marilyn vos Savant",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the host did not know where the prize was and opened a door by chance, what would the probability of winning by switching be?",
+      "options": [
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "2/3"
+        },
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "1/2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Bayesian updating is a method of updating what?",
+      "options": [
+        {
+          "option": "The number of doors in the game."
+        },
+        {
+          "option": "The location of the prize."
+        },
+        {
+          "option": "Probabilities based on new evidence.",
+          "is_answer": true
+        },
+        {
+          "option": "The rules of the game."
+        }
+      ]
+    },
+    {
+      "question": "In the Monty Hall problem, what is the total number of doors?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "Why is the Monty Hall problem considered counter-intuitive?",
+      "options": [
+        {
+          "option": "Because people wrongly assume the remaining doors have equal probability.",
+          "is_answer": true
+        },
+        {
+          "option": "Because the prize is always behind the first door."
+        },
+        {
+          "option": "Because the math is too complex."
+        },
+        {
+          "option": "Because the host is always lying."
+        }
+      ]
+    },
+    {
+      "question": "What is the probability that the prize is behind the door the host opens?",
+      "options": [
+        {
+          "option": "2/3"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "1/3"
+        }
+      ]
+    },
+    {
+      "question": "If you have 10 doors and the host opens 8 losing doors, what is the probability of winning by switching?",
+      "options": [
+        {
+          "option": "1/9"
+        },
+        {
+          "option": "1/10"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "9/10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a core component of Bayesian inference?",
+      "options": [
+        {
+          "option": "Random guessing."
+        },
+        {
+          "option": "Fixed outcomes."
+        },
+        {
+          "option": "Prior probability and Likelihood.",
+          "is_answer": true
+        },
+        {
+          "option": "Ignoring evidence."
+        }
+      ]
+    },
+    {
+      "question": "In the Monty Hall problem, what does the host know?",
+      "options": [
+        {
+          "option": "The contestant's choice."
+        },
+        {
+          "option": "The future of the game."
+        },
+        {
+          "option": "The probability of winning."
+        },
+        {
+          "option": "The location of the prize.",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of the probabilities of all possible doors in the Monty Hall problem?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "An urn contains 3 red and 2 blue balls. Two balls are drawn without replacement. What is the probability that both are red?",
+      "options": [
+        {
+          "option": "0.3",
+          "is_answer": true
+        },
+        {
+          "option": "0.6"
+        },
+        {
+          "option": "0.4"
+        },
+        {
+          "option": "0.5"
+        }
+      ]
+    },
+    {
+      "question": "Box A has 2 white and 3 black balls. Box B has 4 white and 1 black ball. A box is chosen at random and a ball is drawn. What is the probability it is white?",
+      "options": [
+        {
+          "option": "0.4"
+        },
+        {
+          "option": "0.7"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0.6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A fair coin is tossed. If heads, a die is rolled. If tails, another coin is tossed. What is the probability of getting a 6 on the die?",
+      "options": [
+        {
+          "option": "1/24"
+        },
+        {
+          "option": "1/12",
+          "is_answer": true
+        },
+        {
+          "option": "1/6"
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "A test for a disease is 99% accurate. If 1% of the population has the disease, what is the probability a person has the disease given a positive test?",
+      "options": [
+        {
+          "option": "0.01"
+        },
+        {
+          "option": "0.5",
+          "is_answer": true
+        },
+        {
+          "option": "0.1"
+        },
+        {
+          "option": "0.99"
+        }
+      ]
+    },
+    {
+      "question": "Two dice are rolled. What is the probability that the sum is 7 given that the first die shows a 3?",
+      "options": [
+        {
+          "option": "1/12"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "1/36"
+        },
+        {
+          "option": "1/6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "An urn contains 4 green and 6 yellow balls. Two balls are drawn with replacement. What is the probability both are green?",
+      "options": [
+        {
+          "option": "0.4"
+        },
+        {
+          "option": "0.2"
+        },
+        {
+          "option": "0.16",
+          "is_answer": true
+        },
+        {
+          "option": "0.36"
+        }
+      ]
+    },
+    {
+      "question": "In a game, you win if you draw an Ace from a deck. If you fail, you draw again without replacement. What is the probability of winning on the second draw?",
+      "options": [
+        {
+          "option": "4/51"
+        },
+        {
+          "option": "3/52"
+        },
+        {
+          "option": "1/13",
+          "is_answer": true
+        },
+        {
+          "option": "1/52"
+        }
+      ]
+    },
+    {
+      "question": "Three coins are tossed. What is the probability of getting exactly two heads?",
+      "options": [
+        {
+          "option": "0.25"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0.125"
+        },
+        {
+          "option": "0.375",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A bag contains 5 red and 3 blue chips. Two chips are drawn. What is the probability that one is red and one is blue?",
+      "options": [
+        {
+          "option": "15/28",
+          "is_answer": true
+        },
+        {
+          "option": "5/8"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "3/8"
+        }
+      ]
+    },
+    {
+      "question": "If P(A) = 0.4, P(B) = 0.5, and P(A|B) = 0.2, what is P(A and B)?",
+      "options": [
+        {
+          "option": "0.9"
+        },
+        {
+          "option": "0.1",
+          "is_answer": true
+        },
+        {
+          "option": "0.08"
+        },
+        {
+          "option": "0.2"
+        }
+      ]
+    },
+    {
+      "question": "A box contains 10 items, 3 of which are defective. If 2 items are chosen, what is the probability that both are non-defective?",
+      "options": [
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "3/10"
+        },
+        {
+          "option": "7/15",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A student guesses on a 4-question multiple-choice test (4 options each). What is the probability of getting all correct?",
+      "options": [
+        {
+          "option": "1/16"
+        },
+        {
+          "option": "1/256",
+          "is_answer": true
+        },
+        {
+          "option": "1/64"
+        },
+        {
+          "option": "1/4"
+        }
+      ]
+    },
+    {
+      "question": "Two cards are drawn from a deck. What is the probability that both are Kings?",
+      "options": [
+        {
+          "option": "1/169"
+        },
+        {
+          "option": "4/52"
+        },
+        {
+          "option": "1/221",
+          "is_answer": true
+        },
+        {
+          "option": "1/13"
+        }
+      ]
+    },
+    {
+      "question": "A factory has two machines. Machine A produces 60% of items, Machine B 40%. A is 90% accurate, B is 80% accurate. What is the probability an item is accurate?",
+      "options": [
+        {
+          "option": "0.9"
+        },
+        {
+          "option": "0.85"
+        },
+        {
+          "option": "0.86",
+          "is_answer": true
+        },
+        {
+          "option": "0.8"
+        }
+      ]
+    },
+    {
+      "question": "A die is rolled twice. What is the probability that the sum is greater than 10?",
+      "options": [
+        {
+          "option": "1/36"
+        },
+        {
+          "option": "1/18"
+        },
+        {
+          "option": "1/6"
+        },
+        {
+          "option": "1/12",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If P(A) = 0.3 and P(B) = 0.4, and they are independent, what is P(A or B)?",
+      "options": [
+        {
+          "option": "0.12"
+        },
+        {
+          "option": "0.58",
+          "is_answer": true
+        },
+        {
+          "option": "0.7"
+        },
+        {
+          "option": "0.42"
+        }
+      ]
+    },
+    {
+      "question": "An urn has 5 white and 5 black balls. Two are drawn. What is the probability they are of different colors?",
+      "options": [
+        {
+          "option": "2/5"
+        },
+        {
+          "option": "4/9"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "5/9",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A coin is biased such that P(H) = 0.6. If tossed twice, what is the probability of getting at least one head?",
+      "options": [
+        {
+          "option": "0.6"
+        },
+        {
+          "option": "0.36"
+        },
+        {
+          "option": "0.84",
+          "is_answer": true
+        },
+        {
+          "option": "0.48"
+        }
+      ]
+    },
+    {
+      "question": "In a group of 10 people, 6 are men and 4 are women. If 2 are chosen, what is the probability both are women?",
+      "options": [
+        {
+          "option": "1/5"
+        },
+        {
+          "option": "4/10"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "2/15",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A bag contains 3 red, 4 blue, and 5 green balls. One ball is drawn. What is the probability it is not green?",
+      "options": [
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "5/12"
+        },
+        {
+          "option": "7/12",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the probability of getting a sum of 7 when rolling two fair six-sided dice?",
+      "options": [
+        {
+          "option": "7/36"
+        },
+        {
+          "option": "1/12"
+        },
+        {
+          "option": "1/6",
+          "is_answer": true
+        },
+        {
+          "option": "1/36"
+        }
+      ]
+    }
+  ]
+}

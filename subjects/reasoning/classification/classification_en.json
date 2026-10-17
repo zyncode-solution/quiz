@@ -1,0 +1,9005 @@
+{
+  "total_questions": 500,
+  "questions": [
+    {
+      "question": "Find the odd one out among the following countries based on their continent.",
+      "options": [
+        {
+          "option": "Japan",
+          "is_answer": true
+        },
+        {
+          "option": "Italy"
+        },
+        {
+          "option": "Germany"
+        },
+        {
+          "option": "France"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out among the following capital cities.",
+      "options": [
+        {
+          "option": "Berlin"
+        },
+        {
+          "option": "Canberra",
+          "is_answer": true
+        },
+        {
+          "option": "Madrid"
+        },
+        {
+          "option": "Paris"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out among the following rivers based on the continent they flow through.",
+      "options": [
+        {
+          "option": "Amazon",
+          "is_answer": true
+        },
+        {
+          "option": "Danube"
+        },
+        {
+          "option": "Nile"
+        },
+        {
+          "option": "Volga"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out among the following countries based on island geography.",
+      "options": [
+        {
+          "option": "Madagascar"
+        },
+        {
+          "option": "Iceland"
+        },
+        {
+          "option": "Japan"
+        },
+        {
+          "option": "Switzerland",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out among the following mountain ranges.",
+      "options": [
+        {
+          "option": "Andes",
+          "is_answer": true
+        },
+        {
+          "option": "Alps"
+        },
+        {
+          "option": "Rockies"
+        },
+        {
+          "option": "Himalayas"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out among the following South American countries.",
+      "options": [
+        {
+          "option": "Suriname",
+          "is_answer": true
+        },
+        {
+          "option": "Argentina"
+        },
+        {
+          "option": "Brazil"
+        },
+        {
+          "option": "Chile"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out among the following African capitals.",
+      "options": [
+        {
+          "option": "Dakar"
+        },
+        {
+          "option": "Accra"
+        },
+        {
+          "option": "Cairo"
+        },
+        {
+          "option": "Nairobi",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out among the following landlocked countries.",
+      "options": [
+        {
+          "option": "Mongolia"
+        },
+        {
+          "option": "Austria"
+        },
+        {
+          "option": "Thailand",
+          "is_answer": true
+        },
+        {
+          "option": "Nepal"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on the desert type/location.",
+      "options": [
+        {
+          "option": "Sahara"
+        },
+        {
+          "option": "Namib"
+        },
+        {
+          "option": "Kalahari"
+        },
+        {
+          "option": "Gobi",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out among the following European countries.",
+      "options": [
+        {
+          "option": "Czech Republic"
+        },
+        {
+          "option": "Portugal",
+          "is_answer": true
+        },
+        {
+          "option": "Hungary"
+        },
+        {
+          "option": "Poland"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out among the following Asian capitals.",
+      "options": [
+        {
+          "option": "Ankara",
+          "is_answer": true
+        },
+        {
+          "option": "Seoul"
+        },
+        {
+          "option": "Bangkok"
+        },
+        {
+          "option": "Tokyo"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out among the following seas.",
+      "options": [
+        {
+          "option": "Caribbean Sea",
+          "is_answer": true
+        },
+        {
+          "option": "Mediterranean Sea"
+        },
+        {
+          "option": "Black Sea"
+        },
+        {
+          "option": "Red Sea"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out among the following North American countries.",
+      "options": [
+        {
+          "option": "Mexico"
+        },
+        {
+          "option": "USA"
+        },
+        {
+          "option": "Colombia",
+          "is_answer": true
+        },
+        {
+          "option": "Canada"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out among the following island nations.",
+      "options": [
+        {
+          "option": "Norway",
+          "is_answer": true
+        },
+        {
+          "option": "New Zealand"
+        },
+        {
+          "option": "Cuba"
+        },
+        {
+          "option": "Sri Lanka"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out among the following lakes.",
+      "options": [
+        {
+          "option": "Superior"
+        },
+        {
+          "option": "Huron"
+        },
+        {
+          "option": "Victoria",
+          "is_answer": true
+        },
+        {
+          "option": "Michigan"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out among the following countries based on hemisphere.",
+      "options": [
+        {
+          "option": "UK"
+        },
+        {
+          "option": "Australia",
+          "is_answer": true
+        },
+        {
+          "option": "India"
+        },
+        {
+          "option": "Japan"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out among the following Oceanic countries.",
+      "options": [
+        {
+          "option": "Maldives",
+          "is_answer": true
+        },
+        {
+          "option": "Samoa"
+        },
+        {
+          "option": "Fiji"
+        },
+        {
+          "option": "Vanuatu"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out among the following global gulfs/bays.",
+      "options": [
+        {
+          "option": "Gulf of Mexico"
+        },
+        {
+          "option": "Persian Gulf"
+        },
+        {
+          "option": "Hudson Bay",
+          "is_answer": true
+        },
+        {
+          "option": "Bay of Bengal"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out among the following transcontinental countries.",
+      "options": [
+        {
+          "option": "France",
+          "is_answer": true
+        },
+        {
+          "option": "Turkey"
+        },
+        {
+          "option": "Egypt"
+        },
+        {
+          "option": "Russia"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out among the following active volcanoes.",
+      "options": [
+        {
+          "option": "Etna"
+        },
+        {
+          "option": "Vesuvius"
+        },
+        {
+          "option": "Fujisan"
+        },
+        {
+          "option": "Kilimanjaro",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 17, 19, 23, 27",
+      "options": [
+        {
+          "option": "17"
+        },
+        {
+          "option": "27",
+          "is_answer": true
+        },
+        {
+          "option": "23"
+        },
+        {
+          "option": "19"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 4, 6, 8, 11",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "11",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 31, 37, 41, 45",
+      "options": [
+        {
+          "option": "45",
+          "is_answer": true
+        },
+        {
+          "option": "37"
+        },
+        {
+          "option": "31"
+        },
+        {
+          "option": "41"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 9, 15, 21, 23",
+      "options": [
+        {
+          "option": "21"
+        },
+        {
+          "option": "23",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 53, 59, 61, 63",
+      "options": [
+        {
+          "option": "61"
+        },
+        {
+          "option": "53"
+        },
+        {
+          "option": "59"
+        },
+        {
+          "option": "63",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 12, 14, 16, 17",
+      "options": [
+        {
+          "option": "14"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "17",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 71, 73, 79, 81",
+      "options": [
+        {
+          "option": "81",
+          "is_answer": true
+        },
+        {
+          "option": "71"
+        },
+        {
+          "option": "79"
+        },
+        {
+          "option": "73"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 25, 27, 29, 33",
+      "options": [
+        {
+          "option": "27"
+        },
+        {
+          "option": "33"
+        },
+        {
+          "option": "29",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 2, 3, 5, 9",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 35, 39, 43, 49",
+      "options": [
+        {
+          "option": "35"
+        },
+        {
+          "option": "39"
+        },
+        {
+          "option": "49"
+        },
+        {
+          "option": "43",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 83, 89, 91, 97",
+      "options": [
+        {
+          "option": "97"
+        },
+        {
+          "option": "91",
+          "is_answer": true
+        },
+        {
+          "option": "83"
+        },
+        {
+          "option": "89"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 20, 22, 24, 29",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "29",
+          "is_answer": true
+        },
+        {
+          "option": "22"
+        },
+        {
+          "option": "24"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 10, 13, 14, 15",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "13",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 51, 57, 59, 69",
+      "options": [
+        {
+          "option": "57"
+        },
+        {
+          "option": "69"
+        },
+        {
+          "option": "59",
+          "is_answer": true
+        },
+        {
+          "option": "51"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 41, 43, 47, 51",
+      "options": [
+        {
+          "option": "43"
+        },
+        {
+          "option": "47"
+        },
+        {
+          "option": "41"
+        },
+        {
+          "option": "51",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 75, 77, 79, 85",
+      "options": [
+        {
+          "option": "79",
+          "is_answer": true
+        },
+        {
+          "option": "77"
+        },
+        {
+          "option": "85"
+        },
+        {
+          "option": "75"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 63, 65, 67, 69",
+      "options": [
+        {
+          "option": "65"
+        },
+        {
+          "option": "63"
+        },
+        {
+          "option": "69"
+        },
+        {
+          "option": "67",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 32, 36, 37, 40",
+      "options": [
+        {
+          "option": "32"
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "37",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 93, 95, 97, 99",
+      "options": [
+        {
+          "option": "95"
+        },
+        {
+          "option": "93"
+        },
+        {
+          "option": "97",
+          "is_answer": true
+        },
+        {
+          "option": "99"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 11, 13, 15, 17",
+      "options": [
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "11"
+        },
+        {
+          "option": "13"
+        },
+        {
+          "option": "17"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on biological classification (vertebrates vs invertebrates):",
+      "options": [
+        {
+          "option": "Frog"
+        },
+        {
+          "option": "Eagle"
+        },
+        {
+          "option": "Octopus",
+          "is_answer": true
+        },
+        {
+          "option": "Dog"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out among these mammals and reptiles:",
+      "options": [
+        {
+          "option": "Kangaroo"
+        },
+        {
+          "option": "Bat"
+        },
+        {
+          "option": "Whale"
+        },
+        {
+          "option": "Python",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on plant classification (monocots vs dicots):",
+      "options": [
+        {
+          "option": "Mango",
+          "is_answer": true
+        },
+        {
+          "option": "Wheat"
+        },
+        {
+          "option": "Rice"
+        },
+        {
+          "option": "Maize"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out among these aquatic animals:",
+      "options": [
+        {
+          "option": "Whale"
+        },
+        {
+          "option": "Jellyfish",
+          "is_answer": true
+        },
+        {
+          "option": "Dolphin"
+        },
+        {
+          "option": "Seal"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on skeletal structure (vertebrates):",
+      "options": [
+        {
+          "option": "Rabbit"
+        },
+        {
+          "option": "Sparrow"
+        },
+        {
+          "option": "Butterfly",
+          "is_answer": true
+        },
+        {
+          "option": "Snake"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out among these avian species and mammals:",
+      "options": [
+        {
+          "option": "Eagle"
+        },
+        {
+          "option": "Platypus",
+          "is_answer": true
+        },
+        {
+          "option": "Ostrich"
+        },
+        {
+          "option": "Penguin"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on seed type (dicots):",
+      "options": [
+        {
+          "option": "Barley",
+          "is_answer": true
+        },
+        {
+          "option": "Pea"
+        },
+        {
+          "option": "Bean"
+        },
+        {
+          "option": "Gram"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out among these taxonomic classes (Amphibians vs Reptiles):",
+      "options": [
+        {
+          "option": "Crocodile"
+        },
+        {
+          "option": "Lizard"
+        },
+        {
+          "option": "Turtle"
+        },
+        {
+          "option": "Salamander",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on respiration organs in animals:",
+      "options": [
+        {
+          "option": "Bird"
+        },
+        {
+          "option": "Human"
+        },
+        {
+          "option": "Earthworm",
+          "is_answer": true
+        },
+        {
+          "option": "Whale"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out among these marine invertebrates:",
+      "options": [
+        {
+          "option": "Shark",
+          "is_answer": true
+        },
+        {
+          "option": "Crab"
+        },
+        {
+          "option": "Squid"
+        },
+        {
+          "option": "Starfish"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on monocotyledonous plants:",
+      "options": [
+        {
+          "option": "Tomato",
+          "is_answer": true
+        },
+        {
+          "option": "Banana"
+        },
+        {
+          "option": "Onion"
+        },
+        {
+          "option": "Sugarcane"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out among these egg-laying vs live-bearing animals:",
+      "options": [
+        {
+          "option": "Tiger",
+          "is_answer": true
+        },
+        {
+          "option": "Platypus"
+        },
+        {
+          "option": "Duck"
+        },
+        {
+          "option": "Echidna"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on botanical families (Fruit/Vegetable classification):",
+      "options": [
+        {
+          "option": "Apple"
+        },
+        {
+          "option": "Potato",
+          "is_answer": true
+        },
+        {
+          "option": "Pear"
+        },
+        {
+          "option": "Peach"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out among these cold-blooded and warm-blooded animals:",
+      "options": [
+        {
+          "option": "Frog"
+        },
+        {
+          "option": "Eagle",
+          "is_answer": true
+        },
+        {
+          "option": "Lizard"
+        },
+        {
+          "option": "Snake"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on insect taxonomy (invertebrates):",
+      "options": [
+        {
+          "option": "Ant"
+        },
+        {
+          "option": "Centipede",
+          "is_answer": true
+        },
+        {
+          "option": "Housefly"
+        },
+        {
+          "option": "Butterfly"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out among these plant types (parasitic vs autotrophic):",
+      "options": [
+        {
+          "option": "Neem"
+        },
+        {
+          "option": "Mango"
+        },
+        {
+          "option": "Cuscuta (Dodder)",
+          "is_answer": true
+        },
+        {
+          "option": "Banyan"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on aquatic vs terrestrial mammals:",
+      "options": [
+        {
+          "option": "Blue Whale"
+        },
+        {
+          "option": "Dolphin"
+        },
+        {
+          "option": "Manatee"
+        },
+        {
+          "option": "Elephant",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out among these flying vertebrates:",
+      "options": [
+        {
+          "option": "Ostrich",
+          "is_answer": true
+        },
+        {
+          "option": "Pigeon"
+        },
+        {
+          "option": "Eagle"
+        },
+        {
+          "option": "Bat"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on root systems (taproot vs fibrous):",
+      "options": [
+        {
+          "option": "Grass",
+          "is_answer": true
+        },
+        {
+          "option": "Turnip"
+        },
+        {
+          "option": "Carrot"
+        },
+        {
+          "option": "Radish"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out among these vertebrate classes:",
+      "options": [
+        {
+          "option": "Bird"
+        },
+        {
+          "option": "Sponge",
+          "is_answer": true
+        },
+        {
+          "option": "Fish"
+        },
+        {
+          "option": "Mammal"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd word out: Hammer, Pliers, Screwdriver, Chair",
+      "options": [
+        {
+          "option": "Chair",
+          "is_answer": true
+        },
+        {
+          "option": "Pliers"
+        },
+        {
+          "option": "Screwdriver"
+        },
+        {
+          "option": "Hammer"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd word out: Apple, Banana, Mango, Carrot",
+      "options": [
+        {
+          "option": "Banana"
+        },
+        {
+          "option": "Carrot",
+          "is_answer": true
+        },
+        {
+          "option": "Mango"
+        },
+        {
+          "option": "Apple"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd word out: Sparrow, Pigeon, Crow, Bat",
+      "options": [
+        {
+          "option": "Pigeon"
+        },
+        {
+          "option": "Crow"
+        },
+        {
+          "option": "Bat",
+          "is_answer": true
+        },
+        {
+          "option": "Sparrow"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd word out: Rose, Lily, Jasmine, Banyan",
+      "options": [
+        {
+          "option": "Rose"
+        },
+        {
+          "option": "Lily"
+        },
+        {
+          "option": "Banyan",
+          "is_answer": true
+        },
+        {
+          "option": "Jasmine"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd word out: Physics, Chemistry, Biology, Algebra",
+      "options": [
+        {
+          "option": "Chemistry"
+        },
+        {
+          "option": "Algebra",
+          "is_answer": true
+        },
+        {
+          "option": "Physics"
+        },
+        {
+          "option": "Biology"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd word out: Copper, Silver, Gold, Plastic",
+      "options": [
+        {
+          "option": "Gold"
+        },
+        {
+          "option": "Silver"
+        },
+        {
+          "option": "Copper"
+        },
+        {
+          "option": "Plastic",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd word out: Flute, Guitar, Violin, Sitar",
+      "options": [
+        {
+          "option": "Violin"
+        },
+        {
+          "option": "Sitar"
+        },
+        {
+          "option": "Guitar"
+        },
+        {
+          "option": "Flute",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd word out: India, China, Tokyo, Brazil",
+      "options": [
+        {
+          "option": "Tokyo",
+          "is_answer": true
+        },
+        {
+          "option": "India"
+        },
+        {
+          "option": "China"
+        },
+        {
+          "option": "Brazil"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd word out: Square, Circle, Triangle, Cylinder",
+      "options": [
+        {
+          "option": "Square"
+        },
+        {
+          "option": "Triangle"
+        },
+        {
+          "option": "Cylinder",
+          "is_answer": true
+        },
+        {
+          "option": "Circle"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd word out: Running, Jumping, Sleeping, Walking",
+      "options": [
+        {
+          "option": "Jumping"
+        },
+        {
+          "option": "Running"
+        },
+        {
+          "option": "Walking"
+        },
+        {
+          "option": "Sleeping",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd word out: Nile, Amazon, Ganga, Pacific",
+      "options": [
+        {
+          "option": "Pacific",
+          "is_answer": true
+        },
+        {
+          "option": "Ganga"
+        },
+        {
+          "option": "Amazon"
+        },
+        {
+          "option": "Nile"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd word out: Tiger, Lion, Leopard, Cow",
+      "options": [
+        {
+          "option": "Lion"
+        },
+        {
+          "option": "Leopard"
+        },
+        {
+          "option": "Cow",
+          "is_answer": true
+        },
+        {
+          "option": "Tiger"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd word out: Pen, Pencil, Eraser, Notebook",
+      "options": [
+        {
+          "option": "Eraser"
+        },
+        {
+          "option": "Notebook",
+          "is_answer": true
+        },
+        {
+          "option": "Pencil"
+        },
+        {
+          "option": "Pen"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd word out: January, February, Wednesday, March",
+      "options": [
+        {
+          "option": "March"
+        },
+        {
+          "option": "Wednesday",
+          "is_answer": true
+        },
+        {
+          "option": "January"
+        },
+        {
+          "option": "February"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd word out: Carrot, Radish, Potato, Apple",
+      "options": [
+        {
+          "option": "Potato"
+        },
+        {
+          "option": "Carrot"
+        },
+        {
+          "option": "Apple",
+          "is_answer": true
+        },
+        {
+          "option": "Radish"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd word out: Shirt, Trousers, Shoe, Jacket",
+      "options": [
+        {
+          "option": "Shoe",
+          "is_answer": true
+        },
+        {
+          "option": "Jacket"
+        },
+        {
+          "option": "Shirt"
+        },
+        {
+          "option": "Trousers"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd word out: Doctor, Engineer, Teacher, Hospital",
+      "options": [
+        {
+          "option": "Hospital",
+          "is_answer": true
+        },
+        {
+          "option": "Engineer"
+        },
+        {
+          "option": "Doctor"
+        },
+        {
+          "option": "Teacher"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd word out: Mercury, Venus, Earth, Moon",
+      "options": [
+        {
+          "option": "Moon",
+          "is_answer": true
+        },
+        {
+          "option": "Venus"
+        },
+        {
+          "option": "Earth"
+        },
+        {
+          "option": "Mercury"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd word out: Cricket, Football, Chess, Hockey",
+      "options": [
+        {
+          "option": "Cricket"
+        },
+        {
+          "option": "Hockey"
+        },
+        {
+          "option": "Football"
+        },
+        {
+          "option": "Chess",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd word out: Chair, Table, Bed, Television",
+      "options": [
+        {
+          "option": "Bed"
+        },
+        {
+          "option": "Television",
+          "is_answer": true
+        },
+        {
+          "option": "Chair"
+        },
+        {
+          "option": "Table"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd one out based on organ systems (Internal vs External/Sensory).",
+      "options": [
+        {
+          "option": "Kidney"
+        },
+        {
+          "option": "Skin",
+          "is_answer": true
+        },
+        {
+          "option": "Liver"
+        },
+        {
+          "option": "Heart"
+        }
+      ]
+    },
+    {
+      "question": "Identify the odd one out based on sensory function.",
+      "options": [
+        {
+          "option": "Eye"
+        },
+        {
+          "option": "Tongue"
+        },
+        {
+          "option": "Ear"
+        },
+        {
+          "option": "Spleen",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out considering endocrine system glands versus non-endocrine organs.",
+      "options": [
+        {
+          "option": "Thyroid"
+        },
+        {
+          "option": "Pituitary"
+        },
+        {
+          "option": "Stomach",
+          "is_answer": true
+        },
+        {
+          "option": "Adrenal"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd one out regarding vital organs necessary for immediate survival.",
+      "options": [
+        {
+          "option": "Lungs"
+        },
+        {
+          "option": "Appendix",
+          "is_answer": true
+        },
+        {
+          "option": "Heart"
+        },
+        {
+          "option": "Brain"
+        }
+      ]
+    },
+    {
+      "question": "Identify the odd one out based on the digestive system.",
+      "options": [
+        {
+          "option": "Stomach"
+        },
+        {
+          "option": "Trachea",
+          "is_answer": true
+        },
+        {
+          "option": "Intestine"
+        },
+        {
+          "option": "Esophagus"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on the respiratory system.",
+      "options": [
+        {
+          "option": "Trachea"
+        },
+        {
+          "option": "Bronchi"
+        },
+        {
+          "option": "Kidney",
+          "is_answer": true
+        },
+        {
+          "option": "Lungs"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd one out related to the excretory/urinary system.",
+      "options": [
+        {
+          "option": "Ureter"
+        },
+        {
+          "option": "Kidney"
+        },
+        {
+          "option": "Bladder"
+        },
+        {
+          "option": "Heart",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Identify the odd one out based on cardiovascular system organs.",
+      "options": [
+        {
+          "option": "Lungs",
+          "is_answer": true
+        },
+        {
+          "option": "Artery"
+        },
+        {
+          "option": "Heart"
+        },
+        {
+          "option": "Vein"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out regarding the nervous system.",
+      "options": [
+        {
+          "option": "Spinal cord"
+        },
+        {
+          "option": "Liver",
+          "is_answer": true
+        },
+        {
+          "option": "Nerve"
+        },
+        {
+          "option": "Brain"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd one out among the five primary sense organs.",
+      "options": [
+        {
+          "option": "Nose"
+        },
+        {
+          "option": "Heart",
+          "is_answer": true
+        },
+        {
+          "option": "Eye"
+        },
+        {
+          "option": "Ear"
+        }
+      ]
+    },
+    {
+      "question": "Identify the odd one out based on the skeletal system.",
+      "options": [
+        {
+          "option": "Femur"
+        },
+        {
+          "option": "Biceps",
+          "is_answer": true
+        },
+        {
+          "option": "Skull"
+        },
+        {
+          "option": "Spine"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on muscular system structures.",
+      "options": [
+        {
+          "option": "Rib",
+          "is_answer": true
+        },
+        {
+          "option": "Biceps"
+        },
+        {
+          "option": "Diaphragm"
+        },
+        {
+          "option": "Triceps"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd one out concerning the female reproductive system.",
+      "options": [
+        {
+          "option": "Fallopian tube"
+        },
+        {
+          "option": "Uterus"
+        },
+        {
+          "option": "Testis",
+          "is_answer": true
+        },
+        {
+          "option": "Ovary"
+        }
+      ]
+    },
+    {
+      "question": "Identify the odd one out concerning the male reproductive system.",
+      "options": [
+        {
+          "option": "Testis"
+        },
+        {
+          "option": "Ovary",
+          "is_answer": true
+        },
+        {
+          "option": "Vas deferens"
+        },
+        {
+          "option": "Prostate"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on lymphatic/immune system organs.",
+      "options": [
+        {
+          "option": "Lymph node"
+        },
+        {
+          "option": "Pancreas",
+          "is_answer": true
+        },
+        {
+          "option": "Spleen"
+        },
+        {
+          "option": "Thymus"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd one out based on accessory digestive organs.",
+      "options": [
+        {
+          "option": "Gallbladder"
+        },
+        {
+          "option": "Liver"
+        },
+        {
+          "option": "Pancreas"
+        },
+        {
+          "option": "Stomach",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Identify the odd one out based on external anatomical features.",
+      "options": [
+        {
+          "option": "Pituitary gland",
+          "is_answer": true
+        },
+        {
+          "option": "Skin"
+        },
+        {
+          "option": "Nose"
+        },
+        {
+          "option": "Ear"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out among organs located primarily in the thoracic cavity.",
+      "options": [
+        {
+          "option": "Liver",
+          "is_answer": true
+        },
+        {
+          "option": "Lungs"
+        },
+        {
+          "option": "Heart"
+        },
+        {
+          "option": "Thymus"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd one out among organs located primarily in the abdominopelvic cavity.",
+      "options": [
+        {
+          "option": "Intestines"
+        },
+        {
+          "option": "Liver"
+        },
+        {
+          "option": "Trachea",
+          "is_answer": true
+        },
+        {
+          "option": "Stomach"
+        }
+      ]
+    },
+    {
+      "question": "Identify the odd one out based on hollow vs solid visceral organs.",
+      "options": [
+        {
+          "option": "Liver",
+          "is_answer": true
+        },
+        {
+          "option": "Bladder"
+        },
+        {
+          "option": "Intestine"
+        },
+        {
+          "option": "Stomach"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 27, 64, 125, 144",
+      "options": [
+        {
+          "option": "125"
+        },
+        {
+          "option": "64"
+        },
+        {
+          "option": "144",
+          "is_answer": true
+        },
+        {
+          "option": "27"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 4, 9, 16, 20",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 8, 27, 64, 81",
+      "options": [
+        {
+          "option": "27"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "81",
+          "is_answer": true
+        },
+        {
+          "option": "64"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 36, 49, 64, 75",
+      "options": [
+        {
+          "option": "64"
+        },
+        {
+          "option": "75",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "49"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 121, 144, 169, 200",
+      "options": [
+        {
+          "option": "200",
+          "is_answer": true
+        },
+        {
+          "option": "144"
+        },
+        {
+          "option": "121"
+        },
+        {
+          "option": "169"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 8, 16, 32, 64",
+      "options": [
+        {
+          "option": "64"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "32"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 9, 27, 81, 243",
+      "options": [
+        {
+          "option": "81"
+        },
+        {
+          "option": "27"
+        },
+        {
+          "option": "243",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 1, 8, 27, 32",
+      "options": [
+        {
+          "option": "27"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "32",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 100, 125, 216, 343",
+      "options": [
+        {
+          "option": "100",
+          "is_answer": true
+        },
+        {
+          "option": "125"
+        },
+        {
+          "option": "216"
+        },
+        {
+          "option": "343"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 2, 4, 8, 16",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 125, 216, 512, 600",
+      "options": [
+        {
+          "option": "512"
+        },
+        {
+          "option": "216"
+        },
+        {
+          "option": "600",
+          "is_answer": true
+        },
+        {
+          "option": "125"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 25, 36, 49, 60",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "60",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "49"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 3, 9, 27, 81",
+      "options": [
+        {
+          "option": "27"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "81"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 1, 4, 9, 12",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 16, 64, 125, 216",
+      "options": [
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "216"
+        },
+        {
+          "option": "64"
+        },
+        {
+          "option": "125"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 10, 100, 1000, 10000",
+      "options": [
+        {
+          "option": "1000"
+        },
+        {
+          "option": "10000"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 81, 100, 121, 150",
+      "options": [
+        {
+          "option": "121"
+        },
+        {
+          "option": "81"
+        },
+        {
+          "option": "150",
+          "is_answer": true
+        },
+        {
+          "option": "100"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 64, 125, 216, 256",
+      "options": [
+        {
+          "option": "125"
+        },
+        {
+          "option": "216"
+        },
+        {
+          "option": "256",
+          "is_answer": true
+        },
+        {
+          "option": "64"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 4, 8, 16, 32",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 343, 512, 729, 900",
+      "options": [
+        {
+          "option": "512"
+        },
+        {
+          "option": "900",
+          "is_answer": true
+        },
+        {
+          "option": "729"
+        },
+        {
+          "option": "343"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 91, 143, 221, 117",
+      "options": [
+        {
+          "option": "221"
+        },
+        {
+          "option": "117",
+          "is_answer": true
+        },
+        {
+          "option": "91"
+        },
+        {
+          "option": "143"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 63, 84, 105, 128",
+      "options": [
+        {
+          "option": "63"
+        },
+        {
+          "option": "128",
+          "is_answer": true
+        },
+        {
+          "option": "84"
+        },
+        {
+          "option": "105"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 119, 187, 289, 153",
+      "options": [
+        {
+          "option": "187"
+        },
+        {
+          "option": "119"
+        },
+        {
+          "option": "289"
+        },
+        {
+          "option": "153",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 77, 121, 209, 142",
+      "options": [
+        {
+          "option": "121"
+        },
+        {
+          "option": "209"
+        },
+        {
+          "option": "142",
+          "is_answer": true
+        },
+        {
+          "option": "77"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 104, 156, 208, 175",
+      "options": [
+        {
+          "option": "208"
+        },
+        {
+          "option": "156"
+        },
+        {
+          "option": "104"
+        },
+        {
+          "option": "175",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 51, 85, 119, 136",
+      "options": [
+        {
+          "option": "119"
+        },
+        {
+          "option": "136",
+          "is_answer": true
+        },
+        {
+          "option": "85"
+        },
+        {
+          "option": "51"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 133, 247, 299, 185",
+      "options": [
+        {
+          "option": "299"
+        },
+        {
+          "option": "133"
+        },
+        {
+          "option": "185",
+          "is_answer": true
+        },
+        {
+          "option": "247"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 95, 133, 171, 154",
+      "options": [
+        {
+          "option": "133"
+        },
+        {
+          "option": "154",
+          "is_answer": true
+        },
+        {
+          "option": "171"
+        },
+        {
+          "option": "95"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 88, 132, 176, 114",
+      "options": [
+        {
+          "option": "88"
+        },
+        {
+          "option": "176"
+        },
+        {
+          "option": "132"
+        },
+        {
+          "option": "114",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 112, 147, 182, 165",
+      "options": [
+        {
+          "option": "165",
+          "is_answer": true
+        },
+        {
+          "option": "112"
+        },
+        {
+          "option": "182"
+        },
+        {
+          "option": "147"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 65, 117, 143, 99",
+      "options": [
+        {
+          "option": "65"
+        },
+        {
+          "option": "117"
+        },
+        {
+          "option": "143"
+        },
+        {
+          "option": "99",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 126, 168, 210, 195",
+      "options": [
+        {
+          "option": "195",
+          "is_answer": true
+        },
+        {
+          "option": "210"
+        },
+        {
+          "option": "168"
+        },
+        {
+          "option": "126"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 108, 144, 180, 138",
+      "options": [
+        {
+          "option": "108"
+        },
+        {
+          "option": "138",
+          "is_answer": true
+        },
+        {
+          "option": "144"
+        },
+        {
+          "option": "180"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 115, 172, 230, 184",
+      "options": [
+        {
+          "option": "184",
+          "is_answer": true
+        },
+        {
+          "option": "230"
+        },
+        {
+          "option": "172"
+        },
+        {
+          "option": "115"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 96, 144, 192, 158",
+      "options": [
+        {
+          "option": "96"
+        },
+        {
+          "option": "144"
+        },
+        {
+          "option": "158",
+          "is_answer": true
+        },
+        {
+          "option": "192"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 72, 108, 144, 125",
+      "options": [
+        {
+          "option": "108"
+        },
+        {
+          "option": "72"
+        },
+        {
+          "option": "144"
+        },
+        {
+          "option": "125",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 84, 126, 168, 152",
+      "options": [
+        {
+          "option": "126"
+        },
+        {
+          "option": "84"
+        },
+        {
+          "option": "168"
+        },
+        {
+          "option": "152",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 68, 102, 136, 115",
+      "options": [
+        {
+          "option": "136"
+        },
+        {
+          "option": "102"
+        },
+        {
+          "option": "115",
+          "is_answer": true
+        },
+        {
+          "option": "68"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 120, 180, 240, 196",
+      "options": [
+        {
+          "option": "196",
+          "is_answer": true
+        },
+        {
+          "option": "180"
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "240"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: 57, 95, 133, 112",
+      "options": [
+        {
+          "option": "133"
+        },
+        {
+          "option": "57"
+        },
+        {
+          "option": "112",
+          "is_answer": true
+        },
+        {
+          "option": "95"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd letter group out based on alphabetical position differences: CEH, JMO, PRU, TWZ",
+      "options": [
+        {
+          "option": "CEH"
+        },
+        {
+          "option": "JMO"
+        },
+        {
+          "option": "PRU",
+          "is_answer": true
+        },
+        {
+          "option": "TWZ"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd letter group out based on alphabetical position differences: BDF, HJL, NPR, TVW",
+      "options": [
+        {
+          "option": "TVW",
+          "is_answer": true
+        },
+        {
+          "option": "BDF"
+        },
+        {
+          "option": "HJL"
+        },
+        {
+          "option": "NPR"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd letter group out based on alphabetical position differences: AZB, CXD, EVF, GSI",
+      "options": [
+        {
+          "option": "AZB"
+        },
+        {
+          "option": "CXD"
+        },
+        {
+          "option": "GSI",
+          "is_answer": true
+        },
+        {
+          "option": "EVF"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd letter group out based on alphabetical position differences: ADG, CFI, EHK, GIM",
+      "options": [
+        {
+          "option": "ADG"
+        },
+        {
+          "option": "EHK"
+        },
+        {
+          "option": "GIM",
+          "is_answer": true
+        },
+        {
+          "option": "CFI"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd letter group out based on alphabetical position differences: MNQ, PQS, TVW, YZA",
+      "options": [
+        {
+          "option": "YZA"
+        },
+        {
+          "option": "TVW",
+          "is_answer": true
+        },
+        {
+          "option": "PQS"
+        },
+        {
+          "option": "MNQ"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd letter group out based on alphabetical position differences: ZXY, VTW, RQP, LJK",
+      "options": [
+        {
+          "option": "VTW"
+        },
+        {
+          "option": "ZXY"
+        },
+        {
+          "option": "RQP"
+        },
+        {
+          "option": "LJK",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd letter group out based on alphabetical position differences: EGI, KMO, QSU, WXZ",
+      "options": [
+        {
+          "option": "QSU"
+        },
+        {
+          "option": "EGI"
+        },
+        {
+          "option": "WXZ",
+          "is_answer": true
+        },
+        {
+          "option": "KMO"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd letter group out based on alphabetical position differences: DHL, PTX, BFJ, CGK",
+      "options": [
+        {
+          "option": "BFJ"
+        },
+        {
+          "option": "DHL"
+        },
+        {
+          "option": "CGK",
+          "is_answer": true
+        },
+        {
+          "option": "PTX"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd letter group out based on alphabetical position differences: QPO, NML, KJI, HGF",
+      "options": [
+        {
+          "option": "QPO"
+        },
+        {
+          "option": "NML"
+        },
+        {
+          "option": "KJI"
+        },
+        {
+          "option": "HGF",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd letter group out based on alphabetical position differences: ACE, GIK, MOQ, SUW",
+      "options": [
+        {
+          "option": "ACE"
+        },
+        {
+          "option": "MOQ"
+        },
+        {
+          "option": "GIK"
+        },
+        {
+          "option": "SUW",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd letter group out based on alphabetical position differences: DWQ, GTU, JRX, MWA",
+      "options": [
+        {
+          "option": "DWQ"
+        },
+        {
+          "option": "JRX",
+          "is_answer": true
+        },
+        {
+          "option": "GTU"
+        },
+        {
+          "option": "MWA"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd letter group out based on alphabetical position differences: PSV, VYB, EHK, KNQ",
+      "options": [
+        {
+          "option": "EHK"
+        },
+        {
+          "option": "VYB",
+          "is_answer": true
+        },
+        {
+          "option": "PSV"
+        },
+        {
+          "option": "KNQ"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd letter group out based on alphabetical position differences: AEI, MQU, CGK, OUS",
+      "options": [
+        {
+          "option": "AEI"
+        },
+        {
+          "option": "MQU"
+        },
+        {
+          "option": "OUS",
+          "is_answer": true
+        },
+        {
+          "option": "CGK"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd letter group out based on alphabetical position differences: BYW, DUS, FQO, HMK",
+      "options": [
+        {
+          "option": "HMK",
+          "is_answer": true
+        },
+        {
+          "option": "FQO"
+        },
+        {
+          "option": "DUS"
+        },
+        {
+          "option": "BYW"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd letter group out based on alphabetical position differences: JKL, PQR, VWX, EFG",
+      "options": [
+        {
+          "option": "PQR"
+        },
+        {
+          "option": "EFG",
+          "is_answer": true
+        },
+        {
+          "option": "VWX"
+        },
+        {
+          "option": "JKL"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd letter group out based on alphabetical position differences: AZY, CXW, EVU, ITS",
+      "options": [
+        {
+          "option": "ITS",
+          "is_answer": true
+        },
+        {
+          "option": "CXW"
+        },
+        {
+          "option": "EVU"
+        },
+        {
+          "option": "AZY"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd letter group out based on alphabetical position differences: FIL, OUX, CFI, LOR",
+      "options": [
+        {
+          "option": "CFI"
+        },
+        {
+          "option": "FIL"
+        },
+        {
+          "option": "LOR"
+        },
+        {
+          "option": "OUX",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd letter group out based on alphabetical position differences: DWZ, GTW, JQT, MNO",
+      "options": [
+        {
+          "option": "JQT"
+        },
+        {
+          "option": "DWZ"
+        },
+        {
+          "option": "GTW"
+        },
+        {
+          "option": "MNO",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd letter group out based on alphabetical position differences: BFG, JNO, NRS, VWX",
+      "options": [
+        {
+          "option": "JNO"
+        },
+        {
+          "option": "VWX"
+        },
+        {
+          "option": "NRS"
+        },
+        {
+          "option": "BFG",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd letter group out based on alphabetical position differences: ZW4 (wait: ZWT), QNK, HED, XUT",
+      "options": [
+        {
+          "option": "QNK"
+        },
+        {
+          "option": "XUT",
+          "is_answer": true
+        },
+        {
+          "option": "HED"
+        },
+        {
+          "option": "ZWT"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd pair out based on the rule (x, 2x+1):",
+      "options": [
+        {
+          "option": "(5, 12)",
+          "is_answer": true
+        },
+        {
+          "option": "(7, 15)"
+        },
+        {
+          "option": "(4, 9)"
+        },
+        {
+          "option": "(6, 13)"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd triplet out based on the rule (x, 2x+1, 4x+3):",
+      "options": [
+        {
+          "option": "(3, 7, 15)"
+        },
+        {
+          "option": "(3, 7, 16)",
+          "is_answer": true
+        },
+        {
+          "option": "(4, 9, 19)"
+        },
+        {
+          "option": "(5, 11, 23)"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd pair out where the second number deviates from (2x+1):",
+      "options": [
+        {
+          "option": "(14, 30)",
+          "is_answer": true
+        },
+        {
+          "option": "(16, 33)"
+        },
+        {
+          "option": "(14, 29)"
+        },
+        {
+          "option": "(19, 39)"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd one out among the following chemical element classifications based on chemical inertness.",
+      "options": [
+        {
+          "option": "Alkali metals",
+          "is_answer": true
+        },
+        {
+          "option": "Group 18 elements"
+        },
+        {
+          "option": "Noble gases"
+        },
+        {
+          "option": "Inert gases"
+        }
+      ]
+    },
+    {
+      "question": "Identify the odd one out: Which of these is NOT a noble gas?",
+      "options": [
+        {
+          "option": "Helium"
+        },
+        {
+          "option": "Neon"
+        },
+        {
+          "option": "Argon"
+        },
+        {
+          "option": "Sodium",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on the state of matter at room temperature.",
+      "options": [
+        {
+          "option": "Mercury"
+        },
+        {
+          "option": "Gallium"
+        },
+        {
+          "option": "Cesium"
+        },
+        {
+          "option": "Bromine",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd element from the following alkali metals group.",
+      "options": [
+        {
+          "option": "Potassium"
+        },
+        {
+          "option": "Sodium"
+        },
+        {
+          "option": "Lithium"
+        },
+        {
+          "option": "Calcium",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Identify the odd transition metal from the options given below.",
+      "options": [
+        {
+          "option": "Nickel"
+        },
+        {
+          "option": "Iron"
+        },
+        {
+          "option": "Copper"
+        },
+        {
+          "option": "Aluminum",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out regarding mineral classifications.",
+      "options": [
+        {
+          "option": "Hematite"
+        },
+        {
+          "option": "Bauxite"
+        },
+        {
+          "option": "Quartz",
+          "is_answer": true
+        },
+        {
+          "option": "Magnetite"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is NOT classified as a non-metal?",
+      "options": [
+        {
+          "option": "Sulfur"
+        },
+        {
+          "option": "Zinc",
+          "is_answer": true
+        },
+        {
+          "option": "Chlorine"
+        },
+        {
+          "option": "Phosphorus"
+        }
+      ]
+    },
+    {
+      "question": "Identify the odd one out based on standard physical state at room temperature among halogens.",
+      "options": [
+        {
+          "option": "Iodine",
+          "is_answer": true
+        },
+        {
+          "option": "Fluorine"
+        },
+        {
+          "option": "Chlorine"
+        },
+        {
+          "option": "Bromine"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd one out: Which is a liquid non-metal at standard conditions?",
+      "options": [
+        {
+          "option": "Mercury"
+        },
+        {
+          "option": "Bromine",
+          "is_answer": true
+        },
+        {
+          "option": "Water"
+        },
+        {
+          "option": "Gallium"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out among the following earth-abundant metals.",
+      "options": [
+        {
+          "option": "Iron"
+        },
+        {
+          "option": "Aluminum"
+        },
+        {
+          "option": "Gold",
+          "is_answer": true
+        },
+        {
+          "option": "Calcium"
+        }
+      ]
+    },
+    {
+      "question": "Identify the odd metalloid from the given options.",
+      "options": [
+        {
+          "option": "Boron"
+        },
+        {
+          "option": "Carbon",
+          "is_answer": true
+        },
+        {
+          "option": "Germanium"
+        },
+        {
+          "option": "Silicon"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd one out: Which element is NOT an alkaline earth metal?",
+      "options": [
+        {
+          "option": "Calcium"
+        },
+        {
+          "option": "Magnesium"
+        },
+        {
+          "option": "Barium"
+        },
+        {
+          "option": "Potassium",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on elemental classification.",
+      "options": [
+        {
+          "option": "Copper"
+        },
+        {
+          "option": "Diamond",
+          "is_answer": true
+        },
+        {
+          "option": "Gold"
+        },
+        {
+          "option": "Silver"
+        }
+      ]
+    },
+    {
+      "question": "Identify the odd one out among the radioactive elements.",
+      "options": [
+        {
+          "option": "Uranium"
+        },
+        {
+          "option": "Thorium"
+        },
+        {
+          "option": "Radium"
+        },
+        {
+          "option": "Lead",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd one out regarding mineral ores of iron.",
+      "options": [
+        {
+          "option": "Hematite"
+        },
+        {
+          "option": "Siderite"
+        },
+        {
+          "option": "Magnetite"
+        },
+        {
+          "option": "Bauxite",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on magnetic properties.",
+      "options": [
+        {
+          "option": "Nickel"
+        },
+        {
+          "option": "Iron"
+        },
+        {
+          "option": "Cobalt"
+        },
+        {
+          "option": "Aluminum",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Identify the odd one out: Which of these is a noble metal?",
+      "options": [
+        {
+          "option": "Silver"
+        },
+        {
+          "option": "Platinum"
+        },
+        {
+          "option": "Gold"
+        },
+        {
+          "option": "Iron",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd one out among these common allotropes of carbon.",
+      "options": [
+        {
+          "option": "Graphite"
+        },
+        {
+          "option": "Fullerene"
+        },
+        {
+          "option": "Quartz",
+          "is_answer": true
+        },
+        {
+          "option": "Diamond"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: Which is NOT a halogen element?",
+      "options": [
+        {
+          "option": "Chlorine"
+        },
+        {
+          "option": "Fluorine"
+        },
+        {
+          "option": "Iodine"
+        },
+        {
+          "option": "Oxygen",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Identify the odd element based on standard electrical conductivity in solid state.",
+      "options": [
+        {
+          "option": "Gold"
+        },
+        {
+          "option": "Silver"
+        },
+        {
+          "option": "Copper"
+        },
+        {
+          "option": "Sulfur",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on the digit sum: 26, 35, 43, 62.",
+      "options": [
+        {
+          "option": "62"
+        },
+        {
+          "option": "26"
+        },
+        {
+          "option": "35"
+        },
+        {
+          "option": "43",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on the digit sum: 14, 23, 31, 50.",
+      "options": [
+        {
+          "option": "14"
+        },
+        {
+          "option": "50"
+        },
+        {
+          "option": "23"
+        },
+        {
+          "option": "31",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on the digit sum: 15, 24, 33, 41.",
+      "options": [
+        {
+          "option": "33"
+        },
+        {
+          "option": "41",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "24"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on the digit sum: 17, 26, 34, 53.",
+      "options": [
+        {
+          "option": "34",
+          "is_answer": true
+        },
+        {
+          "option": "53"
+        },
+        {
+          "option": "17"
+        },
+        {
+          "option": "26"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on the digit sum: 27, 36, 45, 52.",
+      "options": [
+        {
+          "option": "52",
+          "is_answer": true
+        },
+        {
+          "option": "27"
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "45"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on the digit product: 16, 24, 32, 41.",
+      "options": [
+        {
+          "option": "32"
+        },
+        {
+          "option": "41",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "24"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on the digit product: 13, 22, 31, 40.",
+      "options": [
+        {
+          "option": "40",
+          "is_answer": true
+        },
+        {
+          "option": "13"
+        },
+        {
+          "option": "31"
+        },
+        {
+          "option": "22"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on the digit product: 18, 24, 35, 42.",
+      "options": [
+        {
+          "option": "42"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "35",
+          "is_answer": true
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on the digit difference: 25, 47, 36, 59.",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "59",
+          "is_answer": true
+        },
+        {
+          "option": "47"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on the digit difference: 14, 25, 36, 47.",
+      "options": [
+        {
+          "option": "14"
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "47",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on the digit sum: 123, 231, 312, 214.",
+      "options": [
+        {
+          "option": "214",
+          "is_answer": true
+        },
+        {
+          "option": "312"
+        },
+        {
+          "option": "123"
+        },
+        {
+          "option": "231"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on the digit sum: 144, 234, 324, 415.",
+      "options": [
+        {
+          "option": "415",
+          "is_answer": true
+        },
+        {
+          "option": "324"
+        },
+        {
+          "option": "144"
+        },
+        {
+          "option": "234"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on the digit sum: 115, 224, 314, 404.",
+      "options": [
+        {
+          "option": "314",
+          "is_answer": true
+        },
+        {
+          "option": "224"
+        },
+        {
+          "option": "115"
+        },
+        {
+          "option": "404"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on the digit sum: 136, 225, 314, 412.",
+      "options": [
+        {
+          "option": "412",
+          "is_answer": true
+        },
+        {
+          "option": "225"
+        },
+        {
+          "option": "314"
+        },
+        {
+          "option": "136"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on the digit product: 124, 222, 118, 214.",
+      "options": [
+        {
+          "option": "118",
+          "is_answer": true
+        },
+        {
+          "option": "222"
+        },
+        {
+          "option": "124"
+        },
+        {
+          "option": "214"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on the digit sum: 51, 62, 73, 85.",
+      "options": [
+        {
+          "option": "73"
+        },
+        {
+          "option": "85",
+          "is_answer": true
+        },
+        {
+          "option": "62"
+        },
+        {
+          "option": "51"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on the digit sum: 19, 28, 37, 48.",
+      "options": [
+        {
+          "option": "48",
+          "is_answer": true
+        },
+        {
+          "option": "28"
+        },
+        {
+          "option": "19"
+        },
+        {
+          "option": "37"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on the digit sum: 38, 47, 56, 64.",
+      "options": [
+        {
+          "option": "38"
+        },
+        {
+          "option": "47"
+        },
+        {
+          "option": "56"
+        },
+        {
+          "option": "64",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on the digit product: 117, 213, 312, 142.",
+      "options": [
+        {
+          "option": "213"
+        },
+        {
+          "option": "312"
+        },
+        {
+          "option": "142",
+          "is_answer": true
+        },
+        {
+          "option": "117"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on the digit sum: 54, 63, 72, 83.",
+      "options": [
+        {
+          "option": "72"
+        },
+        {
+          "option": "83",
+          "is_answer": true
+        },
+        {
+          "option": "54"
+        },
+        {
+          "option": "63"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on vowel frequency: AE, IO, UA, BC",
+      "options": [
+        {
+          "option": "BC",
+          "is_answer": true
+        },
+        {
+          "option": "AE"
+        },
+        {
+          "option": "UA"
+        },
+        {
+          "option": "IO"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on vowel frequency: PQR, AEI, MNO, UAE",
+      "options": [
+        {
+          "option": "MNO"
+        },
+        {
+          "option": "AEI"
+        },
+        {
+          "option": "UAE"
+        },
+        {
+          "option": "PQR",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on vowel presence: BCD, FGH, JKL, AEI",
+      "options": [
+        {
+          "option": "AEI",
+          "is_answer": true
+        },
+        {
+          "option": "FGH"
+        },
+        {
+          "option": "BCD"
+        },
+        {
+          "option": "JKL"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd letter group based on having no vowels: AEI, OUA, EIO, BDF",
+      "options": [
+        {
+          "option": "BDF",
+          "is_answer": true
+        },
+        {
+          "option": "AEI"
+        },
+        {
+          "option": "OUA"
+        },
+        {
+          "option": "EIO"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out with a single vowel: AE, IO, U, BC",
+      "options": [
+        {
+          "option": "BC",
+          "is_answer": true
+        },
+        {
+          "option": "IO"
+        },
+        {
+          "option": "AE"
+        },
+        {
+          "option": "U"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on vowel count: AIO, EUI, BCD, OUE",
+      "options": [
+        {
+          "option": "AIO"
+        },
+        {
+          "option": "EUI"
+        },
+        {
+          "option": "BCD",
+          "is_answer": true
+        },
+        {
+          "option": "OUE"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd group where vowel is at the end: AE, IO, UA, EB",
+      "options": [
+        {
+          "option": "UA"
+        },
+        {
+          "option": "IO"
+        },
+        {
+          "option": "EB",
+          "is_answer": true
+        },
+        {
+          "option": "AE"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on exact vowel frequency (2 vowels): A B C, E I K, O U M, A E F",
+      "options": [
+        {
+          "option": "A B C",
+          "is_answer": true
+        },
+        {
+          "option": "E I K"
+        },
+        {
+          "option": "A E F"
+        },
+        {
+          "option": "O U M"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out having only consonants: AEI, OUA, XYZ, EIO",
+      "options": [
+        {
+          "option": "XYZ",
+          "is_answer": true
+        },
+        {
+          "option": "AEI"
+        },
+        {
+          "option": "EIO"
+        },
+        {
+          "option": "OUA"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: A E I, B C D, O U A, E I O",
+      "options": [
+        {
+          "option": "O U A"
+        },
+        {
+          "option": "A E I"
+        },
+        {
+          "option": "E I O"
+        },
+        {
+          "option": "B C D",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on vowel position at start: EFG, AEI, IOU, UAE",
+      "options": [
+        {
+          "option": "UAE"
+        },
+        {
+          "option": "IOU"
+        },
+        {
+          "option": "AEI"
+        },
+        {
+          "option": "EFG",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out where all letters are vowels except one: AEIC, AEIO, EIOU, AOUI",
+      "options": [
+        {
+          "option": "AEIO"
+        },
+        {
+          "option": "AOUI"
+        },
+        {
+          "option": "EIOU"
+        },
+        {
+          "option": "AEIC",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on alternating Vowel-Consonant pattern: A B C D, E F G H, I J K L, A B E I",
+      "options": [
+        {
+          "option": "I J K L"
+        },
+        {
+          "option": "A B C D"
+        },
+        {
+          "option": "A B E I",
+          "is_answer": true
+        },
+        {
+          "option": "E F G H"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out having exactly three vowels: A B C, E I O, U A E, I O U",
+      "options": [
+        {
+          "option": "A B C",
+          "is_answer": true
+        },
+        {
+          "option": "E I O"
+        },
+        {
+          "option": "I O U"
+        },
+        {
+          "option": "U A E"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on vowel frequency count (Odd count vs Even count): A E I O, B C D F, U A E I, O I A E",
+      "options": [
+        {
+          "option": "B C D F"
+        },
+        {
+          "option": "A E I O",
+          "is_answer": true
+        },
+        {
+          "option": "O I A E"
+        },
+        {
+          "option": "U A E I"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd letter group: M N P, Q R S, T V W, A E I",
+      "options": [
+        {
+          "option": "T V W"
+        },
+        {
+          "option": "Q R S"
+        },
+        {
+          "option": "A E I",
+          "is_answer": true
+        },
+        {
+          "option": "M N P"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out where no vowels are present: P Q R, A E I, O U A, E I O",
+      "options": [
+        {
+          "option": "E I O"
+        },
+        {
+          "option": "O U A"
+        },
+        {
+          "option": "P Q R",
+          "is_answer": true
+        },
+        {
+          "option": "A E I"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd group based on vowel positions: A B C E, F G H I, J K L M, X Y Z W",
+      "options": [
+        {
+          "option": "F G H I"
+        },
+        {
+          "option": "A B C E",
+          "is_answer": true
+        },
+        {
+          "option": "X Y Z W"
+        },
+        {
+          "option": "J K L M"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: B C D, F G H, J K L, A E I",
+      "options": [
+        {
+          "option": "B C D"
+        },
+        {
+          "option": "J K L"
+        },
+        {
+          "option": "A E I",
+          "is_answer": true
+        },
+        {
+          "option": "F G H"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on having more than one vowel: B C D, F G H, J K L, A E I",
+      "options": [
+        {
+          "option": "A E I",
+          "is_answer": true
+        },
+        {
+          "option": "F G H"
+        },
+        {
+          "option": "B C D"
+        },
+        {
+          "option": "J K L"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd letter group out based on reverse alphabetical symmetry (A-Z pairs):",
+      "options": [
+        {
+          "option": "AZ BY CX",
+          "is_answer": true
+        },
+        {
+          "option": "AZ BX CX"
+        },
+        {
+          "option": "GT HS IR"
+        },
+        {
+          "option": "DW EV FU"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd pair out where the state and capital association is incorrect:",
+      "options": [
+        {
+          "option": "Karnataka - Bengaluru"
+        },
+        {
+          "option": "Maharashtra - Mumbai"
+        },
+        {
+          "option": "Tamil Nadu - Chennai"
+        },
+        {
+          "option": "Gujarat - Surat",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Identify the incorrect state and capital pair:",
+      "options": [
+        {
+          "option": "Bihar - Patna"
+        },
+        {
+          "option": "West Bengal - Kolkata"
+        },
+        {
+          "option": "Odisha - Bhubaneswar"
+        },
+        {
+          "option": "Punjab - Ludhiana",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of the following pairs is incorrectly matched?",
+      "options": [
+        {
+          "option": "Assam - Dispur"
+        },
+        {
+          "option": "Sikkim - Gangtok"
+        },
+        {
+          "option": "Kerala - Thiruvananthapuram"
+        },
+        {
+          "option": "Kerala - Kochi",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the mismatched state and capital:",
+      "options": [
+        {
+          "option": "Uttar Pradesh - Lucknow"
+        },
+        {
+          "option": "Rajasthan - Jaipur"
+        },
+        {
+          "option": "Madhya Pradesh - Indore",
+          "is_answer": true
+        },
+        {
+          "option": "Madhya Pradesh - Bhopal"
+        }
+      ]
+    },
+    {
+      "question": "Spot the odd pair out based on state and capital:",
+      "options": [
+        {
+          "option": "Jharkhand - Ranchi"
+        },
+        {
+          "option": "Jharkhand - Jamshedpur",
+          "is_answer": true
+        },
+        {
+          "option": "Goa - Panaji"
+        },
+        {
+          "option": "Chhattisgarh - Raipur"
+        }
+      ]
+    },
+    {
+      "question": "Which state and capital combination is wrong?",
+      "options": [
+        {
+          "option": "Haryana - Chandigarh"
+        },
+        {
+          "option": "Punjab - Chandigarh"
+        },
+        {
+          "option": "Himachal Pradesh - Shimla"
+        },
+        {
+          "option": "Haryana - Gurgaon",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Identify the incorrect association between the state and its administrative center:",
+      "options": [
+        {
+          "option": "Uttarakhand - Dehradun"
+        },
+        {
+          "option": "Tripura - Agartala"
+        },
+        {
+          "option": "Manipur - Imphal"
+        },
+        {
+          "option": "Uttarakhand - Haridwar",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out among the following geographical pairs:",
+      "options": [
+        {
+          "option": "Meghalaya - Shillong"
+        },
+        {
+          "option": "Nagaland - Kohima"
+        },
+        {
+          "option": "Meghalaya - Tura",
+          "is_answer": true
+        },
+        {
+          "option": "Mizoram - Aizawl"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following pairs is not correctly matched?",
+      "options": [
+        {
+          "option": "Arunachal Pradesh - Itanagar"
+        },
+        {
+          "option": "Bihar - Patna"
+        },
+        {
+          "option": "Arunachal Pradesh - Ziro",
+          "is_answer": true
+        },
+        {
+          "option": "Assam - Dispur"
+        }
+      ]
+    },
+    {
+      "question": "Spot the incorrect state-capital pair:",
+      "options": [
+        {
+          "option": "Telangana - Hyderabad"
+        },
+        {
+          "option": "Andhra Pradesh - Visakhapatnam",
+          "is_answer": true
+        },
+        {
+          "option": "Tamil Nadu - Chennai"
+        },
+        {
+          "option": "Andhra Pradesh - Amaravati"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd pair out based on wrong capital city:",
+      "options": [
+        {
+          "option": "Gujarat - Gandhinagar"
+        },
+        {
+          "option": "Maharashtra - Mumbai"
+        },
+        {
+          "option": "Rajasthan - Jodhpur",
+          "is_answer": true
+        },
+        {
+          "option": "Rajasthan - Jaipur"
+        }
+      ]
+    },
+    {
+      "question": "Identify the wrongly matched pair of Indian state and capital:",
+      "options": [
+        {
+          "option": "West Bengal - Kolkata"
+        },
+        {
+          "option": "Uttar Pradesh - Kanpur",
+          "is_answer": true
+        },
+        {
+          "option": "Bihar - Patna"
+        },
+        {
+          "option": "Uttar Pradesh - Lucknow"
+        }
+      ]
+    },
+    {
+      "question": "Which pair shows an incorrect state and capital association?",
+      "options": [
+        {
+          "option": "Karnataka - Bengaluru"
+        },
+        {
+          "option": "Kerala - Thiruvananthapuram"
+        },
+        {
+          "option": "Karnataka - Mysuru",
+          "is_answer": true
+        },
+        {
+          "option": "Tamil Nadu - Chennai"
+        }
+      ]
+    },
+    {
+      "question": "Spot the odd one out from the given pairs:",
+      "options": [
+        {
+          "option": "Madhya Pradesh - Gwalior",
+          "is_answer": true
+        },
+        {
+          "option": "Jharkhand - Ranchi"
+        },
+        {
+          "option": "Chhattisgarh - Raipur"
+        },
+        {
+          "option": "Madhya Pradesh - Bhopal"
+        }
+      ]
+    },
+    {
+      "question": "Find the incorrect match of state and capital:",
+      "options": [
+        {
+          "option": "Bihar - Patna"
+        },
+        {
+          "option": "Odisha - Rourkela",
+          "is_answer": true
+        },
+        {
+          "option": "Odisha - Bhubaneswar"
+        },
+        {
+          "option": "West Bengal - Kolkata"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is an incorrect state-capital association?",
+      "options": [
+        {
+          "option": "Haryana - Chandigarh"
+        },
+        {
+          "option": "Himachal Pradesh - Shimla"
+        },
+        {
+          "option": "Punjab - Amritsar",
+          "is_answer": true
+        },
+        {
+          "option": "Punjab - Chandigarh"
+        }
+      ]
+    },
+    {
+      "question": "Identify the odd pair where the capital is wrongly mapped:",
+      "options": [
+        {
+          "option": "Maharashtra - Mumbai"
+        },
+        {
+          "option": "Goa - Panaji"
+        },
+        {
+          "option": "Gujarat - Vadodara",
+          "is_answer": true
+        },
+        {
+          "option": "Gujarat - Gandhinagar"
+        }
+      ]
+    },
+    {
+      "question": "Find the mismatched state and administrative headquarters:",
+      "options": [
+        {
+          "option": "Meghalaya - Shillong"
+        },
+        {
+          "option": "Assam - Dispur"
+        },
+        {
+          "option": "Assam - Guwahati",
+          "is_answer": true
+        },
+        {
+          "option": "Tripura - Agartala"
+        }
+      ]
+    },
+    {
+      "question": "Spot the odd pair out from the following list:",
+      "options": [
+        {
+          "option": "Jharkhand - Ranchi"
+        },
+        {
+          "option": "Odisha - Bhubaneswar"
+        },
+        {
+          "option": "Bihar - Patna"
+        },
+        {
+          "option": "Bihar - Gaya",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of the given state-capital pairs is false?",
+      "options": [
+        {
+          "option": "Tamil Nadu - Chennai"
+        },
+        {
+          "option": "Karnataka - Bengaluru"
+        },
+        {
+          "option": "Tamil Nadu - Madurai",
+          "is_answer": true
+        },
+        {
+          "option": "Kerala - Thiruvananthapuram"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd pair out where three pairs are antonyms and one is a synonym pair.",
+      "options": [
+        {
+          "option": "Tall : Short"
+        },
+        {
+          "option": "Hot : Cold"
+        },
+        {
+          "option": "Light : Dark"
+        },
+        {
+          "option": "Huge : Massive",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of the following animal-sound pairs is the odd one out?",
+      "options": [
+        {
+          "option": "Lion:Mew",
+          "is_answer": true
+        },
+        {
+          "option": "Frog:Croak"
+        },
+        {
+          "option": "Bee:Buzz"
+        },
+        {
+          "option": "Duck:Quack"
+        }
+      ]
+    },
+    {
+      "question": "Identify the incorrect animal-sound combination.",
+      "options": [
+        {
+          "option": "Snake:Bellow",
+          "is_answer": true
+        },
+        {
+          "option": "Cow:Moo"
+        },
+        {
+          "option": "Cat:Meow"
+        },
+        {
+          "option": "Dog:Bark"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd pair out based on natural animal sounds.",
+      "options": [
+        {
+          "option": "Pig:Oink"
+        },
+        {
+          "option": "Sheep:Baa"
+        },
+        {
+          "option": "Horse:Neigh"
+        },
+        {
+          "option": "Elephant:Hiss",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which animal is incorrectly matched with its sound?",
+      "options": [
+        {
+          "option": "Crow:Caw"
+        },
+        {
+          "option": "Owl:Moo",
+          "is_answer": true
+        },
+        {
+          "option": "Wolf:Howl"
+        },
+        {
+          "option": "Owl:Hoot"
+        }
+      ]
+    },
+    {
+      "question": "Select the odd one out among the given animal and sound pairs.",
+      "options": [
+        {
+          "option": "Donkey:Quack",
+          "is_answer": true
+        },
+        {
+          "option": "Rooster:Crow"
+        },
+        {
+          "option": "Goat:Bleat"
+        },
+        {
+          "option": "Donkey:Bray"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following pairs is mismatched?",
+      "options": [
+        {
+          "option": "Bear:Growl"
+        },
+        {
+          "option": "Tiger:Roar"
+        },
+        {
+          "option": "Mouse:Squeak"
+        },
+        {
+          "option": "Tiger:Cluck",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out:",
+      "options": [
+        {
+          "option": "Monkey:Chatter"
+        },
+        {
+          "option": "Horse:Neigh"
+        },
+        {
+          "option": "Donkey:Bray"
+        },
+        {
+          "option": "Monkey:Trumpet",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which animal and sound association is incorrect?",
+      "options": [
+        {
+          "option": "Rooster:Crow"
+        },
+        {
+          "option": "Duck:Quack"
+        },
+        {
+          "option": "Rooster:Bleat",
+          "is_answer": true
+        },
+        {
+          "option": "Turkey:Gobble"
+        }
+      ]
+    },
+    {
+      "question": "Identify the odd pair:",
+      "options": [
+        {
+          "option": "Snake:Hiss"
+        },
+        {
+          "option": "Bee:Buzz"
+        },
+        {
+          "option": "Bee:Oink",
+          "is_answer": true
+        },
+        {
+          "option": "Fly:Buzz"
+        }
+      ]
+    },
+    {
+      "question": "Which of these pairs does not belong?",
+      "options": [
+        {
+          "option": "Cat:Bark",
+          "is_answer": true
+        },
+        {
+          "option": "Dog:Bark"
+        },
+        {
+          "option": "Wolf:Howl"
+        },
+        {
+          "option": "Cat:Meow"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd sound association among animals:",
+      "options": [
+        {
+          "option": "Duck:Quack"
+        },
+        {
+          "option": "Frog:Croak"
+        },
+        {
+          "option": "Frog:Neigh",
+          "is_answer": true
+        },
+        {
+          "option": "Goose:Honk"
+        }
+      ]
+    },
+    {
+      "question": "Which animal-sound pair is incorrect?",
+      "options": [
+        {
+          "option": "Cow:Moo"
+        },
+        {
+          "option": "Sheep:Roar",
+          "is_answer": true
+        },
+        {
+          "option": "Pig:Oink"
+        },
+        {
+          "option": "Sheep:Baa"
+        }
+      ]
+    },
+    {
+      "question": "Spot the odd one out in animal sounds:",
+      "options": [
+        {
+          "option": "Owl:Moo",
+          "is_answer": true
+        },
+        {
+          "option": "Dove:Coo"
+        },
+        {
+          "option": "Crow:Caw"
+        },
+        {
+          "option": "Owl:Hoot"
+        }
+      ]
+    },
+    {
+      "question": "Choose the incorrect animal-sound association.",
+      "options": [
+        {
+          "option": "Horse:Neigh"
+        },
+        {
+          "option": "Elephant:Trumpet"
+        },
+        {
+          "option": "Donkey:Bray"
+        },
+        {
+          "option": "Horse:Quack",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of the following pairs is the odd one out?",
+      "options": [
+        {
+          "option": "Tiger:Roar"
+        },
+        {
+          "option": "Leopard:Growl"
+        },
+        {
+          "option": "Lion:Cluck",
+          "is_answer": true
+        },
+        {
+          "option": "Lion:Roar"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd pair out based on standard animal noises.",
+      "options": [
+        {
+          "option": "Pig:Oink"
+        },
+        {
+          "option": "Horse:Neigh"
+        },
+        {
+          "option": "Pig:Meow",
+          "is_answer": true
+        },
+        {
+          "option": "Cow:Moo"
+        }
+      ]
+    },
+    {
+      "question": "Which bird or animal is paired with the wrong sound?",
+      "options": [
+        {
+          "option": "Duck:Quack"
+        },
+        {
+          "option": "Rooster:Crow"
+        },
+        {
+          "option": "Crow:Caw"
+        },
+        {
+          "option": "Crow:Bleat",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Identify the odd animal-sound association.",
+      "options": [
+        {
+          "option": "Dog:Bark"
+        },
+        {
+          "option": "Snake:Hiss"
+        },
+        {
+          "option": "Snake:Bark",
+          "is_answer": true
+        },
+        {
+          "option": "Cat:Meow"
+        }
+      ]
+    },
+    {
+      "question": "Which pair among the following is incorrect?",
+      "options": [
+        {
+          "option": "Lion:Roar"
+        },
+        {
+          "option": "Cow:Moo"
+        },
+        {
+          "option": "Elephant:Trumpet"
+        },
+        {
+          "option": "Elephant:Moo",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out from the animal sound pairs:",
+      "options": [
+        {
+          "option": "Goose:Honk"
+        },
+        {
+          "option": "Turkey:Neigh",
+          "is_answer": true
+        },
+        {
+          "option": "Turkey:Gobble"
+        },
+        {
+          "option": "Duck:Quack"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd pair out regarding physical quantity and its standard SI unit:",
+      "options": [
+        {
+          "option": "Force - Erg",
+          "is_answer": true
+        },
+        {
+          "option": "Length - Meter"
+        },
+        {
+          "option": "Time - Second"
+        },
+        {
+          "option": "Mass - Kilogram"
+        }
+      ]
+    },
+    {
+      "question": "Identify the mismatched pair of physical quantity and unit:",
+      "options": [
+        {
+          "option": "Power - Watt"
+        },
+        {
+          "option": "Work - Joule"
+        },
+        {
+          "option": "Energy - Watt",
+          "is_answer": true
+        },
+        {
+          "option": "Energy - Joule"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following pairs is incorrect?",
+      "options": [
+        {
+          "option": "Area - Square meter"
+        },
+        {
+          "option": "Force - Newton"
+        },
+        {
+          "option": "Pressure - Pascal"
+        },
+        {
+          "option": "Pressure - Pascal (Note: Suppose option A is mismatched, let's keep it correct SI. Wait, let's make A the mismatched one): Pressure - Newton",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd pair out based on SI units:",
+      "options": [
+        {
+          "option": "Frequency - Decibel"
+        },
+        {
+          "option": "Time period - Second"
+        },
+        {
+          "option": "Frequency - Hertz",
+          "is_answer": true
+        },
+        {
+          "option": "Velocity - Meter per second"
+        }
+      ]
+    },
+    {
+      "question": "Which pair of quantity and unit is incorrectly matched?",
+      "options": [
+        {
+          "option": "Electric Potential - Volt"
+        },
+        {
+          "option": "Electric Resistance - Ohm"
+        },
+        {
+          "option": "Electric Current - Volt",
+          "is_answer": true
+        },
+        {
+          "option": "Electric Charge - Coulomb"
+        }
+      ]
+    },
+    {
+      "question": "Identify the odd combination of physical quantity and unit:",
+      "options": [
+        {
+          "option": "Magnetic Flux - Weber"
+        },
+        {
+          "option": "Magnetic Field Strength - Ampere per meter"
+        },
+        {
+          "option": "Magnetic Induction - Tesla"
+        },
+        {
+          "option": "Magnetic Flux - Tesla",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd pair out among the following:",
+      "options": [
+        {
+          "option": "Viscosity - Candela"
+        },
+        {
+          "option": "Density - Kilogram per cubic meter"
+        },
+        {
+          "option": "Volume - Cubic meter"
+        },
+        {
+          "option": "Viscosity - Poiseuille",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which quantity-unit pair is mismatched?",
+      "options": [
+        {
+          "option": "Illuminance - Lux"
+        },
+        {
+          "option": "Luminous Intensity - Candela"
+        },
+        {
+          "option": "Luminous Intensity - Lumen",
+          "is_answer": true
+        },
+        {
+          "option": "Luminous Flux - Lumen"
+        }
+      ]
+    },
+    {
+      "question": "Spot the incorrect pair of physical quantity and unit:",
+      "options": [
+        {
+          "option": "Absorbed Dose - Gray"
+        },
+        {
+          "option": "Radioactivity - Becquerel",
+          "is_answer": true
+        },
+        {
+          "option": "Radioactivity - Watt"
+        },
+        {
+          "option": "Activity - Curie"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd pair out regarding heat and temperature:",
+      "options": [
+        {
+          "option": "Temperature - Kelvin"
+        },
+        {
+          "option": "Heat - Joule"
+        },
+        {
+          "option": "Temperature - Joule",
+          "is_answer": true
+        },
+        {
+          "option": "Temperature - Celsius"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is an incorrect pair of quantity and SI unit?",
+      "options": [
+        {
+          "option": "Capacitance - Farad"
+        },
+        {
+          "option": "Inductance - Farad",
+          "is_answer": true
+        },
+        {
+          "option": "Conductance - Siemens"
+        },
+        {
+          "option": "Inductance - Henry"
+        }
+      ]
+    },
+    {
+      "question": "Identify the odd pair based on mechanics:",
+      "options": [
+        {
+          "option": "Force - Newton"
+        },
+        {
+          "option": "Impulse - Newton second"
+        },
+        {
+          "option": "Momentum - Newton",
+          "is_answer": true
+        },
+        {
+          "option": "Momentum - Kilogram meter per second"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd pair out among the following angular measurements:",
+      "options": [
+        {
+          "option": "Plane Angle - Degree"
+        },
+        {
+          "option": "Solid Angle - Steradian"
+        },
+        {
+          "option": "Plane Angle - Radian"
+        },
+        {
+          "option": "Solid Angle - Radian",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which pair of physical quantity and unit is mismatched?",
+      "options": [
+        {
+          "option": "Surface Tension - Newton per meter"
+        },
+        {
+          "option": "Pressure - Newton per square meter"
+        },
+        {
+          "option": "Surface Tension - Joule",
+          "is_answer": true
+        },
+        {
+          "option": "Surface Energy - Joule per square meter"
+        }
+      ]
+    },
+    {
+      "question": "Spot the odd pair out regarding wave motion:",
+      "options": [
+        {
+          "option": "Wave Number - Per meter"
+        },
+        {
+          "option": "Wavelength - Meter"
+        },
+        {
+          "option": "Wavelength - Hertz",
+          "is_answer": true
+        },
+        {
+          "option": "Frequency - Hertz"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd pair out from thermodynamic quantities:",
+      "options": [
+        {
+          "option": "Entropy - Joule per Kelvin"
+        },
+        {
+          "option": "Entropy - Pascal",
+          "is_answer": true
+        },
+        {
+          "option": "Latent Heat - Joule per kilogram"
+        },
+        {
+          "option": "Specific Heat Capacity - Joule per kilogram Kelvin"
+        }
+      ]
+    },
+    {
+      "question": "Identify the odd pair of quantity and unit:",
+      "options": [
+        {
+          "option": "Power - Watt"
+        },
+        {
+          "option": "Work - Joule"
+        },
+        {
+          "option": "Energy - Joule"
+        },
+        {
+          "option": "Power - Joule",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd pair out related to astronomical distances:",
+      "options": [
+        {
+          "option": "Parsec - Second",
+          "is_answer": true
+        },
+        {
+          "option": "Astronomical Unit - Meter"
+        },
+        {
+          "option": "Parsec - Meter"
+        },
+        {
+          "option": "Light Year - Meter"
+        }
+      ]
+    },
+    {
+      "question": "Which quantity-unit pair is incorrect?",
+      "options": [
+        {
+          "option": "Kinematic Viscosity - Stokes"
+        },
+        {
+          "option": "Dynamic Viscosity - Pascal second"
+        },
+        {
+          "option": "Kinematic Viscosity - Newton",
+          "is_answer": true
+        },
+        {
+          "option": "Dynamic Viscosity - Poise"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd group out based on the mathematical relation between the numbers: (a, b, c) -> c = a * b + 2.",
+      "options": [
+        {
+          "option": "(4, 5, 22)",
+          "is_answer": true
+        },
+        {
+          "option": "(2, 7, 16)"
+        },
+        {
+          "option": "(3, 4, 14)"
+        },
+        {
+          "option": "(5, 6, 32)"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd group out where c = (a + b) * 2.",
+      "options": [
+        {
+          "option": "(5, 4, 18)"
+        },
+        {
+          "option": "(4, 6, 20)"
+        },
+        {
+          "option": "(2, 7, 18)"
+        },
+        {
+          "option": "(3, 5, 18)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd group out where c = a^2 + b.",
+      "options": [
+        {
+          "option": "(4, 3, 19)"
+        },
+        {
+          "option": "(3, 4, 15)",
+          "is_answer": true
+        },
+        {
+          "option": "(5, 2, 27)"
+        },
+        {
+          "option": "(2, 6, 10)"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd group out where c = 3a - b.",
+      "options": [
+        {
+          "option": "(5, 3, 12)"
+        },
+        {
+          "option": "(7, 5, 16)"
+        },
+        {
+          "option": "(4, 2, 10)"
+        },
+        {
+          "option": "(6, 4, 15)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd group out where c = a * b - 3.",
+      "options": [
+        {
+          "option": "(4, 4, 12)",
+          "is_answer": true
+        },
+        {
+          "option": "(2, 8, 13)"
+        },
+        {
+          "option": "(6, 3, 15)"
+        },
+        {
+          "option": "(3, 5, 12)"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd group out where c = 2a + 3b.",
+      "options": [
+        {
+          "option": "(4, 3, 17)"
+        },
+        {
+          "option": "(5, 2, 15)",
+          "is_answer": true
+        },
+        {
+          "option": "(1, 5, 17)"
+        },
+        {
+          "option": "(2, 4, 16)"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd group out where c = a^2 - b.",
+      "options": [
+        {
+          "option": "(4, 3, 13)"
+        },
+        {
+          "option": "(7, 6, 43)"
+        },
+        {
+          "option": "(5, 4, 21)"
+        },
+        {
+          "option": "(6, 5, 30)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd group out where c = (a - b) * 5.",
+      "options": [
+        {
+          "option": "(9, 5, 20)"
+        },
+        {
+          "option": "(8, 4, 25)",
+          "is_answer": true
+        },
+        {
+          "option": "(7, 3, 20)"
+        },
+        {
+          "option": "(6, 2, 20)"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd group out where c = a + b^2.",
+      "options": [
+        {
+          "option": "(5, 2, 9)"
+        },
+        {
+          "option": "(2, 4, 18)"
+        },
+        {
+          "option": "(3, 3, 11)",
+          "is_answer": true
+        },
+        {
+          "option": "(1, 5, 26)"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd group out where c = 4a - 2b.",
+      "options": [
+        {
+          "option": "(3, 2, 8)"
+        },
+        {
+          "option": "(7, 5, 18)"
+        },
+        {
+          "option": "(6, 4, 16)"
+        },
+        {
+          "option": "(5, 3, 13)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd group out where c = a * b + b.",
+      "options": [
+        {
+          "option": "(4, 4, 18)",
+          "is_answer": true
+        },
+        {
+          "option": "(2, 6, 14)"
+        },
+        {
+          "option": "(3, 5, 20)"
+        },
+        {
+          "option": "(5, 3, 20)"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd group out where c = 2 * (a + b) - 1.",
+      "options": [
+        {
+          "option": "(5, 2, 13)"
+        },
+        {
+          "option": "(4, 3, 13)",
+          "is_answer": true
+        },
+        {
+          "option": "(1, 8, 17)"
+        },
+        {
+          "option": "(3, 6, 17)"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd group out where c = a^2 + b^2.",
+      "options": [
+        {
+          "option": "(2, 5, 29)"
+        },
+        {
+          "option": "(1, 6, 37)"
+        },
+        {
+          "option": "(3, 4, 24)",
+          "is_answer": true
+        },
+        {
+          "option": "(4, 5, 41)"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd group out where c = 5a - 3b.",
+      "options": [
+        {
+          "option": "(7, 4, 23)"
+        },
+        {
+          "option": "(4, 1, 17)"
+        },
+        {
+          "option": "(5, 2, 19)"
+        },
+        {
+          "option": "(6, 3, 22)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd group out where c = a * b / 2.",
+      "options": [
+        {
+          "option": "(2, 10, 10)"
+        },
+        {
+          "option": "(4, 6, 14)",
+          "is_answer": true
+        },
+        {
+          "option": "(6, 4, 12)"
+        },
+        {
+          "option": "(8, 3, 12)"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd group out where c = (a + b) + a * b.",
+      "options": [
+        {
+          "option": "(1, 6, 13)"
+        },
+        {
+          "option": "(3, 4, 17)",
+          "is_answer": true
+        },
+        {
+          "option": "(4, 3, 19)"
+        },
+        {
+          "option": "(2, 5, 17)"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd group out where c = 3 * (a - b).",
+      "options": [
+        {
+          "option": "(8, 5, 9)"
+        },
+        {
+          "option": "(9, 6, 9)"
+        },
+        {
+          "option": "(6, 3, 9)"
+        },
+        {
+          "option": "(7, 4, 10)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd group out where c = a^3 - b.",
+      "options": [
+        {
+          "option": "(3, 5, 24)",
+          "is_answer": true
+        },
+        {
+          "option": "(2, 3, 5)"
+        },
+        {
+          "option": "(3, 2, 25)"
+        },
+        {
+          "option": "(4, 10, 54)"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd group out where c = 2a^2 - b.",
+      "options": [
+        {
+          "option": "(2, 3, 5)"
+        },
+        {
+          "option": "(5, 8, 42)"
+        },
+        {
+          "option": "(3, 4, 14)"
+        },
+        {
+          "option": "(4, 5, 29)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd group out where c = a * b - a.",
+      "options": [
+        {
+          "option": "(4, 5, 16)"
+        },
+        {
+          "option": "(6, 3, 12)"
+        },
+        {
+          "option": "(3, 6, 15)"
+        },
+        {
+          "option": "(5, 4, 17)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd word out among the following instruments:",
+      "options": [
+        {
+          "option": "Violin"
+        },
+        {
+          "option": "Guitar"
+        },
+        {
+          "option": "Cello"
+        },
+        {
+          "option": "Flute",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd word out based on instrument families:",
+      "options": [
+        {
+          "option": "Saxophone"
+        },
+        {
+          "option": "Trumpet",
+          "is_answer": true
+        },
+        {
+          "option": "Clarinet"
+        },
+        {
+          "option": "Oboe"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following does not belong to the percussion family?",
+      "options": [
+        {
+          "option": "Cymbal"
+        },
+        {
+          "option": "Xylophone"
+        },
+        {
+          "option": "Drum"
+        },
+        {
+          "option": "Trombone",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Identify the odd one out among these string instruments:",
+      "options": [
+        {
+          "option": "Flute",
+          "is_answer": true
+        },
+        {
+          "option": "Harp"
+        },
+        {
+          "option": "Viola"
+        },
+        {
+          "option": "Banjo"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd instrument out in this group:",
+      "options": [
+        {
+          "option": "Clarinet"
+        },
+        {
+          "option": "Flute"
+        },
+        {
+          "option": "Piccolo"
+        },
+        {
+          "option": "Tuba",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which instrument is not a member of the brass family?",
+      "options": [
+        {
+          "option": "Trombone"
+        },
+        {
+          "option": "Tuba"
+        },
+        {
+          "option": "French Horn"
+        },
+        {
+          "option": "Bassoon",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Identify the odd word out based on how sound is produced:",
+      "options": [
+        {
+          "option": "Double Bass"
+        },
+        {
+          "option": "Cello"
+        },
+        {
+          "option": "Snare Drum",
+          "is_answer": true
+        },
+        {
+          "option": "Violin"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out among these woodwind instruments:",
+      "options": [
+        {
+          "option": "Trumpet",
+          "is_answer": true
+        },
+        {
+          "option": "Oboe"
+        },
+        {
+          "option": "English Horn"
+        },
+        {
+          "option": "Bassoon"
+        }
+      ]
+    },
+    {
+      "question": "Which instrument does not belong with the others?",
+      "options": [
+        {
+          "option": "Mandolin",
+          "is_answer": true
+        },
+        {
+          "option": "Snare Drum"
+        },
+        {
+          "option": "Timpanis"
+        },
+        {
+          "option": "Bass Drum"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd instrument out in this collection:",
+      "options": [
+        {
+          "option": "Viola"
+        },
+        {
+          "option": "Violin"
+        },
+        {
+          "option": "Cello"
+        },
+        {
+          "option": "Saxophone",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Identify the odd word out:",
+      "options": [
+        {
+          "option": "Cornet",
+          "is_answer": true
+        },
+        {
+          "option": "Flute"
+        },
+        {
+          "option": "Saxophone"
+        },
+        {
+          "option": "Clarinet"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is not a string instrument?",
+      "options": [
+        {
+          "option": "Guitar"
+        },
+        {
+          "option": "Harp"
+        },
+        {
+          "option": "French Horn",
+          "is_answer": true
+        },
+        {
+          "option": "Ukulele"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on instrument classification:",
+      "options": [
+        {
+          "option": "Triangle",
+          "is_answer": true
+        },
+        {
+          "option": "Trombone"
+        },
+        {
+          "option": "Tuba"
+        },
+        {
+          "option": "Trumpet"
+        }
+      ]
+    },
+    {
+      "question": "Identify the odd instrument out in the following list:",
+      "options": [
+        {
+          "option": "Cello"
+        },
+        {
+          "option": "Violin"
+        },
+        {
+          "option": "Clarinet",
+          "is_answer": true
+        },
+        {
+          "option": "Double Bass"
+        }
+      ]
+    },
+    {
+      "question": "Which instrument does not belong to the woodwind family?",
+      "options": [
+        {
+          "option": "Tuba",
+          "is_answer": true
+        },
+        {
+          "option": "Piccolo"
+        },
+        {
+          "option": "Oboe"
+        },
+        {
+          "option": "Bassoon"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd word out among the following:",
+      "options": [
+        {
+          "option": "Violin"
+        },
+        {
+          "option": "Gong",
+          "is_answer": true
+        },
+        {
+          "option": "Viola"
+        },
+        {
+          "option": "Harp"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is an odd instrument out?",
+      "options": [
+        {
+          "option": "Oboe"
+        },
+        {
+          "option": "French Horn",
+          "is_answer": true
+        },
+        {
+          "option": "Flute"
+        },
+        {
+          "option": "Clarinet"
+        }
+      ]
+    },
+    {
+      "question": "Identify the odd one out based on musical families:",
+      "options": [
+        {
+          "option": "Trombone"
+        },
+        {
+          "option": "French Horn"
+        },
+        {
+          "option": "Trumpet"
+        },
+        {
+          "option": "Xylophone",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd word out in this group of instruments:",
+      "options": [
+        {
+          "option": "Tambourine"
+        },
+        {
+          "option": "Cymbal"
+        },
+        {
+          "option": "Snare Drum"
+        },
+        {
+          "option": "Sitar",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these instruments is not a brass instrument?",
+      "options": [
+        {
+          "option": "Saxophone",
+          "is_answer": true
+        },
+        {
+          "option": "Cornet"
+        },
+        {
+          "option": "Tuba"
+        },
+        {
+          "option": "Trumpet"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd one out based on sports equipment: Shuttlecock, Bat, Racket, Tennis ball.",
+      "options": [
+        {
+          "option": "Bat",
+          "is_answer": true
+        },
+        {
+          "option": "Shuttlecock"
+        },
+        {
+          "option": "Tennis ball"
+        },
+        {
+          "option": "Racket"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd one out among these outdoor sports items: Board, Club, Puck, Helmet.",
+      "options": [
+        {
+          "option": "Helmet"
+        },
+        {
+          "option": "Club"
+        },
+        {
+          "option": "Board",
+          "is_answer": true
+        },
+        {
+          "option": "Puck"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: Cue, Club, Mallet, Racket.",
+      "options": [
+        {
+          "option": "Cue"
+        },
+        {
+          "option": "Racket",
+          "is_answer": true
+        },
+        {
+          "option": "Club"
+        },
+        {
+          "option": "Mallet"
+        }
+      ]
+    },
+    {
+      "question": "Identify the odd item in relation to ball games: Puck, Football, Basketball, Volleyball.",
+      "options": [
+        {
+          "option": "Basketball"
+        },
+        {
+          "option": "Puck",
+          "is_answer": true
+        },
+        {
+          "option": "Volleyball"
+        },
+        {
+          "option": "Football"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on indoor vs outdoor: Surfboard, Bat, Shuttlecock, Board.",
+      "options": [
+        {
+          "option": "Surfboard",
+          "is_answer": true
+        },
+        {
+          "option": "Bat"
+        },
+        {
+          "option": "Shuttlecock"
+        },
+        {
+          "option": "Board"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd equipment out: Helmet, Pads, Gloves, Net.",
+      "options": [
+        {
+          "option": "Gloves"
+        },
+        {
+          "option": "Net",
+          "is_answer": true
+        },
+        {
+          "option": "Helmet"
+        },
+        {
+          "option": "Pads"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out among winter sports items: Skis, Snowboard, Ice skates, Surfboard.",
+      "options": [
+        {
+          "option": "Skis"
+        },
+        {
+          "option": "Surfboard",
+          "is_answer": true
+        },
+        {
+          "option": "Ice skates"
+        },
+        {
+          "option": "Snowboard"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd one out: Arrow, Bow, Target, Bat.",
+      "options": [
+        {
+          "option": "Target"
+        },
+        {
+          "option": "Arrow"
+        },
+        {
+          "option": "Bow"
+        },
+        {
+          "option": "Bat",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Identify the odd game equipment: Club, Tee, Hole, Racket.",
+      "options": [
+        {
+          "option": "Hole"
+        },
+        {
+          "option": "Club"
+        },
+        {
+          "option": "Tee"
+        },
+        {
+          "option": "Racket",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: Boxing gloves, Mouthguard, Punching bag, Football.",
+      "options": [
+        {
+          "option": "Football",
+          "is_answer": true
+        },
+        {
+          "option": "Boxing gloves"
+        },
+        {
+          "option": "Punching bag"
+        },
+        {
+          "option": "Mouthguard"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd one out based on water sports equipment: Paddle, Oar, Life jacket, Bat.",
+      "options": [
+        {
+          "option": "Paddle"
+        },
+        {
+          "option": "Oar"
+        },
+        {
+          "option": "Bat",
+          "is_answer": true
+        },
+        {
+          "option": "Life jacket"
+        }
+      ]
+    },
+    {
+      "question": "Identify the odd item: Stumps, Bail, Bat, Shuttlecock.",
+      "options": [
+        {
+          "option": "Stumps"
+        },
+        {
+          "option": "Bat"
+        },
+        {
+          "option": "Shuttlecock",
+          "is_answer": true
+        },
+        {
+          "option": "Bail"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: Basketball hoop, Football goalpost, Cricket bat, Volleyball net.",
+      "options": [
+        {
+          "option": "Basketball hoop"
+        },
+        {
+          "option": "Cricket bat",
+          "is_answer": true
+        },
+        {
+          "option": "Volleyball net"
+        },
+        {
+          "option": "Football goalpost"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd one out: Helmet, Saddle, Reins, Racket.",
+      "options": [
+        {
+          "option": "Racket",
+          "is_answer": true
+        },
+        {
+          "option": "Reins"
+        },
+        {
+          "option": "Saddle"
+        },
+        {
+          "option": "Helmet"
+        }
+      ]
+    },
+    {
+      "question": "Identify the odd equipment for track and field: Javelin, Discus, Shot put, Badminton racket.",
+      "options": [
+        {
+          "option": "Javelin"
+        },
+        {
+          "option": "Discus"
+        },
+        {
+          "option": "Badminton racket",
+          "is_answer": true
+        },
+        {
+          "option": "Shot put"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: Cue stick, Table, Balls, Bat.",
+      "options": [
+        {
+          "option": "Balls"
+        },
+        {
+          "option": "Table"
+        },
+        {
+          "option": "Bat",
+          "is_answer": true
+        },
+        {
+          "option": "Cue stick"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd one out based on indoor board games: Chessboard, Carrom striker, Dartboard, Football.",
+      "options": [
+        {
+          "option": "Carrom striker"
+        },
+        {
+          "option": "Dartboard"
+        },
+        {
+          "option": "Football",
+          "is_answer": true
+        },
+        {
+          "option": "Chessboard"
+        }
+      ]
+    },
+    {
+      "question": "Identify the odd athletic gear: Baton, Starting blocks, Relay baton, Hockey stick.",
+      "options": [
+        {
+          "option": "Relay baton"
+        },
+        {
+          "option": "Baton"
+        },
+        {
+          "option": "Starting blocks"
+        },
+        {
+          "option": "Hockey stick",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: Boxing ring, Wrestling mat, Football pitch, Basketball court.",
+      "options": [
+        {
+          "option": "Wrestling mat"
+        },
+        {
+          "option": "Basketball court"
+        },
+        {
+          "option": "Football pitch",
+          "is_answer": true
+        },
+        {
+          "option": "Boxing ring"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd one out: Helmet, Shin guards, Shoulder pads, Tennis racket.",
+      "options": [
+        {
+          "option": "Shin guards"
+        },
+        {
+          "option": "Helmet"
+        },
+        {
+          "option": "Tennis racket",
+          "is_answer": true
+        },
+        {
+          "option": "Shoulder pads"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd number pair out based on the simplified ratio: 12:18",
+      "options": [
+        {
+          "option": "14:22",
+          "is_answer": true
+        },
+        {
+          "option": "4:6"
+        },
+        {
+          "option": "2:3"
+        },
+        {
+          "option": "10:15"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd number pair out based on the simplified ratio: 15:25",
+      "options": [
+        {
+          "option": "9:15"
+        },
+        {
+          "option": "3:5"
+        },
+        {
+          "option": "18:28",
+          "is_answer": true
+        },
+        {
+          "option": "6:10"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd number pair out based on the simplified ratio: 16:24",
+      "options": [
+        {
+          "option": "4:6"
+        },
+        {
+          "option": "2:3"
+        },
+        {
+          "option": "20:32",
+          "is_answer": true
+        },
+        {
+          "option": "8:12"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd number pair out based on the simplified ratio: 21:28",
+      "options": [
+        {
+          "option": "24:34",
+          "is_answer": true
+        },
+        {
+          "option": "3:4"
+        },
+        {
+          "option": "9:12"
+        },
+        {
+          "option": "6:8"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd number pair out based on the simplified ratio: 24:30",
+      "options": [
+        {
+          "option": "8:10"
+        },
+        {
+          "option": "12:15"
+        },
+        {
+          "option": "4:5"
+        },
+        {
+          "option": "28:38",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd number pair out based on the simplified ratio: 27:36",
+      "options": [
+        {
+          "option": "3:4"
+        },
+        {
+          "option": "32:44",
+          "is_answer": true
+        },
+        {
+          "option": "6:8"
+        },
+        {
+          "option": "9:12"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd number pair out based on the simplified ratio: 14:35",
+      "options": [
+        {
+          "option": "6:15"
+        },
+        {
+          "option": "4:10"
+        },
+        {
+          "option": "18:40",
+          "is_answer": true
+        },
+        {
+          "option": "2:5"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd number pair out based on the simplified ratio: 36:48",
+      "options": [
+        {
+          "option": "3:4"
+        },
+        {
+          "option": "9:12"
+        },
+        {
+          "option": "6:8"
+        },
+        {
+          "option": "40:56",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd number pair out based on the simplified ratio: 45:60",
+      "options": [
+        {
+          "option": "50:70",
+          "is_answer": true
+        },
+        {
+          "option": "9:12"
+        },
+        {
+          "option": "3:4"
+        },
+        {
+          "option": "6:8"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd number pair out based on the simplified ratio: 18:27",
+      "options": [
+        {
+          "option": "6:9"
+        },
+        {
+          "option": "22:34",
+          "is_answer": true
+        },
+        {
+          "option": "4:6"
+        },
+        {
+          "option": "2:3"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd number pair out based on the simplified ratio: 20:25",
+      "options": [
+        {
+          "option": "12:15"
+        },
+        {
+          "option": "8:10"
+        },
+        {
+          "option": "24:32",
+          "is_answer": true
+        },
+        {
+          "option": "4:5"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd number pair out based on the simplified ratio: 25:35",
+      "options": [
+        {
+          "option": "30:45",
+          "is_answer": true
+        },
+        {
+          "option": "15:21"
+        },
+        {
+          "option": "5:7"
+        },
+        {
+          "option": "10:14"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd number pair out based on the simplified ratio: 32:40",
+      "options": [
+        {
+          "option": "4:5"
+        },
+        {
+          "option": "16:20"
+        },
+        {
+          "option": "8:10"
+        },
+        {
+          "option": "36:48",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd number pair out based on the simplified ratio: 42:56",
+      "options": [
+        {
+          "option": "3:4"
+        },
+        {
+          "option": "6:8"
+        },
+        {
+          "option": "9:12"
+        },
+        {
+          "option": "48:68",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd number pair out based on the simplified ratio: 48:60",
+      "options": [
+        {
+          "option": "54:72",
+          "is_answer": true
+        },
+        {
+          "option": "8:10"
+        },
+        {
+          "option": "4:5"
+        },
+        {
+          "option": "12:15"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd number pair out based on the simplified ratio: 22:33",
+      "options": [
+        {
+          "option": "6:9"
+        },
+        {
+          "option": "4:6"
+        },
+        {
+          "option": "2:3"
+        },
+        {
+          "option": "26:40",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd number pair out based on the simplified ratio: 28:35",
+      "options": [
+        {
+          "option": "8:10"
+        },
+        {
+          "option": "34:45",
+          "is_answer": true
+        },
+        {
+          "option": "4:5"
+        },
+        {
+          "option": "12:15"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd number pair out based on the simplified ratio: 35:49",
+      "options": [
+        {
+          "option": "5:7"
+        },
+        {
+          "option": "10:14"
+        },
+        {
+          "option": "15:21"
+        },
+        {
+          "option": "40:54",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd number pair out based on the simplified ratio: 39:52",
+      "options": [
+        {
+          "option": "6:8"
+        },
+        {
+          "option": "9:12"
+        },
+        {
+          "option": "3:4"
+        },
+        {
+          "option": "44:60",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd number pair out based on the simplified ratio: 55:77",
+      "options": [
+        {
+          "option": "60:80",
+          "is_answer": true
+        },
+        {
+          "option": "15:21"
+        },
+        {
+          "option": "10:14"
+        },
+        {
+          "option": "5:7"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on the number of days in the month.",
+      "options": [
+        {
+          "option": "May"
+        },
+        {
+          "option": "July"
+        },
+        {
+          "option": "March"
+        },
+        {
+          "option": "February",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd one out among the given months.",
+      "options": [
+        {
+          "option": "March"
+        },
+        {
+          "option": "April",
+          "is_answer": true
+        },
+        {
+          "option": "January"
+        },
+        {
+          "option": "May"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on 30-day and 31-day months.",
+      "options": [
+        {
+          "option": "August"
+        },
+        {
+          "option": "December"
+        },
+        {
+          "option": "October"
+        },
+        {
+          "option": "June",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Identify the odd month out.",
+      "options": [
+        {
+          "option": "July"
+        },
+        {
+          "option": "January"
+        },
+        {
+          "option": "August"
+        },
+        {
+          "option": "November",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which month does not belong to the group of 31-day months?",
+      "options": [
+        {
+          "option": "May"
+        },
+        {
+          "option": "March"
+        },
+        {
+          "option": "July"
+        },
+        {
+          "option": "September",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out among the following months.",
+      "options": [
+        {
+          "option": "January"
+        },
+        {
+          "option": "March"
+        },
+        {
+          "option": "December"
+        },
+        {
+          "option": "February",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd one out with respect to the number of days.",
+      "options": [
+        {
+          "option": "July"
+        },
+        {
+          "option": "March"
+        },
+        {
+          "option": "June",
+          "is_answer": true
+        },
+        {
+          "option": "January"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd group out based on month lengths.",
+      "options": [
+        {
+          "option": "January"
+        },
+        {
+          "option": "April",
+          "is_answer": true
+        },
+        {
+          "option": "December"
+        },
+        {
+          "option": "August"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following months has 28 or 29 days, making it the odd one out?",
+      "options": [
+        {
+          "option": "September"
+        },
+        {
+          "option": "February",
+          "is_answer": true
+        },
+        {
+          "option": "April"
+        },
+        {
+          "option": "June"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: September, April, November, January.",
+      "options": [
+        {
+          "option": "September"
+        },
+        {
+          "option": "April"
+        },
+        {
+          "option": "January",
+          "is_answer": true
+        },
+        {
+          "option": "November"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: March, May, July, June.",
+      "options": [
+        {
+          "option": "June",
+          "is_answer": true
+        },
+        {
+          "option": "March"
+        },
+        {
+          "option": "July"
+        },
+        {
+          "option": "May"
+        }
+      ]
+    },
+    {
+      "question": "Identify the odd month out from the options.",
+      "options": [
+        {
+          "option": "October"
+        },
+        {
+          "option": "November",
+          "is_answer": true
+        },
+        {
+          "option": "August"
+        },
+        {
+          "option": "July"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd month based on having 30 days.",
+      "options": [
+        {
+          "option": "February",
+          "is_answer": true
+        },
+        {
+          "option": "June"
+        },
+        {
+          "option": "April"
+        },
+        {
+          "option": "September"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: August, December, October, February.",
+      "options": [
+        {
+          "option": "February",
+          "is_answer": true
+        },
+        {
+          "option": "October"
+        },
+        {
+          "option": "December"
+        },
+        {
+          "option": "August"
+        }
+      ]
+    },
+    {
+      "question": "Which month has 30 days while others have 31?",
+      "options": [
+        {
+          "option": "March"
+        },
+        {
+          "option": "June",
+          "is_answer": true
+        },
+        {
+          "option": "May"
+        },
+        {
+          "option": "January"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd group out: July, August, October, November.",
+      "options": [
+        {
+          "option": "November",
+          "is_answer": true
+        },
+        {
+          "option": "August"
+        },
+        {
+          "option": "July"
+        },
+        {
+          "option": "October"
+        }
+      ]
+    },
+    {
+      "question": "Choose the month that does not have 31 days.",
+      "options": [
+        {
+          "option": "July"
+        },
+        {
+          "option": "September",
+          "is_answer": true
+        },
+        {
+          "option": "March"
+        },
+        {
+          "option": "January"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out among the first four months of the year.",
+      "options": [
+        {
+          "option": "March"
+        },
+        {
+          "option": "February",
+          "is_answer": true
+        },
+        {
+          "option": "January"
+        },
+        {
+          "option": "April"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: May, June, July, August.",
+      "options": [
+        {
+          "option": "July"
+        },
+        {
+          "option": "August"
+        },
+        {
+          "option": "June",
+          "is_answer": true
+        },
+        {
+          "option": "May"
+        }
+      ]
+    },
+    {
+      "question": "Identify the odd month out based on non-standard length.",
+      "options": [
+        {
+          "option": "March"
+        },
+        {
+          "option": "May"
+        },
+        {
+          "option": "February",
+          "is_answer": true
+        },
+        {
+          "option": "January"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is the odd one out among these literary movements?",
+      "options": [
+        {
+          "option": "Realism",
+          "is_answer": true
+        },
+        {
+          "option": "Victorian"
+        },
+        {
+          "option": "Gothic"
+        },
+        {
+          "option": "Romanticism"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out among these architectural styles:",
+      "options": [
+        {
+          "option": "Renaissance"
+        },
+        {
+          "option": "Romanesque"
+        },
+        {
+          "option": "Baroque",
+          "is_answer": true
+        },
+        {
+          "option": "Gothic"
+        }
+      ]
+    },
+    {
+      "question": "Which art movement does not belong to the modern art category?",
+      "options": [
+        {
+          "option": "Neoclassicism",
+          "is_answer": true
+        },
+        {
+          "option": "Dadaism"
+        },
+        {
+          "option": "Surrealism"
+        },
+        {
+          "option": "Cubism"
+        }
+      ]
+    },
+    {
+      "question": "Identify the odd literary genre from the list:",
+      "options": [
+        {
+          "option": "Tragedy",
+          "is_answer": true
+        },
+        {
+          "option": "Ballad"
+        },
+        {
+          "option": "Sonnet"
+        },
+        {
+          "option": "Epic"
+        }
+      ]
+    },
+    {
+      "question": "Which architectural style is characterized by flying buttresses and pointed arches, making it an outlier among classical revivals?",
+      "options": [
+        {
+          "option": "Gothic",
+          "is_answer": true
+        },
+        {
+          "option": "Beaux-Arts"
+        },
+        {
+          "option": "Neoclassical"
+        },
+        {
+          "option": "Palladian"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is an outlier among 20th-century artistic movements?",
+      "options": [
+        {
+          "option": "Abstract Expressionism"
+        },
+        {
+          "option": "Minimalism"
+        },
+        {
+          "option": "Pop Art"
+        },
+        {
+          "option": "Impressionism",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on historical periods of literature:",
+      "options": [
+        {
+          "option": "Enlightenment",
+          "is_answer": true
+        },
+        {
+          "option": "Restoration"
+        },
+        {
+          "option": "Elizabethan"
+        },
+        {
+          "option": "Jacobean"
+        }
+      ]
+    },
+    {
+      "question": "Which architectural style belongs to ancient antiquity, unlike the others which are medieval?",
+      "options": [
+        {
+          "option": "Classical Greek",
+          "is_answer": true
+        },
+        {
+          "option": "Gothic"
+        },
+        {
+          "option": "Romanesque"
+        },
+        {
+          "option": "Byzantine"
+        }
+      ]
+    },
+    {
+      "question": "Identify the odd art movement that focuses on dreams and the subconscious, distinct from classical realistic styles:",
+      "options": [
+        {
+          "option": "Naturalism"
+        },
+        {
+          "option": "Realism"
+        },
+        {
+          "option": "Academic Art"
+        },
+        {
+          "option": "Surrealism",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a dramatic/theatrical term, unlike the others which are poetic forms?",
+      "options": [
+        {
+          "option": "Monologue",
+          "is_answer": true
+        },
+        {
+          "option": "Ode"
+        },
+        {
+          "option": "Villanelle"
+        },
+        {
+          "option": "Haiku"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd architectural movement that emerged in the 20th century:",
+      "options": [
+        {
+          "option": "Baroque"
+        },
+        {
+          "option": "Renaissance"
+        },
+        {
+          "option": "Rococo"
+        },
+        {
+          "option": "Brutalism",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which literary term refers to a structural error or flaw in a protagonist, making it distinct from broad narrative genres?",
+      "options": [
+        {
+          "option": "Comedy"
+        },
+        {
+          "option": "Tragedy"
+        },
+        {
+          "option": "Satire"
+        },
+        {
+          "option": "Hamartia",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of the following art periods precedes the High Renaissance?",
+      "options": [
+        {
+          "option": "Proto-Renaissance",
+          "is_answer": true
+        },
+        {
+          "option": "Neoclassicism"
+        },
+        {
+          "option": "Baroque"
+        },
+        {
+          "option": "Mannerism"
+        }
+      ]
+    },
+    {
+      "question": "Identify the odd style of architecture associated with ancient Roman engineering:",
+      "options": [
+        {
+          "option": "Postmodernism"
+        },
+        {
+          "option": "Classical Roman",
+          "is_answer": true
+        },
+        {
+          "option": "High-Tech"
+        },
+        {
+          "option": "Deconstructivism"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a narrative poetry form, whereas the others are prose fiction genres?",
+      "options": [
+        {
+          "option": "Novel"
+        },
+        {
+          "option": "Novella"
+        },
+        {
+          "option": "Epic",
+          "is_answer": true
+        },
+        {
+          "option": "Flash Fiction"
+        }
+      ]
+    },
+    {
+      "question": "Which art movement emphasizes speed, technology, and machinery, standing out from traditional art?",
+      "options": [
+        {
+          "option": "Realism"
+        },
+        {
+          "option": "Impressionism"
+        },
+        {
+          "option": "Romanticism"
+        },
+        {
+          "option": "Futurism",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd architectural period known for massive stone structures and rounded arches in medieval Europe:",
+      "options": [
+        {
+          "option": "Art Deco"
+        },
+        {
+          "option": "Bauhaus"
+        },
+        {
+          "option": "International Style"
+        },
+        {
+          "option": "Romanesque",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which literary device is a figure of speech involving comparison, distinct from poetic stanza forms?",
+      "options": [
+        {
+          "option": "Metaphor",
+          "is_answer": true
+        },
+        {
+          "option": "Couplet"
+        },
+        {
+          "option": "Quatrain"
+        },
+        {
+          "option": "Sestet"
+        }
+      ]
+    },
+    {
+      "question": "Which of these design/architectural movements originated in Germany in the early 20th century focusing on function?",
+      "options": [
+        {
+          "option": "Gothic"
+        },
+        {
+          "option": "Bauhaus",
+          "is_answer": true
+        },
+        {
+          "option": "Victorian"
+        },
+        {
+          "option": "Baroque"
+        }
+      ]
+    },
+    {
+      "question": "Identify the odd visual art technique that relies on small, distinct dots of color applied in patterns:",
+      "options": [
+        {
+          "option": "Cubism"
+        },
+        {
+          "option": "Pointillism",
+          "is_answer": true
+        },
+        {
+          "option": "Fauvism"
+        },
+        {
+          "option": "Realism"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd word out: Which of these is a regulatory body, unlike the others which are debt instruments?",
+      "options": [
+        {
+          "option": "Treasury Bill"
+        },
+        {
+          "option": "Certificate of Deposit"
+        },
+        {
+          "option": "Bond"
+        },
+        {
+          "option": "SEBI",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd word out: Which of these is a monetary asset, unlike the others which are regulatory bodies?",
+      "options": [
+        {
+          "option": "Cash",
+          "is_answer": true
+        },
+        {
+          "option": "RBI"
+        },
+        {
+          "option": "ECB"
+        },
+        {
+          "option": "Federal Reserve"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd word out: Which of these is a debt instrument, unlike the others which are monetary assets?",
+      "options": [
+        {
+          "option": "Gold"
+        },
+        {
+          "option": "Foreign Exchange"
+        },
+        {
+          "option": "Promissory Note",
+          "is_answer": true
+        },
+        {
+          "option": "Bank Deposit"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd word out: Which of these is a regulatory body, unlike the others which are monetary assets?",
+      "options": [
+        {
+          "option": "Real Estate"
+        },
+        {
+          "option": "Equities"
+        },
+        {
+          "option": "IMF",
+          "is_answer": true
+        },
+        {
+          "option": "Cryptocurrency"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd word out: Which of these is a debt instrument, unlike the others which are regulatory bodies?",
+      "options": [
+        {
+          "option": "Debenture",
+          "is_answer": true
+        },
+        {
+          "option": "RBI"
+        },
+        {
+          "option": "SEC"
+        },
+        {
+          "option": "SEBI"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd word out: Which of these is a monetary asset, unlike the others which are debt instruments?",
+      "options": [
+        {
+          "option": "Commercial Paper",
+          "is_answer": true
+        },
+        {
+          "option": "Municipal Bond"
+        },
+        {
+          "option": "Treasury Bond"
+        },
+        {
+          "option": "Corporate Bond"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd word out: Which of these is a regulatory body?",
+      "options": [
+        {
+          "option": "Promissory Note"
+        },
+        {
+          "option": "Debenture"
+        },
+        {
+          "option": "Bank of England",
+          "is_answer": true
+        },
+        {
+          "option": "Commercial Paper"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd word out: Which of these is a debt instrument?",
+      "options": [
+        {
+          "option": "Cash in Hand"
+        },
+        {
+          "option": "Bank Reserves"
+        },
+        {
+          "option": "Letter of Credit",
+          "is_answer": true
+        },
+        {
+          "option": "Gold Bullion"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd word out: Which of these is a monetary asset?",
+      "options": [
+        {
+          "option": "Treasury Bill"
+        },
+        {
+          "option": "Zero-Coupon Bond"
+        },
+        {
+          "option": "Government Bond"
+        },
+        {
+          "option": "Savings Account Balance",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd word out based on asset vs debt vs regulator classifications:",
+      "options": [
+        {
+          "option": "World Bank",
+          "is_answer": true
+        },
+        {
+          "option": "Treasury Note"
+        },
+        {
+          "option": "Government Bond"
+        },
+        {
+          "option": "Corporate Debenture"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd word out: Which term refers to a central bank/regulator?",
+      "options": [
+        {
+          "option": "Commercial Bill"
+        },
+        {
+          "option": "Foreign Currency"
+        },
+        {
+          "option": "Bank of Japan",
+          "is_answer": true
+        },
+        {
+          "option": "Sovereign Bond"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd word out: Which of these is classified as a monetary asset?",
+      "options": [
+        {
+          "option": "Treasury Bond"
+        },
+        {
+          "option": "Checking Account",
+          "is_answer": true
+        },
+        {
+          "option": "Corporate Note"
+        },
+        {
+          "option": "Fixed Rate Bond"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd word out: Which of these institutions is a financial regulatory body?",
+      "options": [
+        {
+          "option": "Promissory Note"
+        },
+        {
+          "option": "FINMA",
+          "is_answer": true
+        },
+        {
+          "option": "Certificate of Deposit"
+        },
+        {
+          "option": "Treasury Bill"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd word out: Which of these represents a liquid monetary asset?",
+      "options": [
+        {
+          "option": "Infrastructure Bond"
+        },
+        {
+          "option": "Treasury Note"
+        },
+        {
+          "option": "Demand Deposit",
+          "is_answer": true
+        },
+        {
+          "option": "Corporate Bond"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd word out: Which term is a regulatory authority?",
+      "options": [
+        {
+          "option": "Corporate Bond"
+        },
+        {
+          "option": "Monetary Authority of Singapore",
+          "is_answer": true
+        },
+        {
+          "option": "Commercial Paper"
+        },
+        {
+          "option": "Sovereign Debt"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd word out: Which of these is a debt security?",
+      "options": [
+        {
+          "option": "Gold Coin"
+        },
+        {
+          "option": "Foreign Banknote"
+        },
+        {
+          "option": "Floating Rate Note",
+          "is_answer": true
+        },
+        {
+          "option": "Central Bank Cash"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd word out: Which of these is a pure monetary asset?",
+      "options": [
+        {
+          "option": "Government Bond"
+        },
+        {
+          "option": "Corporate Debenture"
+        },
+        {
+          "option": "Foreign Exchange Reserves",
+          "is_answer": true
+        },
+        {
+          "option": "Treasury Bill"
+        }
+      ]
+    },
+    {
+      "question": "Which item does not belong? Criteria: Shape = Circle, Color = Red, Size = Large.",
+      "options": [
+        {
+          "option": "Large Red Circle"
+        },
+        {
+          "option": "Large Red Circle"
+        },
+        {
+          "option": "Small Red Circle",
+          "is_answer": true
+        },
+        {
+          "option": "Large Red Circle"
+        }
+      ]
+    },
+    {
+      "question": "Identify the exception among animals based on attributes: Habitat = Land, Diet = Herbivore, Class = Mammal.",
+      "options": [
+        {
+          "option": "Elephant"
+        },
+        {
+          "option": "Frog",
+          "is_answer": true
+        },
+        {
+          "option": "Horse"
+        },
+        {
+          "option": "Cow"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out. Target attributes: Metal = Iron, State = Solid, Magnetic = Yes.",
+      "options": [
+        {
+          "option": "Copper Wire",
+          "is_answer": true
+        },
+        {
+          "option": "Steel Rod"
+        },
+        {
+          "option": "Nickel Bar"
+        },
+        {
+          "option": "Iron Nail"
+        }
+      ]
+    },
+    {
+      "question": "Which vehicle violates the rule? Rules: Type = Four-wheeler, Fuel = Electric, Usage = Personal.",
+      "options": [
+        {
+          "option": "Diesel Truck",
+          "is_answer": true
+        },
+        {
+          "option": "Electric Sedan"
+        },
+        {
+          "option": "Electric Car"
+        },
+        {
+          "option": "Electric Hatchback"
+        }
+      ]
+    },
+    {
+      "question": "Select the exception in fruit classification: Taste = Sweet, Growth = Tree, Seed = Single.",
+      "options": [
+        {
+          "option": "Mango"
+        },
+        {
+          "option": "Cherry"
+        },
+        {
+          "option": "Peach"
+        },
+        {
+          "option": "Watermelon",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which occupation does not match the criteria? Criteria: Sector = IT, Degree = Engineering, Mode = Remote.",
+      "options": [
+        {
+          "option": "Cloud Architect"
+        },
+        {
+          "option": "Data Analyst"
+        },
+        {
+          "option": "Bank Cashier",
+          "is_answer": true
+        },
+        {
+          "option": "Software Engineer"
+        }
+      ]
+    },
+    {
+      "question": "Identify the non-compliant electronic device. Attributes: Category = Display, Power = AC, Port = HDMI.",
+      "options": [
+        {
+          "option": "LED Monitor"
+        },
+        {
+          "option": "Smart TV"
+        },
+        {
+          "option": "Bluetooth Speaker",
+          "is_answer": true
+        },
+        {
+          "option": "Projector"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd element based on apparel attributes: Material = Cotton, Season = Summer, Gender = Female.",
+      "options": [
+        {
+          "option": "Woolen Scarf",
+          "is_answer": true
+        },
+        {
+          "option": "Cotton Skirt"
+        },
+        {
+          "option": "Cotton Top"
+        },
+        {
+          "option": "Cotton Kurti"
+        }
+      ]
+    },
+    {
+      "question": "Which geological item is the exception? Criteria: Type = Rock, Origin = Igneous, Hardness = High.",
+      "options": [
+        {
+          "option": "Granite"
+        },
+        {
+          "option": "Marble",
+          "is_answer": true
+        },
+        {
+          "option": "Basalt"
+        },
+        {
+          "option": "Pumice"
+        }
+      ]
+    },
+    {
+      "question": "Select the anomaly among building types: Material = Brick, Floors = Multi, Purpose = Residential.",
+      "options": [
+        {
+          "option": "Steel Warehouse",
+          "is_answer": true
+        },
+        {
+          "option": "Brick Apartment"
+        },
+        {
+          "option": "Brick Townhouse"
+        },
+        {
+          "option": "Brick Condominium"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd shape given rules: 2D, Closed, Number of Sides = 4, All Angles = 90 degrees.",
+      "options": [
+        {
+          "option": "Square"
+        },
+        {
+          "option": "Rhombus with 90 deg"
+        },
+        {
+          "option": "Rectangle"
+        },
+        {
+          "option": "Scalene Triangle",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which beverage does not match? Attributes: Temperature = Hot, Base = Caffeine, Plant = Leaves.",
+      "options": [
+        {
+          "option": "Hot Oolong Tea"
+        },
+        {
+          "option": "Hot Black Tea"
+        },
+        {
+          "option": "Hot Green Tea"
+        },
+        {
+          "option": "Cold Apple Juice",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Identify the exception in sports categories: Equipment = Bat/Racket, Team Size = Single Player, Venue = Indoor Court.",
+      "options": [
+        {
+          "option": "Boxing",
+          "is_answer": true
+        },
+        {
+          "option": "Badminton"
+        },
+        {
+          "option": "Squash"
+        },
+        {
+          "option": "Table Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd weather condition. Filters: Precipitation = Liquid, Season = Monsoon, Sky = Cloudy.",
+      "options": [
+        {
+          "option": "Dry Snowstorm",
+          "is_answer": true
+        },
+        {
+          "option": "Heavy Rainfall"
+        },
+        {
+          "option": "Thunderstorm with Rain"
+        },
+        {
+          "option": "Drizzle"
+        }
+      ]
+    },
+    {
+      "question": "Which musical instrument is the exception? Attributes: Family = String, Playing = Bowing, Size = Large.",
+      "options": [
+        {
+          "option": "Cello"
+        },
+        {
+          "option": "Double Bass"
+        },
+        {
+          "option": "Acoustic Guitar",
+          "is_answer": true
+        },
+        {
+          "option": "Violin"
+        }
+      ]
+    },
+    {
+      "question": "Select the outlier based on stationery items: Function = Writing, Material = Plastic, Medium = Ink.",
+      "options": [
+        {
+          "option": "Gel Pen"
+        },
+        {
+          "option": "Ballpoint Pen"
+        },
+        {
+          "option": "Marker Pen"
+        },
+        {
+          "option": "Wooden Ruler",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd chemical compound. Rules: State = Gas at room temp, Type = Compound, Element Count = 2.",
+      "options": [
+        {
+          "option": "Water",
+          "is_answer": true
+        },
+        {
+          "option": "Hydrogen Chloride"
+        },
+        {
+          "option": "Carbon Monoxide"
+        },
+        {
+          "option": "Carbon Dioxide"
+        }
+      ]
+    },
+    {
+      "question": "Which celestial body is the exception? Attributes: Type = Planet, Orbit = Around Sun, Ring System = Yes.",
+      "options": [
+        {
+          "option": "Neptune"
+        },
+        {
+          "option": "Mars",
+          "is_answer": true
+        },
+        {
+          "option": "Uranus"
+        },
+        {
+          "option": "Saturn"
+        }
+      ]
+    },
+    {
+      "question": "Identify the odd geometric body. Criteria: Dimension = 3D, Faces = Flat polygons, Curved Surface = No.",
+      "options": [
+        {
+          "option": "Square Pyramid"
+        },
+        {
+          "option": "Cube"
+        },
+        {
+          "option": "Cylinder",
+          "is_answer": true
+        },
+        {
+          "option": "Cuboid"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd kitchen appliance. Specifications: Function = Heating, Power Source = Electricity, Category = Major Appliance.",
+      "options": [
+        {
+          "option": "Electric Blender",
+          "is_answer": true
+        },
+        {
+          "option": "Microwave Oven"
+        },
+        {
+          "option": "Induction Cooktop"
+        },
+        {
+          "option": "Electric Toaster"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd one out from the given set of words: Apple, Mango, Carrot, Banana.",
+      "options": [
+        {
+          "option": "Banana"
+        },
+        {
+          "option": "Carrot",
+          "is_answer": true
+        },
+        {
+          "option": "Mango"
+        },
+        {
+          "option": "Apple"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out among the following numbers: 27, 64, 125, 144.",
+      "options": [
+        {
+          "option": "27"
+        },
+        {
+          "option": "144",
+          "is_answer": true
+        },
+        {
+          "option": "64"
+        },
+        {
+          "option": "125"
+        }
+      ]
+    },
+    {
+      "question": "Select the odd letter cluster: DF, HJ, NPR, TV.",
+      "options": [
+        {
+          "option": "NPR",
+          "is_answer": true
+        },
+        {
+          "option": "TV"
+        },
+        {
+          "option": "DF"
+        },
+        {
+          "option": "HJ"
+        }
+      ]
+    },
+    {
+      "question": "Identify the odd one out from the following professions: Physician, Engineer, Architect, Mechanic.",
+      "options": [
+        {
+          "option": "Mechanic"
+        },
+        {
+          "option": "Architect"
+        },
+        {
+          "option": "Engineer"
+        },
+        {
+          "option": "Physician",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd word: Mercury, Venus, Earth, Moon.",
+      "options": [
+        {
+          "option": "Moon",
+          "is_answer": true
+        },
+        {
+          "option": "Mercury"
+        },
+        {
+          "option": "Earth"
+        },
+        {
+          "option": "Venus"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd number pair: 8-64, 9-81, 11-121, 12-134.",
+      "options": [
+        {
+          "option": "8-64"
+        },
+        {
+          "option": "9-81"
+        },
+        {
+          "option": "11-121"
+        },
+        {
+          "option": "12-134",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Select the odd one out: Flute, Guitar, Violin, Sitar.",
+      "options": [
+        {
+          "option": "Sitar"
+        },
+        {
+          "option": "Violin"
+        },
+        {
+          "option": "Flute",
+          "is_answer": true
+        },
+        {
+          "option": "Guitar"
+        }
+      ]
+    },
+    {
+      "question": "Identify the odd one: Copper, Iron, Aluminum, Brass.",
+      "options": [
+        {
+          "option": "Brass",
+          "is_answer": true
+        },
+        {
+          "option": "Aluminum"
+        },
+        {
+          "option": "Copper"
+        },
+        {
+          "option": "Iron"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd group of letters: ACE, GIK, MOQ, TVX.",
+      "options": [
+        {
+          "option": "ACE"
+        },
+        {
+          "option": "GIK"
+        },
+        {
+          "option": "MOQ"
+        },
+        {
+          "option": "TVX",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: Square, Circle, Rectangle, Triangle.",
+      "options": [
+        {
+          "option": "Circle",
+          "is_answer": true
+        },
+        {
+          "option": "Triangle"
+        },
+        {
+          "option": "Square"
+        },
+        {
+          "option": "Rectangle"
+        }
+      ]
+    },
+    {
+      "question": "Select the odd number from the list: 11, 13, 15, 17.",
+      "options": [
+        {
+          "option": "11"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "17"
+        },
+        {
+          "option": "13"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd pair: Pen-Nib, Book-Page, House-Room, Car-Road.",
+      "options": [
+        {
+          "option": "Car-Road",
+          "is_answer": true
+        },
+        {
+          "option": "Pen-Nib"
+        },
+        {
+          "option": "House-Room"
+        },
+        {
+          "option": "Book-Page"
+        }
+      ]
+    },
+    {
+      "question": "Identify the odd one: Asia, Africa, Europe, Russia.",
+      "options": [
+        {
+          "option": "Europe"
+        },
+        {
+          "option": "Africa"
+        },
+        {
+          "option": "Russia",
+          "is_answer": true
+        },
+        {
+          "option": "Asia"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd word: Kilometer, Decimeter, Furlong, Liter.",
+      "options": [
+        {
+          "option": "Decimeter"
+        },
+        {
+          "option": "Liter",
+          "is_answer": true
+        },
+        {
+          "option": "Furlong"
+        },
+        {
+          "option": "Kilometer"
+        }
+      ]
+    },
+    {
+      "question": "Select the odd one out: Stare, Glance, View, Blind.",
+      "options": [
+        {
+          "option": "Stare"
+        },
+        {
+          "option": "Blind",
+          "is_answer": true
+        },
+        {
+          "option": "View"
+        },
+        {
+          "option": "Glance"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd number: 36, 49, 64, 80.",
+      "options": [
+        {
+          "option": "49"
+        },
+        {
+          "option": "80",
+          "is_answer": true
+        },
+        {
+          "option": "64"
+        },
+        {
+          "option": "36"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: Tiger, Lion, Leopard, Horse.",
+      "options": [
+        {
+          "option": "Leopard"
+        },
+        {
+          "option": "Horse",
+          "is_answer": true
+        },
+        {
+          "option": "Tiger"
+        },
+        {
+          "option": "Lion"
+        }
+      ]
+    },
+    {
+      "question": "Select the odd letter group: BY, DW, EV, FX.",
+      "options": [
+        {
+          "option": "DW"
+        },
+        {
+          "option": "FX",
+          "is_answer": true
+        },
+        {
+          "option": "BY"
+        },
+        {
+          "option": "EV"
+        }
+      ]
+    },
+    {
+      "question": "Identify the odd one: Tomato, Potato, Onion, Ginger.",
+      "options": [
+        {
+          "option": "Tomato",
+          "is_answer": true
+        },
+        {
+          "option": "Ginger"
+        },
+        {
+          "option": "Onion"
+        },
+        {
+          "option": "Potato"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd word: Yard, Inch, Foot, Quart.",
+      "options": [
+        {
+          "option": "Yard"
+        },
+        {
+          "option": "Inch"
+        },
+        {
+          "option": "Foot"
+        },
+        {
+          "option": "Quart",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd number: 17, 19, 21, 23.",
+      "options": [
+        {
+          "option": "17"
+        },
+        {
+          "option": "19"
+        },
+        {
+          "option": "21",
+          "is_answer": true
+        },
+        {
+          "option": "23"
+        }
+      ]
+    },
+    {
+      "question": "Select the odd pair: Cow-Calf, Dog-Puppy, Cat-Kitten, Horse-Donkey.",
+      "options": [
+        {
+          "option": "Cat-Kitten"
+        },
+        {
+          "option": "Horse-Donkey",
+          "is_answer": true
+        },
+        {
+          "option": "Cow-Calf"
+        },
+        {
+          "option": "Dog-Puppy"
+        }
+      ]
+    },
+    {
+      "question": "Identify the odd one: Ear, Eye, Nose, Heart.",
+      "options": [
+        {
+          "option": "Ear"
+        },
+        {
+          "option": "Nose"
+        },
+        {
+          "option": "Eye"
+        },
+        {
+          "option": "Heart",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd number set: 24-42, 35-53, 16-61, 23-45.",
+      "options": [
+        {
+          "option": "35-53"
+        },
+        {
+          "option": "24-42"
+        },
+        {
+          "option": "23-45",
+          "is_answer": true
+        },
+        {
+          "option": "16-61"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: Hard, Soft, Rough, Sweet.",
+      "options": [
+        {
+          "option": "Soft"
+        },
+        {
+          "option": "Hard"
+        },
+        {
+          "option": "Sweet",
+          "is_answer": true
+        },
+        {
+          "option": "Rough"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd one out from the given set of words: Apple, Mango, Potato, Banana.",
+      "options": [
+        {
+          "option": "Apple"
+        },
+        {
+          "option": "Banana"
+        },
+        {
+          "option": "Potato",
+          "is_answer": true
+        },
+        {
+          "option": "Mango"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd number out: 27, 64, 125, 144.",
+      "options": [
+        {
+          "option": "144",
+          "is_answer": true
+        },
+        {
+          "option": "125"
+        },
+        {
+          "option": "64"
+        },
+        {
+          "option": "27"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd letter group: DFW, HLT, KOP, NPS.",
+      "options": [
+        {
+          "option": "HLT"
+        },
+        {
+          "option": "NPS"
+        },
+        {
+          "option": "KOP",
+          "is_answer": true
+        },
+        {
+          "option": "DFW"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out among the following: Copper, Silver, Gold, Aluminum, Plastic.",
+      "options": [
+        {
+          "option": "Gold"
+        },
+        {
+          "option": "Copper"
+        },
+        {
+          "option": "Silver"
+        },
+        {
+          "option": "Plastic",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd one out: Mercury, Venus, Earth, Moon.",
+      "options": [
+        {
+          "option": "Venus"
+        },
+        {
+          "option": "Mercury"
+        },
+        {
+          "option": "Earth"
+        },
+        {
+          "option": "Moon",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Identify the odd pair: 12-144, 13-169, 14-196, 15-210.",
+      "options": [
+        {
+          "option": "12-144"
+        },
+        {
+          "option": "13-169"
+        },
+        {
+          "option": "15-210",
+          "is_answer": true
+        },
+        {
+          "option": "14-196"
+        }
+      ]
+    },
+    {
+      "question": "Choose the word that does not belong to the group: Carrot, Radish, Potato, Tomato.",
+      "options": [
+        {
+          "option": "Potato"
+        },
+        {
+          "option": "Tomato",
+          "is_answer": true
+        },
+        {
+          "option": "Radish"
+        },
+        {
+          "option": "Carrot"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd number: 11, 13, 17, 21, 23.",
+      "options": [
+        {
+          "option": "21",
+          "is_answer": true
+        },
+        {
+          "option": "17"
+        },
+        {
+          "option": "11"
+        },
+        {
+          "option": "13"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd one out: Flute, Guitar, Violin, Sitar.",
+      "options": [
+        {
+          "option": "Violin"
+        },
+        {
+          "option": "Flute",
+          "is_answer": true
+        },
+        {
+          "option": "Sitar"
+        },
+        {
+          "option": "Guitar"
+        }
+      ]
+    },
+    {
+      "question": "Identify the odd letter cluster: ACE, GIK, MOQ, RTV.",
+      "options": [
+        {
+          "option": "MOQ"
+        },
+        {
+          "option": "ACE"
+        },
+        {
+          "option": "GIK"
+        },
+        {
+          "option": "RTV",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: Punch, Kick, Slap, Touch.",
+      "options": [
+        {
+          "option": "Punch"
+        },
+        {
+          "option": "Slap"
+        },
+        {
+          "option": "Touch",
+          "is_answer": true
+        },
+        {
+          "option": "Kick"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd number pair: (8, 64), (9, 81), (11, 121), (12, 132).",
+      "options": [
+        {
+          "option": "(8, 64)"
+        },
+        {
+          "option": "(11, 121)"
+        },
+        {
+          "option": "(9, 81)"
+        },
+        {
+          "option": "(12, 132)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: Asia, Africa, Australia, Russia.",
+      "options": [
+        {
+          "option": "Russia",
+          "is_answer": true
+        },
+        {
+          "option": "Asia"
+        },
+        {
+          "option": "Africa"
+        },
+        {
+          "option": "Australia"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd one out: Square, Rectangle, Triangle, Sphere.",
+      "options": [
+        {
+          "option": "Sphere",
+          "is_answer": true
+        },
+        {
+          "option": "Triangle"
+        },
+        {
+          "option": "Square"
+        },
+        {
+          "option": "Rectangle"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd word: Physics, Chemistry, Biology, Geography.",
+      "options": [
+        {
+          "option": "Physics"
+        },
+        {
+          "option": "Biology"
+        },
+        {
+          "option": "Chemistry"
+        },
+        {
+          "option": "Geography",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd letter group: BY, DW, EV, JX.",
+      "options": [
+        {
+          "option": "EV"
+        },
+        {
+          "option": "JX",
+          "is_answer": true
+        },
+        {
+          "option": "BY"
+        },
+        {
+          "option": "DW"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd one out: Cricket, Chess, Hockey, Football.",
+      "options": [
+        {
+          "option": "Cricket"
+        },
+        {
+          "option": "Chess",
+          "is_answer": true
+        },
+        {
+          "option": "Football"
+        },
+        {
+          "option": "Hockey"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: Volume, Litre, Gram, Metre.",
+      "options": [
+        {
+          "option": "Gram"
+        },
+        {
+          "option": "Metre"
+        },
+        {
+          "option": "Litre"
+        },
+        {
+          "option": "Volume",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Identify the odd pair: (2, 8), (3, 27), (4, 64), (5, 100).",
+      "options": [
+        {
+          "option": "(2, 8)"
+        },
+        {
+          "option": "(3, 27)"
+        },
+        {
+          "option": "(5, 100)",
+          "is_answer": true
+        },
+        {
+          "option": "(4, 64)"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd one out: Eye, Ear, Nose, Heart.",
+      "options": [
+        {
+          "option": "Ear"
+        },
+        {
+          "option": "Nose"
+        },
+        {
+          "option": "Heart",
+          "is_answer": true
+        },
+        {
+          "option": "Eye"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd letter group: PQRS, BCDE, MNOP, WXYZ.",
+      "options": [
+        {
+          "option": "PQRS"
+        },
+        {
+          "option": "BCDE"
+        },
+        {
+          "option": "MNOP"
+        },
+        {
+          "option": "WXYZ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd number: 17, 19, 23, 27, 29.",
+      "options": [
+        {
+          "option": "27",
+          "is_answer": true
+        },
+        {
+          "option": "17"
+        },
+        {
+          "option": "23"
+        },
+        {
+          "option": "19"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out: Chair, Table, Sofa, Bed, Shirt.",
+      "options": [
+        {
+          "option": "Sofa"
+        },
+        {
+          "option": "Shirt",
+          "is_answer": true
+        },
+        {
+          "option": "Table"
+        },
+        {
+          "option": "Chair"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out from the given options:",
+      "options": [
+        {
+          "option": "Carrot"
+        },
+        {
+          "option": "Radish"
+        },
+        {
+          "option": "Potato"
+        },
+        {
+          "option": "Apple",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd number pair:",
+      "options": [
+        {
+          "option": "125 - 216"
+        },
+        {
+          "option": "27 - 64",
+          "is_answer": true
+        },
+        {
+          "option": "64 - 125"
+        },
+        {
+          "option": "8 - 27"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd word out:",
+      "options": [
+        {
+          "option": "Mars"
+        },
+        {
+          "option": "Venus"
+        },
+        {
+          "option": "Mercury",
+          "is_answer": true
+        },
+        {
+          "option": "Moon"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd one out among the given musical instruments:",
+      "options": [
+        {
+          "option": "Violin"
+        },
+        {
+          "option": "Guitar"
+        },
+        {
+          "option": "Flute",
+          "is_answer": true
+        },
+        {
+          "option": "Sitar"
+        }
+      ]
+    },
+    {
+      "question": "Find the odd letter cluster:",
+      "options": [
+        {
+          "option": "AZ"
+        },
+        {
+          "option": "DW"
+        },
+        {
+          "option": "CX"
+        },
+        {
+          "option": "EV",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out based on the state of matter:",
+      "options": [
+        {
+          "option": "Oxygen"
+        },
+        {
+          "option": "Water",
+          "is_answer": true
+        },
+        {
+          "option": "Hydrogen"
+        },
+        {
+          "option": "Nitrogen"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd number from the given set:",
+      "options": [
+        {
+          "option": "125"
+        },
+        {
+          "option": "64"
+        },
+        {
+          "option": "27"
+        },
+        {
+          "option": "81",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd word out from the anatomical categories:",
+      "options": [
+        {
+          "option": "Ear"
+        },
+        {
+          "option": "Eye"
+        },
+        {
+          "option": "Heart",
+          "is_answer": true
+        },
+        {
+          "option": "Nose"
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd one out among the given capitals:",
+      "options": [
+        {
+          "option": "Canberra"
+        },
+        {
+          "option": "Wellington"
+        },
+        {
+          "option": "Tokyo"
+        },
+        {
+          "option": "Sydney",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Choose the odd letter pair:",
+      "options": [
+        {
+          "option": "FU"
+        },
+        {
+          "option": "HS"
+        },
+        {
+          "option": "DW"
+        },
+        {
+          "option": "BY",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the odd one out among shapes:",
+      "options": [
+        {
+          "option": "Triangle"
+        },
+        {
+          "option": "Square"
+        },
+        {
+          "option": "Sphere",
+          "is_answer": true
+        },
+        {
+          "option": "Rectangle"
+        }
+      ]
+    }
+  ]
+}

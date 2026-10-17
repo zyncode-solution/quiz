@@ -1,0 +1,9005 @@
+{
+  "total_questions": 500,
+  "questions": [
+    {
+      "question": "x के लिए हल करें: 3x - 5 = 10",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "रैखिक समीकरण 2x + 3 = 11 का हल क्या है?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "समीकरण में y का मान ज्ञात कीजिए: 5y - 3 = 2y + 9",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "यदि x + y = 10 और x - y = 4 है, तो x का मान क्या है?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "युग्मपत् समीकरणों को हल करें: 2x + y = 7 और x - y = 2",
+      "options": [
+        {
+          "option": "x = 3, y = 1",
+          "is_answer": true
+        },
+        {
+          "option": "x = 4, y = -1"
+        },
+        {
+          "option": "x = 1, y = 5"
+        },
+        {
+          "option": "x = 2, y = 3"
+        }
+      ]
+    },
+    {
+      "question": "समीकरण में x का मान ज्ञात कीजिए: (x/2) + (x/3) = 10",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "k के किस मान के लिए समीकरण निकाय x + 2y = 3 और 2x + 4y = k के अनंत हल होंगे?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "x के लिए हल करें: 4(x - 2) = 3(x + 1)",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "11",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "यदि 3x + 2y = 12 और x = 4 है, तो y का मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "प्रणाली में y का मान क्या है: 3x + y = 10 और 9x + 3y = 30?",
+      "options": [
+        {
+          "option": "y = 0"
+        },
+        {
+          "option": "अनंत हल",
+          "is_answer": true
+        },
+        {
+          "option": "कोई हल नहीं"
+        },
+        {
+          "option": "अद्वितीय हल"
+        }
+      ]
+    },
+    {
+      "question": "x के लिए हल करें: 7x - 2 = 5x + 8",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "दो संख्याओं کا যোগফল 25 ہے اور ان کا فرق 5 ہے بڑی संख्या ज्ञात करें। (Wait Hindi: दो संख्याओं का योग 25 है और उनका अंतर 5 है। बड़ी संख्या ज्ञात कीजिए।)",
+      "options": [
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "प्रतिस्थापन विधि से हल करें: y = 2x और x + y = 9",
+      "options": [
+        {
+          "option": "x = 2, y = 4"
+        },
+        {
+          "option": "x = 4, y = 8"
+        },
+        {
+          "option": "x = 3, y = 6",
+          "is_answer": true
+        },
+        {
+          "option": "x = 6, y = 3"
+        }
+      ]
+    },
+    {
+      "question": "यदि 0.3x + 0.4 = 0.5x + 0.2 है तो x का मान ज्ञात कीजिए",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "1.5"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0.5"
+        }
+      ]
+    },
+    {
+      "question": "यदि 5x - 4y = 10 और 2x = 3y है, तो x का मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "समीकरण में x का मान क्या है: 2(x + 3) - 3(x - 1) = 6?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "x और y के मान ज्ञात कीजिए: x + 2y = 5 और 3x + 6y = 15",
+      "options": [
+        {
+          "option": "अनंत हल",
+          "is_answer": true
+        },
+        {
+          "option": "कोई हल नहीं"
+        },
+        {
+          "option": "अद्वितीय हल (1, 2)"
+        },
+        {
+          "option": "अद्वितीय हल (2, 1)"
+        }
+      ]
+    },
+    {
+      "question": "x के लिए हल करें: (2x - 1)/3 = (x + 2)/2",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "यदि समीकरण निकाय x - y = 1 और x + ky = 5 का कोई हल नहीं है, तो k का मान क्या है?",
+      "options": [
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "यदि 4x/3 - 2 = 6 है तो x ज्ञात कीजिए",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "बिंदुओं (2, 3) और (4, 7) से गुजरने वाली रेखा का ढलान (slope) क्या है?",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "-2"
+        }
+      ]
+    },
+    {
+      "question": "उस रेखा का ढलान ज्ञात कीजिए जिसका समीकरण 3x - 4y + 5 = 0 है।",
+      "options": [
+        {
+          "option": "-3/4"
+        },
+        {
+          "option": "3/4",
+          "is_answer": true
+        },
+        {
+          "option": "4/3"
+        },
+        {
+          "option": "-4/3"
+        }
+      ]
+    },
+    {
+      "question": "ढलान 2 और y-अंतःखंड 3 वाली रेखा का समीकरण क्या है?",
+      "options": [
+        {
+          "option": "y = 2x + 3",
+          "is_answer": true
+        },
+        {
+          "option": "2x - y = 3"
+        },
+        {
+          "option": "y = 3x + 2"
+        },
+        {
+          "option": "y = -2x + 3"
+        }
+      ]
+    },
+    {
+      "question": "यदि दो रेखाएँ लंबवत हैं और एक रेखा का ढलान -2/3 है, तो दूसरी रेखा का ढलान क्या है?",
+      "options": [
+        {
+          "option": "-2/3"
+        },
+        {
+          "option": "3/2",
+          "is_answer": true
+        },
+        {
+          "option": "2/3"
+        },
+        {
+          "option": "-3/2"
+        }
+      ]
+    },
+    {
+      "question": "बिंदु (1, 2) से गुजरने वाली और ढलान 3 वाली रेखा का समीकरण ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "y = 3x + 1"
+        },
+        {
+          "option": "y - 1 = 3(x - 2)"
+        },
+        {
+          "option": "y + 2 = 3(x + 1)"
+        },
+        {
+          "option": "y - 2 = 3(x - 1)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "x-अक्ष के समांतर रेखा का ढलान क्या होता है?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "अपरिभाषित (Undefined)"
+        }
+      ]
+    },
+    {
+      "question": "y-अक्ष के समांतर रेखा का ढलान क्या होता है?",
+      "options": [
+        {
+          "option": "अपरिभाषित (Undefined)",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "समीकरण 2x + 5y = 10 द्वारा दी गई रेखा का y-अंतःखंड ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "-2"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "बिंदुओं (-1, -2) और (-3, -4) से गुजरने वाली रेखा का ढलान क्या है?",
+      "options": [
+        {
+          "option": "-2"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "यदि दो रेखाएँ समांतर हैं, तो उनके ढलानों (m1 और m2) के बीच क्या संबंध है?",
+      "options": [
+        {
+          "option": "m1 * m2 = -1"
+        },
+        {
+          "option": "m1 + m2 = 0"
+        },
+        {
+          "option": "m1 * m2 = 1"
+        },
+        {
+          "option": "m1 = m2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "रेखा 4x - 3y = 12 का x-अंतःखंड ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "-4"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "-3"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "बिंदुओं (5, 2) और (5, 8) से गुजरने वाली रेखा का ढलान क्या है?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "अपरिभाषित (Undefined)",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "मूल बिंदु से गुजरने वाली और -4 ढलान वाली रेखा का समीकरण ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "y = 4x"
+        },
+        {
+          "option": "x + 4y = 0"
+        },
+        {
+          "option": "y = -4x + 1"
+        },
+        {
+          "option": "y = -4x",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "x-अक्ष की धनात्मक दिशा के साथ 45 डिग्री का कोण बनाने वाली रेखा का ढलान क्या है?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "अपरिभाषित (Undefined)"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "रेखा 5x + 2y - 7 = 0 के लंबवत रेखा का ढलान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "5/2"
+        },
+        {
+          "option": "-5/2"
+        },
+        {
+          "option": "-2/5"
+        },
+        {
+          "option": "2/5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा बिंदु रेखा y = 3x - 1 पर स्थित है?",
+      "options": [
+        {
+          "option": "(2, 5)",
+          "is_answer": true
+        },
+        {
+          "option": "(0, 1)"
+        },
+        {
+          "option": "(3, 2)"
+        },
+        {
+          "option": "(1, 3)"
+        }
+      ]
+    },
+    {
+      "question": "बिंदुओं (0, 0) और (3, -9) से गुजरने वाली रेखा का ढलान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "-1/3"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "-3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "बिंदु (4, -5) से गुजरने वाली और 0 ढलान वाली रेखा का समीकरण ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "x = 4"
+        },
+        {
+          "option": "x = -5"
+        },
+        {
+          "option": "y = 4"
+        },
+        {
+          "option": "y = -5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "रेखा y = -7x + 4 का y-अंतःखंड क्या है?",
+      "options": [
+        {
+          "option": "-4"
+        },
+        {
+          "option": "-7"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "यदि कोई रेखा (2, 3) से गुजरती है और उसका ढलान 1 है, तो उसका y-अंतःखंड क्या है?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "द्विघात समीकरण 2x^2 - 4x + 3 = 0 का विविक्तकर (discriminant) क्या है?",
+      "options": [
+        {
+          "option": "-4"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "-8",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "द्विघात समीकरण 3x^2 - 5x + 2 = 0 के मूलों की प्रकृति ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "परिमेय और समान"
+        },
+        {
+          "option": "सम्मिश्र और अवास्तविक"
+        },
+        {
+          "option": "वास्तविक और समान"
+        },
+        {
+          "option": "वास्तविक और भिन्न",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि किसी द्विघात समीकरण का विविक्तकर शून्य है, तो उसके मूलों के बारे में क्या कहा जा सकता है?",
+      "options": [
+        {
+          "option": "वास्तविक और समान",
+          "is_answer": true
+        },
+        {
+          "option": "वास्तविक और भिन्न"
+        },
+        {
+          "option": "काल्पनिक"
+        },
+        {
+          "option": "अपरीमेय"
+        }
+      ]
+    },
+    {
+      "question": "द्विघात समीकरण 4x^2 - 8x + 3 = 0 के मूलों का योग कितना है?",
+      "options": [
+        {
+          "option": "3/4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "-2"
+        },
+        {
+          "option": "-3/4"
+        }
+      ]
+    },
+    {
+      "question": "द्विघात समीकरण 5x^2 + 10x - 3 = 0 के मूलों का गुणनफल कितना है?",
+      "options": [
+        {
+          "option": "-2"
+        },
+        {
+          "option": "3/5"
+        },
+        {
+          "option": "-3/5",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "'k' के किस मान के लिए द्विघात समीकरण x^2 - 4x + k = 0 के मूल वास्तविक और समान होंगे?",
+      "options": [
+        {
+          "option": "-2"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "-4"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "यदि समीकरण x^2 - 7x + 12 = 0 का एक मूल 4 है, तो दूसरा मूल क्या है?",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "-3"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "-4"
+        }
+      ]
+    },
+    {
+      "question": "द्विघात समीकरण x^2 - 9 = 0 के मूल क्या हैं?",
+      "options": [
+        {
+          "option": "-3, -3"
+        },
+        {
+          "option": "0, 3"
+        },
+        {
+          "option": "3, 3"
+        },
+        {
+          "option": "3, -3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "द्विघात समीकरण x^2 + x + 1 = 0 का विविक्तकर क्या है?",
+      "options": [
+        {
+          "option": "-1"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "-3",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "यदि किसी द्विघात समीकरण के मूल 2 और 3 हैं, तो समीकरण बनाइए।",
+      "options": [
+        {
+          "option": "x^2 - 5x + 6 = 0",
+          "is_answer": true
+        },
+        {
+          "option": "x^2 - 5x - 6 = 0"
+        },
+        {
+          "option": "x^2 + 5x - 6 = 0"
+        },
+        {
+          "option": "x^2 + 5x + 6 = 0"
+        }
+      ]
+    },
+    {
+      "question": "2x^2 + 5x - 7 = 0 के मूलों का योग ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "-5/2",
+          "is_answer": true
+        },
+        {
+          "option": "5/2"
+        },
+        {
+          "option": "-7/2"
+        },
+        {
+          "option": "7/2"
+        }
+      ]
+    },
+    {
+      "question": "2x^2 - 3x + 5 = 0 के मूलों की प्रकृति क्या है?",
+      "options": [
+        {
+          "option": "सम्मिश्र और अवास्तविक",
+          "is_answer": true
+        },
+        {
+          "option": "वास्तविक और समान"
+        },
+        {
+          "option": "वास्तविक और भिन्न"
+        },
+        {
+          "option": "परिमेय और भिन्न"
+        }
+      ]
+    },
+    {
+      "question": "यदि kx^2 - 2x + 3 = 0 के मूलों का गुणनफल 1 है, तो k का मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "-3"
+        },
+        {
+          "option": "-1/3"
+        }
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से किस समीकरण के मूल 5 और -5 हैं?",
+      "options": [
+        {
+          "option": "x^2 + 25 = 0"
+        },
+        {
+          "option": "x^2 - 25 = 0",
+          "is_answer": true
+        },
+        {
+          "option": "x^2 + 5x - 25 = 0"
+        },
+        {
+          "option": "x^2 - 5x = 0"
+        }
+      ]
+    },
+    {
+      "question": "यदि समीकरण x^2 - px + 4 = 0 के मूल समान हैं, तो 'p' का मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "-4"
+        },
+        {
+          "option": "±4",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "3x^2 - 12x + 15 = 0 के मूलों का गुणनफल कितना है?",
+      "options": [
+        {
+          "option": "-5"
+        },
+        {
+          "option": "-4"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "द्विघात सूत्र का उपयोग करके x ज्ञात कीजिए: x^2 - 5x + 6 = 0.",
+      "options": [
+        {
+          "option": "-2, -3"
+        },
+        {
+          "option": "2, -3"
+        },
+        {
+          "option": "-2, 3"
+        },
+        {
+          "option": "2, 3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि विविक्तकर b^2 - 4ac > 0 है और एक पूर्ण वर्ग है, तो मूल हैं:",
+      "options": [
+        {
+          "option": "वास्तविक, परिमेय और भिन्न",
+          "is_answer": true
+        },
+        {
+          "option": "वास्तविक और समान"
+        },
+        {
+          "option": "सम्मिश्र"
+        },
+        {
+          "option": "वास्तविक, अपरिमेय और भिन्न"
+        }
+      ]
+    },
+    {
+      "question": "समीकरण (x - 2)(x + 3) = 0 के मूलों का योग ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "-6"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "'m' के किन मानों के लिए समीकरण 9x^2 + mx + 4 = 0 के मूल समान हैं?",
+      "options": [
+        {
+          "option": "-12"
+        },
+        {
+          "option": "±12",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "±6"
+        }
+      ]
+    },
+    {
+      "question": "बिंदुओं (2, 3) और (5, 7) के बीच की दूरी ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "बिंदुओं (1, 2) और (5, 6) को मिलाने वाले रेखाखंड का मध्य बिंदु ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "(4, 5)"
+        },
+        {
+          "option": "(3, 4)",
+          "is_answer": true
+        },
+        {
+          "option": "(3, 5)"
+        },
+        {
+          "option": "(2, 3)"
+        }
+      ]
+    },
+    {
+      "question": "मूल बिंदु से बिंदु (3, 4) की दूरी क्या है?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "बिंदुओं (-1, -3) और (5, 5) के बीच की दूरी ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "यदि (2, p) और (6, 4) को मिलाने वाले रेखाखंड का मध्य बिंदु (4, 5) है, तो p का मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "बिंदुओं (a, 0) और (0, b) के बीच की दूरी ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "a^2 + b^2"
+        },
+        {
+          "option": "sqrt(a + b)"
+        },
+        {
+          "option": "a + b"
+        },
+        {
+          "option": "sqrt(a^2 + b^2)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "उस बिंदु के निर्देशांक ज्ञात कीजिए जो (-1, 7) और (4, -3) को मिलाने वाली रेखा को 2:3 के अनुपात में विभाजित करता है।",
+      "options": [
+        {
+          "option": "(1, 2)"
+        },
+        {
+          "option": "(3, 1)"
+        },
+        {
+          "option": "(2, 3)"
+        },
+        {
+          "option": "(1, 3)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "बिंदुओं (0, 0) और (-5, -12) के बीच की दूरी क्या है?",
+      "options": [
+        {
+          "option": "13",
+          "is_answer": true
+        },
+        {
+          "option": "17"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "उस वृत्त के व्यास की लंबाई ज्ञात कीजिए जिसके व्यास के अंतिम बिंदु (2, 3) और (-2, 0) हैं।",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "sqrt(7)"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "बिंदुओं (-3, 10) और (6, -2) को मिलाने वाले रेखाखंड का मध्य बिंदु ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "(3, 8)"
+        },
+        {
+          "option": "(1.5, 6)"
+        },
+        {
+          "option": "(4.5, 4)"
+        },
+        {
+          "option": "(1.5, 4)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि (x, 2) और (3, 6) के बीच की दूरी 5 है, तो x का धनात्मक मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "उस त्रिभुज का केंद्रक ज्ञात कीजिए जिसके शीर्ष (1, 4), (2, -3) और (3, 2) हैं।",
+      "options": [
+        {
+          "option": "(3, 3)"
+        },
+        {
+          "option": "(2, 2)"
+        },
+        {
+          "option": "(2, 1)",
+          "is_answer": true
+        },
+        {
+          "option": "(1, 2)"
+        }
+      ]
+    },
+    {
+      "question": "बिंदुओं (2, 3) और (2, -3) के बीच की दूरी ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "वह अनुपात ज्ञात कीजिए जिसमें y-अक्ष, बिंदुओं (5, -6) और (-1, -4) को मिलाने वाले रेखाखंड को विभाजित करता है।",
+      "options": [
+        {
+          "option": "3:2"
+        },
+        {
+          "option": "5:1",
+          "is_answer": true
+        },
+        {
+          "option": "1:5"
+        },
+        {
+          "option": "2:3"
+        }
+      ]
+    },
+    {
+      "question": "शीर्षों (0, 4), (0, 0) और (3, 0) वाले त्रिभुज का परिमाप ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "यदि बिंदु (1, 2), (4, y), (x, 6) और (3, 5) इसी क्रम में एक समांतर चतुर्भुज के शीर्ष हैं, तो (x, y) ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "(6, 3)",
+          "is_answer": true
+        },
+        {
+          "option": "(4, 2)"
+        },
+        {
+          "option": "(3, 6)"
+        },
+        {
+          "option": "(2, 4)"
+        }
+      ]
+    },
+    {
+      "question": "x-अक्ष पर वह बिंदु ज्ञात कीजिए जो (2, -5) और (-2, 9) से समदूरस्थ है।",
+      "options": [
+        {
+          "option": "(-7, 0)",
+          "is_answer": true
+        },
+        {
+          "option": "(2, 0)"
+        },
+        {
+          "option": "(7, 0)"
+        },
+        {
+          "option": "(-2, 0)"
+        }
+      ]
+    },
+    {
+      "question": "मूल बिंदु से बिंदु (p, q) की दूरी ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "sqrt(p^2 + q^2)",
+          "is_answer": true
+        },
+        {
+          "option": "sqrt(p + q)"
+        },
+        {
+          "option": "p^2 + q^2"
+        },
+        {
+          "option": "p + q"
+        }
+      ]
+    },
+    {
+      "question": "बिंदुओं (a + b, a - b) और (a - b, a + b) को मिलाने वाले रेखाखंड के मध्य बिंदु के निर्देशांक ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "(b, b)"
+        },
+        {
+          "option": "(a+b, a-b)"
+        },
+        {
+          "option": "(2a, 2b)"
+        },
+        {
+          "option": "(a, a)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "बिंदुओं (cos θ, sin θ) और (sin θ, -cos θ) के बीच की दूरी क्या है?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "sqrt(2)",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "जब बहुपद $P(x) = x^3 - 2x^2 + x - 5$ को $(x - 2)$ से विभाजित किया जाता है, तो शेषफल क्या होगा?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "-3",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "-5"
+        }
+      ]
+    },
+    {
+      "question": "यदि $(x - 1)$ बहुपद $P(x) = 2x^3 + kx^2 + 3x - 5$ का एक गुणनखंड है, तो $k$ का मान क्या है?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "जब $x^4 - 3x^2 + 2$ को $(x + 2)$ से विभाजित किया जाता है, तो शेषफल ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "-2"
+        }
+      ]
+    },
+    {
+      "question": "$a$ के किस मान के लिए $(x - a)$, $x^3 - a^2x + x + 2a$ का एक गुणनखंड है?",
+      "options": [
+        {
+          "option": "-1"
+        },
+        {
+          "option": "-2/3",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2/3"
+        }
+      ]
+    },
+    {
+      "question": "जब $P(x) = 3x^3 - 4x^2 + 7x - 8$ को $(3x - 1)$ से विभाजित किया जाता है, तो शेषफल क्या होता है?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "-58/27",
+          "is_answer": true
+        },
+        {
+          "option": "-2"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "यदि $x^51 + 51$ को $x + 1$ से विभाजित किया जाए, तो शेषफल है:",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "-50"
+        },
+        {
+          "option": "50",
+          "is_answer": true
+        },
+        {
+          "option": "51"
+        }
+      ]
+    },
+    {
+      "question": "गुणनखंड प्रमेय का उपयोग करके जांचें कि क्या $(x + 2)$, $x^3 + 3x^2 + 5x + 6$ का गुणनखंड है।",
+      "options": [
+        {
+          "option": "नहीं, शेषफल -4 है"
+        },
+        {
+          "option": "नहीं, शेषफल 4 है"
+        },
+        {
+          "option": "हाँ, शेषफल 2 है"
+        },
+        {
+          "option": "हाँ, शेषफल 0 है",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "जब $2x^3 - 9x^2 + x + 12$ को $(x - 3)$ से विभाजित किया जाता है, तो शेषफल ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "-6",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "यदि बहुपदों $ax^3 + 3x^2 - 13$ और $2x^3 - 5x + a$ को $(x - 2)$ से विभाजित करने पर समान शेषफल प्राप्त होता है, तो $a$ ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "-5"
+        },
+        {
+          "option": "-3"
+        }
+      ]
+    },
+    {
+      "question": "जब $x^3 - ax^2 + 6x - a$ को $(x - a)$ से विभाजित किया जाता है, तो शेषफल क्या होगा?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "5a",
+          "is_answer": true
+        },
+        {
+          "option": "6a"
+        },
+        {
+          "option": "a"
+        }
+      ]
+    },
+    {
+      "question": "यदि $x^2 + kx + 6$ पूरी तरह से $(x - 2)$ से विभाज्य है, तो $k$ का मान है:",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "-5",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "$m$ का मान ज्ञात कीजिए यदि $(x - 1)$, $4x^3 + 3x^2 - 4x + m$ का गुणनखंड है।",
+      "options": [
+        {
+          "option": "-3",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "जब $(x^3 - 2x^2 + x + 1)$ को $(x - 2)$ से विभाजित किया जाता है, तो शेषफल क्या है?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "-3"
+        }
+      ]
+    },
+    {
+      "question": "यदि बहुपद $P(x) = x^4 - 2x^3 + 3x^2 - ax + b$ को $(x - 1)$ और $(x + 1)$ से विभाजित करने पर क्रमशः 5 और 19 शेषफल बचते हैं, तो $a$ और $b$ ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "a = 7, b = -8"
+        },
+        {
+          "option": "a = -7, b = 8",
+          "is_answer": true
+        },
+        {
+          "option": "a = -1, b = -2"
+        },
+        {
+          "option": "a = 1, b = 2"
+        }
+      ]
+    },
+    {
+      "question": "निर्ધારित कीजिए कि क्या $(x + 1)$, $x^3 + x^2 + x + 1$ का एक गुणनखंड है।",
+      "options": [
+        {
+          "option": "नहीं, P(-1) = 1"
+        },
+        {
+          "option": "हाँ, P(-1) = 0",
+          "is_answer": true
+        },
+        {
+          "option": "हाँ, P(1) = 0"
+        },
+        {
+          "option": "नहीं, P(-1) = -1"
+        }
+      ]
+    },
+    {
+      "question": "जब $x^3 - 3x^2 + 4x - 13$ को $(x - 3)$ से विभाजित किया जाता है, तो शेषफल ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "13"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि $x^140 + 2x^151 + k$ $(x + 1)$ से विभाज्य है, तो $k$ का मान है:",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "-3"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "जब $4x^3 - 12x^2 + 14x - 3$ को $(2x - 1)$ से विभाजित किया जाता है, तो शेषफल क्या है?",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "-2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "$p$ का मान ज्ञात कीजिए जिसके लिए बहुपद $x^3 + 4x^2 - px + 6$ $(x - 2)$ से पूरी तरह विभाज्य है।",
+      "options": [
+        {
+          "option": "-12"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "-15"
+        }
+      ]
+    },
+    {
+      "question": "यदि $(x - 2)$ और $(x - 1/2)$ दोनों $px^2 + 5x + r$ के गुणनखंड हैं, तो:",
+      "options": [
+        {
+          "option": "p = r",
+          "is_answer": true
+        },
+        {
+          "option": "p + r = 0"
+        },
+        {
+          "option": "2p = r"
+        },
+        {
+          "option": "p = 2r"
+        }
+      ]
+    },
+    {
+      "question": "असमानता को हल करें: -3x + 5 < 14",
+      "options": [
+        {
+          "option": "x < 3"
+        },
+        {
+          "option": "x > 3"
+        },
+        {
+          "option": "x > -3",
+          "is_answer": true
+        },
+        {
+          "option": "x < -3"
+        }
+      ]
+    },
+    {
+      "question": "निरपेक्ष मान असमानता के लिए हल समुच्चय ज्ञात कीजिए: |x - 2| ≤ 5",
+      "options": [
+        {
+          "option": "x ≥ 7 या x ≤ -3"
+        },
+        {
+          "option": "-7 ≤ x ≤ 3"
+        },
+        {
+          "option": "-3 ≤ x ≤ 7",
+          "is_answer": true
+        },
+        {
+          "option": "-5 ≤ x ≤ 5"
+        }
+      ]
+    },
+    {
+      "question": "x के लिए हल करें: 2|x + 1| - 4 = 6",
+      "options": [
+        {
+          "option": "x = 6 या x = -4"
+        },
+        {
+          "option": "x = 5 या x = -5"
+        },
+        {
+          "option": "x = 4 या x = -6",
+          "is_answer": true
+        },
+        {
+          "option": "x = 2 या x = -3"
+        }
+      ]
+    },
+    {
+      "question": "असमानता 5 - 2x ≥ 11 का हल क्या है?",
+      "options": [
+        {
+          "option": "x ≥ 3"
+        },
+        {
+          "option": "x ≤ -3",
+          "is_answer": true
+        },
+        {
+          "option": "x ≥ -3"
+        },
+        {
+          "option": "x ≤ 3"
+        }
+      ]
+    },
+    {
+      "question": "मापांक असमानता को हल करें: |3x - 1| > 8",
+      "options": [
+        {
+          "option": "x > 3 या x < -7/3",
+          "is_answer": true
+        },
+        {
+          "option": "x > 7/3 या x < -3"
+        },
+        {
+          "option": "-7/3 < x < 3"
+        },
+        {
+          "option": "-3 < x < 7/3"
+        }
+      ]
+    },
+    {
+      "question": "|x| = -x को संतुष्ट करने والے x के सभी वास्तविक मान ज्ञात कीजिए",
+      "options": [
+        {
+          "option": "कोई हल नहीं"
+        },
+        {
+          "option": "x ≥ 0"
+        },
+        {
+          "option": "x ≤ 0",
+          "is_answer": true
+        },
+        {
+          "option": "x = 0"
+        }
+      ]
+    },
+    {
+      "question": "संयुक्त असमानता को हल करें: -2 ≤ 3x - 5 < 7",
+      "options": [
+        {
+          "option": "1 < x ≤ 4"
+        },
+        {
+          "option": "1 ≤ x ≤ 4"
+        },
+        {
+          "option": "1 ≤ x < 4",
+          "is_answer": true
+        },
+        {
+          "option": "-1 ≤ x < 4"
+        }
+      ]
+    },
+    {
+      "question": "समीकरण को हल करें: |2x - 3| = 5",
+      "options": [
+        {
+          "option": "x = -4 या x = -1"
+        },
+        {
+          "option": "x = 1 या x = -4"
+        },
+        {
+          "option": "x = 4 या x = 1"
+        },
+        {
+          "option": "x = 4 या x = -1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "असमानता 4x - 7 ≥ 6x + 3 का हल क्या है?",
+      "options": [
+        {
+          "option": "x ≤ -5",
+          "is_answer": true
+        },
+        {
+          "option": "x ≥ -5"
+        },
+        {
+          "option": "x ≤ 5"
+        },
+        {
+          "option": "x ≥ 5"
+        }
+      ]
+    },
+    {
+      "question": "x के लिए हल करें: |x + 3| + 2 < 7",
+      "options": [
+        {
+          "option": "x > 2 या x < -8"
+        },
+        {
+          "option": "-5 < x < 5"
+        },
+        {
+          "option": "-8 < x < 2",
+          "is_answer": true
+        },
+        {
+          "option": "-2 < x < 8"
+        }
+      ]
+    },
+    {
+      "question": "x की वह सीमा ज्ञात कीजिए जिसके लिए |x - 4| = x - 4 हो",
+      "options": [
+        {
+          "option": "x < 4"
+        },
+        {
+          "option": "x > 4"
+        },
+        {
+          "option": "x ≥ 4",
+          "is_answer": true
+        },
+        {
+          "option": "x ≤ 4"
+        }
+      ]
+    },
+    {
+      "question": "असमानता को हल करें: (2x / 3) - 4 > (x / 2) + 1",
+      "options": [
+        {
+          "option": "x < 30"
+        },
+        {
+          "option": "x > 30",
+          "is_answer": true
+        },
+        {
+          "option": "x > 15"
+        },
+        {
+          "option": "x < 15"
+        }
+      ]
+    },
+    {
+      "question": "मापांक वाले समीकरण को हल करें: |x - 2| + |x + 1| = 5",
+      "options": [
+        {
+          "option": "x = 5 या x = -1"
+        },
+        {
+          "option": "x = 2 या x = -3"
+        },
+        {
+          "option": "x = 1 या x = -5"
+        },
+        {
+          "option": "x = 3 या x = -2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "|x| < 3 के पूर्णांक हल क्या हैं?",
+      "options": [
+        {
+          "option": "-2, -1, 0, 1, 2",
+          "is_answer": true
+        },
+        {
+          "option": "-2, -1, 1, 2"
+        },
+        {
+          "option": "0, 1, 2"
+        },
+        {
+          "option": "-3, -2, -1, 0, 1, 2, 3"
+        }
+      ]
+    },
+    {
+      "question": "असमानता को हल करें: -5 < 2x + 3 ≤ 9",
+      "options": [
+        {
+          "option": "-4 < x ≤ 3",
+          "is_answer": true
+        },
+        {
+          "option": "-5 < x ≤ 3"
+        },
+        {
+          "option": "-4 ≤ x < 3"
+        },
+        {
+          "option": "-3 < x ≤ 4"
+        }
+      ]
+    },
+    {
+      "question": "सभी वास्तविक x का समुच्चय ज्ञात कीजिए ताकि |x - 5| < 0 हो",
+      "options": [
+        {
+          "option": "x = 5"
+        },
+        {
+          "option": "x < 5"
+        },
+        {
+          "option": "सभी वास्तविक संख्याएँ"
+        },
+        {
+          "option": "रिक्त समुच्चय (कोई हल नहीं)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "x के लिए हल करें: 3(x - 2) < 2(x + 1)",
+      "options": [
+        {
+          "option": "x > 4"
+        },
+        {
+          "option": "x > 8"
+        },
+        {
+          "option": "x < 8",
+          "is_answer": true
+        },
+        {
+          "option": "x < 4"
+        }
+      ]
+    },
+    {
+      "question": "मापांक समीकरण को हल करें: |5 - 2x| = 9",
+      "options": [
+        {
+          "option": "x = 7 या x = 2"
+        },
+        {
+          "option": "x = -2 या x = -7"
+        },
+        {
+          "option": "x = -2 या x = 7",
+          "is_answer": true
+        },
+        {
+          "option": "x = 2 या x = -7"
+        }
+      ]
+    },
+    {
+      "question": "यदि |x + 2| ≤ 4 है, तो x का अधिकतम मान क्या है?",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "-2"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "असमानता को हल करें: x / (x - 2) ≥ 0",
+      "options": [
+        {
+          "option": "x < 0 या x ≥ 2"
+        },
+        {
+          "option": "x ≤ 0 या x > 2",
+          "is_answer": true
+        },
+        {
+          "option": "0 < x ≤ 2"
+        },
+        {
+          "option": "0 ≤ x < 2"
+        }
+      ]
+    },
+    {
+      "question": "6 सेमी और 8 सेमी लंबाई की भुजाओं वाले समकोण त्रिभुज के कर्ण की लंबाई क्या है?",
+      "options": [
+        {
+          "option": "12 सेमी"
+        },
+        {
+          "option": "10 सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "14 सेमी"
+        },
+        {
+          "option": "7 सेमी"
+        }
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से भुजाओं की कौन सी लंबाई पाइथागोरस त्रिक (triple) बनाती है?",
+      "options": [
+        {
+          "option": "4, 5, 6"
+        },
+        {
+          "option": "5, 12, 13",
+          "is_answer": true
+        },
+        {
+          "option": "2, 3, 4"
+        },
+        {
+          "option": "6, 8, 11"
+        }
+      ]
+    },
+    {
+      "question": "यदि एक समकोण त्रिभुज का कर्ण 17 सेमी और एक भुजा 8 सेमी है, तो दूसरी भुजा की लंबाई क्या है?",
+      "options": [
+        {
+          "option": "25 सेमी"
+        },
+        {
+          "option": "9 सेमी"
+        },
+        {
+          "option": "12 सेमी"
+        },
+        {
+          "option": "15 सेमी",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "थेल्स प्रमेय (आधारभूत समानुपातिकता प्रमेय) के अनुसार, यदि किसी त्रिभुज की एक भुजा के समानांतर एक रेखा खींची जाए जो अन्य दो भुजाओं को प्रतिच्छेद करे, तो यह दो भुजाओं को किस अनुपात में विभाजित करती है?",
+      "options": [
+        {
+          "option": "उनके वर्गों के अनुपात में"
+        },
+        {
+          "option": "व्युत्क्रम अनुपात में"
+        },
+        {
+          "option": "समान अनुपात में",
+          "is_answer": true
+        },
+        {
+          "option": "समान आधे भागों में"
+        }
+      ]
+    },
+    {
+      "question": "दो त्रिभुज समरूप होते हैं यदि उनके संगत कोण बराबर हों। इस समरूपता कसौटी को किस रूप में जाना जाता है?",
+      "options": [
+        {
+          "option": "RHS समरूपता"
+        },
+        {
+          "option": "SSS समरूपता"
+        },
+        {
+          "option": "SAS समरूपता"
+        },
+        {
+          "option": "AAA समरूपता",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि दो समरूप त्रिभुजों के क्षेत्रफल का अनुपात 9 : 16 है, तो उनकी संगत भुजाओं का अनुपात क्या है?",
+      "options": [
+        {
+          "option": "3 : 8"
+        },
+        {
+          "option": "3 : 4",
+          "is_answer": true
+        },
+        {
+          "option": "81 : 256"
+        },
+        {
+          "option": "9 : 16"
+        }
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन त्रिभुजों की सर्वांगसमता की कसौटी नहीं है?",
+      "options": [
+        {
+          "option": "ASA"
+        },
+        {
+          "option": "SAS"
+        },
+        {
+          "option": "AAA",
+          "is_answer": true
+        },
+        {
+          "option": "SSS"
+        }
+      ]
+    },
+    {
+      "question": "एक समकोण त्रिभुज में, भुजाओं की लंबाई 3x और 4x है, और कर्ण 20 सेमी है। x का मान क्या है?",
+      "options": [
+        {
+          "option": "3 सेमी"
+        },
+        {
+          "option": "4 सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "6 सेमी"
+        },
+        {
+          "option": "5 सेमी"
+        }
+      ]
+    },
+    {
+      "question": "यदि त्रिभुज ABC त्रिभुज PQR के सर्वांगसम है, तो निम्नलिखित में से कौन सा निश्चित रूप से सत्य है?",
+      "options": [
+        {
+          "option": "AC = QR"
+        },
+        {
+          "option": "क्षेत्रफल(ABC) != क्षेत्रफल(PQR)"
+        },
+        {
+          "option": "BC = PR"
+        },
+        {
+          "option": "AB = PQ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक समकोण त्रिभुज जिसकी भुजाओं का अनुपात 3:4:5 है, उसका परिमाप 36 सेमी है। उसके कर्ण की लंबाई क्या है?",
+      "options": [
+        {
+          "option": "15 सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "12 सेमी"
+        },
+        {
+          "option": "20 सेमी"
+        },
+        {
+          "option": "9 सेमी"
+        }
+      ]
+    },
+    {
+      "question": "यदि 10 मीटर लंबी सीढ़ी जमीन से 8 मीटर ऊंची खिड़की तक पहुँचती है, तो सीढ़ी का पाद दीवार के आधार से कितनी दूर है?",
+      "options": [
+        {
+          "option": "2 मीटर"
+        },
+        {
+          "option": "4 मीटर"
+        },
+        {
+          "option": "5 मीटर"
+        },
+        {
+          "option": "6 मीटर",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "दो त्रिभुज 2:3 के स्केल फैक्टर के साथ समरूप हैं। यदि छोटे त्रिभुज का परिमाप 30 सेमी है, तो बड़े त्रिभुज का परिमाप क्या है?",
+      "options": [
+        {
+          "option": "45 सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "20 सेमी"
+        },
+        {
+          "option": "40 सेमी"
+        },
+        {
+          "option": "60 सेमी"
+        }
+      ]
+    },
+    {
+      "question": "त्रिभुज ABC में, DE, BC के समानांतर है, AB को D पर और AC को E पर काटती है। यदि AD = 2 सेमी, DB = 3 सेमी, और AE = 4 सेमी है, तो EC की लंबाई क्या है?",
+      "options": [
+        {
+          "option": "5 सेमी"
+        },
+        {
+          "option": "6 सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "4 सेमी"
+        },
+        {
+          "option": "8 सेमी"
+        }
+      ]
+    },
+    {
+      "question": "उस वर्ग के विकर्ण की लंबाई क्या है जिसकी भुजा 5√2 सेमी है?",
+      "options": [
+        {
+          "option": "10 सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "5√2 सेमी"
+        },
+        {
+          "option": "10√2 सेमी"
+        },
+        {
+          "option": "5 सेमी"
+        }
+      ]
+    },
+    {
+      "question": "यदि दो समरूप त्रिभुजों के संगत शीर्षलंबों का अनुपात 4:9 है, तो उनके क्षेत्रफलों का अनुपात क्या है?",
+      "options": [
+        {
+          "option": "4:9"
+        },
+        {
+          "option": "2:3"
+        },
+        {
+          "option": "16:81",
+          "is_answer": true
+        },
+        {
+          "option": "81:16"
+        }
+      ]
+    },
+    {
+      "question": "एक आदमी 15 मीटर पूर्व की ओर और फिर 20 मीटर उत्तर की ओर जाता है। वह शुरुआती बिंदु से कितनी दूर है?",
+      "options": [
+        {
+          "option": "30 मीटर"
+        },
+        {
+          "option": "35 मीटर"
+        },
+        {
+          "option": "20 मीटर"
+        },
+        {
+          "option": "25 मीटर",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "किस पाइथागोरस त्रिक में एक भुजा 24 और कर्ण 26 है?",
+      "options": [
+        {
+          "option": "8, 24, 26"
+        },
+        {
+          "option": "7, 24, 25"
+        },
+        {
+          "option": "12, 24, 28"
+        },
+        {
+          "option": "10, 24, 26",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि दो त्रिभुजों की संगत भुजाओं के दो युग्म समानुपाती हों और उनके बीच का कोण बराबर हो, तो समरूपता की कसौटी क्या है?",
+      "options": [
+        {
+          "option": "RHS समरूपता"
+        },
+        {
+          "option": "AAA समरूपता"
+        },
+        {
+          "option": "SAS समरूपता",
+          "is_answer": true
+        },
+        {
+          "option": "SSS समरूपता"
+        }
+      ]
+    },
+    {
+      "question": "12 सेमी भुजा वाले समबाहु त्रिभुज का शीर्षलंब क्या है?",
+      "options": [
+        {
+          "option": "6√3 सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "12√3 सेमी"
+        },
+        {
+          "option": "6 सेमी"
+        },
+        {
+          "option": "4√3 सेमी"
+        }
+      ]
+    },
+    {
+      "question": "यदि किसी त्रिभुज की भुजाएँ 7 सेमी, 24 सेमी और 25 सेमी हैं, तो वह किस प्रकार का त्रिभुज है?",
+      "options": [
+        {
+          "option": "अधिककोण त्रिभुज"
+        },
+        {
+          "option": "समबाहु त्रिभुज"
+        },
+        {
+          "option": "समकोण त्रिभुज",
+          "is_answer": true
+        },
+        {
+          "option": "न्यूनकोण त्रिभुज"
+        }
+      ]
+    },
+    {
+      "question": "वृत्त की स्पर्श रेखा और स्पर्श बिंदु से गुजरने वाली त्रिज्या के बीच का कोण कितना होता है?",
+      "options": [
+        {
+          "option": "60 डिग्री"
+        },
+        {
+          "option": "45 डिग्री"
+        },
+        {
+          "option": "90 डिग्री",
+          "is_answer": true
+        },
+        {
+          "option": "180 डिग्री"
+        }
+      ]
+    },
+    {
+      "question": "एक बाहरी बिंदु P से केंद्र O वाले वृत्त पर दो स्पर्श रेखाएँ PA और PB खींची जाती हैं। यदि PA = 8 सेमी है, तो PB की लंबाई क्या है?",
+      "options": [
+        {
+          "option": "8 सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "4 सेमी"
+        },
+        {
+          "option": "16 सेमी"
+        },
+        {
+          "option": "6 सेमी"
+        }
+      ]
+    },
+    {
+      "question": "एक वृत्त के केंद्र से 6 सेमी की दूरी पर 16 सेमी लंबाई की एक जीवा है। वृत्त की त्रिज्या क्या है?",
+      "options": [
+        {
+          "option": "8 सेमी"
+        },
+        {
+          "option": "12 सेमी"
+        },
+        {
+          "option": "10 सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "14 सेमी"
+        }
+      ]
+    },
+    {
+      "question": "यदि एक वृत्त की दो जीवाएँ AB और CD आंतरिक रूप से बिंदु P पर प्रतिच्छेद करती हैं, तो निम्नलिखित में से कौन सा संबंध हमेशा सत्य है?",
+      "options": [
+        {
+          "option": "AP * AB = CP * CD"
+        },
+        {
+          "option": "AP + PB = CP + PD"
+        },
+        {
+          "option": "AP * PB = CP * PD",
+          "is_answer": true
+        },
+        {
+          "option": "AP * PC = BP * PD"
+        }
+      ]
+    },
+    {
+      "question": "एकांतर खंड प्रमेय के अनुसार, स्पर्श रेखा और स्पर्श बिंदु से गुजरने वाली जीवा के बीच का कोण किसके बराबर होता है?",
+      "options": [
+        {
+          "option": "पूरक कोण"
+        },
+        {
+          "option": "एकांतर खंड में बने कोण के",
+          "is_answer": true
+        },
+        {
+          "option": "एकांतर खंड के कोण का दोगुना"
+        },
+        {
+          "option": "केंद्र पर बने कोण के"
+        }
+      ]
+    },
+    {
+      "question": "एक बाहरी बिंदु से एक वृत्त पर अधिकतम कितनी स्पर्श रेखाएँ खींची जा सकती हैं?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "अनंत"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक वृत्त की त्रिज्या 5 सेमी है। केंद्र से 3 सेमी की दूरी पर एक जीवा खींची जाती है। जीवा की लंबाई क्या है?",
+      "options": [
+        {
+          "option": "4 सेमी"
+        },
+        {
+          "option": "6 सेमी"
+        },
+        {
+          "option": "8 सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "10 सेमी"
+        }
+      ]
+    },
+    {
+      "question": "यदि एक वृत्त की जीवा AB केंद्र पर 90 डिग्री का कोण बनाती है, तो A और B को केंद्र से मिलाने पर किस प्रकार का त्रिभुज बनता है?",
+      "options": [
+        {
+          "option": "अधिक कोण त्रिभुज"
+        },
+        {
+          "option": "समबाहु त्रिभुज"
+        },
+        {
+          "option": "समद्विबाहु समकोण त्रिभुज",
+          "is_answer": true
+        },
+        {
+          "option": "विषमबाहु त्रिभुज"
+        }
+      ]
+    },
+    {
+      "question": "वृत्त के केंद्र से जीवा पर डाला गया लंब:",
+      "options": [
+        {
+          "option": "जीवा के बराबर होता है"
+        },
+        {
+          "option": "जीवा का दोगुना होता है"
+        },
+        {
+          "option": "जीवा के समांतर होता है"
+        },
+        {
+          "option": "जीवा को समद्विभाजित करता है",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "दो संकेंद्रित वृत्तों की त्रिज्याएँ 5 सेमी और 3 सेमी हैं। बड़े वृत्त की उस जीवा की लंबाई ज्ञात कीजिए जो छोटे वृत्त को स्पर्श करती है।",
+      "options": [
+        {
+          "option": "10 सेमी"
+        },
+        {
+          "option": "4 सेमी"
+        },
+        {
+          "option": "6 सेमी"
+        },
+        {
+          "option": "8 सेमी",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि एक बाहरी बिंदु P से वृत्त पर दो छेदक रेखाएँ PAB और PCD खींची जाती हैं, तो निम्नलिखित में से कौन सा सही है?",
+      "options": [
+        {
+          "option": "PA * AB = PC * CD"
+        },
+        {
+          "option": "PA * PB = PC * PD",
+          "is_answer": true
+        },
+        {
+          "option": "PA + PB = PC + PD"
+        },
+        {
+          "option": "PB * AB = PD * CD"
+        }
+      ]
+    },
+    {
+      "question": "एक वृत्त की समान जीवाएँ किससे समान दूरी पर होती हैं?",
+      "options": [
+        {
+          "option": "परिधि से"
+        },
+        {
+          "option": "केंद्र से",
+          "is_answer": true
+        },
+        {
+          "option": "स्पर्श रेखा से"
+        },
+        {
+          "option": "व्यास से"
+        }
+      ]
+    },
+    {
+      "question": "अर्धवृत्त में बना कोण हमेशा होता है:",
+      "options": [
+        {
+          "option": "न्यून कोण"
+        },
+        {
+          "option": "अधिक कोण"
+        },
+        {
+          "option": "समकोण",
+          "is_answer": true
+        },
+        {
+          "option": "ऋजु कोण"
+        }
+      ]
+    },
+    {
+      "question": "यदि एक बाहरी बिंदु P से वृत्त पर एक स्पर्श रेखा PT और एक छेदक रेखा PAB खींची जाती है, तो PT^2 किसके बराबर होता है?",
+      "options": [
+        {
+          "option": "PA * PB",
+          "is_answer": true
+        },
+        {
+          "option": "PA + PB"
+        },
+        {
+          "option": "PB * AB"
+        },
+        {
+          "option": "PA * AB"
+        }
+      ]
+    },
+    {
+      "question": "एक बाहरी बिंदु से वृत्त पर खींची गई स्पर्श रेखाओं की लंबाई होती है:",
+      "options": [
+        {
+          "option": "लंबवत"
+        },
+        {
+          "option": "समान",
+          "is_answer": true
+        },
+        {
+          "option": "समांतर"
+        },
+        {
+          "option": "असमान"
+        }
+      ]
+    },
+    {
+      "question": "वह रेखा जो वृत्त को दो अलग-अलग बिंदुओं पर प्रतिच्छेद करती है, कहलाती है:",
+      "options": [
+        {
+          "option": "छेदक रेखा (Secant)",
+          "is_answer": true
+        },
+        {
+          "option": "जीवा (Chord)"
+        },
+        {
+          "option": "व्यास (Diameter)"
+        },
+        {
+          "option": "स्पर्श रेखा (Tangent)"
+        }
+      ]
+    },
+    {
+      "question": "यदि r त्रिज्या और O केंद्र वाले वृत्त पर एक बाहरी बिंदु P से खींची गई दो स्पर्श रेखाओं के बीच का कोण 60 डिग्री है, तो दूरी OP है:",
+      "options": [
+        {
+          "option": "sqrt(3)r"
+        },
+        {
+          "option": "r"
+        },
+        {
+          "option": "3r"
+        },
+        {
+          "option": "2r",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "10 सेमी त्रिज्या वाले वृत्त की जीवा केंद्र पर समकोण बनाती है। जीवा की लंबाई ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "5*sqrt(2) सेमी"
+        },
+        {
+          "option": "10 सेमी"
+        },
+        {
+          "option": "20 सेमी"
+        },
+        {
+          "option": "10*sqrt(2) सेमी",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "दो अलग-अलग वृत्तों पर जो एक-दूसरे को स्पर्श या प्रतिच्छेद नहीं करते हैं, कुल कितनी उभयनिष्ठ स्पर्श रेखाएँ खींची जा सकती हैं?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि किसी वृत्त की जीवा वृत्त की त्रिज्या के बराबर है, तो जीवा द्वारा केंद्र पर अंतरित कोण है:",
+      "options": [
+        {
+          "option": "45 डिग्री"
+        },
+        {
+          "option": "60 डिग्री",
+          "is_answer": true
+        },
+        {
+          "option": "30 डिग्री"
+        },
+        {
+          "option": "90 डिग्री"
+        }
+      ]
+    },
+    {
+      "question": "उस त्रिभुज का क्षेत्रफल ज्ञात कीजिए जिसकी भुजाएँ 13 सेमी, 14 सेमी और 15 सेमी हैं।",
+      "options": [
+        {
+          "option": "84 वर्ग सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "80 वर्ग सेमी"
+        },
+        {
+          "option": "90 वर्ग सेमी"
+        },
+        {
+          "option": "72 वर्ग सेमी"
+        }
+      ]
+    },
+    {
+      "question": "7 सेमी, 24 सेमी और 25 सेमी भुजाओं वाले त्रिभुज का अर्ध-परिमाप (semi-perimeter) क्या है?",
+      "options": [
+        {
+          "option": "56 सेमी"
+        },
+        {
+          "option": "28 सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "14 सेमी"
+        },
+        {
+          "option": "25 सेमी"
+        }
+      ]
+    },
+    {
+      "question": "हेरोन के सूत्र का उपयोग करके 8 सेमी भुजा वाले समबाहु त्रिभुज का क्षेत्रफल ज्ञात कीजिए (लगभग)।",
+      "options": [
+        {
+          "option": "27.71 वर्ग सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "24.50 वर्ग सेमी"
+        },
+        {
+          "option": "32.00 वर्ग सेमी"
+        },
+        {
+          "option": "30.25 वर्ग सेमी"
+        }
+      ]
+    },
+    {
+      "question": "एक त्रिकोणीय मैदान की भुजाएँ 55 मीटर, 60 मीटर और 65 मीटर हैं। इसका क्षेत्रफल ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "1500 वर्ग मीटर",
+          "is_answer": true
+        },
+        {
+          "option": "1550 वर्ग मीटर"
+        },
+        {
+          "option": "1650 वर्ग मीटर"
+        },
+        {
+          "option": "1400 वर्ग मीटर"
+        }
+      ]
+    },
+    {
+      "question": "9 सेमी, 10 सेमी और 11 सेमी भुजाओं वाले त्रिभुज का क्षेत्रफल ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "30 वर्ग सेमी"
+        },
+        {
+          "option": "15 √2 वर्ग सेमी"
+        },
+        {
+          "option": "45 वर्ग सेमी"
+        },
+        {
+          "option": "30 √2 वर्ग सेमी",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि एक समबाहु त्रिभुज का परिमाप 30 सेमी है, तो हेरोन के सूत्र से इसका क्षेत्रफल ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "50 √3 वर्ग सेमी"
+        },
+        {
+          "option": "75 वर्ग सेमी"
+        },
+        {
+          "option": "100 वर्ग सेमी"
+        },
+        {
+          "option": "25 √3 वर्ग सेमी",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक त्रिभुज की भुजाओं का अनुपात 3 : 4 : 5 है और इसका परिमाप 36 सेमी है। इसका क्षेत्रफल ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "60 वर्ग सेमी"
+        },
+        {
+          "option": "108 वर्ग सेमी"
+        },
+        {
+          "option": "72 वर्ग सेमी"
+        },
+        {
+          "option": "54 वर्ग सेमी",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "उस त्रिभुज का क्षेत्रफल ज्ञात कीजिए जिसकी भुजाएँ 18 सेमी, 24 सेमी और 30 सेमी हैं।",
+      "options": [
+        {
+          "option": "150 वर्ग सेमी"
+        },
+        {
+          "option": "180 वर्ग सेमी"
+        },
+        {
+          "option": "240 वर्ग सेमी"
+        },
+        {
+          "option": "216 वर्ग सेमी",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "भुजाओं a, b और c वाले त्रिभुज के लिए हेरोन के सूत्र में 's' क्या है?",
+      "options": [
+        {
+          "option": "a + b + c"
+        },
+        {
+          "option": "(a + b + c) / 3"
+        },
+        {
+          "option": "(a + b + c) / 2",
+          "is_answer": true
+        },
+        {
+          "option": "sqrt(a * b * c)"
+        }
+      ]
+    },
+    {
+      "question": "उस समद्विबाहु त्रिभुज का क्षेत्रफल ज्ञात कीजिए जिसकी समान भुजाएँ 5 सेमी प्रत्येक और आधार 8 सेमी है।",
+      "options": [
+        {
+          "option": "20 वर्ग सेमी"
+        },
+        {
+          "option": "12 वर्ग सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "10 वर्ग सेमी"
+        },
+        {
+          "option": "16 वर्ग सेमी"
+        }
+      ]
+    },
+    {
+      "question": "एक त्रिकोणीय भूखंड की भुजाएँ 3 सेमी, 4 सेमी और 5 सेमी हैं। इसका क्षेत्रफल क्या है?",
+      "options": [
+        {
+          "option": "6 वर्ग सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "12 वर्ग सेमी"
+        },
+        {
+          "option": "10 वर्ग सेमी"
+        },
+        {
+          "option": "7.5 वर्ग सेमी"
+        }
+      ]
+    },
+    {
+      "question": "यदि एक त्रिभुज की भुजाएँ 11 मीटर, 60 मीटर और 61 मीटर हैं, तो इसका क्षेत्रफल ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "660 वर्ग मीटर"
+        },
+        {
+          "option": "330 वर्ग मीटर",
+          "is_answer": true
+        },
+        {
+          "option": "360 वर्ग मीटर"
+        },
+        {
+          "option": "300 वर्ग मीटर"
+        }
+      ]
+    },
+    {
+      "question": "24 सेमी, 26 सेमी और 28 सेमी भुजाओं वाले त्रिभुज का क्षेत्रफल ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "280 वर्ग सेमी"
+        },
+        {
+          "option": "312 वर्ग सेमी"
+        },
+        {
+          "option": "290.48 वर्ग सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "336 वर्ग सेमी"
+        }
+      ]
+    },
+    {
+      "question": "एक त्रिकोणीय बगीचे का परिमाप 42 मीटर है और इसकी भुजाओं का अनुपात 6 : 7 : 8 है। क्षेत्रफल ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "14 √15 वर्ग मीटर"
+        },
+        {
+          "option": "21 √15 वर्ग मीटर",
+          "is_answer": true
+        },
+        {
+          "option": "28 √15 वर्ग मीटर"
+        },
+        {
+          "option": "42 √15 वर्ग मीटर"
+        }
+      ]
+    },
+    {
+      "question": "उस त्रिभुज का क्षेत्रफल ज्ञात कीजिए जिसकी भुजाएँ 20 सेमी, 21 सेमी और 29 सेमी हैं।",
+      "options": [
+        {
+          "option": "290 वर्ग सेमी"
+        },
+        {
+          "option": "420 वर्ग सेमी"
+        },
+        {
+          "option": "200 वर्ग सेमी"
+        },
+        {
+          "option": "210 वर्ग सेमी",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि किसी त्रिभुज की प्रत्येक भुजा को दोगुना कर दिया जाए, तो हेरोन के सूत्र से गणना किया गया उसका क्षेत्रफल क्या हो जाता है?",
+      "options": [
+        {
+          "option": "समान रहता है"
+        },
+        {
+          "option": "4 गुना हो जाता है",
+          "is_answer": true
+        },
+        {
+          "option": "8 गुना हो जाता है"
+        },
+        {
+          "option": "2 गुना हो जाता है"
+        }
+      ]
+    },
+    {
+      "question": "10 सेमी, 24 सेमी और 26 सेमी भुजाओं वाले त्रिभुज का क्षेत्रफल ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "130 वर्ग सेमी"
+        },
+        {
+          "option": "60 वर्ग सेमी"
+        },
+        {
+          "option": "240 वर्ग सेमी"
+        },
+        {
+          "option": "120 वर्ग सेमी",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक त्रिभुज की भुजाएँ 15 सेमी, 20 सेमी और 25 सेमी हैं। इसका क्षेत्रफल ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "125 वर्ग सेमी"
+        },
+        {
+          "option": "175 वर्ग सेमी"
+        },
+        {
+          "option": "300 वर्ग सेमी"
+        },
+        {
+          "option": "150 वर्ग सेमी",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "हेरोन के सूत्र का उपयोग करके 'a' भुजा वाले समबाहु त्रिभुज का क्षेत्रफल क्या है?",
+      "options": [
+        {
+          "option": "3 * a^2 / 4"
+        },
+        {
+          "option": "(√3 / 2) * a^2"
+        },
+        {
+          "option": "(√2 / 4) * a^2"
+        },
+        {
+          "option": "(√3 / 4) * a^2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "12 सेमी, 35 सेमी और 37 सेमी भुजाओं वाले त्रिभुज का क्षेत्रफल ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "180 वर्ग सेमी"
+        },
+        {
+          "option": "420 वर्ग सेमी"
+        },
+        {
+          "option": "222 वर्ग सेमी"
+        },
+        {
+          "option": "210 वर्ग सेमी",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "12 सेमी आधार और 5 सेमी ऊंचाई वाले समांतर चतुर्भुज का क्षेत्रफल क्या है?",
+      "options": [
+        {
+          "option": "30 वर्ग सेमी"
+        },
+        {
+          "option": "120 वर्ग सेमी"
+        },
+        {
+          "option": "60 वर्ग सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "17 वर्ग सेमी"
+        }
+      ]
+    },
+    {
+      "question": "उस समचतुर्भुज का क्षेत्रफल ज्ञात कीजिए जिसके विकर्ण क्रमशः 8 सेमी और 10 सेमी हैं।",
+      "options": [
+        {
+          "option": "20 वर्ग सेमी"
+        },
+        {
+          "option": "80 वर्ग सेमी"
+        },
+        {
+          "option": "18 वर्ग सेमी"
+        },
+        {
+          "option": "40 वर्ग सेमी",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक समलंब चतुर्भुज की समांतर भुजाएँ 10 सेमी और 12 सेमी हैं, और उनके बीच की दूरी 5 सेमी है। इसका क्षेत्रफल क्या है?",
+      "options": [
+        {
+          "option": "60 वर्ग सेमी"
+        },
+        {
+          "option": "50 वर्ग सेमी"
+        },
+        {
+          "option": "110 वर्ग सेमी"
+        },
+        {
+          "option": "55 वर्ग सेमी",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि एक समांतर चतुर्भुज का क्षेत्रफल 84 वर्ग सेमी और उसकी ऊंचाई 7 सेमी है, तो उसका आधार ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "21 सेमी"
+        },
+        {
+          "option": "14 सेमी"
+        },
+        {
+          "option": "10 सेमी"
+        },
+        {
+          "option": "12 सेमी",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक समचतुर्भुज में, यदि एक विकर्ण 12 सेमी और क्षेत्रफल 96 वर्ग सेमी है, तो दूसरे विकर्ण की लंबाई ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "8 सेमी"
+        },
+        {
+          "option": "24 सेमी"
+        },
+        {
+          "option": "32 सेमी"
+        },
+        {
+          "option": "16 सेमी",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक समलंब चतुर्भुज का क्षेत्रफल 140 वर्ग सेमी है। इसकी समांतर भुजाओं का योग 28 सेमी है। ऊँचाई ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "14 सेमी"
+        },
+        {
+          "option": "10 सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "5 सेमी"
+        },
+        {
+          "option": "20 सेमी"
+        }
+      ]
+    },
+    {
+      "question": "उस समांतर चतुर्भुज का क्षेत्रफल ज्ञात कीजिए जिसका आधार 15.5 सेमी और ऊंचाई 4 सेमी है।",
+      "options": [
+        {
+          "option": "62 वर्ग सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "124 वर्ग सेमी"
+        },
+        {
+          "option": "31 वर्ग सेमी"
+        },
+        {
+          "option": "19.5 वर्ग सेमी"
+        }
+      ]
+    },
+    {
+      "question": "एक समचतुर्भुज के विकर्ण 24 सेमी और 10 सेमी हैं। समचतुर्भुज की भुजा की लंबाई ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "13 सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "12 सेमी"
+        },
+        {
+          "option": "26 सेमी"
+        },
+        {
+          "option": "17 सेमी"
+        }
+      ]
+    },
+    {
+      "question": "एक समलंब चतुर्भुज की समांतर भुजाएँ 14 सेमी और 16 सेमी हैं, और ऊंचाई 8 सेमी है। क्षेत्रफल क्या है?",
+      "options": [
+        {
+          "option": "112 वर्ग सेमी"
+        },
+        {
+          "option": "120 वर्ग सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "240 वर्ग सेमी"
+        },
+        {
+          "option": "60 वर्ग सेमी"
+        }
+      ]
+    },
+    {
+      "question": "यदि किसी समांतर चतुर्भुज का आधार तीन गुना कर दिया जाए और ऊंचाई आधी कर दी जाए, तो क्षेत्रफल कैसे बदलता है?",
+      "options": [
+        {
+          "option": "1.5 गुना हो जाता है",
+          "is_answer": true
+        },
+        {
+          "option": "3 गुना हो जाता है"
+        },
+        {
+          "option": "6 गुना हो जाता है"
+        },
+        {
+          "option": "समान रहता है"
+        }
+      ]
+    },
+    {
+      "question": "एक समचतुर्भुज का क्षेत्रफल 150 वर्ग सेमी है। यदि एक विकर्ण 20 सेमी है, तो दूसरा विकर्ण ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "10 सेमी"
+        },
+        {
+          "option": "30 सेमी"
+        },
+        {
+          "option": "15 सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "7.5 सेमी"
+        }
+      ]
+    },
+    {
+      "question": "एक समलंब चतुर्भुज में समांतर भुजाएँ 20 सेमी और 30 सेमी हैं। यदि क्षेत्रफल 250 वर्ग सेमी है, तो ऊंचाई क्या है?",
+      "options": [
+        {
+          "option": "5 सेमी"
+        },
+        {
+          "option": "20 सेमी"
+        },
+        {
+          "option": "10 सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "25 सेमी"
+        }
+      ]
+    },
+    {
+      "question": "2.5 मीटर आधार और 1.6 मीटर ऊंचाई वाले समांतर चतुर्भुज का क्षेत्रफल क्या है?",
+      "options": [
+        {
+          "option": "2 वर्ग मीटर"
+        },
+        {
+          "option": "8 वर्ग मीटर"
+        },
+        {
+          "option": "4 वर्ग मीटर",
+          "is_answer": true
+        },
+        {
+          "option": "4.1 वर्ग मीटर"
+        }
+      ]
+    },
+    {
+      "question": "उस समचतुर्भुज का क्षेत्रफल ज्ञात कीजिए जिसकी भुजा 10 सेमी और उसका एक विकर्ण 16 सेमी है।",
+      "options": [
+        {
+          "option": "96 वर्ग सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "48 वर्ग सेमी"
+        },
+        {
+          "option": "80 वर्ग सेमी"
+        },
+        {
+          "option": "160 वर्ग सेमी"
+        }
+      ]
+    },
+    {
+      "question": "एक समद्विबाहु समलंब चतुर्भुज की समांतर भुजाएँ 12 सेमी और 20 सेमी हैं। यदि इसकी गैर-समांतर भुजाएँ प्रत्येक 5 सेमी हैं, तो इसकी ऊंचाई ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "3 सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "2 सेमी"
+        },
+        {
+          "option": "4 सेमी"
+        },
+        {
+          "option": "5 सेमी"
+        }
+      ]
+    },
+    {
+      "question": "यदि किसी समचतुर्भुज का परिमाप 52 सेमी और उसकी ऊंचाई 7 सेमी है, तो उसका क्षेत्रफल क्या है?",
+      "options": [
+        {
+          "option": "91 वर्ग सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "182 वर्ग सेमी"
+        },
+        {
+          "option": "364 वर्ग सेमी"
+        },
+        {
+          "option": "45.5 वर्ग सेमी"
+        }
+      ]
+    },
+    {
+      "question": "एक समलंब चतुर्भुज की समांतर भुजाओं का अनुपात 2:3 है और ऊंचाई 8 सेमी है। यदि क्षेत्रफल 200 वर्ग सेमी है, तो समांतर भुजाओं की लंबाई ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "16 सेमी और 24 सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "20 सेमी और 30 सेमी"
+        },
+        {
+          "option": "8 सेमी और 12 सेमी"
+        },
+        {
+          "option": "10 सेमी और 15 सेमी"
+        }
+      ]
+    },
+    {
+      "question": "एक समांतर चतुर्भुज की आसन्न भुजाएँ 15 सेमी और 7 सेमी हैं। यदि 15 सेमी भुजाओं के बीच की दूरी 4 सेमी है, तो 7 सेमी भुजाओं के बीच की दूरी क्या है?",
+      "options": [
+        {
+          "option": "8.57 सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "15 सेमी"
+        },
+        {
+          "option": "4 सेमी"
+        },
+        {
+          "option": "7 सेमी"
+        }
+      ]
+    },
+    {
+      "question": "एक समचतुर्भुज के विकर्णों का अनुपात 3:4 है। यदि इसका क्षेत्रफल 96 वर्ग सेमी है, तो बड़े विकर्ण की लंबाई ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "24 सेमी"
+        },
+        {
+          "option": "16 सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "20 सेमी"
+        },
+        {
+          "option": "12 सेमी"
+        }
+      ]
+    },
+    {
+      "question": "उस समलंब चतुर्भुज का क्षेत्रफल ज्ञात कीजिए जिसकी समांतर भुजाएँ 25 सेमी और 15 सेमी हैं, और गैर-समांतर भुजाएँ उन पर लंब बनाती हैं (अर्थात ऊंचाई 10 सेमी है)।",
+      "options": [
+        {
+          "option": "200 वर्ग सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "100 वर्ग सेमी"
+        },
+        {
+          "option": "400 वर्ग सेमी"
+        },
+        {
+          "option": "150 वर्ग सेमी"
+        }
+      ]
+    },
+    {
+      "question": "उस वर्ग का क्षेत्रफल क्या है जिसका परिमाप 48 सेमी है?",
+      "options": [
+        {
+          "option": "196 वर्ग सेमी"
+        },
+        {
+          "option": "121 वर्ग सेमी"
+        },
+        {
+          "option": "169 वर्ग सेमी"
+        },
+        {
+          "option": "144 वर्ग सेमी",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "15 सेमी लंबाई और 10 सेमी चौड़ाई वाले आयत का क्षेत्रफल ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "25 वर्ग सेमी"
+        },
+        {
+          "option": "125 वर्ग सेमी"
+        },
+        {
+          "option": "150 वर्ग सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "50 वर्ग सेमी"
+        }
+      ]
+    },
+    {
+      "question": "7 सेमी त्रिज्या वाले वृत्त की परिधि क्या है? (pi = 22/7 का प्रयोग करें)",
+      "options": [
+        {
+          "option": "22 सेमी"
+        },
+        {
+          "option": "44 सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "88 सेमी"
+        },
+        {
+          "option": "154 सेमी"
+        }
+      ]
+    },
+    {
+      "question": "14 सेमी त्रिज्या वाले वृत्त का क्षेत्रफल ज्ञात कीजिए। (pi = 22/7 का प्रयोग करें)",
+      "options": [
+        {
+          "option": "616 वर्ग सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "308 वर्ग सेमी"
+        },
+        {
+          "option": "1232 वर्ग सेमी"
+        },
+        {
+          "option": "88 वर्ग सेमी"
+        }
+      ]
+    },
+    {
+      "question": "20 सेमी लंबाई और 12 सेमी चौड़ाई वाले आयत का परिमाप क्या है?",
+      "options": [
+        {
+          "option": "32 सेमी"
+        },
+        {
+          "option": "240 सेमी"
+        },
+        {
+          "option": "56 सेमी"
+        },
+        {
+          "option": "64 सेमी",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि किसी वर्ग की भुजा को उसकी मूल लंबाई से दोगुना कर दिया जाए, तो उसका क्षेत्रफल मूल क्षेत्रफल का कितने गुना हो जाता है?",
+      "options": [
+        {
+          "option": "4 गुना",
+          "is_answer": true
+        },
+        {
+          "option": "8 गुना"
+        },
+        {
+          "option": "2 गुना"
+        },
+        {
+          "option": "16 गुना"
+        }
+      ]
+    },
+    {
+      "question": "7 सेमी त्रिज्या वाले अर्धवृत्त का क्षेत्रफल ज्ञात कीजिए। (pi = 22/7 का प्रयोग करें)",
+      "options": [
+        {
+          "option": "77 वर्ग सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "154 वर्ग सेमी"
+        },
+        {
+          "option": "44 वर्ग सेमी"
+        },
+        {
+          "option": "38.5 वर्ग सेमी"
+        }
+      ]
+    },
+    {
+      "question": "7 सेमी त्रिज्या वाले अर्धवृत्त का परिमाप ज्ञात कीजिए। (pi = 22/7 का प्रयोग करें)",
+      "options": [
+        {
+          "option": "36 सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "44 सेमी"
+        },
+        {
+          "option": "22 सेमी"
+        },
+        {
+          "option": "29 सेमी"
+        }
+      ]
+    },
+    {
+      "question": "21 सेमी त्रिज्या और 60 डिग्री के केंद्रीय कोण वाले वृत्त के त्रिज्यखंड (sector) का क्षेत्रफल ज्ञात कीजिए। (pi = 22/7)",
+      "options": [
+        {
+          "option": "462 वर्ग सेमी"
+        },
+        {
+          "option": "115.5 वर्ग सेमी"
+        },
+        {
+          "option": "231 वर्ग सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "693 वर्ग सेमी"
+        }
+      ]
+    },
+    {
+      "question": "14 सेमी त्रिज्या वाले वृत्त के केंद्र पर 90 डिग्री का कोण बनाने वाले चाप (arc) की लंबाई क्या है? (pi = 22/7)",
+      "options": [
+        {
+          "option": "88 सेमी"
+        },
+        {
+          "option": "11 सेमी"
+        },
+        {
+          "option": "22 सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "44 सेमी"
+        }
+      ]
+    },
+    {
+      "question": "एक वर्ग का विकर्ण 10 सेमी है। इसका क्षेत्रफल ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "50 वर्ग सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "100 वर्ग सेमी"
+        },
+        {
+          "option": "75 वर्ग सेमी"
+        },
+        {
+          "option": "25 वर्ग सेमी"
+        }
+      ]
+    },
+    {
+      "question": "यदि एक वृत्त की परिधि एक वर्ग के परिमाप के बराबर है, और वर्ग की भुजा 22 सेमी है, तो वृत्त की त्रिज्या ज्ञात कीजिए। (pi = 22/7)",
+      "options": [
+        {
+          "option": "14 सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "7 सेमी"
+        },
+        {
+          "option": "21 सेमी"
+        },
+        {
+          "option": "28 सेमी"
+        }
+      ]
+    },
+    {
+      "question": "उस वर्ग का क्षेत्रफल ज्ञात कीजिए जिसका विकर्ण 8√2 सेमी है।",
+      "options": [
+        {
+          "option": "16 वर्ग सेमी"
+        },
+        {
+          "option": "32 वर्ग सेमी"
+        },
+        {
+          "option": "128 वर्ग सेमी"
+        },
+        {
+          "option": "64 वर्ग सेमी",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक आयत की लंबाई उसकी चौड़ाई से दोगुनी है। यदि इसका परिमाप 60 सेमी है, तो इसकी लंबाई ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "15 सेमी"
+        },
+        {
+          "option": "30 सेमी"
+        },
+        {
+          "option": "10 सेमी"
+        },
+        {
+          "option": "20 सेमी",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "उस वृत्त का क्षेत्रफल क्या है जिसकी परिधि 88 सेमी है? (pi = 22/7 का प्रयोग करें)",
+      "options": [
+        {
+          "option": "308 वर्ग सेमी"
+        },
+        {
+          "option": "1232 वर्ग सेमी"
+        },
+        {
+          "option": "154 वर्ग सेमी"
+        },
+        {
+          "option": "616 वर्ग सेमी",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "14 सेमी त्रिज्या और 90 डिग्री के केंद्रीय कोण वाले वृत्त के त्रिज्यखंड का परिमाप ज्ञात कीजिए। (pi = 22/7)",
+      "options": [
+        {
+          "option": "28 सेमी"
+        },
+        {
+          "option": "36 सेमी"
+        },
+        {
+          "option": "50 सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "44 सेमी"
+        }
+      ]
+    },
+    {
+      "question": "यदि किसी वृत्त की त्रिज्या 50% कम कर दी जाए, तो उसके क्षेत्रफल में कितने प्रतिशत की कमी होगी?",
+      "options": [
+        {
+          "option": "75%",
+          "is_answer": true
+        },
+        {
+          "option": "50%"
+        },
+        {
+          "option": "100%"
+        },
+        {
+          "option": "25%"
+        }
+      ]
+    },
+    {
+      "question": "एक आयताकार पार्क 40 मीटर लंबा और 30 मीटर चौड़ा है। इसके विकर्ण की लंबाई ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "70 मीटर"
+        },
+        {
+          "option": "50 मीटर",
+          "is_answer": true
+        },
+        {
+          "option": "35 मीटर"
+        },
+        {
+          "option": "60 मीटर"
+        }
+      ]
+    },
+    {
+      "question": "7 सेमी और 14 सेमी त्रिज्या वाले दो संकेंद्रित वृत्तों द्वारा बनाए गए वलय (वृत्ताकार रास्ते) का क्षेत्रफल ज्ञात कीजिए। (pi = 22/7)",
+      "options": [
+        {
+          "option": "308 वर्ग सेमी"
+        },
+        {
+          "option": "154 वर्ग सेमी"
+        },
+        {
+          "option": "462 वर्ग सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "616 वर्ग सेमी"
+        }
+      ]
+    },
+    {
+      "question": "एक वर्ग और एक आयत का परिमाप समान है। यदि वर्ग का क्षेत्रफल 81 वर्ग सेमी है और आयत की लंबाई 10 सेमी है, तो इसकी चौड़ाई ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "7.5 सेमी"
+        },
+        {
+          "option": "10 सेमी"
+        },
+        {
+          "option": "8 सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "9 सेमी"
+        }
+      ]
+    },
+    {
+      "question": "उस घनाभ का आयतन ज्ञात कीजिए जिसकी लंबाई 12 सेमी, चौड़ाई 8 सेमी और ऊंचाई 5 सेमी है।",
+      "options": [
+        {
+          "option": "400 घन सेमी"
+        },
+        {
+          "option": "480 घन सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "450 घन सेमी"
+        },
+        {
+          "option": "520 घन सेमी"
+        }
+      ]
+    },
+    {
+      "question": "6 सेमी भुजा वाले घन का कुल पृष्ठीय क्षेत्रफल कितना है?",
+      "options": [
+        {
+          "option": "144 वर्ग सेमी"
+        },
+        {
+          "option": "256 वर्ग सेमी"
+        },
+        {
+          "option": "216 वर्ग सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "180 वर्ग सेमी"
+        }
+      ]
+    },
+    {
+      "question": "10m x 10m x 5m विमाओं वाले कमरे में रखे जाने वाले सबसे लंबे रॉड की लंबाई ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "15 मीटर",
+          "is_answer": true
+        },
+        {
+          "option": "20 मीटर"
+        },
+        {
+          "option": "25 मीटर"
+        },
+        {
+          "option": "10.5 मीटर"
+        }
+      ]
+    },
+    {
+      "question": "एक घन का आयतन 512 घन सेमी है। इसका कुल पृष्ठीय क्षेत्रफल ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "384 वर्ग सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "192 वर्ग सेमी"
+        },
+        {
+          "option": "512 वर्ग सेमी"
+        },
+        {
+          "option": "256 वर्ग सेमी"
+        }
+      ]
+    },
+    {
+      "question": "यदि किसी घनाभ का कुल पृष्ठीय क्षेत्रफल 1300 वर्ग सेमी है, और इसकी लंबाई 15 सेमी तथा चौड़ाई 10 सेमी है, तो इसकी ऊंचाई ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "15 सेमी"
+        },
+        {
+          "option": "25 सेमी"
+        },
+        {
+          "option": "30 सेमी"
+        },
+        {
+          "option": "20 सेमी",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "3 सेमी, 4 सेमी और 12 सेमी विमाओं वाले घनाभ का विकर्ण ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "19 सेमी"
+        },
+        {
+          "option": "10 सेमी"
+        },
+        {
+          "option": "7 सेमी"
+        },
+        {
+          "option": "13 सेमी",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "15 मीटर लंबे, 10 मीटर चौड़े और 7 मीटर ऊंचे घनाभकार कमरे की चारों दीवारों को 5 रुपये प्रति वर्ग मीटर की दर से रंगने का खर्च है:",
+      "options": [
+        {
+          "option": "रु. 2500"
+        },
+        {
+          "option": "रु. 1250"
+        },
+        {
+          "option": "रु. 3500"
+        },
+        {
+          "option": "रु. 1750",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि किसी घन की भुजा को 50% बढ़ा दिया जाए, तो उसके आयतन में कितने प्रतिशत की वृद्धि होगी?",
+      "options": [
+        {
+          "option": "300%"
+        },
+        {
+          "option": "125%"
+        },
+        {
+          "option": "237.5%",
+          "is_answer": true
+        },
+        {
+          "option": "150%"
+        }
+      ]
+    },
+    {
+      "question": "उस घन का आयतन ज्ञात कीजिए जिसका विकर्ण 6√3 सेमी है।",
+      "options": [
+        {
+          "option": "108 घन सेमी"
+        },
+        {
+          "option": "216 घन सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "512 घन सेमी"
+        },
+        {
+          "option": "72 घन सेमी"
+        }
+      ]
+    },
+    {
+      "question": "एक घनाभ की विमाएं 3:2:1 के अनुपात में हैं और इसका कुल पृष्ठीय क्षेत्रफल 88 वर्ग सेमी है। इसका आयतन ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "24 घन सेमी"
+        },
+        {
+          "option": "96 घन सेमी"
+        },
+        {
+          "option": "36 घन सेमी"
+        },
+        {
+          "option": "48 घन सेमी",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "16cm x 8cm x 4cm विमाओं के एक ठोस घनाभ से 2 सेमी भुजा वाले कितने छोटे घन बनाए जा सकते हैं?",
+      "options": [
+        {
+          "option": "16"
+        },
+        {
+          "option": "64"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "32",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि किसी घन का कुल पृष्ठीय क्षेत्रफल उसके संख्यात्मक आयतन के 6 गुना के बराबर है, तो उसकी भुजा की लंबाई है:",
+      "options": [
+        {
+          "option": "6 इकाई"
+        },
+        {
+          "option": "2 इकाई"
+        },
+        {
+          "option": "1 इकाई",
+          "is_answer": true
+        },
+        {
+          "option": "3 इकाई"
+        }
+      ]
+    },
+    {
+      "question": "उस घन के विकर्ण की लंबाई क्या है जिसका आयतन 729 घन सेमी है?",
+      "options": [
+        {
+          "option": "9 सेमी"
+        },
+        {
+          "option": "3√3 सेमी"
+        },
+        {
+          "option": "9√3 सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "81 सेमी"
+        }
+      ]
+    },
+    {
+      "question": "एक आयताकार पानी की टंकी 6 मीटर लंबी, 5 मीटर चौड़ी और 4.5 मीटर गहरी है। इसमें कितने लीटर पानी आ सकता है? (1 घन मीटर = 1000 लीटर)",
+      "options": [
+        {
+          "option": "13,500 लीटर"
+        },
+        {
+          "option": "135,000 लीटर",
+          "is_answer": true
+        },
+        {
+          "option": "1,350 लीटर"
+        },
+        {
+          "option": "1,350,000 लीटर"
+        }
+      ]
+    },
+    {
+      "question": "एक घनाभ के तीन आसन्न फलकों के क्षेत्रफल X, Y और Z हैं। इसका आयतन V किसके बराबर है?",
+      "options": [
+        {
+          "option": "V = X + Y + Z"
+        },
+        {
+          "option": "V = √(X+Y+Z)"
+        },
+        {
+          "option": "V = √(XYZ)",
+          "is_answer": true
+        },
+        {
+          "option": "V = XYZ"
+        }
+      ]
+    },
+    {
+      "question": "यदि किसी घन की भुजा को दुगुना कर दिया जाए, तो उसका पृष्ठीय क्षेत्रफल कितने गुना बढ़ जाता है?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "10 सेमी लंबाई, 6 सेमी चौड़ाई और 5 सेमी ऊंचाई वाले घनाभ का पार्श्व पृष्ठीय क्षेत्रफल ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "300 वर्ग सेमी"
+        },
+        {
+          "option": "200 वर्ग सेमी"
+        },
+        {
+          "option": "160 वर्ग सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "120 वर्ग सेमी"
+        }
+      ]
+    },
+    {
+      "question": "दो घनों के आयतनों का अनुपात 27:64 है। उनके पृष्ठीय क्षेत्रफलों का अनुपात क्या है?",
+      "options": [
+        {
+          "option": "9:16",
+          "is_answer": true
+        },
+        {
+          "option": "81:256"
+        },
+        {
+          "option": "27:64"
+        },
+        {
+          "option": "3:4"
+        }
+      ]
+    },
+    {
+      "question": "उस घन की कोर (edge) की लंबाई क्या है जिसका कुल पृष्ठीय क्षेत्रफल 96 वर्ग सेमी है?",
+      "options": [
+        {
+          "option": "16 सेमी"
+        },
+        {
+          "option": "4 सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "6 सेमी"
+        },
+        {
+          "option": "8 सेमी"
+        }
+      ]
+    },
+    {
+      "question": "धातु का एक घनाभकार ब्लॉक 36 सेमी x 24 सेमी x 18 सेमी का है। इसे पिघलाकर 6 सेमी भुजा वाले छोटे घन बनाए जाते हैं। कितने घन बनते हैं?",
+      "options": [
+        {
+          "option": "48"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "72",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        }
+      ]
+    },
+    {
+      "question": "r त्रिज्या वाले अर्धगोले का वक्र पृष्ठीय क्षेत्रफल ज्ञात करने का सूत्र क्या है?",
+      "options": [
+        {
+          "option": "3πr²"
+        },
+        {
+          "option": "4πr²"
+        },
+        {
+          "option": "2πr²",
+          "is_answer": true
+        },
+        {
+          "option": "πr²"
+        }
+      ]
+    },
+    {
+      "question": "r त्रिज्या वाले ठोस अर्धगोले का कुल पृष्ठीय क्षेत्रफल क्या है?",
+      "options": [
+        {
+          "option": "4πr²"
+        },
+        {
+          "option": "2πr²"
+        },
+        {
+          "option": "3πr²",
+          "is_answer": true
+        },
+        {
+          "option": "πr²"
+        }
+      ]
+    },
+    {
+      "question": "r त्रिज्या वाले अर्धगोले का आयतन कितना होता है?",
+      "options": [
+        {
+          "option": "2πr³"
+        },
+        {
+          "option": "(1/3)πr³"
+        },
+        {
+          "option": "(4/3)πr³"
+        },
+        {
+          "option": "(2/3)πr³",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "7 सेमी त्रिज्या वाले अर्धगोले का वक्र पृष्ठीय क्षेत्रफल ज्ञात करें। (π = 22/7)",
+      "options": [
+        {
+          "option": "154 cm²"
+        },
+        {
+          "option": "462 cm²"
+        },
+        {
+          "option": "308 cm²",
+          "is_answer": true
+        },
+        {
+          "option": "616 cm²"
+        }
+      ]
+    },
+    {
+      "question": "7 सेमी त्रिज्या वाले ठोस अर्धगोले का कुल पृष्ठीय क्षेत्रफल ज्ञात करें। (π = 22/7)",
+      "options": [
+        {
+          "option": "616 cm²"
+        },
+        {
+          "option": "308 cm²"
+        },
+        {
+          "option": "154 cm²"
+        },
+        {
+          "option": "462 cm²",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "3 सेमी त्रिज्या वाले अर्धगोले का आयतन ज्ञात करें। (π = 22/7)",
+      "options": [
+        {
+          "option": "56.57 cm³",
+          "is_answer": true
+        },
+        {
+          "option": "18.86 cm³"
+        },
+        {
+          "option": "28.28 cm³"
+        },
+        {
+          "option": "113.14 cm³"
+        }
+      ]
+    },
+    {
+      "question": "यदि एक अर्धगोले का वक्र पृष्ठीय क्षेत्रफल 396 cm² है, तो उसकी त्रिज्या ज्ञात करें। (π = 22/7)",
+      "options": [
+        {
+          "option": "7.95 cm",
+          "is_answer": true
+        },
+        {
+          "option": "10.5 cm"
+        },
+        {
+          "option": "14 cm"
+        },
+        {
+          "option": "7 cm"
+        }
+      ]
+    },
+    {
+      "question": "यदि ठोस अर्धगोले का कुल पृष्ठीय क्षेत्रफल 4158 cm² है, तो उसकी त्रिज्या ज्ञात करें। (π = 22/7)",
+      "options": [
+        {
+          "option": "7 cm"
+        },
+        {
+          "option": "28 cm"
+        },
+        {
+          "option": "14 cm"
+        },
+        {
+          "option": "21 cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "6 सेमी त्रिज्या वाले अर्धगोले का आयतन कितना होगा? (π = 3.14)",
+      "options": [
+        {
+          "option": "150.72 cm³"
+        },
+        {
+          "option": "452.16 cm³",
+          "is_answer": true
+        },
+        {
+          "option": "904.32 cm³"
+        },
+        {
+          "option": "226.08 cm³"
+        }
+      ]
+    },
+    {
+      "question": "ठोस अर्धगोले के कुल पृष्ठीय क्षेत्रफल और वक्र पृष्ठीय क्षेत्रफल का अनुपात ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "3 : 2",
+          "is_answer": true
+        },
+        {
+          "option": "1 : 2"
+        },
+        {
+          "option": "2 : 1"
+        },
+        {
+          "option": "2 : 3"
+        }
+      ]
+    },
+    {
+      "question": "यदि किसी अर्धगोले की त्रिज्या दोगुनी कर दी जाए, तो उसका आयतन कितने गुना हो जाएगा?",
+      "options": [
+        {
+          "option": "2 गुना हो जाता है"
+        },
+        {
+          "option": "4 गुना हो जाता है"
+        },
+        {
+          "option": "16 गुना हो जाता है"
+        },
+        {
+          "option": "8 गुना हो जाता है",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि किसी अर्धगोले की त्रिज्या तीन गुनी कर दी जाए, तो उसका वक्र पृष्ठीय क्षेत्रफल कितने गुना हो जाएगा?",
+      "options": [
+        {
+          "option": "3 गुना हो जाता है"
+        },
+        {
+          "option": "6 गुना हो जाता है"
+        },
+        {
+          "option": "27 गुना हो जाता है"
+        },
+        {
+          "option": "9 गुना हो जाता है",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "14 सेमी व्यास वाले अर्धगोले का वक्र पृष्ठीय क्षेत्रफल ज्ञात करें। (π = 22/7)",
+      "options": [
+        {
+          "option": "616 cm²"
+        },
+        {
+          "option": "154 cm²"
+        },
+        {
+          "option": "308 cm²",
+          "is_answer": true
+        },
+        {
+          "option": "462 cm²"
+        }
+      ]
+    },
+    {
+      "question": "21 सेमी व्यास वाले अर्धगोले का आयतन कितना होगा? (π = 22/7)",
+      "options": [
+        {
+          "option": "1212.75 cm³"
+        },
+        {
+          "option": "4851 cm³"
+        },
+        {
+          "option": "2425.5 cm³",
+          "is_answer": true
+        },
+        {
+          "option": "3638.25 cm³"
+        }
+      ]
+    },
+    {
+      "question": "यदि एक अर्धगोले का आयतन 19404 cm³ है, तो उसकी त्रिज्या ज्ञात करें। (π = 22/7)",
+      "options": [
+        {
+          "option": "21 cm",
+          "is_answer": true
+        },
+        {
+          "option": "7 cm"
+        },
+        {
+          "option": "28 cm"
+        },
+        {
+          "option": "14 cm"
+        }
+      ]
+    },
+    {
+      "question": "28 सेमी व्यास वाले अर्धगोले का कुल पृष्ठीय क्षेत्रफल ज्ञात करें। (π = 22/7)",
+      "options": [
+        {
+          "option": "2464 cm²"
+        },
+        {
+          "option": "1232 cm²"
+        },
+        {
+          "option": "3696 cm²",
+          "is_answer": true
+        },
+        {
+          "option": "1848 cm²"
+        }
+      ]
+    },
+    {
+      "question": "अर्धगोले का वक्र पृष्ठीय क्षेत्रफल 56.52 cm² है। इसकी त्रिज्या ज्ञात करें। (π = 3.14)",
+      "options": [
+        {
+          "option": "9 cm"
+        },
+        {
+          "option": "3 cm",
+          "is_answer": true
+        },
+        {
+          "option": "4.5 cm"
+        },
+        {
+          "option": "6 cm"
+        }
+      ]
+    },
+    {
+      "question": "एक अर्धगोलाकार कटोरे की आंतरिक त्रिज्या 3.5 सेमी है। इसमें कितना पानी आ सकता है? (π = 22/7)",
+      "options": [
+        {
+          "option": "89.83 cm³",
+          "is_answer": true
+        },
+        {
+          "option": "179.67 cm³"
+        },
+        {
+          "option": "26.95 cm³"
+        },
+        {
+          "option": "53.9 cm³"
+        }
+      ]
+    },
+    {
+      "question": "यदि किसी अर्धगोले के आयतन का संख्यात्मक मान उसके वक्र पृष्ठीय क्षेत्रफल के संख्यात्मक मान के बराबर है, तो उसकी त्रिज्या ज्ञात करें।",
+      "options": [
+        {
+          "option": "2 इकाई"
+        },
+        {
+          "option": "1.5 इकाई"
+        },
+        {
+          "option": "4 इकाई"
+        },
+        {
+          "option": "3 इकाई",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "10 सेमी त्रिज्या वाले अर्धगोले का कुल पृष्ठीय क्षेत्रफल ज्ञात करें। (π = 3.14)",
+      "options": [
+        {
+          "option": "314 cm²"
+        },
+        {
+          "option": "1256 cm²"
+        },
+        {
+          "option": "942 cm²",
+          "is_answer": true
+        },
+        {
+          "option": "628 cm²"
+        }
+      ]
+    },
+    {
+      "question": "गुणोत्तर श्रेणी (GP) 3, 6, 12, 24, ... का 5वां पद ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "96"
+        },
+        {
+          "option": "48",
+          "is_answer": true
+        },
+        {
+          "option": "192"
+        }
+      ]
+    },
+    {
+      "question": "उस GP का 7वां पद क्या है जिसका प्रथम पद 2 और सार्व अनुपात 3 है?",
+      "options": [
+        {
+          "option": "4374"
+        },
+        {
+          "option": "729"
+        },
+        {
+          "option": "486"
+        },
+        {
+          "option": "1458",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "GP 1, 2, 4, 8, ... के पहले 6 पदों का योग ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "127"
+        },
+        {
+          "option": "31"
+        },
+        {
+          "option": "63",
+          "is_answer": true
+        },
+        {
+          "option": "255"
+        }
+      ]
+    },
+    {
+      "question": "अनंत GP 8, 4, 2, 1, ... का अनंत पदों तक का योग क्या है?",
+      "options": [
+        {
+          "option": "32"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक GP में, यदि तीसरा पद 12 और छठा पद 96 है, तो प्रथम पद 'a' ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "1.5"
+        }
+      ]
+    },
+    {
+      "question": "उस GP का सार्व अनुपात ज्ञात कीजिए जिसका पहला पद 5 और चौथा पद 135 है।",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "27"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "GP 1, 2, 4, 8, ... का 10वां पद क्या है?",
+      "options": [
+        {
+          "option": "1024"
+        },
+        {
+          "option": "256"
+        },
+        {
+          "option": "512",
+          "is_answer": true
+        },
+        {
+          "option": "2048"
+        }
+      ]
+    },
+    {
+      "question": "अनंत GP 9, 3, 1, 1/3, ... का योग ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "13.5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि एक GP के पहले 3 पदों का योग 21 है और उनके वर्गों का योग 189 है, तो सार्व अनुपात (r > 1) ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "1.5"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "GP 5, 10, 20, 40, ... का कौन सा पद 1280 है?",
+      "options": [
+        {
+          "option": "8th"
+        },
+        {
+          "option": "10th"
+        },
+        {
+          "option": "9th",
+          "is_answer": true
+        },
+        {
+          "option": "7th"
+        }
+      ]
+    },
+    {
+      "question": "GP 64, 32, 16, 8, ... का चौथा पद ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "GP 2, 6, 18, 54, ... के पहले 5 पदों का योग ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "121"
+        },
+        {
+          "option": "484"
+        },
+        {
+          "option": "81"
+        },
+        {
+          "option": "242",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि किसी GP का दूसरा पद 2 और पांचवां पद 1/4 है, तो उसका 8वां पद ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "1/64"
+        },
+        {
+          "option": "1/8"
+        },
+        {
+          "option": "1/32",
+          "is_answer": true
+        },
+        {
+          "option": "1/16"
+        }
+      ]
+    },
+    {
+      "question": "अनंत GP 0.6, 0.06, 0.006, ... का योग ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "3/5"
+        },
+        {
+          "option": "2/3",
+          "is_answer": true
+        },
+        {
+          "option": "6/99"
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "यदि तीन संख्याएँ GP में हैं जैसे कि उनका गुणनफल 27 और उनका योग 13 है, तो मध्य पद ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "27"
+        }
+      ]
+    },
+    {
+      "question": "GP -3, 6, -12, 24, ... का सार्व अनुपात क्या है?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "-2",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "-3"
+        }
+      ]
+    },
+    {
+      "question": "GP 1/2, 1/4, 1/8, 1/16, ... का छठा पद ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "1/256"
+        },
+        {
+          "option": "1/128"
+        },
+        {
+          "option": "1/64",
+          "is_answer": true
+        },
+        {
+          "option": "1/32"
+        }
+      ]
+    },
+    {
+      "question": "यदि किसी GP का प्रथम पद 7 और n-वां पद 448 है तथा सार्व अनुपात 2 है, तो n का मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक GP के पहले 4 पदों का योग ज्ञात कीजिए जहाँ a = 5 और r = 3 है।",
+      "options": [
+        {
+          "option": "160"
+        },
+        {
+          "option": "80"
+        },
+        {
+          "option": "200",
+          "is_answer": true
+        },
+        {
+          "option": "400"
+        }
+      ]
+    },
+    {
+      "question": "GP 16, -8, 4, -2, ... का 5वां पद क्या है?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "-2"
+        }
+      ]
+    },
+    {
+      "question": "समांतर श्रेणी 2, 7, 12, ... का 10वाँ पद ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "42"
+        },
+        {
+          "option": "47",
+          "is_answer": true
+        },
+        {
+          "option": "37"
+        },
+        {
+          "option": "52"
+        }
+      ]
+    },
+    {
+      "question": "AP: -3, -1/2, 2, ... का 11वाँ पद क्या है?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "-20"
+        },
+        {
+          "option": "22",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "AP: 8, 3, -2, ... के पहले 22 पदों का योग ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "-979",
+          "is_answer": true
+        },
+        {
+          "option": "-1012"
+        },
+        {
+          "option": "-961"
+        },
+        {
+          "option": "979"
+        }
+      ]
+    },
+    {
+      "question": "AP: 3, 8, 13, 18, ... का कौन सा पद 78 है?",
+      "options": [
+        {
+          "option": "15वाँ"
+        },
+        {
+          "option": "18वाँ"
+        },
+        {
+          "option": "16वाँ",
+          "is_answer": true
+        },
+        {
+          "option": "17वाँ"
+        }
+      ]
+    },
+    {
+      "question": "परिमित AP: 7, 13, 19, ..., 205 में पदों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "34",
+          "is_answer": true
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "33"
+        },
+        {
+          "option": "35"
+        }
+      ]
+    },
+    {
+      "question": "AP: 10, 7, 4, ... का 30वाँ पद ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "-87"
+        },
+        {
+          "option": "-85"
+        },
+        {
+          "option": "77"
+        },
+        {
+          "option": "-77",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "AP: 2, 7, 12, ... के पहले 10 पदों का योग ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "225"
+        },
+        {
+          "option": "245",
+          "is_answer": true
+        },
+        {
+          "option": "250"
+        },
+        {
+          "option": "235"
+        }
+      ]
+    },
+    {
+      "question": "यदि किसी AP का तीसरा और नौवां पद क्रमशः 4 और -8 है, तो इस AP का कौन सा पद शून्य होगा?",
+      "options": [
+        {
+          "option": "6वाँ"
+        },
+        {
+          "option": "4था"
+        },
+        {
+          "option": "7वाँ"
+        },
+        {
+          "option": "5वाँ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "वह AP निर्धारित कीजिए जिसका तीसरा पद 16 है और 7वाँ पद 5वें पद से 12 अधिक है।",
+      "options": [
+        {
+          "option": "4, 10, 16, 22, ...",
+          "is_answer": true
+        },
+        {
+          "option": "3, 9, 15, 21, ..."
+        },
+        {
+          "option": "6, 11, 16, 21, ..."
+        },
+        {
+          "option": "2, 8, 14, 20, ..."
+        }
+      ]
+    },
+    {
+      "question": "AP: 3, 8, 13, ..., 253 के अंतिम पद से (प्रथम पद की ओर) 20वाँ पद ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "163"
+        },
+        {
+          "option": "158",
+          "is_answer": true
+        },
+        {
+          "option": "148"
+        },
+        {
+          "option": "153"
+        }
+      ]
+    },
+    {
+      "question": "संख्याओं की सूची के प्रथम 24 पदों का योग ज्ञात कीजिए, जिसका nवाँ पद a_n = 3 + 2n द्वारा दिया जाता है।",
+      "options": [
+        {
+          "option": "632"
+        },
+        {
+          "option": "680"
+        },
+        {
+          "option": "650"
+        },
+        {
+          "option": "672",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "8 के प्रथम 15 गुणजों का योग ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "920"
+        },
+        {
+          "option": "960",
+          "is_answer": true
+        },
+        {
+          "option": "940"
+        },
+        {
+          "option": "980"
+        }
+      ]
+    },
+    {
+      "question": "0 और 50 के बीच की विषम संख्याओं का योग ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "650"
+        },
+        {
+          "option": "600"
+        },
+        {
+          "option": "625",
+          "is_answer": true
+        },
+        {
+          "option": "550"
+        }
+      ]
+    },
+    {
+      "question": "कितनी दो अंकों की संख्याएँ 3 से विभाज्य हैं?",
+      "options": [
+        {
+          "option": "29"
+        },
+        {
+          "option": "33"
+        },
+        {
+          "option": "31"
+        },
+        {
+          "option": "30",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि किसी AP के प्रथम n पदों का योग S_n = 4n - n^2 द्वारा दिया जाता है, तो प्रथम पद (S_1) क्या है?",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "AP: 1, 4, 7, 10, ... के पहले 15 पदों का योग ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "310"
+        },
+        {
+          "option": "325",
+          "is_answer": true
+        },
+        {
+          "option": "315"
+        },
+        {
+          "option": "340"
+        }
+      ]
+    },
+    {
+      "question": "यदि संख्याएँ a, 7, b, 23 एक AP बनाती हैं, तो क्रमशः a और b के मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "1, 15"
+        },
+        {
+          "option": "0, 15"
+        },
+        {
+          "option": "-1, 15",
+          "is_answer": true
+        },
+        {
+          "option": "-1, 14"
+        }
+      ]
+    },
+    {
+      "question": "एक AP में, यदि a = 7, d = 3, n = 8 है, तो a_n ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "26"
+        },
+        {
+          "option": "31"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "28",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक AP का सार्व अंतर ज्ञात कीजिए जिसका प्रथम पद 5 है और पहले 4 पदों का योग अगले 4 पदों के योग का आधा है।",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "AP: 21, 18, 15, ... का कौन सा पद 0 है?",
+      "options": [
+        {
+          "option": "6ठा"
+        },
+        {
+          "option": "8वाँ",
+          "is_answer": true
+        },
+        {
+          "option": "9वाँ"
+        },
+        {
+          "option": "7वाँ"
+        }
+      ]
+    },
+    {
+      "question": "7 सेमी त्रिज्या और 10 सेमी ऊँचाई वाले बेलन का आयतन ज्ञात कीजिए। (pi = 22/7 का प्रयोग करें)",
+      "options": [
+        {
+          "option": "770 सेमी³"
+        },
+        {
+          "option": "3080 सेमी³"
+        },
+        {
+          "option": "154 सेमी³"
+        },
+        {
+          "option": "1540 सेमी³",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "3.5 सेमी त्रिज्या और 20 सेमी ऊँचाई वाले बेलन का वक्र पृष्ठीय क्षेत्रफल कितना है? (pi = 22/7 का प्रयोग करें)",
+      "options": [
+        {
+          "option": "440 सेमी²",
+          "is_answer": true
+        },
+        {
+          "option": "220 सेमी²"
+        },
+        {
+          "option": "154 सेमी²"
+        },
+        {
+          "option": "880 सेमी²"
+        }
+      ]
+    },
+    {
+      "question": "6 सेमी त्रिज्या और 7 सेमी ऊँचाई वाले लंब वृत्तीय शंकु का आयतन ज्ञात कीजिए। (pi = 22/7 का प्रयोग करें)",
+      "options": [
+        {
+          "option": "528 सेमी³"
+        },
+        {
+          "option": "132 सेमी³"
+        },
+        {
+          "option": "792 सेमी³"
+        },
+        {
+          "option": "264 सेमी³",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "उस शंकु की तिर्यक ऊँचाई क्या है जिसकी आधार त्रिज्या 3 सेमी और ऊँचाई 4 सेमी है?",
+      "options": [
+        {
+          "option": "7 सेमी"
+        },
+        {
+          "option": "12 सेमी"
+        },
+        {
+          "option": "25 सेमी"
+        },
+        {
+          "option": "5 सेमी",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "7 सेमी त्रिज्या वाले गोले का पृष्ठीय क्षेत्रफल ज्ञात कीजिए। (pi = 22/7 का प्रयोग करें)",
+      "options": [
+        {
+          "option": "308 सेमी²"
+        },
+        {
+          "option": "1232 सेमी²"
+        },
+        {
+          "option": "154 सेमी²"
+        },
+        {
+          "option": "616 सेमी²",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "3 सेमी त्रिज्या वाले गोले का आयतन ज्ञात कीजिए। (pi = 22/7 का प्रयोग करें)",
+      "options": [
+        {
+          "option": "226.28 सेमी³"
+        },
+        {
+          "option": "113.14 सेमी³",
+          "is_answer": true
+        },
+        {
+          "option": "37.71 सेमी³"
+        },
+        {
+          "option": "150.50 सेमी³"
+        }
+      ]
+    },
+    {
+      "question": "यदि बेलन की त्रिज्या दोगुनी कर दी जाए और ऊँचाई समान रहे, तो आयतन मूल आयतन का कितना गुना हो जाता है?",
+      "options": [
+        {
+          "option": "कोई परिवर्तन नहीं"
+        },
+        {
+          "option": "8 गुना"
+        },
+        {
+          "option": "2 गुना"
+        },
+        {
+          "option": "4 गुना",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "7 सेमी त्रिज्या वाले ठोस अर्द्धगोले का कुल पृष्ठीय क्षेत्रफल ज्ञात कीजिए। (pi = 22/7 का प्रयोग करें)",
+      "options": [
+        {
+          "option": "462 सेमी²",
+          "is_answer": true
+        },
+        {
+          "option": "308 सेमी²"
+        },
+        {
+          "option": "616 सेमी²"
+        },
+        {
+          "option": "154 सेमी²"
+        }
+      ]
+    },
+    {
+      "question": "7 सेमी त्रिज्या और 10 सेमी तिर्यक ऊँचाई वाले शंकु का वक्र पृष्ठीय क्षेत्रफल ज्ञात कीजिए। (pi = 22/7 का प्रयोग करें)",
+      "options": [
+        {
+          "option": "110 सेमी²"
+        },
+        {
+          "option": "440 सेमी²"
+        },
+        {
+          "option": "154 सेमी²"
+        },
+        {
+          "option": "220 सेमी²",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक बेलन का वक्र पृष्ठीय क्षेत्रफल 880 सेमी² है और इसकी ऊँचाई 20 सेमी है। इसकी त्रिज्या ज्ञात कीजिए। (pi = 22/7 का प्रयोग करें)",
+      "options": [
+        {
+          "option": "3.5 सेमी"
+        },
+        {
+          "option": "21 सेमी"
+        },
+        {
+          "option": "14 सेमी"
+        },
+        {
+          "option": "7 सेमी",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि किसी गोले का आयतन और पृष्ठीय क्षेत्रफल संख्यात्मक रूप से समान हैं, तो गोले की त्रिज्या क्या है?",
+      "options": [
+        {
+          "option": "pi इकाई"
+        },
+        {
+          "option": "6 इकाई"
+        },
+        {
+          "option": "3 इकाई",
+          "is_answer": true
+        },
+        {
+          "option": "4 इकाई"
+        }
+      ]
+    },
+    {
+      "question": "उस शंकु का आयतन ज्ञात कीजिए जिसके आधार का क्षेत्रफल 154 सेमी² और ऊँचाई 12 सेमी है। (pi = 22/7 का प्रयोग करें)",
+      "options": [
+        {
+          "option": "616 सेमी³",
+          "is_answer": true
+        },
+        {
+          "option": "1848 सेमी³"
+        },
+        {
+          "option": "308 सेमी³"
+        },
+        {
+          "option": "924 सेमी³"
+        }
+      ]
+    },
+    {
+      "question": "एक बेलनाकार टैंक की त्रिज्या 14 मीटर और ऊँचाई 5 मीटर है। घन मीटर में टैंक की क्षमता ज्ञात कीजिए। (pi = 22/7 का प्रयोग करें)",
+      "options": [
+        {
+          "option": "3080 मीटर³",
+          "is_answer": true
+        },
+        {
+          "option": "6160 मीटर³"
+        },
+        {
+          "option": "1540 मीटर³"
+        },
+        {
+          "option": "770 मीटर³"
+        }
+      ]
+    },
+    {
+      "question": "दो गोलों की त्रिज्याओं का अनुपात 2:3 है। उनके आयतनों का अनुपात क्या है?",
+      "options": [
+        {
+          "option": "4:9"
+        },
+        {
+          "option": "2:3"
+        },
+        {
+          "option": "16:81"
+        },
+        {
+          "option": "8:27",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि किसी दिए गए शंकु की त्रिज्या को स्थिर रखते हुए उसकी ऊँचाई तीन गुनी कर दी जाए, तो उसका आयतन हो जाता है:",
+      "options": [
+        {
+          "option": "3 गुना",
+          "is_answer": true
+        },
+        {
+          "option": "9 गुना"
+        },
+        {
+          "option": "6 गुना"
+        },
+        {
+          "option": "1/3 गुना"
+        }
+      ]
+    },
+    {
+      "question": "7 सेमी त्रिज्या और 10 सेमी ऊँचाई वाले ठोस बेलन का कुल पृष्ठीय क्षेत्रफल ज्ञात कीजिए। (pi = 22/7 का प्रयोग करें)",
+      "options": [
+        {
+          "option": "440 सेमी²"
+        },
+        {
+          "option": "308 सेमी²"
+        },
+        {
+          "option": "748 सेमी²",
+          "is_answer": true
+        },
+        {
+          "option": "1540 सेमी²"
+        }
+      ]
+    },
+    {
+      "question": "6 सेमी त्रिज्या वाले अर्द्धगोले का आयतन ज्ञात कीजिए। (pi = 3.14 का प्रयोग करें)",
+      "options": [
+        {
+          "option": "452.16 सेमी³",
+          "is_answer": true
+        },
+        {
+          "option": "904.32 सेमी³"
+        },
+        {
+          "option": "113.04 सेमी³"
+        },
+        {
+          "option": "226.08 सेमी³"
+        }
+      ]
+    },
+    {
+      "question": "एक शंक्वाकार तंबू 10 मीटर ऊँचा है और उसके आधार की त्रिज्या 24 मीटर है। तंबू की तिर्यक ऊँचाई ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "25 मीटर"
+        },
+        {
+          "option": "34 मीटर"
+        },
+        {
+          "option": "26 मीटर",
+          "is_answer": true
+        },
+        {
+          "option": "14 मीटर"
+        }
+      ]
+    },
+    {
+      "question": "दो गोलों के पृष्ठीय क्षेत्रफलों का अनुपात 1:4 है। उनकी त्रिज्याओं का अनुपात क्या है?",
+      "options": [
+        {
+          "option": "1:2",
+          "is_answer": true
+        },
+        {
+          "option": "1:8"
+        },
+        {
+          "option": "1:4"
+        },
+        {
+          "option": "1:16"
+        }
+      ]
+    },
+    {
+      "question": "यदि 3 सेमी त्रिज्या वाले एक ठोस गोले को पिघलाकर 1 सेमी त्रिज्या वाले बेलनाकार तार में ढाला जाता है, तो तार की लंबाई ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "12 सेमी"
+        },
+        {
+          "option": "36 सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "108 सेमी"
+        },
+        {
+          "option": "27 सेमी"
+        }
+      ]
+    },
+    {
+      "question": "6 सेमी त्रिज्या वाले एक ठोस धातु के गोले को पिघलाकर 2 सेमी त्रिज्या की छोटी गोलाकार गोलियाँ बनाई जाती हैं। ऐसी कितनी गोलियाँ बनाई जा सकती हैं?",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "27",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "36"
+        }
+      ]
+    },
+    {
+      "question": "3 सेमी त्रिज्या और 5 सेमी ऊंचाई वाले एक धातु के बेलन को पिघलाकर 1 सेमी त्रिज्या की छोटी गोलाकार गेंदे बनाई जाती हैं। बनने वाली गेंदों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "45",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "4 सेमी त्रिज्या के एक धातु के गोले को पिघलाकर 2 मिमी (0.2 सेमी) त्रिज्या के एक समान वृत्ताकार अनुप्रस्थ काट का लंबा तार बनाया जाता है। तार की लंबाई ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "320.00 सेमी"
+        },
+        {
+          "option": "426.67 सेमी"
+        },
+        {
+          "option": "106.67 सेमी"
+        },
+        {
+          "option": "213.33 सेमी",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "7 सेमी त्रिज्या और 10 सेमी ऊंचाई वाले एक ठोस लंब वृत्तीय बेलन को पिघलाकर एक ठोस गोला बनाया जाता है। गोले की त्रिज्या क्या है?",
+      "options": [
+        {
+          "option": "7 सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "21 सेमी"
+        },
+        {
+          "option": "3.5 सेमी"
+        },
+        {
+          "option": "14 सेमी"
+        }
+      ]
+    },
+    {
+      "question": "आधार त्रिज्या 4 सेमी और ऊंचाई 12 सेमी वाले ठोस सीसे के बेलन से 1 सेमी त्रिज्या की कितनी गोलाकार गोलियाँ बनाई जा सकती हैं?",
+      "options": [
+        {
+          "option": "192",
+          "is_answer": true
+        },
+        {
+          "option": "64"
+        },
+        {
+          "option": "256"
+        },
+        {
+          "option": "128"
+        }
+      ]
+    },
+    {
+      "question": "6 सेमी त्रिज्या और 12 सेमी ऊंचाई वाले एक धातु के शंकु को पिघलाकर 2 सेमी त्रिज्या के ठोस गोले बनाए जाते हैं। बनने वाले गोलों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "27"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "9 सेमी त्रिज्या के एक धातु के गोले को पिघलाकर 6 सेमी त्रिज्या वाले एक बेलन में ढाला जाता है। बेलन की ऊंचाई ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "9 सेमी"
+        },
+        {
+          "option": "27 सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "18 सेमी"
+        },
+        {
+          "option": "13.5 सेमी"
+        }
+      ]
+    },
+    {
+      "question": "1 सेमी व्यास और 8 मीटर लंबाई के तांबे के तार को पिघलाकर एक ठोस गोला बनाया जाता है। गोले की त्रिज्या है:",
+      "options": [
+        {
+          "option": "1 सेमी"
+        },
+        {
+          "option": "2 सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "8 सेमी"
+        },
+        {
+          "option": "4 सेमी"
+        }
+      ]
+    },
+    {
+      "question": "6 सेमी, 8 सेमी और 10 सेमी त्रिज्या वाले तीन ठोस गोलों को पिघलाकर एक नया ठोस गोला बनाया जाता है। नए गोले की त्रिज्या है:",
+      "options": [
+        {
+          "option": "12 सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "14 सेमी"
+        },
+        {
+          "option": "16 सेमी"
+        },
+        {
+          "option": "24 सेमी"
+        }
+      ]
+    },
+    {
+      "question": "9 सेमी x 11 सेमी x 12 सेमी आयाम वाले एक ठोस धातु के घनाभ को पिघलाकर 3 सेमी त्रिज्या के कितने ठोस गोले बनाए जा सकते हैं?",
+      "options": [
+        {
+          "option": "28"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "21"
+        }
+      ]
+    },
+    {
+      "question": "32 सेमी ऊंची और आधार त्रिज्या 18 सेमी वाली एक बेलनाकार बाल्टी रेत से भरी है। इस बाल्टी को जमीन पर खाली किया जाता है और रेत का एक शंक्वाकार ढेर बनाया जाता है। यदि शंक्वाकार ढेर की ऊंचाई 24 सेमी है, तो उसके आधार की त्रिज्या है:",
+      "options": [
+        {
+          "option": "24 सेमी"
+        },
+        {
+          "option": "36 सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "12 सेमी"
+        },
+        {
+          "option": "18 सेमी"
+        }
+      ]
+    },
+    {
+      "question": "1 सेमी आंतरिक त्रिज्या वाले एक वृत्ताकार पाइप से 80 सेमी/सेकेंड की दर से पानी 40 सेमी त्रिज्या वाले एक खाली बेलनाकार टैंक में बहता है। 30 मिनट में पानी का स्तर कितना ऊपर उठ जाएगा?",
+      "options": [
+        {
+          "option": "60 सेमी"
+        },
+        {
+          "option": "45 सेमी"
+        },
+        {
+          "option": "180 सेमी"
+        },
+        {
+          "option": "90 सेमी",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "5 सेमी त्रिज्या के एक ठोस धातु के गोले को पिघलाकर एक शंक्वाकार आकार में ढाला जाता है। यदि शंकु के आधार की त्रिज्या 5 सेमी है, तो इसकी ऊंचाई ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "25 सेमी"
+        },
+        {
+          "option": "10 सेमी"
+        },
+        {
+          "option": "15 सेमी"
+        },
+        {
+          "option": "20 सेमी",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि 3 सेमी त्रिज्या के एक ठोस गोले को पिघलाकर 0.2 सेमी त्रिज्या का तार बनाया जाए, तो तार की लंबाई क्या होगी?",
+      "options": [
+        {
+          "option": "900 सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "450 सेमी"
+        },
+        {
+          "option": "225 सेमी"
+        },
+        {
+          "option": "1800 सेमी"
+        }
+      ]
+    },
+    {
+      "question": "4 सेमी त्रिज्या और 9 सेमी ऊंचाई वाले एक ठोस बेलन को पिघलाकर एक गोला बनाया जाता है। गोले का पृष्ठीय क्षेत्रफल है:",
+      "options": [
+        {
+          "option": "72π सेमी²"
+        },
+        {
+          "option": "36π सेमी²"
+        },
+        {
+          "option": "144π सेमी²",
+          "is_answer": true
+        },
+        {
+          "option": "288π सेमी²"
+        }
+      ]
+    },
+    {
+      "question": "क्रमशः 2 सेमी और 4 सेमी की आंतरिक और बाह्य त्रिज्या वाले एक खोखले गोले को पिघलाकर 2 सेमी आधार त्रिज्या का एक ठोस बेलन बनाया जाता है। बेलन की ऊंचाई ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "14/3 सेमी"
+        },
+        {
+          "option": "7 सेमी"
+        },
+        {
+          "option": "28/3 सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "56/3 सेमी"
+        }
+      ]
+    },
+    {
+      "question": "7 सेमी त्रिज्या के एक धातु के ठोस अर्द्धगोले को पिघलाकर 7 सेमी आधार त्रिज्या के लंब वृत्तीय शंकु में ढाला जाता है। शंकु की ऊंचाई ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "7 सेमी"
+        },
+        {
+          "option": "14 सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "28 सेमी"
+        },
+        {
+          "option": "21 सेमी"
+        }
+      ]
+    },
+    {
+      "question": "आंतरिक त्रिज्या 6 सेमी और बाह्य त्रिज्या 8 सेमी वाले एक अर्द्धगोलाकार कटोरे को पिघलाकर 1 सेमी त्रिज्या की कितनी गोलाकार गेंदे बनाई जा सकती हैं?",
+      "options": [
+        {
+          "option": "304",
+          "is_answer": true
+        },
+        {
+          "option": "76"
+        },
+        {
+          "option": "608"
+        },
+        {
+          "option": "152"
+        }
+      ]
+    },
+    {
+      "question": "8 सेमी व्यास और 9 सेमी ऊंचाई वाली एक बेलनाकार धातु की छड़ को पिघलाकर 2 सेमी व्यास वाले छोटे गोलाकार मनके बनाए जाते हैं। मनकों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "72"
+        },
+        {
+          "option": "108"
+        },
+        {
+          "option": "216",
+          "is_answer": true
+        },
+        {
+          "option": "144"
+        }
+      ]
+    },
+    {
+      "question": "6 सेमी त्रिज्या और 15 सेमी ऊंचाई वाले एक बेलनाकार कंटेनर में आइसक्रीम भरी है। पूरी आइसक्रीम को 10 बच्चों में समान शंकु के आकार के कपों में बांटा जाता है जिनके ऊपर अर्द्धगोला है। यदि शंक्वाकार भाग की ऊंचाई उसके आधार की त्रिज्या से दोगुनी है, तो आइसक्रीम शंकु की त्रिज्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "1.5 सेमी"
+        },
+        {
+          "option": "4.5 सेमी"
+        },
+        {
+          "option": "3 सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "6 सेमी"
+        }
+      ]
+    },
+    {
+      "question": "log_2(32) का मान क्या है?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "x के लिए हल करें: log_3(x) = 4",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "64"
+        },
+        {
+          "option": "27"
+        },
+        {
+          "option": "81",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "मूल्यांकन करें: log_10(1000)",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "सरल करें: log_5(1)",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "log_e(e^5) का मान ज्ञात कीजिए",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "e^5"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "समीकरण को हल करें: log_2(x) + log_2(x - 3) = 2",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "log_a(xy) किसके बराबर है?",
+      "options": [
+        {
+          "option": "log_a(x) - log_a(y)"
+        },
+        {
+          "option": "log_a(x) * log_a(y)"
+        },
+        {
+          "option": "log_a(x) + log_a(y)",
+          "is_answer": true
+        },
+        {
+          "option": "y * log_a(x)"
+        }
+      ]
+    },
+    {
+      "question": "मूल्यांकन करें: log_4(64)",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "x के लिए हल करें: log_10(x) + log_10(2) = 1",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "log_3(1/9) का मान क्या है?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "-2",
+          "is_answer": true
+        },
+        {
+          "option": "-3"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "सरल करें: 2 * log_10(5) + log_10(4)",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "x के लिए हल करें: log_x(8) = 3",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "log_b(x^n) किसके बराबर है?",
+      "options": [
+        {
+          "option": "n * log_b(x)",
+          "is_answer": true
+        },
+        {
+          "option": "n^log_b(x)"
+        },
+        {
+          "option": "x * log_b(n)"
+        },
+        {
+          "option": "log_b(n) + log_b(x)"
+        }
+      ]
+    },
+    {
+      "question": "मूल्यांकन करें: log_2(1/8)",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "-3",
+          "is_answer": true
+        },
+        {
+          "option": "-2"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "यदि log_5(x - 1) = 2 है तो x ज्ञात कीजिए",
+      "options": [
+        {
+          "option": "11"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "26",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "log_7(7) का मान क्या है?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "49"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "सरल करें: log_10(50) - log_10(5)",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "45"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "x के लिए हल करें: 3^x = 81",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "27"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "मूल्यांकन करें: ln(e)",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "e"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "infinity"
+        }
+      ]
+    },
+    {
+      "question": "log_2(log_3(81)) का मान क्या है?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "3:30 बजे घड़ी की घंटे और मिनट की सुइयों के बीच का कोण कितना होता है?",
+      "options": [
+        {
+          "option": "60°"
+        },
+        {
+          "option": "75°",
+          "is_answer": true
+        },
+        {
+          "option": "90°"
+        },
+        {
+          "option": "105°"
+        }
+      ]
+    },
+    {
+      "question": "4:20 बजे घड़ी की सुइयों के बीच का कोण ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "20°"
+        },
+        {
+          "option": "0°"
+        },
+        {
+          "option": "15°"
+        },
+        {
+          "option": "10°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "7:15 बजे घड़ी की सुइयों के बीच का कोण कितना होगा?",
+      "options": [
+        {
+          "option": "135°"
+        },
+        {
+          "option": "112.5°"
+        },
+        {
+          "option": "120°"
+        },
+        {
+          "option": "127.5°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "2:40 बजे घड़ी की दोनों सुइयों के बीच का कोण क्या है?",
+      "options": [
+        {
+          "option": "190°",
+          "is_answer": true
+        },
+        {
+          "option": "195°"
+        },
+        {
+          "option": "170°"
+        },
+        {
+          "option": "180°"
+        }
+      ]
+    },
+    {
+      "question": "जब समय 8:20 हो, तो घड़ी की सुइयों के बीच का कोण ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "140°"
+        },
+        {
+          "option": "125°"
+        },
+        {
+          "option": "120°"
+        },
+        {
+          "option": "130°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "10:10 बजे घंटे और मिनट की सुइयों के बीच का कोण कितना है?",
+      "options": [
+        {
+          "option": "105°"
+        },
+        {
+          "option": "115°",
+          "is_answer": true
+        },
+        {
+          "option": "120°"
+        },
+        {
+          "option": "110°"
+        }
+      ]
+    },
+    {
+      "question": "5:10 बजे घड़ी की सुइयों के बीच का कोण ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "90°"
+        },
+        {
+          "option": "85°"
+        },
+        {
+          "option": "100°"
+        },
+        {
+          "option": "95°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "6:00 बजे घड़ी की सुइयों के बीच का कोण कितना होता है?",
+      "options": [
+        {
+          "option": "90°"
+        },
+        {
+          "option": "360°"
+        },
+        {
+          "option": "0°"
+        },
+        {
+          "option": "180°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "1:25 बजे घड़ी की सुइयों के बीच का कोण कितना होता है?",
+      "options": [
+        {
+          "option": "60°"
+        },
+        {
+          "option": "45°"
+        },
+        {
+          "option": "55°"
+        },
+        {
+          "option": "52.5°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "9:35 बजे घड़ी की सुइयों के बीच का कोण ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "75°"
+        },
+        {
+          "option": "82.5°"
+        },
+        {
+          "option": "70°"
+        },
+        {
+          "option": "77.5°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "11:50 बजे सुइयों के बीच का कोण कितना है?",
+      "options": [
+        {
+          "option": "105°"
+        },
+        {
+          "option": "100°"
+        },
+        {
+          "option": "95°",
+          "is_answer": true
+        },
+        {
+          "option": "90°"
+        }
+      ]
+    },
+    {
+      "question": "12:15 बजे घड़ी की सुइयों के बीच का कोण क्या है?",
+      "options": [
+        {
+          "option": "90°"
+        },
+        {
+          "option": "82.5°",
+          "is_answer": true
+        },
+        {
+          "option": "85°"
+        },
+        {
+          "option": "75°"
+        }
+      ]
+    },
+    {
+      "question": "3:15 बजे घड़ी की सुइयों के बीच का कोण ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "10°"
+        },
+        {
+          "option": "7.5°",
+          "is_answer": true
+        },
+        {
+          "option": "0°"
+        },
+        {
+          "option": "15°"
+        }
+      ]
+    },
+    {
+      "question": "5:45 बजे घड़ी की सुइयों के बीच का कोण कितना होता है?",
+      "options": [
+        {
+          "option": "90°"
+        },
+        {
+          "option": "105°"
+        },
+        {
+          "option": "97.5°",
+          "is_answer": true
+        },
+        {
+          "option": "100°"
+        }
+      ]
+    },
+    {
+      "question": "8:30 बजे घंटे और मिनट की सुइयों के बीच का कोण ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "75°",
+          "is_answer": true
+        },
+        {
+          "option": "60°"
+        },
+        {
+          "option": "80°"
+        },
+        {
+          "option": "90°"
+        }
+      ]
+    },
+    {
+      "question": "2:20 बजे घड़ी की सुइयों के बीच का कोण कितना है?",
+      "options": [
+        {
+          "option": "45°"
+        },
+        {
+          "option": "50°",
+          "is_answer": true
+        },
+        {
+          "option": "60°"
+        },
+        {
+          "option": "40°"
+        }
+      ]
+    },
+    {
+      "question": "10:25 बजे घड़ी की सुइयों के बीच का कोण ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "197.5°",
+          "is_answer": true
+        },
+        {
+          "option": "190°"
+        },
+        {
+          "option": "180°"
+        },
+        {
+          "option": "200°"
+        }
+      ]
+    },
+    {
+      "question": "4:50 बजे घड़ी की सुइयों के बीच का कोण कितना होता है?",
+      "options": [
+        {
+          "option": "155°",
+          "is_answer": true
+        },
+        {
+          "option": "145°"
+        },
+        {
+          "option": "160°"
+        },
+        {
+          "option": "150°"
+        }
+      ]
+    },
+    {
+      "question": "7:00 बजे घड़ी की सुइयों के बीच का कोण क्या है?",
+      "options": [
+        {
+          "option": "180°"
+        },
+        {
+          "option": "150°",
+          "is_answer": true
+        },
+        {
+          "option": "210°"
+        },
+        {
+          "option": "120°"
+        }
+      ]
+    },
+    {
+      "question": "1:00 बजे घड़ी की सुइयों के बीच का कोण ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "30°",
+          "is_answer": true
+        },
+        {
+          "option": "60°"
+        },
+        {
+          "option": "15°"
+        },
+        {
+          "option": "45°"
+        }
+      ]
+    },
+    {
+      "question": "दो धनात्मक संख्याओं के समांतर माध्य (AM), गुणोत्तर माध्य (GM) और हरात्मक माध्य (HM) के बीच क्या संबंध है?",
+      "options": [
+        {
+          "option": "AM = GM = HM"
+        },
+        {
+          "option": "AM * HM = GM^2",
+          "is_answer": true
+        },
+        {
+          "option": "AM * GM = HM^2"
+        },
+        {
+          "option": "AM + HM = GM"
+        }
+      ]
+    },
+    {
+      "question": "यदि किसी HP का तीसरा पद 1/5 और पाँचवाँ पद 1/9 है, तो HP का पहला पद ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "1/7"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "धनात्मक वास्तविक संख्याओं के किसी भी समुच्चय के लिए, निम्नलिखित में से कौन सी असमिका हमेशा सत्य होती है?",
+      "options": [
+        {
+          "option": "GM >= AM >= HM"
+        },
+        {
+          "option": "AM >= HM >= GM"
+        },
+        {
+          "option": "AM >= GM >= HM",
+          "is_answer": true
+        },
+        {
+          "option": "HM >= GM >= AM"
+        }
+      ]
+    },
+    {
+      "question": "2 और 8 का हरात्मक माध्य ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "16/5",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "यदि दो संख्याओं का AM 10 है और उनका GM 8 है, तो उनका HM ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "6.4",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "12.5"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "यदि a, b, c HP में हैं, तो निम्नलिखित में से कौन सा AP में है?",
+      "options": [
+        {
+          "option": "a/b, b/c, c/a"
+        },
+        {
+          "option": "a-b, b-c, c-a"
+        },
+        {
+          "option": "1/a, 1/b, 1/c",
+          "is_answer": true
+        },
+        {
+          "option": "a^2, b^2, c^2"
+        }
+      ]
+    },
+    {
+      "question": "धनात्मक संख्याओं के बीच AM = GM = HM होने के लिए कौन सी शर्त पूरी होनी चाहिए?",
+      "options": [
+        {
+          "option": "सभी संख्याएँ समान होनी चाहिए",
+          "is_answer": true
+        },
+        {
+          "option": "संख्याओं का योग शून्य होना चाहिए"
+        },
+        {
+          "option": "संख्याएँ GP में होनी चाहिए"
+        },
+        {
+          "option": "संख्याएँ AP में होनी चाहिए"
+        }
+      ]
+    },
+    {
+      "question": "यदि किसी HP का दूसरा पद 1/4 और चौथा पद 1/6 है, तो छठा पद क्या है?",
+      "options": [
+        {
+          "option": "1/8",
+          "is_answer": true
+        },
+        {
+          "option": "1/12"
+        },
+        {
+          "option": "1/10"
+        },
+        {
+          "option": "1/7"
+        }
+      ]
+    },
+    {
+      "question": "3, 4 और 12 का हरात्मक माध्य क्या है?",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "19/3"
+        }
+      ]
+    },
+    {
+      "question": "यदि दो धनात्मक संख्याओं का AM 25 और HM 9 है, तो उनका GM ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "17"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि a, b, c HP में हैं, तो व्यंजक a/(b+c-a) + c/(a+b-c) किसके बराबर है?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "HP 1/3, 1/5, 1/7, ... का कौन सा पद 1/21 है?",
+      "options": [
+        {
+          "option": "10th",
+          "is_answer": true
+        },
+        {
+          "option": "11th"
+        },
+        {
+          "option": "9th"
+        },
+        {
+          "option": "12th"
+        }
+      ]
+    },
+    {
+      "question": "यदि x, y, z HP में हैं, तो y को क्या कहा जाता है?",
+      "options": [
+        {
+          "option": "x और z के बीच का गुणोत्तर माध्य"
+        },
+        {
+          "option": "x और z के बीच का समांतर माध्य"
+        },
+        {
+          "option": "x और z का वर्गमूल"
+        },
+        {
+          "option": "x और z के बीच का हरात्मक माध्य",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि दो संख्याओं का AM 5 और GM 4 है, तो दोनों में से बड़ी संख्या कौन सी है?",
+      "options": [
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "यदि किसी HP के प्रत्येक पद को शून्येतर अचर k से गुणा किया जाए, तो परिणामी अनुक्रम क्या होगा?",
+      "options": [
+        {
+          "option": "एक GP"
+        },
+        {
+          "option": "एक AP"
+        },
+        {
+          "option": "इनमें से कोई नहीं"
+        },
+        {
+          "option": "एक HP",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "1, 2 और 3 का HM क्या है?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "11/18"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "18/11",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि a, b, c HP में हैं, तो (a-b)/(b-c) किसके बराबर है?",
+      "options": [
+        {
+          "option": "a/c",
+          "is_answer": true
+        },
+        {
+          "option": "b/a"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "c/a"
+        }
+      ]
+    },
+    {
+      "question": "दो संख्याओं का हरात्मक माध्य 4 है और उनका समांतर माध्य 9 है। उनका गुणोत्तर माध्य ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "13"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "36"
+        }
+      ]
+    },
+    {
+      "question": "यदि किसी HP के p-वें, q-वें और r-वें पद क्रमशः a, b, c हैं, तो (q-r)bc + (r-p)ca + (p-q)ab का मान क्या है?",
+      "options": [
+        {
+          "option": "abc"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "pqr"
+        }
+      ]
+    },
+    {
+      "question": "यदि किसी द्विघात समीकरण के मूल m:n के अनुपात में हैं, और उनके AM और HM ज्ञात किए जाते हैं, तो धनात्मक मूलों के लिए कौन सा संबंध हमेशा सत्य रहता है?",
+      "options": [
+        {
+          "option": "AM + HM = GM"
+        },
+        {
+          "option": "HM >= AM"
+        },
+        {
+          "option": "GM >= AM"
+        },
+        {
+          "option": "AM * HM = GM^2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक साधारण वर्ष में कितने विषम (odd) दिन होते हैं?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक लीप वर्ष में कितने विषम (odd) दिन होते हैं?",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "100 वर्षों में कितने विषम (odd) दिन होते हैं?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "400 वर्षों में कितने विषम (odd) दिन होते हैं?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "15 अगस्त 1947 को सप्ताह का कौन सा दिन था?",
+      "options": [
+        {
+          "option": "गुरुवार"
+        },
+        {
+          "option": "बुधवार"
+        },
+        {
+          "option": "शनिवार"
+        },
+        {
+          "option": "शुक्रवार",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "26 जनवरी 1950 को सप्ताह का कौन सा दिन था?",
+      "options": [
+        {
+          "option": "गुरुवार",
+          "is_answer": true
+        },
+        {
+          "option": "शुक्रवार"
+        },
+        {
+          "option": "बुधवार"
+        },
+        {
+          "option": "मंगलवार"
+        }
+      ]
+    },
+    {
+      "question": "लगातार 100 वर्षों में कितने लीप वर्ष होते हैं?",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "26"
+        },
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "200 वर्षों में कितने विषम (odd) दिन होते हैं?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "300 वर्षों में कितने विषम (odd) दिन होते हैं?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "यदि आज सोमवार है, तो 61 दिनों के बाद कौन सा दिन होगा?",
+      "options": [
+        {
+          "option": "शनिवार",
+          "is_answer": true
+        },
+        {
+          "option": "सोमवार"
+        },
+        {
+          "option": "रविवार"
+        },
+        {
+          "option": "शुक्रवार"
+        }
+      ]
+    },
+    {
+      "question": "किसी शताब्दी का अंतिम दिन निम्नलिखित में से कौन सा नहीं हो सकता है?",
+      "options": [
+        {
+          "option": "बुधवार"
+        },
+        {
+          "option": "शुक्रवार"
+        },
+        {
+          "option": "मंगलवार",
+          "is_answer": true
+        },
+        {
+          "option": "सोमवार"
+        }
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा एक लीप वर्ष है?",
+      "options": [
+        {
+          "option": "1800"
+        },
+        {
+          "option": "1900"
+        },
+        {
+          "option": "2000",
+          "is_answer": true
+        },
+        {
+          "option": "2100"
+        }
+      ]
+    },
+    {
+      "question": "वर्ष 2005 का कैलेंडर किस वर्ष के कैलेंडर के समान होगा?",
+      "options": [
+        {
+          "option": "2010"
+        },
+        {
+          "option": "2016"
+        },
+        {
+          "option": "2012"
+        },
+        {
+          "option": "2011",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि 1 जनवरी 2004 को गुरुवार था, तो 1 जनवरी 2005 को सप्ताह का कौन सा दिन था?",
+      "options": [
+        {
+          "option": "शनिवार",
+          "is_answer": true
+        },
+        {
+          "option": "शुक्रवार"
+        },
+        {
+          "option": "गुरुवार"
+        },
+        {
+          "option": "रविवार"
+        }
+      ]
+    },
+    {
+      "question": "26 जनवरी 2004 से 15 मई 2004 तक (दोनों दिन शामिल) कुल कितने दिन होते हैं?",
+      "options": [
+        {
+          "option": "112"
+        },
+        {
+          "option": "109"
+        },
+        {
+          "option": "111",
+          "is_answer": true
+        },
+        {
+          "option": "110"
+        }
+      ]
+    },
+    {
+      "question": "2 अक्टूबर 1869 (महात्मा गांधी का जन्म दिन) को कौन सा दिन था?",
+      "options": [
+        {
+          "option": "शुक्रवार"
+        },
+        {
+          "option": "शनिवार",
+          "is_answer": true
+        },
+        {
+          "option": "रविवार"
+        },
+        {
+          "option": "सोमवार"
+        }
+      ]
+    },
+    {
+      "question": "दो लगातार लीप वर्षों के बीच अधिकतम अंतराल कितना हो सकता है?",
+      "options": [
+        {
+          "option": "12 वर्ष"
+        },
+        {
+          "option": "8 वर्ष",
+          "is_answer": true
+        },
+        {
+          "option": "5 वर्ष"
+        },
+        {
+          "option": "4 वर्ष"
+        }
+      ]
+    },
+    {
+      "question": "यदि एक लीप वर्ष रविवार से शुरू होता है, तो वह किस दिन समाप्त होगा?",
+      "options": [
+        {
+          "option": "शनिवार"
+        },
+        {
+          "option": "मंगलवार"
+        },
+        {
+          "option": "सोमवार",
+          "is_answer": true
+        },
+        {
+          "option": "रविवार"
+        }
+      ]
+    },
+    {
+      "question": "सप्ताह का कौन सा दिन किसी शताब्दी का पहला दिन हो सकता है?",
+      "options": [
+        {
+          "option": "बुधवार"
+        },
+        {
+          "option": "सोमवार",
+          "is_answer": true
+        },
+        {
+          "option": "मंगलवार"
+        },
+        {
+          "option": "गुरुवार"
+        }
+      ]
+    },
+    {
+      "question": "लगातार 400 वर्षों में महीने का 29वां दिन कुल कितनी बार आता है?",
+      "options": [
+        {
+          "option": "4800"
+        },
+        {
+          "option": "4500"
+        },
+        {
+          "option": "4497",
+          "is_answer": true
+        },
+        {
+          "option": "4400"
+        }
+      ]
+    },
+    {
+      "question": "एक दिन में (24 घंटे) घड़ी की दोनों सुइयां कितनी बार आपस में मिलती हैं (संपाती होती हैं)?",
+      "options": [
+        {
+          "option": "24 बार"
+        },
+        {
+          "option": "44 बार"
+        },
+        {
+          "option": "22 बार",
+          "is_answer": true
+        },
+        {
+          "option": "11 बार"
+        }
+      ]
+    },
+    {
+      "question": "12 घंटे में घड़ी की सुइयां कितनी बार परस्पर विपरीत दिशा में होती हैं?",
+      "options": [
+        {
+          "option": "10 बार"
+        },
+        {
+          "option": "12 बार"
+        },
+        {
+          "option": "11 बार",
+          "is_answer": true
+        },
+        {
+          "option": "22 बार"
+        }
+      ]
+    },
+    {
+      "question": "24 घंटे में घड़ी की सुइयां कितनी बार समकोण (90 अंश का कोण) बनाती हैं?",
+      "options": [
+        {
+          "option": "24 बार"
+        },
+        {
+          "option": "44 बार",
+          "is_answer": true
+        },
+        {
+          "option": "48 बार"
+        },
+        {
+          "option": "22 बार"
+        }
+      ]
+    },
+    {
+      "question": "4 और 5 बजे के बीच किस समय घड़ी की दोनों सुइयां आपस में मिलेंगी?",
+      "options": [
+        {
+          "option": "4 बजकर 21 9/11 मिनट",
+          "is_answer": true
+        },
+        {
+          "option": "4 बजकर 22 मिनट"
+        },
+        {
+          "option": "4 बजकर 21 मिनट"
+        },
+        {
+          "option": "4 बजकर 20 मिनट"
+        }
+      ]
+    },
+    {
+      "question": "7 और 8 बजे के बीच किस समय घड़ी की सुइयां एक-दूसरे के विपरीत दिशा में होंगी?",
+      "options": [
+        {
+          "option": "7 बजकर 5 5/11 मिनट",
+          "is_answer": true
+        },
+        {
+          "option": "7 बजकर 6 मिनट"
+        },
+        {
+          "option": "7 बजकर 7 5/11 मिनट"
+        },
+        {
+          "option": "7 बजकर 5 मिनट"
+        }
+      ]
+    },
+    {
+      "question": "3 और 4 बजे के बीच किस समय घड़ी की सुइयां समकोण बनाएंगी?",
+      "options": [
+        {
+          "option": "3 बजकर 30 मिनट"
+        },
+        {
+          "option": "3 बजकर 32 मिनट"
+        },
+        {
+          "option": "3 बजकर 33 मिनट"
+        },
+        {
+          "option": "3 बजकर 32 8/11 मिनट",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "12 घंटे में घड़ी की सुइयां कितनी बार मिलती हैं?",
+      "options": [
+        {
+          "option": "10 बार"
+        },
+        {
+          "option": "22 बार"
+        },
+        {
+          "option": "11 बार",
+          "is_answer": true
+        },
+        {
+          "option": "12 बार"
+        }
+      ]
+    },
+    {
+      "question": "12 घंटे में घड़ी की सुइयां कितनी बार समकोण बनाती हैं?",
+      "options": [
+        {
+          "option": "11 बार"
+        },
+        {
+          "option": "24 बार"
+        },
+        {
+          "option": "22 बार",
+          "is_answer": true
+        },
+        {
+          "option": "44 बार"
+        }
+      ]
+    },
+    {
+      "question": "2 और 3 बजे के बीच किस समय घड़ी की सुइयां आपस में मिलेंगी?",
+      "options": [
+        {
+          "option": "2 बजकर 10 10/11 मिनट",
+          "is_answer": true
+        },
+        {
+          "option": "2 बजकर 10 मिनट"
+        },
+        {
+          "option": "2 बजकर 9 9/11 मिनट"
+        },
+        {
+          "option": "2 बजकर 11 मिनट"
+        }
+      ]
+    },
+    {
+      "question": "5 और 6 बजे के बीच किस समय घड़ी की सुइयां विपरीत दिशा में होंगी?",
+      "options": [
+        {
+          "option": "5 बजकर 53 5/11 मिनट"
+        },
+        {
+          "option": "5 बजकर 54 6/11 मिनट",
+          "is_answer": true
+        },
+        {
+          "option": "5 बजकर 55 मिनट"
+        },
+        {
+          "option": "5 बजकर 54 मिनट"
+        }
+      ]
+    },
+    {
+      "question": "9 और 10 बजे के बीच का वह समय ज्ञात करें जब घड़ी की सुइयां समकोण बनाती हों।",
+      "options": [
+        {
+          "option": "9 बजकर 32 8/11 मिनट",
+          "is_answer": true
+        },
+        {
+          "option": "9 बजकर 30 मिनट"
+        },
+        {
+          "option": "9 बजकर 35 मिनट"
+        },
+        {
+          "option": "9 बजकर 33 मिनट"
+        }
+      ]
+    },
+    {
+      "question": "24 घंटे में घड़ी की सुइयां कितनी बार विपरीत दिशा में होती हैं?",
+      "options": [
+        {
+          "option": "24 बार"
+        },
+        {
+          "option": "11 बार"
+        },
+        {
+          "option": "44 बार"
+        },
+        {
+          "option": "22 बार",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "10 और 11 बजे के बीच किस समय घड़ी की सुइयां आपस में मिलेंगी?",
+      "options": [
+        {
+          "option": "10 बजकर 50 मिनट"
+        },
+        {
+          "option": "10 बजकर 55 मिनट"
+        },
+        {
+          "option": "10 बजकर 53 मिनट"
+        },
+        {
+          "option": "10 बजकर 54 6/11 मिनट",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "8 और 9 बजे के बीच किस समय घड़ी की सुइयां विपरीत दिशा में होंगी?",
+      "options": [
+        {
+          "option": "8 बजकर 10 10/11 मिनट",
+          "is_answer": true
+        },
+        {
+          "option": "8 बजकर 9 मिनट"
+        },
+        {
+          "option": "8 बजकर 12 मिनट"
+        },
+        {
+          "option": "8 बजकर 11 मिनट"
+        }
+      ]
+    },
+    {
+      "question": "1 और 2 बजे के बीच किस समय घड़ी की सुइयां समकोण बनाएंगी?",
+      "options": [
+        {
+          "option": "1 बजकर 21 9/11 मिनट",
+          "is_answer": true
+        },
+        {
+          "option": "1 बजकर 20 मिनट"
+        },
+        {
+          "option": "1 बजकर 21 मिनट"
+        },
+        {
+          "option": "1 बजकर 22 मिनट"
+        }
+      ]
+    },
+    {
+      "question": "एक सप्ताह में मिनट और घंटे की सुइयां कितनी बार आपस में मिलती हैं?",
+      "options": [
+        {
+          "option": "168 बार"
+        },
+        {
+          "option": "264 बार"
+        },
+        {
+          "option": "308 बार",
+          "is_answer": true
+        },
+        {
+          "option": "336 बार"
+        }
+      ]
+    },
+    {
+      "question": "6 और 7 बजे के बीच किस समय घड़ी की सुइयां आपस में मिलेंगी?",
+      "options": [
+        {
+          "option": "6 बजकर 35 मिनट"
+        },
+        {
+          "option": "6 बजकर 30 मिनट"
+        },
+        {
+          "option": "6 बजकर 33 मिनट"
+        },
+        {
+          "option": "6 बजकर 32 8/11 मिनट",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "11 और 12 बजे के बीच किस समय घड़ी की सुइयां विपरीत दिशा में होंगी?",
+      "options": [
+        {
+          "option": "11 बजकर 30 मिनट",
+          "is_answer": true
+        },
+        {
+          "option": "11 बजकर 29 मिनट"
+        },
+        {
+          "option": "11 बजकर 27 3/11 मिनट"
+        },
+        {
+          "option": "11 बजकर 32 8/11 मिनट"
+        }
+      ]
+    },
+    {
+      "question": "4 और 5 बजे के बीच किस समय घड़ी की सुइयां समकोण बनाएंगी?",
+      "options": [
+        {
+          "option": "4 बजकर 3 3/11 मिनट और 4 बजकर 36 6/11 मिनट"
+        },
+        {
+          "option": "4 बजकर 5 5/11 मिनट और 4 बजकर 38 2/11 मिनट",
+          "is_answer": true
+        },
+        {
+          "option": "4 बजकर 15 मिनट और 4 बजकर 45 मिनट"
+        },
+        {
+          "option": "4 बजकर 10 मिनट और 4 बजकर 40 मिनट"
+        }
+      ]
+    },
+    {
+      "question": "12 घंटे में घड़ी की दोनों सुइयां कितनी बार एक सीधी रेखा बनाती हैं?",
+      "options": [
+        {
+          "option": "24 बार"
+        },
+        {
+          "option": "22 बार"
+        },
+        {
+          "option": "11 बार",
+          "is_answer": true
+        },
+        {
+          "option": "12 बार"
+        }
+      ]
+    },
+    {
+      "question": "sin(30°) का मान क्या है?",
+      "options": [
+        {
+          "option": "1/2",
+          "is_answer": true
+        },
+        {
+          "option": "1/√3"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "√3/2"
+        }
+      ]
+    },
+    {
+      "question": "यदि tan(θ) = 1 है, तो θ का मान क्या है?",
+      "options": [
+        {
+          "option": "90°"
+        },
+        {
+          "option": "45°",
+          "is_answer": true
+        },
+        {
+          "option": "60°"
+        },
+        {
+          "option": "30°"
+        }
+      ]
+    },
+    {
+      "question": "cos(0°) का मान क्या है?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "√3/2"
+        }
+      ]
+    },
+    {
+      "question": "एक समकोण त्रिभुज में, sin(θ) को किस प्रकार परिभाषित किया जाता है?",
+      "options": [
+        {
+          "option": "लंब / कर्ण",
+          "is_answer": true
+        },
+        {
+          "option": "कर्ण / लंब"
+        },
+        {
+          "option": "आधार / कर्ण"
+        },
+        {
+          "option": "लंब / आधार"
+        }
+      ]
+    },
+    {
+      "question": "tan(60°) का मान क्या है?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "1/√3"
+        },
+        {
+          "option": "√3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि सूर्य का उन्नयन कोण 45° है, तो 10 मीटर ऊंचे खंभे की छाया की लंबाई कितनी होगी?",
+      "options": [
+        {
+          "option": "10 मी",
+          "is_answer": true
+        },
+        {
+          "option": "10√3 मी"
+        },
+        {
+          "option": "20 मी"
+        },
+        {
+          "option": "5 मी"
+        }
+      ]
+    },
+    {
+      "question": "cosec(30°) का मान क्या है?",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "√3/2"
+        },
+        {
+          "option": "2/√3"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "sec(45°) का मान क्या है?",
+      "options": [
+        {
+          "option": "2/√3"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "√2",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "यदि किसी मीनार के पाद से 50 मीटर दूर बिंदु से मीनार का उन्नयन कोण 60° है, तो मीनार की ऊँचाई है:",
+      "options": [
+        {
+          "option": "50√3 मी",
+          "is_answer": true
+        },
+        {
+          "option": "100 मी"
+        },
+        {
+          "option": "50/√3 मी"
+        },
+        {
+          "option": "25 मी"
+        }
+      ]
+    },
+    {
+      "question": "cot(90°) का मान क्या है?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "परिभाषित नहीं"
+        },
+        {
+          "option": "√3"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "ज़मीन से 100 मीटर ऊपर एक बिंदु से एक वस्तु का अवनमन कोण 30° है। बिंदु से वस्तु की क्षैतिज दूरी है:",
+      "options": [
+        {
+          "option": "100√3 मी",
+          "is_answer": true
+        },
+        {
+          "option": "200 मी"
+        },
+        {
+          "option": "100/√3 मी"
+        },
+        {
+          "option": "50 मी"
+        }
+      ]
+    },
+    {
+      "question": "sin²(θ) + cos²(θ) किसके बराबर है?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "θ पर निर्भर करता है"
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "यदि sin(θ) = cos(θ) है, तो न्यून कोण θ क्या है?",
+      "options": [
+        {
+          "option": "45°",
+          "is_answer": true
+        },
+        {
+          "option": "30°"
+        },
+        {
+          "option": "0°"
+        },
+        {
+          "option": "60°"
+        }
+      ]
+    },
+    {
+      "question": "tan(0°) का मान क्या है?",
+      "options": [
+        {
+          "option": "1/√3"
+        },
+        {
+          "option": "परिभाषित नहीं"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "यदि 10 मीटर लंबी सीढ़ी जमीन से 10 मीटर ऊंची खिड़की तक पहुँचती है, तो सीढ़ी द्वारा जमीन के साथ बनाया गया कोण है:",
+      "options": [
+        {
+          "option": "45°"
+        },
+        {
+          "option": "90°",
+          "is_answer": true
+        },
+        {
+          "option": "60°"
+        },
+        {
+          "option": "30°"
+        }
+      ]
+    },
+    {
+      "question": "1 + tan²(θ) किसके बराबर है?",
+      "options": [
+        {
+          "option": "cosec²(θ)"
+        },
+        {
+          "option": "sec²(θ)",
+          "is_answer": true
+        },
+        {
+          "option": "cot²(θ)"
+        },
+        {
+          "option": "sin²(θ)"
+        }
+      ]
+    },
+    {
+      "question": "झील से h मीटर ऊपर एक बिंदु से बादल का उन्नयन कोण θ है। झील से बादल की ऊँचाई है:",
+      "options": [
+        {
+          "option": "h / tan(θ)"
+        },
+        {
+          "option": "h * tan(θ)",
+          "is_answer": true
+        },
+        {
+          "option": "2h * tan(θ)"
+        },
+        {
+          "option": "h * cot(θ)"
+        }
+      ]
+    },
+    {
+      "question": "cos(90°) का मान क्या है?",
+      "options": [
+        {
+          "option": "परिभाषित नहीं"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "यदि एक ऊर्ध्वाधर खंभे की छाया की लंबाई उसकी ऊँचाई की √3 गुनी है, तो सूर्य का उन्नयन कोण है:",
+      "options": [
+        {
+          "option": "60°"
+        },
+        {
+          "option": "30°",
+          "is_answer": true
+        },
+        {
+          "option": "45°"
+        },
+        {
+          "option": "90°"
+        }
+      ]
+    },
+    {
+      "question": "sin(θ) का व्युत्क्रम क्या है?",
+      "options": [
+        {
+          "option": "cosec(θ)",
+          "is_answer": true
+        },
+        {
+          "option": "cos(θ)"
+        },
+        {
+          "option": "cot(θ)"
+        },
+        {
+          "option": "sec(θ)"
+        }
+      ]
+    },
+    {
+      "question": "उस छिन्नक (frustum) का आयतन ज्ञात कीजिए जिसकी ऊँचाई 12 सेमी और सिरों की त्रिज्याएँ 7 सेमी और 3 सेमी हैं। (pi = 22/7)",
+      "options": [
+        {
+          "option": "770 cm³"
+        },
+        {
+          "option": "920 cm³"
+        },
+        {
+          "option": "660 cm³"
+        },
+        {
+          "option": "880 cm³",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "10 सेमी तिर्यक ऊँचाई और 6 सेमी तथा 2 सेमी आधार त्रिज्या वाले एक शंकु के छिन्नक का वक्र पृष्ठीय क्षेत्रफल क्या है? (pi = 22/7)",
+      "options": [
+        {
+          "option": "220.00 cm²"
+        },
+        {
+          "option": "314.28 cm²"
+        },
+        {
+          "option": "251.43 cm²",
+          "is_answer": true
+        },
+        {
+          "option": "188.57 cm²"
+        }
+      ]
+    },
+    {
+      "question": "एक ठोस शंकु के छिन्नक के वृत्ताकार सिरों की त्रिज्याएँ 33 सेमी और 27 सेमी हैं, और इसकी तिर्यक ऊँचाई 10 सेमी है। इसका कुल पृष्ठीय क्षेत्रफल ज्ञात कीजिए। (pi = 22/7)",
+      "options": [
+        {
+          "option": "5940.00 cm²"
+        },
+        {
+          "option": "7542.86 cm²",
+          "is_answer": true
+        },
+        {
+          "option": "6820.00 cm²"
+        },
+        {
+          "option": "8140.50 cm²"
+        }
+      ]
+    },
+    {
+      "question": "यदि एक छिन्नक की ऊँचाई 4 सेमी है और वृत्ताकार सिरों की त्रिज्याएँ 4 सेमी और 1 सेमी हैं, तो इसकी तिर्यक ऊँचाई ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "3 cm"
+        },
+        {
+          "option": "4 cm"
+        },
+        {
+          "option": "7 cm"
+        },
+        {
+          "option": "5 cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक बाल्टी शंकु के छिन्नक के रूप में है। इसके ऊपर और नीचे के वृत्ताकार सिरों की त्रिज्याएँ क्रमशः 15 सेमी और 5 सेमी हैं। यदि गहराई 24 सेमी है, तो लीटर में बाल्टी की क्षमता ज्ञात कीजिए। (pi = 22/7)",
+      "options": [
+        {
+          "option": "9.2 litres"
+        },
+        {
+          "option": "7.5 litres"
+        },
+        {
+          "option": "8.8 litres",
+          "is_answer": true
+        },
+        {
+          "option": "6.4 litres"
+        }
+      ]
+    },
+    {
+      "question": "एक शंकु के छिन्नक की तिर्यक ऊँचाई 5 सेमी है और इसके वृत्ताकार सिरों की परिधि 18 सेमी और 6 सेमी है। वक्र पृष्ठीय क्षेत्रफल ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "30 cm²"
+        },
+        {
+          "option": "120 cm²"
+        },
+        {
+          "option": "60 cm²",
+          "is_answer": true
+        },
+        {
+          "option": "90 cm²"
+        }
+      ]
+    },
+    {
+      "question": "एक छिन्नक के ऊपर और नीचे के सिरों की त्रिज्याएँ 14 सेमी और 7 सेमी हैं, और इसकी ऊँचाई 6 सेमी है। इसका आयतन क्या है? (pi = 22/7)",
+      "options": [
+        {
+          "option": "1980 cm³"
+        },
+        {
+          "option": "1760 cm³"
+        },
+        {
+          "option": "2288 cm³",
+          "is_answer": true
+        },
+        {
+          "option": "2450 cm³"
+        }
+      ]
+    },
+    {
+      "question": "यदि एक छिन्नक की तिर्यक ऊँचाई 'l' सूत्र sqrt(h^2 + (R - r)^2) द्वारा दी जाती है, तो h = 8 सेमी, R = 12 सेमी, और r = 3 सेमी होने पर तिर्यक ऊँचाई क्या होगी?",
+      "options": [
+        {
+          "option": "17 cm",
+          "is_answer": true
+        },
+        {
+          "option": "10 cm"
+        },
+        {
+          "option": "13 cm"
+        },
+        {
+          "option": "15 cm"
+        }
+      ]
+    },
+    {
+      "question": "एक लंब वृत्तीय शंकु के छिन्नक की आधार त्रिज्या 8 सेमी, शीर्ष त्रिज्या 4 सेमी और ऊँचाई 3 सेमी है। इसका आयतन ज्ञात कीजिए। (pi = 3.14)",
+      "options": [
+        {
+          "option": "402.12 cm³"
+        },
+        {
+          "option": "251.20 cm³"
+        },
+        {
+          "option": "351.68 cm³",
+          "is_answer": true
+        },
+        {
+          "option": "301.44 cm³"
+        }
+      ]
+    },
+    {
+      "question": "ऊपरी त्रिज्या 5 सेमी, निचली त्रिज्या 10 सेमी और तिर्यक ऊँचाई 14 सेमी वाले छिन्नक का वक्र पृष्ठीय क्षेत्रफल ज्ञात कीजिए। (pi = 22/7)",
+      "options": [
+        {
+          "option": "440 cm²"
+        },
+        {
+          "option": "550 cm²"
+        },
+        {
+          "option": "770 cm²"
+        },
+        {
+          "option": "660 cm²",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि किसी शंकु को उसके आधार के समांतर एक तल द्वारा काटा जाता है, तो शेष निचले हिस्से को क्या कहा जाता है?",
+      "options": [
+        {
+          "option": "गोला"
+        },
+        {
+          "option": "बेलन"
+        },
+        {
+          "option": "शंकु का खंड"
+        },
+        {
+          "option": "शंकु का छिन्नक",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "4 सेमी ऊँचाई वाले छिन्नक के सिरों की त्रिज्याएँ 3 सेमी और 6 सेमी हैं। छिन्नक का कुल पृष्ठीय क्षेत्रफल ज्ञात कीजिए। (pi = 3.14)",
+      "options": [
+        {
+          "option": "210.50 cm²"
+        },
+        {
+          "option": "298.20 cm²"
+        },
+        {
+          "option": "254.34 cm²",
+          "is_answer": true
+        },
+        {
+          "option": "180.00 cm²"
+        }
+      ]
+    },
+    {
+      "question": "एक छिन्नक का आयतन 3050 सेमी³ है। यदि ऊँचाई 15 सेमी और निचली त्रिज्या 10 सेमी है, तो ऊपरी त्रिज्या क्या है? (pi = 22/7)",
+      "options": [
+        {
+          "option": "4 cm"
+        },
+        {
+          "option": "5 cm",
+          "is_answer": true
+        },
+        {
+          "option": "3 cm"
+        },
+        {
+          "option": "7 cm"
+        }
+      ]
+    },
+    {
+      "question": "यदि किसी छिन्नक की त्रिज्याएँ और ऊँचाई दोनों को दोगुना कर दिया जाए, तो उसके आयतन का क्या होता है?",
+      "options": [
+        {
+          "option": "यह 8 गुना हो जाता है",
+          "is_answer": true
+        },
+        {
+          "option": "यह समान रहता है"
+        },
+        {
+          "option": "यह 4 गुना हो जाता है"
+        },
+        {
+          "option": "यह 2 गुना हो जाता है"
+        }
+      ]
+    },
+    {
+      "question": "एक शंकु के छिन्नक का वक्र पृष्ठीय क्षेत्रफल 1100 सेमी² है। यदि इसके वृत्ताकार सिरों की त्रिज्याओं का योग 35 सेमी है, तो इसकी तिर्यक ऊँचाई ज्ञात कीजिए। (pi = 22/7)",
+      "options": [
+        {
+          "option": "7 cm"
+        },
+        {
+          "option": "10 cm",
+          "is_answer": true
+        },
+        {
+          "option": "21 cm"
+        },
+        {
+          "option": "14 cm"
+        }
+      ]
+    },
+    {
+      "question": "उस छिन्नक का आयतन ज्ञात कीजिए जिसकी ऊपरी त्रिज्या 2 सेमी, निचली त्रिज्या 4 सेमी और ऊँचाई 9 सेमी है। (pi = 22/7)",
+      "options": [
+        {
+          "option": "220 cm³"
+        },
+        {
+          "option": "198 cm³"
+        },
+        {
+          "option": "308 cm³"
+        },
+        {
+          "option": "264 cm³",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "पीने का एक गिलास 14 सेमी ऊँचाई वाले शंकु के छिन्नक के आकार का है। इसके वृत्ताकार सिरों के व्यास 4 सेमी और 2 सेमी हैं। गिलास की क्षमता ज्ञात कीजिए। (pi = 22/7)",
+      "options": [
+        {
+          "option": "88.00 cm³"
+        },
+        {
+          "option": "95.33 cm³"
+        },
+        {
+          "option": "102.67 cm³",
+          "is_answer": true
+        },
+        {
+          "option": "124.50 cm³"
+        }
+      ]
+    },
+    {
+      "question": "यदि एक छिन्नक की तिर्यक ऊँचाई 5 सेमी और त्रिज्याएँ 3 सेमी और 6 सेमी हैं, तो आधार और शीर्ष का कुल क्षेत्रफल कितना होगा?",
+      "options": [
+        {
+          "option": "36 pi cm²"
+        },
+        {
+          "option": "54 pi cm²"
+        },
+        {
+          "option": "18 pi cm²"
+        },
+        {
+          "option": "45 pi cm²",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक छिन्नक की तिर्यक ऊँचाई 13 सेमी है और इसके वृत्ताकार सिरों की त्रिज्याओं का अंतर 5 सेमी है। छिन्नक की ऊँचाई ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "12 cm",
+          "is_answer": true
+        },
+        {
+          "option": "10 cm"
+        },
+        {
+          "option": "8 cm"
+        },
+        {
+          "option": "14 cm"
+        }
+      ]
+    },
+    {
+      "question": "धातु की चादर से बनी एक बाल्टी 28 सेमी ऊँचाई वाले शंकु के छिन्नक के रूप में है, जिसके निचले और ऊपरी सिरों की त्रिज्याएँ क्रमशः 15 सेमी और 30 सेमी हैं। वक्र पृष्ठ के लिए रु. 5 प्रति 100 सेमी² की दर से प्रयुक्त धातु की चादर की लागत ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "Rs. 330",
+          "is_answer": true
+        },
+        {
+          "option": "Rs. 290"
+        },
+        {
+          "option": "Rs. 250"
+        },
+        {
+          "option": "Rs. 410"
+        }
+      ]
+    },
+    {
+      "question": "एक बेलनाकार टैंक की त्रिज्या 7m और ऊंचाई 10m है। प्रारंभ में यह आधा पानी से भरा है। यदि 1m, 1/2m, 1/4m, ... त्रिज्या वाले गोलों की गुणोत्तर શ્રેણી (GP) इसमें डाली जाए, तो टैंक के ऊपर तक भरने के लिए कुल कितने गोले समाहित हो सकते हैं?",
+      "options": [
+        {
+          "option": "539 गोले"
+        },
+        {
+          "option": "269 गोले"
+        },
+        {
+          "option": "1078 गोले"
+        },
+        {
+          "option": "अनंत गोलों का योग अपर्याप्त है",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक समकोण त्रिभुज की भुजाओं की लंबाई एक समांतर श्रेढ़ी (AP) बनाती है। यदि परिधि 24 सेमी है, तो त्रिभुज का क्षेत्रफल क्या है?",
+      "options": [
+        {
+          "option": "48 वर्ग सेमी"
+        },
+        {
+          "option": "24 वर्ग सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "30 वर्ग सेमी"
+        },
+        {
+          "option": "18 वर्ग सेमी"
+        }
+      ]
+    },
+    {
+      "question": "एक शंकारु तंबू की आधार त्रिज्या 7m और ऊंचाई 24m है। कैनवास की कीमत 10 रुपये प्रति वर्ग मीटर है। यदि लागत हर साल 1.1 के सामान्य अनुपात के साथ गुणोत्तर श्रेढ़ी में बढ़ती है, तो वर्ष 3 में लागत क्या है?",
+      "options": [
+        {
+          "option": "5500 रुपये"
+        },
+        {
+          "option": "6655 रुपये",
+          "is_answer": true
+        },
+        {
+          "option": "7320 रुपये"
+        },
+        {
+          "option": "6050 रुपये"
+        }
+      ]
+    },
+    {
+      "question": "उस अनंत श्रेणी का योग ज्ञात कीजिए जिसके पद वर्गों के क्षेत्रफल हैं, जहाँ पहले वर्ग की भुजा 2 है, और प्रत्येक बाद वाले वर्ग की भुजा पिछले वर्ग की आधी है।",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "32/3"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "16/3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक आयताकार बगीचे के आयाम (लंबाई, चौड़ाई और ऊंचाई) एक समांतर श्रेढ़ी बनाते हैं। यदि आयामों का योग 30m और आयतन 1000 घन मीटर है, तो आयाम ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "6m, 10m, 14m"
+        },
+        {
+          "option": "8m, 10m, 12m"
+        },
+        {
+          "option": "5m, 10m, 15m",
+          "is_answer": true
+        },
+        {
+          "option": "4m, 10m, 16m"
+        }
+      ]
+    },
+    {
+      "question": "तीन संकेंद्रित वृत्तों की त्रिज्याएँ एक AP बनाती हैं। क्रमिक वृत्तों की त्रिज्याओं का अंतर 3 सेमी है। यदि मध्य वृत्त का क्षेत्रफल 154 वर्ग सेमी है, तो बाहरी वृत्त की त्रिज्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "13 सेमी"
+        },
+        {
+          "option": "4 सेमी"
+        },
+        {
+          "option": "10 सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "7 सेमी"
+        }
+      ]
+    },
+    {
+      "question": "एक तार को एक आयत के रूप में मोड़ा जाता है जिसकी भुजाएँ 2 के सार्व अंतर के साथ AP में हैं और परिधि 40 है। यदि उसी तार को सीधा करके एक वृत्त बनाया जाए, तो वृत्त का क्षेत्रफल क्या है?",
+      "options": [
+        {
+          "option": "154 वर्ग सेमी"
+        },
+        {
+          "option": "616 वर्ग सेमी"
+        },
+        {
+          "option": "88 वर्ग सेमी"
+        },
+        {
+          "option": "125.71 वर्ग सेमी",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक चतुर्भुज के कोण समांतर श्रेढ़ी में हैं। यदि सबसे बड़ा कोण सबसे छोटे कोण का दोगुना है, तो सभी कोण ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "60°, 80°, 100°, 120°",
+          "is_answer": true
+        },
+        {
+          "option": "45°, 75°, 105°, 135°"
+        },
+        {
+          "option": "40°, 80°, 100°, 140°"
+        },
+        {
+          "option": "50°, 70°, 90°, 110°"
+        }
+      ]
+    },
+    {
+      "question": "6 सेमी त्रिज्या और 8 सेमी ऊंचाई वाले शंकु के अंदर एक गोला उत्कीर्ण है। गोले का आयतन कितना है?",
+      "options": [
+        {
+          "option": "904.78 घन सेमी"
+        },
+        {
+          "option": "113.14 घन सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "150.72 घन सेमी"
+        },
+        {
+          "option": "268.08 घन सेमी"
+        }
+      ]
+    },
+    {
+      "question": "लगातार 3 वर्षों के लिए एक शहर की आबादी एक गुणोत्तर श्रेढ़ी बनाती है। यदि आबादी का गुणनफल 27,000,000 है और मध्य वर्ष की आबादी 3000 है, तो सार्व अनुपात क्या है?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "3 या 1/3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "44 सेमी × 11 सेमी आयाम वाली एक आयताकार धात्विक शीट को उसकी छोटी भुजा के साथ मोड़कर एक बेलन बनाया जाता है। बेलन का आयतन कितना है?",
+      "options": [
+        {
+          "option": "338.8 घन सेमी"
+        },
+        {
+          "option": "677.6 घन सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "1355.2 घन सेमी"
+        },
+        {
+          "option": "169.4 घन सेमी"
+        }
+      ]
+    },
+    {
+      "question": "एक समकोण त्रिभुज की तीन भुजाओं की लंबाई लगातार सम पूर्णांक हैं। कर्ण ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "6 सेमी त्रिज्या वाले एक ठोस धात्विक गोले को पिघलाकर छोटे शंकुओं के सेट बनाए जाते हैं जिनकी त्रिज्याएँ 1, 2, 3 सेमी और ऊँचाइयाँ क्रमशः 3, 2, 1 सेमी हैं। ऐसे शंकुओं के कितने सेट बनाए जा सकते हैं?",
+      "options": [
+        {
+          "option": "12 सेट"
+        },
+        {
+          "option": "4 सेट"
+        },
+        {
+          "option": "8 सेट",
+          "is_answer": true
+        },
+        {
+          "option": "16 सेट"
+        }
+      ]
+    },
+    {
+      "question": "श्रेणी का योग ज्ञात कीजिए: 1 + 2/3 + 4/9 + 8/27 + ... अनंत तक।",
+      "options": [
+        {
+          "option": "1.5"
+        },
+        {
+          "option": "अनंत"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक त्रिभुज की परिधि 30 सेमी है और इसकी भुजाएँ समांतर श्रेढ़ी में हैं। यदि सबसे लंबी भुजा 13 सेमी है, तो त्रिभुज का क्षेत्रफल ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "60 वर्ग सेमी"
+        },
+        {
+          "option": "30 वर्ग सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "35 वर्ग सेमी"
+        },
+        {
+          "option": "45 वर्ग सेमी"
+        }
+      ]
+    },
+    {
+      "question": "एक खोखले बेलनाकार पाइप की आंतरिक त्रिज्या 3 सेमी, बाहरी त्रिज्या 5 सेमी और लंबाई 14 सेमी है। यदि इसे पिघलाकर एक ठोस घन बनाया जाता है, तो घन की भुजा की लंबाई क्या है?",
+      "options": [
+        {
+          "option": "5 सेमी"
+        },
+        {
+          "option": "8 सेमी"
+        },
+        {
+          "option": "7 सेमी"
+        },
+        {
+          "option": "6 सेमी",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक गेंद 100 मीटर की ऊंचाई से गिराई जाती है। हर बार जब यह उछलती है, तो यह अपनी पिछली ऊंचाई के 3/4 भाग तक वापस आती है। रुकने से पहले गेंद द्वारा तय की गई कुल ऊर्ध्वाधर दूरी क्या है?",
+      "options": [
+        {
+          "option": "500 मीटर"
+        },
+        {
+          "option": "400 मीटर"
+        },
+        {
+          "option": "700 मीटर",
+          "is_answer": true
+        },
+        {
+          "option": "300 मीटर"
+        }
+      ]
+    },
+    {
+      "question": "एक त्रिभुज के शीर्षों के निर्देशांक (0,0), (6,0) और (0,8) हैं। इस त्रिभुज के अंदर एक वृत्त उत्कीर्ण है। अंतःवृत्त की त्रिज्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि द्विघात समीकरण $x^2 - px + q = 0$ के मूल एक गुणोत्तर श्रेढ़ी अनुपात 'r' में हैं, तो p, q और r के बीच कौन सा संबंध सत्य है?",
+      "options": [
+        {
+          "option": "$pq = r^2$"
+        },
+        {
+          "option": "$p = q(r+1)$"
+        },
+        {
+          "option": "$p^2 = q^2 r$"
+        },
+        {
+          "option": "$p^2 q = q(r+1)^2$",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "5 सेमी त्रिज्या और 12 सेमी ऊंचाई वाला शंकारु फ्लास्क पानी से पूरी तरह भरा है। इस पानी को 10 सेमी त्रिज्या वाले बेलनाकार पात्र में डाला जाता है। बेलन में पानी किस ऊंचाई तक उठेगा?",
+      "options": [
+        {
+          "option": "2 सेमी"
+        },
+        {
+          "option": "3 सेमी"
+        },
+        {
+          "option": "1 सेमी",
+          "is_answer": true
+        },
+        {
+          "option": "4 सेमी"
+        }
+      ]
+    }
+  ]
+}

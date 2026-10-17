@@ -1,0 +1,9005 @@
+{
+  "total_questions": 500,
+  "questions": [
+    {
+      "question": "At what moment is a player's offside position judged?",
+      "options": [
+        {
+          "option": "When the referee blows the whistle"
+        },
+        {
+          "option": "When the player receives the ball"
+        },
+        {
+          "option": "When the ball crosses the goal line"
+        },
+        {
+          "option": "When the ball is played by a teammate",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Who is the second-last opponent usually considered to be?",
+      "options": [
+        {
+          "option": "The referee"
+        },
+        {
+          "option": "The two central defenders"
+        },
+        {
+          "option": "The goalkeeper and one defender",
+          "is_answer": true
+        },
+        {
+          "option": "The goalkeeper only"
+        }
+      ]
+    },
+    {
+      "question": "Is being in an offside position an offense in itself?",
+      "options": [
+        {
+          "option": "Yes, it is always an offense"
+        },
+        {
+          "option": "Only if the player touches the ball"
+        },
+        {
+          "option": "Only in the attacking half"
+        },
+        {
+          "option": "No, it is not an offense",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is NOT a condition for an offside offense?",
+      "options": [
+        {
+          "option": "Interfering with play"
+        },
+        {
+          "option": "Interfering with an opponent"
+        },
+        {
+          "option": "Being in the own half",
+          "is_answer": true
+        },
+        {
+          "option": "Gaining an advantage"
+        }
+      ]
+    },
+    {
+      "question": "Can a player be offside if they are in their own half of the field?",
+      "options": [
+        {
+          "option": "Yes"
+        },
+        {
+          "option": "Only if the goalkeeper is out"
+        },
+        {
+          "option": "Only during a corner kick"
+        },
+        {
+          "option": "No",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What happens if a player gains an advantage by being in an offside position after the ball rebounds off the goalpost?",
+      "options": [
+        {
+          "option": "Play continues"
+        },
+        {
+          "option": "A free kick is given to the attacking team"
+        },
+        {
+          "option": "A goal is awarded"
+        },
+        {
+          "option": "An offside offense is called",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Is a player offside if they are level with the second-last opponent?",
+      "options": [
+        {
+          "option": "Only if they are moving"
+        },
+        {
+          "option": "Yes"
+        },
+        {
+          "option": "No",
+          "is_answer": true
+        },
+        {
+          "option": "Only if they are stationary"
+        }
+      ]
+    },
+    {
+      "question": "Which body parts are used to judge an offside position?",
+      "options": [
+        {
+          "option": "Only the feet"
+        },
+        {
+          "option": "Only the torso"
+        },
+        {
+          "option": "Any part of the head, body, or feet",
+          "is_answer": true
+        },
+        {
+          "option": "Only the head"
+        }
+      ]
+    },
+    {
+      "question": "Does a player commit an offside offense if they receive the ball directly from a goal kick?",
+      "options": [
+        {
+          "option": "No",
+          "is_answer": true
+        },
+        {
+          "option": "Only if they are in the opponent's half"
+        },
+        {
+          "option": "Yes"
+        },
+        {
+          "option": "Only if they are behind the last defender"
+        }
+      ]
+    },
+    {
+      "question": "Can a player be offside from a throw-in?",
+      "options": [
+        {
+          "option": "Only if the throw is long"
+        },
+        {
+          "option": "Only if the throw is short"
+        },
+        {
+          "option": "No",
+          "is_answer": true
+        },
+        {
+          "option": "Yes"
+        }
+      ]
+    },
+    {
+      "question": "What is the penalty for an offside offense?",
+      "options": [
+        {
+          "option": "A penalty kick"
+        },
+        {
+          "option": "A direct free kick"
+        },
+        {
+          "option": "A throw-in"
+        },
+        {
+          "option": "An indirect free kick",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Is a player offside if they are in an offside position but the ball is played by an opponent?",
+      "options": [
+        {
+          "option": "Only if they are in the penalty area"
+        },
+        {
+          "option": "Only if they touch the ball"
+        },
+        {
+          "option": "Yes, always"
+        },
+        {
+          "option": "No, unless it is a deliberate save",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Does the goalkeeper count as an opponent for the offside rule?",
+      "options": [
+        {
+          "option": "Only if they are inside the goal"
+        },
+        {
+          "option": "No"
+        },
+        {
+          "option": "Yes",
+          "is_answer": true
+        },
+        {
+          "option": "Only if they are outside the box"
+        }
+      ]
+    },
+    {
+      "question": "Can a player be offside from a corner kick?",
+      "options": [
+        {
+          "option": "Only if the ball touches another player"
+        },
+        {
+          "option": "Only if the ball is kicked high"
+        },
+        {
+          "option": "Yes"
+        },
+        {
+          "option": "No",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What does 'interfering with an opponent' mean in the context of offside?",
+      "options": [
+        {
+          "option": "Preventing an opponent from playing the ball",
+          "is_answer": true
+        },
+        {
+          "option": "Running towards the ball"
+        },
+        {
+          "option": "Shouting at the opponent"
+        },
+        {
+          "option": "Standing near the referee"
+        }
+      ]
+    },
+    {
+      "question": "If a player is in an offside position but does not touch the ball or interfere with an opponent, is it an offense?",
+      "options": [
+        {
+          "option": "Only if the referee decides"
+        },
+        {
+          "option": "No",
+          "is_answer": true
+        },
+        {
+          "option": "Only if they are in the penalty box"
+        },
+        {
+          "option": "Yes"
+        }
+      ]
+    },
+    {
+      "question": "At what point is the offside position determined?",
+      "options": [
+        {
+          "option": "When the ball is kicked by the goalkeeper"
+        },
+        {
+          "option": "When the ball enters the net"
+        },
+        {
+          "option": "When the player starts running"
+        },
+        {
+          "option": "When the ball is touched by a teammate",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Can a player be offside from a goal kick?",
+      "options": [
+        {
+          "option": "Yes"
+        },
+        {
+          "option": "Only if the ball is on the ground"
+        },
+        {
+          "option": "No",
+          "is_answer": true
+        },
+        {
+          "option": "Only if the ball is in the air"
+        }
+      ]
+    },
+    {
+      "question": "What is the primary purpose of the offside rule?",
+      "options": [
+        {
+          "option": "To reduce the number of goals"
+        },
+        {
+          "option": "To help the goalkeeper"
+        },
+        {
+          "option": "To make the game faster"
+        },
+        {
+          "option": "To prevent 'cherry-picking' near the goal",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If a player is in an offside position, can they be penalized if they receive the ball from an opponent's deliberate play?",
+      "options": [
+        {
+          "option": "No",
+          "is_answer": true
+        },
+        {
+          "option": "Yes"
+        },
+        {
+          "option": "Only if they are in the penalty area"
+        },
+        {
+          "option": "Only if the referee is sure"
+        }
+      ]
+    },
+    {
+      "question": "What is the official width of a standard football goal?",
+      "options": [
+        {
+          "option": "7.32 meters",
+          "is_answer": true
+        },
+        {
+          "option": "8.00 meters"
+        },
+        {
+          "option": "7.50 meters"
+        },
+        {
+          "option": "6.50 meters"
+        }
+      ]
+    },
+    {
+      "question": "What is the official height of a standard football goal?",
+      "options": [
+        {
+          "option": "2.44 meters",
+          "is_answer": true
+        },
+        {
+          "option": "3.00 meters"
+        },
+        {
+          "option": "2.75 meters"
+        },
+        {
+          "option": "2.10 meters"
+        }
+      ]
+    },
+    {
+      "question": "What is the required circumference of a standard Size 5 football?",
+      "options": [
+        {
+          "option": "65-67 cm"
+        },
+        {
+          "option": "62-64 cm"
+        },
+        {
+          "option": "70-72 cm"
+        },
+        {
+          "option": "68-70 cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the weight range of a standard Size 5 football?",
+      "options": [
+        {
+          "option": "450-500 grams"
+        },
+        {
+          "option": "400-440 grams"
+        },
+        {
+          "option": "410-450 grams",
+          "is_answer": true
+        },
+        {
+          "option": "380-420 grams"
+        }
+      ]
+    },
+    {
+      "question": "What is the recommended air pressure for a football?",
+      "options": [
+        {
+          "option": "1.2-1.5 atmospheres"
+        },
+        {
+          "option": "0.6-1.1 atmospheres",
+          "is_answer": true
+        },
+        {
+          "option": "0.4-0.8 atmospheres"
+        },
+        {
+          "option": "0.5-0.9 atmospheres"
+        }
+      ]
+    },
+    {
+      "question": "What is the width of a football goal in yards?",
+      "options": [
+        {
+          "option": "7 yards"
+        },
+        {
+          "option": "10 yards"
+        },
+        {
+          "option": "8 yards",
+          "is_answer": true
+        },
+        {
+          "option": "9 yards"
+        }
+      ]
+    },
+    {
+      "question": "What is the height of a football goal in feet?",
+      "options": [
+        {
+          "option": "10 feet"
+        },
+        {
+          "option": "9 feet"
+        },
+        {
+          "option": "7 feet"
+        },
+        {
+          "option": "8 feet",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What material is typically used for the outer panels of a football?",
+      "options": [
+        {
+          "option": "Natural rubber"
+        },
+        {
+          "option": "Canvas"
+        },
+        {
+          "option": "Synthetic leather",
+          "is_answer": true
+        },
+        {
+          "option": "Cotton fabric"
+        }
+      ]
+    },
+    {
+      "question": "What shape are the panels typically found on a classic football?",
+      "options": [
+        {
+          "option": "Circular"
+        },
+        {
+          "option": "Square"
+        },
+        {
+          "option": "Hexagonal",
+          "is_answer": true
+        },
+        {
+          "option": "Triangular"
+        }
+      ]
+    },
+    {
+      "question": "Which size of football is considered the standard for professional matches?",
+      "options": [
+        {
+          "option": "Size 5",
+          "is_answer": true
+        },
+        {
+          "option": "Size 4"
+        },
+        {
+          "option": "Size 3"
+        },
+        {
+          "option": "Size 2"
+        }
+      ]
+    },
+    {
+      "question": "What is the minimum weight of a standard Size 5 football?",
+      "options": [
+        {
+          "option": "420 grams"
+        },
+        {
+          "option": "410 grams",
+          "is_answer": true
+        },
+        {
+          "option": "390 grams"
+        },
+        {
+          "option": "400 grams"
+        }
+      ]
+    },
+    {
+      "question": "What is the maximum weight of a standard Size 5 football?",
+      "options": [
+        {
+          "option": "450 grams",
+          "is_answer": true
+        },
+        {
+          "option": "440 grams"
+        },
+        {
+          "option": "470 grams"
+        },
+        {
+          "option": "460 grams"
+        }
+      ]
+    },
+    {
+      "question": "What is the minimum air pressure required for a match football?",
+      "options": [
+        {
+          "option": "0.6 atmospheres",
+          "is_answer": true
+        },
+        {
+          "option": "0.5 atmospheres"
+        },
+        {
+          "option": "0.7 atmospheres"
+        },
+        {
+          "option": "0.8 atmospheres"
+        }
+      ]
+    },
+    {
+      "question": "What is the maximum air pressure allowed for a match football?",
+      "options": [
+        {
+          "option": "1.2 atmospheres"
+        },
+        {
+          "option": "0.9 atmospheres"
+        },
+        {
+          "option": "1.1 atmospheres",
+          "is_answer": true
+        },
+        {
+          "option": "1.0 atmospheres"
+        }
+      ]
+    },
+    {
+      "question": "The goal dimensions are consistent across which level of football?",
+      "options": [
+        {
+          "option": "Youth U-8"
+        },
+        {
+          "option": "Youth U-10"
+        },
+        {
+          "option": "Professional/Adult",
+          "is_answer": true
+        },
+        {
+          "option": "Indoor mini-soccer"
+        }
+      ]
+    },
+    {
+      "question": "What is the minimum circumference of a Size 5 football?",
+      "options": [
+        {
+          "option": "67 cm"
+        },
+        {
+          "option": "69 cm"
+        },
+        {
+          "option": "70 cm"
+        },
+        {
+          "option": "68 cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the maximum circumference of a Size 5 football?",
+      "options": [
+        {
+          "option": "71 cm"
+        },
+        {
+          "option": "70 cm",
+          "is_answer": true
+        },
+        {
+          "option": "72 cm"
+        },
+        {
+          "option": "69 cm"
+        }
+      ]
+    },
+    {
+      "question": "Which unit of measurement is used for football air pressure?",
+      "options": [
+        {
+          "option": "Atmospheres",
+          "is_answer": true
+        },
+        {
+          "option": "Newtons"
+        },
+        {
+          "option": "Kilograms"
+        },
+        {
+          "option": "Celsius"
+        }
+      ]
+    },
+    {
+      "question": "What is the primary color often associated with standard footballs?",
+      "options": [
+        {
+          "option": "Red"
+        },
+        {
+          "option": "White",
+          "is_answer": true
+        },
+        {
+          "option": "Yellow"
+        },
+        {
+          "option": "Blue"
+        }
+      ]
+    },
+    {
+      "question": "What is the goal width in meters?",
+      "options": [
+        {
+          "option": "7.52 m"
+        },
+        {
+          "option": "7.42 m"
+        },
+        {
+          "option": "7.22 m"
+        },
+        {
+          "option": "7.32 m",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the standard length range for a professional football pitch?",
+      "options": [
+        {
+          "option": "95-105m"
+        },
+        {
+          "option": "90-100m"
+        },
+        {
+          "option": "100-110m",
+          "is_answer": true
+        },
+        {
+          "option": "110-120m"
+        }
+      ]
+    },
+    {
+      "question": "What is the standard width range for a professional football pitch?",
+      "options": [
+        {
+          "option": "75-85m"
+        },
+        {
+          "option": "50-60m"
+        },
+        {
+          "option": "64-75m",
+          "is_answer": true
+        },
+        {
+          "option": "60-70m"
+        }
+      ]
+    },
+    {
+      "question": "What is the distance from the goal line to the edge of the penalty box (18-yard box)?",
+      "options": [
+        {
+          "option": "20m"
+        },
+        {
+          "option": "11m"
+        },
+        {
+          "option": "5.5m"
+        },
+        {
+          "option": "16.5m",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the distance from the goal line to the edge of the goal area (6-yard box)?",
+      "options": [
+        {
+          "option": "9.15m"
+        },
+        {
+          "option": "5.5m",
+          "is_answer": true
+        },
+        {
+          "option": "11m"
+        },
+        {
+          "option": "16.5m"
+        }
+      ]
+    },
+    {
+      "question": "What is the distance from the goal line to the penalty spot?",
+      "options": [
+        {
+          "option": "16.5m"
+        },
+        {
+          "option": "11m",
+          "is_answer": true
+        },
+        {
+          "option": "10m"
+        },
+        {
+          "option": "5.5m"
+        }
+      ]
+    },
+    {
+      "question": "What is the radius of the center circle on a football pitch?",
+      "options": [
+        {
+          "option": "5.5m"
+        },
+        {
+          "option": "9.15m",
+          "is_answer": true
+        },
+        {
+          "option": "16.5m"
+        },
+        {
+          "option": "11m"
+        }
+      ]
+    },
+    {
+      "question": "What is the radius of the corner arc in a football pitch?",
+      "options": [
+        {
+          "option": "2m"
+        },
+        {
+          "option": "0.5m"
+        },
+        {
+          "option": "1.5m"
+        },
+        {
+          "option": "1m",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The penalty spot is located at what distance in yards?",
+      "options": [
+        {
+          "option": "10 yards"
+        },
+        {
+          "option": "18 yards"
+        },
+        {
+          "option": "12 yards",
+          "is_answer": true
+        },
+        {
+          "option": "6 yards"
+        }
+      ]
+    },
+    {
+      "question": "The center circle radius is equivalent to how many yards?",
+      "options": [
+        {
+          "option": "11 yards"
+        },
+        {
+          "option": "10 yards",
+          "is_answer": true
+        },
+        {
+          "option": "12 yards"
+        },
+        {
+          "option": "9 yards"
+        }
+      ]
+    },
+    {
+      "question": "Which area is commonly referred to as the 18-yard box?",
+      "options": [
+        {
+          "option": "Goal area"
+        },
+        {
+          "option": "Center circle"
+        },
+        {
+          "option": "Corner arc"
+        },
+        {
+          "option": "Penalty area",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which area is commonly referred to as the 6-yard box?",
+      "options": [
+        {
+          "option": "Touchline"
+        },
+        {
+          "option": "Penalty area"
+        },
+        {
+          "option": "Center circle"
+        },
+        {
+          "option": "Goal area",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the minimum length of a professional football pitch?",
+      "options": [
+        {
+          "option": "90m"
+        },
+        {
+          "option": "110m"
+        },
+        {
+          "option": "105m"
+        },
+        {
+          "option": "100m",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the maximum length of a professional football pitch?",
+      "options": [
+        {
+          "option": "110m",
+          "is_answer": true
+        },
+        {
+          "option": "120m"
+        },
+        {
+          "option": "115m"
+        },
+        {
+          "option": "100m"
+        }
+      ]
+    },
+    {
+      "question": "What is the minimum width of a professional football pitch?",
+      "options": [
+        {
+          "option": "64m",
+          "is_answer": true
+        },
+        {
+          "option": "70m"
+        },
+        {
+          "option": "55m"
+        },
+        {
+          "option": "60m"
+        }
+      ]
+    },
+    {
+      "question": "What is the maximum width of a professional football pitch?",
+      "options": [
+        {
+          "option": "65m"
+        },
+        {
+          "option": "75m",
+          "is_answer": true
+        },
+        {
+          "option": "80m"
+        },
+        {
+          "option": "70m"
+        }
+      ]
+    },
+    {
+      "question": "The penalty spot is located inside which area?",
+      "options": [
+        {
+          "option": "Penalty box",
+          "is_answer": true
+        },
+        {
+          "option": "Corner arc"
+        },
+        {
+          "option": "Goal area"
+        },
+        {
+          "option": "Center circle"
+        }
+      ]
+    },
+    {
+      "question": "How many meters is the penalty spot from the goal line?",
+      "options": [
+        {
+          "option": "11m",
+          "is_answer": true
+        },
+        {
+          "option": "16.5m"
+        },
+        {
+          "option": "5.5m"
+        },
+        {
+          "option": "9.15m"
+        }
+      ]
+    },
+    {
+      "question": "The corner arc is marked at each of the four corners of the pitch with a radius of:",
+      "options": [
+        {
+          "option": "2m"
+        },
+        {
+          "option": "0.5m"
+        },
+        {
+          "option": "1.5m"
+        },
+        {
+          "option": "1m",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The center circle is used during which part of the game?",
+      "options": [
+        {
+          "option": "Corner kick"
+        },
+        {
+          "option": "Throw-in"
+        },
+        {
+          "option": "Penalty kick"
+        },
+        {
+          "option": "Kick-off",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the distance of the penalty spot in meters?",
+      "options": [
+        {
+          "option": "16.5m"
+        },
+        {
+          "option": "11m",
+          "is_answer": true
+        },
+        {
+          "option": "10m"
+        },
+        {
+          "option": "12m"
+        }
+      ]
+    },
+    {
+      "question": "How many Laws of the Game are currently defined by IFAB?",
+      "options": [
+        {
+          "option": "11"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "17",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In which year was the International Football Association Board (IFAB) founded?",
+      "options": [
+        {
+          "option": "1863"
+        },
+        {
+          "option": "1913"
+        },
+        {
+          "option": "1886",
+          "is_answer": true
+        },
+        {
+          "option": "1904"
+        }
+      ]
+    },
+    {
+      "question": "What percentage of votes is required by IFAB to approve an amendment to the Laws of the Game?",
+      "options": [
+        {
+          "option": "50%"
+        },
+        {
+          "option": "80%"
+        },
+        {
+          "option": "75%",
+          "is_answer": true
+        },
+        {
+          "option": "66%"
+        }
+      ]
+    },
+    {
+      "question": "In which year did FIFA join the International Football Association Board (IFAB)?",
+      "options": [
+        {
+          "option": "1913",
+          "is_answer": true
+        },
+        {
+          "option": "1904"
+        },
+        {
+          "option": "1886"
+        },
+        {
+          "option": "1920"
+        }
+      ]
+    },
+    {
+      "question": "How many British associations originally founded the IFAB?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "Which body is responsible for maintaining and changing the Laws of the Game?",
+      "options": [
+        {
+          "option": "UEFA"
+        },
+        {
+          "option": "FIFA"
+        },
+        {
+          "option": "IFAB",
+          "is_answer": true
+        },
+        {
+          "option": "IOC"
+        }
+      ]
+    },
+    {
+      "question": "The IFAB was founded by associations from which region?",
+      "options": [
+        {
+          "option": "Europe"
+        },
+        {
+          "option": "South America"
+        },
+        {
+          "option": "Great Britain",
+          "is_answer": true
+        },
+        {
+          "option": "Asia"
+        }
+      ]
+    },
+    {
+      "question": "What is the primary function of the IFAB?",
+      "options": [
+        {
+          "option": "Ranking national teams"
+        },
+        {
+          "option": "Organizing the World Cup"
+        },
+        {
+          "option": "Managing player transfers"
+        },
+        {
+          "option": "Governing the Laws of the Game",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is NOT a founding member association of IFAB?",
+      "options": [
+        {
+          "option": "FIFA",
+          "is_answer": true
+        },
+        {
+          "option": "Football Association of Wales"
+        },
+        {
+          "option": "The Football Association (England)"
+        },
+        {
+          "option": "Scottish Football Association"
+        }
+      ]
+    },
+    {
+      "question": "How many votes does FIFA hold in the IFAB voting structure?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "The Laws of the Game are applied globally to ensure what?",
+      "options": [
+        {
+          "option": "Faster match speed"
+        },
+        {
+          "option": "Higher ticket sales"
+        },
+        {
+          "option": "More goals scored"
+        },
+        {
+          "option": "Uniformity and fairness",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is a Law of the Game?",
+      "options": [
+        {
+          "option": "The Ticket Price"
+        },
+        {
+          "option": "The Sponsor Logo"
+        },
+        {
+          "option": "The Field of Play",
+          "is_answer": true
+        },
+        {
+          "option": "The Stadium Capacity"
+        }
+      ]
+    },
+    {
+      "question": "IFAB meetings are held to discuss what?",
+      "options": [
+        {
+          "option": "Broadcasting rights"
+        },
+        {
+          "option": "Stadium construction"
+        },
+        {
+          "option": "Proposed changes to the Laws",
+          "is_answer": true
+        },
+        {
+          "option": "Player salaries"
+        }
+      ]
+    },
+    {
+      "question": "Who represents the four British associations in IFAB?",
+      "options": [
+        {
+          "option": "UK, Scotland, Wales, Ireland"
+        },
+        {
+          "option": "England, Scotland, Wales, Northern Ireland",
+          "is_answer": true
+        },
+        {
+          "option": "England, Scotland, Wales, Britain"
+        },
+        {
+          "option": "England, Ireland, Scotland, Wales"
+        }
+      ]
+    },
+    {
+      "question": "What is the minimum majority required for a rule change in IFAB?",
+      "options": [
+        {
+          "option": "Unanimous"
+        },
+        {
+          "option": "Three-quarters",
+          "is_answer": true
+        },
+        {
+          "option": "Simple majority"
+        },
+        {
+          "option": "Two-thirds"
+        }
+      ]
+    },
+    {
+      "question": "Before 1913, who governed the Laws of the Game?",
+      "options": [
+        {
+          "option": "The Olympic Committee"
+        },
+        {
+          "option": "The European Union"
+        },
+        {
+          "option": "FIFA"
+        },
+        {
+          "option": "The four British associations",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a core principle of IFAB's governance?",
+      "options": [
+        {
+          "option": "Maximizing commercial profit"
+        },
+        {
+          "option": "Changing rules every season"
+        },
+        {
+          "option": "Reducing match duration"
+        },
+        {
+          "option": "Protecting the spirit of the game",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many total votes are available in the IFAB voting system?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The Laws of the Game are designed to be:",
+      "options": [
+        {
+          "option": "Universal",
+          "is_answer": true
+        },
+        {
+          "option": "Regional"
+        },
+        {
+          "option": "Optional"
+        },
+        {
+          "option": "Temporary"
+        }
+      ]
+    },
+    {
+      "question": "Which organization is the only one authorized to change the Laws of the Game?",
+      "options": [
+        {
+          "option": "UEFA"
+        },
+        {
+          "option": "IFAB",
+          "is_answer": true
+        },
+        {
+          "option": "CONMEBOL"
+        },
+        {
+          "option": "FIFA"
+        }
+      ]
+    },
+    {
+      "question": "What is the standard duration of a regulation football match?",
+      "options": [
+        {
+          "option": "100 minutes"
+        },
+        {
+          "option": "90 minutes",
+          "is_answer": true
+        },
+        {
+          "option": "60 minutes"
+        },
+        {
+          "option": "80 minutes"
+        }
+      ]
+    },
+    {
+      "question": "How many halves is a standard football match divided into?",
+      "options": [
+        {
+          "option": "Two 45-minute halves",
+          "is_answer": true
+        },
+        {
+          "option": "Three 30-minute halves"
+        },
+        {
+          "option": "Two 40-minute halves"
+        },
+        {
+          "option": "Four 20-minute quarters"
+        }
+      ]
+    },
+    {
+      "question": "Who is responsible for adding stoppage or injury time?",
+      "options": [
+        {
+          "option": "The referee",
+          "is_answer": true
+        },
+        {
+          "option": "The stadium announcer"
+        },
+        {
+          "option": "The team captain"
+        },
+        {
+          "option": "The fourth official"
+        }
+      ]
+    },
+    {
+      "question": "What is the total duration of extra time in a knockout match?",
+      "options": [
+        {
+          "option": "40 minutes"
+        },
+        {
+          "option": "15 minutes"
+        },
+        {
+          "option": "30 minutes",
+          "is_answer": true
+        },
+        {
+          "option": "20 minutes"
+        }
+      ]
+    },
+    {
+      "question": "How is extra time structured in a knockout football match?",
+      "options": [
+        {
+          "option": "Three 10-minute periods"
+        },
+        {
+          "option": "One 30-minute half"
+        },
+        {
+          "option": "Two 15-minute halves",
+          "is_answer": true
+        },
+        {
+          "option": "Two 10-minute halves"
+        }
+      ]
+    },
+    {
+      "question": "What happens if a match is still tied after extra time?",
+      "options": [
+        {
+          "option": "Coin toss"
+        },
+        {
+          "option": "The match is declared void"
+        },
+        {
+          "option": "Penalty shoot-out",
+          "is_answer": true
+        },
+        {
+          "option": "Replay match"
+        }
+      ]
+    },
+    {
+      "question": "How many kicks does each team initially take in a penalty shoot-out?",
+      "options": [
+        {
+          "option": "3 kicks"
+        },
+        {
+          "option": "5 kicks",
+          "is_answer": true
+        },
+        {
+          "option": "6 kicks"
+        },
+        {
+          "option": "10 kicks"
+        }
+      ]
+    },
+    {
+      "question": "What is the term for the phase after the initial 5 penalty kicks if the score remains tied?",
+      "options": [
+        {
+          "option": "Golden goal"
+        },
+        {
+          "option": "Extra time"
+        },
+        {
+          "option": "Silver goal"
+        },
+        {
+          "option": "Sudden death",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Is the 'Golden Goal' rule currently used in professional football?",
+      "options": [
+        {
+          "option": "Only in domestic leagues"
+        },
+        {
+          "option": "Only in World Cup finals"
+        },
+        {
+          "option": "No, it has been abolished",
+          "is_answer": true
+        },
+        {
+          "option": "Yes, it is used in all matches"
+        }
+      ]
+    },
+    {
+      "question": "How are penalty kicks taken during a shoot-out?",
+      "options": [
+        {
+          "option": "Randomly"
+        },
+        {
+          "option": "Alternate",
+          "is_answer": true
+        },
+        {
+          "option": "Only by the captain"
+        },
+        {
+          "option": "All at once"
+        }
+      ]
+    },
+    {
+      "question": "What is the primary purpose of stoppage time?",
+      "options": [
+        {
+          "option": "To increase the match score"
+        },
+        {
+          "option": "To compensate for time lost due to injuries or delays",
+          "is_answer": true
+        },
+        {
+          "option": "To allow for substitutions"
+        },
+        {
+          "option": "To give players a break"
+        }
+      ]
+    },
+    {
+      "question": "In a knockout match, if the score is tied after 90 minutes, what happens next?",
+      "options": [
+        {
+          "option": "The team with more corners wins"
+        },
+        {
+          "option": "The match is replayed the next day"
+        },
+        {
+          "option": "Penalty shoot-out immediately"
+        },
+        {
+          "option": "Extra time is played",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many minutes are in each half of extra time?",
+      "options": [
+        {
+          "option": "30 minutes"
+        },
+        {
+          "option": "10 minutes"
+        },
+        {
+          "option": "15 minutes",
+          "is_answer": true
+        },
+        {
+          "option": "20 minutes"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is NOT a standard part of a football match?",
+      "options": [
+        {
+          "option": "Golden goal",
+          "is_answer": true
+        },
+        {
+          "option": "Extra time"
+        },
+        {
+          "option": "Penalty shoot-out"
+        },
+        {
+          "option": "Stoppage time"
+        }
+      ]
+    },
+    {
+      "question": "What determines the winner if a penalty shoot-out goes into sudden death?",
+      "options": [
+        {
+          "option": "The first team to lead after an equal number of kicks",
+          "is_answer": true
+        },
+        {
+          "option": "The team that committed fewer fouls"
+        },
+        {
+          "option": "The team that has more possession"
+        },
+        {
+          "option": "The team that scores the most goals in 5 minutes"
+        }
+      ]
+    },
+    {
+      "question": "Who decides how much stoppage time to add?",
+      "options": [
+        {
+          "option": "The VAR official"
+        },
+        {
+          "option": "The referee",
+          "is_answer": true
+        },
+        {
+          "option": "The team managers"
+        },
+        {
+          "option": "The stadium clock operator"
+        }
+      ]
+    },
+    {
+      "question": "What is the total duration of a match including extra time?",
+      "options": [
+        {
+          "option": "100 minutes"
+        },
+        {
+          "option": "150 minutes"
+        },
+        {
+          "option": "90 minutes"
+        },
+        {
+          "option": "120 minutes",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In a standard match, how long is each half?",
+      "options": [
+        {
+          "option": "40 minutes"
+        },
+        {
+          "option": "30 minutes"
+        },
+        {
+          "option": "50 minutes"
+        },
+        {
+          "option": "45 minutes",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What happens if a penalty shoot-out remains tied after the first 5 kicks?",
+      "options": [
+        {
+          "option": "The match ends in a draw"
+        },
+        {
+          "option": "The match is replayed"
+        },
+        {
+          "option": "Sudden death",
+          "is_answer": true
+        },
+        {
+          "option": "The team with more corners wins"
+        }
+      ]
+    },
+    {
+      "question": "Which term describes the period added to the end of each half?",
+      "options": [
+        {
+          "option": "Golden period"
+        },
+        {
+          "option": "Extra time"
+        },
+        {
+          "option": "Sudden death"
+        },
+        {
+          "option": "Stoppage time",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is NOT one of the four match-changing situations where VAR can intervene?",
+      "options": [
+        {
+          "option": "Direct red cards"
+        },
+        {
+          "option": "Goals"
+        },
+        {
+          "option": "Corner kicks",
+          "is_answer": true
+        },
+        {
+          "option": "Penalty kicks"
+        }
+      ]
+    },
+    {
+      "question": "What technology is used to determine if the ball has fully crossed the goal line?",
+      "options": [
+        {
+          "option": "VAR"
+        },
+        {
+          "option": "Goal-line technology",
+          "is_answer": true
+        },
+        {
+          "option": "Offside sensor"
+        },
+        {
+          "option": "SAOT"
+        }
+      ]
+    },
+    {
+      "question": "What does SAOT stand for in modern football?",
+      "options": [
+        {
+          "option": "Systematic automated offside tracking"
+        },
+        {
+          "option": "Semi-automated offside technology",
+          "is_answer": true
+        },
+        {
+          "option": "Super automated offside technology"
+        },
+        {
+          "option": "Standard automated offside technique"
+        }
+      ]
+    },
+    {
+      "question": "When a goal is scored, what is the primary role of the VAR?",
+      "options": [
+        {
+          "option": "Check if the crowd is happy"
+        },
+        {
+          "option": "Check for any infringements in the attacking phase",
+          "is_answer": true
+        },
+        {
+          "option": "Verify the ball pressure"
+        },
+        {
+          "option": "Confirm the goal scorer's name"
+        }
+      ]
+    },
+    {
+      "question": "How does the referee receive notification from Goal-line technology?",
+      "options": [
+        {
+          "option": "Audio beep in earpiece"
+        },
+        {
+          "option": "Assistant referee flag"
+        },
+        {
+          "option": "Visual signal on the scoreboard"
+        },
+        {
+          "option": "Watch vibration",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a valid reason for VAR to review a penalty kick decision?",
+      "options": [
+        {
+          "option": "The number of substitutions made"
+        },
+        {
+          "option": "Whether the foul occurred inside or outside the penalty area",
+          "is_answer": true
+        },
+        {
+          "option": "The color of the player's boots"
+        },
+        {
+          "option": "The weather conditions"
+        }
+      ]
+    },
+    {
+      "question": "What is the 'Mistaken Identity' protocol in VAR?",
+      "options": [
+        {
+          "option": "Identifying a player who is offside"
+        },
+        {
+          "option": "Identifying a player who is not on the pitch"
+        },
+        {
+          "option": "Correcting the referee if they punish the wrong player",
+          "is_answer": true
+        },
+        {
+          "option": "Checking if a player is wearing the wrong jersey"
+        }
+      ]
+    },
+    {
+      "question": "How many cameras are typically used in SAOT to track player limbs?",
+      "options": [
+        {
+          "option": "5 cameras"
+        },
+        {
+          "option": "12 dedicated tracking cameras",
+          "is_answer": true
+        },
+        {
+          "option": "2 cameras"
+        },
+        {
+          "option": "20 cameras"
+        }
+      ]
+    },
+    {
+      "question": "Can VAR intervene if a direct red card is incorrectly issued?",
+      "options": [
+        {
+          "option": "Only in the final 5 minutes"
+        },
+        {
+          "option": "No, red cards are final"
+        },
+        {
+          "option": "Only if the stadium crowd protests"
+        },
+        {
+          "option": "Yes, it is one of the four protocol areas",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the primary purpose of the ball sensor used in SAOT?",
+      "options": [
+        {
+          "option": "To measure the speed of the ball"
+        },
+        {
+          "option": "To prevent the ball from deflating"
+        },
+        {
+          "option": "To detect the exact moment of ball contact",
+          "is_answer": true
+        },
+        {
+          "option": "To track the ball's temperature"
+        }
+      ]
+    },
+    {
+      "question": "Who makes the final decision after a VAR review?",
+      "options": [
+        {
+          "option": "The team captain"
+        },
+        {
+          "option": "The VAR official"
+        },
+        {
+          "option": "The on-field referee",
+          "is_answer": true
+        },
+        {
+          "option": "The match commissioner"
+        }
+      ]
+    },
+    {
+      "question": "What does the referee do if they want to review a decision on the pitch-side monitor?",
+      "options": [
+        {
+          "option": "Draws a rectangle in the air",
+          "is_answer": true
+        },
+        {
+          "option": "Waves a yellow card"
+        },
+        {
+          "option": "Points to the VAR room"
+        },
+        {
+          "option": "Blows the whistle twice"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is NOT a goal-line technology system?",
+      "options": [
+        {
+          "option": "Hawk-Eye"
+        },
+        {
+          "option": "VAR-Eye",
+          "is_answer": true
+        },
+        {
+          "option": "GoalControl"
+        },
+        {
+          "option": "Cairos GLT"
+        }
+      ]
+    },
+    {
+      "question": "In SAOT, what is the 'offside line' generated from?",
+      "options": [
+        {
+          "option": "The position of the player's feet only"
+        },
+        {
+          "option": "The position of the player's head"
+        },
+        {
+          "option": "The center of the pitch"
+        },
+        {
+          "option": "The position of the player's limbs and the ball",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Can VAR review a goal if there was an offside in the build-up?",
+      "options": [
+        {
+          "option": "Only if the goal was scored by a header"
+        },
+        {
+          "option": "No, VAR does not check offside"
+        },
+        {
+          "option": "No, offside is only for the linesman"
+        },
+        {
+          "option": "Yes, it is part of the goal review process",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the primary benefit of Goal-line technology?",
+      "options": [
+        {
+          "option": "Increasing the speed of the game"
+        },
+        {
+          "option": "Reducing the number of fouls"
+        },
+        {
+          "option": "Eliminating human error in goal decisions",
+          "is_answer": true
+        },
+        {
+          "option": "Helping the referee see better"
+        }
+      ]
+    },
+    {
+      "question": "How many VAR officials are typically in the VOR (Video Operation Room)?",
+      "options": [
+        {
+          "option": "The stadium announcer"
+        },
+        {
+          "option": "VAR, Assistant VAR, and Replay Operators",
+          "is_answer": true
+        },
+        {
+          "option": "Only one referee"
+        },
+        {
+          "option": "The match referee and linesmen"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a 'Direct Red Card' incident that VAR reviews?",
+      "options": [
+        {
+          "option": "A simple throw-in error"
+        },
+        {
+          "option": "A goal kick decision"
+        },
+        {
+          "option": "Violent conduct",
+          "is_answer": true
+        },
+        {
+          "option": "A minor tactical foul"
+        }
+      ]
+    },
+    {
+      "question": "What happens if the Goal-line technology system fails during a match?",
+      "options": [
+        {
+          "option": "The game is paused until it is fixed"
+        },
+        {
+          "option": "The VAR takes over the goal-line duties"
+        },
+        {
+          "option": "The match is abandoned immediately"
+        },
+        {
+          "option": "The referee is notified and the game continues without it",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Can a player be sent off based solely on a VAR review?",
+      "options": [
+        {
+          "option": "No, VAR can only recommend a yellow card"
+        },
+        {
+          "option": "Only if the coach agrees"
+        },
+        {
+          "option": "Yes, if the referee confirms the red card offense",
+          "is_answer": true
+        },
+        {
+          "option": "No, the referee must see it live"
+        }
+      ]
+    },
+    {
+      "question": "Which term describes a goalkeeper like Manuel Neuer who frequently leaves the penalty area to act as an extra defender?",
+      "options": [
+        {
+          "option": "Target man"
+        },
+        {
+          "option": "Sweeper-keeper",
+          "is_answer": true
+        },
+        {
+          "option": "Deep-lying playmaker"
+        },
+        {
+          "option": "Shot-stopper"
+        }
+      ]
+    },
+    {
+      "question": "What is the primary tactical role of a 'ball-playing' center-back?",
+      "options": [
+        {
+          "option": "Initiating attacks from the back",
+          "is_answer": true
+        },
+        {
+          "option": "Man-marking the goalkeeper"
+        },
+        {
+          "option": "Playing as a striker"
+        },
+        {
+          "option": "Only clearing the ball"
+        }
+      ]
+    },
+    {
+      "question": "Which player is known for the 'overlapping' full-back role, providing width and crosses?",
+      "options": [
+        {
+          "option": "Sergio Busquets"
+        },
+        {
+          "option": "Andrew Robertson",
+          "is_answer": true
+        },
+        {
+          "option": "Manuel Neuer"
+        },
+        {
+          "option": "Erling Haaland"
+        }
+      ]
+    },
+    {
+      "question": "What is the main responsibility of a defensive midfielder (DM) 'anchor' like Sergio Busquets?",
+      "options": [
+        {
+          "option": "Scoring long-range goals"
+        },
+        {
+          "option": "Taking penalty kicks"
+        },
+        {
+          "option": "Protecting the back four and recycling possession",
+          "is_answer": true
+        },
+        {
+          "option": "Playing as a winger"
+        }
+      ]
+    },
+    {
+      "question": "What defines a 'box-to-box' No. 8 midfielder?",
+      "options": [
+        {
+          "option": "Playing exclusively as a goalkeeper"
+        },
+        {
+          "option": "Staying only in the opponent's box"
+        },
+        {
+          "option": "Contributing to both defensive and attacking phases",
+          "is_answer": true
+        },
+        {
+          "option": "Only defending near their own goal"
+        }
+      ]
+    },
+    {
+      "question": "What is the primary role of a traditional winger?",
+      "options": [
+        {
+          "option": "Acting as a goalkeeper"
+        },
+        {
+          "option": "Holding the ball in the center circle"
+        },
+        {
+          "option": "Providing width and delivering crosses into the box",
+          "is_answer": true
+        },
+        {
+          "option": "Playing as a central defender"
+        }
+      ]
+    },
+    {
+      "question": "What is the main task of an attacking midfielder (No. 10) playmaker?",
+      "options": [
+        {
+          "option": "Marking the opponent's striker"
+        },
+        {
+          "option": "Creating goal-scoring opportunities for teammates",
+          "is_answer": true
+        },
+        {
+          "option": "Clearing the ball from the defense"
+        },
+        {
+          "option": "Playing as a goalkeeper"
+        }
+      ]
+    },
+    {
+      "question": "What is the tactical function of a 'False 9'?",
+      "options": [
+        {
+          "option": "Acting as a pure goalkeeper"
+        },
+        {
+          "option": "Playing as a defensive midfielder"
+        },
+        {
+          "option": "Dropping deep to pull defenders out of position",
+          "is_answer": true
+        },
+        {
+          "option": "Staying static in the penalty box"
+        }
+      ]
+    },
+    {
+      "question": "What is the primary role of a 'poacher' No. 9 striker?",
+      "options": [
+        {
+          "option": "Finishing chances inside the penalty area",
+          "is_answer": true
+        },
+        {
+          "option": "Defending the goal line"
+        },
+        {
+          "option": "Playing as a deep-lying playmaker"
+        },
+        {
+          "option": "Running the entire length of the pitch"
+        }
+      ]
+    },
+    {
+      "question": "Which position is responsible for both defensive duties and attacking support on the flanks?",
+      "options": [
+        {
+          "option": "Striker"
+        },
+        {
+          "option": "Center-back"
+        },
+        {
+          "option": "Goalkeeper"
+        },
+        {
+          "option": "Full-back",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What does a 'stopper' center-back primarily focus on?",
+      "options": [
+        {
+          "option": "Aggressively challenging the attacker to win the ball",
+          "is_answer": true
+        },
+        {
+          "option": "Passing the ball to the goalkeeper"
+        },
+        {
+          "option": "Playing as a winger"
+        },
+        {
+          "option": "Staying in the midfield"
+        }
+      ]
+    },
+    {
+      "question": "What is the main characteristic of a 'wing-back' compared to a standard full-back?",
+      "options": [
+        {
+          "option": "Playing as a goalkeeper"
+        },
+        {
+          "option": "Staying strictly in the defensive third"
+        },
+        {
+          "option": "Only defending set-pieces"
+        },
+        {
+          "option": "More emphasis on attacking and providing crosses",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which role is often described as the 'engine room' of the team?",
+      "options": [
+        {
+          "option": "Box-to-box midfielder",
+          "is_answer": true
+        },
+        {
+          "option": "Winger"
+        },
+        {
+          "option": "Striker"
+        },
+        {
+          "option": "Goalkeeper"
+        }
+      ]
+    },
+    {
+      "question": "What is the primary goal of a 'deep-lying playmaker'?",
+      "options": [
+        {
+          "option": "Playing as a goalkeeper"
+        },
+        {
+          "option": "Scoring headers from corners"
+        },
+        {
+          "option": "Marking the opponent's winger"
+        },
+        {
+          "option": "Dictating the tempo of the game from deep positions",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which player role is most associated with 'holding' the midfield?",
+      "options": [
+        {
+          "option": "Defensive midfielder",
+          "is_answer": true
+        },
+        {
+          "option": "Striker"
+        },
+        {
+          "option": "Goalkeeper"
+        },
+        {
+          "option": "Winger"
+        }
+      ]
+    },
+    {
+      "question": "What is the tactical role of an 'inverted winger'?",
+      "options": [
+        {
+          "option": "Staying wide on the touchline"
+        },
+        {
+          "option": "Cutting inside onto their stronger foot to shoot or pass",
+          "is_answer": true
+        },
+        {
+          "option": "Playing as a center-back"
+        },
+        {
+          "option": "Acting as a goalkeeper"
+        }
+      ]
+    },
+    {
+      "question": "What is the main duty of a 'target man' striker?",
+      "options": [
+        {
+          "option": "Running behind the defense constantly"
+        },
+        {
+          "option": "Holding up the ball and bringing others into play",
+          "is_answer": true
+        },
+        {
+          "option": "Playing as a goalkeeper"
+        },
+        {
+          "option": "Defending the penalty area"
+        }
+      ]
+    },
+    {
+      "question": "Which position is primarily responsible for organizing the defense?",
+      "options": [
+        {
+          "option": "Attacking midfielder"
+        },
+        {
+          "option": "Winger"
+        },
+        {
+          "option": "Goalkeeper",
+          "is_answer": true
+        },
+        {
+          "option": "Striker"
+        }
+      ]
+    },
+    {
+      "question": "What is the role of a 'libero' in modern football?",
+      "options": [
+        {
+          "option": "A goalkeeper who plays as a striker"
+        },
+        {
+          "option": "A winger who stays in the box"
+        },
+        {
+          "option": "A midfielder who only defends"
+        },
+        {
+          "option": "A free-roaming defender who initiates attacks",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What does a 'playmaker' primarily provide to the team?",
+      "options": [
+        {
+          "option": "Defensive stability in the back line"
+        },
+        {
+          "option": "Creative passing and vision to unlock defenses",
+          "is_answer": true
+        },
+        {
+          "option": "Physical strength to tackle opponents"
+        },
+        {
+          "option": "Speed to run down the wing"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is a penal foul that results in a direct free kick?",
+      "options": [
+        {
+          "option": "Tripping",
+          "is_answer": true
+        },
+        {
+          "option": "Dangerous play"
+        },
+        {
+          "option": "Goalkeeper 6-second violation"
+        },
+        {
+          "option": "Impeding"
+        }
+      ]
+    },
+    {
+      "question": "What is the correct restart for a player committing a handball offense?",
+      "options": [
+        {
+          "option": "Goal kick"
+        },
+        {
+          "option": "Indirect free kick"
+        },
+        {
+          "option": "Dropped ball"
+        },
+        {
+          "option": "Direct free kick",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which action by a goalkeeper is punishable by an indirect free kick?",
+      "options": [
+        {
+          "option": "Holding the ball for more than 6 seconds",
+          "is_answer": true
+        },
+        {
+          "option": "Handling the ball outside the penalty area"
+        },
+        {
+          "option": "Pushing an opponent"
+        },
+        {
+          "option": "Striking an opponent"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is considered a cautionable offense (Yellow Card)?",
+      "options": [
+        {
+          "option": "Unsporting behavior",
+          "is_answer": true
+        },
+        {
+          "option": "Using offensive language"
+        },
+        {
+          "option": "Violent conduct"
+        },
+        {
+          "option": "Spitting at an opponent"
+        }
+      ]
+    },
+    {
+      "question": "What is the sanction for 'Violent Conduct'?",
+      "options": [
+        {
+          "option": "Verbal warning"
+        },
+        {
+          "option": "Indirect free kick"
+        },
+        {
+          "option": "Red card",
+          "is_answer": true
+        },
+        {
+          "option": "Yellow card"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is an indirect free kick offense?",
+      "options": [
+        {
+          "option": "Charging"
+        },
+        {
+          "option": "Dangerous play",
+          "is_answer": true
+        },
+        {
+          "option": "Holding"
+        },
+        {
+          "option": "Striking"
+        }
+      ]
+    },
+    {
+      "question": "If a player jumps at an opponent in a careless manner, what is the restart?",
+      "options": [
+        {
+          "option": "Throw-in"
+        },
+        {
+          "option": "Direct free kick",
+          "is_answer": true
+        },
+        {
+          "option": "Indirect free kick"
+        },
+        {
+          "option": "Corner kick"
+        }
+      ]
+    },
+    {
+      "question": "What is the penalty for a player who spits at an opponent?",
+      "options": [
+        {
+          "option": "Indirect free kick"
+        },
+        {
+          "option": "Red card",
+          "is_answer": true
+        },
+        {
+          "option": "Yellow card"
+        },
+        {
+          "option": "Direct free kick only"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is a direct free kick offense?",
+      "options": [
+        {
+          "option": "Pushing",
+          "is_answer": true
+        },
+        {
+          "option": "Impeding"
+        },
+        {
+          "option": "Dangerous play"
+        },
+        {
+          "option": "Goalkeeper 6-second violation"
+        }
+      ]
+    },
+    {
+      "question": "What is the sanction for a second cautionable offense in the same match?",
+      "options": [
+        {
+          "option": "Red card",
+          "is_answer": true
+        },
+        {
+          "option": "Warning"
+        },
+        {
+          "option": "Yellow card"
+        },
+        {
+          "option": "Penalty kick"
+        }
+      ]
+    },
+    {
+      "question": "Impeding the progress of an opponent without contact is punished by:",
+      "options": [
+        {
+          "option": "Indirect free kick",
+          "is_answer": true
+        },
+        {
+          "option": "Red card"
+        },
+        {
+          "option": "Yellow card"
+        },
+        {
+          "option": "Direct free kick"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a sending-off offense (Red Card)?",
+      "options": [
+        {
+          "option": "Entering the field without permission"
+        },
+        {
+          "option": "Serious foul play",
+          "is_answer": true
+        },
+        {
+          "option": "Delaying the restart"
+        },
+        {
+          "option": "Dissent by word"
+        }
+      ]
+    },
+    {
+      "question": "What is the restart if a player holds an opponent?",
+      "options": [
+        {
+          "option": "Direct free kick",
+          "is_answer": true
+        },
+        {
+          "option": "Indirect free kick"
+        },
+        {
+          "option": "Corner kick"
+        },
+        {
+          "option": "Dropped ball"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is NOT a direct free kick offense?",
+      "options": [
+        {
+          "option": "Kicking"
+        },
+        {
+          "option": "Striking"
+        },
+        {
+          "option": "Charging"
+        },
+        {
+          "option": "Dangerous play",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the sanction for a player who uses offensive, insulting, or abusive language?",
+      "options": [
+        {
+          "option": "Indirect free kick"
+        },
+        {
+          "option": "Direct free kick"
+        },
+        {
+          "option": "Red card",
+          "is_answer": true
+        },
+        {
+          "option": "Yellow card"
+        }
+      ]
+    },
+    {
+      "question": "Charging an opponent is a direct free kick offense if it is:",
+      "options": [
+        {
+          "option": "Done while running"
+        },
+        {
+          "option": "Done in the air"
+        },
+        {
+          "option": "Done with the shoulder"
+        },
+        {
+          "option": "Careless, reckless, or using excessive force",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the restart for a player who commits dangerous play?",
+      "options": [
+        {
+          "option": "Direct free kick"
+        },
+        {
+          "option": "Indirect free kick",
+          "is_answer": true
+        },
+        {
+          "option": "Penalty kick"
+        },
+        {
+          "option": "Yellow card"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a cautionable offense for delaying the restart?",
+      "options": [
+        {
+          "option": "Tripping an opponent"
+        },
+        {
+          "option": "Failing to respect the required distance",
+          "is_answer": true
+        },
+        {
+          "option": "Kicking the ball"
+        },
+        {
+          "option": "Holding an opponent"
+        }
+      ]
+    },
+    {
+      "question": "What is the sanction for a player who denies an obvious goal-scoring opportunity by a handball?",
+      "options": [
+        {
+          "option": "Red card",
+          "is_answer": true
+        },
+        {
+          "option": "Direct free kick"
+        },
+        {
+          "option": "Yellow card"
+        },
+        {
+          "option": "Indirect free kick"
+        }
+      ]
+    },
+    {
+      "question": "Striking an opponent is a:",
+      "options": [
+        {
+          "option": "Warning"
+        },
+        {
+          "option": "Indirect free kick offense"
+        },
+        {
+          "option": "Red card offense",
+          "is_answer": true
+        },
+        {
+          "option": "Yellow card offense"
+        }
+      ]
+    },
+    {
+      "question": "Which tactical system relies on a 'double pivot' to provide defensive stability while allowing the attacking midfielder to roam?",
+      "options": [
+        {
+          "option": "3-5-2"
+        },
+        {
+          "option": "4-4-2"
+        },
+        {
+          "option": "4-3-3"
+        },
+        {
+          "option": "4-2-3-1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the primary characteristic of the 'Total Football' philosophy developed by Rinus Michels and Johan Cruyff?",
+      "options": [
+        {
+          "option": "Positional fluidity and interchangeability",
+          "is_answer": true
+        },
+        {
+          "option": "Long ball tactics"
+        },
+        {
+          "option": "Defensive counter-attacking"
+        },
+        {
+          "option": "Strict man-marking"
+        }
+      ]
+    },
+    {
+      "question": "Which defensive strategy, popularized in Italy, is known as the 'chain bolt' system?",
+      "options": [
+        {
+          "option": "Gegenpressing"
+        },
+        {
+          "option": "High line"
+        },
+        {
+          "option": "Tiki-taka"
+        },
+        {
+          "option": "Catenaccio",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the core principle of 'Gegenpressing' as implemented by Jurgen Klopp?",
+      "options": [
+        {
+          "option": "Deep defensive block"
+        },
+        {
+          "option": "Focus on set-pieces"
+        },
+        {
+          "option": "Slow build-up play"
+        },
+        {
+          "option": "Immediate recovery of the ball after losing possession",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In a 3-5-2 formation, what is the primary role of the wing-backs?",
+      "options": [
+        {
+          "option": "Covering the entire flank in both attack and defense",
+          "is_answer": true
+        },
+        {
+          "option": "Staying strictly in the defensive third"
+        },
+        {
+          "option": "Playing as central strikers"
+        },
+        {
+          "option": "Acting as pure goalkeepers"
+        }
+      ]
+    },
+    {
+      "question": "Which style of play is characterized by short passing, movement, and maintaining high possession?",
+      "options": [
+        {
+          "option": "Tiki-taka",
+          "is_answer": true
+        },
+        {
+          "option": "Catenaccio"
+        },
+        {
+          "option": "Long ball"
+        },
+        {
+          "option": "Park the bus"
+        }
+      ]
+    },
+    {
+      "question": "What is the main advantage of a balanced 4-3-3 formation?",
+      "options": [
+        {
+          "option": "Requires only one midfielder"
+        },
+        {
+          "option": "Focuses only on defense"
+        },
+        {
+          "option": "Provides width and central control",
+          "is_answer": true
+        },
+        {
+          "option": "Eliminates the need for wingers"
+        }
+      ]
+    },
+    {
+      "question": "Which legendary Dutch team is most associated with the birth of Total Football?",
+      "options": [
+        {
+          "option": "1958 Brazil"
+        },
+        {
+          "option": "1974 Netherlands National Team",
+          "is_answer": true
+        },
+        {
+          "option": "1990 Germany"
+        },
+        {
+          "option": "1966 England"
+        }
+      ]
+    },
+    {
+      "question": "In the 4-2-3-1 system, what is the role of the '1' (the lone striker)?",
+      "options": [
+        {
+          "option": "Holding up play and finishing chances",
+          "is_answer": true
+        },
+        {
+          "option": "Playing as a deep defender"
+        },
+        {
+          "option": "Managing the midfield"
+        },
+        {
+          "option": "Acting as a goalkeeper"
+        }
+      ]
+    },
+    {
+      "question": "Which tactical element is essential for the success of Catenaccio?",
+      "options": [
+        {
+          "option": "A 'Libero' or sweeper behind the defensive line",
+          "is_answer": true
+        },
+        {
+          "option": "Total fluidity"
+        },
+        {
+          "option": "False nine"
+        },
+        {
+          "option": "High pressing"
+        }
+      ]
+    },
+    {
+      "question": "What does the '3' in the 3-5-2 formation represent?",
+      "options": [
+        {
+          "option": "Three wingers"
+        },
+        {
+          "option": "Three strikers"
+        },
+        {
+          "option": "Three goalkeepers"
+        },
+        {
+          "option": "Three central defenders",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which manager is famously associated with the implementation of Tiki-taka at FC Barcelona?",
+      "options": [
+        {
+          "option": "Pep Guardiola",
+          "is_answer": true
+        },
+        {
+          "option": "Carlo Ancelotti"
+        },
+        {
+          "option": "Alex Ferguson"
+        },
+        {
+          "option": "Jose Mourinho"
+        }
+      ]
+    },
+    {
+      "question": "What is the primary goal of Gegenpressing?",
+      "options": [
+        {
+          "option": "To waste time"
+        },
+        {
+          "option": "To disrupt the opponent's transition",
+          "is_answer": true
+        },
+        {
+          "option": "To defend deep"
+        },
+        {
+          "option": "To play long balls"
+        }
+      ]
+    },
+    {
+      "question": "In a 4-3-3, what is the role of the 'holding midfielder'?",
+      "options": [
+        {
+          "option": "Staying in the opponent's box"
+        },
+        {
+          "option": "Playing as a winger"
+        },
+        {
+          "option": "Protecting the back four and recycling possession",
+          "is_answer": true
+        },
+        {
+          "option": "Scoring all the goals"
+        }
+      ]
+    },
+    {
+      "question": "Which formation is often considered the most flexible for modern attacking football?",
+      "options": [
+        {
+          "option": "5-4-1"
+        },
+        {
+          "option": "4-3-3",
+          "is_answer": true
+        },
+        {
+          "option": "4-4-2"
+        },
+        {
+          "option": "3-6-1"
+        }
+      ]
+    },
+    {
+      "question": "What is the main defensive weakness of a 3-5-2 if the wing-backs are caught high up the pitch?",
+      "options": [
+        {
+          "option": "Too many goalkeepers"
+        },
+        {
+          "option": "Weak central midfield"
+        },
+        {
+          "option": "Vulnerability to counter-attacks on the flanks",
+          "is_answer": true
+        },
+        {
+          "option": "Lack of strikers"
+        }
+      ]
+    },
+    {
+      "question": "Total Football requires players to be highly proficient in which area?",
+      "options": [
+        {
+          "option": "Multiple positions and tactical awareness",
+          "is_answer": true
+        },
+        {
+          "option": "Only goalkeeping"
+        },
+        {
+          "option": "Only shooting"
+        },
+        {
+          "option": "Only long-distance running"
+        }
+      ]
+    },
+    {
+      "question": "Which team is most famous for perfecting Tiki-taka during the 2008-2012 era?",
+      "options": [
+        {
+          "option": "Italy"
+        },
+        {
+          "option": "Brazil"
+        },
+        {
+          "option": "Spain National Team",
+          "is_answer": true
+        },
+        {
+          "option": "Argentina"
+        }
+      ]
+    },
+    {
+      "question": "What is the primary purpose of the 'double pivot' in a 4-2-3-1?",
+      "options": [
+        {
+          "option": "To ignore defense"
+        },
+        {
+          "option": "To provide a solid base for the four attacking players",
+          "is_answer": true
+        },
+        {
+          "option": "To play as strikers"
+        },
+        {
+          "option": "To focus only on long balls"
+        }
+      ]
+    },
+    {
+      "question": "What does 'Catenaccio' literally translate to in English?",
+      "options": [
+        {
+          "option": "Strong defense"
+        },
+        {
+          "option": "Door-bolt",
+          "is_answer": true
+        },
+        {
+          "option": "Iron wall"
+        },
+        {
+          "option": "Chain link"
+        }
+      ]
+    },
+    {
+      "question": "Which country hosted the inaugural FIFA World Cup in 1930?",
+      "options": [
+        {
+          "option": "Uruguay",
+          "is_answer": true
+        },
+        {
+          "option": "Argentina"
+        },
+        {
+          "option": "Brazil"
+        },
+        {
+          "option": "Italy"
+        }
+      ]
+    },
+    {
+      "question": "Which trophy was awarded permanently to Brazil in 1970 after their third title?",
+      "options": [
+        {
+          "option": "FIFA World Cup Trophy"
+        },
+        {
+          "option": "Jules Rimet Trophy",
+          "is_answer": true
+        },
+        {
+          "option": "Copa América Trophy"
+        },
+        {
+          "option": "Golden Ball"
+        }
+      ]
+    },
+    {
+      "question": "What is the material base of the current FIFA World Cup trophy?",
+      "options": [
+        {
+          "option": "Granite"
+        },
+        {
+          "option": "Marble"
+        },
+        {
+          "option": "Malachite",
+          "is_answer": true
+        },
+        {
+          "option": "Obsidian"
+        }
+      ]
+    },
+    {
+      "question": "Which country holds the record for the most FIFA World Cup titles?",
+      "options": [
+        {
+          "option": "Italy"
+        },
+        {
+          "option": "Brazil",
+          "is_answer": true
+        },
+        {
+          "option": "Germany"
+        },
+        {
+          "option": "Argentina"
+        }
+      ]
+    },
+    {
+      "question": "How many teams will participate in the 2026 FIFA World Cup?",
+      "options": [
+        {
+          "option": "48",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "40"
+        }
+      ]
+    },
+    {
+      "question": "How many FIFA World Cup titles have Germany and Italy each won?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "The current FIFA World Cup trophy is made of what purity of gold?",
+      "options": [
+        {
+          "option": "22-karat"
+        },
+        {
+          "option": "14-karat"
+        },
+        {
+          "option": "24-karat"
+        },
+        {
+          "option": "18-karat",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What happened to the original Jules Rimet Trophy after it was awarded to Brazil?",
+      "options": [
+        {
+          "option": "It was returned to FIFA"
+        },
+        {
+          "option": "It was melted down"
+        },
+        {
+          "option": "It was lost in a fire"
+        },
+        {
+          "option": "It was stolen",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In which year was the inaugural FIFA World Cup held?",
+      "options": [
+        {
+          "option": "1934"
+        },
+        {
+          "option": "1930",
+          "is_answer": true
+        },
+        {
+          "option": "1938"
+        },
+        {
+          "option": "1926"
+        }
+      ]
+    },
+    {
+      "question": "How many titles did Brazil win to earn the permanent possession of the Jules Rimet Trophy?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which mineral is featured on the base of the current FIFA World Cup trophy?",
+      "options": [
+        {
+          "option": "Amethyst"
+        },
+        {
+          "option": "Quartz"
+        },
+        {
+          "option": "Malachite",
+          "is_answer": true
+        },
+        {
+          "option": "Jade"
+        }
+      ]
+    },
+    {
+      "question": "How many total titles has Brazil won in FIFA World Cup history?",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "The 2026 FIFA World Cup expansion will feature how many teams?",
+      "options": [
+        {
+          "option": "48",
+          "is_answer": true
+        },
+        {
+          "option": "50"
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "44"
+        }
+      ]
+    },
+    {
+      "question": "Who was the namesake of the original FIFA World Cup trophy?",
+      "options": [
+        {
+          "option": "Stanley Rous"
+        },
+        {
+          "option": "João Havelange"
+        },
+        {
+          "option": "Henri Delaunay"
+        },
+        {
+          "option": "Jules Rimet",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these countries has won 4 FIFA World Cup titles?",
+      "options": [
+        {
+          "option": "England"
+        },
+        {
+          "option": "Spain"
+        },
+        {
+          "option": "Argentina"
+        },
+        {
+          "option": "Italy",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the primary metal used in the current FIFA World Cup trophy?",
+      "options": [
+        {
+          "option": "Silver"
+        },
+        {
+          "option": "Platinum"
+        },
+        {
+          "option": "Bronze"
+        },
+        {
+          "option": "Gold",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which country won the first-ever FIFA World Cup final?",
+      "options": [
+        {
+          "option": "Argentina"
+        },
+        {
+          "option": "Brazil"
+        },
+        {
+          "option": "USA"
+        },
+        {
+          "option": "Uruguay",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many titles does Germany have in FIFA World Cup history?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The Jules Rimet Trophy was permanently awarded after Brazil's win in which year?",
+      "options": [
+        {
+          "option": "1958"
+        },
+        {
+          "option": "1994"
+        },
+        {
+          "option": "1970",
+          "is_answer": true
+        },
+        {
+          "option": "1962"
+        }
+      ]
+    },
+    {
+      "question": "Which country is NOT among the top three winners of the FIFA World Cup?",
+      "options": [
+        {
+          "option": "Brazil"
+        },
+        {
+          "option": "Italy"
+        },
+        {
+          "option": "Germany"
+        },
+        {
+          "option": "England",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How old was Pele when he played in the 1958 World Cup in Sweden?",
+      "options": [
+        {
+          "option": "17",
+          "is_answer": true
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "19"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "Which country hosted the 1970 World Cup where Brazil was considered the greatest team ever?",
+      "options": [
+        {
+          "option": "Brazil"
+        },
+        {
+          "option": "England"
+        },
+        {
+          "option": "Mexico",
+          "is_answer": true
+        },
+        {
+          "option": "Italy"
+        }
+      ]
+    },
+    {
+      "question": "Which Brazilian player was part of the legendary 1970 attacking trio alongside Pele and Jairzinho?",
+      "options": [
+        {
+          "option": "Romario"
+        },
+        {
+          "option": "Tostao",
+          "is_answer": true
+        },
+        {
+          "option": "Ronaldo"
+        },
+        {
+          "option": "Zico"
+        }
+      ]
+    },
+    {
+      "question": "In the 1986 World Cup quarter-final, Diego Maradona scored a goal using his hand against which team?",
+      "options": [
+        {
+          "option": "France"
+        },
+        {
+          "option": "Germany"
+        },
+        {
+          "option": "Argentina"
+        },
+        {
+          "option": "England",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the famous name given to Maradona's second goal against England in 1986?",
+      "options": [
+        {
+          "option": "Hand of God"
+        },
+        {
+          "option": "Goal of the Century",
+          "is_answer": true
+        },
+        {
+          "option": "The Great Strike"
+        },
+        {
+          "option": "The Golden Goal"
+        }
+      ]
+    },
+    {
+      "question": "Which player scored two headers in the 1998 World Cup final?",
+      "options": [
+        {
+          "option": "Thierry Henry"
+        },
+        {
+          "option": "Emmanuel Petit"
+        },
+        {
+          "option": "Ronaldo"
+        },
+        {
+          "option": "Zinedine Zidane",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What was the final score of the 2014 World Cup semi-final between Germany and Brazil?",
+      "options": [
+        {
+          "option": "3-2"
+        },
+        {
+          "option": "5-1"
+        },
+        {
+          "option": "4-0"
+        },
+        {
+          "option": "7-1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Who won the 2022 World Cup final in Qatar?",
+      "options": [
+        {
+          "option": "France"
+        },
+        {
+          "option": "Germany"
+        },
+        {
+          "option": "Brazil"
+        },
+        {
+          "option": "Argentina",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which two players scored hat-tricks in the 2022 World Cup final?",
+      "options": [
+        {
+          "option": "Lionel Messi and Kylian Mbappe",
+          "is_answer": true
+        },
+        {
+          "option": "Neymar and Mbappe"
+        },
+        {
+          "option": "Mbappe and Giroud"
+        },
+        {
+          "option": "Messi and Ronaldo"
+        }
+      ]
+    },
+    {
+      "question": "In which year did Pele win his first World Cup title?",
+      "options": [
+        {
+          "option": "1966"
+        },
+        {
+          "option": "1962"
+        },
+        {
+          "option": "1958",
+          "is_answer": true
+        },
+        {
+          "option": "1970"
+        }
+      ]
+    },
+    {
+      "question": "Which stadium hosted the 2014 World Cup semi-final where Brazil lost 7-1?",
+      "options": [
+        {
+          "option": "Estadio Nacional"
+        },
+        {
+          "option": "Arena Corinthians"
+        },
+        {
+          "option": "Maracana"
+        },
+        {
+          "option": "Mineirao",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Who was the captain of the 1970 Brazil team?",
+      "options": [
+        {
+          "option": "Tostao"
+        },
+        {
+          "option": "Jairzinho"
+        },
+        {
+          "option": "Pele"
+        },
+        {
+          "option": "Carlos Alberto",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which country did France defeat in the 1998 World Cup final?",
+      "options": [
+        {
+          "option": "Italy"
+        },
+        {
+          "option": "Brazil",
+          "is_answer": true
+        },
+        {
+          "option": "Germany"
+        },
+        {
+          "option": "Argentina"
+        }
+      ]
+    },
+    {
+      "question": "How many goals did Diego Maradona score in the 1986 World Cup tournament?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "Which player scored the opening goal for Germany in the 7-1 win against Brazil?",
+      "options": [
+        {
+          "option": "Thomas Muller",
+          "is_answer": true
+        },
+        {
+          "option": "Toni Kroos"
+        },
+        {
+          "option": "Miroslav Klose"
+        },
+        {
+          "option": "Sami Khedira"
+        }
+      ]
+    },
+    {
+      "question": "In which city was the 2022 World Cup final held?",
+      "options": [
+        {
+          "option": "Al Rayyan"
+        },
+        {
+          "option": "Lusail",
+          "is_answer": true
+        },
+        {
+          "option": "Doha"
+        },
+        {
+          "option": "Al Khor"
+        }
+      ]
+    },
+    {
+      "question": "Who scored the winning penalty for Argentina in the 2022 World Cup final shootout?",
+      "options": [
+        {
+          "option": "Paulo Dybala"
+        },
+        {
+          "option": "Angel Di Maria"
+        },
+        {
+          "option": "Lionel Messi"
+        },
+        {
+          "option": "Gonzalo Montiel",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which team did Brazil beat in the 1970 World Cup final?",
+      "options": [
+        {
+          "option": "Italy",
+          "is_answer": true
+        },
+        {
+          "option": "Germany"
+        },
+        {
+          "option": "Uruguay"
+        },
+        {
+          "option": "England"
+        }
+      ]
+    },
+    {
+      "question": "What was the score of the 1998 World Cup final?",
+      "options": [
+        {
+          "option": "1-0"
+        },
+        {
+          "option": "2-0"
+        },
+        {
+          "option": "3-0",
+          "is_answer": true
+        },
+        {
+          "option": "2-1"
+        }
+      ]
+    },
+    {
+      "question": "Which player was the top scorer of the 1986 World Cup?",
+      "options": [
+        {
+          "option": "Careca"
+        },
+        {
+          "option": "Diego Maradona"
+        },
+        {
+          "option": "Gary Lineker",
+          "is_answer": true
+        },
+        {
+          "option": "Emilio Butragueno"
+        }
+      ]
+    },
+    {
+      "question": "In what year was the competition originally founded as the European Champion Clubs' Cup?",
+      "options": [
+        {
+          "option": "1955",
+          "is_answer": true
+        },
+        {
+          "option": "1950"
+        },
+        {
+          "option": "1971"
+        },
+        {
+          "option": "1960"
+        }
+      ]
+    },
+    {
+      "question": "Which club holds the record for the most UEFA Champions League titles?",
+      "options": [
+        {
+          "option": "Real Madrid",
+          "is_answer": true
+        },
+        {
+          "option": "Bayern Munich"
+        },
+        {
+          "option": "AC Milan"
+        },
+        {
+          "option": "Liverpool"
+        }
+      ]
+    },
+    {
+      "question": "How many titles has AC Milan won in the competition?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which two clubs are tied with 6 titles each?",
+      "options": [
+        {
+          "option": "Manchester United and Chelsea"
+        },
+        {
+          "option": "Barcelona and Ajax"
+        },
+        {
+          "option": "Inter Milan and Juventus"
+        },
+        {
+          "option": "Liverpool and Bayern Munich",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Who composed the official UEFA Champions League anthem?",
+      "options": [
+        {
+          "option": "Hans Zimmer"
+        },
+        {
+          "option": "Tony Britten",
+          "is_answer": true
+        },
+        {
+          "option": "John Williams"
+        },
+        {
+          "option": "Ennio Morricone"
+        }
+      ]
+    },
+    {
+      "question": "The UEFA Champions League anthem is based on a work by which composer?",
+      "options": [
+        {
+          "option": "George Frideric Handel",
+          "is_answer": true
+        },
+        {
+          "option": "Johann Sebastian Bach"
+        },
+        {
+          "option": "Wolfgang Amadeus Mozart"
+        },
+        {
+          "option": "Ludwig van Beethoven"
+        }
+      ]
+    },
+    {
+      "question": "How many teams participate in the new single league format introduced in 2024?",
+      "options": [
+        {
+          "option": "32"
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "36",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        }
+      ]
+    },
+    {
+      "question": "What is the name of the new format introduced for the Champions League in 2024?",
+      "options": [
+        {
+          "option": "Double elimination"
+        },
+        {
+          "option": "Round Robin"
+        },
+        {
+          "option": "Swiss system",
+          "is_answer": true
+        },
+        {
+          "option": "Knockout bracket"
+        }
+      ]
+    },
+    {
+      "question": "How many total titles has Real Madrid won as of the latest records?",
+      "options": [
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "13"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "14"
+        }
+      ]
+    },
+    {
+      "question": "Which competition was the predecessor to the UEFA Champions League?",
+      "options": [
+        {
+          "option": "European Champion Clubs' Cup",
+          "is_answer": true
+        },
+        {
+          "option": "UEFA Cup"
+        },
+        {
+          "option": "Inter-Cities Fairs Cup"
+        },
+        {
+          "option": "Cup Winners' Cup"
+        }
+      ]
+    },
+    {
+      "question": "The anthem of the Champions League is adapted from which specific Handel piece?",
+      "options": [
+        {
+          "option": "Zadok the Priest",
+          "is_answer": true
+        },
+        {
+          "option": "Water Music"
+        },
+        {
+          "option": "Messiah"
+        },
+        {
+          "option": "Music for the Royal Fireworks"
+        }
+      ]
+    },
+    {
+      "question": "In what year did the competition rebrand to the UEFA Champions League?",
+      "options": [
+        {
+          "option": "1992",
+          "is_answer": true
+        },
+        {
+          "option": "1990"
+        },
+        {
+          "option": "1988"
+        },
+        {
+          "option": "1995"
+        }
+      ]
+    },
+    {
+      "question": "Which of these clubs has won exactly 6 titles?",
+      "options": [
+        {
+          "option": "Bayern Munich",
+          "is_answer": true
+        },
+        {
+          "option": "Manchester United"
+        },
+        {
+          "option": "Barcelona"
+        },
+        {
+          "option": "Ajax"
+        }
+      ]
+    },
+    {
+      "question": "What is the primary governing body of the Champions League?",
+      "options": [
+        {
+          "option": "IFAB"
+        },
+        {
+          "option": "ECA"
+        },
+        {
+          "option": "UEFA",
+          "is_answer": true
+        },
+        {
+          "option": "FIFA"
+        }
+      ]
+    },
+    {
+      "question": "Which city is home to the club with the most titles?",
+      "options": [
+        {
+          "option": "Milan"
+        },
+        {
+          "option": "Munich"
+        },
+        {
+          "option": "Madrid",
+          "is_answer": true
+        },
+        {
+          "option": "Liverpool"
+        }
+      ]
+    },
+    {
+      "question": "How many teams were in the group stage format before the 2024 change?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "32",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "The Swiss system format replaces which previous stage?",
+      "options": [
+        {
+          "option": "Group stage",
+          "is_answer": true
+        },
+        {
+          "option": "Qualifying rounds"
+        },
+        {
+          "option": "Play-offs"
+        },
+        {
+          "option": "Knockout stage"
+        }
+      ]
+    },
+    {
+      "question": "Which composer's work inspired the Champions League anthem?",
+      "options": [
+        {
+          "option": "Vivaldi"
+        },
+        {
+          "option": "Bach"
+        },
+        {
+          "option": "Mozart"
+        },
+        {
+          "option": "Handel",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many titles does Liverpool have in the competition?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a feature of the 2024 36-team format?",
+      "options": [
+        {
+          "option": "Multiple groups"
+        },
+        {
+          "option": "No group stage"
+        },
+        {
+          "option": "Single league table",
+          "is_answer": true
+        },
+        {
+          "option": "Regional divisions"
+        }
+      ]
+    },
+    {
+      "question": "How many teams compete in a standard English Premier League season?",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "22"
+        }
+      ]
+    },
+    {
+      "question": "How many matches does each team play in a single Premier League season?",
+      "options": [
+        {
+          "option": "34"
+        },
+        {
+          "option": "38",
+          "is_answer": true
+        },
+        {
+          "option": "42"
+        },
+        {
+          "option": "40"
+        }
+      ]
+    },
+    {
+      "question": "Which German football rule ensures that club members hold a majority of voting rights?",
+      "options": [
+        {
+          "option": "40+1 rule"
+        },
+        {
+          "option": "60+1 rule"
+        },
+        {
+          "option": "50+1 rule",
+          "is_answer": true
+        },
+        {
+          "option": "Fan-ownership act"
+        }
+      ]
+    },
+    {
+      "question": "Which two clubs have historically dominated the Spanish La Liga?",
+      "options": [
+        {
+          "option": "Real Madrid and Barcelona",
+          "is_answer": true
+        },
+        {
+          "option": "Athletic Bilbao and Real Sociedad"
+        },
+        {
+          "option": "Atletico Madrid and Valencia"
+        },
+        {
+          "option": "Sevilla and Villarreal"
+        }
+      ]
+    },
+    {
+      "question": "Which league is widely considered the richest in terms of global broadcasting revenue?",
+      "options": [
+        {
+          "option": "Bundesliga"
+        },
+        {
+          "option": "English Premier League",
+          "is_answer": true
+        },
+        {
+          "option": "La Liga"
+        },
+        {
+          "option": "Serie A"
+        }
+      ]
+    },
+    {
+      "question": "Serie A is historically known for its emphasis on which aspect of football?",
+      "options": [
+        {
+          "option": "Financial austerity"
+        },
+        {
+          "option": "Youth development only"
+        },
+        {
+          "option": "High-speed attacking"
+        },
+        {
+          "option": "Tactical heritage",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which country hosts the Ligue 1 football competition?",
+      "options": [
+        {
+          "option": "Germany"
+        },
+        {
+          "option": "Italy"
+        },
+        {
+          "option": "Spain"
+        },
+        {
+          "option": "France",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The Bundesliga is the top professional football league of which nation?",
+      "options": [
+        {
+          "option": "France"
+        },
+        {
+          "option": "Austria"
+        },
+        {
+          "option": "Germany",
+          "is_answer": true
+        },
+        {
+          "option": "Switzerland"
+        }
+      ]
+    },
+    {
+      "question": "Which league is commonly referred to as the 'Big Five' European leagues?",
+      "options": [
+        {
+          "option": "EPL, La Liga, Bundesliga, MLS, Serie A"
+        },
+        {
+          "option": "EPL, Serie A, Ligue 1, Bundesliga, Russian Premier League"
+        },
+        {
+          "option": "EPL, La Liga, Serie A, Bundesliga, Ligue 1",
+          "is_answer": true
+        },
+        {
+          "option": "EPL, La Liga, Serie A, Eredivisie, Primeira Liga"
+        }
+      ]
+    },
+    {
+      "question": "Which Italian league is famous for its defensive and tactical discipline?",
+      "options": [
+        {
+          "option": "Serie B"
+        },
+        {
+          "option": "Lega Pro"
+        },
+        {
+          "option": "Coppa Italia"
+        },
+        {
+          "option": "Serie A",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the primary objective of the 50+1 rule in the Bundesliga?",
+      "options": [
+        {
+          "option": "To increase ticket prices"
+        },
+        {
+          "option": "To ensure fan control over the club",
+          "is_answer": true
+        },
+        {
+          "option": "To allow foreign ownership"
+        },
+        {
+          "option": "To limit player salaries"
+        }
+      ]
+    },
+    {
+      "question": "Which league is known for the 'El Clasico' rivalry?",
+      "options": [
+        {
+          "option": "La Liga",
+          "is_answer": true
+        },
+        {
+          "option": "Serie A"
+        },
+        {
+          "option": "EPL"
+        },
+        {
+          "option": "Bundesliga"
+        }
+      ]
+    },
+    {
+      "question": "How many teams are in the French Ligue 1 as of the current standard format?",
+      "options": [
+        {
+          "option": "18",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "22"
+        }
+      ]
+    },
+    {
+      "question": "Which league is often associated with the term 'Catenaccio'?",
+      "options": [
+        {
+          "option": "La Liga"
+        },
+        {
+          "option": "Serie A",
+          "is_answer": true
+        },
+        {
+          "option": "Ligue 1"
+        },
+        {
+          "option": "EPL"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a characteristic of the English Premier League?",
+      "options": [
+        {
+          "option": "Strict fan ownership"
+        },
+        {
+          "option": "Defensive focus only"
+        },
+        {
+          "option": "Limited broadcasting"
+        },
+        {
+          "option": "High commercial revenue",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which club is a dominant force in the German Bundesliga?",
+      "options": [
+        {
+          "option": "Borussia Dortmund"
+        },
+        {
+          "option": "Bayern Munich",
+          "is_answer": true
+        },
+        {
+          "option": "Bayer Leverkusen"
+        },
+        {
+          "option": "RB Leipzig"
+        }
+      ]
+    },
+    {
+      "question": "What is the primary language of the country where Serie A is played?",
+      "options": [
+        {
+          "option": "German"
+        },
+        {
+          "option": "French"
+        },
+        {
+          "option": "Italian",
+          "is_answer": true
+        },
+        {
+          "option": "Spanish"
+        }
+      ]
+    },
+    {
+      "question": "Which league features the '50+1' rule?",
+      "options": [
+        {
+          "option": "Ligue 1"
+        },
+        {
+          "option": "Serie A"
+        },
+        {
+          "option": "EPL"
+        },
+        {
+          "option": "Bundesliga",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which league is known for having a very high number of matches per season (38)?",
+      "options": [
+        {
+          "option": "EPL",
+          "is_answer": true
+        },
+        {
+          "option": "Ligue 1"
+        },
+        {
+          "option": "Bundesliga"
+        },
+        {
+          "option": "Serie A"
+        }
+      ]
+    },
+    {
+      "question": "Which league is home to the club Paris Saint-Germain?",
+      "options": [
+        {
+          "option": "La Liga"
+        },
+        {
+          "option": "Bundesliga"
+        },
+        {
+          "option": "Ligue 1",
+          "is_answer": true
+        },
+        {
+          "option": "Serie A"
+        }
+      ]
+    },
+    {
+      "question": "How many FIFA World Cups did Pele win during his career?",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "Which Brazilian club did Pele play for during the majority of his career?",
+      "options": [
+        {
+          "option": "Flamengo"
+        },
+        {
+          "option": "Sao Paulo"
+        },
+        {
+          "option": "Santos FC",
+          "is_answer": true
+        },
+        {
+          "option": "Corinthians"
+        }
+      ]
+    },
+    {
+      "question": "What was Pele's full name?",
+      "options": [
+        {
+          "option": "Pele dos Santos"
+        },
+        {
+          "option": "Edson Arantes do Nascimento",
+          "is_answer": true
+        },
+        {
+          "option": "Pele Arantes Silva"
+        },
+        {
+          "option": "Edson Ronaldo Nascimento"
+        }
+      ]
+    },
+    {
+      "question": "In which year did Pele win his first FIFA World Cup?",
+      "options": [
+        {
+          "option": "1962"
+        },
+        {
+          "option": "1970"
+        },
+        {
+          "option": "1958",
+          "is_answer": true
+        },
+        {
+          "option": "1954"
+        }
+      ]
+    },
+    {
+      "question": "How many career goals is Pele officially credited with scoring?",
+      "options": [
+        {
+          "option": "1150"
+        },
+        {
+          "option": "1279",
+          "is_answer": true
+        },
+        {
+          "option": "1300"
+        },
+        {
+          "option": "1000"
+        }
+      ]
+    },
+    {
+      "question": "What is the famous nickname given to Pele?",
+      "options": [
+        {
+          "option": "The Magician"
+        },
+        {
+          "option": "The Phenomenon"
+        },
+        {
+          "option": "The Golden Boy"
+        },
+        {
+          "option": "O Rei (The King)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "For how many years did Pele play for Santos FC?",
+      "options": [
+        {
+          "option": "18 years",
+          "is_answer": true
+        },
+        {
+          "option": "15 years"
+        },
+        {
+          "option": "12 years"
+        },
+        {
+          "option": "20 years"
+        }
+      ]
+    },
+    {
+      "question": "Pele was named the FIFA Player of the Century alongside which other player?",
+      "options": [
+        {
+          "option": "Johan Cruyff"
+        },
+        {
+          "option": "Franz Beckenbauer"
+        },
+        {
+          "option": "Diego Maradona",
+          "is_answer": true
+        },
+        {
+          "option": "Alfredo Di Stefano"
+        }
+      ]
+    },
+    {
+      "question": "Which country did Pele represent in international football?",
+      "options": [
+        {
+          "option": "Brazil",
+          "is_answer": true
+        },
+        {
+          "option": "Argentina"
+        },
+        {
+          "option": "France"
+        },
+        {
+          "option": "Portugal"
+        }
+      ]
+    },
+    {
+      "question": "In which year did Pele win his final FIFA World Cup?",
+      "options": [
+        {
+          "option": "1970",
+          "is_answer": true
+        },
+        {
+          "option": "1966"
+        },
+        {
+          "option": "1962"
+        },
+        {
+          "option": "1974"
+        }
+      ]
+    },
+    {
+      "question": "Pele served as a global ambassador for which organization?",
+      "options": [
+        {
+          "option": "IOC"
+        },
+        {
+          "option": "UNICEF"
+        },
+        {
+          "option": "FIFA",
+          "is_answer": true
+        },
+        {
+          "option": "UNESCO"
+        }
+      ]
+    },
+    {
+      "question": "Which of these World Cup years did Pele NOT win?",
+      "options": [
+        {
+          "option": "1966",
+          "is_answer": true
+        },
+        {
+          "option": "1958"
+        },
+        {
+          "option": "1962"
+        },
+        {
+          "option": "1970"
+        }
+      ]
+    },
+    {
+      "question": "What is the primary sport Pele is famous for?",
+      "options": [
+        {
+          "option": "Basketball"
+        },
+        {
+          "option": "Cricket"
+        },
+        {
+          "option": "Football",
+          "is_answer": true
+        },
+        {
+          "option": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Pele is often referred to as the King of which sport?",
+      "options": [
+        {
+          "option": "Tennis"
+        },
+        {
+          "option": "Football",
+          "is_answer": true
+        },
+        {
+          "option": "Athletics"
+        },
+        {
+          "option": "Boxing"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a title associated with Pele?",
+      "options": [
+        {
+          "option": "The Kaiser"
+        },
+        {
+          "option": "O Rei",
+          "is_answer": true
+        },
+        {
+          "option": "The Professor"
+        },
+        {
+          "option": "The Special One"
+        }
+      ]
+    },
+    {
+      "question": "How many World Cups did Pele win in the 1960s?",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "Pele was born in which country?",
+      "options": [
+        {
+          "option": "Colombia"
+        },
+        {
+          "option": "Argentina"
+        },
+        {
+          "option": "Brazil",
+          "is_answer": true
+        },
+        {
+          "option": "Uruguay"
+        }
+      ]
+    },
+    {
+      "question": "What was the duration of Pele's association with Santos FC?",
+      "options": [
+        {
+          "option": "25 years"
+        },
+        {
+          "option": "10 years"
+        },
+        {
+          "option": "18 years",
+          "is_answer": true
+        },
+        {
+          "option": "5 years"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a major achievement of Pele?",
+      "options": [
+        {
+          "option": "Winning 3 FIFA World Cups",
+          "is_answer": true
+        },
+        {
+          "option": "Playing for Real Madrid"
+        },
+        {
+          "option": "Winning 5 Olympic Golds"
+        },
+        {
+          "option": "Scoring 2000 goals"
+        }
+      ]
+    },
+    {
+      "question": "Pele is widely considered the greatest player of which century?",
+      "options": [
+        {
+          "option": "19th Century"
+        },
+        {
+          "option": "20th Century",
+          "is_answer": true
+        },
+        {
+          "option": "18th Century"
+        },
+        {
+          "option": "21st Century"
+        }
+      ]
+    },
+    {
+      "question": "How many Ballon d'Or awards has Lionel Messi won in his career?",
+      "options": [
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "In which year did Lionel Messi lead Argentina to win the FIFA World Cup?",
+      "options": [
+        {
+          "option": "2022",
+          "is_answer": true
+        },
+        {
+          "option": "2014"
+        },
+        {
+          "option": "2018"
+        },
+        {
+          "option": "2010"
+        }
+      ]
+    },
+    {
+      "question": "How many goals did Lionel Messi score for FC Barcelona in official competitions?",
+      "options": [
+        {
+          "option": "600"
+        },
+        {
+          "option": "700"
+        },
+        {
+          "option": "650"
+        },
+        {
+          "option": "672",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many goals did Lionel Messi score in the calendar year 2012?",
+      "options": [
+        {
+          "option": "91",
+          "is_answer": true
+        },
+        {
+          "option": "88"
+        },
+        {
+          "option": "85"
+        },
+        {
+          "option": "95"
+        }
+      ]
+    },
+    {
+      "question": "How many UEFA Champions League titles did Messi win with Barcelona?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which MLS club did Lionel Messi join in 2023?",
+      "options": [
+        {
+          "option": "New York City FC"
+        },
+        {
+          "option": "Inter Miami",
+          "is_answer": true
+        },
+        {
+          "option": "LA Galaxy"
+        },
+        {
+          "option": "Atlanta United"
+        }
+      ]
+    },
+    {
+      "question": "How many La Liga titles did Lionel Messi win with Barcelona?",
+      "options": [
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "What award did Lionel Messi receive for being the best player at the 2022 World Cup?",
+      "options": [
+        {
+          "option": "Golden Ball",
+          "is_answer": true
+        },
+        {
+          "option": "Golden Boot"
+        },
+        {
+          "option": "Golden Glove"
+        },
+        {
+          "option": "Silver Ball"
+        }
+      ]
+    },
+    {
+      "question": "Which country does Lionel Messi represent internationally?",
+      "options": [
+        {
+          "option": "Brazil"
+        },
+        {
+          "option": "Spain"
+        },
+        {
+          "option": "Portugal"
+        },
+        {
+          "option": "Argentina",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In which city is Inter Miami based?",
+      "options": [
+        {
+          "option": "Fort Lauderdale",
+          "is_answer": true
+        },
+        {
+          "option": "Los Angeles"
+        },
+        {
+          "option": "New York"
+        },
+        {
+          "option": "Miami"
+        }
+      ]
+    },
+    {
+      "question": "Lionel Messi is widely considered the greatest of all time, often abbreviated as what?",
+      "options": [
+        {
+          "option": "MVP"
+        },
+        {
+          "option": "KING"
+        },
+        {
+          "option": "GOAT",
+          "is_answer": true
+        },
+        {
+          "option": "ACE"
+        }
+      ]
+    },
+    {
+      "question": "Which league is Inter Miami a part of?",
+      "options": [
+        {
+          "option": "Serie A"
+        },
+        {
+          "option": "MLS",
+          "is_answer": true
+        },
+        {
+          "option": "Premier League"
+        },
+        {
+          "option": "La Liga"
+        }
+      ]
+    },
+    {
+      "question": "How many Ballon d'Or awards did Messi win while playing for Barcelona?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "What is the primary color of the Inter Miami home jersey?",
+      "options": [
+        {
+          "option": "Blue"
+        },
+        {
+          "option": "Red"
+        },
+        {
+          "option": "Pink",
+          "is_answer": true
+        },
+        {
+          "option": "White"
+        }
+      ]
+    },
+    {
+      "question": "Which year did Messi win his first Ballon d'Or?",
+      "options": [
+        {
+          "option": "2008"
+        },
+        {
+          "option": "2010"
+        },
+        {
+          "option": "2007"
+        },
+        {
+          "option": "2009",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Messi's 91-goal record in 2012 surpassed which player's previous record?",
+      "options": [
+        {
+          "option": "Gerd Müller",
+          "is_answer": true
+        },
+        {
+          "option": "Cristiano Ronaldo"
+        },
+        {
+          "option": "Diego Maradona"
+        },
+        {
+          "option": "Pelé"
+        }
+      ]
+    },
+    {
+      "question": "Which tournament did Messi win with Argentina in 2021 before the World Cup?",
+      "options": [
+        {
+          "option": "Copa América",
+          "is_answer": true
+        },
+        {
+          "option": "Gold Cup"
+        },
+        {
+          "option": "Finalissima"
+        },
+        {
+          "option": "Confederations Cup"
+        }
+      ]
+    },
+    {
+      "question": "How many goals did Messi score in the 2022 FIFA World Cup final?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "What is the nickname of the Argentina national football team?",
+      "options": [
+        {
+          "option": "La Roja"
+        },
+        {
+          "option": "La Albiceleste",
+          "is_answer": true
+        },
+        {
+          "option": "The Azzurri"
+        },
+        {
+          "option": "Seleção"
+        }
+      ]
+    },
+    {
+      "question": "Which club did Messi play for before joining Inter Miami?",
+      "options": [
+        {
+          "option": "Real Madrid"
+        },
+        {
+          "option": "Manchester City"
+        },
+        {
+          "option": "Paris Saint-Germain",
+          "is_answer": true
+        },
+        {
+          "option": "Barcelona"
+        }
+      ]
+    },
+    {
+      "question": "Which stadium hosts the home matches for Real Madrid in El Clasico?",
+      "options": [
+        {
+          "option": "Santiago Bernabéu",
+          "is_answer": true
+        },
+        {
+          "option": "Metropolitano"
+        },
+        {
+          "option": "Camp Nou"
+        },
+        {
+          "option": "Mestalla"
+        }
+      ]
+    },
+    {
+      "question": "Which two clubs contest the 'Derby della Madonnina'?",
+      "options": [
+        {
+          "option": "Napoli and Fiorentina"
+        },
+        {
+          "option": "Roma and Lazio"
+        },
+        {
+          "option": "Juventus and Torino"
+        },
+        {
+          "option": "AC Milan and Inter Milan",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In which stadium is the 'Old Firm' derby between Celtic and Rangers played?",
+      "options": [
+        {
+          "option": "Hampden Park"
+        },
+        {
+          "option": "Ibrox Stadium"
+        },
+        {
+          "option": "Celtic Park",
+          "is_answer": true
+        },
+        {
+          "option": "Murrayfield"
+        }
+      ]
+    },
+    {
+      "question": "Which Argentine club is known as 'Los Millonarios'?",
+      "options": [
+        {
+          "option": "River Plate",
+          "is_answer": true
+        },
+        {
+          "option": "Racing Club"
+        },
+        {
+          "option": "Boca Juniors"
+        },
+        {
+          "option": "Independiente"
+        }
+      ]
+    },
+    {
+      "question": "Who has won the most English league titles between Manchester United and Liverpool?",
+      "options": [
+        {
+          "option": "Liverpool",
+          "is_answer": true
+        },
+        {
+          "option": "Arsenal"
+        },
+        {
+          "option": "Manchester United"
+        },
+        {
+          "option": "Chelsea"
+        }
+      ]
+    },
+    {
+      "question": "What is the nickname of Boca Juniors' stadium?",
+      "options": [
+        {
+          "option": "El Coloso"
+        },
+        {
+          "option": "La Bombonera",
+          "is_answer": true
+        },
+        {
+          "option": "La Bomba"
+        },
+        {
+          "option": "El Monumental"
+        }
+      ]
+    },
+    {
+      "question": "Which city hosts the Derby della Madonnina?",
+      "options": [
+        {
+          "option": "Turin"
+        },
+        {
+          "option": "Rome"
+        },
+        {
+          "option": "Milan",
+          "is_answer": true
+        },
+        {
+          "option": "Naples"
+        }
+      ]
+    },
+    {
+      "question": "Which player famously played for both Barcelona and Real Madrid?",
+      "options": [
+        {
+          "option": "Xavi"
+        },
+        {
+          "option": "Cristiano Ronaldo"
+        },
+        {
+          "option": "Lionel Messi"
+        },
+        {
+          "option": "Luis Figo",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The North West Derby is contested between which two English clubs?",
+      "options": [
+        {
+          "option": "Liverpool and Everton"
+        },
+        {
+          "option": "Manchester United and Liverpool",
+          "is_answer": true
+        },
+        {
+          "option": "Manchester City and Everton"
+        },
+        {
+          "option": "Manchester United and Leeds"
+        }
+      ]
+    },
+    {
+      "question": "Which stadium is the home of River Plate?",
+      "options": [
+        {
+          "option": "La Bombonera"
+        },
+        {
+          "option": "Cilindro"
+        },
+        {
+          "option": "El Monumental",
+          "is_answer": true
+        },
+        {
+          "option": "Nuevo Gasometro"
+        }
+      ]
+    },
+    {
+      "question": "What is the shared home stadium of AC Milan and Inter Milan?",
+      "options": [
+        {
+          "option": "Stadio Artemio Franchi"
+        },
+        {
+          "option": "Stadio Olimpico"
+        },
+        {
+          "option": "San Siro",
+          "is_answer": true
+        },
+        {
+          "option": "Allianz Stadium"
+        }
+      ]
+    },
+    {
+      "question": "Which club is known as 'The Bhoys'?",
+      "options": [
+        {
+          "option": "Aberdeen"
+        },
+        {
+          "option": "Rangers"
+        },
+        {
+          "option": "Hearts"
+        },
+        {
+          "option": "Celtic",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In which country is the Superclasico played?",
+      "options": [
+        {
+          "option": "Brazil"
+        },
+        {
+          "option": "Italy"
+        },
+        {
+          "option": "Spain"
+        },
+        {
+          "option": "Argentina",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which manager is famously associated with Manchester United's success against Liverpool?",
+      "options": [
+        {
+          "option": "Pep Guardiola"
+        },
+        {
+          "option": "Sir Alex Ferguson",
+          "is_answer": true
+        },
+        {
+          "option": "Jurgen Klopp"
+        },
+        {
+          "option": "Jose Mourinho"
+        }
+      ]
+    },
+    {
+      "question": "What is the primary color of AC Milan's home kit?",
+      "options": [
+        {
+          "option": "Blue and White"
+        },
+        {
+          "option": "White and Black"
+        },
+        {
+          "option": "Blue and Black"
+        },
+        {
+          "option": "Red and Black",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which club is historically associated with the Catholic community in Glasgow?",
+      "options": [
+        {
+          "option": "Celtic",
+          "is_answer": true
+        },
+        {
+          "option": "Rangers"
+        },
+        {
+          "option": "Queen's Park"
+        },
+        {
+          "option": "Partick Thistle"
+        }
+      ]
+    },
+    {
+      "question": "Who won the most El Clasico matches in history?",
+      "options": [
+        {
+          "option": "Atletico Madrid"
+        },
+        {
+          "option": "Draw"
+        },
+        {
+          "option": "Barcelona"
+        },
+        {
+          "option": "Real Madrid",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which stadium is known as the 'Theatre of Dreams'?",
+      "options": [
+        {
+          "option": "Old Trafford",
+          "is_answer": true
+        },
+        {
+          "option": "Anfield"
+        },
+        {
+          "option": "Stamford Bridge"
+        },
+        {
+          "option": "Emirates"
+        }
+      ]
+    },
+    {
+      "question": "Which club is known as the 'Rossoneri'?",
+      "options": [
+        {
+          "option": "Inter Milan"
+        },
+        {
+          "option": "Lazio"
+        },
+        {
+          "option": "Juventus"
+        },
+        {
+          "option": "AC Milan",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the nickname of the Inter Milan team?",
+      "options": [
+        {
+          "option": "Nerazzurri",
+          "is_answer": true
+        },
+        {
+          "option": "Giallorossi"
+        },
+        {
+          "option": "Bianconeri"
+        },
+        {
+          "option": "Rossoneri"
+        }
+      ]
+    },
+    {
+      "question": "Which country did Diego Maradona lead to victory in the 1986 FIFA World Cup?",
+      "options": [
+        {
+          "option": "West Germany"
+        },
+        {
+          "option": "Argentina",
+          "is_answer": true
+        },
+        {
+          "option": "Italy"
+        },
+        {
+          "option": "Brazil"
+        }
+      ]
+    },
+    {
+      "question": "Which Italian club did Maradona lead to their first-ever Serie A title in 1987?",
+      "options": [
+        {
+          "option": "Juventus"
+        },
+        {
+          "option": "AC Milan"
+        },
+        {
+          "option": "SSC Napoli",
+          "is_answer": true
+        },
+        {
+          "option": "Inter Milan"
+        }
+      ]
+    },
+    {
+      "question": "What physical attribute was most cited for Maradona's exceptional dribbling ability?",
+      "options": [
+        {
+          "option": "High jumping reach"
+        },
+        {
+          "option": "Long legs"
+        },
+        {
+          "option": "Low center of gravity",
+          "is_answer": true
+        },
+        {
+          "option": "Broad shoulders"
+        }
+      ]
+    },
+    {
+      "question": "In which year did SSC Napoli win their second Serie A title under Maradona?",
+      "options": [
+        {
+          "option": "1992"
+        },
+        {
+          "option": "1988"
+        },
+        {
+          "option": "1989"
+        },
+        {
+          "option": "1990",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Against which team did Maradona score the famous 'Goal of the Century' in 1986?",
+      "options": [
+        {
+          "option": "Uruguay"
+        },
+        {
+          "option": "West Germany"
+        },
+        {
+          "option": "Belgium"
+        },
+        {
+          "option": "England",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Maradona's success with Napoli was significant because it challenged the dominance of clubs from which part of Italy?",
+      "options": [
+        {
+          "option": "The West"
+        },
+        {
+          "option": "The North",
+          "is_answer": true
+        },
+        {
+          "option": "The South"
+        },
+        {
+          "option": "The East"
+        }
+      ]
+    },
+    {
+      "question": "What was Maradona's primary position on the football pitch?",
+      "options": [
+        {
+          "option": "Attacking midfielder",
+          "is_answer": true
+        },
+        {
+          "option": "Right back"
+        },
+        {
+          "option": "Center back"
+        },
+        {
+          "option": "Goalkeeper"
+        }
+      ]
+    },
+    {
+      "question": "Which famous goal by Maradona in 1986 involved the use of his hand?",
+      "options": [
+        {
+          "option": "The Penalty"
+        },
+        {
+          "option": "The Header"
+        },
+        {
+          "option": "Hand of God",
+          "is_answer": true
+        },
+        {
+          "option": "The Phantom Goal"
+        }
+      ]
+    },
+    {
+      "question": "How many Serie A titles did Maradona win with Napoli?",
+      "options": [
+        {
+          "option": "Four"
+        },
+        {
+          "option": "One"
+        },
+        {
+          "option": "Three"
+        },
+        {
+          "option": "Two",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What was the nickname often used for Maradona due to his playing style?",
+      "options": [
+        {
+          "option": "The Tank"
+        },
+        {
+          "option": "El Pibe de Oro",
+          "is_answer": true
+        },
+        {
+          "option": "The Machine"
+        },
+        {
+          "option": "The Wall"
+        }
+      ]
+    },
+    {
+      "question": "In which stadium did Maradona play most of his home games for Napoli?",
+      "options": [
+        {
+          "option": "Stadio San Paolo",
+          "is_answer": true
+        },
+        {
+          "option": "Stadio Olimpico"
+        },
+        {
+          "option": "Allianz Stadium"
+        },
+        {
+          "option": "San Siro"
+        }
+      ]
+    },
+    {
+      "question": "Which tournament is often described as Maradona's 'one-man show'?",
+      "options": [
+        {
+          "option": "1982 World Cup"
+        },
+        {
+          "option": "1986 World Cup",
+          "is_answer": true
+        },
+        {
+          "option": "1990 World Cup"
+        },
+        {
+          "option": "1987 Copa America"
+        }
+      ]
+    },
+    {
+      "question": "What was the primary reason Maradona was able to dribble past multiple defenders?",
+      "options": [
+        {
+          "option": "Height"
+        },
+        {
+          "option": "Low center of gravity and agility",
+          "is_answer": true
+        },
+        {
+          "option": "Pure luck"
+        },
+        {
+          "option": "Strength alone"
+        }
+      ]
+    },
+    {
+      "question": "Which country did Argentina defeat in the 1986 World Cup final?",
+      "options": [
+        {
+          "option": "Brazil"
+        },
+        {
+          "option": "Italy"
+        },
+        {
+          "option": "England"
+        },
+        {
+          "option": "West Germany",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Before joining Napoli, which Spanish club did Maradona play for?",
+      "options": [
+        {
+          "option": "Barcelona",
+          "is_answer": true
+        },
+        {
+          "option": "Real Madrid"
+        },
+        {
+          "option": "Valencia"
+        },
+        {
+          "option": "Atletico Madrid"
+        }
+      ]
+    },
+    {
+      "question": "What was the significance of Napoli winning the Scudetto in the 1980s?",
+      "options": [
+        {
+          "option": "First time a southern club won",
+          "is_answer": true
+        },
+        {
+          "option": "They were the oldest club"
+        },
+        {
+          "option": "They were the richest club"
+        },
+        {
+          "option": "They had the most foreign players"
+        }
+      ]
+    },
+    {
+      "question": "Which of these traits best describes Maradona's playing style?",
+      "options": [
+        {
+          "option": "Creative and explosive",
+          "is_answer": true
+        },
+        {
+          "option": "Tall and physical"
+        },
+        {
+          "option": "Passive and tactical"
+        },
+        {
+          "option": "Defensive and slow"
+        }
+      ]
+    },
+    {
+      "question": "Who was the captain of the Argentina team that won the 1986 World Cup?",
+      "options": [
+        {
+          "option": "Jorge Valdano"
+        },
+        {
+          "option": "Daniel Passarella"
+        },
+        {
+          "option": "Oscar Ruggeri"
+        },
+        {
+          "option": "Diego Maradona",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What does 'Scudetto' refer to in Italian football?",
+      "options": [
+        {
+          "option": "Serie A championship title",
+          "is_answer": true
+        },
+        {
+          "option": "The goalkeeper's gloves"
+        },
+        {
+          "option": "The stadium roof"
+        },
+        {
+          "option": "The referee's whistle"
+        }
+      ]
+    },
+    {
+      "question": "Maradona is often described as a 'flawed genius'. What does this imply?",
+      "options": [
+        {
+          "option": "A player who was always injured"
+        },
+        {
+          "option": "A player who never won"
+        },
+        {
+          "option": "Brilliant talent with personal struggles",
+          "is_answer": true
+        },
+        {
+          "option": "A player who only played for money"
+        }
+      ]
+    },
+    {
+      "question": "How many Ballon d'Or awards has Cristiano Ronaldo won?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "How many goals did Cristiano Ronaldo score for Real Madrid in 438 games?",
+      "options": [
+        {
+          "option": "425"
+        },
+        {
+          "option": "450",
+          "is_answer": true
+        },
+        {
+          "option": "400"
+        },
+        {
+          "option": "475"
+        }
+      ]
+    },
+    {
+      "question": "Which club does Cristiano Ronaldo currently play for in the Saudi Pro League?",
+      "options": [
+        {
+          "option": "Al Hilal"
+        },
+        {
+          "option": "Al Ahli"
+        },
+        {
+          "option": "Al Nassr",
+          "is_answer": true
+        },
+        {
+          "option": "Al Ittihad"
+        }
+      ]
+    },
+    {
+      "question": "How many UEFA Champions League titles has Cristiano Ronaldo won?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "Which country does Cristiano Ronaldo represent internationally?",
+      "options": [
+        {
+          "option": "Spain"
+        },
+        {
+          "option": "Argentina"
+        },
+        {
+          "option": "Brazil"
+        },
+        {
+          "option": "Portugal",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Cristiano Ronaldo has scored over how many international goals?",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "130",
+          "is_answer": true
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "110"
+        }
+      ]
+    },
+    {
+      "question": "Which Spanish club is Cristiano Ronaldo the all-time top scorer for?",
+      "options": [
+        {
+          "option": "Barcelona"
+        },
+        {
+          "option": "Real Madrid",
+          "is_answer": true
+        },
+        {
+          "option": "Valencia"
+        },
+        {
+          "option": "Atletico Madrid"
+        }
+      ]
+    },
+    {
+      "question": "In which league does Al Nassr compete?",
+      "options": [
+        {
+          "option": "MLS"
+        },
+        {
+          "option": "UAE Pro League"
+        },
+        {
+          "option": "Qatar Stars League"
+        },
+        {
+          "option": "Saudi Pro League",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many games did it take for Ronaldo to score 450 goals for Real Madrid?",
+      "options": [
+        {
+          "option": "400"
+        },
+        {
+          "option": "450"
+        },
+        {
+          "option": "438",
+          "is_answer": true
+        },
+        {
+          "option": "420"
+        }
+      ]
+    },
+    {
+      "question": "Which English club did Cristiano Ronaldo play for before moving to Real Madrid?",
+      "options": [
+        {
+          "option": "Manchester United",
+          "is_answer": true
+        },
+        {
+          "option": "Arsenal"
+        },
+        {
+          "option": "Chelsea"
+        },
+        {
+          "option": "Liverpool"
+        }
+      ]
+    },
+    {
+      "question": "What is the nickname often associated with Cristiano Ronaldo?",
+      "options": [
+        {
+          "option": "El Nino"
+        },
+        {
+          "option": "The Magician"
+        },
+        {
+          "option": "CR7",
+          "is_answer": true
+        },
+        {
+          "option": "The Phenom"
+        }
+      ]
+    },
+    {
+      "question": "Cristiano Ronaldo is the all-time top scorer for which national team?",
+      "options": [
+        {
+          "option": "Portugal",
+          "is_answer": true
+        },
+        {
+          "option": "France"
+        },
+        {
+          "option": "England"
+        },
+        {
+          "option": "Germany"
+        }
+      ]
+    },
+    {
+      "question": "How many Ballon d'Or awards did Ronaldo win while at Real Madrid?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these clubs has Cristiano Ronaldo played for?",
+      "options": [
+        {
+          "option": "AC Milan"
+        },
+        {
+          "option": "PSG"
+        },
+        {
+          "option": "Manchester United",
+          "is_answer": true
+        },
+        {
+          "option": "Bayern Munich"
+        }
+      ]
+    },
+    {
+      "question": "What is the primary sport Cristiano Ronaldo is famous for?",
+      "options": [
+        {
+          "option": "Cricket"
+        },
+        {
+          "option": "Basketball"
+        },
+        {
+          "option": "Football",
+          "is_answer": true
+        },
+        {
+          "option": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Cristiano Ronaldo's 450 goals for Real Madrid were scored in how many seasons?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which country is Al Nassr based in?",
+      "options": [
+        {
+          "option": "Saudi Arabia",
+          "is_answer": true
+        },
+        {
+          "option": "Qatar"
+        },
+        {
+          "option": "UAE"
+        },
+        {
+          "option": "Kuwait"
+        }
+      ]
+    },
+    {
+      "question": "How many Champions League titles did Ronaldo win with Manchester United?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "Cristiano Ronaldo is known for wearing which jersey number?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "11"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a major individual honor won by Cristiano Ronaldo?",
+      "options": [
+        {
+          "option": "Cy Young Award"
+        },
+        {
+          "option": "Golden Glove"
+        },
+        {
+          "option": "Ballon d'Or",
+          "is_answer": true
+        },
+        {
+          "option": "MVP"
+        }
+      ]
+    },
+    {
+      "question": "How many Ballon d'Or awards did Johan Cruyff win during his career?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "Which iconic football move is named after Johan Cruyff?",
+      "options": [
+        {
+          "option": "Cruyff Turn",
+          "is_answer": true
+        },
+        {
+          "option": "Cruyff Flick"
+        },
+        {
+          "option": "Cruyff Header"
+        },
+        {
+          "option": "Cruyff Tackle"
+        }
+      ]
+    },
+    {
+      "question": "What was Franz Beckenbauer's famous nickname?",
+      "options": [
+        {
+          "option": "The Wall"
+        },
+        {
+          "option": "The General"
+        },
+        {
+          "option": "Der Kaiser",
+          "is_answer": true
+        },
+        {
+          "option": "The Maestro"
+        }
+      ]
+    },
+    {
+      "question": "Which tactical position did Franz Beckenbauer revolutionize?",
+      "options": [
+        {
+          "option": "Wing Back"
+        },
+        {
+          "option": "False Nine"
+        },
+        {
+          "option": "Target Man"
+        },
+        {
+          "option": "Libero",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Franz Beckenbauer is one of the few men to win the World Cup as both a player and a what?",
+      "options": [
+        {
+          "option": "Referee"
+        },
+        {
+          "option": "Owner"
+        },
+        {
+          "option": "Coach",
+          "is_answer": true
+        },
+        {
+          "option": "President"
+        }
+      ]
+    },
+    {
+      "question": "In which year did Zinedine Zidane score two goals in the World Cup final?",
+      "options": [
+        {
+          "option": "1994"
+        },
+        {
+          "option": "1998",
+          "is_answer": true
+        },
+        {
+          "option": "2006"
+        },
+        {
+          "option": "2002"
+        }
+      ]
+    },
+    {
+      "question": "Where did Zinedine Zidane score his famous volley in the 2002 Champions League final?",
+      "options": [
+        {
+          "option": "Hampden Park",
+          "is_answer": true
+        },
+        {
+          "option": "San Siro"
+        },
+        {
+          "option": "Wembley"
+        },
+        {
+          "option": "Camp Nou"
+        }
+      ]
+    },
+    {
+      "question": "Which player was the hero of the 2002 World Cup, scoring both goals in the final?",
+      "options": [
+        {
+          "option": "Ronaldinho"
+        },
+        {
+          "option": "Ronaldo Nazario",
+          "is_answer": true
+        },
+        {
+          "option": "Rivaldo"
+        },
+        {
+          "option": "Roberto Carlos"
+        }
+      ]
+    },
+    {
+      "question": "Johan Cruyff was a key figure in the development of which tactical philosophy?",
+      "options": [
+        {
+          "option": "Catenaccio"
+        },
+        {
+          "option": "Total Football",
+          "is_answer": true
+        },
+        {
+          "option": "Gegenpressing"
+        },
+        {
+          "option": "Tiki-Taka"
+        }
+      ]
+    },
+    {
+      "question": "Which country did Franz Beckenbauer captain to World Cup glory in 1974?",
+      "options": [
+        {
+          "option": "West Germany",
+          "is_answer": true
+        },
+        {
+          "option": "Brazil"
+        },
+        {
+          "option": "Italy"
+        },
+        {
+          "option": "Argentina"
+        }
+      ]
+    },
+    {
+      "question": "What is the nickname often associated with Ronaldo Nazario?",
+      "options": [
+        {
+          "option": "The Sniper"
+        },
+        {
+          "option": "The King"
+        },
+        {
+          "option": "R9",
+          "is_answer": true
+        },
+        {
+          "option": "The Magician"
+        }
+      ]
+    },
+    {
+      "question": "Zinedine Zidane played for which club when he scored the 2002 volley?",
+      "options": [
+        {
+          "option": "Real Madrid",
+          "is_answer": true
+        },
+        {
+          "option": "Bordeaux"
+        },
+        {
+          "option": "Cannes"
+        },
+        {
+          "option": "Juventus"
+        }
+      ]
+    },
+    {
+      "question": "Johan Cruyff is most famously associated with which Dutch club?",
+      "options": [
+        {
+          "option": "Feyenoord"
+        },
+        {
+          "option": "Ajax",
+          "is_answer": true
+        },
+        {
+          "option": "AZ Alkmaar"
+        },
+        {
+          "option": "PSV Eindhoven"
+        }
+      ]
+    },
+    {
+      "question": "Which position did Franz Beckenbauer play in his later career?",
+      "options": [
+        {
+          "option": "Sweeper",
+          "is_answer": true
+        },
+        {
+          "option": "Striker"
+        },
+        {
+          "option": "Winger"
+        },
+        {
+          "option": "Goalkeeper"
+        }
+      ]
+    },
+    {
+      "question": "How many goals did Ronaldo Nazario score in the 2002 World Cup tournament?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Zinedine Zidane won the Ballon d'Or in which year?",
+      "options": [
+        {
+          "option": "2002"
+        },
+        {
+          "option": "1996"
+        },
+        {
+          "option": "1998",
+          "is_answer": true
+        },
+        {
+          "option": "2000"
+        }
+      ]
+    },
+    {
+      "question": "Johan Cruyff managed which Spanish giant to their first European Cup title?",
+      "options": [
+        {
+          "option": "Real Madrid"
+        },
+        {
+          "option": "Atletico Madrid"
+        },
+        {
+          "option": "Valencia"
+        },
+        {
+          "option": "Barcelona",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Franz Beckenbauer won the European Cup three times as a player with which club?",
+      "options": [
+        {
+          "option": "Borussia Dortmund"
+        },
+        {
+          "option": "Hamburg"
+        },
+        {
+          "option": "Schalke"
+        },
+        {
+          "option": "Bayern Munich",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Ronaldo Nazario played for which two Spanish rivals during his career?",
+      "options": [
+        {
+          "option": "Sevilla and Real Madrid"
+        },
+        {
+          "option": "Barcelona and Valencia"
+        },
+        {
+          "option": "Barcelona and Real Madrid",
+          "is_answer": true
+        },
+        {
+          "option": "Real Madrid and Atletico"
+        }
+      ]
+    },
+    {
+      "question": "Which tournament did Zinedine Zidane win as a player in 1998?",
+      "options": [
+        {
+          "option": "Euro Cup"
+        },
+        {
+          "option": "Confederations Cup"
+        },
+        {
+          "option": "Copa America"
+        },
+        {
+          "option": "FIFA World Cup",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In which year was the inaugural FIFA Women's World Cup held?",
+      "options": [
+        {
+          "option": "1999"
+        },
+        {
+          "option": "2003"
+        },
+        {
+          "option": "1991",
+          "is_answer": true
+        },
+        {
+          "option": "1995"
+        }
+      ]
+    },
+    {
+      "question": "Which country hosted the first-ever FIFA Women's World Cup?",
+      "options": [
+        {
+          "option": "Norway"
+        },
+        {
+          "option": "China",
+          "is_answer": true
+        },
+        {
+          "option": "Germany"
+        },
+        {
+          "option": "USA"
+        }
+      ]
+    },
+    {
+      "question": "How many FIFA Women's World Cup titles has the USA won?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "Which player famously scored the winning penalty in the 1999 World Cup final at the Rose Bowl?",
+      "options": [
+        {
+          "option": "Megan Rapinoe"
+        },
+        {
+          "option": "Mia Hamm"
+        },
+        {
+          "option": "Brandi Chastain",
+          "is_answer": true
+        },
+        {
+          "option": "Marta"
+        }
+      ]
+    },
+    {
+      "question": "Who is the all-time top scorer in FIFA Women's World Cup history?",
+      "options": [
+        {
+          "option": "Megan Rapinoe"
+        },
+        {
+          "option": "Birgit Prinz"
+        },
+        {
+          "option": "Abby Wambach"
+        },
+        {
+          "option": "Marta",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many goals has Marta scored in the FIFA Women's World Cup?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "17",
+          "is_answer": true
+        },
+        {
+          "option": "14"
+        }
+      ]
+    },
+    {
+      "question": "Which country won the FIFA Women's World Cup in 2023?",
+      "options": [
+        {
+          "option": "USA"
+        },
+        {
+          "option": "England"
+        },
+        {
+          "option": "Sweden"
+        },
+        {
+          "option": "Spain",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many titles has Germany won in the FIFA Women's World Cup?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In which stadium was the 1999 FIFA Women's World Cup final played?",
+      "options": [
+        {
+          "option": "Wembley"
+        },
+        {
+          "option": "Camp Nou"
+        },
+        {
+          "option": "Maracana"
+        },
+        {
+          "option": "Rose Bowl",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which country does the legendary player Marta represent?",
+      "options": [
+        {
+          "option": "Brazil",
+          "is_answer": true
+        },
+        {
+          "option": "Germany"
+        },
+        {
+          "option": "USA"
+        },
+        {
+          "option": "France"
+        }
+      ]
+    },
+    {
+      "question": "Megan Rapinoe is a famous player from which national team?",
+      "options": [
+        {
+          "option": "Spain"
+        },
+        {
+          "option": "Germany"
+        },
+        {
+          "option": "Brazil"
+        },
+        {
+          "option": "USA",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The USA won their first FIFA Women's World Cup title in which year?",
+      "options": [
+        {
+          "option": "2003"
+        },
+        {
+          "option": "1995"
+        },
+        {
+          "option": "1999"
+        },
+        {
+          "option": "1991",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these years did the USA win the FIFA Women's World Cup?",
+      "options": [
+        {
+          "option": "2007"
+        },
+        {
+          "option": "2015",
+          "is_answer": true
+        },
+        {
+          "option": "2011"
+        },
+        {
+          "option": "2023"
+        }
+      ]
+    },
+    {
+      "question": "Which player is known for her iconic celebration after scoring the winning penalty in 1999?",
+      "options": [
+        {
+          "option": "Mia Hamm"
+        },
+        {
+          "option": "Megan Rapinoe"
+        },
+        {
+          "option": "Marta"
+        },
+        {
+          "option": "Brandi Chastain",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many titles did the USA win in the 2010s decade (2015 and 2019)?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "Which country hosted the inaugural tournament in 1991?",
+      "options": [
+        {
+          "option": "China",
+          "is_answer": true
+        },
+        {
+          "option": "USA"
+        },
+        {
+          "option": "Japan"
+        },
+        {
+          "option": "Brazil"
+        }
+      ]
+    },
+    {
+      "question": "Marta holds the record for the most goals in World Cup history. How many?",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "19"
+        },
+        {
+          "option": "17",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which team won the FIFA Women's World Cup in 2019?",
+      "options": [
+        {
+          "option": "Japan"
+        },
+        {
+          "option": "Germany"
+        },
+        {
+          "option": "USA",
+          "is_answer": true
+        },
+        {
+          "option": "Netherlands"
+        }
+      ]
+    },
+    {
+      "question": "Which player is a prominent figure for the USA team and a World Cup winner?",
+      "options": [
+        {
+          "option": "Megan Rapinoe",
+          "is_answer": true
+        },
+        {
+          "option": "Marta"
+        },
+        {
+          "option": "Homare Sawa"
+        },
+        {
+          "option": "Birgit Prinz"
+        }
+      ]
+    },
+    {
+      "question": "In which year did the USA win their second FIFA Women's World Cup title?",
+      "options": [
+        {
+          "option": "1999",
+          "is_answer": true
+        },
+        {
+          "option": "1991"
+        },
+        {
+          "option": "2015"
+        },
+        {
+          "option": "2019"
+        }
+      ]
+    },
+    {
+      "question": "How many major trophies did Sir Alex Ferguson win during his tenure at Manchester United?",
+      "options": [
+        {
+          "option": "38",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "45"
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "How many Premier League titles did Sir Alex Ferguson win with Manchester United?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "11"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "13",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which manager is famous for pioneering 'Total Football'?",
+      "options": [
+        {
+          "option": "Rinus Michels",
+          "is_answer": true
+        },
+        {
+          "option": "Arrigo Sacchi"
+        },
+        {
+          "option": "Carlo Ancelotti"
+        },
+        {
+          "option": "Pep Guardiola"
+        }
+      ]
+    },
+    {
+      "question": "How many UEFA Champions League titles has Carlo Ancelotti won as a manager?",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "Which tactical style is Pep Guardiola most associated with?",
+      "options": [
+        {
+          "option": "Positional play",
+          "is_answer": true
+        },
+        {
+          "option": "Long ball"
+        },
+        {
+          "option": "Catenaccio"
+        },
+        {
+          "option": "Park the bus"
+        }
+      ]
+    },
+    {
+      "question": "Arrigo Sacchi is best known for revolutionizing which defensive tactic at AC Milan?",
+      "options": [
+        {
+          "option": "Low block"
+        },
+        {
+          "option": "Sweeper system"
+        },
+        {
+          "option": "Man-marking"
+        },
+        {
+          "option": "High pressing",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In which year did Sir Alex Ferguson retire from Manchester United?",
+      "options": [
+        {
+          "option": "2013",
+          "is_answer": true
+        },
+        {
+          "option": "2010"
+        },
+        {
+          "option": "2011"
+        },
+        {
+          "option": "2015"
+        }
+      ]
+    },
+    {
+      "question": "How many UEFA Champions League titles did Sir Alex Ferguson win with Manchester United?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "Which club did Pep Guardiola manage before Manchester City?",
+      "options": [
+        {
+          "option": "Real Madrid"
+        },
+        {
+          "option": "Chelsea"
+        },
+        {
+          "option": "Juventus"
+        },
+        {
+          "option": "Barcelona",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the core philosophy of Rinus Michels' coaching style?",
+      "options": [
+        {
+          "option": "Defensive solidity"
+        },
+        {
+          "option": "Direct football"
+        },
+        {
+          "option": "Counter-attacking"
+        },
+        {
+          "option": "Total Football",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which Italian club did Arrigo Sacchi lead to European success?",
+      "options": [
+        {
+          "option": "Inter Milan"
+        },
+        {
+          "option": "Napoli"
+        },
+        {
+          "option": "AC Milan",
+          "is_answer": true
+        },
+        {
+          "option": "AS Roma"
+        }
+      ]
+    },
+    {
+      "question": "Carlo Ancelotti has managed in which of the following leagues?",
+      "options": [
+        {
+          "option": "Premier League"
+        },
+        {
+          "option": "All of these",
+          "is_answer": true
+        },
+        {
+          "option": "Serie A"
+        },
+        {
+          "option": "La Liga"
+        }
+      ]
+    },
+    {
+      "question": "What was the duration of Sir Alex Ferguson's reign at Manchester United?",
+      "options": [
+        {
+          "option": "1986-2013",
+          "is_answer": true
+        },
+        {
+          "option": "1980-2005"
+        },
+        {
+          "option": "1990-2010"
+        },
+        {
+          "option": "1986-2015"
+        }
+      ]
+    },
+    {
+      "question": "Which manager is known for his calm demeanor and man-management skills?",
+      "options": [
+        {
+          "option": "Pep Guardiola"
+        },
+        {
+          "option": "Rinus Michels"
+        },
+        {
+          "option": "Arrigo Sacchi"
+        },
+        {
+          "option": "Carlo Ancelotti",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Pep Guardiola's tactical approach emphasizes which aspect of the game?",
+      "options": [
+        {
+          "option": "Long balls"
+        },
+        {
+          "option": "Physicality"
+        },
+        {
+          "option": "Ball possession",
+          "is_answer": true
+        },
+        {
+          "option": "Defensive counter-attacks"
+        }
+      ]
+    },
+    {
+      "question": "Arrigo Sacchi's pressing system required players to be in what condition?",
+      "options": [
+        {
+          "option": "Highly fit",
+          "is_answer": true
+        },
+        {
+          "option": "Slow"
+        },
+        {
+          "option": "Defensively minded"
+        },
+        {
+          "option": "Tall"
+        }
+      ]
+    },
+    {
+      "question": "Which manager won the Champions League with both AC Milan and Real Madrid?",
+      "options": [
+        {
+          "option": "Sir Alex Ferguson"
+        },
+        {
+          "option": "Rinus Michels"
+        },
+        {
+          "option": "Carlo Ancelotti",
+          "is_answer": true
+        },
+        {
+          "option": "Pep Guardiola"
+        }
+      ]
+    },
+    {
+      "question": "Rinus Michels coached which legendary player at Ajax and Barcelona?",
+      "options": [
+        {
+          "option": "Ruud Gullit"
+        },
+        {
+          "option": "Diego Maradona"
+        },
+        {
+          "option": "Johan Cruyff",
+          "is_answer": true
+        },
+        {
+          "option": "Marco van Basten"
+        }
+      ]
+    },
+    {
+      "question": "Sir Alex Ferguson's Manchester United were known for which late-game trait?",
+      "options": [
+        {
+          "option": "Time wasting"
+        },
+        {
+          "option": "Fergie Time",
+          "is_answer": true
+        },
+        {
+          "option": "Long ball reliance"
+        },
+        {
+          "option": "Defensive park"
+        }
+      ]
+    },
+    {
+      "question": "Which manager is credited with the 'Tiki-Taka' style?",
+      "options": [
+        {
+          "option": "Arrigo Sacchi"
+        },
+        {
+          "option": "Carlo Ancelotti"
+        },
+        {
+          "option": "Pep Guardiola",
+          "is_answer": true
+        },
+        {
+          "option": "Rinus Michels"
+        }
+      ]
+    },
+    {
+      "question": "In what year was the Copa America founded, making it the oldest international continental football tournament?",
+      "options": [
+        {
+          "option": "1916",
+          "is_answer": true
+        },
+        {
+          "option": "1920"
+        },
+        {
+          "option": "1904"
+        },
+        {
+          "option": "1930"
+        }
+      ]
+    },
+    {
+      "question": "Which two nations are currently tied for the most Copa America titles with 16 each?",
+      "options": [
+        {
+          "option": "Chile and Argentina"
+        },
+        {
+          "option": "Argentina and Uruguay",
+          "is_answer": true
+        },
+        {
+          "option": "Brazil and Argentina"
+        },
+        {
+          "option": "Uruguay and Brazil"
+        }
+      ]
+    },
+    {
+      "question": "What is the name of the premier South American club football championship?",
+      "options": [
+        {
+          "option": "Recopa Sudamericana"
+        },
+        {
+          "option": "Campeonato Brasileiro"
+        },
+        {
+          "option": "Copa Libertadores",
+          "is_answer": true
+        },
+        {
+          "option": "Copa Sudamericana"
+        }
+      ]
+    },
+    {
+      "question": "The famous Maracana Stadium is located in which city?",
+      "options": [
+        {
+          "option": "Buenos Aires"
+        },
+        {
+          "option": "Montevideo"
+        },
+        {
+          "option": "Sao Paulo"
+        },
+        {
+          "option": "Rio de Janeiro",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many Copa America titles does Argentina hold?",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "17"
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which tournament is considered the South American equivalent of the UEFA Champions League?",
+      "options": [
+        {
+          "option": "Copa Libertadores",
+          "is_answer": true
+        },
+        {
+          "option": "FIFA World Cup"
+        },
+        {
+          "option": "Copa America"
+        },
+        {
+          "option": "Intercontinental Cup"
+        }
+      ]
+    },
+    {
+      "question": "Uruguay has won how many Copa America titles?",
+      "options": [
+        {
+          "option": "13"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "14"
+        }
+      ]
+    },
+    {
+      "question": "In which country is the Maracana Stadium located?",
+      "options": [
+        {
+          "option": "Brazil",
+          "is_answer": true
+        },
+        {
+          "option": "Argentina"
+        },
+        {
+          "option": "Chile"
+        },
+        {
+          "option": "Uruguay"
+        }
+      ]
+    },
+    {
+      "question": "Which organization governs the Copa Libertadores?",
+      "options": [
+        {
+          "option": "FIFA"
+        },
+        {
+          "option": "CONCACAF"
+        },
+        {
+          "option": "UEFA"
+        },
+        {
+          "option": "CONMEBOL",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the oldest international continental football tournament in the world?",
+      "options": [
+        {
+          "option": "Gold Cup"
+        },
+        {
+          "option": "Copa America",
+          "is_answer": true
+        },
+        {
+          "option": "AFC Asian Cup"
+        },
+        {
+          "option": "UEFA European Championship"
+        }
+      ]
+    },
+    {
+      "question": "Which stadium hosted the 1950 and 2014 FIFA World Cup finals?",
+      "options": [
+        {
+          "option": "Monumental"
+        },
+        {
+          "option": "La Bombonera"
+        },
+        {
+          "option": "Estadio Centenario"
+        },
+        {
+          "option": "Maracana",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many teams typically participate in the Copa Libertadores group stage?",
+      "options": [
+        {
+          "option": "32",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "48"
+        }
+      ]
+    },
+    {
+      "question": "Which country won the first-ever Copa America in 1916?",
+      "options": [
+        {
+          "option": "Brazil"
+        },
+        {
+          "option": "Uruguay",
+          "is_answer": true
+        },
+        {
+          "option": "Argentina"
+        },
+        {
+          "option": "Chile"
+        }
+      ]
+    },
+    {
+      "question": "What is the primary governing body for South American football?",
+      "options": [
+        {
+          "option": "CAF"
+        },
+        {
+          "option": "CONCACAF"
+        },
+        {
+          "option": "FIFA"
+        },
+        {
+          "option": "CONMEBOL",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which city is home to the Maracana Stadium?",
+      "options": [
+        {
+          "option": "Belo Horizonte"
+        },
+        {
+          "option": "Salvador"
+        },
+        {
+          "option": "Brasilia"
+        },
+        {
+          "option": "Rio de Janeiro",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The Copa Libertadores is contested by clubs from which continent?",
+      "options": [
+        {
+          "option": "Europe"
+        },
+        {
+          "option": "Africa"
+        },
+        {
+          "option": "South America",
+          "is_answer": true
+        },
+        {
+          "option": "North America"
+        }
+      ]
+    },
+    {
+      "question": "Which tournament is the oldest continental football competition?",
+      "options": [
+        {
+          "option": "Asian Cup"
+        },
+        {
+          "option": "Copa America",
+          "is_answer": true
+        },
+        {
+          "option": "Gold Cup"
+        },
+        {
+          "option": "African Cup of Nations"
+        }
+      ]
+    },
+    {
+      "question": "How many titles do Argentina and Uruguay share in Copa America history?",
+      "options": [
+        {
+          "option": "14 each"
+        },
+        {
+          "option": "15 each"
+        },
+        {
+          "option": "10 each"
+        },
+        {
+          "option": "16 each",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the full name of the stadium commonly known as Maracana?",
+      "options": [
+        {
+          "option": "Estadio Monumental"
+        },
+        {
+          "option": "Estadio Centenario"
+        },
+        {
+          "option": "Estadio Jornalista Mario Filho",
+          "is_answer": true
+        },
+        {
+          "option": "Estadio Nacional"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a South American football competition?",
+      "options": [
+        {
+          "option": "La Liga"
+        },
+        {
+          "option": "Copa Libertadores",
+          "is_answer": true
+        },
+        {
+          "option": "Champions League"
+        },
+        {
+          "option": "Premier League"
+        }
+      ]
+    },
+    {
+      "question": "In which year was the Africa Cup of Nations (AFCON) founded?",
+      "options": [
+        {
+          "option": "1970"
+        },
+        {
+          "option": "1963"
+        },
+        {
+          "option": "1960"
+        },
+        {
+          "option": "1957",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which country holds the record for the most AFCON titles?",
+      "options": [
+        {
+          "option": "Ghana"
+        },
+        {
+          "option": "Nigeria"
+        },
+        {
+          "option": "Egypt",
+          "is_answer": true
+        },
+        {
+          "option": "Cameroon"
+        }
+      ]
+    },
+    {
+      "question": "How many AFCON titles has Egypt won?",
+      "options": [
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "How many AFCON titles has Cameroon won?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Who is the only African player to win the Ballon d'Or?",
+      "options": [
+        {
+          "option": "Didier Drogba"
+        },
+        {
+          "option": "Samuel Eto'o"
+        },
+        {
+          "option": "George Weah",
+          "is_answer": true
+        },
+        {
+          "option": "Mohamed Salah"
+        }
+      ]
+    },
+    {
+      "question": "In which year did George Weah win the Ballon d'Or?",
+      "options": [
+        {
+          "option": "1998"
+        },
+        {
+          "option": "2000"
+        },
+        {
+          "option": "1990"
+        },
+        {
+          "option": "1995",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "George Weah represented which African nation?",
+      "options": [
+        {
+          "option": "Liberia",
+          "is_answer": true
+        },
+        {
+          "option": "Nigeria"
+        },
+        {
+          "option": "Ivory Coast"
+        },
+        {
+          "option": "Cameroon"
+        }
+      ]
+    },
+    {
+      "question": "Which of these players is a legendary striker from Ivory Coast?",
+      "options": [
+        {
+          "option": "Sadio Mane"
+        },
+        {
+          "option": "Samuel Eto'o"
+        },
+        {
+          "option": "Didier Drogba",
+          "is_answer": true
+        },
+        {
+          "option": "Mohamed Salah"
+        }
+      ]
+    },
+    {
+      "question": "Samuel Eto'o is a famous footballer from which country?",
+      "options": [
+        {
+          "option": "Egypt"
+        },
+        {
+          "option": "Liberia"
+        },
+        {
+          "option": "Senegal"
+        },
+        {
+          "option": "Cameroon",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Mohamed Salah plays for which national team?",
+      "options": [
+        {
+          "option": "Egypt",
+          "is_answer": true
+        },
+        {
+          "option": "Senegal"
+        },
+        {
+          "option": "Ivory Coast"
+        },
+        {
+          "option": "Cameroon"
+        }
+      ]
+    },
+    {
+      "question": "Sadio Mane is a star player from which country?",
+      "options": [
+        {
+          "option": "Cameroon"
+        },
+        {
+          "option": "Nigeria"
+        },
+        {
+          "option": "Egypt"
+        },
+        {
+          "option": "Senegal",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which tournament determines the champion of Africa?",
+      "options": [
+        {
+          "option": "AFCON",
+          "is_answer": true
+        },
+        {
+          "option": "UEFA Euro"
+        },
+        {
+          "option": "Copa America"
+        },
+        {
+          "option": "FIFA World Cup"
+        }
+      ]
+    },
+    {
+      "question": "The CAF stands for what in African football?",
+      "options": [
+        {
+          "option": "Committee of African Football"
+        },
+        {
+          "option": "Club of African Football"
+        },
+        {
+          "option": "Council of African Football"
+        },
+        {
+          "option": "Confederation of African Football",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which player is known for his time at Chelsea and Ivory Coast?",
+      "options": [
+        {
+          "option": "Sadio Mane"
+        },
+        {
+          "option": "George Weah"
+        },
+        {
+          "option": "Didier Drogba",
+          "is_answer": true
+        },
+        {
+          "option": "Samuel Eto'o"
+        }
+      ]
+    },
+    {
+      "question": "Which of these players has won the African Footballer of the Year award multiple times?",
+      "options": [
+        {
+          "option": "Mohamed Salah"
+        },
+        {
+          "option": "Didier Drogba"
+        },
+        {
+          "option": "Samuel Eto'o",
+          "is_answer": true
+        },
+        {
+          "option": "George Weah"
+        }
+      ]
+    },
+    {
+      "question": "How many teams participated in the first AFCON in 1957?",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "Which country hosted the first-ever AFCON?",
+      "options": [
+        {
+          "option": "Ethiopia"
+        },
+        {
+          "option": "Ghana"
+        },
+        {
+          "option": "Sudan",
+          "is_answer": true
+        },
+        {
+          "option": "Egypt"
+        }
+      ]
+    },
+    {
+      "question": "Who won the first-ever AFCON tournament?",
+      "options": [
+        {
+          "option": "Ethiopia"
+        },
+        {
+          "option": "Egypt",
+          "is_answer": true
+        },
+        {
+          "option": "Ghana"
+        },
+        {
+          "option": "Sudan"
+        }
+      ]
+    },
+    {
+      "question": "Which player is famously associated with Liverpool and Egypt?",
+      "options": [
+        {
+          "option": "Didier Drogba"
+        },
+        {
+          "option": "Mohamed Salah",
+          "is_answer": true
+        },
+        {
+          "option": "Samuel Eto'o"
+        },
+        {
+          "option": "Sadio Mane"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a major football tournament in Africa?",
+      "options": [
+        {
+          "option": "FA Cup"
+        },
+        {
+          "option": "Copa del Rey"
+        },
+        {
+          "option": "Bundesliga"
+        },
+        {
+          "option": "AFCON",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In which year was the Durand Cup, the third oldest football tournament in the world, first held?",
+      "options": [
+        {
+          "option": "1888",
+          "is_answer": true
+        },
+        {
+          "option": "1892"
+        },
+        {
+          "option": "1905"
+        },
+        {
+          "option": "1911"
+        }
+      ]
+    },
+    {
+      "question": "Which club made history in 1911 by defeating the East Yorkshire Regiment to win the IFA Shield?",
+      "options": [
+        {
+          "option": "Mohun Bagan",
+          "is_answer": true
+        },
+        {
+          "option": "East Bengal"
+        },
+        {
+          "option": "Aryan Club"
+        },
+        {
+          "option": "Mohammedan Sporting"
+        }
+      ]
+    },
+    {
+      "question": "What was the unique feature of the Mohun Bagan players during their historic 1911 IFA Shield victory?",
+      "options": [
+        {
+          "option": "They played with a leather ball"
+        },
+        {
+          "option": "They played barefoot",
+          "is_answer": true
+        },
+        {
+          "option": "They played with 12 players"
+        },
+        {
+          "option": "They wore traditional jerseys"
+        }
+      ]
+    },
+    {
+      "question": "In which year did the Indian national football team win their first Asian Games gold medal?",
+      "options": [
+        {
+          "option": "1951",
+          "is_answer": true
+        },
+        {
+          "option": "1954"
+        },
+        {
+          "option": "1962"
+        },
+        {
+          "option": "1970"
+        }
+      ]
+    },
+    {
+      "question": "Who was the legendary Indian footballer known as 'PK'?",
+      "options": [
+        {
+          "option": "Chuni Goswami"
+        },
+        {
+          "option": "PK Banerjee",
+          "is_answer": true
+        },
+        {
+          "option": "Sunil Chhetri"
+        },
+        {
+          "option": "Bhaichung Bhutia"
+        }
+      ]
+    },
+    {
+      "question": "Which multi-talented athlete captained India to the 1962 Asian Games gold medal?",
+      "options": [
+        {
+          "option": "PK Banerjee"
+        },
+        {
+          "option": "Chuni Goswami",
+          "is_answer": true
+        },
+        {
+          "option": "Tulsidas Balaram"
+        },
+        {
+          "option": "Sailen Manna"
+        }
+      ]
+    },
+    {
+      "question": "Which Indian footballer is often referred to as the 'Sikkimese Sniper'?",
+      "options": [
+        {
+          "option": "Bhaichung Bhutia",
+          "is_answer": true
+        },
+        {
+          "option": "Subrata Pal"
+        },
+        {
+          "option": "Sunil Chhetri"
+        },
+        {
+          "option": "IM Vijayan"
+        }
+      ]
+    },
+    {
+      "question": "Sunil Chhetri has scored how many international goals for India (as of his milestone record)?",
+      "options": [
+        {
+          "option": "100"
+        },
+        {
+          "option": "80"
+        },
+        {
+          "option": "75"
+        },
+        {
+          "option": "94",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The 1962 Asian Games football final was held in which city?",
+      "options": [
+        {
+          "option": "New Delhi"
+        },
+        {
+          "option": "Tokyo"
+        },
+        {
+          "option": "Jakarta",
+          "is_answer": true
+        },
+        {
+          "option": "Bangkok"
+        }
+      ]
+    },
+    {
+      "question": "Which tournament is considered the oldest in India?",
+      "options": [
+        {
+          "option": "Santosh Trophy"
+        },
+        {
+          "option": "Durand Cup",
+          "is_answer": true
+        },
+        {
+          "option": "IFA Shield"
+        },
+        {
+          "option": "Federation Cup"
+        }
+      ]
+    },
+    {
+      "question": "Who was the coach of the Indian team during the 1962 Asian Games gold medal win?",
+      "options": [
+        {
+          "option": "PK Banerjee"
+        },
+        {
+          "option": "Syed Abdul Rahim",
+          "is_answer": true
+        },
+        {
+          "option": "Chuni Goswami"
+        },
+        {
+          "option": "Sailen Manna"
+        }
+      ]
+    },
+    {
+      "question": "Bhaichung Bhutia was the first Indian footballer to play for which European club?",
+      "options": [
+        {
+          "option": "Bury FC",
+          "is_answer": true
+        },
+        {
+          "option": "Celtic FC"
+        },
+        {
+          "option": "Liverpool FC"
+        },
+        {
+          "option": "Manchester United"
+        }
+      ]
+    },
+    {
+      "question": "Sunil Chhetri made his international debut in which year?",
+      "options": [
+        {
+          "option": "2008"
+        },
+        {
+          "option": "2010"
+        },
+        {
+          "option": "2005",
+          "is_answer": true
+        },
+        {
+          "option": "2002"
+        }
+      ]
+    },
+    {
+      "question": "Which club did Mohun Bagan defeat in the 1911 IFA Shield final?",
+      "options": [
+        {
+          "option": "Dalhousie Club"
+        },
+        {
+          "option": "St. Xavier's College"
+        },
+        {
+          "option": "Calcutta FC"
+        },
+        {
+          "option": "East Yorkshire Regiment",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Chuni Goswami was also a talented player in which other sport?",
+      "options": [
+        {
+          "option": "Badminton"
+        },
+        {
+          "option": "Tennis"
+        },
+        {
+          "option": "Cricket",
+          "is_answer": true
+        },
+        {
+          "option": "Hockey"
+        }
+      ]
+    },
+    {
+      "question": "The Durand Cup was originally started in which city?",
+      "options": [
+        {
+          "option": "Delhi"
+        },
+        {
+          "option": "Shimla",
+          "is_answer": true
+        },
+        {
+          "option": "Kolkata"
+        },
+        {
+          "option": "Mumbai"
+        }
+      ]
+    },
+    {
+      "question": "Who scored the winning goal for Mohun Bagan in the 1911 IFA Shield final?",
+      "options": [
+        {
+          "option": "Abhilash Ghosh",
+          "is_answer": true
+        },
+        {
+          "option": "Sudhir Chatterjee"
+        },
+        {
+          "option": "Sibdas Bhaduri"
+        },
+        {
+          "option": "Bijaydas Bhaduri"
+        }
+      ]
+    },
+    {
+      "question": "Which Indian footballer is known as the 'Golden Boy' of Indian football?",
+      "options": [
+        {
+          "option": "PK Banerjee",
+          "is_answer": true
+        },
+        {
+          "option": "Bhaichung Bhutia"
+        },
+        {
+          "option": "Chuni Goswami"
+        },
+        {
+          "option": "Sunil Chhetri"
+        }
+      ]
+    },
+    {
+      "question": "How many Asian Games gold medals has the Indian men's football team won?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Sunil Chhetri plays for which club in the Indian Super League (ISL)?",
+      "options": [
+        {
+          "option": "East Bengal FC"
+        },
+        {
+          "option": "Kerala Blasters"
+        },
+        {
+          "option": "Mohun Bagan SG"
+        },
+        {
+          "option": "Bengaluru FC",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In which year was the Ballon d'Or award first presented?",
+      "options": [
+        {
+          "option": "1956",
+          "is_answer": true
+        },
+        {
+          "option": "1952"
+        },
+        {
+          "option": "1960"
+        },
+        {
+          "option": "1970"
+        }
+      ]
+    },
+    {
+      "question": "Who was the first winner of the Ballon d'Or?",
+      "options": [
+        {
+          "option": "Raymond Kopa"
+        },
+        {
+          "option": "Stanley Matthews",
+          "is_answer": true
+        },
+        {
+          "option": "Lev Yashin"
+        },
+        {
+          "option": "Alfredo Di Stefano"
+        }
+      ]
+    },
+    {
+      "question": "Which magazine founded the Ballon d'Or award?",
+      "options": [
+        {
+          "option": "France Football",
+          "is_answer": true
+        },
+        {
+          "option": "Kicker"
+        },
+        {
+          "option": "Gazzetta dello Sport"
+        },
+        {
+          "option": "World Soccer"
+        }
+      ]
+    },
+    {
+      "question": "The Puskas Award is presented for which achievement?",
+      "options": [
+        {
+          "option": "Best goalkeeper"
+        },
+        {
+          "option": "Top league scorer"
+        },
+        {
+          "option": "Best goal of the year",
+          "is_answer": true
+        },
+        {
+          "option": "Best coach"
+        }
+      ]
+    },
+    {
+      "question": "Which trophy is awarded to the best goalkeeper of the year?",
+      "options": [
+        {
+          "option": "Yashin Trophy",
+          "is_answer": true
+        },
+        {
+          "option": "Golden Glove"
+        },
+        {
+          "option": "Puskas Award"
+        },
+        {
+          "option": "Golden Ball"
+        }
+      ]
+    },
+    {
+      "question": "The European Golden Shoe is awarded to the player who achieves what?",
+      "options": [
+        {
+          "option": "Most assists in Europe"
+        },
+        {
+          "option": "Most clean sheets"
+        },
+        {
+          "option": "Most league goals in Europe",
+          "is_answer": true
+        },
+        {
+          "option": "Best performance in Champions League"
+        }
+      ]
+    },
+    {
+      "question": "FIFA The Best awards were introduced in which year?",
+      "options": [
+        {
+          "option": "2016",
+          "is_answer": true
+        },
+        {
+          "option": "2010"
+        },
+        {
+          "option": "2012"
+        },
+        {
+          "option": "2018"
+        }
+      ]
+    },
+    {
+      "question": "Who is the namesake of the award for the best goal of the year?",
+      "options": [
+        {
+          "option": "Alfredo Di Stefano"
+        },
+        {
+          "option": "Stanley Matthews"
+        },
+        {
+          "option": "Lev Yashin"
+        },
+        {
+          "option": "Ferenc Puskas",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Lev Yashin, after whom the goalkeeper trophy is named, was from which country?",
+      "options": [
+        {
+          "option": "Brazil"
+        },
+        {
+          "option": "Italy"
+        },
+        {
+          "option": "Soviet Union",
+          "is_answer": true
+        },
+        {
+          "option": "Germany"
+        }
+      ]
+    },
+    {
+      "question": "Which award is considered the most prestigious individual honor in football?",
+      "options": [
+        {
+          "option": "Puskas Award"
+        },
+        {
+          "option": "FIFA The Best"
+        },
+        {
+          "option": "Ballon d'Or",
+          "is_answer": true
+        },
+        {
+          "option": "Golden Shoe"
+        }
+      ]
+    },
+    {
+      "question": "The European Golden Shoe is based on points calculated by what?",
+      "options": [
+        {
+          "option": "Age of the player"
+        },
+        {
+          "option": "Number of assists"
+        },
+        {
+          "option": "League difficulty factor",
+          "is_answer": true
+        },
+        {
+          "option": "Total matches played"
+        }
+      ]
+    },
+    {
+      "question": "Which player has won the most Ballon d'Or awards in history?",
+      "options": [
+        {
+          "option": "Cristiano Ronaldo"
+        },
+        {
+          "option": "Johan Cruyff"
+        },
+        {
+          "option": "Lionel Messi",
+          "is_answer": true
+        },
+        {
+          "option": "Michel Platini"
+        }
+      ]
+    },
+    {
+      "question": "Stanley Matthews, the first Ballon d'Or winner, played for which country?",
+      "options": [
+        {
+          "option": "Scotland"
+        },
+        {
+          "option": "England",
+          "is_answer": true
+        },
+        {
+          "option": "Spain"
+        },
+        {
+          "option": "France"
+        }
+      ]
+    },
+    {
+      "question": "FIFA The Best Men's Player award is voted on by whom?",
+      "options": [
+        {
+          "option": "Only FIFA officials"
+        },
+        {
+          "option": "Only journalists"
+        },
+        {
+          "option": "Coaches, captains, media, and fans",
+          "is_answer": true
+        },
+        {
+          "option": "Only national team coaches"
+        }
+      ]
+    },
+    {
+      "question": "The Yashin Trophy was first awarded in which year?",
+      "options": [
+        {
+          "option": "2021"
+        },
+        {
+          "option": "2019",
+          "is_answer": true
+        },
+        {
+          "option": "2010"
+        },
+        {
+          "option": "2016"
+        }
+      ]
+    },
+    {
+      "question": "Which league is typically assigned the highest multiplier for the European Golden Shoe?",
+      "options": [
+        {
+          "option": "Scottish Premiership"
+        },
+        {
+          "option": "Eredivisie"
+        },
+        {
+          "option": "Premier League/La Liga",
+          "is_answer": true
+        },
+        {
+          "option": "MLS"
+        }
+      ]
+    },
+    {
+      "question": "The Ballon d'Or was originally restricted to players from which continent?",
+      "options": [
+        {
+          "option": "South America"
+        },
+        {
+          "option": "Europe",
+          "is_answer": true
+        },
+        {
+          "option": "Asia"
+        },
+        {
+          "option": "Africa"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is NOT a criteria for the Puskas Award?",
+      "options": [
+        {
+          "option": "The player's salary",
+          "is_answer": true
+        },
+        {
+          "option": "Importance of the match"
+        },
+        {
+          "option": "Beauty of the goal"
+        },
+        {
+          "option": "Fair play"
+        }
+      ]
+    },
+    {
+      "question": "Who was the first goalkeeper to win the Ballon d'Or?",
+      "options": [
+        {
+          "option": "Gianluigi Buffon"
+        },
+        {
+          "option": "Manuel Neuer"
+        },
+        {
+          "option": "Lev Yashin",
+          "is_answer": true
+        },
+        {
+          "option": "Iker Casillas"
+        }
+      ]
+    },
+    {
+      "question": "What is the primary requirement for a goal to be eligible for the Puskas Award?",
+      "options": [
+        {
+          "option": "It must be a penalty kick"
+        },
+        {
+          "option": "It must be a beautiful goal",
+          "is_answer": true
+        },
+        {
+          "option": "It must be scored in a final"
+        },
+        {
+          "option": "It must be scored by a striker"
+        }
+      ]
+    }
+  ]
+}

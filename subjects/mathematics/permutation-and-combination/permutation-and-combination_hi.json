@@ -1,0 +1,9005 @@
+{
+  "total_questions": 500,
+  "questions": [
+    {
+      "question": "n वस्तुओं में से r वस्तुओं को लेने पर क्रमचय (permutations) का सूत्र क्या है?",
+      "options": [
+        {
+          "option": "n! / (n - r)!",
+          "is_answer": true
+        },
+        {
+          "option": "r! / (n - r)!"
+        },
+        {
+          "option": "n! / (n + r)!"
+        },
+        {
+          "option": "n! / r!"
+        }
+      ]
+    },
+    {
+      "question": "5P2 की गणना करें।",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "4P4 का मान क्या है?",
+      "options": [
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "6P1 का मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "36"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "0! का मान क्या है?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "अपरिभाषित"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "3P3 की गणना करें।",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "'CAT' शब्द के 3 अक्षरों को कितने तरीकों से व्यवस्थित किया जा सकता है?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "7P2 क्या है?",
+      "options": [
+        {
+          "option": "49"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "42",
+          "is_answer": true
+        },
+        {
+          "option": "14"
+        }
+      ]
+    },
+    {
+      "question": "यदि nPr = 720 और n = 6 है, तो r क्या है?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "5P0 का मान क्या है?",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "8P3 का मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "336",
+          "is_answer": true
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "512"
+        },
+        {
+          "option": "24"
+        }
+      ]
+    },
+    {
+      "question": "nPr के लिए कौन सी शर्त सत्य होनी चाहिए?",
+      "options": [
+        {
+          "option": "n >= r",
+          "is_answer": true
+        },
+        {
+          "option": "r > n"
+        },
+        {
+          "option": "r < 0"
+        },
+        {
+          "option": "n < 0"
+        }
+      ]
+    },
+    {
+      "question": "10P2 की गणना करें।",
+      "options": [
+        {
+          "option": "80"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "90",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "4P3 का परिणाम क्या है?",
+      "options": [
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "64"
+        }
+      ]
+    },
+    {
+      "question": "5 कुर्सियों में 2 व्यक्ति कितने तरीकों से बैठ सकते हैं?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "6P3 क्या है?",
+      "options": [
+        {
+          "option": "216"
+        },
+        {
+          "option": "120",
+          "is_answer": true
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "9P2 का मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "72",
+          "is_answer": true
+        },
+        {
+          "option": "81"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "nPn का मान क्या है?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "n!",
+          "is_answer": true
+        },
+        {
+          "option": "n"
+        }
+      ]
+    },
+    {
+      "question": "5P4 की गणना करें।",
+      "options": [
+        {
+          "option": "120",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "60"
+        }
+      ]
+    },
+    {
+      "question": "यदि nP1 = 12 है, तो n क्या है?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "5C2 का मान क्या है?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "6C3 का मूल्यांकन करें।",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "nCn का मान क्या है?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "n"
+        },
+        {
+          "option": "n!"
+        }
+      ]
+    },
+    {
+      "question": "4C0 का मान क्या है?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "कौन सा गुण nCr के बराबर है?",
+      "options": [
+        {
+          "option": "n!/r!"
+        },
+        {
+          "option": "nCr-1"
+        },
+        {
+          "option": "nC(r+1)"
+        },
+        {
+          "option": "nC(n-r)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "7C2 की गणना करें।",
+      "options": [
+        {
+          "option": "42"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "21",
+          "is_answer": true
+        },
+        {
+          "option": "14"
+        }
+      ]
+    },
+    {
+      "question": "5C4 का मान क्या है?",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "10C1 का मान क्या है?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "यदि nCr + nC(r-1) = x है, तो x क्या है?",
+      "options": [
+        {
+          "option": "nC(r+1)"
+        },
+        {
+          "option": "(n+1)C(r+1)"
+        },
+        {
+          "option": "(n+1)Cr",
+          "is_answer": true
+        },
+        {
+          "option": "nCr"
+        }
+      ]
+    },
+    {
+      "question": "8C3 क्या है?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "56",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "3C2 का मान क्या है?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "9C8 की गणना करें।",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "72"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "4C2 का मान क्या है?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "5C5 क्या है?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "यदि 10Cr = 10C4 है, तो r क्या है?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "4 or 6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "6C2 क्या है?",
+      "options": [
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "7C1 क्या है?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "49"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "5C3 का मूल्यांकन करें।",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "6C4 का मान क्या है?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "3C3 क्या है?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "4! का मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "5! / 3! को सरल कीजिए।",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "कौन सा गुणधर्म n! को दर्शाता है?",
+      "options": [
+        {
+          "option": "n * (n-1)!",
+          "is_answer": true
+        },
+        {
+          "option": "n * n!"
+        },
+        {
+          "option": "(n-1) * n!"
+        },
+        {
+          "option": "n! + 1"
+        }
+      ]
+    },
+    {
+      "question": "3! + 2! का मान क्या है?",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "n के लिए हल करें: n! = 120.",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "6! / 5! का मान क्या है?",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "3! * 2! की गणना करें।",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन 0! + 1! + 2! के बराबर है?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "(n+1)! / n! क्या है?",
+      "options": [
+        {
+          "option": "n!"
+        },
+        {
+          "option": "n"
+        },
+        {
+          "option": "n+1",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "7! / 6! का मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "42"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "4! - 3! क्या है?",
+      "options": [
+        {
+          "option": "18",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "21"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "5! का मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "120",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "720"
+        }
+      ]
+    },
+    {
+      "question": "कौन सा व्यंजक n * (n-1) * (n-2)! के बराबर है?",
+      "options": [
+        {
+          "option": "(n-1)!"
+        },
+        {
+          "option": "n!",
+          "is_answer": true
+        },
+        {
+          "option": "(n-2)!"
+        },
+        {
+          "option": "n * (n-2)!"
+        }
+      ]
+    },
+    {
+      "question": "2! * 3! * 0! क्या है?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "यदि n! = 24 है, तो n क्या है?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "10! / 9! क्या है?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "90"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "(4! + 1) का मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "121"
+        },
+        {
+          "option": "25",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "कौन सा गुणधर्म सही है?",
+      "options": [
+        {
+          "option": "(n+1)! = (n+1) * n!",
+          "is_answer": true
+        },
+        {
+          "option": "(n+1)! = n * n!"
+        },
+        {
+          "option": "n! = (n+1) * (n-1)!"
+        },
+        {
+          "option": "n! = n * n!"
+        }
+      ]
+    },
+    {
+      "question": "3! / 3! क्या है?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "'BOOK' शब्द के अक्षरों को कितने अलग तरीकों से व्यवस्थित किया जा सकता है?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "'APPLE' शब्द के अक्षरों का उपयोग करके कितने अलग क्रमचय बनाए जा सकते हैं?",
+      "options": [
+        {
+          "option": "60",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "120"
+        }
+      ]
+    },
+    {
+      "question": "'BANANA' शब्द के अक्षरों के विन्यास की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "720"
+        },
+        {
+          "option": "60",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "120"
+        }
+      ]
+    },
+    {
+      "question": "'MISSISSIPPI' शब्द के अक्षरों को कितने तरीकों से व्यवस्थित किया जा सकता है?",
+      "options": [
+        {
+          "option": "110"
+        },
+        {
+          "option": "1000"
+        },
+        {
+          "option": "34650",
+          "is_answer": true
+        },
+        {
+          "option": "39916800"
+        }
+      ]
+    },
+    {
+      "question": "'LEVEL' शब्द के विन्यासों की संख्या की गणना करें।",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "30",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "'STATISTICS' शब्द के लिए कितने अलग क्रमचय मौजूद हैं?",
+      "options": [
+        {
+          "option": "10000"
+        },
+        {
+          "option": "50400",
+          "is_answer": true
+        },
+        {
+          "option": "3628800"
+        },
+        {
+          "option": "25200"
+        }
+      ]
+    },
+    {
+      "question": "'MATHEMATICS' के अक्षरों से कितने विन्यास बनाए जा सकते हैं?",
+      "options": [
+        {
+          "option": "200000"
+        },
+        {
+          "option": "11!"
+        },
+        {
+          "option": "39916800"
+        },
+        {
+          "option": "4989600",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "'SUCCESS' के अक्षरों को व्यवस्थित करने के तरीकों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "210"
+        },
+        {
+          "option": "840"
+        },
+        {
+          "option": "5040"
+        },
+        {
+          "option": "420",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "'ENGINEERING' के कितने अलग विन्यास संभव हैं?",
+      "options": [
+        {
+          "option": "277200",
+          "is_answer": true
+        },
+        {
+          "option": "3628800"
+        },
+        {
+          "option": "11!"
+        },
+        {
+          "option": "100000"
+        }
+      ]
+    },
+    {
+      "question": "'COMMITTEE' के अक्षरों को कितने तरीकों से व्यवस्थित किया जा सकता है?",
+      "options": [
+        {
+          "option": "362880"
+        },
+        {
+          "option": "22680"
+        },
+        {
+          "option": "45360",
+          "is_answer": true
+        },
+        {
+          "option": "90720"
+        }
+      ]
+    },
+    {
+      "question": "'ROOT' शब्द के कितने क्रमचय हैं?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "'SCHOOL' के कितने विन्यास संभव हैं?",
+      "options": [
+        {
+          "option": "360",
+          "is_answer": true
+        },
+        {
+          "option": "180"
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "720"
+        }
+      ]
+    },
+    {
+      "question": "'ALGEBRA' के अक्षरों के क्रमचयों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "1260"
+        },
+        {
+          "option": "840"
+        },
+        {
+          "option": "2520",
+          "is_answer": true
+        },
+        {
+          "option": "5040"
+        }
+      ]
+    },
+    {
+      "question": "'PARALLEL' के अक्षरों को कितने तरीकों से व्यवस्थित किया जा सकता है?",
+      "options": [
+        {
+          "option": "840"
+        },
+        {
+          "option": "1680",
+          "is_answer": true
+        },
+        {
+          "option": "5040"
+        },
+        {
+          "option": "40320"
+        }
+      ]
+    },
+    {
+      "question": "'TUTOR' के कितने अलग विन्यास हैं?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "60",
+          "is_answer": true
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "'ASSESS' के क्रमचयों की संख्या की गणना करें।",
+      "options": [
+        {
+          "option": "240"
+        },
+        {
+          "option": "720"
+        },
+        {
+          "option": "120",
+          "is_answer": true
+        },
+        {
+          "option": "60"
+        }
+      ]
+    },
+    {
+      "question": "'PEPPER' के अक्षरों को कितने तरीकों से व्यवस्थित किया जा सकता है?",
+      "options": [
+        {
+          "option": "120",
+          "is_answer": true
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "720"
+        },
+        {
+          "option": "360"
+        }
+      ]
+    },
+    {
+      "question": "'BALLOON' के कितने क्रमचय संभव हैं?",
+      "options": [
+        {
+          "option": "1260",
+          "is_answer": true
+        },
+        {
+          "option": "2520"
+        },
+        {
+          "option": "5040"
+        },
+        {
+          "option": "630"
+        }
+      ]
+    },
+    {
+      "question": "'DATA' के विन्यासों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "24"
+        }
+      ]
+    },
+    {
+      "question": "'RADAR' के अक्षरों को कितने तरीकों से व्यवस्थित किया जा सकता है?",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "30",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक छात्र 5 विज्ञान विषयों या 3 गणित विषयों में से एक प्रोजेक्ट चुन सकता है। छात्र के पास कुल कितने विकल्प हैं?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "एक रेस्तरां 4 प्रकार के सूप और 6 प्रकार के सलाद प्रदान करता है। यदि आप एक वस्तु चुनते हैं, तो आपके पास कितने विकल्प हैं?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "एक बैग में 7 लाल गेंदें और 9 नीली गेंदें हैं। आप एक गेंद कितने तरीकों से चुन सकते हैं?",
+      "options": [
+        {
+          "option": "63"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक पुस्तकालय में 12 फिक्शन किताबें और 8 नॉन-फिक्शन किताबें हैं। एक छात्र एक किताब कितने तरीकों से चुन सकता है?",
+      "options": [
+        {
+          "option": "96"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "एक ट्रैवल एजेंसी 5 बस टूर और 4 ट्रेन टूर प्रदान करती है। कुल कितने टूर विकल्प उपलब्ध हैं?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "मेनू में 3 ऐपेटाइज़र और 5 डेज़र्ट हैं। आप एक वस्तु कितने तरीकों से चुन सकते हैं?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "एक कक्षा में 15 लड़के और 12 लड़कियाँ हैं। शिक्षक एक छात्र को कितने तरीकों से चुन सकता है?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "27",
+          "is_answer": true
+        },
+        {
+          "option": "180"
+        }
+      ]
+    },
+    {
+      "question": "एक दुकान 6 प्रकार की शर्ट और 7 प्रकार की पैंट बेचती है। आप एक वस्तु कितने तरीकों से खरीद सकते हैं?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "42"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "13",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक क्लब में शहर A के 10 सदस्य और शहर B के 11 सदस्य हैं। आप एक प्रतिनिधि कितने तरीकों से चुन सकते हैं?",
+      "options": [
+        {
+          "option": "21",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "110"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "आप एक शहर की यात्रा 2 उड़ानों या 3 ट्रेनों द्वारा कर सकते हैं। आप कितने तरीकों से यात्रा कर सकते हैं?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "एक बॉक्स में 8 सफेद कंचे और 4 काले कंचे हैं। आप एक कंचा कितने तरीकों से चुन सकते हैं?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "एक छात्र 9 नीली पेन या 7 काली पेन में से एक पेन चुन सकता है। कुल कितने विकल्प हैं?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "63"
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "एक बेकरी में 5 प्रकार की कुकीज़ और 5 प्रकार के मफिन हैं। आप एक वस्तु कितने तरीकों से चुन सकते हैं?",
+      "options": [
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "एक गेम शो में 4 आसान प्रश्न और 6 कठिन प्रश्न हैं। आप एक प्रश्न कितने तरीकों से चुन सकते हैं?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        }
+      ]
+    },
+    {
+      "question": "सेब के 3 प्रकार और संतरे के 4 प्रकार हैं। आप एक फल कितने तरीकों से चुन सकते हैं?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "एक कंप्यूटर लैब में 11 पीसी और 9 लैपटॉप हैं। आप एक डिवाइस कितने तरीकों से चुन सकते हैं?",
+      "options": [
+        {
+          "option": "99"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "11"
+        }
+      ]
+    },
+    {
+      "question": "एक फूलवाले के पास 5 प्रकार के गुलाब और 8 प्रकार के लिली हैं। आप एक फूल कितने तरीकों से चुन सकते हैं?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "13",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक छात्र 4 भाषाओं या 6 इतिहास के विषयों का अध्ययन कर सकता है। कुल कितने अध्ययन विकल्प हैं?",
+      "options": [
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "एक म्यूजिक स्टोर में 7 रॉक सीडी और 5 जैज़ सीडी हैं। आप एक सीडी कितने तरीकों से चुन सकते हैं?",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "35"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "एक चित्रकार के पास 6 ऑयल पेंट और 9 ऐक्रेलिक पेंट हैं। आप एक पेंट कितने तरीकों से चुन सकते हैं?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "54"
+        }
+      ]
+    },
+    {
+      "question": "एक रेस्तरां 3 प्रकार के ऐपेटाइज़र और 4 प्रकार के मुख्य पाठ्यक्रम प्रदान करता है। भोजन के कितने अलग-अलग संयोजन बनाए जा सकते हैं?",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "यदि किसी व्यक्ति के पास 5 शर्ट और 3 जोड़ी पैंट हैं, तो वे कितने अलग-अलग पहनावे बना सकते हैं?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "एक सिक्का 3 बार उछाला जाता है। कितने संभावित परिणाम हैं?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "एक छात्र 4 गणित की किताबों और 5 विज्ञान की किताबों में से चुन सकता है। वे प्रत्येक में से एक कैसे चुन सकते हैं?",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "एक लॉक में 2-अंकीय कोड होता है जहाँ प्रत्येक अंक 0-9 हो सकता है। कितने संभावित कोड हैं?",
+      "options": [
+        {
+          "option": "50"
+        },
+        {
+          "option": "100",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "यदि शहर A से शहर B तक 6 रास्ते और शहर B से शहर C तक 4 रास्ते हैं, तो B के माध्यम से A से C तक कितने रास्ते हैं?",
+      "options": [
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "36"
+        }
+      ]
+    },
+    {
+      "question": "मेनू में 2 सूप, 3 सलाद और 4 मिठाइयाँ हैं। एक सूप, एक सलाद और एक मिठाई के कितने भोजन संयोजन मौजूद हैं?",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "यदि एक छात्र केवल एक ही पुरस्कार जीत सकता है तो 10 छात्रों को 3 अलग-अलग पुरस्कार कैसे दिए जा सकते हैं?",
+      "options": [
+        {
+          "option": "1000"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "720",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "एक पासा दो बार फेंका जाता है। कुल कितने परिणाम संभव हैं?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "36",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "कार निर्माता 4 रंग और 3 इंजन प्रकार प्रदान करता है। कितनी विविधताएं उपलब्ध हैं?",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "यदि पासवर्ड में 3 अक्षर (A-Z) होते हैं, तो कितने संभावित पासवर्ड हैं?",
+      "options": [
+        {
+          "option": "26"
+        },
+        {
+          "option": "52"
+        },
+        {
+          "option": "17576",
+          "is_answer": true
+        },
+        {
+          "option": "78"
+        }
+      ]
+    },
+    {
+      "question": "एक व्यक्ति के पास 4 टोपियाँ और 6 स्कार्फ हैं। वे कितने संयोजन पहन सकते हैं?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "क्विज़ में 5 सही/गलत प्रश्न हैं। इसका उत्तर कितनी तरह से दिया जा सकता है?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "32",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "एक कमरे में 3 दरवाजे और 2 खिड़कियाँ हैं। कोई व्यक्ति दरवाजे से प्रवेश कर और खिड़की से बाहर निकल सके, इसके कितने तरीके हैं?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि पुनरावृत्ति की अनुमति है तो 1, 2, 3, 4, 5 अंकों का उपयोग करके कितनी 3-अंकीय संख्याएँ बनाई जा सकती हैं?",
+      "options": [
+        {
+          "option": "125",
+          "is_answer": true
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "एक क्लब में 10 सदस्य हैं। वे अध्यक्ष और सचिव का चुनाव कितनी तरह से कर सकते हैं?",
+      "options": [
+        {
+          "option": "90",
+          "is_answer": true
+        },
+        {
+          "option": "19"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "एक रेस्तरां 5 मुख्य व्यंजन और 3 पेय प्रदान करता है। एक व्यंजन और एक पेय के कितने भोजन सौदे हैं?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि आपके पास 4 अलग-अलग शर्ट और 2 अलग-अलग टाई हैं, तो शर्ट-टाई के कितने संयोजन संभव हैं?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "एक छात्र को 3 विषयों में से एक प्रोजेक्ट और 4 विषयों में से एक प्रस्तुति चुननी होगी। उनके पास कितने विकल्प हैं?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "फोन नंबर 7 अंकों का होता है। यदि पहला अंक 0 नहीं हो सकता है, तो कितने फोन नंबर संभव हैं?",
+      "options": [
+        {
+          "option": "9000000",
+          "is_answer": true
+        },
+        {
+          "option": "10000000"
+        },
+        {
+          "option": "9999999"
+        },
+        {
+          "option": "7000000"
+        }
+      ]
+    },
+    {
+      "question": "3 लड़कों और 2 लड़कियों को एक पंक्ति में कितने तरीकों से व्यवस्थित किया जा सकता है ताकि कोई भी दो लड़कियाँ साथ न हों?",
+      "options": [
+        {
+          "option": "48"
+        },
+        {
+          "option": "72",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "120"
+        }
+      ]
+    },
+    {
+      "question": "'APPLE' शब्द के कितने विन्यास संभव हैं जिनमें दो P कभी भी साथ न हों?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "36",
+          "is_answer": true
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "एक शेल्फ पर 4 अलग-अलग पुस्तकों को कितने तरीकों से व्यवस्थित किया जा सकता है ताकि दो विशिष्ट पुस्तकें कभी भी साथ न हों?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "यदि 2 विशिष्ट व्यक्ति एक-दूसरे के बगल में बैठने से मना कर दें, तो 5 लोगों को एक पंक्ति में कितने तरीकों से बैठाया जा सकता है?",
+      "options": [
+        {
+          "option": "48"
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "96"
+        },
+        {
+          "option": "72",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "4 पुरुषों और 3 महिलाओं को एक पंक्ति में कितने तरीकों से व्यवस्थित किया जा सकता है ताकि कोई भी दो महिलाएँ साथ न हों?",
+      "options": [
+        {
+          "option": "720"
+        },
+        {
+          "option": "2880"
+        },
+        {
+          "option": "1440",
+          "is_answer": true
+        },
+        {
+          "option": "5040"
+        }
+      ]
+    },
+    {
+      "question": "'TIGER' शब्द के कितने विन्यास संभव हैं जिनमें स्वर (vowels) कभी भी साथ न हों?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "72",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि 3 लाल गेंदें और 3 नीली गेंदों को एक पंक्ति में व्यवस्थित किया जाए, तो उन्हें कितने तरीकों से व्यवस्थित किया जा सकता है ताकि कोई भी दो लाल गेंदें साथ न हों?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "6 छात्रों को एक पंक्ति में कितने तरीकों से व्यवस्थित किया जा सकता है ताकि दो विशिष्ट छात्र आस-पास न हों?",
+      "options": [
+        {
+          "option": "360"
+        },
+        {
+          "option": "720"
+        },
+        {
+          "option": "480",
+          "is_answer": true
+        },
+        {
+          "option": "240"
+        }
+      ]
+    },
+    {
+      "question": "5 अलग-अलग वस्तुओं को कितने तरीकों से व्यवस्थित किया जा सकता है ताकि 2 विशिष्ट वस्तुएँ कभी भी साथ न हों?",
+      "options": [
+        {
+          "option": "60"
+        },
+        {
+          "option": "72",
+          "is_answer": true
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "120"
+        }
+      ]
+    },
+    {
+      "question": "4 लड़कों और 4 लड़कियों को एक पंक्ति में कितने तरीकों से बैठाया जा सकता है ताकि कोई भी दो लड़कियाँ साथ न हों?",
+      "options": [
+        {
+          "option": "40320"
+        },
+        {
+          "option": "5760"
+        },
+        {
+          "option": "1440"
+        },
+        {
+          "option": "2880",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "'MATHS' शब्द के कितने विन्यास संभव हैं जिनमें स्वर कभी भी साथ न हों?",
+      "options": [
+        {
+          "option": "72",
+          "is_answer": true
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "24"
+        }
+      ]
+    },
+    {
+      "question": "यदि 3 शिक्षकों और 4 छात्रों को एक पंक्ति में व्यवस्थित किया जाए, तो उन्हें कितने तरीकों से व्यवस्थित किया जा सकता है ताकि कोई भी दो शिक्षक साथ न हों?",
+      "options": [
+        {
+          "option": "5040"
+        },
+        {
+          "option": "720"
+        },
+        {
+          "option": "2880"
+        },
+        {
+          "option": "1440",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "5 अलग-अलग झंडों को एक खंभे पर कितने तरीकों से व्यवस्थित किया जा सकता है ताकि 2 विशिष्ट झंडे कभी भी साथ न हों?",
+      "options": [
+        {
+          "option": "72",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "120"
+        }
+      ]
+    },
+    {
+      "question": "3 अलग-अलग अंगूठियों को 5 उंगलियों में कितने तरीकों से पहना जा सकता है ताकि कोई भी दो अंगूठियाँ एक ही उंगली पर न हों (रैखिक व्यवस्था मानें)?",
+      "options": [
+        {
+          "option": "60"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "36"
+        }
+      ]
+    },
+    {
+      "question": "4 अलग-अलग वस्तुओं को कितने तरीकों से व्यवस्थित किया जा सकता है ताकि 2 विशिष्ट वस्तुएँ कभी भी साथ न हों?",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "24"
+        }
+      ]
+    },
+    {
+      "question": "3 पुरुषों और 2 महिलाओं को एक पंक्ति में कितने तरीकों से व्यवस्थित किया जा सकता है ताकि महिलाएँ अलग-अलग रहें?",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "72",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        }
+      ]
+    },
+    {
+      "question": "5 पुस्तकों को एक शेल्फ पर कितने तरीकों से व्यवस्थित किया जा सकता है ताकि 2 विशिष्ट पुस्तकें साथ न हों?",
+      "options": [
+        {
+          "option": "60"
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "72",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "4 अलग-अलग अक्षरों को कितने तरीकों से व्यवस्थित किया जा सकता है ताकि 2 विशिष्ट अक्षर कभी भी साथ न हों?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "6 लोगों को एक पंक्ति में कितने तरीकों से व्यवस्थित किया जा सकता है ताकि 2 विशिष्ट लोग साथ न हों?",
+      "options": [
+        {
+          "option": "240"
+        },
+        {
+          "option": "360"
+        },
+        {
+          "option": "480",
+          "is_answer": true
+        },
+        {
+          "option": "720"
+        }
+      ]
+    },
+    {
+      "question": "3 अलग-अलग वस्तुओं को कितने तरीकों से व्यवस्थित किया जा सकता है ताकि 2 विशिष्ट वस्तुएँ कभी भी साथ न हों?",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "यदि 2 विशिष्ट पुस्तकें हमेशा साथ हों, तो 5 अलग-अलग पुस्तकों को एक शेल्फ पर कितने तरीकों से व्यवस्थित किया जा सकता है?",
+      "options": [
+        {
+          "option": "72"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "48",
+          "is_answer": true
+        },
+        {
+          "option": "120"
+        }
+      ]
+    },
+    {
+      "question": "एक पंक्ति में 4 लड़कों और 3 लड़कियों की व्यवस्था की संख्या ज्ञात कीजिए ताकि तीनों लड़कियां हमेशा साथ रहें।",
+      "options": [
+        {
+          "option": "5040"
+        },
+        {
+          "option": "144"
+        },
+        {
+          "option": "720",
+          "is_answer": true
+        },
+        {
+          "option": "360"
+        }
+      ]
+    },
+    {
+      "question": "यदि 3 विशिष्ट व्यक्ति एक साथ बैठते हैं, तो 6 लोग एक पंक्ति में कितने तरीकों से बैठ सकते हैं?",
+      "options": [
+        {
+          "option": "144",
+          "is_answer": true
+        },
+        {
+          "option": "720"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "48"
+        }
+      ]
+    },
+    {
+      "question": "'LEADER' शब्द के अक्षरों को कितने तरीकों से व्यवस्थित किया जा सकता है ताकि दोनों E हमेशा साथ रहें?",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "360"
+        },
+        {
+          "option": "240",
+          "is_answer": true
+        },
+        {
+          "option": "720"
+        }
+      ]
+    },
+    {
+      "question": "यदि 4 गणित की पुस्तकें और 3 भौतिकी की पुस्तकें एक शेल्फ पर व्यवस्थित की जाती हैं, तो गणित की सभी पुस्तकें साथ हों, ऐसी कितनी व्यवस्थाएं संभव हैं?",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "5040"
+        },
+        {
+          "option": "576",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        }
+      ]
+    },
+    {
+      "question": "यदि 2 विशिष्ट मोती हमेशा साथ हों, तो हार में 5 अलग-अलग मोतियों को कितने तरीकों से व्यवस्थित किया जा सकता है?",
+      "options": [
+        {
+          "option": "48"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "24"
+        }
+      ]
+    },
+    {
+      "question": "'TRIANGLE' शब्द के अक्षरों को कितने तरीकों से व्यवस्थित किया जा सकता है ताकि स्वर हमेशा साथ रहें?",
+      "options": [
+        {
+          "option": "5040"
+        },
+        {
+          "option": "720"
+        },
+        {
+          "option": "8640"
+        },
+        {
+          "option": "4320",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "3 लड़कों और 2 लड़कियों को एक पंक्ति में कितने तरीकों से व्यवस्थित किया जा सकता है ताकि 2 लड़कियां हमेशा साथ रहें?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "48",
+          "is_answer": true
+        },
+        {
+          "option": "120"
+        }
+      ]
+    },
+    {
+      "question": "'DAUGHTER' शब्द की कितनी व्यवस्थाएं संभव हैं जिनमें स्वर हमेशा साथ रहें?",
+      "options": [
+        {
+          "option": "1080"
+        },
+        {
+          "option": "2160"
+        },
+        {
+          "option": "4320",
+          "is_answer": true
+        },
+        {
+          "option": "8640"
+        }
+      ]
+    },
+    {
+      "question": "यदि 3 रसायन विज्ञान की पुस्तकें और 3 गणित की पुस्तकें इस प्रकार व्यवस्थित की जाएं कि रसायन विज्ञान की सभी पुस्तकें साथ रहें, तो कितने तरीके हैं?",
+      "options": [
+        {
+          "option": "72"
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "288"
+        },
+        {
+          "option": "144",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि 2 विशिष्ट व्यक्ति एक साथ बैठते हैं, तो 4 लोग एक पंक्ति में कितने तरीकों से बैठ सकते हैं?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "'FLOWER' शब्द के अक्षरों को कितने तरीकों से व्यवस्थित किया जा सकता है ताकि स्वर साथ रहें?",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "240",
+          "is_answer": true
+        },
+        {
+          "option": "480"
+        },
+        {
+          "option": "720"
+        }
+      ]
+    },
+    {
+      "question": "यदि 2 विशिष्ट झंडे हमेशा साथ हों, तो 5 अलग-अलग झंडों को एक पंक्ति में कितने तरीकों से व्यवस्थित किया जा सकता है?",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "48",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "72"
+        }
+      ]
+    },
+    {
+      "question": "यदि 3 लाल गेंदें और 2 नीली गेंदें एक पंक्ति में व्यवस्थित की जानी हैं और सभी लाल गेंदें साथ रहनी चाहिए, तो कितने तरीके हैं?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "36",
+          "is_answer": true
+        },
+        {
+          "option": "72"
+        }
+      ]
+    },
+    {
+      "question": "'MOTHER' शब्द के अक्षरों को कितने तरीकों से व्यवस्थित किया जा सकता है ताकि स्वर साथ रहें?",
+      "options": [
+        {
+          "option": "240",
+          "is_answer": true
+        },
+        {
+          "option": "720"
+        },
+        {
+          "option": "480"
+        },
+        {
+          "option": "120"
+        }
+      ]
+    },
+    {
+      "question": "यदि 2 विशिष्ट वस्तुएं हमेशा साथ हों, तो 4 अलग-अलग वस्तुओं को एक पंक्ति में कितने तरीकों से व्यवस्थित किया जा सकता है?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "24"
+        }
+      ]
+    },
+    {
+      "question": "यदि 3 पुस्तकों को एक शेल्फ पर व्यवस्थित किया जाना है और तीनों साथ रहनी चाहिए, तो कितने तरीके हैं?",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "यदि 4 विशिष्ट व्यक्ति साथ रहें, तो 6 लोगों को एक पंक्ति में कितने तरीकों से व्यवस्थित किया जा सकता है?",
+      "options": [
+        {
+          "option": "288"
+        },
+        {
+          "option": "72"
+        },
+        {
+          "option": "576"
+        },
+        {
+          "option": "144",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "'STUDENT' शब्द के अक्षरों को कितने तरीकों से व्यवस्थित किया जा सकता है ताकि स्वर साथ रहें?",
+      "options": [
+        {
+          "option": "240"
+        },
+        {
+          "option": "360"
+        },
+        {
+          "option": "1440"
+        },
+        {
+          "option": "720",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "5 अलग-अलग मोतियों से हार बनाने के लिए उन्हें कितने तरीकों से व्यवस्थित किया जा सकता है?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "हार में n अलग-अलग मोतियों को व्यवस्थित करने के तरीकों का सूत्र क्या है?",
+      "options": [
+        {
+          "option": "n! / 2"
+        },
+        {
+          "option": "(n-1)! / 2",
+          "is_answer": true
+        },
+        {
+          "option": "n!"
+        },
+        {
+          "option": "(n-1)!"
+        }
+      ]
+    },
+    {
+      "question": "4 अलग-अलग मोतियों को हार में कितने तरीकों से व्यवस्थित किया जा सकता है?",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "यदि 6 अलग-अलग मोतियों का उपयोग करके माला बनाई जाती है, तो कितनी व्यवस्थाएं संभव हैं?",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "60",
+          "is_answer": true
+        },
+        {
+          "option": "360"
+        },
+        {
+          "option": "720"
+        }
+      ]
+    },
+    {
+      "question": "हार के क्रमचय में हम 2 से भाग क्यों देते हैं?",
+      "options": [
+        {
+          "option": "घड़ी की दिशा और विपरीत दिशा समान हैं",
+          "is_answer": true
+        },
+        {
+          "option": "मोतियों के अलग होने के कारण"
+        },
+        {
+          "option": "समरूपता के लिए"
+        },
+        {
+          "option": "कुल संख्या कम करने के लिए"
+        }
+      ]
+    },
+    {
+      "question": "7 अलग-अलग मोतियों को हार में कितने तरीकों से व्यवस्थित किया जा सकता है?",
+      "options": [
+        {
+          "option": "360",
+          "is_answer": true
+        },
+        {
+          "option": "5040"
+        },
+        {
+          "option": "720"
+        },
+        {
+          "option": "2520"
+        }
+      ]
+    },
+    {
+      "question": "यदि 3 अलग-अलग मोतियों का उपयोग करके हार बनाया जाता है, तो कितनी व्यवस्थाएं संभव हैं?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "n अलग-अलग वस्तुओं के वृत्ताकार क्रमचय की संख्या (n-1)! है। हार के लिए, यह है:",
+      "options": [
+        {
+          "option": "(n-1)! * 2"
+        },
+        {
+          "option": "n! / 2"
+        },
+        {
+          "option": "n!"
+        },
+        {
+          "option": "(n-1)! / 2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "8 अलग-अलग मोतियों को हार में कितने तरीकों से व्यवस्थित किया जा सकता है?",
+      "options": [
+        {
+          "option": "20160"
+        },
+        {
+          "option": "10080"
+        },
+        {
+          "option": "5040"
+        },
+        {
+          "option": "2520",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "हार की व्यवस्था के लिए निम्नलिखित में से क्या सत्य है?",
+      "options": [
+        {
+          "option": "केवल विपरीत दिशा पर विचार किया जाता है"
+        },
+        {
+          "option": "घड़ी की दिशा और विपरीत दिशा अलग हैं"
+        },
+        {
+          "option": "केवल घड़ी की दिशा पर विचार किया जाता है"
+        },
+        {
+          "option": "घड़ी की दिशा और विपरीत दिशा समान हैं",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "9 अलग-अलग मोतियों को हार में कितने तरीकों से व्यवस्थित किया जा सकता है?",
+      "options": [
+        {
+          "option": "40320"
+        },
+        {
+          "option": "80640"
+        },
+        {
+          "option": "20160",
+          "is_answer": true
+        },
+        {
+          "option": "161280"
+        }
+      ]
+    },
+    {
+      "question": "यदि n=5 है, तो हार की व्यवस्था की संख्या कितनी है?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "48"
+        }
+      ]
+    },
+    {
+      "question": "10 अलग-अलग फूलों की माला कितने तरीकों से बनाई जा सकती है?",
+      "options": [
+        {
+          "option": "181440",
+          "is_answer": true
+        },
+        {
+          "option": "362880"
+        },
+        {
+          "option": "725760"
+        },
+        {
+          "option": "1451520"
+        }
+      ]
+    },
+    {
+      "question": "हार में मोतियों की व्यवस्था किसका उदाहरण है?",
+      "options": [
+        {
+          "option": "रैखिक क्रमचय"
+        },
+        {
+          "option": "वृत्ताकार क्रमचय",
+          "is_answer": true
+        },
+        {
+          "option": "प्रायिकता"
+        },
+        {
+          "option": "संचय"
+        }
+      ]
+    },
+    {
+      "question": "यदि n=6 है, तो हार की व्यवस्था की संख्या कितनी है?",
+      "options": [
+        {
+          "option": "240"
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "60",
+          "is_answer": true
+        },
+        {
+          "option": "720"
+        }
+      ]
+    },
+    {
+      "question": "11 अलग-अलग मोतियों को हार में कितने तरीकों से व्यवस्थित किया जा सकता है?",
+      "options": [
+        {
+          "option": "7257600"
+        },
+        {
+          "option": "1814400",
+          "is_answer": true
+        },
+        {
+          "option": "14515200"
+        },
+        {
+          "option": "3628800"
+        }
+      ]
+    },
+    {
+      "question": "हार में 4 मोतियों के लिए इनमें से कौन सा मान सही है?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि n=7 है, तो हार की व्यवस्था की संख्या कितनी है?",
+      "options": [
+        {
+          "option": "5040"
+        },
+        {
+          "option": "360",
+          "is_answer": true
+        },
+        {
+          "option": "1440"
+        },
+        {
+          "option": "720"
+        }
+      ]
+    },
+    {
+      "question": "हार में 5 मोतियों को व्यवस्थित करने के तरीकों की संख्या कितनी है?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि n=4 है, तो हार की व्यवस्था की संख्या कितनी है?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "5 व्यक्तियों को एक गोल मेज के चारों ओर कितने तरीकों से बैठाया जा सकता है?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "24",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "4 अलग-अलग वस्तुओं को एक वृत्त में व्यवस्थित करने के कितने तरीके हैं?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि 6 व्यक्ति एक गोल मेज के चारों ओर बैठते हैं, तो कितनी व्यवस्थाएं संभव हैं?",
+      "options": [
+        {
+          "option": "720"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "120",
+          "is_answer": true
+        },
+        {
+          "option": "360"
+        }
+      ]
+    },
+    {
+      "question": "3 व्यक्तियों को एक गोलाकार संरचना में कितने तरीकों से व्यवस्थित किया जा सकता है?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "7 अलग-अलग वस्तुओं के लिए वृत्तीय क्रमचय (circular permutations) की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "1440"
+        },
+        {
+          "option": "2520"
+        },
+        {
+          "option": "5040"
+        },
+        {
+          "option": "720",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि (n-1)! = 24 है, तो n का मान क्या है?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "8 व्यक्ति एक गोल मेज के चारों ओर कितने तरीकों से बैठ सकते हैं?",
+      "options": [
+        {
+          "option": "40320"
+        },
+        {
+          "option": "10080"
+        },
+        {
+          "option": "20160"
+        },
+        {
+          "option": "5040",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "9 व्यक्तियों को एक गोल मेज के चारों ओर व्यवस्थित करने के तरीकों की संख्या है:",
+      "options": [
+        {
+          "option": "90720"
+        },
+        {
+          "option": "40320",
+          "is_answer": true
+        },
+        {
+          "option": "362880"
+        },
+        {
+          "option": "181440"
+        }
+      ]
+    },
+    {
+      "question": "यदि (n-1)! = 120 है, तो n ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "2 व्यक्तियों के लिए कितनी वृत्तीय व्यवस्थाएं संभव हैं?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "n अलग-अलग वस्तुओं के वृत्तीय क्रमचय का सूत्र क्या है?",
+      "options": [
+        {
+          "option": "(n-1)!/2"
+        },
+        {
+          "option": "(n-1)!",
+          "is_answer": true
+        },
+        {
+          "option": "n!"
+        },
+        {
+          "option": "n!/2"
+        }
+      ]
+    },
+    {
+      "question": "यदि 10 व्यक्तियों को एक गोल मेज पर बैठाना हो, तो तरीकों की संख्या है:",
+      "options": [
+        {
+          "option": "9!",
+          "is_answer": true
+        },
+        {
+          "option": "10!"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "9!/2"
+        }
+      ]
+    },
+    {
+      "question": "एक गोलाकार चाबी के छल्ले (key ring) में 4 चाबियों को कितने तरीकों से व्यवस्थित किया जा सकता है?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "5 अलग-अलग वस्तुओं के वृत्तीय क्रमचयों की संख्या है:",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "यदि (n-1)! = 720 है, तो n क्या है?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "720"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "11 व्यक्ति एक गोल मेज के चारों ओर कितने तरीकों से बैठ सकते हैं?",
+      "options": [
+        {
+          "option": "10!",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "11!"
+        },
+        {
+          "option": "11"
+        }
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन 6 व्यक्तियों को एक वृत्त में व्यवस्थित करने के तरीकों को दर्शाता है?",
+      "options": [
+        {
+          "option": "120",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "720"
+        },
+        {
+          "option": "60"
+        }
+      ]
+    },
+    {
+      "question": "n = 4 के लिए, वृत्तीय व्यवस्थाओं की संख्या है:",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "12 व्यक्तियों को एक गोलाकार संरचना में कितने तरीकों से व्यवस्थित किया जा सकता है?",
+      "options": [
+        {
+          "option": "11!",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "11"
+        },
+        {
+          "option": "12!"
+        }
+      ]
+    },
+    {
+      "question": "यदि (n-1)! = 1 है, तो n का मान क्या है?",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "'A' से शुरू होने वाले और स्वर (A, E, I, O, U) पर समाप्त होने वाले 3-अक्षर के कितने शब्द बनाए जा सकते हैं?",
+      "options": [
+        {
+          "option": "150"
+        },
+        {
+          "option": "130",
+          "is_answer": true
+        },
+        {
+          "option": "140"
+        },
+        {
+          "option": "120"
+        }
+      ]
+    },
+    {
+      "question": "4-अक्षर के शब्द में, यदि स्वर केवल सम स्थानों (दूसरे और चौथे) पर हों, तो 26 अक्षरों का उपयोग करके ऐसे कितने शब्द मौजूद हैं?",
+      "options": [
+        {
+          "option": "44100",
+          "is_answer": true
+        },
+        {
+          "option": "46000"
+        },
+        {
+          "option": "42000"
+        },
+        {
+          "option": "48000"
+        }
+      ]
+    },
+    {
+      "question": "व्यंजन से शुरू होने वाले और स्वर पर समाप्त होने वाले 3-अक्षर के कितने शब्द हैं?",
+      "options": [
+        {
+          "option": "500"
+        },
+        {
+          "option": "550"
+        },
+        {
+          "option": "600"
+        },
+        {
+          "option": "520",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "5-अक्षर के कितने शब्द बनाए जा सकते हैं कि पहला अक्षर 'B' हो और अंतिम अक्षर स्वर हो?",
+      "options": [
+        {
+          "option": "3500"
+        },
+        {
+          "option": "4000"
+        },
+        {
+          "option": "3250",
+          "is_answer": true
+        },
+        {
+          "option": "3000"
+        }
+      ]
+    },
+    {
+      "question": "यदि 3-अक्षर के शब्द में मध्य स्थान पर स्वर होना चाहिए, तो ऐसे कितने शब्द बनाए जा सकते हैं?",
+      "options": [
+        {
+          "option": "1500"
+        },
+        {
+          "option": "1300",
+          "is_answer": true
+        },
+        {
+          "option": "1200"
+        },
+        {
+          "option": "1400"
+        }
+      ]
+    },
+    {
+      "question": "'S' से शुरू होने वाले और व्यंजन पर समाप्त होने वाले 4-अक्षर के कितने शब्द हैं?",
+      "options": [
+        {
+          "option": "10920",
+          "is_answer": true
+        },
+        {
+          "option": "10000"
+        },
+        {
+          "option": "12000"
+        },
+        {
+          "option": "11000"
+        }
+      ]
+    },
+    {
+      "question": "3-अक्षर के शब्द में, यदि स्वर केवल विषम स्थानों (पहले और तीसरे) पर हों, तो कितने शब्द बनाए जा सकते हैं?",
+      "options": [
+        {
+          "option": "650"
+        },
+        {
+          "option": "600"
+        },
+        {
+          "option": "700"
+        },
+        {
+          "option": "625",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "स्वर से शुरू होने वाले और व्यंजन पर समाप्त होने वाले 2-अक्षर के कितने शब्द हैं?",
+      "options": [
+        {
+          "option": "105",
+          "is_answer": true
+        },
+        {
+          "option": "110"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "120"
+        }
+      ]
+    },
+    {
+      "question": "केवल स्वरों का उपयोग करके 3-अक्षर के कितने शब्द बनाए जा सकते हैं?",
+      "options": [
+        {
+          "option": "125",
+          "is_answer": true
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "150"
+        },
+        {
+          "option": "200"
+        }
+      ]
+    },
+    {
+      "question": "स्वर से शुरू होने वाले और स्वर पर समाप्त होने वाले 4-अक्षर के कितने शब्द हैं?",
+      "options": [
+        {
+          "option": "625",
+          "is_answer": true
+        },
+        {
+          "option": "650"
+        },
+        {
+          "option": "600"
+        },
+        {
+          "option": "700"
+        }
+      ]
+    },
+    {
+      "question": "'T' से शुरू होने वाले और दूसरे स्थान पर स्वर वाले 3-अक्षर के कितने शब्द हैं?",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "140"
+        },
+        {
+          "option": "130",
+          "is_answer": true
+        },
+        {
+          "option": "150"
+        }
+      ]
+    },
+    {
+      "question": "2-अक्षर के कितने शब्द बनाए जा सकते हैं कि दोनों अक्षर स्वर हों?",
+      "options": [
+        {
+          "option": "35"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "25",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "व्यंजन से शुरू होने वाले और तीसरे स्थान पर व्यंजन वाले 3-अक्षर के कितने शब्द हैं?",
+      "options": [
+        {
+          "option": "14742",
+          "is_answer": true
+        },
+        {
+          "option": "14000"
+        },
+        {
+          "option": "16000"
+        },
+        {
+          "option": "15000"
+        }
+      ]
+    },
+    {
+      "question": "'A' से शुरू होने वाले और 'Z' पर समाप्त होने वाले 4-अक्षर के कितने शब्द हैं?",
+      "options": [
+        {
+          "option": "676",
+          "is_answer": true
+        },
+        {
+          "option": "600"
+        },
+        {
+          "option": "750"
+        },
+        {
+          "option": "700"
+        }
+      ]
+    },
+    {
+      "question": "3-अक्षर के कितने शब्दों में पहले स्थान पर स्वर और दूसरे स्थान पर व्यंजन होता है?",
+      "options": [
+        {
+          "option": "550"
+        },
+        {
+          "option": "500"
+        },
+        {
+          "option": "600"
+        },
+        {
+          "option": "525",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "व्यंजन से शुरू होने वाले और स्वर पर समाप्त होने वाले 2-अक्षर के कितने शब्द हैं?",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "110"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "105",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "स्वर से शुरू होने वाले और स्वर पर समाप्त होने वाले 3-अक्षर के कितने शब्द हैं?",
+      "options": [
+        {
+          "option": "100"
+        },
+        {
+          "option": "200"
+        },
+        {
+          "option": "150"
+        },
+        {
+          "option": "125",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "4-अक्षर के कितने शब्दों में दूसरे स्थान पर स्वर और तीसरे स्थान पर व्यंजन होता है?",
+      "options": [
+        {
+          "option": "37000"
+        },
+        {
+          "option": "35000"
+        },
+        {
+          "option": "35100",
+          "is_answer": true
+        },
+        {
+          "option": "36000"
+        }
+      ]
+    },
+    {
+      "question": "'B' से शुरू होने वाले और व्यंजन पर समाप्त होने वाले 3-अक्षर के कितने शब्द हैं?",
+      "options": [
+        {
+          "option": "546",
+          "is_answer": true
+        },
+        {
+          "option": "500"
+        },
+        {
+          "option": "650"
+        },
+        {
+          "option": "600"
+        }
+      ]
+    },
+    {
+      "question": "स्वर से शुरू होने वाले और स्वर पर समाप्त होने वाले 2-अक्षर के कितने शब्द हैं?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "25",
+          "is_answer": true
+        },
+        {
+          "option": "35"
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "4 पुरुषों और 3 महिलाओं में से 3 सदस्यों की समिति बनानी है। यदि समिति में कम से कम 1 महिला होनी चाहिए, तो कितने तरीकों से समिति बनाई जा सकती है?",
+      "options": [
+        {
+          "option": "21"
+        },
+        {
+          "option": "35"
+        },
+        {
+          "option": "31",
+          "is_answer": true
+        },
+        {
+          "option": "28"
+        }
+      ]
+    },
+    {
+      "question": "3 पुरुषों और 3 महिलाओं में से 3 सदस्यों की समिति बनानी है। यदि समिति में कम से कम 2 महिलाएं होनी चाहिए, तो कितने तरीकों से समिति बनाई जा सकती है?",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "6 पुरुषों और 4 महिलाओं में से 5 सदस्यों की समिति बनानी है। यदि समिति में कम से कम 3 पुरुष होने चाहिए, तो कितने तरीकों से समिति बनाई जा सकती है?",
+      "options": [
+        {
+          "option": "150"
+        },
+        {
+          "option": "186",
+          "is_answer": true
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "200"
+        }
+      ]
+    },
+    {
+      "question": "4 पुरुषों और 4 महिलाओं में से 4 सदस्यों की समिति बनानी है। यदि समिति में अधिक से अधिक 2 पुरुष होने चाहिए, तो कितने तरीकों से समिति बनाई जा सकती है?",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "37",
+          "is_answer": true
+        },
+        {
+          "option": "40"
+        }
+      ]
+    },
+    {
+      "question": "5 पुरुषों और 2 महिलाओं में से 3 सदस्यों की समिति बनानी है। यदि समिति में कम से कम 1 पुरुष होना चाहिए, तो कितने तरीकों से समिति बनाई जा सकती है?",
+      "options": [
+        {
+          "option": "35",
+          "is_answer": true
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "6 पुरुषों और 3 महिलाओं में से 4 सदस्यों की समिति बनानी है। यदि समिति में कम से कम 2 महिलाएं होनी चाहिए, तो कितने तरीकों से समिति बनाई जा सकती है?",
+      "options": [
+        {
+          "option": "60",
+          "is_answer": true
+        },
+        {
+          "option": "80"
+        },
+        {
+          "option": "70"
+        },
+        {
+          "option": "50"
+        }
+      ]
+    },
+    {
+      "question": "4 पुरुषों और 4 महिलाओं में से 3 सदस्यों की समिति बनानी है। यदि समिति में अधिक से अधिक 1 महिला होनी चाहिए, तो कितने तरीकों से समिति बनाई जा सकती है?",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "5 पुरुषों और 5 महिलाओं में से 5 सदस्यों की समिति बनानी है। यदि समिति में कम से कम 4 महिलाएं होनी चाहिए, तो कितने तरीकों से समिति बनाई जा सकती है?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "35"
+        },
+        {
+          "option": "26",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "6 पुरुषों और 2 महिलाओं में से 3 सदस्यों की समिति बनानी है। यदि समिति में अधिक से अधिक 1 पुरुष होना चाहिए, तो कितने तरीकों से समिति बनाई जा सकती है?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "5 पुरुषों और 3 महिलाओं में से 4 सदस्यों की समिति बनानी है। यदि समिति में कम से कम 3 पुरुष होने चाहिए, तो कितने तरीकों से समिति बनाई जा सकती है?",
+      "options": [
+        {
+          "option": "50"
+        },
+        {
+          "option": "45"
+        },
+        {
+          "option": "40",
+          "is_answer": true
+        },
+        {
+          "option": "35"
+        }
+      ]
+    },
+    {
+      "question": "4 पुरुषों और 5 महिलाओं में से 3 सदस्यों की समिति बनानी है। यदि समिति में कम से कम 2 पुरुष होने चाहिए, तो कितने तरीकों से समिति बनाई जा सकती है?",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "30",
+          "is_answer": true
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "35"
+        }
+      ]
+    },
+    {
+      "question": "4 पुरुषों और 5 महिलाओं में से 4 सदस्यों की समिति बनानी है। यदि समिति में अधिक से अधिक 2 महिलाएं होनी चाहिए, तो कितने तरीकों से समिति बनाई जा सकती है?",
+      "options": [
+        {
+          "option": "35"
+        },
+        {
+          "option": "45"
+        },
+        {
+          "option": "50"
+        },
+        {
+          "option": "41",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "5 पुरुषों और 4 महिलाओं में से 3 सदस्यों की समिति बनानी है। यदि समिति में कम से कम 1 महिला होनी चाहिए, तो कितने तरीकों से समिति बनाई जा सकती है?",
+      "options": [
+        {
+          "option": "60"
+        },
+        {
+          "option": "80"
+        },
+        {
+          "option": "70"
+        },
+        {
+          "option": "74",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "6 पुरुषों और 4 महिलाओं में से 4 सदस्यों की समिति बनानी है। यदि समिति में अधिक से अधिक 1 पुरुष होना चाहिए, तो कितने तरीकों से समिति बनाई जा सकती है?",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "19",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "3 पुरुषों और 4 महिलाओं में से 3 सदस्यों की समिति बनानी है। यदि समिति में कम से कम 2 पुरुष होने चाहिए, तो कितने तरीकों से समिति बनाई जा सकती है?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "5 पुरुषों और 5 महिलाओं में से 4 सदस्यों की समिति बनानी है। यदि समिति में कम से कम 3 महिलाएं होनी चाहिए, तो कितने तरीकों से समिति बनाई जा सकती है?",
+      "options": [
+        {
+          "option": "70"
+        },
+        {
+          "option": "60",
+          "is_answer": true
+        },
+        {
+          "option": "80"
+        },
+        {
+          "option": "50"
+        }
+      ]
+    },
+    {
+      "question": "4 पुरुषों और 3 महिलाओं में से 3 सदस्यों की समिति बनानी है। यदि समिति में अधिक से अधिक 2 पुरुष होने चाहिए, तो कितने तरीकों से समिति बनाई जा सकती है?",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "35"
+        },
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "6 पुरुषों और 2 महिलाओं में से 4 सदस्यों की समिति बनानी है। यदि समिति में कम से कम 2 महिलाएं होनी चाहिए, तो कितने तरीकों से समिति बनाई जा सकती है?",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "5 पुरुषों और 5 महिलाओं में से 3 सदस्यों की समिति बनानी है। यदि समिति में अधिक से अधिक 1 महिला होनी चाहिए, तो कितने तरीकों से समिति बनाई जा सकती है?",
+      "options": [
+        {
+          "option": "50"
+        },
+        {
+          "option": "70"
+        },
+        {
+          "option": "60",
+          "is_answer": true
+        },
+        {
+          "option": "80"
+        }
+      ]
+    },
+    {
+      "question": "5 सीधी रेखाओं के लिए प्रतिच्छेदन बिंदुओं की अधिकतम संख्या क्या है?",
+      "options": [
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "4 वृत्तों के लिए प्रतिच्छेदन बिंदुओं की अधिकतम संख्या क्या है?",
+      "options": [
+        {
+          "option": "16"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "3 सीधी रेखाओं द्वारा कितने प्रतिच्छेदन बिंदु बनते हैं?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "3 वृत्तों के लिए प्रतिच्छेदन बिंदुओं की अधिकतम संख्या क्या है?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "यदि n=6 है, तो सीधी रेखाओं के लिए प्रतिच्छेदन बिंदुओं की अधिकतम संख्या क्या है?",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "2 वृत्तों के लिए प्रतिच्छेदन बिंदुओं की अधिकतम संख्या क्या है?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "10 सीधी रेखाओं द्वारा कितने प्रतिच्छेदन बिंदु बनते हैं?",
+      "options": [
+        {
+          "option": "40"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "45",
+          "is_answer": true
+        },
+        {
+          "option": "50"
+        }
+      ]
+    },
+    {
+      "question": "5 वृत्तों के लिए प्रतिच्छेदन बिंदुओं की अधिकतम संख्या क्या है?",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि n=4 है, तो सीधी रेखाओं के लिए प्रतिच्छेदन बिंदुओं की अधिकतम संख्या क्या है?",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "6 वृत्तों के लिए प्रतिच्छेदन बिंदुओं की अधिकतम संख्या क्या है?",
+      "options": [
+        {
+          "option": "30",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "24"
+        }
+      ]
+    },
+    {
+      "question": "7 सीधी रेखाओं द्वारा कितने प्रतिच्छेदन बिंदु बनते हैं?",
+      "options": [
+        {
+          "option": "28"
+        },
+        {
+          "option": "49"
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "21",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "7 वृत्तों के लिए प्रतिच्छेदन बिंदुओं की अधिकतम संख्या क्या है?",
+      "options": [
+        {
+          "option": "21"
+        },
+        {
+          "option": "42",
+          "is_answer": true
+        },
+        {
+          "option": "49"
+        },
+        {
+          "option": "35"
+        }
+      ]
+    },
+    {
+      "question": "यदि n=8 है, तो सीधी रेखाओं के लिए प्रतिच्छेदन बिंदुओं की अधिकतम संख्या क्या है?",
+      "options": [
+        {
+          "option": "28",
+          "is_answer": true
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "64"
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "8 वृत्तों के लिए प्रतिच्छेदन बिंदुओं की अधिकतम संख्या क्या है?",
+      "options": [
+        {
+          "option": "64"
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "28"
+        },
+        {
+          "option": "56",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "9 सीधी रेखाओं द्वारा कितने प्रतिच्छेदन बिंदु बनते हैं?",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "81"
+        },
+        {
+          "option": "45"
+        },
+        {
+          "option": "36",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "9 वृत्तों के लिए प्रतिच्छेदन बिंदुओं की अधिकतम संख्या क्या है?",
+      "options": [
+        {
+          "option": "63"
+        },
+        {
+          "option": "81"
+        },
+        {
+          "option": "72",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        }
+      ]
+    },
+    {
+      "question": "यदि n=12 है, तो सीधी रेखाओं के लिए प्रतिच्छेदन बिंदुओं की अधिकतम संख्या क्या है?",
+      "options": [
+        {
+          "option": "132"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "66",
+          "is_answer": true
+        },
+        {
+          "option": "144"
+        }
+      ]
+    },
+    {
+      "question": "10 वृत्तों के लिए प्रतिच्छेदन बिंदुओं की अधिकतम संख्या क्या है?",
+      "options": [
+        {
+          "option": "90",
+          "is_answer": true
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "45"
+        },
+        {
+          "option": "80"
+        }
+      ]
+    },
+    {
+      "question": "11 सीधी रेखाओं द्वारा कितने प्रतिच्छेदन बिंदु बनते हैं?",
+      "options": [
+        {
+          "option": "66"
+        },
+        {
+          "option": "22"
+        },
+        {
+          "option": "55",
+          "is_answer": true
+        },
+        {
+          "option": "121"
+        }
+      ]
+    },
+    {
+      "question": "11 वृत्तों के लिए प्रतिच्छेदन बिंदुओं की अधिकतम संख्या क्या है?",
+      "options": [
+        {
+          "option": "121"
+        },
+        {
+          "option": "110",
+          "is_answer": true
+        },
+        {
+          "option": "55"
+        },
+        {
+          "option": "100"
+        }
+      ]
+    },
+    {
+      "question": "एक समतल में 5 अलग-अलग बिंदुओं को जोड़ने से कितनी रेखाएं बनाई जा सकती हैं, जहाँ कोई भी तीन बिंदु संरेख नहीं हैं?",
+      "options": [
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "एक समतल में 6 अलग-अलग बिंदुओं का उपयोग करके कितने त्रिभुज बनाए जा सकते हैं, जहाँ कोई भी तीन बिंदु संरेख नहीं हैं?",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "6 भुजाओं वाले एक उत्तल बहुभुज में विकर्णों की संख्या कितनी है?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "एक समतल में 10 अलग-अलग बिंदुओं द्वारा कितनी रेखाएं बनाई जा सकती हैं, जिनमें से कोई भी तीन संरेख नहीं हैं?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "90"
+        },
+        {
+          "option": "45",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "एक समतल में 5 बिंदुओं द्वारा कितने त्रिभुज बनाए जा सकते हैं, जिनमें से कोई भी तीन संरेख नहीं हैं?",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "8 भुजाओं वाले बहुभुज में विकर्णों की संख्या कितनी है?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "यदि एक समतल में 4 बिंदु हैं, जिनमें से कोई भी तीन संरेख नहीं हैं, तो कितनी रेखाएं खींची जा सकती हैं?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक समतल में 4 बिंदुओं द्वारा कितने त्रिभुज बनाए जा सकते हैं, जिनमें से कोई भी तीन संरेख नहीं हैं?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "पंचभुज (5 भुजाएं) में विकर्णों की संख्या कितनी है?",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "एक समतल में 12 बिंदुओं द्वारा कितनी रेखाएं बनाई जा सकती हैं, जिनमें से कोई भी तीन संरेख नहीं हैं?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "132"
+        },
+        {
+          "option": "66",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        }
+      ]
+    },
+    {
+      "question": "एक समतल में 7 बिंदुओं द्वारा कितने त्रिभुज बनाए जा सकते हैं, जिनमें से कोई भी तीन संरेख नहीं हैं?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "42"
+        },
+        {
+          "option": "21"
+        },
+        {
+          "option": "35",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "दशभुज (10 भुजाएं) में विकर्णों की संख्या कितनी है?",
+      "options": [
+        {
+          "option": "45"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "35",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "एक समतल में 8 बिंदुओं द्वारा कितनी रेखाएं बनाई जा सकती हैं, जिनमें से कोई भी तीन संरेख नहीं हैं?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "56"
+        },
+        {
+          "option": "28",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "एक समतल में 8 बिंदुओं द्वारा कितने त्रिभुज बनाए जा सकते हैं, जिनमें से कोई भी तीन संरेख नहीं हैं?",
+      "options": [
+        {
+          "option": "84"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "28"
+        },
+        {
+          "option": "56",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "सप्तभुज (7 भुजाएं) में विकर्णों की संख्या कितनी है?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "21"
+        },
+        {
+          "option": "28"
+        },
+        {
+          "option": "14",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक समतल में 9 बिंदुओं द्वारा कितनी रेखाएं बनाई जा सकती हैं, जिनमें से कोई भी तीन संरेख नहीं हैं?",
+      "options": [
+        {
+          "option": "72"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "36",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "एक समतल में 9 बिंदुओं द्वारा कितने त्रिभुज बनाए जा सकते हैं, जिनमें से कोई भी तीन संरेख नहीं हैं?",
+      "options": [
+        {
+          "option": "126"
+        },
+        {
+          "option": "84",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "नवभुज (9 भुजाएं) में विकर्णों की संख्या कितनी है?",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "27",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        }
+      ]
+    },
+    {
+      "question": "एक समतल में 11 बिंदुओं द्वारा कितनी रेखाएं बनाई जा सकती हैं, जिनमें से कोई भी तीन संरेख नहीं हैं?",
+      "options": [
+        {
+          "option": "11"
+        },
+        {
+          "option": "55",
+          "is_answer": true
+        },
+        {
+          "option": "22"
+        },
+        {
+          "option": "110"
+        }
+      ]
+    },
+    {
+      "question": "एक समतल में 10 बिंदुओं द्वारा कितने त्रिभुज बनाए जा सकते हैं, जिनमें से कोई भी तीन संरेख नहीं हैं?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "240"
+        },
+        {
+          "option": "120",
+          "is_answer": true
+        },
+        {
+          "option": "45"
+        }
+      ]
+    },
+    {
+      "question": "यदि एक कमरे में 10 लोग हैं और प्रत्येक व्यक्ति अन्य सभी के साथ एक बार हाथ मिलाता है, तो कुल कितने हैंडशेक होंगे?",
+      "options": [
+        {
+          "option": "55"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "90"
+        },
+        {
+          "option": "45",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि 12 लोग एक-दूसरे को ग्रीटिंग कार्ड देते हैं, तो कुल कितने कार्डों का आदान-प्रदान होगा?",
+      "options": [
+        {
+          "option": "66"
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "132",
+          "is_answer": true
+        },
+        {
+          "option": "144"
+        }
+      ]
+    },
+    {
+      "question": "8 टीमों के राउंड-रॉबिन टूर्नामेंट में जहाँ प्रत्येक टीम दूसरी टीम के साथ एक बार खेलती है, तो कुल कितने मैच खेले जाएंगे?",
+      "options": [
+        {
+          "option": "64"
+        },
+        {
+          "option": "56"
+        },
+        {
+          "option": "28",
+          "is_answer": true
+        },
+        {
+          "option": "32"
+        }
+      ]
+    },
+    {
+      "question": "यदि 20 लोग एक-दूसरे से हाथ मिलाते हैं, तो हैंडशेक की कुल संख्या क्या होगी?",
+      "options": [
+        {
+          "option": "380"
+        },
+        {
+          "option": "190",
+          "is_answer": true
+        },
+        {
+          "option": "210"
+        },
+        {
+          "option": "400"
+        }
+      ]
+    },
+    {
+      "question": "यदि 15 लोग ग्रीटिंग कार्ड का आदान-प्रदान करते हैं, तो कितने कार्डों का आदान-प्रदान होगा?",
+      "options": [
+        {
+          "option": "105"
+        },
+        {
+          "option": "195"
+        },
+        {
+          "option": "225"
+        },
+        {
+          "option": "210",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक टूर्नामेंट में 6 टीमें हैं। यदि प्रत्येक टीम दूसरी टीम के साथ एक बार खेलती है, तो कितने मैच होंगे?",
+      "options": [
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "36"
+        }
+      ]
+    },
+    {
+      "question": "यदि 5 लोग हैं और प्रत्येक अन्य के साथ हाथ मिलाता है, तो कितने हैंडशेक होंगे?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "यदि 9 लोग ग्रीटिंग कार्ड का आदान-प्रदान करते हैं, तो कितने कार्डों का आदान-प्रदान होगा?",
+      "options": [
+        {
+          "option": "72",
+          "is_answer": true
+        },
+        {
+          "option": "45"
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "81"
+        }
+      ]
+    },
+    {
+      "question": "10 टीमों के टूर्नामेंट में, यदि प्रत्येक टीम दूसरी टीम के साथ एक बार खेलती है, तो कितने मैच खेले जाएंगे?",
+      "options": [
+        {
+          "option": "50"
+        },
+        {
+          "option": "90"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "45",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि 7 लोग एक-दूसरे से हाथ मिलाते हैं, तो कितने हैंडशेक होंगे?",
+      "options": [
+        {
+          "option": "42"
+        },
+        {
+          "option": "21",
+          "is_answer": true
+        },
+        {
+          "option": "49"
+        },
+        {
+          "option": "14"
+        }
+      ]
+    },
+    {
+      "question": "यदि 11 लोग ग्रीटिंग कार्ड का आदान-प्रदान करते हैं, तो कितने कार्डों का आदान-प्रदान होगा?",
+      "options": [
+        {
+          "option": "55"
+        },
+        {
+          "option": "121"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "110",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "4 टीमों के टूर्नामेंट में, यदि प्रत्येक टीम दूसरी टीम के साथ एक बार खेलती है, तो कितने मैच खेले जाएंगे?",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "यदि 14 लोग एक-दूसरे से हाथ मिलाते हैं, तो कितने हैंडशेक होंगे?",
+      "options": [
+        {
+          "option": "182"
+        },
+        {
+          "option": "91",
+          "is_answer": true
+        },
+        {
+          "option": "70"
+        },
+        {
+          "option": "196"
+        }
+      ]
+    },
+    {
+      "question": "यदि 13 लोग ग्रीटिंग कार्ड का आदान-प्रदान करते हैं, तो कितने कार्डों का आदान-प्रदान होगा?",
+      "options": [
+        {
+          "option": "169"
+        },
+        {
+          "option": "140"
+        },
+        {
+          "option": "78"
+        },
+        {
+          "option": "156",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "5 टीमों के टूर्नामेंट में, यदि प्रत्येक टीम दूसरी टीम के साथ एक बार खेलती है, तो कितने मैच खेले जाएंगे?",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "यदि 8 लोग एक-दूसरे से हाथ मिलाते हैं, तो कितने हैंडशेक होंगे?",
+      "options": [
+        {
+          "option": "64"
+        },
+        {
+          "option": "56"
+        },
+        {
+          "option": "28",
+          "is_answer": true
+        },
+        {
+          "option": "32"
+        }
+      ]
+    },
+    {
+      "question": "यदि 6 लोग ग्रीटिंग कार्ड का आदान-प्रदान करते हैं, तो कितने कार्डों का आदान-प्रदान होगा?",
+      "options": [
+        {
+          "option": "36"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "30",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "7 टीमों के टूर्नामेंट में, यदि प्रत्येक टीम दूसरी टीम के साथ एक बार खेलती है, तो कितने मैच खेले जाएंगे?",
+      "options": [
+        {
+          "option": "21",
+          "is_answer": true
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "42"
+        },
+        {
+          "option": "49"
+        }
+      ]
+    },
+    {
+      "question": "यदि 16 लोग एक-दूसरे से हाथ मिलाते हैं, तो कितने हैंडशेक होंगे?",
+      "options": [
+        {
+          "option": "240"
+        },
+        {
+          "option": "120",
+          "is_answer": true
+        },
+        {
+          "option": "130"
+        },
+        {
+          "option": "256"
+        }
+      ]
+    },
+    {
+      "question": "यदि 4 लोग ग्रीटिंग कार्ड का आदान-प्रदान करते हैं, तो कितने कार्डों का आदान-प्रदान होगा?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "3 अलग-अलग गेंदों को 2 अलग-अलग बक्सों में कितने तरीकों से वितरित किया जा सकता है?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि 4 अलग-अलग पत्र और 3 अलग-अलग मेलबॉक्स हैं, तो पत्रों को कितने तरीकों से पोस्ट किया जा सकता है?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "81",
+          "is_answer": true
+        },
+        {
+          "option": "64"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "5 अलग-अलग छात्रों को 2 अलग-अलग पुरस्कार कितने तरीकों से दिए जा सकते हैं?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "25",
+          "is_answer": true
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "5 अलग-अलग सिक्कों को 2 अलग-अलग जेबों में वितरित करने के तरीकों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "32",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि 2 अलग-अलग वस्तुओं को 4 अलग-अलग बक्सों में रखा जाता है, तो कितने तरीके संभव हैं?",
+      "options": [
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "3 अलग-अलग अंगूठियों को 4 अलग-अलग उंगलियों में कितने तरीकों से पहना जा सकता है?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "81"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "64",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "6 अलग-अलग वस्तुओं को 2 अलग-अलग डिब्बों में वितरित करने के तरीकों की गणना करें।",
+      "options": [
+        {
+          "option": "36"
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "64",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "4 अलग-अलग पुस्तकों को 2 अलग-अलग अलमारियों पर कितने तरीकों से रखा जा सकता है?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि 3 अलग-अलग उपहार 3 अलग-अलग दोस्तों के बीच वितरित किए जाते हैं, तो कितने तरीके संभव हैं?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "27",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "2 अलग-अलग गेंदों को 3 अलग-अलग बक्सों में कितने तरीकों से रखा जा सकता है?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "5 अलग-अलग कार्यों को 3 अलग-अलग कर्मचारियों को सौंपने के तरीकों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "243",
+          "is_answer": true
+        },
+        {
+          "option": "125"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "4 अलग-अलग झंडों को 3 अलग-अलग खंभों पर कितने तरीकों से फहराया जा सकता है?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "64"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "81",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि 2 अलग-अलग पत्र 5 अलग-अलग लेटर बॉक्स में पोस्ट किए जाने हैं, तो कितने तरीके हैं?",
+      "options": [
+        {
+          "option": "32"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "25",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "3 अलग-अलग खिलौने 2 अलग-अलग बच्चों को कितने तरीकों से दिए जा सकते हैं?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "4 अलग-अलग कंचों को 4 अलग-अलग कपों में रखने के तरीकों की गणना करें।",
+      "options": [
+        {
+          "option": "256",
+          "is_answer": true
+        },
+        {
+          "option": "64"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "2 अलग-अलग वस्तुओं को 6 अलग-अलग बक्सों में कितने तरीकों से वितरित किया जा सकता है?",
+      "options": [
+        {
+          "option": "36",
+          "is_answer": true
+        },
+        {
+          "option": "64"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "5 अलग-अलग पेन 2 अलग-अलग पेन स्टैंड में कितने तरीकों से रखे जा सकते हैं?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "32",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि 3 अलग-अलग गेंदों को 5 अलग-अलग बक्सों में रखा जाता है, तो कितने तरीके संभव हैं?",
+      "options": [
+        {
+          "option": "125",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "243"
+        }
+      ]
+    },
+    {
+      "question": "4 अलग-अलग चाबियों को 2 अलग-अलग की रिंग में कितने तरीकों से डाला जा सकता है?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "4 अलग-अलग लोगों के बीच 2 अलग-अलग पुरस्कार वितरित करने के तरीकों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "x1 + x2 + x3 = 3 के लिए गैर-ऋणात्मक पूर्णांक समाधानों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "5 समान सिक्कों को 3 बच्चों के बीच कितने तरीकों से वितरित किया जा सकता है?",
+      "options": [
+        {
+          "option": "21",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "x1 + x2 = 4 के लिए गैर-ऋणात्मक पूर्णांक समाधानों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "4 समान गेंदों को 2 अलग-अलग बक्सों में वितरित करने के कितने तरीके हैं?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "x1 + x2 + x3 = 2 के लिए गैर-ऋणात्मक पूर्णांक समाधानों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "6 समान वस्तुओं को 2 डिब्बों में कितने तरीकों से रखा जा सकता है?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "x1 + x2 + x3 + x4 = 1 के लिए गैर-ऋणात्मक पूर्णांक समाधानों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "3 समान सेबों को 3 लोगों में वितरित करने के कितने तरीके हैं?",
+      "options": [
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "x1 + x2 = 5 के लिए गैर-ऋणात्मक पूर्णांक समाधानों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "2 समान टॉफियां 4 बच्चों को कितने तरीकों से दी जा सकती हैं?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "x1 + x2 + x3 = 4 के लिए गैर-ऋणात्मक पूर्णांक समाधानों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "5 समान पेन 2 जेबों में वितरित करने के कितने तरीके हैं?",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "x1 + x2 + x3 + x4 = 2 के लिए गैर-ऋणात्मक पूर्णांक समाधानों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "16"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "3 समान किताबें 2 अलमारियों पर कितने तरीकों से रखी जा सकती हैं?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "x1 + x2 = 6 के लिए गैर-ऋणात्मक पूर्णांक समाधानों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "4 समान कंचे 3 दोस्तों में वितरित करने के कितने तरीके हैं?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "x1 + x2 + x3 = 5 के लिए गैर-ऋणात्मक पूर्णांक समाधानों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "21",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "2 समान खिलौने 5 बच्चों के बीच कितने तरीकों से वितरित किए जा सकते हैं?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "x1 + x2 + x3 + x4 = 3 के लिए गैर-ऋणात्मक पूर्णांक समाधानों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "3 समान कुकीज़ 2 लोगों में वितरित करने के कितने तरीके हैं?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "x + y = 5 के लिए धनात्मक पूर्णांक हलों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "x + y + z = 6 के लिए धनात्मक पूर्णांक हलों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "x + y + z = 4 के लिए धनात्मक पूर्णांक हलों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "x + y + z + w = 5 के लिए धनात्मक पूर्णांक हलों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "x + y = 10 के लिए धनात्मक पूर्णांक हलों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "45"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "x + y + z = 7 के लिए धनात्मक पूर्णांक हलों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "35"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "21"
+        }
+      ]
+    },
+    {
+      "question": "x + y + z + w = 6 के लिए धनात्मक पूर्णांक हलों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "x + y + z = 5 के लिए धनात्मक पूर्णांक हलों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "x + y + z + w = 4 के लिए धनात्मक पूर्णांक हलों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "x + y = 8 के लिए धनात्मक पूर्णांक हलों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "28"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "x + y + z = 8 के लिए धनात्मक पूर्णांक हलों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "21",
+          "is_answer": true
+        },
+        {
+          "option": "28"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "56"
+        }
+      ]
+    },
+    {
+      "question": "x + y + z + w = 7 के लिए धनात्मक पूर्णांक हलों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "56"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "35"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "x + y + z + w + v = 5 के लिए धनात्मक पूर्णांक हलों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "x + y = 3 के लिए धनात्मक पूर्णांक हलों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "x + y + z = 3 के लिए धनात्मक पूर्णांक हलों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "x + y + z + w = 8 के लिए धनात्मक पूर्णांक हलों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "35",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "56"
+        },
+        {
+          "option": "70"
+        }
+      ]
+    },
+    {
+      "question": "x + y = 6 के लिए धनात्मक पूर्णांक हलों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "x + y + z = 9 के लिए धनात्मक पूर्णांक हलों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "45"
+        },
+        {
+          "option": "28",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        }
+      ]
+    },
+    {
+      "question": "x + y + z + w = 9 के लिए धनात्मक पूर्णांक हलों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "56",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "84"
+        },
+        {
+          "option": "126"
+        }
+      ]
+    },
+    {
+      "question": "x + y + z + w + v = 6 के लिए धनात्मक पूर्णांक हलों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "शब्द 'CAT' का शब्दकोश में रैंक क्या है?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "शब्द 'DOG' का शब्दकोश में रैंक क्या है?",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "शब्द 'BAT' का शब्दकोश में रैंक ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "शब्द 'APPLE' का शब्दकोश में रैंक क्या है?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "यदि 'ABC' शब्द के अक्षरों के सभी क्रमपरिवर्तनों को शब्दकोश क्रम में व्यवस्थित किया जाए, तो 'CBA' का रैंक क्या है?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "शब्द 'BOX' का रैंक क्या है?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "शब्दकोश में 'ACE' शब्द का रैंक है:",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "C, A, B अक्षरों का उपयोग करके शब्दकोश क्रम में 'CAB' से पहले कितने शब्द आते हैं?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "शब्द 'EAT' का रैंक क्या है?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "'TEA' शब्द का रैंक है:",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि 'MATH' के अक्षरों को व्यवस्थित किया जाए, तो 'MATH' का रैंक क्या है?",
+      "options": [
+        {
+          "option": "16"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "14",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "'DAD' का रैंक क्या है?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "'BED' का रैंक है:",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "'AIR' का रैंक क्या है?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "'ZOO' का रैंक है:",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "'JOY' का रैंक क्या है?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "'PEN' का रैंक है:",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "'SUN' का रैंक क्या है?",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "'KEY' का रैंक है:",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "'TOP' का रैंक क्या है?",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "संख्या 12 के कितने भाजक हैं? (12 = 2^2 * 3^1)",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "20 के लिए भाजकों की संख्या क्या है? (20 = 2^2 * 5^1)",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "यदि N = p^3 * q^2 है, तो N के कितने भाजक हैं?",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "36 के कितने भाजक हैं? (36 = 2^2 * 3^2)",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "100 के भाजकों की संख्या ज्ञात कीजिए। (100 = 2^2 * 5^2)",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "2^4 के कितने भाजक हैं?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "यदि N = p^5 है, तो N के कितने भाजक हैं?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "72 के कितने भाजक हैं? (72 = 2^3 * 3^2)",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "48 के भाजकों की संख्या क्या है? (48 = 2^4 * 3^1)",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "यदि N = p^1 * q^1 * r^1 है, तो N के कितने भाजक हैं?",
+      "options": [
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "15 के कितने भाजक हैं? (15 = 3^1 * 5^1)",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "80 के भाजकों की संख्या ज्ञात कीजिए। (80 = 2^4 * 5^1)",
+      "options": [
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "2^2 * 3^3 के कितने भाजक हैं?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि N = p^2 * q^2 * r^1 है, तो N के कितने भाजक हैं?",
+      "options": [
+        {
+          "option": "18",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "50 के कितने भाजक हैं? (50 = 2^1 * 5^2)",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "2^5 के भाजकों की संख्या क्या है?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "210 के कितने भाजक हैं? (210 = 2^1 * 3^1 * 5^1 * 7^1)",
+      "options": [
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "यदि N = p^4 * q^3 है, तो N के कितने भाजक हैं?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "60 के कितने भाजक हैं? (60 = 2^2 * 3^1 * 5^1)",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "2^3 * 5^2 के भाजकों की संख्या क्या है?",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "!3 (3 तत्वों के अव्यवस्थाओं की संख्या) का मान क्या है?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "!4 का मान क्या है?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "!1 का मान क्या है?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "!2 का मान क्या है?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "!0 का मान क्या है?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "अपरिभाषित"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "e"
+        }
+      ]
+    },
+    {
+      "question": "कौन सा पुनरावृत्ति संबंध !n को सही ढंग से परिभाषित करता है?",
+      "options": [
+        {
+          "option": "!n = n!(n-1)"
+        },
+        {
+          "option": "!n = (n-1)(!(n-1) + !(n-2))",
+          "is_answer": true
+        },
+        {
+          "option": "!n = !(n-1) + !(n-2)"
+        },
+        {
+          "option": "!n = n! - !(n-1)"
+        }
+      ]
+    },
+    {
+      "question": "!5 का मान क्या है?",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "44",
+          "is_answer": true
+        },
+        {
+          "option": "50"
+        },
+        {
+          "option": "60"
+        }
+      ]
+    },
+    {
+      "question": "जैसे-जैसे n अनंत की ओर बढ़ता है, !n / n! का अनुपात किस मान की ओर जाता है?",
+      "options": [
+        {
+          "option": "e"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1/e",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "!6 का मान क्या है?",
+      "options": [
+        {
+          "option": "265",
+          "is_answer": true
+        },
+        {
+          "option": "720"
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "360"
+        }
+      ]
+    },
+    {
+      "question": "कौन सा सूत्र n तत्वों के अव्यवस्था (derangement) का प्रतिनिधित्व करता है?",
+      "options": [
+        {
+          "option": "n! * sum_{k=0}^n (1/k!)"
+        },
+        {
+          "option": "sum_{k=0}^n ((-1)^k * k!)"
+        },
+        {
+          "option": "n! * sum_{k=0}^n ((-1)^k / k!)",
+          "is_answer": true
+        },
+        {
+          "option": "n! / e"
+        }
+      ]
+    },
+    {
+      "question": "अव्यवस्थाओं (derangements) का दूसरा नाम क्या है?",
+      "options": [
+        {
+          "option": "उपसमुच्चय क्रमचय"
+        },
+        {
+          "option": "वृत्ताकार क्रमचय"
+        },
+        {
+          "option": "पूर्ण क्रमचय",
+          "is_answer": true
+        },
+        {
+          "option": "आंशिक क्रमचय"
+        }
+      ]
+    },
+    {
+      "question": "यदि !n = n * !(n-1) + k है, तो k क्या है?",
+      "options": [
+        {
+          "option": "(-1)^n",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "3 पत्रों को 3 लिफाफों में कितनी तरह से रखा जा सकता है कि कोई भी सही लिफाफे में न हो?",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "!7 का मान क्या है?",
+      "options": [
+        {
+          "option": "2520"
+        },
+        {
+          "option": "1000"
+        },
+        {
+          "option": "1854",
+          "is_answer": true
+        },
+        {
+          "option": "5040"
+        }
+      ]
+    },
+    {
+      "question": "n तत्वों के अव्यवस्थाओं की संख्या किस मान के निकटतम पूर्णांक है?",
+      "options": [
+        {
+          "option": "e^n"
+        },
+        {
+          "option": "n! * e"
+        },
+        {
+          "option": "n! / e",
+          "is_answer": true
+        },
+        {
+          "option": "n! / 2"
+        }
+      ]
+    },
+    {
+      "question": "!n के लिए निम्नलिखित में से कौन सा सत्य है?",
+      "options": [
+        {
+          "option": "!n = n * !(n-1) - (-1)^n"
+        },
+        {
+          "option": "!n = n! / n"
+        },
+        {
+          "option": "!n = (n-1) * !(n-1)"
+        },
+        {
+          "option": "!n = n * !(n-1) + (-1)^n",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "n तत्वों के यादृच्छिक क्रमचय के अव्यवस्था होने की संभावना क्या है?",
+      "options": [
+        {
+          "option": "!n / n!",
+          "is_answer": true
+        },
+        {
+          "option": "n! / !n"
+        },
+        {
+          "option": "1/e^n"
+        },
+        {
+          "option": "1/n"
+        }
+      ]
+    },
+    {
+      "question": "!8 का मान क्या है?",
+      "options": [
+        {
+          "option": "20160"
+        },
+        {
+          "option": "10000"
+        },
+        {
+          "option": "14833",
+          "is_answer": true
+        },
+        {
+          "option": "40320"
+        }
+      ]
+    },
+    {
+      "question": "!n = n! * sum_{k=0}^n ((-1)^k / k!) सूत्र किस सिद्धांत का उपयोग करके प्राप्त किया जाता है?",
+      "options": [
+        {
+          "option": "पिजनहोल सिद्धांत"
+        },
+        {
+          "option": "समावेशन-अपवर्जन सिद्धांत",
+          "is_answer": true
+        },
+        {
+          "option": "गणितीय आगमन"
+        },
+        {
+          "option": "द्विपद प्रमेय"
+        }
+      ]
+    },
+    {
+      "question": "n=3 के लिए !n का मान क्या है?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "3 अलग-अलग फलों वाली टोकरी में से कम से कम एक फल चुनने के कितने तरीके हैं?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "एक व्यक्ति के पास 4 अलग-अलग किताबें हैं। वह कम से कम एक किताब कितने तरीकों से चुन सकता है?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "14"
+        }
+      ]
+    },
+    {
+      "question": "5 अलग-अलग तत्वों के सेट से कितने गैर-रिक्त उपसमुच्चय (non-empty subsets) बनाए जा सकते हैं?",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "31",
+          "is_answer": true
+        },
+        {
+          "option": "32"
+        }
+      ]
+    },
+    {
+      "question": "एक छात्र के पास 6 अलग-अलग पेन हैं। छात्र कम से कम एक पेन कितने तरीकों से चुन सकता है?",
+      "options": [
+        {
+          "option": "64"
+        },
+        {
+          "option": "62"
+        },
+        {
+          "option": "63",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        }
+      ]
+    },
+    {
+      "question": "यदि 7 अलग-अलग वस्तुएं हैं, तो कोई व्यक्ति कम से कम एक वस्तु कितने तरीकों से चुन सकता है?",
+      "options": [
+        {
+          "option": "49"
+        },
+        {
+          "option": "128"
+        },
+        {
+          "option": "127",
+          "is_answer": true
+        },
+        {
+          "option": "126"
+        }
+      ]
+    },
+    {
+      "question": "8 अलग-अलग वस्तुओं में से आप कम से कम एक वस्तु कितने तरीकों से चुन सकते हैं?",
+      "options": [
+        {
+          "option": "64"
+        },
+        {
+          "option": "255",
+          "is_answer": true
+        },
+        {
+          "option": "254"
+        },
+        {
+          "option": "256"
+        }
+      ]
+    },
+    {
+      "question": "एक सेट में 2 अलग-अलग तत्व हैं। इसके कितने गैर-रिक्त उपसमुच्चय हैं?",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "9 अलग-अलग वस्तुओं में से आप कम से कम एक वस्तु कितने तरीकों से चुन सकते हैं?",
+      "options": [
+        {
+          "option": "511",
+          "is_answer": true
+        },
+        {
+          "option": "510"
+        },
+        {
+          "option": "512"
+        },
+        {
+          "option": "81"
+        }
+      ]
+    },
+    {
+      "question": "एक बॉक्स में 10 अलग-अलग गेंदें हैं। कोई व्यक्ति कम से कम एक गेंद कितने तरीकों से चुन सकता है?",
+      "options": [
+        {
+          "option": "1024"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "1022"
+        },
+        {
+          "option": "1023",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "3 अलग-अलग वस्तुओं में से कम से कम एक वस्तु चुनने के तरीकों की संख्या क्या है?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "1 तत्व वाले सेट से कितने गैर-रिक्त उपसमुच्चय बनाए जा सकते हैं?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "यदि 5 अलग-अलग झंडे हैं, तो आप कम से कम एक झंडा कितने तरीकों से प्रदर्शित कर सकते हैं?",
+      "options": [
+        {
+          "option": "31",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "32"
+        }
+      ]
+    },
+    {
+      "question": "एक व्यक्ति के पास 4 अलग-अलग सिक्के हैं। वह कम से कम एक सिक्का कितने तरीकों से चुन सकता है?",
+      "options": [
+        {
+          "option": "14"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "6 अलग-अलग वस्तुओं में से आप कम से कम एक वस्तु कितने तरीकों से चुन सकते हैं?",
+      "options": [
+        {
+          "option": "63",
+          "is_answer": true
+        },
+        {
+          "option": "64"
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "62"
+        }
+      ]
+    },
+    {
+      "question": "एक सेट में 3 अलग-अलग तत्व हैं। इसके कितने गैर-रिक्त उपसमुच्चय हैं?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "4 अलग-अलग वस्तुओं में से आप कम से कम एक वस्तु कितने तरीकों से चुन सकते हैं?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "एक छात्र के पास 5 अलग-अलग नोटबुक हैं। वह कम से कम एक कितने तरीकों से चुन सकता है?",
+      "options": [
+        {
+          "option": "31",
+          "is_answer": true
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "2 अलग-अलग वस्तुओं में से आप कम से कम एक वस्तु कितने तरीकों से चुन सकते हैं?",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "एक सेट में 4 अलग-अलग तत्व हैं। इसके कितने गैर-रिक्त उपसमुच्चय हैं?",
+      "options": [
+        {
+          "option": "14"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "7 अलग-अलग वस्तुओं में से आप कम से कम एक वस्तु कितने तरीकों से चुन सकते हैं?",
+      "options": [
+        {
+          "option": "126"
+        },
+        {
+          "option": "128"
+        },
+        {
+          "option": "49"
+        },
+        {
+          "option": "127",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "{0, 1, 2, 3, 4, 5} का उपयोग करके बिना पुनरावृत्ति के 5 से विभाज्य कितनी 2-अंकीय संख्याएँ बनाई जा सकती हैं?",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "{0, 1, 2, 3, 4, 5} का उपयोग करके बिना पुनरावृत्ति के 4 से विभाज्य कितनी 2-अंकीय संख्याएँ बनाई जा सकती हैं?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "{0, 1, 2, 3, 4, 5} का उपयोग करके बिना पुनरावृत्ति के 6 से विभाज्य कितनी 2-अंकीय संख्याएँ बनाई जा सकती हैं?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "{1, 2, 3, 4, 5} का उपयोग करके बिना पुनरावृत्ति के 5 से विभाज्य कितनी 3-अंकीय संख्याएँ बनाई जा सकती हैं?",
+      "options": [
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "{0, 1, 2, 3, 4, 5} का उपयोग करके पुनरावृत्ति के साथ 5 से विभाज्य कितनी 2-अंकीय संख्याएँ बनाई जा सकती हैं?",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "{0, 1, 2, 3, 4, 5} का उपयोग करके पुनरावृत्ति के साथ 4 से विभाज्य कितनी 2-अंकीय संख्याएँ बनाई जा सकती हैं?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "{0, 1, 2, 3, 4, 5} का उपयोग करके पुनरावृत्ति के साथ 6 से विभाज्य कितनी 2-अंकीय संख्याएँ बनाई जा सकती हैं?",
+      "options": [
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "{0, 1, 2, 3, 4, 5} का उपयोग करके बिना पुनरावृत्ति के 5 से विभाज्य कितनी 3-अंकीय संख्याएँ बनाई जा सकती हैं?",
+      "options": [
+        {
+          "option": "42"
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "36",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "{1, 2, 3, 4, 5} का उपयोग करके बिना पुनरावृत्ति के 4 से विभाज्य कितनी 3-अंकीय संख्याएँ बनाई जा सकती हैं?",
+      "options": [
+        {
+          "option": "18",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "{1, 2, 3, 4, 5} का उपयोग करके बिना पुनरावृत्ति के 6 से विभाज्य कितनी 3-अंकीय संख्याएँ बनाई जा सकती हैं?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "{1, 2, 3, 4, 5} का उपयोग करके बिना पुनरावृत्ति के 5 से विभाज्य कितनी 2-अंकीय संख्याएँ बनाई जा सकती हैं?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "{1, 2, 3, 4, 5} का उपयोग करके बिना पुनरावृत्ति के 4 से विभाज्य कितनी 2-अंकीय संख्याएँ बनाई जा सकती हैं?",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "{1, 2, 3, 4, 5} का उपयोग करके बिना पुनरावृत्ति के 6 से विभाज्य कितनी 2-अंकीय संख्याएँ बनाई जा सकती हैं?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "{0, 1, 2, 3, 4, 5} का उपयोग करके पुनरावृत्ति के साथ 5 से विभाज्य कितनी 3-अंकीय संख्याएँ बनाई जा सकती हैं?",
+      "options": [
+        {
+          "option": "60",
+          "is_answer": true
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "50"
+        },
+        {
+          "option": "72"
+        }
+      ]
+    },
+    {
+      "question": "{0, 1, 2, 3, 4, 5} का उपयोग करके पुनरावृत्ति के साथ 4 से विभाज्य कितनी 3-अंकीय संख्याएँ बनाई जा सकती हैं?",
+      "options": [
+        {
+          "option": "60"
+        },
+        {
+          "option": "72",
+          "is_answer": true
+        },
+        {
+          "option": "90"
+        },
+        {
+          "option": "80"
+        }
+      ]
+    },
+    {
+      "question": "{0, 1, 2, 3, 4, 5} का उपयोग करके पुनरावृत्ति के साथ 6 से विभाज्य कितनी 3-अंकीय संख्याएँ बनाई जा सकती हैं?",
+      "options": [
+        {
+          "option": "48",
+          "is_answer": true
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "50"
+        }
+      ]
+    },
+    {
+      "question": "{0, 1, 2, 3, 4, 5} का उपयोग करके बिना पुनरावृत्ति के 2 से विभाज्य कितनी 2-अंकीय संख्याएँ बनाई जा सकती हैं?",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "13",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "{0, 1, 2, 3, 4, 5} का उपयोग करके बिना पुनरावृत्ति के 3 से विभाज्य कितनी 2-अंकीय संख्याएँ बनाई जा सकती हैं?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "{1, 2, 3, 4, 5} का उपयोग करके बिना पुनरावृत्ति के 2 से विभाज्य कितनी 3-अंकीय संख्याएँ बनाई जा सकती हैं?",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "36",
+          "is_answer": true
+        },
+        {
+          "option": "42"
+        },
+        {
+          "option": "40"
+        }
+      ]
+    },
+    {
+      "question": "{1, 2, 3, 4, 5} का उपयोग करके बिना पुनरावृत्ति के 3 से विभाज्य कितनी 3-अंकीय संख्याएँ बनाई जा सकती हैं?",
+      "options": [
+        {
+          "option": "28"
+        },
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "5 अलग-अलग वस्तुओं को 2, 2 और 1 आकार के तीन समूहों में कितने तरीकों से विभाजित किया जा सकता है?",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "30",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "60"
+        }
+      ]
+    },
+    {
+      "question": "6 अलग-अलग वस्तुओं को 3, 2 और 1 आकार के तीन समूहों में कितने तरीकों से विभाजित किया जा सकता है?",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "60",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "4 अलग-अलग वस्तुओं को 2, 1 और 1 आकार के समूहों में विभाजित करने के तरीकों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "7 अलग-अलग वस्तुओं को 3, 2 और 2 आकार के समूहों में कितने तरीकों से विभाजित किया जा सकता है?",
+      "options": [
+        {
+          "option": "105"
+        },
+        {
+          "option": "420"
+        },
+        {
+          "option": "70"
+        },
+        {
+          "option": "210",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "8 अलग-अलग वस्तुओं को 4, 2 और 2 आकार के समूहों में कितने तरीकों से विभाजित किया जा सकता है?",
+      "options": [
+        {
+          "option": "210"
+        },
+        {
+          "option": "840"
+        },
+        {
+          "option": "420",
+          "is_answer": true
+        },
+        {
+          "option": "105"
+        }
+      ]
+    },
+    {
+      "question": "5 अलग-अलग वस्तुओं को 3, 1 और 1 आकार के समूहों में कितने तरीकों से विभाजित किया जा सकता है?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "40"
+        }
+      ]
+    },
+    {
+      "question": "9 अलग-अलग वस्तुओं को 3, 3 और 3 आकार के समूहों में विभाजित करने के तरीकों की गणना करें।",
+      "options": [
+        {
+          "option": "1680"
+        },
+        {
+          "option": "840"
+        },
+        {
+          "option": "560"
+        },
+        {
+          "option": "280",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "6 अलग-अलग वस्तुओं को 2, 2 और 2 आकार के समूहों में कितने तरीकों से विभाजित किया जा सकता है?",
+      "options": [
+        {
+          "option": "45"
+        },
+        {
+          "option": "90"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "4 अलग-अलग वस्तुओं को 2 और 2 आकार के समूहों में कितने तरीकों से विभाजित किया जा सकता है?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "7 अलग-अलग वस्तुओं को 4, 2 और 1 आकार के समूहों में कितने तरीकों से विभाजित किया जा सकता है?",
+      "options": [
+        {
+          "option": "210"
+        },
+        {
+          "option": "420"
+        },
+        {
+          "option": "105",
+          "is_answer": true
+        },
+        {
+          "option": "52"
+        }
+      ]
+    },
+    {
+      "question": "5 अलग-अलग वस्तुओं को 4 और 1 आकार के समूहों में विभाजित करने के तरीकों की गणना करें।",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "6 अलग-अलग वस्तुओं को 4 और 2 आकार के समूहों में कितने तरीकों से विभाजित किया जा सकता है?",
+      "options": [
+        {
+          "option": "60"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "8 अलग-अलग वस्तुओं को 3, 3 और 2 आकार के समूहों में कितने तरीकों से विभाजित किया जा सकता है?",
+      "options": [
+        {
+          "option": "840"
+        },
+        {
+          "option": "560"
+        },
+        {
+          "option": "140"
+        },
+        {
+          "option": "280",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "9 अलग-अलग वस्तुओं को 4, 3 और 2 आकार के समूहों में कितने तरीकों से विभाजित किया जा सकता है?",
+      "options": [
+        {
+          "option": "2520"
+        },
+        {
+          "option": "630"
+        },
+        {
+          "option": "315"
+        },
+        {
+          "option": "1260",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "4 अलग-अलग वस्तुओं को 3 और 1 आकार के समूहों में विभाजित करने के तरीकों की गणना करें।",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "7 अलग-अलग वस्तुओं को 5 और 2 आकार के समूहों में कितने तरीकों से विभाजित किया जा सकता है?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "21",
+          "is_answer": true
+        },
+        {
+          "option": "105"
+        },
+        {
+          "option": "42"
+        }
+      ]
+    },
+    {
+      "question": "8 अलग-अलग वस्तुओं को 5 और 3 आकार के समूहों में कितने तरीकों से विभाजित किया जा सकता है?",
+      "options": [
+        {
+          "option": "56",
+          "is_answer": true
+        },
+        {
+          "option": "224"
+        },
+        {
+          "option": "112"
+        },
+        {
+          "option": "28"
+        }
+      ]
+    },
+    {
+      "question": "9 अलग-अलग वस्तुओं को 5 और 4 आकार के समूहों में कितने तरीकों से विभाजित किया जा सकता है?",
+      "options": [
+        {
+          "option": "63"
+        },
+        {
+          "option": "126",
+          "is_answer": true
+        },
+        {
+          "option": "504"
+        },
+        {
+          "option": "252"
+        }
+      ]
+    },
+    {
+      "question": "6 अलग-अलग वस्तुओं को 3 और 3 आकार के समूहों में विभाजित करने के तरीकों की गणना करें।",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "10 अलग-अलग वस्तुओं को 5 और 5 आकार के समूहों में कितने तरीकों से विभाजित किया जा सकता है?",
+      "options": [
+        {
+          "option": "252"
+        },
+        {
+          "option": "504"
+        },
+        {
+          "option": "126",
+          "is_answer": true
+        },
+        {
+          "option": "63"
+        }
+      ]
+    },
+    {
+      "question": "यदि हार को पलटने पर समान विन्यास माना जाए, तो 6 अलग-अलग मोतियों को एक गोलाकार हार में कितने तरीकों से व्यवस्थित किया जा सकता है?",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "720"
+        },
+        {
+          "option": "60",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "5 लोगों को एक गोल मेज पर कितने तरीकों से बैठाया जा सकता है ताकि दो विशिष्ट व्यक्ति कभी भी एक साथ न बैठें?",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "7 समान सिक्कों को 3 बच्चों के बीच इस तरह बांटने के कितने तरीके हैं कि प्रत्येक बच्चे को कम से कम एक सिक्का मिले?",
+      "options": [
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "21"
+        },
+        {
+          "option": "28"
+        }
+      ]
+    },
+    {
+      "question": "'MISSISSIPPI' शब्द के कितने अलग-अलग क्रमपरिवर्तन (permutations) हैं?",
+      "options": [
+        {
+          "option": "362880"
+        },
+        {
+          "option": "15120"
+        },
+        {
+          "option": "110"
+        },
+        {
+          "option": "34650",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "6 पुरुषों और 4 महिलाओं में से 5 सदस्यों की एक समिति बनानी है। यदि कम से कम 3 महिलाओं को शामिल करना हो, तो यह कितने तरीकों से किया जा सकता है?",
+      "options": [
+        {
+          "option": "50"
+        },
+        {
+          "option": "86",
+          "is_answer": true
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "210"
+        }
+      ]
+    },
+    {
+      "question": "4 समान गेंदों को 3 अलग-अलग बक्सों में कितने तरीकों से रखा जा सकता है?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "81"
+        },
+        {
+          "option": "24"
+        }
+      ]
+    },
+    {
+      "question": "यदि 3 विशिष्ट पुस्तकें हमेशा एक साथ रहें, तो 8 पुस्तकों को एक शेल्फ पर कितने तरीकों से व्यवस्थित किया जा सकता है?",
+      "options": [
+        {
+          "option": "5040"
+        },
+        {
+          "option": "40320"
+        },
+        {
+          "option": "720"
+        },
+        {
+          "option": "4320",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "10 भुजाओं वाले एक उत्तल बहुभुज (convex polygon) में कितने विकर्ण होते हैं?",
+      "options": [
+        {
+          "option": "45"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "35",
+          "is_answer": true
+        },
+        {
+          "option": "90"
+        }
+      ]
+    },
+    {
+      "question": "यदि प्रत्येक छात्र को कितने भी पुरस्कार मिल सकते हैं, तो 5 अलग-अलग पुरस्कारों को 3 छात्रों के बीच कितने तरीकों से बांटा जा सकता है?",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "243",
+          "is_answer": true
+        },
+        {
+          "option": "125"
+        }
+      ]
+    },
+    {
+      "question": "'BANANA' शब्द के अक्षरों को व्यवस्थित करने के तरीकों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "720"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "60",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "10 कुर्सियों की एक पंक्ति में 4 लोगों को कितने तरीकों से बैठाया जा सकता है ताकि कोई भी दो व्यक्ति एक साथ न बैठें?",
+      "options": [
+        {
+          "option": "140",
+          "is_answer": true
+        },
+        {
+          "option": "210"
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "5040"
+        }
+      ]
+    },
+    {
+      "question": "4 उंगलियों पर 3 अलग-अलग अंगूठियां कितने तरीकों से पहनी जा सकती हैं?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "64",
+          "is_answer": true
+        },
+        {
+          "option": "81"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "10 लोगों के समूह को 5-5 के दो समूहों में विभाजित किया जाता है। यह कितने तरीकों से किया जा सकता है?",
+      "options": [
+        {
+          "option": "63"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "252"
+        },
+        {
+          "option": "126",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "5 अलग-अलग वस्तुओं को 2 समान बक्सों में इस तरह कितने तरीकों से रखा जा सकता है कि कोई भी बक्सा खाली न रहे?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "32"
+        }
+      ]
+    },
+    {
+      "question": "यदि 2 विशिष्ट व्यक्ति एक साथ बैठें, तो 6 लोगों को एक वृत्त में कितने तरीकों से व्यवस्थित किया जा सकता है?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "72"
+        },
+        {
+          "option": "48",
+          "is_answer": true
+        },
+        {
+          "option": "120"
+        }
+      ]
+    },
+    {
+      "question": "1 से 20 तक की संख्याओं में से 3 संख्याएं इस तरह कितने तरीकों से चुनी जा सकती हैं कि कोई भी दो लगातार न हों?",
+      "options": [
+        {
+          "option": "969"
+        },
+        {
+          "option": "1140"
+        },
+        {
+          "option": "816",
+          "is_answer": true
+        },
+        {
+          "option": "720"
+        }
+      ]
+    },
+    {
+      "question": "4 लड़कों और 4 लड़कियों को एक पंक्ति में कितने तरीकों से बैठाया जा सकता है ताकि लड़के और लड़कियां एकांतर क्रम में हों?",
+      "options": [
+        {
+          "option": "1152"
+        },
+        {
+          "option": "144"
+        },
+        {
+          "option": "288"
+        },
+        {
+          "option": "576",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "5 अलग-अलग पुस्तकों को एक शेल्फ पर कितने तरीकों से व्यवस्थित किया जा सकता है ताकि दो विशिष्ट पुस्तकें कभी भी एक साथ न हों?",
+      "options": [
+        {
+          "option": "48"
+        },
+        {
+          "option": "72",
+          "is_answer": true
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "96"
+        }
+      ]
+    },
+    {
+      "question": "3 समान गेंदों को 5 अलग-अलग बक्सों में कितने तरीकों से रखा जा सकता है?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "125"
+        },
+        {
+          "option": "35",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "4 अलग-अलग चाबियों को एक गोलाकार की-रिंग पर कितने तरीकों से व्यवस्थित किया जा सकता है?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "'APPLE' शब्द के अक्षरों को कितने तरीकों से व्यवस्थित किया जा सकता है?",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "60",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "5 कुर्सियों की एक पंक्ति में 5 लोगों को कितने तरीकों से बैठाया जा सकता है?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "120",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "6 लोगों में से 3 की समिति कितने तरीकों से चुनी जा सकती है?",
+      "options": [
+        {
+          "option": "60"
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "18"
+        }
+      ]
+    }
+  ]
+}

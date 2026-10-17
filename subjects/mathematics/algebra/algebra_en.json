@@ -1,0 +1,9005 @@
+{
+  "total_questions": 500,
+  "questions": [
+    {
+      "question": "What is the formula for the discriminant of a quadratic equation ax^2 + bx + c = 0?",
+      "options": [
+        {
+          "option": "b^2 - 4ac",
+          "is_answer": true
+        },
+        {
+          "option": "b - 4ac"
+        },
+        {
+          "option": "a^2 - 4bc"
+        },
+        {
+          "option": "b^2 + 4ac"
+        }
+      ]
+    },
+    {
+      "question": "If the discriminant is zero, what is the nature of the roots?",
+      "options": [
+        {
+          "option": "Complex"
+        },
+        {
+          "option": "Real and equal",
+          "is_answer": true
+        },
+        {
+          "option": "Irrational"
+        },
+        {
+          "option": "Real and distinct"
+        }
+      ]
+    },
+    {
+      "question": "If the discriminant is negative, what is the nature of the roots?",
+      "options": [
+        {
+          "option": "Complex",
+          "is_answer": true
+        },
+        {
+          "option": "Real and distinct"
+        },
+        {
+          "option": "Real and equal"
+        },
+        {
+          "option": "Rational"
+        }
+      ]
+    },
+    {
+      "question": "For the equation x^2 - 4x + 4 = 0, what is the discriminant?",
+      "options": [
+        {
+          "option": "16"
+        },
+        {
+          "option": "-16"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the discriminant is a positive perfect square, the roots are:",
+      "options": [
+        {
+          "option": "Rational and distinct",
+          "is_answer": true
+        },
+        {
+          "option": "Real and equal"
+        },
+        {
+          "option": "Complex"
+        },
+        {
+          "option": "Irrational and distinct"
+        }
+      ]
+    },
+    {
+      "question": "For the equation x^2 + x + 1 = 0, the discriminant is:",
+      "options": [
+        {
+          "option": "-3",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "If the discriminant is 5, the roots are:",
+      "options": [
+        {
+          "option": "Complex"
+        },
+        {
+          "option": "Real and equal"
+        },
+        {
+          "option": "Rational and distinct"
+        },
+        {
+          "option": "Irrational and distinct",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the discriminant of 2x^2 - 5x + 2 = 0?",
+      "options": [
+        {
+          "option": "16"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "If the discriminant is 16, the roots are:",
+      "options": [
+        {
+          "option": "Irrational and distinct"
+        },
+        {
+          "option": "Complex"
+        },
+        {
+          "option": "Real and equal"
+        },
+        {
+          "option": "Rational and distinct",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which condition implies real and distinct roots?",
+      "options": [
+        {
+          "option": "D = 1"
+        },
+        {
+          "option": "D > 0",
+          "is_answer": true
+        },
+        {
+          "option": "D < 0"
+        },
+        {
+          "option": "D = 0"
+        }
+      ]
+    },
+    {
+      "question": "For x^2 - 3x + 2 = 0, the discriminant is:",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "If D < 0, the roots are:",
+      "options": [
+        {
+          "option": "Not real",
+          "is_answer": true
+        },
+        {
+          "option": "Real and equal"
+        },
+        {
+          "option": "Rational"
+        },
+        {
+          "option": "Real and distinct"
+        }
+      ]
+    },
+    {
+      "question": "What is the discriminant of 3x^2 + 2x + 1 = 0?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "-8",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "If the discriminant is 0, the roots are:",
+      "options": [
+        {
+          "option": "Equal",
+          "is_answer": true
+        },
+        {
+          "option": "Imaginary"
+        },
+        {
+          "option": "Distinct"
+        },
+        {
+          "option": "Complex"
+        }
+      ]
+    },
+    {
+      "question": "For x^2 + 6x + 9 = 0, the discriminant is:",
+      "options": [
+        {
+          "option": "36"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "-36"
+        }
+      ]
+    },
+    {
+      "question": "If D is a non-perfect square positive number, the roots are:",
+      "options": [
+        {
+          "option": "Equal"
+        },
+        {
+          "option": "Irrational",
+          "is_answer": true
+        },
+        {
+          "option": "Rational"
+        },
+        {
+          "option": "Complex"
+        }
+      ]
+    },
+    {
+      "question": "What is the discriminant of x^2 - 5x + 6 = 0?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "If the roots are real and equal, then:",
+      "options": [
+        {
+          "option": "D < 0"
+        },
+        {
+          "option": "D = 1"
+        },
+        {
+          "option": "D = 0",
+          "is_answer": true
+        },
+        {
+          "option": "D > 0"
+        }
+      ]
+    },
+    {
+      "question": "For 4x^2 - 4x + 1 = 0, the discriminant is:",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "-16"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "If D = 12, the roots are:",
+      "options": [
+        {
+          "option": "Rational and distinct"
+        },
+        {
+          "option": "Real and equal"
+        },
+        {
+          "option": "Complex"
+        },
+        {
+          "option": "Irrational and distinct",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the remainder when P(x) = x^2 - 3x + 2 is divided by (x - 1)?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "According to the Factor Theorem, if P(c) = 0, then which of the following is a factor of P(x)?",
+      "options": [
+        {
+          "option": "(x + c)"
+        },
+        {
+          "option": "(x - c)",
+          "is_answer": true
+        },
+        {
+          "option": "(c - x)"
+        },
+        {
+          "option": "(x * c)"
+        }
+      ]
+    },
+    {
+      "question": "When using synthetic division to divide (x^2 + 5x + 6) by (x + 2), what is the value used in the box?",
+      "options": [
+        {
+          "option": "-2",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "What is the remainder when P(x) = x^3 + 1 is divided by (x + 1)?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "If (x - 3) is a factor of P(x), what is the value of P(3)?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "-3"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Divide (x^2 - 9) by (x - 3). What is the quotient?",
+      "options": [
+        {
+          "option": "x + 9"
+        },
+        {
+          "option": "x - 9"
+        },
+        {
+          "option": "x + 3",
+          "is_answer": true
+        },
+        {
+          "option": "x - 3"
+        }
+      ]
+    },
+    {
+      "question": "Which theorem states that the remainder of P(x) divided by (x - a) is P(a)?",
+      "options": [
+        {
+          "option": "Remainder Theorem",
+          "is_answer": true
+        },
+        {
+          "option": "Factor Theorem"
+        },
+        {
+          "option": "Fundamental Theorem of Algebra"
+        },
+        {
+          "option": "Rational Root Theorem"
+        }
+      ]
+    },
+    {
+      "question": "What is the remainder when P(x) = 2x^2 + 4x - 5 is divided by (x - 1)?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "-5"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "If P(x) = x^2 + kx + 4 and (x - 2) is a factor, what is the value of k?",
+      "options": [
+        {
+          "option": "-2"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "-4",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "Synthetic division can only be used when the divisor is in the form of:",
+      "options": [
+        {
+          "option": "(x^2 - c)"
+        },
+        {
+          "option": "(ax^2 + b)"
+        },
+        {
+          "option": "(x^3 - c)"
+        },
+        {
+          "option": "(x - c)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the remainder when P(x) = x^4 - 1 is divided by (x - 1)?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "If P(2) = 0, which of the following must be true?",
+      "options": [
+        {
+          "option": "(x + 2) is a factor of P(x)"
+        },
+        {
+          "option": "(x - 2) is a factor of P(x)",
+          "is_answer": true
+        },
+        {
+          "option": "P(x) divided by (x - 2) has remainder 2"
+        },
+        {
+          "option": "x = -2 is a root"
+        }
+      ]
+    },
+    {
+      "question": "Divide (x^2 + 7x + 10) by (x + 2). What is the quotient?",
+      "options": [
+        {
+          "option": "x + 2"
+        },
+        {
+          "option": "x + 10"
+        },
+        {
+          "option": "x + 7"
+        },
+        {
+          "option": "x + 5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the remainder when P(x) = 3x^2 - 2x + 1 is divided by (x + 1)?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is a potential rational root of P(x) = x^2 - 5x + 6?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If P(x) = x^3 - 8, what is P(2)?",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "-8"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "When dividing (x^3 - 1) by (x - 1), the remainder is:",
+      "options": [
+        {
+          "option": "-1"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "x"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The Rational Root Theorem helps to find:",
+      "options": [
+        {
+          "option": "The degree of polynomial"
+        },
+        {
+          "option": "The number of terms"
+        },
+        {
+          "option": "The remainder"
+        },
+        {
+          "option": "Possible rational zeros",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If P(x) = x^2 + 2x + 1, what is P(-1)?",
+      "options": [
+        {
+          "option": "-1"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "What is the quotient when (x^2 - 4) is divided by (x - 2)?",
+      "options": [
+        {
+          "option": "x + 2",
+          "is_answer": true
+        },
+        {
+          "option": "x - 2"
+        },
+        {
+          "option": "x + 4"
+        },
+        {
+          "option": "x - 4"
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: x + 5 = 12",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "17"
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: 3x = 15",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "45"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: 2x - 4 = 6",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: x/2 = 8",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: 5x + 2 = 27",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: 4x - 7 = 9",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: x/3 + 2 = 5",
+      "options": [
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: 7x = 49",
+      "options": [
+        {
+          "option": "56"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "42"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: 2x + 10 = 20",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: 6x - 3 = 21",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: x/4 = 3",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: 8x + 4 = 36",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: 9x - 9 = 0",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: 2x/3 = 4",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: 10x - 5 = 45",
+      "options": [
+        {
+          "option": "50"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: x + 15 = 30",
+      "options": [
+        {
+          "option": "45"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: 4x = 24",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "28"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: 3x + 6 = 18",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: x/5 = 5",
+      "options": [
+        {
+          "option": "25",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: 7x - 2 = 12",
+      "options": [
+        {
+          "option": "14"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: x + y = 5 and x - y = 1.",
+      "options": [
+        {
+          "option": "x = 3",
+          "is_answer": true
+        },
+        {
+          "option": "x = 4"
+        },
+        {
+          "option": "x = 1"
+        },
+        {
+          "option": "x = 2"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of the determinant D for the system 2x + 3y = 5 and 4x + 6y = 10?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "If 2x + y = 7 and x - y = 2, what is the value of y?",
+      "options": [
+        {
+          "option": "y = 3"
+        },
+        {
+          "option": "y = 0"
+        },
+        {
+          "option": "y = 1",
+          "is_answer": true
+        },
+        {
+          "option": "y = 2"
+        }
+      ]
+    },
+    {
+      "question": "Which method is used to solve equations using determinants?",
+      "options": [
+        {
+          "option": "Substitution Method"
+        },
+        {
+          "option": "Elimination Method"
+        },
+        {
+          "option": "Cramer's Rule",
+          "is_answer": true
+        },
+        {
+          "option": "Graphical Method"
+        }
+      ]
+    },
+    {
+      "question": "Solve: 3x + 2y = 12 and x + y = 5.",
+      "options": [
+        {
+          "option": "x = 1, y = 4"
+        },
+        {
+          "option": "x = 2, y = 3",
+          "is_answer": true
+        },
+        {
+          "option": "x = 3, y = 2"
+        },
+        {
+          "option": "x = 4, y = 1"
+        }
+      ]
+    },
+    {
+      "question": "In the system 5x - 2y = 1 and 3x + y = 7, what is the value of x?",
+      "options": [
+        {
+          "option": "x = 2.5"
+        },
+        {
+          "option": "x = 2"
+        },
+        {
+          "option": "x = 1"
+        },
+        {
+          "option": "x = 1.5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If D = 0 and Dx = 0, Dy = 0, the system has:",
+      "options": [
+        {
+          "option": "No solution"
+        },
+        {
+          "option": "Exactly two solutions"
+        },
+        {
+          "option": "Unique solution"
+        },
+        {
+          "option": "Infinitely many solutions",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Solve by substitution: y = 2x and x + y = 9.",
+      "options": [
+        {
+          "option": "x = 3, y = 6",
+          "is_answer": true
+        },
+        {
+          "option": "x = 2, y = 4"
+        },
+        {
+          "option": "x = 4, y = 8"
+        },
+        {
+          "option": "x = 1, y = 2"
+        }
+      ]
+    },
+    {
+      "question": "What is the determinant of [[a, b], [c, d]]?",
+      "options": [
+        {
+          "option": "ab - cd"
+        },
+        {
+          "option": "ad + bc"
+        },
+        {
+          "option": "ad - bc",
+          "is_answer": true
+        },
+        {
+          "option": "ac - bd"
+        }
+      ]
+    },
+    {
+      "question": "Solve: x + 2y = 8 and 2x + y = 7.",
+      "options": [
+        {
+          "option": "x = 1, y = 3.5"
+        },
+        {
+          "option": "x = 3, y = 2"
+        },
+        {
+          "option": "x = 4, y = 2"
+        },
+        {
+          "option": "x = 2, y = 3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In Cramer's rule, x is calculated as:",
+      "options": [
+        {
+          "option": "Dx / D",
+          "is_answer": true
+        },
+        {
+          "option": "D / Dy"
+        },
+        {
+          "option": "Dy / D"
+        },
+        {
+          "option": "D / Dx"
+        }
+      ]
+    },
+    {
+      "question": "Solve: 4x - 3y = 11 and 2x + y = 3.",
+      "options": [
+        {
+          "option": "x = 3, y = 1"
+        },
+        {
+          "option": "x = 2, y = 1"
+        },
+        {
+          "option": "x = 2, y = -1",
+          "is_answer": true
+        },
+        {
+          "option": "x = 1, y = 1"
+        }
+      ]
+    },
+    {
+      "question": "If 3x + 4y = 10 and 2x - 2y = 0, what is x?",
+      "options": [
+        {
+          "option": "x = 0"
+        },
+        {
+          "option": "x = 2",
+          "is_answer": true
+        },
+        {
+          "option": "x = 3"
+        },
+        {
+          "option": "x = 1"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of y in the system x + y = 10 and x - y = 4?",
+      "options": [
+        {
+          "option": "y = 4"
+        },
+        {
+          "option": "y = 3",
+          "is_answer": true
+        },
+        {
+          "option": "y = 7"
+        },
+        {
+          "option": "y = 6"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a linear equation in two variables?",
+      "options": [
+        {
+          "option": "1/x + 1/y = 5"
+        },
+        {
+          "option": "x^2 + y = 5"
+        },
+        {
+          "option": "2x + 3y = 5",
+          "is_answer": true
+        },
+        {
+          "option": "xy = 5"
+        }
+      ]
+    },
+    {
+      "question": "Solve: 2x + 5y = 16 and 3x - y = 5.",
+      "options": [
+        {
+          "option": "x = 3, y = 2",
+          "is_answer": true
+        },
+        {
+          "option": "x = 4, y = 1"
+        },
+        {
+          "option": "x = 2, y = 3"
+        },
+        {
+          "option": "x = 1, y = 4"
+        }
+      ]
+    },
+    {
+      "question": "If D = 5, Dx = 10, Dy = 15, then (x, y) is:",
+      "options": [
+        {
+          "option": "(2, 3)",
+          "is_answer": true
+        },
+        {
+          "option": "(1, 3)"
+        },
+        {
+          "option": "(3, 2)"
+        },
+        {
+          "option": "(2, 5)"
+        }
+      ]
+    },
+    {
+      "question": "Solve: x/2 + y = 4 and x - y = 2.",
+      "options": [
+        {
+          "option": "x = 4, y = 2",
+          "is_answer": true
+        },
+        {
+          "option": "x = 6, y = 1"
+        },
+        {
+          "option": "x = 3, y = 3"
+        },
+        {
+          "option": "x = 2, y = 4"
+        }
+      ]
+    },
+    {
+      "question": "The elimination method involves:",
+      "options": [
+        {
+          "option": "Graphing lines"
+        },
+        {
+          "option": "Guessing values"
+        },
+        {
+          "option": "Using matrices"
+        },
+        {
+          "option": "Removing one variable",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Solve: 7x + 3y = 15 and 2x + 3y = 5.",
+      "options": [
+        {
+          "option": "x = 2, y = 0"
+        },
+        {
+          "option": "x = 2, y = 1/3",
+          "is_answer": true
+        },
+        {
+          "option": "x = 1, y = 1"
+        },
+        {
+          "option": "x = 3, y = -2"
+        }
+      ]
+    },
+    {
+      "question": "For the quadratic equation ax^2 + bx + c = 0, what is the sum of the roots?",
+      "options": [
+        {
+          "option": "-c/a"
+        },
+        {
+          "option": "-b/a",
+          "is_answer": true
+        },
+        {
+          "option": "b/a"
+        },
+        {
+          "option": "c/a"
+        }
+      ]
+    },
+    {
+      "question": "For the quadratic equation ax^2 + bx + c = 0, what is the product of the roots?",
+      "options": [
+        {
+          "option": "-c/a"
+        },
+        {
+          "option": "-b/a"
+        },
+        {
+          "option": "b/a"
+        },
+        {
+          "option": "c/a",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the roots of x^2 - 5x + 6 = 0 are alpha and beta, what is alpha + beta?",
+      "options": [
+        {
+          "option": "-5"
+        },
+        {
+          "option": "-6"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "If the roots of x^2 - 5x + 6 = 0 are alpha and beta, what is alpha * beta?",
+      "options": [
+        {
+          "option": "-5"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "-6"
+        }
+      ]
+    },
+    {
+      "question": "For a cubic equation ax^3 + bx^2 + cx + d = 0, what is the sum of the roots?",
+      "options": [
+        {
+          "option": "-d/a"
+        },
+        {
+          "option": "-b/a",
+          "is_answer": true
+        },
+        {
+          "option": "b/a"
+        },
+        {
+          "option": "c/a"
+        }
+      ]
+    },
+    {
+      "question": "For a cubic equation ax^3 + bx^2 + cx + d = 0, what is the product of the roots?",
+      "options": [
+        {
+          "option": "c/a"
+        },
+        {
+          "option": "-c/a"
+        },
+        {
+          "option": "-d/a",
+          "is_answer": true
+        },
+        {
+          "option": "d/a"
+        }
+      ]
+    },
+    {
+      "question": "Find the sum of roots for 2x^2 - 8x + 3 = 0.",
+      "options": [
+        {
+          "option": "-4"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "1.5"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the product of roots for 3x^2 + 6x - 9 = 0.",
+      "options": [
+        {
+          "option": "-3",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "-2"
+        }
+      ]
+    },
+    {
+      "question": "If the sum of roots is 7 and product is 10, the quadratic equation is:",
+      "options": [
+        {
+          "option": "x^2 - 10x + 7 = 0"
+        },
+        {
+          "option": "x^2 - 7x + 10 = 0",
+          "is_answer": true
+        },
+        {
+          "option": "x^2 + 7x - 10 = 0"
+        },
+        {
+          "option": "x^2 + 7x + 10 = 0"
+        }
+      ]
+    },
+    {
+      "question": "For x^2 + px + q = 0, the sum of roots is:",
+      "options": [
+        {
+          "option": "-q"
+        },
+        {
+          "option": "-p",
+          "is_answer": true
+        },
+        {
+          "option": "p"
+        },
+        {
+          "option": "q"
+        }
+      ]
+    },
+    {
+      "question": "If one root of x^2 - 4x + k = 0 is 2, what is the other root?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "-2"
+        }
+      ]
+    },
+    {
+      "question": "In ax^2 + bx + c = 0, if a=1, b=0, c=-4, the roots are:",
+      "options": [
+        {
+          "option": "2 and -2",
+          "is_answer": true
+        },
+        {
+          "option": "4 and -1"
+        },
+        {
+          "option": "0 and 4"
+        },
+        {
+          "option": "1 and -4"
+        }
+      ]
+    },
+    {
+      "question": "The sum of the roots of 5x^2 - 10x + 2 = 0 is:",
+      "options": [
+        {
+          "option": "0.4"
+        },
+        {
+          "option": "-2"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "If the roots of x^2 + bx + c = 0 are equal, then:",
+      "options": [
+        {
+          "option": "b^2 = c"
+        },
+        {
+          "option": "b^2 = 4c",
+          "is_answer": true
+        },
+        {
+          "option": "b^2 = -4c"
+        },
+        {
+          "option": "b = c"
+        }
+      ]
+    },
+    {
+      "question": "For cubic ax^3 + bx^2 + cx + d = 0, sum of roots taken two at a time is:",
+      "options": [
+        {
+          "option": "b/a"
+        },
+        {
+          "option": "c/a",
+          "is_answer": true
+        },
+        {
+          "option": "-c/a"
+        },
+        {
+          "option": "d/a"
+        }
+      ]
+    },
+    {
+      "question": "If roots of x^2 - kx + 8 = 0 have a sum of 6, what is k?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "-6"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the product of roots of 2x^2 + 5x + k = 0 is 3, what is k?",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "1.5"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "The roots of x^2 - 7x + 12 = 0 are:",
+      "options": [
+        {
+          "option": "3 and 4",
+          "is_answer": true
+        },
+        {
+          "option": "1 and 12"
+        },
+        {
+          "option": "2 and 6"
+        },
+        {
+          "option": "-3 and -4"
+        }
+      ]
+    },
+    {
+      "question": "If alpha and beta are roots of x^2 + x + 1 = 0, then alpha + beta is:",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "For ax^2 + bx + c = 0, the sum of the reciprocals of the roots is:",
+      "options": [
+        {
+          "option": "-b/c",
+          "is_answer": true
+        },
+        {
+          "option": "-c/b"
+        },
+        {
+          "option": "c/b"
+        },
+        {
+          "option": "b/c"
+        }
+      ]
+    },
+    {
+      "question": "What are the factors of x^2 + 5x + 6?",
+      "options": [
+        {
+          "option": "(x+5)(x+1)"
+        },
+        {
+          "option": "(x-2)(x-3)"
+        },
+        {
+          "option": "(x+2)(x+3)",
+          "is_answer": true
+        },
+        {
+          "option": "(x+1)(x+6)"
+        }
+      ]
+    },
+    {
+      "question": "What is the discriminant of x^2 - 4x + 4 = 0?",
+      "options": [
+        {
+          "option": "32"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "-16"
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: x^2 - 9 = 0",
+      "options": [
+        {
+          "option": "3, 3"
+        },
+        {
+          "option": "9, -9"
+        },
+        {
+          "option": "3, -3",
+          "is_answer": true
+        },
+        {
+          "option": "0, 9"
+        }
+      ]
+    },
+    {
+      "question": "Which formula is used to solve any quadratic equation ax^2 + bx + c = 0?",
+      "options": [
+        {
+          "option": "(-b ± sqrt(b^2 - 4ac)) / a"
+        },
+        {
+          "option": "(-b ± sqrt(b^2 - 4ac)) / 2a",
+          "is_answer": true
+        },
+        {
+          "option": "(-b ± sqrt(b^2 + 4ac)) / 2a"
+        },
+        {
+          "option": "(b ± sqrt(b^2 - 4ac)) / 2a"
+        }
+      ]
+    },
+    {
+      "question": "Factorize x^2 - 7x + 12",
+      "options": [
+        {
+          "option": "(x-3)(x-4)",
+          "is_answer": true
+        },
+        {
+          "option": "(x+3)(x+4)"
+        },
+        {
+          "option": "(x-2)(x-6)"
+        },
+        {
+          "option": "(x-1)(x-12)"
+        }
+      ]
+    },
+    {
+      "question": "If the discriminant is negative, the roots are:",
+      "options": [
+        {
+          "option": "Zero"
+        },
+        {
+          "option": "Real and equal"
+        },
+        {
+          "option": "Complex/Imaginary",
+          "is_answer": true
+        },
+        {
+          "option": "Real and distinct"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of x in x^2 + 2x + 1 = 0?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "Factorize x^2 - 25",
+      "options": [
+        {
+          "option": "(x-25)(x+1)"
+        },
+        {
+          "option": "(x-5)(x-5)"
+        },
+        {
+          "option": "(x+5)(x+5)"
+        },
+        {
+          "option": "(x-5)(x+5)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the roots of x^2 - 5x + 6 = 0",
+      "options": [
+        {
+          "option": "2, 3",
+          "is_answer": true
+        },
+        {
+          "option": "-2, -3"
+        },
+        {
+          "option": "1, 6"
+        },
+        {
+          "option": "-1, -6"
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of roots for ax^2 + bx + c = 0?",
+      "options": [
+        {
+          "option": "b/a"
+        },
+        {
+          "option": "-c/a"
+        },
+        {
+          "option": "-b/a",
+          "is_answer": true
+        },
+        {
+          "option": "c/a"
+        }
+      ]
+    },
+    {
+      "question": "What is the product of roots for ax^2 + bx + c = 0?",
+      "options": [
+        {
+          "option": "-c/a"
+        },
+        {
+          "option": "b/a"
+        },
+        {
+          "option": "c/a",
+          "is_answer": true
+        },
+        {
+          "option": "-b/a"
+        }
+      ]
+    },
+    {
+      "question": "Solve x^2 + 4x + 4 = 0",
+      "options": [
+        {
+          "option": "x = 2"
+        },
+        {
+          "option": "x = -2",
+          "is_answer": true
+        },
+        {
+          "option": "x = 4"
+        },
+        {
+          "option": "x = -4"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a quadratic equation?",
+      "options": [
+        {
+          "option": "x^3 + x^2 = 0"
+        },
+        {
+          "option": "x + 5 = 0"
+        },
+        {
+          "option": "1/x + 2 = 0"
+        },
+        {
+          "option": "x^2 + 3x + 2 = 0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Factorize 2x^2 + 5x + 3",
+      "options": [
+        {
+          "option": "(2x+3)(x+1)",
+          "is_answer": true
+        },
+        {
+          "option": "(2x-3)(x-1)"
+        },
+        {
+          "option": "(2x+3)(x-1)"
+        },
+        {
+          "option": "(2x+1)(x+3)"
+        }
+      ]
+    },
+    {
+      "question": "If b^2 - 4ac > 0, the roots are:",
+      "options": [
+        {
+          "option": "Real and distinct",
+          "is_answer": true
+        },
+        {
+          "option": "Undefined"
+        },
+        {
+          "option": "Real and equal"
+        },
+        {
+          "option": "Complex"
+        }
+      ]
+    },
+    {
+      "question": "Solve x^2 - 6x + 9 = 0",
+      "options": [
+        {
+          "option": "x = 6"
+        },
+        {
+          "option": "x = 9"
+        },
+        {
+          "option": "x = -3"
+        },
+        {
+          "option": "x = 3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the coefficient of x in 3x^2 - 7x + 2 = 0?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "-7",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "Factorize x^2 + 8x + 16",
+      "options": [
+        {
+          "option": "(x+2)(x+8)"
+        },
+        {
+          "option": "(x+4)(x-4)"
+        },
+        {
+          "option": "(x+4)^2",
+          "is_answer": true
+        },
+        {
+          "option": "(x+8)^2"
+        }
+      ]
+    },
+    {
+      "question": "The quadratic formula is derived from which method?",
+      "options": [
+        {
+          "option": "Completing the square",
+          "is_answer": true
+        },
+        {
+          "option": "Factoring"
+        },
+        {
+          "option": "Synthetic division"
+        },
+        {
+          "option": "Graphing"
+        }
+      ]
+    },
+    {
+      "question": "Solve x^2 - x - 2 = 0",
+      "options": [
+        {
+          "option": "1, 2"
+        },
+        {
+          "option": "2, -1",
+          "is_answer": true
+        },
+        {
+          "option": "-1, -2"
+        },
+        {
+          "option": "-2, 1"
+        }
+      ]
+    },
+    {
+      "question": "What is the solution set for the inequality x - 5 > 0?",
+      "options": [
+        {
+          "option": "(-∞, 5]"
+        },
+        {
+          "option": "(5, ∞)",
+          "is_answer": true
+        },
+        {
+          "option": "(-∞, 5)"
+        },
+        {
+          "option": "[5, ∞)"
+        }
+      ]
+    },
+    {
+      "question": "Solve the inequality: 2x + 4 ≤ 0.",
+      "options": [
+        {
+          "option": "[-2, ∞)"
+        },
+        {
+          "option": "(-∞, -2]",
+          "is_answer": true
+        },
+        {
+          "option": "(-∞, 2]"
+        },
+        {
+          "option": "[2, ∞)"
+        }
+      ]
+    },
+    {
+      "question": "What is the solution to x² - 9 < 0?",
+      "options": [
+        {
+          "option": "(-3, 3]"
+        },
+        {
+          "option": "(-∞, -3) ∪ (3, ∞)"
+        },
+        {
+          "option": "[-3, 3)"
+        },
+        {
+          "option": "(-3, 3)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: x² - 5x + 6 ≥ 0.",
+      "options": [
+        {
+          "option": "(-∞, 2) ∪ (3, ∞)"
+        },
+        {
+          "option": "[2, 3]"
+        },
+        {
+          "option": "(-∞, 2] ∪ [3, ∞)",
+          "is_answer": true
+        },
+        {
+          "option": "(2, 3)"
+        }
+      ]
+    },
+    {
+      "question": "Which interval satisfies (x - 1)(x + 2) < 0?",
+      "options": [
+        {
+          "option": "[-2, 1)"
+        },
+        {
+          "option": "(-2, 1]"
+        },
+        {
+          "option": "(-∞, -2) ∪ (1, ∞)"
+        },
+        {
+          "option": "(-2, 1)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Solve the inequality: -x + 3 > 0.",
+      "options": [
+        {
+          "option": "[3, ∞)"
+        },
+        {
+          "option": "(-∞, 3)",
+          "is_answer": true
+        },
+        {
+          "option": "(-∞, 3]"
+        },
+        {
+          "option": "(3, ∞)"
+        }
+      ]
+    },
+    {
+      "question": "What is the solution to x² + 4 > 0?",
+      "options": [
+        {
+          "option": "(-∞, 0)"
+        },
+        {
+          "option": "Empty set"
+        },
+        {
+          "option": "(-∞, ∞)",
+          "is_answer": true
+        },
+        {
+          "option": "(0, ∞)"
+        }
+      ]
+    },
+    {
+      "question": "Solve: (x - 4)² ≤ 0.",
+      "options": [
+        {
+          "option": "[4, ∞)"
+        },
+        {
+          "option": "{4}",
+          "is_answer": true
+        },
+        {
+          "option": "Empty set"
+        },
+        {
+          "option": "(-∞, 4]"
+        }
+      ]
+    },
+    {
+      "question": "Find the solution set for x² - 2x - 8 ≤ 0.",
+      "options": [
+        {
+          "option": "(-∞, -2] ∪ [4, ∞)"
+        },
+        {
+          "option": "(-∞, -2) ∪ (4, ∞)"
+        },
+        {
+          "option": "(-2, 4)"
+        },
+        {
+          "option": "[-2, 4]",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Solve: x² + x - 6 > 0.",
+      "options": [
+        {
+          "option": "(-∞, -3) ∪ (2, ∞)",
+          "is_answer": true
+        },
+        {
+          "option": "(-3, 2)"
+        },
+        {
+          "option": "[-3, 2]"
+        },
+        {
+          "option": "(-∞, -3] ∪ [2, ∞)"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is the solution to 3x - 6 < 0?",
+      "options": [
+        {
+          "option": "(2, ∞)"
+        },
+        {
+          "option": "(-∞, 2]"
+        },
+        {
+          "option": "[2, ∞)"
+        },
+        {
+          "option": "(-∞, 2)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Solve: x² - 1 > 0.",
+      "options": [
+        {
+          "option": "(-∞, -1) ∪ (1, ∞)",
+          "is_answer": true
+        },
+        {
+          "option": "[-1, 1]"
+        },
+        {
+          "option": "(-∞, -1] ∪ [1, ∞)"
+        },
+        {
+          "option": "(-1, 1)"
+        }
+      ]
+    },
+    {
+      "question": "What is the solution to (x + 5)(x - 2) ≥ 0?",
+      "options": [
+        {
+          "option": "[-5, 2]"
+        },
+        {
+          "option": "(-∞, -5] ∪ [2, ∞)",
+          "is_answer": true
+        },
+        {
+          "option": "(-∞, -5) ∪ (2, ∞)"
+        },
+        {
+          "option": "(-5, 2)"
+        }
+      ]
+    },
+    {
+      "question": "Solve: -2x + 8 ≤ 0.",
+      "options": [
+        {
+          "option": "[4, ∞)",
+          "is_answer": true
+        },
+        {
+          "option": "(4, ∞)"
+        },
+        {
+          "option": "(-∞, 4)"
+        },
+        {
+          "option": "(-∞, 4]"
+        }
+      ]
+    },
+    {
+      "question": "Find the solution for x² + 2x + 1 ≤ 0.",
+      "options": [
+        {
+          "option": "(-∞, -1]"
+        },
+        {
+          "option": "[-1, ∞)"
+        },
+        {
+          "option": "{-1}",
+          "is_answer": true
+        },
+        {
+          "option": "Empty set"
+        }
+      ]
+    },
+    {
+      "question": "Solve: x² - 4x + 4 > 0.",
+      "options": [
+        {
+          "option": "[2, ∞)"
+        },
+        {
+          "option": "(-∞, 2]"
+        },
+        {
+          "option": "All real numbers"
+        },
+        {
+          "option": "(-∞, 2) ∪ (2, ∞)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the solution to (x - 3)(x + 4) ≤ 0?",
+      "options": [
+        {
+          "option": "(-4, 3)"
+        },
+        {
+          "option": "(-∞, -4] ∪ [3, ∞)"
+        },
+        {
+          "option": "(-∞, -4) ∪ (3, ∞)"
+        },
+        {
+          "option": "[-4, 3]",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Solve: 5x - 10 > 0.",
+      "options": [
+        {
+          "option": "(-∞, 2]"
+        },
+        {
+          "option": "[2, ∞)"
+        },
+        {
+          "option": "(2, ∞)",
+          "is_answer": true
+        },
+        {
+          "option": "(-∞, 2)"
+        }
+      ]
+    },
+    {
+      "question": "Solve: x² - 7x + 10 < 0.",
+      "options": [
+        {
+          "option": "(2, 5)",
+          "is_answer": true
+        },
+        {
+          "option": "[2, 5]"
+        },
+        {
+          "option": "(-∞, 2) ∪ (5, ∞)"
+        },
+        {
+          "option": "(-∞, 2] ∪ [5, ∞)"
+        }
+      ]
+    },
+    {
+      "question": "What is the solution to x² + 9 < 0?",
+      "options": [
+        {
+          "option": "(-∞, 0)"
+        },
+        {
+          "option": "(-∞, ∞)"
+        },
+        {
+          "option": "Empty set",
+          "is_answer": true
+        },
+        {
+          "option": "(0, ∞)"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: a^3 * a^2",
+      "options": [
+        {
+          "option": "a^6"
+        },
+        {
+          "option": "a^1"
+        },
+        {
+          "option": "a^5",
+          "is_answer": true
+        },
+        {
+          "option": "a^9"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: (a^2)^3",
+      "options": [
+        {
+          "option": "a^6",
+          "is_answer": true
+        },
+        {
+          "option": "a^5"
+        },
+        {
+          "option": "a^8"
+        },
+        {
+          "option": "a^1"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: a^7 / a^3",
+      "options": [
+        {
+          "option": "a^10"
+        },
+        {
+          "option": "a^21"
+        },
+        {
+          "option": "a^4",
+          "is_answer": true
+        },
+        {
+          "option": "a^3"
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: 2^x = 8",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of any non-zero number raised to the power of 0?",
+      "options": [
+        {
+          "option": "Undefined"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "The number itself"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: 3^2 * 3^4",
+      "options": [
+        {
+          "option": "9^6"
+        },
+        {
+          "option": "3^8"
+        },
+        {
+          "option": "3^2"
+        },
+        {
+          "option": "3^6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: 5^x = 25",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: (x^3 * x^4) / x^2",
+      "options": [
+        {
+          "option": "x^1"
+        },
+        {
+          "option": "x^6"
+        },
+        {
+          "option": "x^5",
+          "is_answer": true
+        },
+        {
+          "option": "x^7"
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: 3^(x+1) = 9",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Simplify: (2^3)^2",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "64",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which rule is used to simplify a^m * a^n?",
+      "options": [
+        {
+          "option": "a^(m-n)"
+        },
+        {
+          "option": "a^(m+n)",
+          "is_answer": true
+        },
+        {
+          "option": "a^(mn)"
+        },
+        {
+          "option": "a^(m/n)"
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: 4^x = 64",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: 10^5 / 10^2",
+      "options": [
+        {
+          "option": "10^7"
+        },
+        {
+          "option": "10^2.5"
+        },
+        {
+          "option": "10^3",
+          "is_answer": true
+        },
+        {
+          "option": "10^10"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of 2^4?",
+      "options": [
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: (x^2 * y^3)^2",
+      "options": [
+        {
+          "option": "x^2 * y^6"
+        },
+        {
+          "option": "x^4 * y^6",
+          "is_answer": true
+        },
+        {
+          "option": "x^4 * y^3"
+        },
+        {
+          "option": "x^4 * y^5"
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: 2^(x-1) = 4",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: (a^5)^0",
+      "options": [
+        {
+          "option": "a^5"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "a^0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Simplify: 2^3 * 2^2 * 2^1",
+      "options": [
+        {
+          "option": "8^6"
+        },
+        {
+          "option": "2^5"
+        },
+        {
+          "option": "2^9"
+        },
+        {
+          "option": "2^6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: 10^x = 1000",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Simplify: x^a / x^b",
+      "options": [
+        {
+          "option": "x^(ab)"
+        },
+        {
+          "option": "x^(a-b)",
+          "is_answer": true
+        },
+        {
+          "option": "x^(a/b)"
+        },
+        {
+          "option": "x^(a+b)"
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: |x - 5| = 3",
+      "options": [
+        {
+          "option": "x = 8, x = 2",
+          "is_answer": true
+        },
+        {
+          "option": "x = 3, x = -3"
+        },
+        {
+          "option": "x = 8, x = -2"
+        },
+        {
+          "option": "x = -8, x = 2"
+        }
+      ]
+    },
+    {
+      "question": "Solve the inequality: |x| < 4",
+      "options": [
+        {
+          "option": "x < 4"
+        },
+        {
+          "option": "-4 < x < 4",
+          "is_answer": true
+        },
+        {
+          "option": "x > -4"
+        },
+        {
+          "option": "x < 4 or x > -4"
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: |2x + 1| = 7",
+      "options": [
+        {
+          "option": "x = 3, x = -4",
+          "is_answer": true
+        },
+        {
+          "option": "x = -3, x = 4"
+        },
+        {
+          "option": "x = 3, x = 4"
+        },
+        {
+          "option": "x = 7, x = -7"
+        }
+      ]
+    },
+    {
+      "question": "What is the solution to |x - 2| > 5?",
+      "options": [
+        {
+          "option": "x > 7 or x < -3",
+          "is_answer": true
+        },
+        {
+          "option": "x < -3"
+        },
+        {
+          "option": "-3 < x < 7"
+        },
+        {
+          "option": "x > 7"
+        }
+      ]
+    },
+    {
+      "question": "Solve: |x + 3| = 0",
+      "options": [
+        {
+          "option": "x = 3"
+        },
+        {
+          "option": "x = 0"
+        },
+        {
+          "option": "No solution"
+        },
+        {
+          "option": "x = -3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Solve: |x - 1| = -2",
+      "options": [
+        {
+          "option": "x = 3, x = -1"
+        },
+        {
+          "option": "x = 1, x = -2"
+        },
+        {
+          "option": "x = -1"
+        },
+        {
+          "option": "No solution",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Solve: |3x - 6| = 9",
+      "options": [
+        {
+          "option": "x = 1, x = -5"
+        },
+        {
+          "option": "x = 9, x = -9"
+        },
+        {
+          "option": "x = 3, x = -3"
+        },
+        {
+          "option": "x = 5, x = -1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Solve: |x + 4| < 2",
+      "options": [
+        {
+          "option": "x > -6"
+        },
+        {
+          "option": "-2 < x < 2"
+        },
+        {
+          "option": "x < -2"
+        },
+        {
+          "option": "-6 < x < -2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Solve: |2x - 4| = 0",
+      "options": [
+        {
+          "option": "x = 4"
+        },
+        {
+          "option": "x = 0"
+        },
+        {
+          "option": "x = 2",
+          "is_answer": true
+        },
+        {
+          "option": "x = -2"
+        }
+      ]
+    },
+    {
+      "question": "Solve: |x + 5| > 3",
+      "options": [
+        {
+          "option": "-8 < x < -2"
+        },
+        {
+          "option": "x > -2 or x < -8",
+          "is_answer": true
+        },
+        {
+          "option": "x < -8"
+        },
+        {
+          "option": "x > -2"
+        }
+      ]
+    },
+    {
+      "question": "Which value of x satisfies |x - 3| = 5?",
+      "options": [
+        {
+          "option": "x = 8",
+          "is_answer": true
+        },
+        {
+          "option": "x = 2"
+        },
+        {
+          "option": "x = 5"
+        },
+        {
+          "option": "x = -5"
+        }
+      ]
+    },
+    {
+      "question": "Solve: |x| = 7",
+      "options": [
+        {
+          "option": "x = 7"
+        },
+        {
+          "option": "x = 7, x = -7",
+          "is_answer": true
+        },
+        {
+          "option": "No solution"
+        },
+        {
+          "option": "x = -7"
+        }
+      ]
+    },
+    {
+      "question": "Solve: |x - 1| < 3",
+      "options": [
+        {
+          "option": "x > -2"
+        },
+        {
+          "option": "x < 4"
+        },
+        {
+          "option": "-2 < x < 4",
+          "is_answer": true
+        },
+        {
+          "option": "x < 3"
+        }
+      ]
+    },
+    {
+      "question": "Solve: |2x + 4| = 6",
+      "options": [
+        {
+          "option": "x = -1, x = 5"
+        },
+        {
+          "option": "x = 1, x = -5",
+          "is_answer": true
+        },
+        {
+          "option": "x = 2, x = -2"
+        },
+        {
+          "option": "x = 1, x = 5"
+        }
+      ]
+    },
+    {
+      "question": "Solve: |x - 4| > 0",
+      "options": [
+        {
+          "option": "x > 4"
+        },
+        {
+          "option": "x = 4"
+        },
+        {
+          "option": "x < 4"
+        },
+        {
+          "option": "x ≠ 4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Solve: |x + 2| = 5",
+      "options": [
+        {
+          "option": "x = 5, x = -2"
+        },
+        {
+          "option": "x = 3, x = -7",
+          "is_answer": true
+        },
+        {
+          "option": "x = -3, x = 7"
+        },
+        {
+          "option": "x = 3, x = 7"
+        }
+      ]
+    },
+    {
+      "question": "Solve: |x - 6| < 1",
+      "options": [
+        {
+          "option": "x < 7"
+        },
+        {
+          "option": "x < 6"
+        },
+        {
+          "option": "x > 5"
+        },
+        {
+          "option": "5 < x < 7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Solve: |3x| = 12",
+      "options": [
+        {
+          "option": "x = -4"
+        },
+        {
+          "option": "x = 36, x = -36"
+        },
+        {
+          "option": "x = 4"
+        },
+        {
+          "option": "x = 4, x = -4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Solve: |x + 1| > 4",
+      "options": [
+        {
+          "option": "x < -5"
+        },
+        {
+          "option": "-5 < x < 3"
+        },
+        {
+          "option": "x > 3"
+        },
+        {
+          "option": "x > 3 or x < -5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Solve: |x - 2| = 2",
+      "options": [
+        {
+          "option": "x = 2, x = -2"
+        },
+        {
+          "option": "x = 4"
+        },
+        {
+          "option": "x = 0"
+        },
+        {
+          "option": "x = 4, x = 0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the expansion of (a + b)^2?",
+      "options": [
+        {
+          "option": "a^2 + ab + b^2"
+        },
+        {
+          "option": "a^2 - 2ab + b^2"
+        },
+        {
+          "option": "a^2 + 2ab + b^2",
+          "is_answer": true
+        },
+        {
+          "option": "a^2 + 2ab - b^2"
+        }
+      ]
+    },
+    {
+      "question": "What is the expansion of (a - b)^2?",
+      "options": [
+        {
+          "option": "a^2 - ab + b^2"
+        },
+        {
+          "option": "a^2 + 2ab + b^2"
+        },
+        {
+          "option": "a^2 - 2ab - b^2"
+        },
+        {
+          "option": "a^2 - 2ab + b^2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the expansion of (a + b + c)^2?",
+      "options": [
+        {
+          "option": "a^2 + b^2 + c^2 - 2ab - 2bc - 2ca"
+        },
+        {
+          "option": "a^2 + b^2 + c^2 + 2ab + 2bc - 2ca"
+        },
+        {
+          "option": "a^2 + b^2 + c^2 + ab + bc + ca"
+        },
+        {
+          "option": "a^2 + b^2 + c^2 + 2ab + 2bc + 2ca",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the expansion of (a + b)^3?",
+      "options": [
+        {
+          "option": "a^3 - 3a^2b + 3ab^2 - b^3"
+        },
+        {
+          "option": "a^3 + a^2b + ab^2 + b^3"
+        },
+        {
+          "option": "a^3 + 3a^2b - 3ab^2 + b^3"
+        },
+        {
+          "option": "a^3 + 3a^2b + 3ab^2 + b^3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the expansion of (a - b)^3?",
+      "options": [
+        {
+          "option": "a^3 + 3a^2b + 3ab^2 + b^3"
+        },
+        {
+          "option": "a^3 - a^2b + ab^2 - b^3"
+        },
+        {
+          "option": "a^3 - 3a^2b - 3ab^2 - b^3"
+        },
+        {
+          "option": "a^3 - 3a^2b + 3ab^2 - b^3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Factorize x^2 + 6x + 9.",
+      "options": [
+        {
+          "option": "(x + 6)^2"
+        },
+        {
+          "option": "(x + 3)^2",
+          "is_answer": true
+        },
+        {
+          "option": "(x + 9)^2"
+        },
+        {
+          "option": "(x + 3)(x - 3)"
+        }
+      ]
+    },
+    {
+      "question": "Factorize x^2 - 10x + 25.",
+      "options": [
+        {
+          "option": "(x - 5)^2",
+          "is_answer": true
+        },
+        {
+          "option": "(x - 5)(x + 5)"
+        },
+        {
+          "option": "(x + 5)^2"
+        },
+        {
+          "option": "(x - 10)^2"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of (101)^2 using identity?",
+      "options": [
+        {
+          "option": "10201",
+          "is_answer": true
+        },
+        {
+          "option": "10101"
+        },
+        {
+          "option": "10001"
+        },
+        {
+          "option": "10401"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of (99)^2 using identity?",
+      "options": [
+        {
+          "option": "9601"
+        },
+        {
+          "option": "9801",
+          "is_answer": true
+        },
+        {
+          "option": "9901"
+        },
+        {
+          "option": "9701"
+        }
+      ]
+    },
+    {
+      "question": "Expand (2x + 3y)^2.",
+      "options": [
+        {
+          "option": "4x^2 + 12xy + 9y^2",
+          "is_answer": true
+        },
+        {
+          "option": "4x^2 + 6xy + 9y^2"
+        },
+        {
+          "option": "4x^2 + 12xy + 3y^2"
+        },
+        {
+          "option": "2x^2 + 12xy + 3y^2"
+        }
+      ]
+    },
+    {
+      "question": "Expand (x - 2y)^3.",
+      "options": [
+        {
+          "option": "x^3 - 3x^2y + 3xy^2 - 2y^3"
+        },
+        {
+          "option": "x^3 - 6x^2y + 6xy^2 - 8y^3"
+        },
+        {
+          "option": "x^3 - 6x^2y + 12xy^2 - 8y^3",
+          "is_answer": true
+        },
+        {
+          "option": "x^3 - 2x^2y + 4xy^2 - 8y^3"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is equal to (a + b)^3 - (a - b)^3?",
+      "options": [
+        {
+          "option": "2b^3 - 6a^2b"
+        },
+        {
+          "option": "2a^3 + 6ab^2"
+        },
+        {
+          "option": "2b^3 + 6a^2b",
+          "is_answer": true
+        },
+        {
+          "option": "6a^2b - 2b^3"
+        }
+      ]
+    },
+    {
+      "question": "If a+b+c=0, then a^3+b^3+c^3 equals:",
+      "options": [
+        {
+          "option": "abc"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "3abc",
+          "is_answer": true
+        },
+        {
+          "option": "-3abc"
+        }
+      ]
+    },
+    {
+      "question": "Expand (a + 2b + 3c)^2.",
+      "options": [
+        {
+          "option": "a^2 + 4b^2 + 9c^2 + 4ab + 12bc + 6ac",
+          "is_answer": true
+        },
+        {
+          "option": "a^2 + 4b^2 + 9c^2 + 4ab + 6bc + 12ac"
+        },
+        {
+          "option": "a^2 + 2b^2 + 3c^2 + 4ab + 6bc + 3ac"
+        },
+        {
+          "option": "a^2 + 4b^2 + 9c^2 + 2ab + 6bc + 3ac"
+        }
+      ]
+    },
+    {
+      "question": "What is the simplified form of (x+y)^2 - (x-y)^2?",
+      "options": [
+        {
+          "option": "4xy",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "2xy"
+        },
+        {
+          "option": "2x^2 + 2y^2"
+        }
+      ]
+    },
+    {
+      "question": "Factorize 8x^3 + y^3.",
+      "options": [
+        {
+          "option": "(2x + y)(4x^2 - 2xy + y^2)",
+          "is_answer": true
+        },
+        {
+          "option": "(2x - y)(4x^2 + 2xy + y^2)"
+        },
+        {
+          "option": "(2x + y)(4x^2 + 2xy + y^2)"
+        },
+        {
+          "option": "(2x + y)(2x^2 - 2xy + y^2)"
+        }
+      ]
+    },
+    {
+      "question": "Expand (3a - 1)^3.",
+      "options": [
+        {
+          "option": "27a^3 - 27a^2 + 9a - 1",
+          "is_answer": true
+        },
+        {
+          "option": "9a^3 - 27a^2 + 9a - 1"
+        },
+        {
+          "option": "27a^3 - 27a^2 + 3a - 1"
+        },
+        {
+          "option": "27a^3 - 9a^2 + 3a - 1"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of (a-b)^2 + (a+b)^2?",
+      "options": [
+        {
+          "option": "2(a^2 + b^2)",
+          "is_answer": true
+        },
+        {
+          "option": "4ab"
+        },
+        {
+          "option": "2(a^2 - b^2)"
+        },
+        {
+          "option": "a^2 + b^2"
+        }
+      ]
+    },
+    {
+      "question": "Expand (x + 1/x)^2.",
+      "options": [
+        {
+          "option": "x^2 + 2 + 1/x"
+        },
+        {
+          "option": "x^2 + 2 + 1/x^2",
+          "is_answer": true
+        },
+        {
+          "option": "x^2 + 2x + 1/x^2"
+        },
+        {
+          "option": "x^2 + 1 + 1/x^2"
+        }
+      ]
+    },
+    {
+      "question": "Factorize x^2 - y^2.",
+      "options": [
+        {
+          "option": "(x - y)(x + y)",
+          "is_answer": true
+        },
+        {
+          "option": "(x + y)(x + y)"
+        },
+        {
+          "option": "(x - y)(x - y)"
+        },
+        {
+          "option": "x^2 - 2xy + y^2"
+        }
+      ]
+    },
+    {
+      "question": "Simplify √75.",
+      "options": [
+        {
+          "option": "3√5"
+        },
+        {
+          "option": "15√5"
+        },
+        {
+          "option": "25√3"
+        },
+        {
+          "option": "5√3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the conjugate of (3 + √2)?",
+      "options": [
+        {
+          "option": "-3 - √2"
+        },
+        {
+          "option": "-3 + √2"
+        },
+        {
+          "option": "3 - √2",
+          "is_answer": true
+        },
+        {
+          "option": "3 + √2"
+        }
+      ]
+    },
+    {
+      "question": "Rationalize the denominator of 1/√2.",
+      "options": [
+        {
+          "option": "2√2"
+        },
+        {
+          "option": "√2/2",
+          "is_answer": true
+        },
+        {
+          "option": "√2"
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: √x = 5.",
+      "options": [
+        {
+          "option": "25",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "125"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "Simplify √20 + √45.",
+      "options": [
+        {
+          "option": "2√5 + 3√5"
+        },
+        {
+          "option": "√65"
+        },
+        {
+          "option": "25√5"
+        },
+        {
+          "option": "5√5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of (√3)²?",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "√3"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "Rationalize 1/(√3 - √2).",
+      "options": [
+        {
+          "option": "√3 + √2",
+          "is_answer": true
+        },
+        {
+          "option": "√3 - √2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "√2 - √3"
+        }
+      ]
+    },
+    {
+      "question": "Simplify √8 * √2.",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "√16"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: √(x + 1) = 3.",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "Simplify √12 / √3.",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "√4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "What is the conjugate of √5 - 2?",
+      "options": [
+        {
+          "option": "√5 + 2",
+          "is_answer": true
+        },
+        {
+          "option": "√5 - 2"
+        },
+        {
+          "option": "2 - √5"
+        },
+        {
+          "option": "-√5 - 2"
+        }
+      ]
+    },
+    {
+      "question": "Simplify 3√2 + 4√2.",
+      "options": [
+        {
+          "option": "7√2",
+          "is_answer": true
+        },
+        {
+          "option": "12√2"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "7√4"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate √(16 + 9).",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "4 + 3"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Rationalize 2/√5.",
+      "options": [
+        {
+          "option": "5/2"
+        },
+        {
+          "option": "2√5"
+        },
+        {
+          "option": "√5/2"
+        },
+        {
+          "option": "2√5/5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Simplify √27 - √12.",
+      "options": [
+        {
+          "option": "√15"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "3√3"
+        },
+        {
+          "option": "√3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: √x + 2 = 5.",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "What is √a * √b?",
+      "options": [
+        {
+          "option": "√(ab)",
+          "is_answer": true
+        },
+        {
+          "option": "√(a+b)"
+        },
+        {
+          "option": "b√a"
+        },
+        {
+          "option": "a√b"
+        }
+      ]
+    },
+    {
+      "question": "Simplify (√2 + 1)(√2 - 1).",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "√2"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "Rationalize 1/(2 + √3).",
+      "options": [
+        {
+          "option": "√3 - 2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2 - √3",
+          "is_answer": true
+        },
+        {
+          "option": "2 + √3"
+        }
+      ]
+    },
+    {
+      "question": "Simplify √50.",
+      "options": [
+        {
+          "option": "25√2"
+        },
+        {
+          "option": "10√5"
+        },
+        {
+          "option": "5√2",
+          "is_answer": true
+        },
+        {
+          "option": "2√5"
+        }
+      ]
+    },
+    {
+      "question": "If a + b + c = 0, then what is the value of a^3 + b^3 + c^3?",
+      "options": [
+        {
+          "option": "abc"
+        },
+        {
+          "option": "3abc",
+          "is_answer": true
+        },
+        {
+          "option": "-3abc"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "What is the expanded form of a^3 + b^3 + c^3 - 3abc?",
+      "options": [
+        {
+          "option": "(a+b+c)(a^2+b^2+c^2+ab+bc+ca)"
+        },
+        {
+          "option": "(a+b+c)(a^2+b^2+c^2)"
+        },
+        {
+          "option": "(a+b+c)(a^2+b^2+c^2-ab-bc-ca)",
+          "is_answer": true
+        },
+        {
+          "option": "(a-b-c)(a^2+b^2+c^2-ab-bc-ca)"
+        }
+      ]
+    },
+    {
+      "question": "If a=1, b=2, c=-3, what is the value of a^3 + b^3 + c^3 - 3abc?",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "-18"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: 10^3 + 5^3 + (-15)^3.",
+      "options": [
+        {
+          "option": "-2250",
+          "is_answer": true
+        },
+        {
+          "option": "1125"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "2250"
+        }
+      ]
+    },
+    {
+      "question": "If a+b+c=0, then (a^3+b^3+c^3)/abc is equal to:",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "-3"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is a factor of a^3 + b^3 + c^3 - 3abc?",
+      "options": [
+        {
+          "option": "a-b-c"
+        },
+        {
+          "option": "a+b-c"
+        },
+        {
+          "option": "abc"
+        },
+        {
+          "option": "a+b+c",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If a^3 + b^3 + c^3 = 3abc and a+b+c is not zero, then what must be true?",
+      "options": [
+        {
+          "option": "abc=0"
+        },
+        {
+          "option": "a^2+b^2+c^2=0"
+        },
+        {
+          "option": "a+b=c"
+        },
+        {
+          "option": "a=b=c",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of (x-y)^3 + (y-z)^3 + (z-x)^3?",
+      "options": [
+        {
+          "option": "-3(x-y)(y-z)(z-x)"
+        },
+        {
+          "option": "(x-y)(y-z)(z-x)"
+        },
+        {
+          "option": "3(x-y)(y-z)(z-x)",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "If a=25, b=-15, c=-10, find a^3 + b^3 + c^3.",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "11250",
+          "is_answer": true
+        },
+        {
+          "option": "-11250"
+        },
+        {
+          "option": "2250"
+        }
+      ]
+    },
+    {
+      "question": "The expression a^3 + b^3 + c^3 - 3abc can be written as 1/2(a+b+c)[(a-b)^2 + (b-c)^2 + (c-a)^2]. Is this true?",
+      "options": [
+        {
+          "option": "False"
+        },
+        {
+          "option": "Only if a=b=c"
+        },
+        {
+          "option": "Only if a+b+c=0"
+        },
+        {
+          "option": "True",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If a+b+c=0, then a^3+b^3+c^3 is equal to:",
+      "options": [
+        {
+          "option": "abc"
+        },
+        {
+          "option": "a^3+b^3+c^3"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "3abc",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the value of (1/2)^3 + (1/3)^3 - (5/6)^3.",
+      "options": [
+        {
+          "option": "3/36"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-3/36",
+          "is_answer": true
+        },
+        {
+          "option": "1/6"
+        }
+      ]
+    },
+    {
+      "question": "If a+b+c=0, then (a^2/bc) + (b^2/ac) + (c^2/ab) equals:",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "abc"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of a^3 + b^3 + c^3 - 3abc if a+b+c=10 and a^2+b^2+c^2-ab-bc-ca=5?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "50",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "If a=x-y, b=y-z, c=z-x, then a^3+b^3+c^3 is:",
+      "options": [
+        {
+          "option": "(x-y)(y-z)(z-x)"
+        },
+        {
+          "option": "x^3+y^3+z^3"
+        },
+        {
+          "option": "3(x-y)(y-z)(z-x)",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "Which identity is used to factorize a^3 + b^3 + c^3 - 3abc?",
+      "options": [
+        {
+          "option": "(a+b+c)(a^2+b^2+c^2+3abc)"
+        },
+        {
+          "option": "(a+b+c)(a^2+b^2+c^2-ab-bc-ca)",
+          "is_answer": true
+        },
+        {
+          "option": "(a+b+c)(a^2+b^2+c^2)"
+        },
+        {
+          "option": "(a+b+c)^3"
+        }
+      ]
+    },
+    {
+      "question": "If a+b+c=0, then a^3+b^3+c^3 - 3abc equals:",
+      "options": [
+        {
+          "option": "3abc"
+        },
+        {
+          "option": "a+b+c"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "a^2+b^2+c^2"
+        }
+      ]
+    },
+    {
+      "question": "If a=10, b=10, c=-20, then a^3+b^3+c^3 is:",
+      "options": [
+        {
+          "option": "-6000",
+          "is_answer": true
+        },
+        {
+          "option": "3000"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "6000"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of (a+b+c) if a^3+b^3+c^3=3abc and a, b, c are distinct non-zero numbers?",
+      "options": [
+        {
+          "option": "abc"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "The expression a^3+b^3+c^3-3abc is equal to zero if:",
+      "options": [
+        {
+          "option": "a=b=c only"
+        },
+        {
+          "option": "abc=0"
+        },
+        {
+          "option": "a+b+c=0 or a=b=c",
+          "is_answer": true
+        },
+        {
+          "option": "a+b+c=0 only"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of log_b(x) + log_b(y)?",
+      "options": [
+        {
+          "option": "log_b(x/y)"
+        },
+        {
+          "option": "log_b(x^y)"
+        },
+        {
+          "option": "log_b(xy)",
+          "is_answer": true
+        },
+        {
+          "option": "log_b(x+y)"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of log_b(x) - log_b(y)?",
+      "options": [
+        {
+          "option": "log_b(xy)"
+        },
+        {
+          "option": "log_b(x-y)"
+        },
+        {
+          "option": "log_b(x/y)",
+          "is_answer": true
+        },
+        {
+          "option": "log_b(x^y)"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of log_b(x^k)?",
+      "options": [
+        {
+          "option": "log_b(x) + k"
+        },
+        {
+          "option": "k^log_b(x)"
+        },
+        {
+          "option": "log_b(k*x)"
+        },
+        {
+          "option": "k * log_b(x)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of log_a(b) using the change of base formula with base c?",
+      "options": [
+        {
+          "option": "log_c(a) / log_c(b)"
+        },
+        {
+          "option": "log_c(b) - log_c(a)"
+        },
+        {
+          "option": "log_c(b) / log_c(a)",
+          "is_answer": true
+        },
+        {
+          "option": "log_c(b) * log_c(a)"
+        }
+      ]
+    },
+    {
+      "question": "What is log_b(1)?",
+      "options": [
+        {
+          "option": "undefined"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "b"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is log_b(b)?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "undefined"
+        },
+        {
+          "option": "b"
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: log_2(x) = 3",
+      "options": [
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: log_x(16) = 2",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is log_10(1000)?",
+      "options": [
+        {
+          "option": "100"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: log_5(25) + log_5(1)",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "What is log_b(b^n)?",
+      "options": [
+        {
+          "option": "n*b"
+        },
+        {
+          "option": "b"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "n",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which expression is equivalent to 2 * log(x)?",
+      "options": [
+        {
+          "option": "log(2x)"
+        },
+        {
+          "option": "log(x) / 2"
+        },
+        {
+          "option": "log(x) + 2"
+        },
+        {
+          "option": "log(x^2)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is log_3(81)?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "27"
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: log_5(x) = 0",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "undefined"
+        }
+      ]
+    },
+    {
+      "question": "What is log_2(1/8)?",
+      "options": [
+        {
+          "option": "-3",
+          "is_answer": true
+        },
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "-1/3"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is true?",
+      "options": [
+        {
+          "option": "log(a/b) = log(a) / log(b)"
+        },
+        {
+          "option": "log(a+b) = log(a) + log(b)"
+        },
+        {
+          "option": "log(a*b) = log(a) + log(b)",
+          "is_answer": true
+        },
+        {
+          "option": "log(a^b) = log(a) * b"
+        }
+      ]
+    },
+    {
+      "question": "What is log_4(2)?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "0.5",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "Solve for x: log_x(x) = 1",
+      "options": [
+        {
+          "option": "x > 0, x ≠ 1",
+          "is_answer": true
+        },
+        {
+          "option": "x = 0"
+        },
+        {
+          "option": "all real numbers"
+        },
+        {
+          "option": "x = 1"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: log_b(x^2) - log_b(x)",
+      "options": [
+        {
+          "option": "log_b(x^2)"
+        },
+        {
+          "option": "log_b(x-1)"
+        },
+        {
+          "option": "log_b(2)"
+        },
+        {
+          "option": "log_b(x)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is log_10(0.1)?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "What is the 5th term of a GP where the first term a=3 and common ratio r=2?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "96"
+        },
+        {
+          "option": "48",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "Find the sum of the first 3 terms of a GP where a=2 and r=3.",
+      "options": [
+        {
+          "option": "54"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "26",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the sum to infinity of a GP with a=1 and r=0.5?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "1.5"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "In a GP, if the 1st term is 5 and the 2nd term is 10, what is the common ratio r?",
+      "options": [
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the 4th term of the GP: 81, 27, 9, ...?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "27"
+        }
+      ]
+    },
+    {
+      "question": "For an infinite GP to have a finite sum, what must be true about the common ratio r?",
+      "options": [
+        {
+          "option": "|r| < 1",
+          "is_answer": true
+        },
+        {
+          "option": "r = 1"
+        },
+        {
+          "option": "r = 0"
+        },
+        {
+          "option": "|r| > 1"
+        }
+      ]
+    },
+    {
+      "question": "Find the 6th term of a GP where a=1 and r=-2.",
+      "options": [
+        {
+          "option": "32"
+        },
+        {
+          "option": "-64"
+        },
+        {
+          "option": "-32",
+          "is_answer": true
+        },
+        {
+          "option": "64"
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of the first 4 terms of the GP: 1, 2, 4, 8, ...?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "31"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the sum to infinity of a GP is 10 and a=5, what is r?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0.5",
+          "is_answer": true
+        },
+        {
+          "option": "0.25"
+        }
+      ]
+    },
+    {
+      "question": "What is the 3rd term of a GP where a=4 and r=0.5?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "Which formula represents the nth term of a GP?",
+      "options": [
+        {
+          "option": "a+(n-1)d"
+        },
+        {
+          "option": "a/r^(n-1)"
+        },
+        {
+          "option": "a*r^n"
+        },
+        {
+          "option": "a*r^(n-1)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the sum to infinity of: 10, 5, 2.5, ...",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If a=2 and r=2, what is the 5th term?",
+      "options": [
+        {
+          "option": "64"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "32",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "What is the common ratio of the GP: 100, -50, 25, ...?",
+      "options": [
+        {
+          "option": "-2"
+        },
+        {
+          "option": "-0.5",
+          "is_answer": true
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "Calculate the sum of the first 3 terms of a GP where a=10 and r=0.1.",
+      "options": [
+        {
+          "option": "12.1"
+        },
+        {
+          "option": "10.1"
+        },
+        {
+          "option": "11.1",
+          "is_answer": true
+        },
+        {
+          "option": "11"
+        }
+      ]
+    },
+    {
+      "question": "What is the 2nd term of a GP where a=5 and r=3?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "45"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the correct formula for the sum of n terms of a GP (r ≠ 1)?",
+      "options": [
+        {
+          "option": "a(r^n - 1)/(r + 1)"
+        },
+        {
+          "option": "a(r^n + 1)/(r + 1)"
+        },
+        {
+          "option": "a(r^n - 1)/(r - 1)",
+          "is_answer": true
+        },
+        {
+          "option": "a(1 - r^n)/(r - 1)"
+        }
+      ]
+    },
+    {
+      "question": "If a=1 and r=1/3, what is the sum to infinity?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1.5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the 4th term of a GP where a=2 and r=4?",
+      "options": [
+        {
+          "option": "32"
+        },
+        {
+          "option": "256"
+        },
+        {
+          "option": "128",
+          "is_answer": true
+        },
+        {
+          "option": "64"
+        }
+      ]
+    },
+    {
+      "question": "If the 1st term is 10 and the 3rd term is 40, what is the common ratio r (assuming r > 0)?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "Find the 10th term of the AP: 2, 7, 12, ...",
+      "options": [
+        {
+          "option": "42"
+        },
+        {
+          "option": "47",
+          "is_answer": true
+        },
+        {
+          "option": "57"
+        },
+        {
+          "option": "52"
+        }
+      ]
+    },
+    {
+      "question": "What is the common difference of the AP: 10, 7, 4, ...?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "-7"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "-3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the sum of the first 10 terms of the AP: 1, 3, 5, 7, ...",
+      "options": [
+        {
+          "option": "100",
+          "is_answer": true
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "110"
+        },
+        {
+          "option": "90"
+        }
+      ]
+    },
+    {
+      "question": "If the first term a=5 and common difference d=2, what is the 5th term?",
+      "options": [
+        {
+          "option": "11"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "13",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "Which term of the AP 21, 18, 15, ... is -81?",
+      "options": [
+        {
+          "option": "35th",
+          "is_answer": true
+        },
+        {
+          "option": "25th"
+        },
+        {
+          "option": "30th"
+        },
+        {
+          "option": "40th"
+        }
+      ]
+    },
+    {
+      "question": "Find the sum of the first 20 natural numbers.",
+      "options": [
+        {
+          "option": "220"
+        },
+        {
+          "option": "200"
+        },
+        {
+          "option": "190"
+        },
+        {
+          "option": "210",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If a=2 and d=3, find the sum of the first 10 terms.",
+      "options": [
+        {
+          "option": "145"
+        },
+        {
+          "option": "155",
+          "is_answer": true
+        },
+        {
+          "option": "165"
+        },
+        {
+          "option": "135"
+        }
+      ]
+    },
+    {
+      "question": "What is the 20th term of the AP: 5, 10, 15, ...?",
+      "options": [
+        {
+          "option": "95"
+        },
+        {
+          "option": "105"
+        },
+        {
+          "option": "110"
+        },
+        {
+          "option": "100",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the common difference of the AP: -5, -1, 3, 7, ...",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "-6"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "-4"
+        }
+      ]
+    },
+    {
+      "question": "The sum of the first n terms of an AP is given by?",
+      "options": [
+        {
+          "option": "n * (a + d)"
+        },
+        {
+          "option": "n/2 * (2a + (n-1)d)",
+          "is_answer": true
+        },
+        {
+          "option": "n * (2a + nd)"
+        },
+        {
+          "option": "n/2 * (a + (n-1)d)"
+        }
+      ]
+    },
+    {
+      "question": "If the 3rd term is 5 and the 7th term is 13, what is the common difference?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the 11th term of an AP whose first term is -3 and common difference is 4.",
+      "options": [
+        {
+          "option": "41"
+        },
+        {
+          "option": "37",
+          "is_answer": true
+        },
+        {
+          "option": "33"
+        },
+        {
+          "option": "29"
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of the first 10 multiples of 5?",
+      "options": [
+        {
+          "option": "300"
+        },
+        {
+          "option": "250"
+        },
+        {
+          "option": "275",
+          "is_answer": true
+        },
+        {
+          "option": "225"
+        }
+      ]
+    },
+    {
+      "question": "In an AP, if a=10 and d=0, what is the 100th term?",
+      "options": [
+        {
+          "option": "100"
+        },
+        {
+          "option": "1000"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the sum of the AP: 2, 4, 6, ..., 20.",
+      "options": [
+        {
+          "option": "110",
+          "is_answer": true
+        },
+        {
+          "option": "90"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "120"
+        }
+      ]
+    },
+    {
+      "question": "If the sum of first n terms is n^2, what is the first term?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "Find the 5th term of the AP: 1/2, 1, 3/2, ...",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "4/2"
+        },
+        {
+          "option": "5/2",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "How many terms are there in the AP: 7, 13, 19, ..., 205?",
+      "options": [
+        {
+          "option": "36"
+        },
+        {
+          "option": "35"
+        },
+        {
+          "option": "33"
+        },
+        {
+          "option": "34",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the common difference is -2 and the first term is 10, what is the 4th term?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "What is the formula for the nth term of an AP?",
+      "options": [
+        {
+          "option": "a - (n-1)d"
+        },
+        {
+          "option": "a + (n-1)d",
+          "is_answer": true
+        },
+        {
+          "option": "a + (n+1)d"
+        },
+        {
+          "option": "a + nd"
+        }
+      ]
+    },
+    {
+      "question": "If a sequence is in Harmonic Progression (HP), then its reciprocals are in:",
+      "options": [
+        {
+          "option": "Geometric Progression (GP)"
+        },
+        {
+          "option": "None of these"
+        },
+        {
+          "option": "Harmonic Progression (HP)"
+        },
+        {
+          "option": "Arithmetic Progression (AP)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "For any two positive numbers a and b, what is the relationship between AM, GM, and HM?",
+      "options": [
+        {
+          "option": "AM * HM = GM^2",
+          "is_answer": true
+        },
+        {
+          "option": "AM * GM = HM^2"
+        },
+        {
+          "option": "AM + HM = 2 * GM"
+        },
+        {
+          "option": "GM * HM = AM^2"
+        }
+      ]
+    },
+    {
+      "question": "Which inequality correctly represents the relationship between AM, GM, and HM for positive real numbers?",
+      "options": [
+        {
+          "option": "AM >= HM >= GM"
+        },
+        {
+          "option": "GM >= AM >= HM"
+        },
+        {
+          "option": "HM >= GM >= AM"
+        },
+        {
+          "option": "AM >= GM >= HM",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The Harmonic Mean (HM) of two numbers a and b is given by:",
+      "options": [
+        {
+          "option": "(a + b) / 2"
+        },
+        {
+          "option": "ab / (a + b)"
+        },
+        {
+          "option": "sqrt(ab)"
+        },
+        {
+          "option": "2ab / (a + b)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the 3rd term of an HP is 1/5 and the 4th term is 1/7, what is the 1st term?",
+      "options": [
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "1/11"
+        },
+        {
+          "option": "1/9"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If AM and HM of two numbers are 16 and 9 respectively, what is their GM?",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "144"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "The Harmonic Mean of 3 and 6 is:",
+      "options": [
+        {
+          "option": "3.5"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "4.5"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If a, b, c are in HP, then b is the:",
+      "options": [
+        {
+          "option": "Harmonic Mean of a and c",
+          "is_answer": true
+        },
+        {
+          "option": "Arithmetic Mean of a and c"
+        },
+        {
+          "option": "None of these"
+        },
+        {
+          "option": "Geometric Mean of a and c"
+        }
+      ]
+    },
+    {
+      "question": "The reciprocal of the terms of an HP form an AP. If the AP is 1, 2, 3, 4, what is the HP?",
+      "options": [
+        {
+          "option": "1/4, 1/3, 1/2, 1"
+        },
+        {
+          "option": "1, 2, 3, 4"
+        },
+        {
+          "option": "4, 3, 2, 1"
+        },
+        {
+          "option": "1, 1/2, 1/3, 1/4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "For two distinct positive numbers, AM is always:",
+      "options": [
+        {
+          "option": "Equal to HM"
+        },
+        {
+          "option": "None of these"
+        },
+        {
+          "option": "Less than HM"
+        },
+        {
+          "option": "Greater than HM",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the HM of two numbers is 4 and their AM is 9, their GM is:",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "13"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is true for any two positive numbers a and b?",
+      "options": [
+        {
+          "option": "AM >= GM",
+          "is_answer": true
+        },
+        {
+          "option": "AM <= GM"
+        },
+        {
+          "option": "HM >= AM"
+        },
+        {
+          "option": "GM <= HM"
+        }
+      ]
+    },
+    {
+      "question": "If 1/x, 1/(x+2), 1/(x+4) are in HP, then x is:",
+      "options": [
+        {
+          "option": "Any non-zero value",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "The Harmonic Mean of 2 and 4 is:",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8/3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If a, b, c are in HP, then (a-b)/(b-c) is equal to:",
+      "options": [
+        {
+          "option": "a/c",
+          "is_answer": true
+        },
+        {
+          "option": "c/a"
+        },
+        {
+          "option": "b/a"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "The HM of two numbers is 12 and their AM is 27. Their GM is:",
+      "options": [
+        {
+          "option": "324"
+        },
+        {
+          "option": "39"
+        },
+        {
+          "option": "18",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "If the sequence 1/2, 1/4, 1/6, 1/8 is in HP, what is the 5th term?",
+      "options": [
+        {
+          "option": "1/10",
+          "is_answer": true
+        },
+        {
+          "option": "1/9"
+        },
+        {
+          "option": "1/5"
+        },
+        {
+          "option": "1/12"
+        }
+      ]
+    },
+    {
+      "question": "The relationship AM * HM = GM^2 holds true for:",
+      "options": [
+        {
+          "option": "Any two real numbers"
+        },
+        {
+          "option": "Only positive integers"
+        },
+        {
+          "option": "Any two positive numbers",
+          "is_answer": true
+        },
+        {
+          "option": "Only negative numbers"
+        }
+      ]
+    },
+    {
+      "question": "If a, b, c are in HP, then 1/a, 1/b, 1/c are in:",
+      "options": [
+        {
+          "option": "AP",
+          "is_answer": true
+        },
+        {
+          "option": "HP"
+        },
+        {
+          "option": "GP"
+        },
+        {
+          "option": "None of these"
+        }
+      ]
+    },
+    {
+      "question": "The Harmonic Mean of 1 and 1/3 is:",
+      "options": [
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "1/2",
+          "is_answer": true
+        },
+        {
+          "option": "2/3"
+        },
+        {
+          "option": "3/4"
+        }
+      ]
+    },
+    {
+      "question": "What is the number of terms in the expansion of (x + y)^n?",
+      "options": [
+        {
+          "option": "n - 1"
+        },
+        {
+          "option": "n + 1",
+          "is_answer": true
+        },
+        {
+          "option": "n"
+        },
+        {
+          "option": "2n"
+        }
+      ]
+    },
+    {
+      "question": "What is the coefficient of x^n in the expansion of (1 + x)^n?",
+      "options": [
+        {
+          "option": "nCr"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "n"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the general term T_(r+1) in the expansion of (a + b)^n?",
+      "options": [
+        {
+          "option": "nCr * a^(n-r) * b^(r+1)"
+        },
+        {
+          "option": "nCr * a^(n+r) * b^r"
+        },
+        {
+          "option": "nCr * a^r * b^(n-r)"
+        },
+        {
+          "option": "nCr * a^(n-r) * b^r",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of binomial coefficients in (x + y)^n?",
+      "options": [
+        {
+          "option": "2^n",
+          "is_answer": true
+        },
+        {
+          "option": "2n"
+        },
+        {
+          "option": "n^2"
+        },
+        {
+          "option": "2^(n-1)"
+        }
+      ]
+    },
+    {
+      "question": "If n is even, which term is the middle term in (x + y)^n?",
+      "options": [
+        {
+          "option": "(n/2 + 1)th term",
+          "is_answer": true
+        },
+        {
+          "option": "(n/2)th term"
+        },
+        {
+          "option": "(n + 1)th term"
+        },
+        {
+          "option": "(n/2 + 2)th term"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of nC0?",
+      "options": [
+        {
+          "option": "n!"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "n"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of nCn?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "n"
+        },
+        {
+          "option": "n!"
+        }
+      ]
+    },
+    {
+      "question": "What is the coefficient of x^2 in (1 + x)^4?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of coefficients in (x + y)^n?",
+      "options": [
+        {
+          "option": "2^n",
+          "is_answer": true
+        },
+        {
+          "option": "n^2"
+        },
+        {
+          "option": "n"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "In Pascal's triangle, what is the sum of the elements in the n-th row (starting from n=0)?",
+      "options": [
+        {
+          "option": "n"
+        },
+        {
+          "option": "2^n",
+          "is_answer": true
+        },
+        {
+          "option": "2^(n+1)"
+        },
+        {
+          "option": "n^2"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of nC1?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "n",
+          "is_answer": true
+        },
+        {
+          "option": "n-1"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "How many middle terms exist if n is odd in (x + y)^n?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the coefficient of the middle term in (1 + x)^2?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is equal to nCr?",
+      "options": [
+        {
+          "option": "nC(n-r)",
+          "is_answer": true
+        },
+        {
+          "option": "nCr-1"
+        },
+        {
+          "option": "rCn"
+        },
+        {
+          "option": "nCr+1"
+        }
+      ]
+    },
+    {
+      "question": "What is the constant term in (x + 1/x)^2?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of 5C2?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "In (a + b)^n, the sum of indices of a and b in any term is always equal to:",
+      "options": [
+        {
+          "option": "n-1"
+        },
+        {
+          "option": "n",
+          "is_answer": true
+        },
+        {
+          "option": "2n"
+        },
+        {
+          "option": "n+1"
+        }
+      ]
+    },
+    {
+      "question": "What is the coefficient of x in (1 + 2x)^3?",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "What is the 3rd term in the expansion of (1 + x)^4?",
+      "options": [
+        {
+          "option": "4x^2"
+        },
+        {
+          "option": "x^2"
+        },
+        {
+          "option": "6x^2",
+          "is_answer": true
+        },
+        {
+          "option": "12x^2"
+        }
+      ]
+    },
+    {
+      "question": "The binomial coefficients are symmetric, meaning nCr is equal to:",
+      "options": [
+        {
+          "option": "rCn"
+        },
+        {
+          "option": "nCr-1"
+        },
+        {
+          "option": "nC(n-r)",
+          "is_answer": true
+        },
+        {
+          "option": "nCr+1"
+        }
+      ]
+    },
+    {
+      "question": "If A is a 2x3 matrix and B is a 3x2 matrix, what is the dimension of the product AB?",
+      "options": [
+        {
+          "option": "2x3"
+        },
+        {
+          "option": "3x2"
+        },
+        {
+          "option": "2x2",
+          "is_answer": true
+        },
+        {
+          "option": "3x3"
+        }
+      ]
+    },
+    {
+      "question": "What is the transpose of a 2x3 matrix?",
+      "options": [
+        {
+          "option": "6x1"
+        },
+        {
+          "option": "2x3"
+        },
+        {
+          "option": "1x6"
+        },
+        {
+          "option": "3x2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which property correctly describes the transpose of a product of two matrices (AB)^T?",
+      "options": [
+        {
+          "option": "A * B"
+        },
+        {
+          "option": "B * A"
+        },
+        {
+          "option": "B^T * A^T",
+          "is_answer": true
+        },
+        {
+          "option": "A^T * B^T"
+        }
+      ]
+    },
+    {
+      "question": "For matrix addition to be possible, what condition must be met?",
+      "options": [
+        {
+          "option": "Matrices must have the same number of elements"
+        },
+        {
+          "option": "Matrices must be square"
+        },
+        {
+          "option": "Matrices must have the same dimensions",
+          "is_answer": true
+        },
+        {
+          "option": "Matrices must be invertible"
+        }
+      ]
+    },
+    {
+      "question": "If A = [[1, 2], [3, 4]], what is A^T?",
+      "options": [
+        {
+          "option": "[[1, 3], [2, 4]]",
+          "is_answer": true
+        },
+        {
+          "option": "[[2, 1], [4, 3]]"
+        },
+        {
+          "option": "[[1, 2], [3, 4]]"
+        },
+        {
+          "option": "[[4, 3], [2, 1]]"
+        }
+      ]
+    },
+    {
+      "question": "Is matrix multiplication commutative (i.e., AB = BA)?",
+      "options": [
+        {
+          "option": "Only for identity matrices"
+        },
+        {
+          "option": "Yes, always"
+        },
+        {
+          "option": "No, generally not",
+          "is_answer": true
+        },
+        {
+          "option": "Only for square matrices"
+        }
+      ]
+    },
+    {
+      "question": "What is the result of adding a 2x2 matrix to another 2x2 matrix?",
+      "options": [
+        {
+          "option": "A 2x4 matrix"
+        },
+        {
+          "option": "A 4x4 matrix"
+        },
+        {
+          "option": "A 2x2 matrix",
+          "is_answer": true
+        },
+        {
+          "option": "A scalar value"
+        }
+      ]
+    },
+    {
+      "question": "If A is a 3x3 matrix, what is (A^T)^T?",
+      "options": [
+        {
+          "option": "A",
+          "is_answer": true
+        },
+        {
+          "option": "A^T"
+        },
+        {
+          "option": "I"
+        },
+        {
+          "option": "2A"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is true for matrix addition?",
+      "options": [
+        {
+          "option": "(A + B) = AB"
+        },
+        {
+          "option": "(A + B)^T = A^T - B^T"
+        },
+        {
+          "option": "(A + B) = (A - B)"
+        },
+        {
+          "option": "(A + B) = (B + A)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If A is a 1x3 matrix and B is a 3x1 matrix, what is the dimension of AB?",
+      "options": [
+        {
+          "option": "3x3"
+        },
+        {
+          "option": "1x1",
+          "is_answer": true
+        },
+        {
+          "option": "1x3"
+        },
+        {
+          "option": "3x1"
+        }
+      ]
+    },
+    {
+      "question": "What is the transpose of a row vector [1, 2, 3]?",
+      "options": [
+        {
+          "option": "A scalar"
+        },
+        {
+          "option": "A 3x3 matrix"
+        },
+        {
+          "option": "A column vector",
+          "is_answer": true
+        },
+        {
+          "option": "A row vector"
+        }
+      ]
+    },
+    {
+      "question": "If A = [[0, 1], [1, 0]], what is A + A?",
+      "options": [
+        {
+          "option": "[[0, 1], [1, 0]]"
+        },
+        {
+          "option": "[[1, 1], [1, 1]]"
+        },
+        {
+          "option": "[[0, 0], [0, 0]]"
+        },
+        {
+          "option": "[[0, 2], [2, 0]]",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Can a 2x3 matrix be multiplied by a 2x3 matrix?",
+      "options": [
+        {
+          "option": "No",
+          "is_answer": true
+        },
+        {
+          "option": "Only if they are square"
+        },
+        {
+          "option": "Yes"
+        },
+        {
+          "option": "Only if elements are zero"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is true for (A + B)^T?",
+      "options": [
+        {
+          "option": "A + B"
+        },
+        {
+          "option": "A^T + B^T",
+          "is_answer": true
+        },
+        {
+          "option": "B^T + A"
+        },
+        {
+          "option": "A^T * B^T"
+        }
+      ]
+    },
+    {
+      "question": "If A is a square matrix, what is A + A^T?",
+      "options": [
+        {
+          "option": "An identity matrix"
+        },
+        {
+          "option": "A zero matrix"
+        },
+        {
+          "option": "A symmetric matrix",
+          "is_answer": true
+        },
+        {
+          "option": "A skew-symmetric matrix"
+        }
+      ]
+    },
+    {
+      "question": "What is the identity matrix of order 2?",
+      "options": [
+        {
+          "option": "[[1, 0], [0, 1]]",
+          "is_answer": true
+        },
+        {
+          "option": "[[2, 0], [0, 2]]"
+        },
+        {
+          "option": "[[0, 1], [1, 0]]"
+        },
+        {
+          "option": "[[1, 1], [1, 1]]"
+        }
+      ]
+    },
+    {
+      "question": "If A = [1, 2] and B = [3, 4], is A + B defined?",
+      "options": [
+        {
+          "option": "No"
+        },
+        {
+          "option": "Only if transposed"
+        },
+        {
+          "option": "Only if multiplied"
+        },
+        {
+          "option": "Yes",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the result of multiplying a matrix A by a scalar k?",
+      "options": [
+        {
+          "option": "Only the first row is multiplied by k"
+        },
+        {
+          "option": "Only the diagonal is multiplied by k"
+        },
+        {
+          "option": "The matrix remains unchanged"
+        },
+        {
+          "option": "Each element of A is multiplied by k",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If A is a 2x2 matrix, what is (kA)^T?",
+      "options": [
+        {
+          "option": "k * A^T",
+          "is_answer": true
+        },
+        {
+          "option": "k * A"
+        },
+        {
+          "option": "A^T"
+        },
+        {
+          "option": "k^2 * A^T"
+        }
+      ]
+    },
+    {
+      "question": "Which operation is NOT possible for matrices of different dimensions?",
+      "options": [
+        {
+          "option": "Multiplication by another matrix"
+        },
+        {
+          "option": "Transpose"
+        },
+        {
+          "option": "Multiplication by a scalar"
+        },
+        {
+          "option": "Addition",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of i^2?",
+      "options": [
+        {
+          "option": "i"
+        },
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "-i"
+        }
+      ]
+    },
+    {
+      "question": "What is the complex conjugate of 3 + 4i?",
+      "options": [
+        {
+          "option": "3 + 4i"
+        },
+        {
+          "option": "-3 + 4i"
+        },
+        {
+          "option": "-3 - 4i"
+        },
+        {
+          "option": "3 - 4i",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the modulus of z = 3 + 4i?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which part of the complex number 5 - 2i is the imaginary part?",
+      "options": [
+        {
+          "option": "-2",
+          "is_answer": true
+        },
+        {
+          "option": "-2i"
+        },
+        {
+          "option": "2i"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of i^4?",
+      "options": [
+        {
+          "option": "i"
+        },
+        {
+          "option": "-i"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the real part of z = -7 + 8i?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "-7",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "-8"
+        }
+      ]
+    },
+    {
+      "question": "If z = a + bi, what is z * conjugate(z)?",
+      "options": [
+        {
+          "option": "a^2 - b^2"
+        },
+        {
+          "option": "a^2 + b^2i"
+        },
+        {
+          "option": "a + b"
+        },
+        {
+          "option": "a^2 + b^2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of i^3?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "i"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "-i",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which axis represents the imaginary part in the Argand plane?",
+      "options": [
+        {
+          "option": "Origin"
+        },
+        {
+          "option": "x-axis"
+        },
+        {
+          "option": "None of these"
+        },
+        {
+          "option": "y-axis",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of (2 + 3i) and (1 - i)?",
+      "options": [
+        {
+          "option": "3 + 4i"
+        },
+        {
+          "option": "1 + 2i"
+        },
+        {
+          "option": "3 - 2i"
+        },
+        {
+          "option": "3 + 2i",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the modulus of z = 0 + 5i?",
+      "options": [
+        {
+          "option": "-5"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "What is the conjugate of -5i?",
+      "options": [
+        {
+          "option": "-5i"
+        },
+        {
+          "option": "5i",
+          "is_answer": true
+        },
+        {
+          "option": "-5"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of i^0?",
+      "options": [
+        {
+          "option": "-1"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "i"
+        }
+      ]
+    },
+    {
+      "question": "Which axis represents the real part in the Argand plane?",
+      "options": [
+        {
+          "option": "y-axis"
+        },
+        {
+          "option": "Origin"
+        },
+        {
+          "option": "x-axis",
+          "is_answer": true
+        },
+        {
+          "option": "None of these"
+        }
+      ]
+    },
+    {
+      "question": "What is (1 + i)^2?",
+      "options": [
+        {
+          "option": "2i",
+          "is_answer": true
+        },
+        {
+          "option": "1 + i"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "What is the modulus of z = -3 + 0i?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "-3"
+        }
+      ]
+    },
+    {
+      "question": "What is the product of i and -i?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "i"
+        }
+      ]
+    },
+    {
+      "question": "What is the conjugate of 7?",
+      "options": [
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "-7i"
+        },
+        {
+          "option": "7i"
+        },
+        {
+          "option": "-7"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of i^5?",
+      "options": [
+        {
+          "option": "-1"
+        },
+        {
+          "option": "i",
+          "is_answer": true
+        },
+        {
+          "option": "-i"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "If z = 2 + 2i, what is |z|?",
+      "options": [
+        {
+          "option": "sqrt(8)",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "sqrt(2)"
+        }
+      ]
+    },
+    {
+      "question": "What is the determinant of the 2x2 matrix [[1, 2], [3, 4]]?",
+      "options": [
+        {
+          "option": "-10"
+        },
+        {
+          "option": "-2",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "If two rows of a 3x3 determinant are identical, what is its value?",
+      "options": [
+        {
+          "option": "-1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "Cannot be determined"
+        }
+      ]
+    },
+    {
+      "question": "Calculate the determinant of the 2x2 matrix [[5, 0], [2, 3]].",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "What is the determinant of the identity matrix I of order 3x3?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "If a row of a determinant is multiplied by a scalar k, the determinant value is:",
+      "options": [
+        {
+          "option": "Multiplied by k",
+          "is_answer": true
+        },
+        {
+          "option": "Divided by k"
+        },
+        {
+          "option": "Multiplied by k^2"
+        },
+        {
+          "option": "Remains same"
+        }
+      ]
+    },
+    {
+      "question": "What is the determinant of [[1, 0, 0], [0, 1, 0], [0, 0, 5]]?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "If all elements of a row are zero, the value of the determinant is:",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "Cannot be determined"
+        },
+        {
+          "option": "Undefined"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "Calculate the determinant of [[2, 1], [1, 2]].",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "If matrix A is 3x3 and det(A) = 5, what is det(2A)?",
+      "options": [
+        {
+          "option": "40",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "What is the determinant of a matrix with a row of all zeros?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "Depends on other rows"
+        },
+        {
+          "option": "Infinity"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The determinant of a triangular matrix is the product of its:",
+      "options": [
+        {
+          "option": "Diagonal elements",
+          "is_answer": true
+        },
+        {
+          "option": "Non-diagonal elements"
+        },
+        {
+          "option": "Row elements"
+        },
+        {
+          "option": "Column elements"
+        }
+      ]
+    },
+    {
+      "question": "Calculate the determinant of [[0, 1], [1, 0]].",
+      "options": [
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "If two columns of a determinant are interchanged, the sign of the determinant:",
+      "options": [
+        {
+          "option": "Becomes zero"
+        },
+        {
+          "option": "Remains same"
+        },
+        {
+          "option": "Doubles"
+        },
+        {
+          "option": "Changes",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the determinant of [[3, 0, 0], [0, 2, 0], [0, 0, 1]]?",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "If det(A) = 0, the matrix A is called:",
+      "options": [
+        {
+          "option": "Identity"
+        },
+        {
+          "option": "Non-singular"
+        },
+        {
+          "option": "Diagonal"
+        },
+        {
+          "option": "Singular",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Calculate the determinant of [[1, 2, 3], [0, 1, 4], [0, 0, 1]].",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the determinant of a 2x2 matrix [[a, b], [c, d]]?",
+      "options": [
+        {
+          "option": "ad - bc",
+          "is_answer": true
+        },
+        {
+          "option": "ad + bc"
+        },
+        {
+          "option": "ac - bd"
+        },
+        {
+          "option": "ab - cd"
+        }
+      ]
+    },
+    {
+      "question": "If all elements in a column are multiplied by k, the determinant is:",
+      "options": [
+        {
+          "option": "Unchanged"
+        },
+        {
+          "option": "Multiplied by k",
+          "is_answer": true
+        },
+        {
+          "option": "Multiplied by k^3"
+        },
+        {
+          "option": "Divided by k"
+        }
+      ]
+    },
+    {
+      "question": "The determinant of a matrix A transpose is:",
+      "options": [
+        {
+          "option": "Negative of det(A)"
+        },
+        {
+          "option": "Zero"
+        },
+        {
+          "option": "Equal to det(A)",
+          "is_answer": true
+        },
+        {
+          "option": "Inverse of det(A)"
+        }
+      ]
+    },
+    {
+      "question": "What is the determinant of [[2, 0], [0, 2]]?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the formula for the inverse of a square matrix A?",
+      "options": [
+        {
+          "option": "A^(-1) = det(A) / adj(A)"
+        },
+        {
+          "option": "A^(-1) = adj(A) * det(A)"
+        },
+        {
+          "option": "A^(-1) = 1 / adj(A)"
+        },
+        {
+          "option": "A^(-1) = adj(A) / det(A)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "For a matrix A to be invertible, what must be true?",
+      "options": [
+        {
+          "option": "det(A) ≠ 0",
+          "is_answer": true
+        },
+        {
+          "option": "adj(A) = 0"
+        },
+        {
+          "option": "det(A) = 0"
+        },
+        {
+          "option": "A = 0"
+        }
+      ]
+    },
+    {
+      "question": "What is the adjoint of a 2x2 matrix [[a, b], [c, d]]?",
+      "options": [
+        {
+          "option": "[[a, -b], [-c, d]]"
+        },
+        {
+          "option": "[[d, -b], [-c, a]]",
+          "is_answer": true
+        },
+        {
+          "option": "[[a, c], [b, d]]"
+        },
+        {
+          "option": "[[d, b], [c, a]]"
+        }
+      ]
+    },
+    {
+      "question": "If A is a square matrix of order n, then A * adj(A) equals:",
+      "options": [
+        {
+          "option": "det(A)"
+        },
+        {
+          "option": "det(A) * I",
+          "is_answer": true
+        },
+        {
+          "option": "I"
+        },
+        {
+          "option": "adj(A)"
+        }
+      ]
+    },
+    {
+      "question": "What is the determinant of the adjoint of a matrix A of order 3x3?",
+      "options": [
+        {
+          "option": "det(A)"
+        },
+        {
+          "option": "1 / det(A)"
+        },
+        {
+          "option": "(det(A))^3"
+        },
+        {
+          "option": "(det(A))^2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The inverse of an identity matrix I is:",
+      "options": [
+        {
+          "option": "I",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "det(I)"
+        },
+        {
+          "option": "adj(I)"
+        }
+      ]
+    },
+    {
+      "question": "If A is a singular matrix, then its inverse:",
+      "options": [
+        {
+          "option": "Is 0"
+        },
+        {
+          "option": "Is I"
+        },
+        {
+          "option": "Does not exist",
+          "is_answer": true
+        },
+        {
+          "option": "Is adj(A)"
+        }
+      ]
+    },
+    {
+      "question": "The adjoint of a diagonal matrix is:",
+      "options": [
+        {
+          "option": "A scalar matrix"
+        },
+        {
+          "option": "An identity matrix"
+        },
+        {
+          "option": "A diagonal matrix",
+          "is_answer": true
+        },
+        {
+          "option": "A zero matrix"
+        }
+      ]
+    },
+    {
+      "question": "Which property is correct for the inverse of a product of two matrices?",
+      "options": [
+        {
+          "option": "(AB)^(-1) = B^(-1)A^(-1)",
+          "is_answer": true
+        },
+        {
+          "option": "(AB)^(-1) = AB"
+        },
+        {
+          "option": "(AB)^(-1) = BA"
+        },
+        {
+          "option": "(AB)^(-1) = A^(-1)B^(-1)"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of adj(adj(A)) for a 2x2 matrix A?",
+      "options": [
+        {
+          "option": "A",
+          "is_answer": true
+        },
+        {
+          "option": "A^2"
+        },
+        {
+          "option": "adj(A)"
+        },
+        {
+          "option": "det(A) * A"
+        }
+      ]
+    },
+    {
+      "question": "If AX = B, then the solution X is given by:",
+      "options": [
+        {
+          "option": "X = A/B"
+        },
+        {
+          "option": "X = B/A"
+        },
+        {
+          "option": "X = A^(-1)B",
+          "is_answer": true
+        },
+        {
+          "option": "X = BA^(-1)"
+        }
+      ]
+    },
+    {
+      "question": "The cofactor of an element a_ij is denoted by:",
+      "options": [
+        {
+          "option": "adj_ij"
+        },
+        {
+          "option": "M_ij"
+        },
+        {
+          "option": "C_ij",
+          "is_answer": true
+        },
+        {
+          "option": "det_ij"
+        }
+      ]
+    },
+    {
+      "question": "If A is a symmetric matrix, then A^(-1) is:",
+      "options": [
+        {
+          "option": "Skew-symmetric"
+        },
+        {
+          "option": "Zero"
+        },
+        {
+          "option": "Diagonal"
+        },
+        {
+          "option": "Symmetric",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the determinant of A^(-1)?",
+      "options": [
+        {
+          "option": "1 / det(A)",
+          "is_answer": true
+        },
+        {
+          "option": "det(A)"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-det(A)"
+        }
+      ]
+    },
+    {
+      "question": "The adjoint of a scalar matrix is:",
+      "options": [
+        {
+          "option": "A null matrix"
+        },
+        {
+          "option": "A symmetric matrix"
+        },
+        {
+          "option": "A scalar matrix",
+          "is_answer": true
+        },
+        {
+          "option": "A unit matrix"
+        }
+      ]
+    },
+    {
+      "question": "If det(A) = 5, what is det(adj(A)) for a 2x2 matrix?",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is true for any square matrix A?",
+      "options": [
+        {
+          "option": "A * adj(A) = I"
+        },
+        {
+          "option": "A * adj(A) = adj(A) * A",
+          "is_answer": true
+        },
+        {
+          "option": "A * adj(A) = 0"
+        },
+        {
+          "option": "A * adj(A) ≠ adj(A) * A"
+        }
+      ]
+    },
+    {
+      "question": "The inverse of a matrix exists only if the matrix is:",
+      "options": [
+        {
+          "option": "Zero"
+        },
+        {
+          "option": "Rectangular"
+        },
+        {
+          "option": "Non-singular",
+          "is_answer": true
+        },
+        {
+          "option": "Singular"
+        }
+      ]
+    },
+    {
+      "question": "If A is an orthogonal matrix, then A^(-1) is equal to:",
+      "options": [
+        {
+          "option": "I"
+        },
+        {
+          "option": "A^T",
+          "is_answer": true
+        },
+        {
+          "option": "A"
+        },
+        {
+          "option": "adj(A)"
+        }
+      ]
+    },
+    {
+      "question": "The cofactor matrix is the transpose of which matrix?",
+      "options": [
+        {
+          "option": "Original matrix"
+        },
+        {
+          "option": "Determinant matrix"
+        },
+        {
+          "option": "Adjoint matrix",
+          "is_answer": true
+        },
+        {
+          "option": "Inverse matrix"
+        }
+      ]
+    },
+    {
+      "question": "What is the correct form of partial fraction decomposition for 1/((x-1)(x+2))?",
+      "options": [
+        {
+          "option": "A/(x-1) - B/(x+2)"
+        },
+        {
+          "option": "(Ax+B)/(x-1) + C/(x+2)"
+        },
+        {
+          "option": "A/(x-1) + B/(x+2)",
+          "is_answer": true
+        },
+        {
+          "option": "A/(x-1)^2 + B/(x+2)"
+        }
+      ]
+    },
+    {
+      "question": "Which form is used for a repeated linear factor (x-a)^2 in the denominator?",
+      "options": [
+        {
+          "option": "(Ax+B)/(x-a)^2"
+        },
+        {
+          "option": "A/(x-a)^2"
+        },
+        {
+          "option": "A/(x-a) + B/(x-a)^2",
+          "is_answer": true
+        },
+        {
+          "option": "A/(x-a) + B/(x-a)"
+        }
+      ]
+    },
+    {
+      "question": "What is the decomposition form for an irreducible quadratic factor (x^2+1)?",
+      "options": [
+        {
+          "option": "A/x^2 + B/1"
+        },
+        {
+          "option": "(Ax+B)/(x^2+1)",
+          "is_answer": true
+        },
+        {
+          "option": "(Ax+B)/(x^2+1)^2"
+        },
+        {
+          "option": "A/(x^2+1)"
+        }
+      ]
+    },
+    {
+      "question": "For the expression 1/(x(x-1)^2), what is the correct decomposition structure?",
+      "options": [
+        {
+          "option": "A/x + B/(x-1) + C/(x-1)^2",
+          "is_answer": true
+        },
+        {
+          "option": "A/x + (Bx+C)/(x-1)^2"
+        },
+        {
+          "option": "A/x + B/(x-1) + C/(x-1)"
+        },
+        {
+          "option": "A/x + B/(x-1)^2"
+        }
+      ]
+    },
+    {
+      "question": "If the degree of the numerator is greater than or equal to the denominator, what must be done first?",
+      "options": [
+        {
+          "option": "Polynomial long division",
+          "is_answer": true
+        },
+        {
+          "option": "Factoring the numerator"
+        },
+        {
+          "option": "Partial fraction decomposition"
+        },
+        {
+          "option": "Setting the denominator to zero"
+        }
+      ]
+    },
+    {
+      "question": "What is the partial fraction form for 1/((x^2+1)(x-2))?",
+      "options": [
+        {
+          "option": "A/(x^2+1) + B/(x-2)"
+        },
+        {
+          "option": "A/(x^2+1) + B/(x-2)^2"
+        },
+        {
+          "option": "(Ax+B)/(x^2+1) + (Cx+D)/(x-2)"
+        },
+        {
+          "option": "(Ax+B)/(x^2+1) + C/(x-2)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In the decomposition of 1/((x-1)(x-2)(x-3)), how many constants (A, B, C...) are needed?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "What is the correct decomposition for 1/(x^2(x+1))?",
+      "options": [
+        {
+          "option": "A/x + B/(x+1)"
+        },
+        {
+          "option": "(Ax+B)/x^2 + C/(x+1)"
+        },
+        {
+          "option": "A/x + B/x^2 + C/(x+1)",
+          "is_answer": true
+        },
+        {
+          "option": "A/x^2 + B/(x+1)"
+        }
+      ]
+    },
+    {
+      "question": "Which method is commonly used to find the constants in partial fractions?",
+      "options": [
+        {
+          "option": "Equating coefficients",
+          "is_answer": true
+        },
+        {
+          "option": "Synthetic division"
+        },
+        {
+          "option": "Quadratic formula"
+        },
+        {
+          "option": "Cross multiplication"
+        }
+      ]
+    },
+    {
+      "question": "What is the decomposition of 1/(x^2-4)?",
+      "options": [
+        {
+          "option": "(Ax+B)/(x^2-4)"
+        },
+        {
+          "option": "A/(x-2) + B/(x+2)",
+          "is_answer": true
+        },
+        {
+          "option": "A/(x-2) + B/(x-2)"
+        },
+        {
+          "option": "A/(x^2-4)"
+        }
+      ]
+    },
+    {
+      "question": "For a repeated quadratic factor (x^2+1)^2, what is the correct form?",
+      "options": [
+        {
+          "option": "(Ax+B)/(x^2+1) + (Cx+D)/(x^2+1)^2",
+          "is_answer": true
+        },
+        {
+          "option": "(Ax+B)/(x^2+1)^2"
+        },
+        {
+          "option": "A/(x^2+1) + B/(x^2+1)^2"
+        },
+        {
+          "option": "(Ax+B)/(x^2+1) + (Cx+D)/(x^2+1)"
+        }
+      ]
+    },
+    {
+      "question": "What is the first step in decomposing (x^3+1)/(x-1)?",
+      "options": [
+        {
+          "option": "Partial fractioning"
+        },
+        {
+          "option": "Setting x=1"
+        },
+        {
+          "option": "Factoring the denominator"
+        },
+        {
+          "option": "Polynomial division",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a proper rational expression?",
+      "options": [
+        {
+          "option": "x^2/(x-1)"
+        },
+        {
+          "option": "(x^2+1)/x"
+        },
+        {
+          "option": "(x^3+1)/(x^2+1)"
+        },
+        {
+          "option": "x/(x^2+1)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the decomposition of 1/(x(x^2+1))?",
+      "options": [
+        {
+          "option": "A/x + (Bx+C)/(x^2+1)",
+          "is_answer": true
+        },
+        {
+          "option": "A/x + B/(x^2+1)"
+        },
+        {
+          "option": "A/x + (Bx+C)/(x^2+1)^2"
+        },
+        {
+          "option": "(Ax+B)/x + C/(x^2+1)"
+        }
+      ]
+    },
+    {
+      "question": "If the denominator is (x-a)^3, what terms are in the decomposition?",
+      "options": [
+        {
+          "option": "A/(x-a) + B/(x-a)^2 + C/(x-a)^3",
+          "is_answer": true
+        },
+        {
+          "option": "A/(x-a)^3"
+        },
+        {
+          "option": "(Ax^2+Bx+C)/(x-a)^3"
+        },
+        {
+          "option": "A/(x-a) + B/(x-a)^3"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of A in 1/((x-1)(x-2)) = A/(x-1) + B/(x-2)?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of B in 1/((x-1)(x-2)) = A/(x-1) + B/(x-2)?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is an irreducible quadratic factor?",
+      "options": [
+        {
+          "option": "x^2+x+1",
+          "is_answer": true
+        },
+        {
+          "option": "x^2-x-2"
+        },
+        {
+          "option": "x^2-4"
+        },
+        {
+          "option": "x^2-1"
+        }
+      ]
+    },
+    {
+      "question": "Partial fraction decomposition is primarily used for which calculus operation?",
+      "options": [
+        {
+          "option": "Continuity"
+        },
+        {
+          "option": "Integration",
+          "is_answer": true
+        },
+        {
+          "option": "Limits"
+        },
+        {
+          "option": "Differentiation"
+        }
+      ]
+    },
+    {
+      "question": "What is the form for 1/(x^2(x^2+1))?",
+      "options": [
+        {
+          "option": "(Ax+B)/x^2 + C/(x^2+1)"
+        },
+        {
+          "option": "A/x + (Bx+C)/(x^2+1)"
+        },
+        {
+          "option": "A/x + B/x^2 + (Cx+D)/(x^2+1)",
+          "is_answer": true
+        },
+        {
+          "option": "A/x^2 + B/(x^2+1)"
+        }
+      ]
+    },
+    {
+      "question": "What is the polar form of the complex number z = 1 + i?",
+      "options": [
+        {
+          "option": "sqrt(2)(cos(pi/4) + i*sin(pi/4))",
+          "is_answer": true
+        },
+        {
+          "option": "sqrt(2)(cos(pi/2) + i*sin(pi/2))"
+        },
+        {
+          "option": "1(cos(pi/4) + i*sin(pi/4))"
+        },
+        {
+          "option": "2(cos(pi/4) + i*sin(pi/4))"
+        }
+      ]
+    },
+    {
+      "question": "According to De Moivre's Theorem, (cos(theta) + i*sin(theta))^n equals:",
+      "options": [
+        {
+          "option": "cos(n) + i*sin(n)"
+        },
+        {
+          "option": "cos(n*theta) + i*sin(n*theta)",
+          "is_answer": true
+        },
+        {
+          "option": "n*cos(theta) + i*n*sin(theta)"
+        },
+        {
+          "option": "cos(theta^n) + i*sin(theta^n)"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of e^(i*pi)?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "i"
+        },
+        {
+          "option": "-i"
+        }
+      ]
+    },
+    {
+      "question": "The modulus of the complex number z = 3 - 4i is:",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "What is the argument of the complex number z = -1 + i?",
+      "options": [
+        {
+          "option": "pi"
+        },
+        {
+          "option": "pi/2"
+        },
+        {
+          "option": "pi/4"
+        },
+        {
+          "option": "3*pi/4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Using De Moivre's theorem, calculate (cos(pi/6) + i*sin(pi/6))^3.",
+      "options": [
+        {
+          "option": "i",
+          "is_answer": true
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "-i"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is equivalent to cos(theta) + i*sin(theta)?",
+      "options": [
+        {
+          "option": "e^(theta)"
+        },
+        {
+          "option": "i*e^theta"
+        },
+        {
+          "option": "cos(i*theta)"
+        },
+        {
+          "option": "e^(i*theta)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the polar form of z = -i?",
+      "options": [
+        {
+          "option": "cos(0) + i*sin(0)"
+        },
+        {
+          "option": "cos(pi) + i*sin(pi)"
+        },
+        {
+          "option": "cos(3*pi/2) + i*sin(3*pi/2)",
+          "is_answer": true
+        },
+        {
+          "option": "cos(pi/2) + i*sin(pi/2)"
+        }
+      ]
+    },
+    {
+      "question": "The value of (cos(pi/3) + i*sin(pi/3))^6 is:",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "-i"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "i"
+        }
+      ]
+    },
+    {
+      "question": "What is the conjugate of z = r(cos(theta) + i*sin(theta))?",
+      "options": [
+        {
+          "option": "r(cos(theta) + i*sin(theta))"
+        },
+        {
+          "option": "r(sin(theta) + i*cos(theta))"
+        },
+        {
+          "option": "r(cos(-theta) + i*sin(-theta))"
+        },
+        {
+          "option": "r(cos(theta) - i*sin(theta))",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If z = e^(i*pi/2), what is z in rectangular form?",
+      "options": [
+        {
+          "option": "i",
+          "is_answer": true
+        },
+        {
+          "option": "-i"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is equal to cos(2*theta)?",
+      "options": [
+        {
+          "option": "Im(e^(i*2*theta))"
+        },
+        {
+          "option": "Re(e^(i*2*theta))",
+          "is_answer": true
+        },
+        {
+          "option": "sin(2*theta)"
+        },
+        {
+          "option": "e^(i*theta)"
+        }
+      ]
+    },
+    {
+      "question": "The polar form of z = -1 is:",
+      "options": [
+        {
+          "option": "cos(pi) + i*sin(pi)",
+          "is_answer": true
+        },
+        {
+          "option": "cos(0) + i*sin(0)"
+        },
+        {
+          "option": "cos(2*pi) + i*sin(2*pi)"
+        },
+        {
+          "option": "cos(pi/2) + i*sin(pi/2)"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of (cos(pi/4) + i*sin(pi/4))^4?",
+      "options": [
+        {
+          "option": "-i"
+        },
+        {
+          "option": "i"
+        },
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "Euler's formula states that e^(i*theta) is equal to:",
+      "options": [
+        {
+          "option": "cos(theta) - i*sin(theta)"
+        },
+        {
+          "option": "cos(theta) + i*sin(theta)",
+          "is_answer": true
+        },
+        {
+          "option": "e*cos(theta)"
+        },
+        {
+          "option": "sin(theta) + i*cos(theta)"
+        }
+      ]
+    },
+    {
+      "question": "What is the modulus of z = 2(cos(pi/6) + i*sin(pi/6))?",
+      "options": [
+        {
+          "option": "pi/6"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "sqrt(3)"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "If z = r*e^(i*theta), then z^n is:",
+      "options": [
+        {
+          "option": "r^n * e^(i*theta)"
+        },
+        {
+          "option": "r^n * e^(i*n*theta)",
+          "is_answer": true
+        },
+        {
+          "option": "n*r * e^(i*theta)"
+        },
+        {
+          "option": "r * e^(i*n*theta)"
+        }
+      ]
+    },
+    {
+      "question": "The argument of z = 1 is:",
+      "options": [
+        {
+          "option": "2*pi"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "pi/2"
+        },
+        {
+          "option": "pi"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of e^(i*pi/2)?",
+      "options": [
+        {
+          "option": "-1"
+        },
+        {
+          "option": "i",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "-i"
+        }
+      ]
+    },
+    {
+      "question": "Which complex number is represented by cos(pi) + i*sin(pi)?",
+      "options": [
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "-i"
+        },
+        {
+          "option": "i"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "What is the domain of the function f(x) = 1/x?",
+      "options": [
+        {
+          "option": "All real numbers"
+        },
+        {
+          "option": "All positive real numbers"
+        },
+        {
+          "option": "All integers except 0"
+        },
+        {
+          "option": "All real numbers except 0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of the following functions is injective (one-to-one)?",
+      "options": [
+        {
+          "option": "f(x) = x^2"
+        },
+        {
+          "option": "f(x) = |x|"
+        },
+        {
+          "option": "f(x) = 2x + 3",
+          "is_answer": true
+        },
+        {
+          "option": "f(x) = sin(x)"
+        }
+      ]
+    },
+    {
+      "question": "What is the range of f(x) = x^2?",
+      "options": [
+        {
+          "option": "[1, infinity)"
+        },
+        {
+          "option": "[0, infinity)",
+          "is_answer": true
+        },
+        {
+          "option": "(-infinity, infinity)"
+        },
+        {
+          "option": "(0, infinity)"
+        }
+      ]
+    },
+    {
+      "question": "A function that is both injective and surjective is called:",
+      "options": [
+        {
+          "option": "Constant"
+        },
+        {
+          "option": "Inverse"
+        },
+        {
+          "option": "Periodic"
+        },
+        {
+          "option": "Bijective",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If f(x) = x + 2 and g(x) = x^2, what is f(g(x))?",
+      "options": [
+        {
+          "option": "x^2 + 4"
+        },
+        {
+          "option": "(x + 2)^2"
+        },
+        {
+          "option": "x^2 + 2",
+          "is_answer": true
+        },
+        {
+          "option": "x + 2"
+        }
+      ]
+    },
+    {
+      "question": "What is the domain of f(x) = sqrt(x)?",
+      "options": [
+        {
+          "option": "(0, infinity)"
+        },
+        {
+          "option": "(-infinity, infinity)"
+        },
+        {
+          "option": "[0, infinity)",
+          "is_answer": true
+        },
+        {
+          "option": "[1, infinity)"
+        }
+      ]
+    },
+    {
+      "question": "Which function is surjective (onto) from R to R?",
+      "options": [
+        {
+          "option": "f(x) = x^2"
+        },
+        {
+          "option": "f(x) = |x|"
+        },
+        {
+          "option": "f(x) = x^3",
+          "is_answer": true
+        },
+        {
+          "option": "f(x) = e^x"
+        }
+      ]
+    },
+    {
+      "question": "What is the range of f(x) = sin(x)?",
+      "options": [
+        {
+          "option": "[-1, 1]",
+          "is_answer": true
+        },
+        {
+          "option": "(-infinity, infinity)"
+        },
+        {
+          "option": "(-1, 1)"
+        },
+        {
+          "option": "[0, 1]"
+        }
+      ]
+    },
+    {
+      "question": "If f(x) = 2x, what is the inverse function f^-1(x)?",
+      "options": [
+        {
+          "option": "-2x"
+        },
+        {
+          "option": "x^2"
+        },
+        {
+          "option": "x/2",
+          "is_answer": true
+        },
+        {
+          "option": "2/x"
+        }
+      ]
+    },
+    {
+      "question": "The domain of f(x) = 1/(x-3) is:",
+      "options": [
+        {
+          "option": "R"
+        },
+        {
+          "option": "R - {0}"
+        },
+        {
+          "option": "R - {-3}"
+        },
+        {
+          "option": "R - {3}",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is NOT a function?",
+      "options": [
+        {
+          "option": "y = 2x"
+        },
+        {
+          "option": "y = x^2"
+        },
+        {
+          "option": "y = 5"
+        },
+        {
+          "option": "x = y^2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the range of f(x) = e^x?",
+      "options": [
+        {
+          "option": "(-infinity, infinity)"
+        },
+        {
+          "option": "[0, infinity)"
+        },
+        {
+          "option": "(0, infinity)",
+          "is_answer": true
+        },
+        {
+          "option": "(1, infinity)"
+        }
+      ]
+    },
+    {
+      "question": "A function f: A -> B is onto if:",
+      "options": [
+        {
+          "option": "f(x) is injective"
+        },
+        {
+          "option": "Range = Codomain",
+          "is_answer": true
+        },
+        {
+          "option": "f(x) is constant"
+        },
+        {
+          "option": "Domain = Codomain"
+        }
+      ]
+    },
+    {
+      "question": "If f(x) = x^2 and g(x) = x+1, what is g(f(x))?",
+      "options": [
+        {
+          "option": "x^2 + 1",
+          "is_answer": true
+        },
+        {
+          "option": "x + 1"
+        },
+        {
+          "option": "(x+1)^2"
+        },
+        {
+          "option": "x^2 + x"
+        }
+      ]
+    },
+    {
+      "question": "What is the domain of f(x) = log(x)?",
+      "options": [
+        {
+          "option": "[0, infinity)"
+        },
+        {
+          "option": "(0, infinity)",
+          "is_answer": true
+        },
+        {
+          "option": "(1, infinity)"
+        },
+        {
+          "option": "(-infinity, infinity)"
+        }
+      ]
+    },
+    {
+      "question": "Which function is a constant function?",
+      "options": [
+        {
+          "option": "f(x) = 5x"
+        },
+        {
+          "option": "f(x) = x"
+        },
+        {
+          "option": "f(x) = x+5"
+        },
+        {
+          "option": "f(x) = 5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The identity function is defined as:",
+      "options": [
+        {
+          "option": "f(x) = 1"
+        },
+        {
+          "option": "f(x) = x^2"
+        },
+        {
+          "option": "f(x) = x",
+          "is_answer": true
+        },
+        {
+          "option": "f(x) = 0"
+        }
+      ]
+    },
+    {
+      "question": "What is the range of f(x) = |x|?",
+      "options": [
+        {
+          "option": "(-infinity, infinity)"
+        },
+        {
+          "option": "(-infinity, 0]"
+        },
+        {
+          "option": "(0, infinity)"
+        },
+        {
+          "option": "[0, infinity)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If f(x) = 3x - 1, what is f(2)?",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "A function is injective if:",
+      "options": [
+        {
+          "option": "f(a) = f(b) implies a = b",
+          "is_answer": true
+        },
+        {
+          "option": "f(a) = 0"
+        },
+        {
+          "option": "f(a) = f(b) implies a != b"
+        },
+        {
+          "option": "f(a) = b"
+        }
+      ]
+    },
+    {
+      "question": "If a function f(x) has an inverse, what is the geometric relationship between the graphs of f(x) and f^(-1)(x)?",
+      "options": [
+        {
+          "option": "Rotation by 90 degrees"
+        },
+        {
+          "option": "Reflection across the y-axis"
+        },
+        {
+          "option": "Reflection across the x-axis"
+        },
+        {
+          "option": "Reflection across y = x",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the point (a, b) lies on the graph of f(x), which point must lie on the graph of f^(-1)(x)?",
+      "options": [
+        {
+          "option": "(1/a, 1/b)"
+        },
+        {
+          "option": "(b, a)",
+          "is_answer": true
+        },
+        {
+          "option": "(a, -b)"
+        },
+        {
+          "option": "(-a, b)"
+        }
+      ]
+    },
+    {
+      "question": "What is the inverse of the function f(x) = 2x + 3?",
+      "options": [
+        {
+          "option": "f^(-1)(x) = x / 2 - 3"
+        },
+        {
+          "option": "f^(-1)(x) = (x - 3) / 2",
+          "is_answer": true
+        },
+        {
+          "option": "f^(-1)(x) = 3x + 2"
+        },
+        {
+          "option": "f^(-1)(x) = 2x - 3"
+        }
+      ]
+    },
+    {
+      "question": "If the domain of f(x) is [0, infinity) and its range is [2, infinity), what are the domain and range of f^(-1)(x)?",
+      "options": [
+        {
+          "option": "Domain: (-infinity, 0], Range: (-infinity, 2]"
+        },
+        {
+          "option": "Domain: [2, infinity), Range: (-infinity, 0]"
+        },
+        {
+          "option": "Domain: [0, infinity), Range: [2, infinity)"
+        },
+        {
+          "option": "Domain: [2, infinity), Range: [0, infinity)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which condition must be met for a function to have an inverse?",
+      "options": [
+        {
+          "option": "It must be a linear function"
+        },
+        {
+          "option": "It must be a polynomial"
+        },
+        {
+          "option": "It must be one-to-one (bijective)",
+          "is_answer": true
+        },
+        {
+          "option": "It must be symmetric about the y-axis"
+        }
+      ]
+    },
+    {
+      "question": "What is the inverse of f(x) = x^3?",
+      "options": [
+        {
+          "option": "f^(-1)(x) = 3x"
+        },
+        {
+          "option": "f^(-1)(x) = x^3"
+        },
+        {
+          "option": "f^(-1)(x) = cube root of x",
+          "is_answer": true
+        },
+        {
+          "option": "f^(-1)(x) = x^(1/3)"
+        }
+      ]
+    },
+    {
+      "question": "If f(x) = 1/x, what is f^(-1)(x)?",
+      "options": [
+        {
+          "option": "f^(-1)(x) = x"
+        },
+        {
+          "option": "f^(-1)(x) = -1/x"
+        },
+        {
+          "option": "f^(-1)(x) = x^2"
+        },
+        {
+          "option": "f^(-1)(x) = 1/x",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The horizontal line test is used to determine if a function is:",
+      "options": [
+        {
+          "option": "One-to-one",
+          "is_answer": true
+        },
+        {
+          "option": "Continuous"
+        },
+        {
+          "option": "Symmetric"
+        },
+        {
+          "option": "Differentiable"
+        }
+      ]
+    },
+    {
+      "question": "If f(x) = e^x, what is the inverse function?",
+      "options": [
+        {
+          "option": "f^(-1)(x) = x^e"
+        },
+        {
+          "option": "f^(-1)(x) = ln(x)",
+          "is_answer": true
+        },
+        {
+          "option": "f^(-1)(x) = log_10(x)"
+        },
+        {
+          "option": "f^(-1)(x) = 1/e^x"
+        }
+      ]
+    },
+    {
+      "question": "What is the inverse of f(x) = x - 5?",
+      "options": [
+        {
+          "option": "f^(-1)(x) = 1/(x-5)"
+        },
+        {
+          "option": "f^(-1)(x) = x - 5"
+        },
+        {
+          "option": "f^(-1)(x) = 5 - x"
+        },
+        {
+          "option": "f^(-1)(x) = x + 5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If f(f^(-1)(x)) = x, what does this imply?",
+      "options": [
+        {
+          "option": "The function is constant"
+        },
+        {
+          "option": "The functions are inverses",
+          "is_answer": true
+        },
+        {
+          "option": "The function is not defined"
+        },
+        {
+          "option": "The functions are identical"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following functions is its own inverse?",
+      "options": [
+        {
+          "option": "f(x) = 2x"
+        },
+        {
+          "option": "f(x) = x^2"
+        },
+        {
+          "option": "f(x) = -x",
+          "is_answer": true
+        },
+        {
+          "option": "f(x) = x + 1"
+        }
+      ]
+    },
+    {
+      "question": "If f(x) = sqrt(x) for x >= 0, what is the domain of f^(-1)(x)?",
+      "options": [
+        {
+          "option": "All real numbers"
+        },
+        {
+          "option": "x > 0"
+        },
+        {
+          "option": "x >= 0",
+          "is_answer": true
+        },
+        {
+          "option": "x <= 0"
+        }
+      ]
+    },
+    {
+      "question": "The graph of f(x) = x^2 for x >= 0 is reflected across y = x. What is the resulting function?",
+      "options": [
+        {
+          "option": "f^(-1)(x) = -sqrt(x)"
+        },
+        {
+          "option": "f^(-1)(x) = 1/x^2"
+        },
+        {
+          "option": "f^(-1)(x) = x^2"
+        },
+        {
+          "option": "f^(-1)(x) = sqrt(x)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If a function is strictly increasing, it must be:",
+      "options": [
+        {
+          "option": "Periodic"
+        },
+        {
+          "option": "Invertible",
+          "is_answer": true
+        },
+        {
+          "option": "Constant"
+        },
+        {
+          "option": "Discontinuous"
+        }
+      ]
+    },
+    {
+      "question": "What is the inverse of f(x) = 3x - 1?",
+      "options": [
+        {
+          "option": "f^(-1)(x) = 1 / (3x - 1)"
+        },
+        {
+          "option": "f^(-1)(x) = 3x + 1"
+        },
+        {
+          "option": "f^(-1)(x) = (x - 1) / 3"
+        },
+        {
+          "option": "f^(-1)(x) = (x + 1) / 3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If f(x) = x^3 + 1, what is f^(-1)(x)?",
+      "options": [
+        {
+          "option": "f^(-1)(x) = x^(1/3) + 1"
+        },
+        {
+          "option": "f^(-1)(x) = cube root of (x + 1)"
+        },
+        {
+          "option": "f^(-1)(x) = cube root of (x - 1)",
+          "is_answer": true
+        },
+        {
+          "option": "f^(-1)(x) = x^3 - 1"
+        }
+      ]
+    },
+    {
+      "question": "Which of these functions does NOT have an inverse over all real numbers?",
+      "options": [
+        {
+          "option": "f(x) = 2x"
+        },
+        {
+          "option": "f(x) = x + 5"
+        },
+        {
+          "option": "f(x) = x^3"
+        },
+        {
+          "option": "f(x) = x^2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the graph of f(x) passes through (2, 5), then the graph of f^(-1)(x) must pass through:",
+      "options": [
+        {
+          "option": "(-2, -5)"
+        },
+        {
+          "option": "(1/2, 1/5)"
+        },
+        {
+          "option": "(2, 5)"
+        },
+        {
+          "option": "(5, 2)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the inverse of f(x) = 4 - x?",
+      "options": [
+        {
+          "option": "f^(-1)(x) = x + 4"
+        },
+        {
+          "option": "f^(-1)(x) = x - 4"
+        },
+        {
+          "option": "f^(-1)(x) = 4 - x",
+          "is_answer": true
+        },
+        {
+          "option": "f^(-1)(x) = 1 / (4 - x)"
+        }
+      ]
+    }
+  ]
+}

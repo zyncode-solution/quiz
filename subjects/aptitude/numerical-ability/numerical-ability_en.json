@@ -1,0 +1,9005 @@
+{
+  "total_questions": 500,
+  "questions": [
+    {
+      "question": "Simplify: 2^3 * 2^4",
+      "options": [
+        {
+          "option": "128",
+          "is_answer": true
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "256"
+        },
+        {
+          "option": "64"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: (3^2)^3",
+      "options": [
+        {
+          "option": "81"
+        },
+        {
+          "option": "729",
+          "is_answer": true
+        },
+        {
+          "option": "19683"
+        },
+        {
+          "option": "243"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: 5^6 / 5^4",
+      "options": [
+        {
+          "option": "25",
+          "is_answer": true
+        },
+        {
+          "option": "125"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "625"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of (16)^(1/4)?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Rationalize the denominator of: 1 / (sqrt(3))",
+      "options": [
+        {
+          "option": "sqrt(3) / 3",
+          "is_answer": true
+        },
+        {
+          "option": "1 / 3"
+        },
+        {
+          "option": "sqrt(3)"
+        },
+        {
+          "option": "3 / sqrt(3)"
+        }
+      ]
+    },
+    {
+      "question": "Find the value of 7^0",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "Inf"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: (2 * 3)^4",
+      "options": [
+        {
+          "option": "48"
+        },
+        {
+          "option": "72"
+        },
+        {
+          "option": "216"
+        },
+        {
+          "option": "1296",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: 8^(-2/3)",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "1/4",
+          "is_answer": true
+        },
+        {
+          "option": "1/8"
+        }
+      ]
+    },
+    {
+      "question": "Rationalize the denominator: 1 / (sqrt(5) - 2)",
+      "options": [
+        {
+          "option": "sqrt(5) - 2"
+        },
+        {
+          "option": "5 - 2"
+        },
+        {
+          "option": "1 / (sqrt(5) + 2)"
+        },
+        {
+          "option": "sqrt(5) + 2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Simplify: sqrt(x^3 * x^5)",
+      "options": [
+        {
+          "option": "x^15"
+        },
+        {
+          "option": "x^4",
+          "is_answer": true
+        },
+        {
+          "option": "x^2"
+        },
+        {
+          "option": "x^8"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: (25/9)^(-1/2)",
+      "options": [
+        {
+          "option": "3/5",
+          "is_answer": true
+        },
+        {
+          "option": "25/9"
+        },
+        {
+          "option": "9/25"
+        },
+        {
+          "option": "5/3"
+        }
+      ]
+    },
+    {
+      "question": "Find the value of x if 2^x = 32",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: 4^(3/2)",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is equivalent to sqrt(20)?",
+      "options": [
+        {
+          "option": "2 * sqrt(5)",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "4 * sqrt(5)"
+        },
+        {
+          "option": "5 * sqrt(2)"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: (a^2 * b^3)^4",
+      "options": [
+        {
+          "option": "a^6 * b^7"
+        },
+        {
+          "option": "a^8 * b^7"
+        },
+        {
+          "option": "a^8 * b^12",
+          "is_answer": true
+        },
+        {
+          "option": "a^2 * b^12"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: (1/27)^(-2/3)",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "1/9"
+        },
+        {
+          "option": "27"
+        }
+      ]
+    },
+    {
+      "question": "Find the value of (27)^-(1/3)",
+      "options": [
+        {
+          "option": "1/3",
+          "is_answer": true
+        },
+        {
+          "option": "-3"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "-1/3"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: sqrt(50) + sqrt(18)",
+      "options": [
+        {
+          "option": "2 * sqrt(17)"
+        },
+        {
+          "option": "4 * sqrt(2)"
+        },
+        {
+          "option": "8 * sqrt(2)",
+          "is_answer": true
+        },
+        {
+          "option": "sqrt(68)"
+        }
+      ]
+    },
+    {
+      "question": "If 3^(x+1) = 81, find the value of x.",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: (x^(1/3) * x^(1/4))^12",
+      "options": [
+        {
+          "option": "x^12"
+        },
+        {
+          "option": "x^(1/7)"
+        },
+        {
+          "option": "x^5"
+        },
+        {
+          "option": "x^7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the approximate value of 49.8 × 20.2?",
+      "options": [
+        {
+          "option": "900"
+        },
+        {
+          "option": "1000",
+          "is_answer": true
+        },
+        {
+          "option": "950"
+        },
+        {
+          "option": "1100"
+        }
+      ]
+    },
+    {
+      "question": "Find the approximate value of √399 × 15.1.",
+      "options": [
+        {
+          "option": "250"
+        },
+        {
+          "option": "300",
+          "is_answer": true
+        },
+        {
+          "option": "350"
+        },
+        {
+          "option": "200"
+        }
+      ]
+    },
+    {
+      "question": "Estimate the value of (19.98% of 501) + (24.9% of 402).",
+      "options": [
+        {
+          "option": "200",
+          "is_answer": true
+        },
+        {
+          "option": "220"
+        },
+        {
+          "option": "180"
+        },
+        {
+          "option": "250"
+        }
+      ]
+    },
+    {
+      "question": "What is the approximate value of 784.05 ÷ 27.9?",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "28",
+          "is_answer": true
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate approximately: (14.95)^2 + (19.02)^2.",
+      "options": [
+        {
+          "option": "525"
+        },
+        {
+          "option": "550"
+        },
+        {
+          "option": "600"
+        },
+        {
+          "option": "585",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the approximate value of 63.8% of 1499 + 34.2% of 501.",
+      "options": [
+        {
+          "option": "1170"
+        },
+        {
+          "option": "1050"
+        },
+        {
+          "option": "1135",
+          "is_answer": true
+        },
+        {
+          "option": "1100"
+        }
+      ]
+    },
+    {
+      "question": "What is the approximate value of 12.01 × 14.98 × 6.05?",
+      "options": [
+        {
+          "option": "1080",
+          "is_answer": true
+        },
+        {
+          "option": "1000"
+        },
+        {
+          "option": "950"
+        },
+        {
+          "option": "1150"
+        }
+      ]
+    },
+    {
+      "question": "Estimate: 4567.89 - 2345.12 + 1012.34.",
+      "options": [
+        {
+          "option": "3350"
+        },
+        {
+          "option": "3000"
+        },
+        {
+          "option": "3235",
+          "is_answer": true
+        },
+        {
+          "option": "3100"
+        }
+      ]
+    },
+    {
+      "question": "What is the approximate value of ∛1727.99 × 11.98?",
+      "options": [
+        {
+          "option": "132"
+        },
+        {
+          "option": "150"
+        },
+        {
+          "option": "144",
+          "is_answer": true
+        },
+        {
+          "option": "120"
+        }
+      ]
+    },
+    {
+      "question": "Find the approximate value of (125.99)^(1/3) + (624.98)^(1/2).",
+      "options": [
+        {
+          "option": "28"
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "35"
+        },
+        {
+          "option": "30",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the approximate value of 45.9% of 850 + 24.8% of 640?",
+      "options": [
+        {
+          "option": "500"
+        },
+        {
+          "option": "550",
+          "is_answer": true
+        },
+        {
+          "option": "520"
+        },
+        {
+          "option": "580"
+        }
+      ]
+    },
+    {
+      "question": "Find the approximate value of 4399.98 ÷ 11.02 × 14.95.",
+      "options": [
+        {
+          "option": "5500"
+        },
+        {
+          "option": "5970",
+          "is_answer": true
+        },
+        {
+          "option": "6000"
+        },
+        {
+          "option": "5200"
+        }
+      ]
+    },
+    {
+      "question": "What is the approximate value of (17.98)^2 - (12.05)^2?",
+      "options": [
+        {
+          "option": "160"
+        },
+        {
+          "option": "200"
+        },
+        {
+          "option": "150"
+        },
+        {
+          "option": "179",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Estimate the value of 89.9% of 399.9 + 15.02% of 800.1.",
+      "options": [
+        {
+          "option": "500"
+        },
+        {
+          "option": "420"
+        },
+        {
+          "option": "480",
+          "is_answer": true
+        },
+        {
+          "option": "450"
+        }
+      ]
+    },
+    {
+      "question": "Find the approximate value of 7345 ÷ 24.8 × 3.1.",
+      "options": [
+        {
+          "option": "950"
+        },
+        {
+          "option": "850"
+        },
+        {
+          "option": "890"
+        },
+        {
+          "option": "918",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the approximate value of √624.99 + √129.98 - √48.99?",
+      "options": [
+        {
+          "option": "28",
+          "is_answer": true
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "Estimate the value of 55.05% of 1200 + 44.95% of 800.",
+      "options": [
+        {
+          "option": "1050"
+        },
+        {
+          "option": "1000"
+        },
+        {
+          "option": "980"
+        },
+        {
+          "option": "1020",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the approximate value of 14.02 × 18.95 + 12.08 × 15.12?",
+      "options": [
+        {
+          "option": "420"
+        },
+        {
+          "option": "400"
+        },
+        {
+          "option": "460"
+        },
+        {
+          "option": "446",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the approximate value of (21.98)^2 ÷ 3.95 × 2.02.",
+      "options": [
+        {
+          "option": "260"
+        },
+        {
+          "option": "220"
+        },
+        {
+          "option": "242",
+          "is_answer": true
+        },
+        {
+          "option": "200"
+        }
+      ]
+    },
+    {
+      "question": "What is the approximate value of 999.09 ÷ 12.48 × 3.02?",
+      "options": [
+        {
+          "option": "240",
+          "is_answer": true
+        },
+        {
+          "option": "220"
+        },
+        {
+          "option": "260"
+        },
+        {
+          "option": "200"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following numbers is divisible by 11?",
+      "options": [
+        {
+          "option": "4831"
+        },
+        {
+          "option": "4828"
+        },
+        {
+          "option": "4829",
+          "is_answer": true
+        },
+        {
+          "option": "4830"
+        }
+      ]
+    },
+    {
+      "question": "What is the smallest value of * such that the number 543*2 is divisible by 9?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of the following numbers is divisible by 7?",
+      "options": [
+        {
+          "option": "364",
+          "is_answer": true
+        },
+        {
+          "option": "365"
+        },
+        {
+          "option": "367"
+        },
+        {
+          "option": "362"
+        }
+      ]
+    },
+    {
+      "question": "Find the value of x if the number 78x32 is divisible by 4.",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following numbers is divisible by 13?",
+      "options": [
+        {
+          "option": "292"
+        },
+        {
+          "option": "289"
+        },
+        {
+          "option": "286",
+          "is_answer": true
+        },
+        {
+          "option": "273"
+        }
+      ]
+    },
+    {
+      "question": "A number is divisible by 8 if:",
+      "options": [
+        {
+          "option": "The last two digits are divisible by 8"
+        },
+        {
+          "option": "The number formed by the last three digits is divisible by 8",
+          "is_answer": true
+        },
+        {
+          "option": "The sum of all digits is divisible by 8"
+        },
+        {
+          "option": "The last digit is even and divisible by 4"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following numbers is divisible by 17?",
+      "options": [
+        {
+          "option": "323",
+          "is_answer": true
+        },
+        {
+          "option": "327"
+        },
+        {
+          "option": "331"
+        },
+        {
+          "option": "337"
+        }
+      ]
+    },
+    {
+      "question": "If a number is divisible by both 3 and 4, it must be divisible by:",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of the following numbers is divisible by 19?",
+      "options": [
+        {
+          "option": "351"
+        },
+        {
+          "option": "363"
+        },
+        {
+          "option": "361",
+          "is_answer": true
+        },
+        {
+          "option": "371"
+        }
+      ]
+    },
+    {
+      "question": "What is the divisibility rule test for 6?",
+      "options": [
+        {
+          "option": "Divisible by both 2 and 3",
+          "is_answer": true
+        },
+        {
+          "option": "Divisible by 2 and 4"
+        },
+        {
+          "option": "Divisible by 1 and 6"
+        },
+        {
+          "option": "Divisible by 3 and 4"
+        }
+      ]
+    },
+    {
+      "question": "For the number 456x to be divisible by 6, what can be the maximum value of x?",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following numbers is NOT divisible by 5?",
+      "options": [
+        {
+          "option": "4326",
+          "is_answer": true
+        },
+        {
+          "option": "4330"
+        },
+        {
+          "option": "4325"
+        },
+        {
+          "option": "4335"
+        }
+      ]
+    },
+    {
+      "question": "If the 6-digit number 7125x2 is divisible by 9, find the value of x.",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "What is the remainder when 9435 is divided by 11?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following numbers is divisible by 12?",
+      "options": [
+        {
+          "option": "5470"
+        },
+        {
+          "option": "5472",
+          "is_answer": true
+        },
+        {
+          "option": "5474"
+        },
+        {
+          "option": "5478"
+        }
+      ]
+    },
+    {
+      "question": "To check divisibility by 7, the standard rule involves:",
+      "options": [
+        {
+          "option": "Tripling the last digit and adding it to the remaining number"
+        },
+        {
+          "option": "Halving the last digit and adding"
+        },
+        {
+          "option": "Doubling the last digit and subtracting it from the remaining number",
+          "is_answer": true
+        },
+        {
+          "option": "Multiplying the last digit by 4 and subtracting"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is a composite divisor rule: a number is divisible by 72 if it is divisible by:",
+      "options": [
+        {
+          "option": "6 and 12"
+        },
+        {
+          "option": "4 and 18"
+        },
+        {
+          "option": "2 and 36"
+        },
+        {
+          "option": "8 and 9",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the missing digit x in 918x6 so that it is divisible by 8.",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following numbers is divisible by both 3 and 11?",
+      "options": [
+        {
+          "option": "6534",
+          "is_answer": true
+        },
+        {
+          "option": "6523"
+        },
+        {
+          "option": "6531"
+        },
+        {
+          "option": "6537"
+        }
+      ]
+    },
+    {
+      "question": "What is the smallest number that should be added to 2356 so that the sum is completely divisible by 5?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: 2 1/4 + 3 3/4 - 1 1/2",
+      "options": [
+        {
+          "option": "4 1/2",
+          "is_answer": true
+        },
+        {
+          "option": "5 1/2"
+        },
+        {
+          "option": "3 3/4"
+        },
+        {
+          "option": "4 1/4"
+        }
+      ]
+    },
+    {
+      "question": "Convert the repeating decimal 0.333... into a fraction.",
+      "options": [
+        {
+          "option": "33/100"
+        },
+        {
+          "option": "1/3",
+          "is_answer": true
+        },
+        {
+          "option": "3/11"
+        },
+        {
+          "option": "3/10"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: (1 1/2) * (2 2/3) / (1 1/3)",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "2 1/2"
+        }
+      ]
+    },
+    {
+      "question": "Convert the repeating decimal 0.666... (or 0.6̄) into a simplified fraction.",
+      "options": [
+        {
+          "option": "6/10"
+        },
+        {
+          "option": "3/5"
+        },
+        {
+          "option": "2/3",
+          "is_answer": true
+        },
+        {
+          "option": "66/99"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: 5.4 + 2.35 - 1.2",
+      "options": [
+        {
+          "option": "6.45"
+        },
+        {
+          "option": "6.55",
+          "is_answer": true
+        },
+        {
+          "option": "6.75"
+        },
+        {
+          "option": "7.55"
+        }
+      ]
+    },
+    {
+      "question": "Find the value of 0.4̄ + 0.3̄",
+      "options": [
+        {
+          "option": "37/90"
+        },
+        {
+          "option": "77/100"
+        },
+        {
+          "option": "7/10"
+        },
+        {
+          "option": "7/9",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: 4 1/5 - 2 3/10 + 1 1/2",
+      "options": [
+        {
+          "option": "2 2/5"
+        },
+        {
+          "option": "4 1/10"
+        },
+        {
+          "option": "3 4/5"
+        },
+        {
+          "option": "3 2/5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Convert the repeating decimal 0.1666... (or 0.16̄) into a fraction.",
+      "options": [
+        {
+          "option": "1/6",
+          "is_answer": true
+        },
+        {
+          "option": "16/99"
+        },
+        {
+          "option": "15/90"
+        },
+        {
+          "option": "1/5"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: (3/4 + 2/3) / (5/6)",
+      "options": [
+        {
+          "option": "1 1/2"
+        },
+        {
+          "option": "1 3/5"
+        },
+        {
+          "option": "1 9/10",
+          "is_answer": true
+        },
+        {
+          "option": "2 1/5"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: 0.2̄ + 0.4̄ + 0.3̄",
+      "options": [
+        {
+          "option": "0.99"
+        },
+        {
+          "option": "9/10"
+        },
+        {
+          "option": "1.1"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: 7.25 * 0.4",
+      "options": [
+        {
+          "option": "2.9",
+          "is_answer": true
+        },
+        {
+          "option": "2.75"
+        },
+        {
+          "option": "3.1"
+        },
+        {
+          "option": "2.85"
+        }
+      ]
+    },
+    {
+      "question": "Find the value of: 3 1/3 - 1 5/6 + 2 3/4",
+      "options": [
+        {
+          "option": "3 3/4"
+        },
+        {
+          "option": "4 7/12"
+        },
+        {
+          "option": "4 1/4",
+          "is_answer": true
+        },
+        {
+          "option": "4 5/12"
+        }
+      ]
+    },
+    {
+      "question": "Convert 0.12̄ (repeating on 2) into a fraction.",
+      "options": [
+        {
+          "option": "6/50"
+        },
+        {
+          "option": "11/90",
+          "is_answer": true
+        },
+        {
+          "option": "2/15"
+        },
+        {
+          "option": "12/99"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: (5/8) / (2 1/2) * (1 1/5)",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "3/10",
+          "is_answer": true
+        },
+        {
+          "option": "3/8"
+        },
+        {
+          "option": "4/5"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: 15.5 - {7.2 - (3.1 + 1.2)}",
+      "options": [
+        {
+          "option": "13.2"
+        },
+        {
+          "option": "10.4"
+        },
+        {
+          "option": "12.6",
+          "is_answer": true
+        },
+        {
+          "option": "11.6"
+        }
+      ]
+    },
+    {
+      "question": "What is the result of 0.37̄ expressed as a fraction?",
+      "options": [
+        {
+          "option": "34/90",
+          "is_answer": true
+        },
+        {
+          "option": "37/100"
+        },
+        {
+          "option": "37/99"
+        },
+        {
+          "option": "33/90"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: (2 1/3 + 1 1/6) * (4/5)",
+      "options": [
+        {
+          "option": "2 4/5",
+          "is_answer": true
+        },
+        {
+          "option": "3 1/3"
+        },
+        {
+          "option": "2 1/2"
+        },
+        {
+          "option": "2 2/3"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: 8.5 - 3.2 * 1.5 + 2.4",
+      "options": [
+        {
+          "option": "6.1",
+          "is_answer": true
+        },
+        {
+          "option": "5.9"
+        },
+        {
+          "option": "7.3"
+        },
+        {
+          "option": "10.35"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: 5.76̄ - 2.34̄",
+      "options": [
+        {
+          "option": "3.42"
+        },
+        {
+          "option": "3.43̄"
+        },
+        {
+          "option": "3.41"
+        },
+        {
+          "option": "3.42̄",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the value of: (1 - 1/2)(1 - 1/3)(1 - 1/4)...(1 - 1/10)",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "1/10",
+          "is_answer": true
+        },
+        {
+          "option": "1/9"
+        },
+        {
+          "option": "9/10"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: (75 + 25)^2 - (75 - 25)^2 / (75 * 25)",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "100"
+        }
+      ]
+    },
+    {
+      "question": "If x + y = 12 and xy = 27, find the value of x^3 + y^3.",
+      "options": [
+        {
+          "option": "729"
+        },
+        {
+          "option": "486"
+        },
+        {
+          "option": "1728"
+        },
+        {
+          "option": "756",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: (85 * 85 * 85 - 15 * 15 * 15) / (85 * 85 + 85 * 15 + 15 * 15)",
+      "options": [
+        {
+          "option": "100"
+        },
+        {
+          "option": "850"
+        },
+        {
+          "option": "70",
+          "is_answer": true
+        },
+        {
+          "option": "50"
+        }
+      ]
+    },
+    {
+      "question": "If a + b + c = 9 and ab + bc + ca = 26, find a^2 + b^2 + c^2.",
+      "options": [
+        {
+          "option": "133"
+        },
+        {
+          "option": "29",
+          "is_answer": true
+        },
+        {
+          "option": "55"
+        },
+        {
+          "option": "81"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: (4.7 * 4.7 - 1.3 * 1.3) / (4.7 - 1.3)",
+      "options": [
+        {
+          "option": "4.7"
+        },
+        {
+          "option": "6.0",
+          "is_answer": true
+        },
+        {
+          "option": "1.3"
+        },
+        {
+          "option": "3.4"
+        }
+      ]
+    },
+    {
+      "question": "If x - 1/x = 5, find the value of x^2 + 1/x^2.",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "27",
+          "is_answer": true
+        },
+        {
+          "option": "23"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: (38 * 38 + 2 * 38 * 12 + 12 * 12)",
+      "options": [
+        {
+          "option": "2400"
+        },
+        {
+          "option": "2000"
+        },
+        {
+          "option": "2600"
+        },
+        {
+          "option": "2500",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If x + 1/x = 3, then x^3 + 1/x^3 is equal to:",
+      "options": [
+        {
+          "option": "18",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "27"
+        },
+        {
+          "option": "36"
+        }
+      ]
+    },
+    {
+      "question": "Find the value of (999)^2 using algebraic identities.",
+      "options": [
+        {
+          "option": "998991"
+        },
+        {
+          "option": "998001",
+          "is_answer": true
+        },
+        {
+          "option": "980001"
+        },
+        {
+          "option": "999001"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: (64^2 - 36^2) / 28",
+      "options": [
+        {
+          "option": "200"
+        },
+        {
+          "option": "100",
+          "is_answer": true
+        },
+        {
+          "option": "28"
+        },
+        {
+          "option": "50"
+        }
+      ]
+    },
+    {
+      "question": "If a + b = 10 and a - b = 4, find the value of ab.",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "21",
+          "is_answer": true
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "28"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: (2.3 * 2.3 * 2.3 + 0.7 * 0.7 * 0.7) / (2.3 * 2.3 - 2.3 * 0.7 + 0.7 * 0.7)",
+      "options": [
+        {
+          "option": "3.0",
+          "is_answer": true
+        },
+        {
+          "option": "1.6"
+        },
+        {
+          "option": "0.7"
+        },
+        {
+          "option": "2.3"
+        }
+      ]
+    },
+    {
+      "question": "If x - y = 4 and xy = 21, find x^3 - y^3.",
+      "options": [
+        {
+          "option": "100"
+        },
+        {
+          "option": "256"
+        },
+        {
+          "option": "316",
+          "is_answer": true
+        },
+        {
+          "option": "64"
+        }
+      ]
+    },
+    {
+      "question": "If a + b + c = 12 and a^2 + b^2 + c^2 = 50, find ab + bc + ca.",
+      "options": [
+        {
+          "option": "94"
+        },
+        {
+          "option": "47",
+          "is_answer": true
+        },
+        {
+          "option": "54"
+        },
+        {
+          "option": "74"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: (59 + 41)^2 - 4 * 59 * 41",
+      "options": [
+        {
+          "option": "10000"
+        },
+        {
+          "option": "3364",
+          "is_answer": true
+        },
+        {
+          "option": "2418"
+        },
+        {
+          "option": "4836"
+        }
+      ]
+    },
+    {
+      "question": "If x = 301 and y = 300, find the value of x^2 - y^2.",
+      "options": [
+        {
+          "option": "180601"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "90301"
+        },
+        {
+          "option": "601",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If a + b = 7 and ab = 12, find a^3 + b^3.",
+      "options": [
+        {
+          "option": "91",
+          "is_answer": true
+        },
+        {
+          "option": "49"
+        },
+        {
+          "option": "343"
+        },
+        {
+          "option": "133"
+        }
+      ]
+    },
+    {
+      "question": "If a + b + c = 0, then the value of a^3 + b^3 + c^3 is:",
+      "options": [
+        {
+          "option": "3abc",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "abc"
+        },
+        {
+          "option": "-3abc"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: (103 * 97)",
+      "options": [
+        {
+          "option": "9999"
+        },
+        {
+          "option": "9909"
+        },
+        {
+          "option": "9991",
+          "is_answer": true
+        },
+        {
+          "option": "10009"
+        }
+      ]
+    },
+    {
+      "question": "If x + 1/x = 4, then x^4 + 1/x^4 equals:",
+      "options": [
+        {
+          "option": "194",
+          "is_answer": true
+        },
+        {
+          "option": "192"
+        },
+        {
+          "option": "196"
+        },
+        {
+          "option": "256"
+        }
+      ]
+    },
+    {
+      "question": "What is the HCF of 24 and 36 using prime factorization?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "What is the LCM of 12 and 18 using prime factorization?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "72"
+        },
+        {
+          "option": "36",
+          "is_answer": true
+        },
+        {
+          "option": "54"
+        }
+      ]
+    },
+    {
+      "question": "Find the HCF of 45, 75, and 105 using prime factorization.",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "45"
+        }
+      ]
+    },
+    {
+      "question": "Find the LCM of 15, 20, and 30 using prime factorization.",
+      "options": [
+        {
+          "option": "150"
+        },
+        {
+          "option": "60",
+          "is_answer": true
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "90"
+        }
+      ]
+    },
+    {
+      "question": "If two numbers are expressed as $2^3 \\times 3^2$ and $2^2 \\times 3^3$, what is their HCF?",
+      "options": [
+        {
+          "option": "36",
+          "is_answer": true
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "72"
+        },
+        {
+          "option": "108"
+        }
+      ]
+    },
+    {
+      "question": "If two numbers are expressed as $2^3 \\times 3^2$ and $2^2 \\times 3^3$, what is their LCM?",
+      "options": [
+        {
+          "option": "216"
+        },
+        {
+          "option": "72"
+        },
+        {
+          "option": "108",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        }
+      ]
+    },
+    {
+      "question": "What is the HCF of prime numbers 17 and 19?",
+      "options": [
+        {
+          "option": "323"
+        },
+        {
+          "option": "19"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "17"
+        }
+      ]
+    },
+    {
+      "question": "What is the LCM of prime numbers 11 and 13?",
+      "options": [
+        {
+          "option": "121"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "143",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the HCF of $a^2b^3c$ and $ab^2c^3$ using prime factorization concept.",
+      "options": [
+        {
+          "option": "$ab^2c$",
+          "is_answer": true
+        },
+        {
+          "option": "$a^2b^3c^3$"
+        },
+        {
+          "option": "$abc$"
+        },
+        {
+          "option": "$a^2b^2c^2$"
+        }
+      ]
+    },
+    {
+      "question": "Find the LCM of $x^3y^2$ and $x^2y^4$ using prime factorization concept.",
+      "options": [
+        {
+          "option": "$x^3y^2$"
+        },
+        {
+          "option": "$x^5y^6$"
+        },
+        {
+          "option": "$x^3y^4$",
+          "is_answer": true
+        },
+        {
+          "option": "$x^2y^2$"
+        }
+      ]
+    },
+    {
+      "question": "What is the HCF of 56 and 84?",
+      "options": [
+        {
+          "option": "56"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "28",
+          "is_answer": true
+        },
+        {
+          "option": "14"
+        }
+      ]
+    },
+    {
+      "question": "What is the LCM of 28, 42, and 56?",
+      "options": [
+        {
+          "option": "84"
+        },
+        {
+          "option": "168",
+          "is_answer": true
+        },
+        {
+          "option": "336"
+        },
+        {
+          "option": "252"
+        }
+      ]
+    },
+    {
+      "question": "Using prime factorization, find the HCF of 108, 288, and 360.",
+      "options": [
+        {
+          "option": "72"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "54"
+        },
+        {
+          "option": "36",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Using prime factorization, find the LCM of 24, 36, and 40.",
+      "options": [
+        {
+          "option": "360",
+          "is_answer": true
+        },
+        {
+          "option": "720"
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "180"
+        }
+      ]
+    },
+    {
+      "question": "What is the product of HCF and LCM of two numbers 14 and 35, and how does it relate to their prime factors?",
+      "options": [
+        {
+          "option": "490",
+          "is_answer": true
+        },
+        {
+          "option": "49"
+        },
+        {
+          "option": "245"
+        },
+        {
+          "option": "98"
+        }
+      ]
+    },
+    {
+      "question": "Find the HCF of numbers whose prime factorizations are $2^4 \\times 3^2 \\times 5^3$ and $2^2 \\times 3^4 \\times 5^1$.",
+      "options": [
+        {
+          "option": "90"
+        },
+        {
+          "option": "540"
+        },
+        {
+          "option": "360"
+        },
+        {
+          "option": "180",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the LCM of $7^2 \\times 3$ and $7 \\times 3^2$?",
+      "options": [
+        {
+          "option": "147"
+        },
+        {
+          "option": "63"
+        },
+        {
+          "option": "441",
+          "is_answer": true
+        },
+        {
+          "option": "21"
+        }
+      ]
+    },
+    {
+      "question": "If the prime factorization of number A is $2^3 \\times 5^2$ and number B is $2^2 \\times 5^3 \\times 7$, what is the HCF of A and B?",
+      "options": [
+        {
+          "option": "50"
+        },
+        {
+          "option": "700"
+        },
+        {
+          "option": "100",
+          "is_answer": true
+        },
+        {
+          "option": "200"
+        }
+      ]
+    },
+    {
+      "question": "Find the LCM of 16, 24, and 36 using prime factorization.",
+      "options": [
+        {
+          "option": "144",
+          "is_answer": true
+        },
+        {
+          "option": "72"
+        },
+        {
+          "option": "432"
+        },
+        {
+          "option": "288"
+        }
+      ]
+    },
+    {
+      "question": "What is the HCF of three numbers given by $2^3 \\times 3^2$, $2^2 \\times 3^3$, and $2^4 \\times 3^1$?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "What is the unit digit of $7^{105}$?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "Find the unit digit of $3^{64}$?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "What is the unit digit in the product $246^{54} \\times 527^{32}$?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the unit digit of $2^{43} \times 3^{52}$?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "What is the unit digit of $4^{99} + 9^{100}$?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Determine the unit digit of $8^{75}$?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "What is the unit digit of $6^{58} + 5^{79} + 1^{45}$?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "Find the unit digit of the expression $(123)^{42}$?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "What is the unit digit of $7^{95} - 3^{58}$?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the unit digit of $9^{101} \\times 4^{22}$?",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "What is the unit digit of $2^{51}$?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Determine the unit digit of $17^{2016}$?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "Find the unit digit of $264^{102} + 264^{103}$?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "What is the unit digit of $5^{(5^{5})}$?",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "What is the unit digit of $6^{100} \\times 4^{47}$?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "Find the unit digit of $(81)^{(10 \times 25 \times 30)}$?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the unit digit of the sum $1^1 + 2^2 + 3^3 + 4^4 + 5^5$?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Determine the unit digit of $33^{33}$?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "Find the unit digit of $7^{4n}$ where $n$ is a positive integer?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "What is the unit digit of $2017^{2017}$?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "What is the tens digit of $7^{99}$?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "Find the last two digits of $3^{400}$.",
+      "options": [
+        {
+          "option": "01",
+          "is_answer": true
+        },
+        {
+          "option": "21"
+        },
+        {
+          "option": "41"
+        },
+        {
+          "option": "81"
+        }
+      ]
+    },
+    {
+      "question": "What is the remainder when $2^{100}$ is divided by 25?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "01"
+        },
+        {
+          "option": "76",
+          "is_answer": true
+        },
+        {
+          "option": "50"
+        }
+      ]
+    },
+    {
+      "question": "Find the last two digits of $7^{2008}$.",
+      "options": [
+        {
+          "option": "43"
+        },
+        {
+          "option": "21"
+        },
+        {
+          "option": "01",
+          "is_answer": true
+        },
+        {
+          "option": "57"
+        }
+      ]
+    },
+    {
+      "question": "What is the tens digit of $3^{50}$?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "Find the remainder when $7^{82}$ is divided by 100.",
+      "options": [
+        {
+          "option": "09"
+        },
+        {
+          "option": "29"
+        },
+        {
+          "option": "89"
+        },
+        {
+          "option": "49",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What are the last two digits of $19^{19}$?",
+      "options": [
+        {
+          "option": "29"
+        },
+        {
+          "option": "19"
+        },
+        {
+          "option": "99",
+          "is_answer": true
+        },
+        {
+          "option": "09"
+        }
+      ]
+    },
+    {
+      "question": "Using Euler's Totient Theorem, find the remainder of $7^{222}$ when divided by 100.",
+      "options": [
+        {
+          "option": "01"
+        },
+        {
+          "option": "51"
+        },
+        {
+          "option": "49",
+          "is_answer": true
+        },
+        {
+          "option": "29"
+        }
+      ]
+    },
+    {
+      "question": "Find the tens digit of $2^{1000}$?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the remainder when $3^{100}$ is divided by 80?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "43"
+        },
+        {
+          "option": "27"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the last two digits of $13^{2000}$.",
+      "options": [
+        {
+          "option": "21"
+        },
+        {
+          "option": "01",
+          "is_answer": true
+        },
+        {
+          "option": "41"
+        },
+        {
+          "option": "61"
+        }
+      ]
+    },
+    {
+      "question": "What is the tens digit of $9^{99}$?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "Find the last two digits of $51^{51}$.",
+      "options": [
+        {
+          "option": "01"
+        },
+        {
+          "option": "21"
+        },
+        {
+          "option": "51",
+          "is_answer": true
+        },
+        {
+          "option": "71"
+        }
+      ]
+    },
+    {
+      "question": "What is the remainder of $2^{60}$ when divided by 7?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "Find the last two digits of $67^{100}$.",
+      "options": [
+        {
+          "option": "41"
+        },
+        {
+          "option": "01",
+          "is_answer": true
+        },
+        {
+          "option": "81"
+        },
+        {
+          "option": "21"
+        }
+      ]
+    },
+    {
+      "question": "What is the tens digit of $4^{44}$?",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "Find the last two digits of $9^{111}$.",
+      "options": [
+        {
+          "option": "09"
+        },
+        {
+          "option": "89"
+        },
+        {
+          "option": "69"
+        },
+        {
+          "option": "29",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the remainder when $7^{1000}$ is divided by 24?",
+      "options": [
+        {
+          "option": "23"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "17"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the last two digits of $43^{43}$.",
+      "options": [
+        {
+          "option": "27"
+        },
+        {
+          "option": "87"
+        },
+        {
+          "option": "47"
+        },
+        {
+          "option": "07",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Using Euler's Totient Theorem, find the remainder when $3^{102}$ is divided by 100.",
+      "options": [
+        {
+          "option": "49"
+        },
+        {
+          "option": "09",
+          "is_answer": true
+        },
+        {
+          "option": "89"
+        },
+        {
+          "option": "29"
+        }
+      ]
+    },
+    {
+      "question": "Find the HCF of the fractions: 2/3, 4/9, and 5/6.",
+      "options": [
+        {
+          "option": "1/18",
+          "is_answer": true
+        },
+        {
+          "option": "20/3"
+        },
+        {
+          "option": "1/9"
+        },
+        {
+          "option": "2/9"
+        }
+      ]
+    },
+    {
+      "question": "Find the LCM of the fractions: 2/3, 4/9, and 5/6.",
+      "options": [
+        {
+          "option": "10/3"
+        },
+        {
+          "option": "20/3",
+          "is_answer": true
+        },
+        {
+          "option": "20/9"
+        },
+        {
+          "option": "1/18"
+        }
+      ]
+    },
+    {
+      "question": "Find the HCF of the decimal numbers: 0.6, 1.8, and 3.6.",
+      "options": [
+        {
+          "option": "0.6",
+          "is_answer": true
+        },
+        {
+          "option": "1.8"
+        },
+        {
+          "option": "0.2"
+        },
+        {
+          "option": "0.06"
+        }
+      ]
+    },
+    {
+      "question": "Find the LCM of the decimal numbers: 0.6, 1.8, and 3.6.",
+      "options": [
+        {
+          "option": "3.6",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "1.8"
+        },
+        {
+          "option": "0.6"
+        }
+      ]
+    },
+    {
+      "question": "Find the HCF of the fractions: 1/3, 2/9, 5/6, and 4/27.",
+      "options": [
+        {
+          "option": "1/27"
+        },
+        {
+          "option": "2/27"
+        },
+        {
+          "option": "20/3"
+        },
+        {
+          "option": "1/54",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the LCM of the fractions: 1/3, 2/9, 5/6, and 4/27.",
+      "options": [
+        {
+          "option": "10/3"
+        },
+        {
+          "option": "20/9"
+        },
+        {
+          "option": "5/54"
+        },
+        {
+          "option": "20/3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the HCF of the decimal numbers: 1.2, 0.24, and 3.0.",
+      "options": [
+        {
+          "option": "0.12"
+        },
+        {
+          "option": "1.2"
+        },
+        {
+          "option": "0.6"
+        },
+        {
+          "option": "0.06",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the LCM of the decimal numbers: 1.2, 0.24, and 3.0.",
+      "options": [
+        {
+          "option": "0.6"
+        },
+        {
+          "option": "3.0"
+        },
+        {
+          "option": "1.2"
+        },
+        {
+          "option": "6.0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the HCF of 7/9, 14/15, and 7/10?",
+      "options": [
+        {
+          "option": "7/45"
+        },
+        {
+          "option": "14/45"
+        },
+        {
+          "option": "7/90",
+          "is_answer": true
+        },
+        {
+          "option": "1/90"
+        }
+      ]
+    },
+    {
+      "question": "What is the LCM of 7/9, 14/15, and 7/10?",
+      "options": [
+        {
+          "option": "49"
+        },
+        {
+          "option": "98",
+          "is_answer": true
+        },
+        {
+          "option": "98/45"
+        },
+        {
+          "option": "14"
+        }
+      ]
+    },
+    {
+      "question": "Find the HCF of 0.36, 1.2, and 0.48.",
+      "options": [
+        {
+          "option": "0.12",
+          "is_answer": true
+        },
+        {
+          "option": "0.06"
+        },
+        {
+          "option": "1.2"
+        },
+        {
+          "option": "0.24"
+        }
+      ]
+    },
+    {
+      "question": "Find the LCM of 0.36, 1.2, and 0.48.",
+      "options": [
+        {
+          "option": "0.72"
+        },
+        {
+          "option": "1.44",
+          "is_answer": true
+        },
+        {
+          "option": "7.2"
+        },
+        {
+          "option": "14.4"
+        }
+      ]
+    },
+    {
+      "question": "Find the HCF of fractions: 3/4, 5/8, and 7/12.",
+      "options": [
+        {
+          "option": "3/24"
+        },
+        {
+          "option": "1/8"
+        },
+        {
+          "option": "1/24",
+          "is_answer": true
+        },
+        {
+          "option": "35/24"
+        }
+      ]
+    },
+    {
+      "question": "Find the LCM of fractions: 3/4, 5/8, and 7/12.",
+      "options": [
+        {
+          "option": "105/8"
+        },
+        {
+          "option": "105/4",
+          "is_answer": true
+        },
+        {
+          "option": "15/8"
+        },
+        {
+          "option": "35/24"
+        }
+      ]
+    },
+    {
+      "question": "Find the HCF of decimals: 1.5, 0.3, and 0.09.",
+      "options": [
+        {
+          "option": "1.5"
+        },
+        {
+          "option": "0.3"
+        },
+        {
+          "option": "0.09"
+        },
+        {
+          "option": "0.03",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the LCM of decimals: 1.5, 0.3, and 0.09.",
+      "options": [
+        {
+          "option": "9.0"
+        },
+        {
+          "option": "4.5",
+          "is_answer": true
+        },
+        {
+          "option": "1.5"
+        },
+        {
+          "option": "0.45"
+        }
+      ]
+    },
+    {
+      "question": "Determine the HCF of 2.5, 0.5, and 0.125.",
+      "options": [
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0.025"
+        },
+        {
+          "option": "2.5"
+        },
+        {
+          "option": "0.125",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Determine the LCM of 2.5, 0.5, and 0.125.",
+      "options": [
+        {
+          "option": "0.125"
+        },
+        {
+          "option": "1.25"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "2.5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the HCF of the fractions: 9/10, 12/25, 18/35, and 21/40.",
+      "options": [
+        {
+          "option": "1/1400"
+        },
+        {
+          "option": "3/700"
+        },
+        {
+          "option": "9/1400"
+        },
+        {
+          "option": "3/1400",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the LCM of the fractions: 9/10, 12/25, 18/35, and 21/40.",
+      "options": [
+        {
+          "option": "63/1400"
+        },
+        {
+          "option": "126"
+        },
+        {
+          "option": "504"
+        },
+        {
+          "option": "252",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: 15 - [6 - {2 + (6 of 2 - 3)}]",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "14",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: 25 - 5 [2 + 3{2 - 2(5 - 3)}] + 10",
+      "options": [
+        {
+          "option": "45"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "35",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the value of: 36 ÷ [6 + 3 × {5 - 3(4 - 2)}]",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "36",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: 48 - [38 - {60 - (6 - 9 - 11)}]",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "-10"
+        },
+        {
+          "option": "-30",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Simplify: 100 - [80 - {60 - (40 - 20)}]",
+      "options": [
+        {
+          "option": "40"
+        },
+        {
+          "option": "80"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "60",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: 50 - [20 + {30 - (10 - 5)}] + 15",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "Find the value of: 12 + [12 - {12 × (12 ÷ 12)}]",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "144"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "24"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: 64 ÷ [4 × {3 - (9 - 6)}] - 2",
+      "options": [
+        {
+          "option": "Undefined / Error",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: 18 - [5 - {6 - (5 - 4 - 3)}]",
+      "options": [
+        {
+          "option": "11"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "13"
+        },
+        {
+          "option": "17"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: 27 - [38 - {46 - (15 - 13 - 2)}]",
+      "options": [
+        {
+          "option": "35",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "45"
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "Find the value: 9.5 - [7.2 - {3.5 - (1.2 + 0.5)}]",
+      "options": [
+        {
+          "option": "6.2"
+        },
+        {
+          "option": "3.9"
+        },
+        {
+          "option": "4.5",
+          "is_answer": true
+        },
+        {
+          "option": "5.1"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: 30 - [40 - {50 - (60 - 70 - 80)}]",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "90",
+          "is_answer": true
+        },
+        {
+          "option": "-10"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: 10 + 10 × 10 - 10 ÷ 10",
+      "options": [
+        {
+          "option": "199"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "109",
+          "is_answer": true
+        },
+        {
+          "option": "100"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: 5 + 5 + 5 + 5 + 5 ÷ 5 of 5 + 5 × 5 - 5",
+      "options": [
+        {
+          "option": "45",
+          "is_answer": true
+        },
+        {
+          "option": "55"
+        },
+        {
+          "option": "50"
+        },
+        {
+          "option": "35"
+        }
+      ]
+    },
+    {
+      "question": "Find the value: 8 ÷ 2(2 + 2)",
+      "options": [
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: 220 - [140 - {100 - (50 - 30 - 20)}]",
+      "options": [
+        {
+          "option": "100",
+          "is_answer": true
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "80"
+        },
+        {
+          "option": "60"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: 3 × [5 + {2 × (4 + 1) - 3}]",
+      "options": [
+        {
+          "option": "36",
+          "is_answer": true
+        },
+        {
+          "option": "42"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: 50 - [20 - {30 - (20 - 10)}] + 10",
+      "options": [
+        {
+          "option": "40",
+          "is_answer": true
+        },
+        {
+          "option": "50"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: [72 ÷ {8 of 3} + {4 × 2 - (6 ÷ 2)}]",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: 15 - {15 - (15 - 15 - 15)}",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "-15"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "Find the HCF of 252 and 735 using the division method.",
+      "options": [
+        {
+          "option": "14"
+        },
+        {
+          "option": "63"
+        },
+        {
+          "option": "42"
+        },
+        {
+          "option": "21",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The HCF of two numbers is 11 and their LCM is 7700. If one number is 275, find the other number.",
+      "options": [
+        {
+          "option": "280"
+        },
+        {
+          "option": "385"
+        },
+        {
+          "option": "308",
+          "is_answer": true
+        },
+        {
+          "option": "318"
+        }
+      ]
+    },
+    {
+      "question": "When finding the HCF of two numbers by the division method, the last divisor is 17 and the quotients from top to bottom are 1, 3, and 2. What is the sum of the two numbers?",
+      "options": [
+        {
+          "option": "340"
+        },
+        {
+          "option": "323",
+          "is_answer": true
+        },
+        {
+          "option": "289"
+        },
+        {
+          "option": "306"
+        }
+      ]
+    },
+    {
+      "question": "The product of two numbers is 4107. If their HCF is 37, find the larger number.",
+      "options": [
+        {
+          "option": "111",
+          "is_answer": true
+        },
+        {
+          "option": "107"
+        },
+        {
+          "option": "97"
+        },
+        {
+          "option": "118"
+        }
+      ]
+    },
+    {
+      "question": "Find the HCF of 1365, 1755, and 2925.",
+      "options": [
+        {
+          "option": "225"
+        },
+        {
+          "option": "135"
+        },
+        {
+          "option": "105"
+        },
+        {
+          "option": "195",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The LCM of two numbers is 12 times their HCF. The sum of HCF and LCM is 403. If one number is 93, find the other.",
+      "options": [
+        {
+          "option": "124",
+          "is_answer": true
+        },
+        {
+          "option": "116"
+        },
+        {
+          "option": "134"
+        },
+        {
+          "option": "148"
+        }
+      ]
+    },
+    {
+      "question": "Can two numbers have 16 as their HCF and 380 as their LCM?",
+      "options": [
+        {
+          "option": "No, because HCF must exactly divide LCM",
+          "is_answer": true
+        },
+        {
+          "option": "Yes, always"
+        },
+        {
+          "option": "Only if numbers are prime"
+        },
+        {
+          "option": "Yes, because LCM is greater than HCF"
+        }
+      ]
+    },
+    {
+      "question": "Find the greatest number that will divide 400, 435, and 541 leaving remainders 9, 10, and 14 respectively.",
+      "options": [
+        {
+          "option": "13",
+          "is_answer": true
+        },
+        {
+          "option": "19"
+        },
+        {
+          "option": "17"
+        },
+        {
+          "option": "23"
+        }
+      ]
+    },
+    {
+      "question": "The HCF of two numbers is 23 and the other two factors of their LCM are 13 and 14. Find the larger number.",
+      "options": [
+        {
+          "option": "299"
+        },
+        {
+          "option": "312"
+        },
+        {
+          "option": "322",
+          "is_answer": true
+        },
+        {
+          "option": "276"
+        }
+      ]
+    },
+    {
+      "question": "In the process of finding the HCF of two numbers by division method, the last quotient is 4 and the last divisor is 48. What is the product of the two numbers if no other step is involved?",
+      "options": [
+        {
+          "option": "18432"
+        },
+        {
+          "option": "2304"
+        },
+        {
+          "option": "9216",
+          "is_answer": true
+        },
+        {
+          "option": "4608"
+        }
+      ]
+    },
+    {
+      "question": "Find the greatest number which divides 1657 and 2037 leaving remainders 6 and 5 respectively.",
+      "options": [
+        {
+          "option": "127",
+          "is_answer": true
+        },
+        {
+          "option": "133"
+        },
+        {
+          "option": "305"
+        },
+        {
+          "option": "235"
+        }
+      ]
+    },
+    {
+      "question": "The HCF of two numbers is 8. Which of the following can never be their LCM?",
+      "options": [
+        {
+          "option": "60",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "56"
+        },
+        {
+          "option": "48"
+        }
+      ]
+    },
+    {
+      "question": "Find the HCF of 1.75, 5.6, and 7.",
+      "options": [
+        {
+          "option": "3.5"
+        },
+        {
+          "option": "0.7"
+        },
+        {
+          "option": "0.07"
+        },
+        {
+          "option": "0.35",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "LCM of two co-prime numbers is 357. If one number is 17, find the other number.",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "23"
+        },
+        {
+          "option": "19"
+        },
+        {
+          "option": "21",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Three numbers are in the ratio 3:4:5 and their LCM is 2400. What is their HCF?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "80"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "40",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Using division method, while finding HCF of two numbers, the quotients in consecutive steps are 2, 1, and 3 respectively, and the final divisor is 35. Find the sum of the two numbers.",
+      "options": [
+        {
+          "option": "630"
+        },
+        {
+          "option": "490"
+        },
+        {
+          "option": "595",
+          "is_answer": true
+        },
+        {
+          "option": "525"
+        }
+      ]
+    },
+    {
+      "question": "The HCF and LCM of two numbers are 8 and 48 respectively. If the ratio of the two numbers is 1:3, find the larger number.",
+      "options": [
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "32"
+        }
+      ]
+    },
+    {
+      "question": "Find the maximum number of students among whom 1001 pens and 910 pencils can be distributed in equal numbers.",
+      "options": [
+        {
+          "option": "13"
+        },
+        {
+          "option": "91",
+          "is_answer": true
+        },
+        {
+          "option": "11"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "If the LCM of two numbers is 20769 and their HCF is 189, and one of the numbers is 2394, find the other number.",
+      "options": [
+        {
+          "option": "1809"
+        },
+        {
+          "option": "1722"
+        },
+        {
+          "option": "1641",
+          "is_answer": true
+        },
+        {
+          "option": "1598"
+        }
+      ]
+    },
+    {
+      "question": "What is the HCF of two prime numbers $P$ and $Q$ where $P > Q$?",
+      "options": [
+        {
+          "option": "PQ"
+        },
+        {
+          "option": "Q"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "P"
+        }
+      ]
+    },
+    {
+      "question": "What is the cube root of 17576?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "26",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "28"
+        }
+      ]
+    },
+    {
+      "question": "Find the cube root of 32768.",
+      "options": [
+        {
+          "option": "38"
+        },
+        {
+          "option": "34"
+        },
+        {
+          "option": "32",
+          "is_answer": true
+        },
+        {
+          "option": "28"
+        }
+      ]
+    },
+    {
+      "question": "What is the cube root of 50653?",
+      "options": [
+        {
+          "option": "37",
+          "is_answer": true
+        },
+        {
+          "option": "39"
+        },
+        {
+          "option": "33"
+        },
+        {
+          "option": "47"
+        }
+      ]
+    },
+    {
+      "question": "Find the cube root of 74088.",
+      "options": [
+        {
+          "option": "42",
+          "is_answer": true
+        },
+        {
+          "option": "52"
+        },
+        {
+          "option": "44"
+        },
+        {
+          "option": "48"
+        }
+      ]
+    },
+    {
+      "question": "What is the cube root of 110592?",
+      "options": [
+        {
+          "option": "58"
+        },
+        {
+          "option": "42"
+        },
+        {
+          "option": "46"
+        },
+        {
+          "option": "48",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the cube root of 140608.",
+      "options": [
+        {
+          "option": "58"
+        },
+        {
+          "option": "54"
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "52",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the cube root of 195112?",
+      "options": [
+        {
+          "option": "56"
+        },
+        {
+          "option": "64"
+        },
+        {
+          "option": "52"
+        },
+        {
+          "option": "58",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the cube root of 250047.",
+      "options": [
+        {
+          "option": "53"
+        },
+        {
+          "option": "69"
+        },
+        {
+          "option": "63",
+          "is_answer": true
+        },
+        {
+          "option": "67"
+        }
+      ]
+    },
+    {
+      "question": "What is the cube root of 300763?",
+      "options": [
+        {
+          "option": "63"
+        },
+        {
+          "option": "67",
+          "is_answer": true
+        },
+        {
+          "option": "77"
+        },
+        {
+          "option": "73"
+        }
+      ]
+    },
+    {
+      "question": "Find the cube root of 389017.",
+      "options": [
+        {
+          "option": "77"
+        },
+        {
+          "option": "83"
+        },
+        {
+          "option": "63"
+        },
+        {
+          "option": "73",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the cube root of 456533?",
+      "options": [
+        {
+          "option": "73"
+        },
+        {
+          "option": "87"
+        },
+        {
+          "option": "79"
+        },
+        {
+          "option": "77",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the cube root of 551368.",
+      "options": [
+        {
+          "option": "88"
+        },
+        {
+          "option": "78"
+        },
+        {
+          "option": "82",
+          "is_answer": true
+        },
+        {
+          "option": "84"
+        }
+      ]
+    },
+    {
+      "question": "What is the cube root of 636056?",
+      "options": [
+        {
+          "option": "84"
+        },
+        {
+          "option": "96"
+        },
+        {
+          "option": "86",
+          "is_answer": true
+        },
+        {
+          "option": "88"
+        }
+      ]
+    },
+    {
+      "question": "Find the cube root of 704969.",
+      "options": [
+        {
+          "option": "91"
+        },
+        {
+          "option": "89",
+          "is_answer": true
+        },
+        {
+          "option": "99"
+        },
+        {
+          "option": "81"
+        }
+      ]
+    },
+    {
+      "question": "What is the cube root of 830584?",
+      "options": [
+        {
+          "option": "92"
+        },
+        {
+          "option": "84"
+        },
+        {
+          "option": "94",
+          "is_answer": true
+        },
+        {
+          "option": "96"
+        }
+      ]
+    },
+    {
+      "question": "Find the cube root of 912673.",
+      "options": [
+        {
+          "option": "87"
+        },
+        {
+          "option": "97",
+          "is_answer": true
+        },
+        {
+          "option": "99"
+        },
+        {
+          "option": "93"
+        }
+      ]
+    },
+    {
+      "question": "What is the cube root of 103823?",
+      "options": [
+        {
+          "option": "43"
+        },
+        {
+          "option": "57"
+        },
+        {
+          "option": "47",
+          "is_answer": true
+        },
+        {
+          "option": "49"
+        }
+      ]
+    },
+    {
+      "question": "Find the cube root of 21952.",
+      "options": [
+        {
+          "option": "28",
+          "is_answer": true
+        },
+        {
+          "option": "26"
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "22"
+        }
+      ]
+    },
+    {
+      "question": "What is the cube root of 438976?",
+      "options": [
+        {
+          "option": "66"
+        },
+        {
+          "option": "76",
+          "is_answer": true
+        },
+        {
+          "option": "74"
+        },
+        {
+          "option": "84"
+        }
+      ]
+    },
+    {
+      "question": "Find the cube root of 592704.",
+      "options": [
+        {
+          "option": "74"
+        },
+        {
+          "option": "94"
+        },
+        {
+          "option": "84",
+          "is_answer": true
+        },
+        {
+          "option": "86"
+        }
+      ]
+    },
+    {
+      "question": "What is the exact square root of 576 using the long division method?",
+      "options": [
+        {
+          "option": "22"
+        },
+        {
+          "option": "28"
+        },
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "26"
+        }
+      ]
+    },
+    {
+      "question": "Find the approximate square root of 10 using estimation to one decimal place.",
+      "options": [
+        {
+          "option": "3.3"
+        },
+        {
+          "option": "3.1"
+        },
+        {
+          "option": "3.2",
+          "is_answer": true
+        },
+        {
+          "option": "3.5"
+        }
+      ]
+    },
+    {
+      "question": "What is the square root of 1024 calculated via long division?",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "34"
+        },
+        {
+          "option": "32",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the exact value of the square root of 4489?",
+      "options": [
+        {
+          "option": "63"
+        },
+        {
+          "option": "61"
+        },
+        {
+          "option": "67",
+          "is_answer": true
+        },
+        {
+          "option": "69"
+        }
+      ]
+    },
+    {
+      "question": "Estimate the square root of 50 to the nearest whole number.",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Using long division, what is the square root of 7056?",
+      "options": [
+        {
+          "option": "84",
+          "is_answer": true
+        },
+        {
+          "option": "86"
+        },
+        {
+          "option": "88"
+        },
+        {
+          "option": "82"
+        }
+      ]
+    },
+    {
+      "question": "Find the approximate square root of 2.",
+      "options": [
+        {
+          "option": "1.414",
+          "is_answer": true
+        },
+        {
+          "option": "1.500"
+        },
+        {
+          "option": "1.225"
+        },
+        {
+          "option": "1.732"
+        }
+      ]
+    },
+    {
+      "question": "What is the square root of 152.2756 using long division?",
+      "options": [
+        {
+          "option": "12.44"
+        },
+        {
+          "option": "12.14"
+        },
+        {
+          "option": "12.24"
+        },
+        {
+          "option": "12.34",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Estimate the square root of 120.",
+      "options": [
+        {
+          "option": "11.50"
+        },
+        {
+          "option": "10.95",
+          "is_answer": true
+        },
+        {
+          "option": "10.50"
+        },
+        {
+          "option": "11.25"
+        }
+      ]
+    },
+    {
+      "question": "What is the square root of 9801?",
+      "options": [
+        {
+          "option": "99",
+          "is_answer": true
+        },
+        {
+          "option": "91"
+        },
+        {
+          "option": "93"
+        },
+        {
+          "option": "97"
+        }
+      ]
+    },
+    {
+      "question": "By long division, find the square root of 1764.",
+      "options": [
+        {
+          "option": "48"
+        },
+        {
+          "option": "44"
+        },
+        {
+          "option": "46"
+        },
+        {
+          "option": "42",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the approximate square root of 5?",
+      "options": [
+        {
+          "option": "2.450"
+        },
+        {
+          "option": "2.122"
+        },
+        {
+          "option": "2.645"
+        },
+        {
+          "option": "2.236",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the square root of 0.9 up to two decimal places by long division.",
+      "options": [
+        {
+          "option": "0.90"
+        },
+        {
+          "option": "0.97"
+        },
+        {
+          "option": "0.95",
+          "is_answer": true
+        },
+        {
+          "option": "0.85"
+        }
+      ]
+    },
+    {
+      "question": "What is the exact square root of 3136?",
+      "options": [
+        {
+          "option": "58"
+        },
+        {
+          "option": "54"
+        },
+        {
+          "option": "56",
+          "is_answer": true
+        },
+        {
+          "option": "52"
+        }
+      ]
+    },
+    {
+      "question": "Estimate the square root of 300 to the nearest integer.",
+      "options": [
+        {
+          "option": "17",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "19"
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "Using long division, what is the square root of 6241?",
+      "options": [
+        {
+          "option": "73"
+        },
+        {
+          "option": "71"
+        },
+        {
+          "option": "79",
+          "is_answer": true
+        },
+        {
+          "option": "77"
+        }
+      ]
+    },
+    {
+      "question": "What is the square root of 0.0009?",
+      "options": [
+        {
+          "option": "0.003"
+        },
+        {
+          "option": "0.03",
+          "is_answer": true
+        },
+        {
+          "option": "0.0003"
+        },
+        {
+          "option": "0.3"
+        }
+      ]
+    },
+    {
+      "question": "Find the approximate value of the square root of 80 by estimation.",
+      "options": [
+        {
+          "option": "8.94",
+          "is_answer": true
+        },
+        {
+          "option": "9.10"
+        },
+        {
+          "option": "8.25"
+        },
+        {
+          "option": "8.50"
+        }
+      ]
+    },
+    {
+      "question": "What is the square root of 2304 using long division?",
+      "options": [
+        {
+          "option": "42"
+        },
+        {
+          "option": "44"
+        },
+        {
+          "option": "46"
+        },
+        {
+          "option": "48",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the square root of 7.29 using long division?",
+      "options": [
+        {
+          "option": "2.9"
+        },
+        {
+          "option": "2.5"
+        },
+        {
+          "option": "2.7",
+          "is_answer": true
+        },
+        {
+          "option": "2.3"
+        }
+      ]
+    },
+    {
+      "question": "Convert 0.333... into a fraction.",
+      "options": [
+        {
+          "option": "3/10"
+        },
+        {
+          "option": "1/9"
+        },
+        {
+          "option": "1/3",
+          "is_answer": true
+        },
+        {
+          "option": "3/99"
+        }
+      ]
+    },
+    {
+      "question": "Convert 0.666... into a fraction.",
+      "options": [
+        {
+          "option": "3/5"
+        },
+        {
+          "option": "6/99"
+        },
+        {
+          "option": "6/10"
+        },
+        {
+          "option": "2/3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Convert 0.777... into a fraction.",
+      "options": [
+        {
+          "option": "77/100"
+        },
+        {
+          "option": "7/10"
+        },
+        {
+          "option": "7/9",
+          "is_answer": true
+        },
+        {
+          "option": "7/99"
+        }
+      ]
+    },
+    {
+      "question": "Convert 0.454545... into a fraction.",
+      "options": [
+        {
+          "option": "4/11"
+        },
+        {
+          "option": "9/20"
+        },
+        {
+          "option": "45/100"
+        },
+        {
+          "option": "5/11",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Convert 0.123123... into a fraction.",
+      "options": [
+        {
+          "option": "41/300"
+        },
+        {
+          "option": "41/333",
+          "is_answer": true
+        },
+        {
+          "option": "123/1000"
+        },
+        {
+          "option": "123/99"
+        }
+      ]
+    },
+    {
+      "question": "Convert 0.1666... (0.16̄) into a fraction.",
+      "options": [
+        {
+          "option": "1/6",
+          "is_answer": true
+        },
+        {
+          "option": "8/45"
+        },
+        {
+          "option": "16/100"
+        },
+        {
+          "option": "16/99"
+        }
+      ]
+    },
+    {
+      "question": "Convert 0.2777... (0.27̄) into a fraction.",
+      "options": [
+        {
+          "option": "27/99"
+        },
+        {
+          "option": "25/90"
+        },
+        {
+          "option": "5/18",
+          "is_answer": true
+        },
+        {
+          "option": "7/25"
+        }
+      ]
+    },
+    {
+      "question": "Convert 0.5444... (0.54̄) into a fraction.",
+      "options": [
+        {
+          "option": "5/9"
+        },
+        {
+          "option": "27/50"
+        },
+        {
+          "option": "54/99"
+        },
+        {
+          "option": "49/90",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Convert 0.3888... (0.38̄) into a fraction.",
+      "options": [
+        {
+          "option": "38/99"
+        },
+        {
+          "option": "19/45"
+        },
+        {
+          "option": "7/18",
+          "is_answer": true
+        },
+        {
+          "option": "35/90"
+        }
+      ]
+    },
+    {
+      "question": "Convert 0.1252525... (0.125̄) into a fraction.",
+      "options": [
+        {
+          "option": "125/999"
+        },
+        {
+          "option": "125/900"
+        },
+        {
+          "option": "31/248 (or 62/495 -> 31/248 check: 31/248=0.125, wait: 62/495)",
+          "is_answer": true
+        },
+        {
+          "option": "13/99"
+        }
+      ]
+    },
+    {
+      "question": "Convert 2.333... into a mixed/improper fraction.",
+      "options": [
+        {
+          "option": "21/9"
+        },
+        {
+          "option": "7/9"
+        },
+        {
+          "option": "23/10"
+        },
+        {
+          "option": "7/3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Convert 1.666... into a fraction.",
+      "options": [
+        {
+          "option": "16/10"
+        },
+        {
+          "option": "8/5"
+        },
+        {
+          "option": "13/9"
+        },
+        {
+          "option": "5/3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Convert 0.999... into a fraction.",
+      "options": [
+        {
+          "option": "99/100"
+        },
+        {
+          "option": "9/99"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "9/10"
+        }
+      ]
+    },
+    {
+      "question": "Convert 0.050505... (0.05̄) into a fraction.",
+      "options": [
+        {
+          "option": "1/20"
+        },
+        {
+          "option": "5/99",
+          "is_answer": true
+        },
+        {
+          "option": "5/90"
+        },
+        {
+          "option": "51/1000"
+        }
+      ]
+    },
+    {
+      "question": "Convert 0.241241... (0.241̄) into a fraction.",
+      "options": [
+        {
+          "option": "8/33"
+        },
+        {
+          "option": "241/1000"
+        },
+        {
+          "option": "241/999",
+          "is_answer": true
+        },
+        {
+          "option": "24/99"
+        }
+      ]
+    },
+    {
+      "question": "Convert 0.090909... (0.09̄) into a fraction.",
+      "options": [
+        {
+          "option": "9/100"
+        },
+        {
+          "option": "1/11",
+          "is_answer": true
+        },
+        {
+          "option": "9/999"
+        },
+        {
+          "option": "9/90"
+        }
+      ]
+    },
+    {
+      "question": "Convert 1.272727... (1.27̄) into a fraction.",
+      "options": [
+        {
+          "option": "11/9"
+        },
+        {
+          "option": "127/99"
+        },
+        {
+          "option": "14/11",
+          "is_answer": true
+        },
+        {
+          "option": "127/100"
+        }
+      ]
+    },
+    {
+      "question": "Convert 0.181818... (0.18̄) into a fraction.",
+      "options": [
+        {
+          "option": "18/999"
+        },
+        {
+          "option": "9/50"
+        },
+        {
+          "option": "18/100"
+        },
+        {
+          "option": "2/11",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Convert 3.142857142857... (3.(142857)) into a fraction.",
+      "options": [
+        {
+          "option": "3142857/1000000"
+        },
+        {
+          "option": "314/99"
+        },
+        {
+          "option": "22/7",
+          "is_answer": true
+        },
+        {
+          "option": "31/10"
+        }
+      ]
+    },
+    {
+      "question": "Convert 0.34111... (0.341̄) into a fraction.",
+      "options": [
+        {
+          "option": "341/990"
+        },
+        {
+          "option": "341/999"
+        },
+        {
+          "option": "307/900",
+          "is_answer": true
+        },
+        {
+          "option": "31/90"
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of the first 10 natural numbers?",
+      "options": [
+        {
+          "option": "50"
+        },
+        {
+          "option": "55",
+          "is_answer": true
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "45"
+        }
+      ]
+    },
+    {
+      "question": "Find the sum of the first 20 natural numbers.",
+      "options": [
+        {
+          "option": "200"
+        },
+        {
+          "option": "220"
+        },
+        {
+          "option": "190"
+        },
+        {
+          "option": "210",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the formula for the sum of the first 'n' natural numbers?",
+      "options": [
+        {
+          "option": "n(n+1)/2",
+          "is_answer": true
+        },
+        {
+          "option": "[n(n+1)/2]^2"
+        },
+        {
+          "option": "n(n-1)/2"
+        },
+        {
+          "option": "n(n+1)(2n+1)/6"
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of the squares of the first 5 natural numbers (1^2 + 2^2 + ... + 5^2)?",
+      "options": [
+        {
+          "option": "50"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "55",
+          "is_answer": true
+        },
+        {
+          "option": "45"
+        }
+      ]
+    },
+    {
+      "question": "What is the formula for the sum of the squares of the first 'n' natural numbers?",
+      "options": [
+        {
+          "option": "n(n+1)(2n+1)/6",
+          "is_answer": true
+        },
+        {
+          "option": "n(n-1)(2n-1)/6"
+        },
+        {
+          "option": "n(n+1)/2"
+        },
+        {
+          "option": "[n(n+1)/2]^2"
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of the cubes of the first 4 natural numbers (1^3 + 2^3 + 3^3 + 4^3)?",
+      "options": [
+        {
+          "option": "110"
+        },
+        {
+          "option": "90"
+        },
+        {
+          "option": "81"
+        },
+        {
+          "option": "100",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the formula for the sum of the cubes of the first 'n' natural numbers?",
+      "options": [
+        {
+          "option": "n(n+1)(2n+1)/6"
+        },
+        {
+          "option": "[n(n+1)/2]^2",
+          "is_answer": true
+        },
+        {
+          "option": "n(n+1)/2"
+        },
+        {
+          "option": "n^2(n+1)^2/4"
+        }
+      ]
+    },
+    {
+      "question": "Find the sum of the first 30 natural numbers.",
+      "options": [
+        {
+          "option": "450"
+        },
+        {
+          "option": "480"
+        },
+        {
+          "option": "435"
+        },
+        {
+          "option": "465",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of the squares of the first 10 natural numbers?",
+      "options": [
+        {
+          "option": "385",
+          "is_answer": true
+        },
+        {
+          "option": "375"
+        },
+        {
+          "option": "390"
+        },
+        {
+          "option": "380"
+        }
+      ]
+    },
+    {
+      "question": "Find the sum of the cubes of the first 5 natural numbers.",
+      "options": [
+        {
+          "option": "210"
+        },
+        {
+          "option": "225",
+          "is_answer": true
+        },
+        {
+          "option": "200"
+        },
+        {
+          "option": "250"
+        }
+      ]
+    },
+    {
+      "question": "If the sum of first n natural numbers is 1275, what is the value of n?",
+      "options": [
+        {
+          "option": "51"
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "49"
+        },
+        {
+          "option": "50",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of natural numbers from 11 to 20 inclusive?",
+      "options": [
+        {
+          "option": "160"
+        },
+        {
+          "option": "155",
+          "is_answer": true
+        },
+        {
+          "option": "150"
+        },
+        {
+          "option": "145"
+        }
+      ]
+    },
+    {
+      "question": "Find the sum: 1 + 2 + 3 + ... + 50.",
+      "options": [
+        {
+          "option": "1300"
+        },
+        {
+          "option": "1250"
+        },
+        {
+          "option": "1275",
+          "is_answer": true
+        },
+        {
+          "option": "1225"
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of the squares of numbers from 1 to 6 (1^2 + 2^2 + ... + 6^2)?",
+      "options": [
+        {
+          "option": "95"
+        },
+        {
+          "option": "84"
+        },
+        {
+          "option": "85"
+        },
+        {
+          "option": "91",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If sum of squares of first n natural numbers is 946, what is n?",
+      "options": [
+        {
+          "option": "11",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of (1^3 + 2^3 + 3^3)?",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "36",
+          "is_answer": true
+        },
+        {
+          "option": "42"
+        },
+        {
+          "option": "32"
+        }
+      ]
+    },
+    {
+      "question": "Find the sum of the first 100 natural numbers.",
+      "options": [
+        {
+          "option": "5000"
+        },
+        {
+          "option": "4950"
+        },
+        {
+          "option": "5050",
+          "is_answer": true
+        },
+        {
+          "option": "5100"
+        }
+      ]
+    },
+    {
+      "question": "If the sum of the cubes of the first n natural numbers is 3025, find n.",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "11"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of natural numbers from 1 to 15?",
+      "options": [
+        {
+          "option": "125"
+        },
+        {
+          "option": "120",
+          "is_answer": true
+        },
+        {
+          "option": "110"
+        },
+        {
+          "option": "105"
+        }
+      ]
+    },
+    {
+      "question": "Find the sum of squares of the first 7 natural numbers.",
+      "options": [
+        {
+          "option": "135"
+        },
+        {
+          "option": "140",
+          "is_answer": true
+        },
+        {
+          "option": "150"
+        },
+        {
+          "option": "130"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate the infinite continued fraction: 1 + 1 / (1 + 1 / (1 + 1 / ...))",
+      "options": [
+        {
+          "option": "(1 - √5) / 2"
+        },
+        {
+          "option": "(3 + √5) / 2"
+        },
+        {
+          "option": "√5"
+        },
+        {
+          "option": "(1 + √5) / 2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Evaluate the infinite continued fraction: 1 / (1 + 1 / (1 + 1 / (1 + 1 / ...)))",
+      "options": [
+        {
+          "option": "(√5 - 1) / 2",
+          "is_answer": true
+        },
+        {
+          "option": "(1 + √5) / 2"
+        },
+        {
+          "option": "(√5 - 2) / 2"
+        },
+        {
+          "option": "1 / √5"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate the finite continued fraction: 1 + 1 / (1 + 1 / (1 + 1 / 2))",
+      "options": [
+        {
+          "option": "5 / 3"
+        },
+        {
+          "option": "3 / 5"
+        },
+        {
+          "option": "5 / 8"
+        },
+        {
+          "option": "8 / 5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Evaluate the finite continued fraction: 2 + 1 / (3 + 1 / 4)",
+      "options": [
+        {
+          "option": "13 / 31"
+        },
+        {
+          "option": "12 / 13"
+        },
+        {
+          "option": "27 / 13"
+        },
+        {
+          "option": "31 / 13",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the value of the ladder fraction: 1 / (2 + 1 / (2 + 1 / (2 + 1 / 2)))",
+      "options": [
+        {
+          "option": "29 / 12"
+        },
+        {
+          "option": "12 / 17"
+        },
+        {
+          "option": "5 / 12"
+        },
+        {
+          "option": "12 / 29",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Evaluate the infinite continued fraction: 2 + 1 / (2 + 1 / (2 + 1 / (2 + ...)))",
+      "options": [
+        {
+          "option": "2 + √2"
+        },
+        {
+          "option": "1 + √2",
+          "is_answer": true
+        },
+        {
+          "option": "√2 - 1"
+        },
+        {
+          "option": "√3"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate the ladder fraction: 1 - 1 / (1 - 1 / (1 - 1 / 2))",
+      "options": [
+        {
+          "option": "1 / 2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "-1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Simplify the continued fraction: 3 + 1 / (1 + 1 / (2 + 1 / 3))",
+      "options": [
+        {
+          "option": "31 / 9",
+          "is_answer": true
+        },
+        {
+          "option": "9 / 31"
+        },
+        {
+          "option": "31 / 7"
+        },
+        {
+          "option": "22 / 9"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate the infinite continued fraction: 3 + 1 / (3 + 1 / (3 + 1 / (3 + ...)))",
+      "options": [
+        {
+          "option": "(1 + √13) / 2"
+        },
+        {
+          "option": "(3 - √13) / 2"
+        },
+        {
+          "option": "3 + √13"
+        },
+        {
+          "option": "(3 + √13) / 2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Evaluate the finite ladder fraction: 1 / (1 + 1 / (2 + 1 / (3 + 1)))",
+      "options": [
+        {
+          "option": "4 / 7"
+        },
+        {
+          "option": "7 / 4"
+        },
+        {
+          "option": "11 / 7"
+        },
+        {
+          "option": "7 / 11",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of: 1 + 2 / (1 + 2 / (1 + 2 / (1 + 2)))",
+      "options": [
+        {
+          "option": "3 / 5"
+        },
+        {
+          "option": "5 / 3"
+        },
+        {
+          "option": "17 / 11",
+          "is_answer": true
+        },
+        {
+          "option": "11 / 17"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate the finite continued fraction: 4 - 1 / (3 - 1 / (2 - 1 / 2))",
+      "options": [
+        {
+          "option": "19 / 5",
+          "is_answer": true
+        },
+        {
+          "option": "5 / 19"
+        },
+        {
+          "option": "11 / 3"
+        },
+        {
+          "option": "3 / 11"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate the infinite continued fraction: 4 + 1 / (4 + 1 / (4 + 1 / (4 + ...)))",
+      "options": [
+        {
+          "option": "2 + √5",
+          "is_answer": true
+        },
+        {
+          "option": "4 + √5"
+        },
+        {
+          "option": "2 - √5"
+        },
+        {
+          "option": "(1 + √5) / 2"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: 1 / (1 + 1 / (1 + 1 / (1 + 1 / 3)))",
+      "options": [
+        {
+          "option": "3 / 8"
+        },
+        {
+          "option": "8 / 5"
+        },
+        {
+          "option": "5 / 3"
+        },
+        {
+          "option": "5 / 8",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the value of: 1 + 1 / (2 + 1 / (1 + 1 / 2))",
+      "options": [
+        {
+          "option": "11 / 8",
+          "is_answer": true
+        },
+        {
+          "option": "8 / 11"
+        },
+        {
+          "option": "3 / 8"
+        },
+        {
+          "option": "5 / 8"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate the ladder fraction: 2 - 1 / (2 - 1 / (2 - 1 / 2))",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "3 / 2"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "1 / 2"
+        }
+      ]
+    },
+    {
+      "question": "Find the value of the infinite continued fraction: 5 + 1 / (5 + 1 / (5 + 1 / (5 + ...)))",
+      "options": [
+        {
+          "option": "(5 + √29) / 2",
+          "is_answer": true
+        },
+        {
+          "option": "(5 - √29) / 2"
+        },
+        {
+          "option": "(1 + √29) / 2"
+        },
+        {
+          "option": "5 + √29"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: 1 + 1 / (1 + 2 / (1 + 3 / 4))",
+      "options": [
+        {
+          "option": "15 / 21"
+        },
+        {
+          "option": "8 / 5"
+        },
+        {
+          "option": "21 / 15",
+          "is_answer": true
+        },
+        {
+          "option": "5 / 8"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate the finite continued fraction: 1 + 2 / (1 + 3 / (1 + 4 / 5))",
+      "options": [
+        {
+          "option": "27 / 17",
+          "is_answer": true
+        },
+        {
+          "option": "12 / 17"
+        },
+        {
+          "option": "17 / 27"
+        },
+        {
+          "option": "27 / 12"
+        }
+      ]
+    },
+    {
+      "question": "Simplify the infinite ladder fraction: 1 - 1 / (1 - 1 / (1 - 1 / (1 - ...)))",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "Does not converge",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "Find the number of trailing zeroes in 10!",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "How many zeroes are at the end of 25!?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the number of trailing zeroes in 50!.",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "11"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Determine the number of zeros at the end of 100!.",
+      "options": [
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "22"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "Find the number of trailing zeroes in 120!.",
+      "options": [
+        {
+          "option": "28",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "What is the number of zeroes at the end of 200!?",
+      "options": [
+        {
+          "option": "45"
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "49",
+          "is_answer": true
+        },
+        {
+          "option": "50"
+        }
+      ]
+    },
+    {
+      "question": "Find the number of trailing zeroes in 500!.",
+      "options": [
+        {
+          "option": "100"
+        },
+        {
+          "option": "124",
+          "is_answer": true
+        },
+        {
+          "option": "125"
+        },
+        {
+          "option": "110"
+        }
+      ]
+    },
+    {
+      "question": "How many zeroes are at the end of 1000!?",
+      "options": [
+        {
+          "option": "250"
+        },
+        {
+          "option": "249",
+          "is_answer": true
+        },
+        {
+          "option": "224"
+        },
+        {
+          "option": "200"
+        }
+      ]
+    },
+    {
+      "question": "Find the number of trailing zeroes in 75!.",
+      "options": [
+        {
+          "option": "18",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "Determine the number of zeros at the end of 60!.",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "14",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "Find the number of trailing zeroes in 30!.",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "What is the number of zeroes at the end of 150!?",
+      "options": [
+        {
+          "option": "40"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "35"
+        },
+        {
+          "option": "37",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the number of trailing zeroes in 40!.",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many zeroes are at the end of 80!?",
+      "options": [
+        {
+          "option": "19",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "Find the number of trailing zeroes in 90!.",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "21",
+          "is_answer": true
+        },
+        {
+          "option": "22"
+        }
+      ]
+    },
+    {
+      "question": "Determine the number of zeros at the end of 300!.",
+      "options": [
+        {
+          "option": "60"
+        },
+        {
+          "option": "70"
+        },
+        {
+          "option": "74",
+          "is_answer": true
+        },
+        {
+          "option": "75"
+        }
+      ]
+    },
+    {
+      "question": "Find the number of trailing zeroes in 400!.",
+      "options": [
+        {
+          "option": "80"
+        },
+        {
+          "option": "99",
+          "is_answer": true
+        },
+        {
+          "option": "95"
+        },
+        {
+          "option": "100"
+        }
+      ]
+    },
+    {
+      "question": "What is the number of zeroes at the end of 70!?",
+      "options": [
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "17"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "14"
+        }
+      ]
+    },
+    {
+      "question": "Find the number of trailing zeroes in 600!.",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "150"
+        },
+        {
+          "option": "149",
+          "is_answer": true
+        },
+        {
+          "option": "140"
+        }
+      ]
+    },
+    {
+      "question": "How many zeroes are at the end of 250!?",
+      "options": [
+        {
+          "option": "65"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "62",
+          "is_answer": true
+        },
+        {
+          "option": "50"
+        }
+      ]
+    },
+    {
+      "question": "What is the digital root of 458 using the casting out nines method?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "If a number is multiplied by 9, what is the expected digital root of the product?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the digital root of 789?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "In the digital root method, what operation is performed on the sum of digits?",
+      "options": [
+        {
+          "option": "Modulo 7"
+        },
+        {
+          "option": "Modulo 10"
+        },
+        {
+          "option": "Modulo 9",
+          "is_answer": true
+        },
+        {
+          "option": "Modulo 8"
+        }
+      ]
+    },
+    {
+      "question": "Find the digital root of the sum: 345 + 678.",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "What is the digital root of 999?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "If A has a digital root of 5 and B has a digital root of 7, what is the digital root of A x B?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "Can the digital root method definitively prove an answer is 100% correct?",
+      "options": [
+        {
+          "option": "No, it can only verify if it's potentially correct",
+          "is_answer": true
+        },
+        {
+          "option": "Yes, always"
+        },
+        {
+          "option": "Only for multiplication"
+        },
+        {
+          "option": "Only for addition"
+        }
+      ]
+    },
+    {
+      "question": "What is the digital root of 1000?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the digital root of 846?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "If the digital root of a number is 0, its equivalent modulo 9 digital root is often represented as:",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "Calculate the digital root of 56 x 73.",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which digit acts identically to 0 in the digital root (casting out nines) method?",
+      "options": [
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "What is the digital root of 12345?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "If X - Y = Z, then which relation holds true for their digital roots (DR)?",
+      "options": [
+        {
+          "option": "DR(X) = DR(Y) x DR(Z)"
+        },
+        {
+          "option": "DR(X) x DR(Y) = DR(Z)"
+        },
+        {
+          "option": "DR(X) - DR(Y) = DR(Z) (adjusted modulo 9)",
+          "is_answer": true
+        },
+        {
+          "option": "DR(X) + DR(Y) = DR(Z)"
+        }
+      ]
+    },
+    {
+      "question": "What is the digital root of 9876?",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "Why can the digital root method fail to detect an error?",
+      "options": [
+        {
+          "option": "It cannot process large numbers"
+        },
+        {
+          "option": "It ignores the number 5"
+        },
+        {
+          "option": "It only works for subtraction"
+        },
+        {
+          "option": "Swapped digits (anagrams) have the same digital root",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the digital root of the square of 14 (14 squared).",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the digital root of 2023?",
+      "options": [
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "If the digital roots of both sides of an equation do not match, what can you definitively conclude?",
+      "options": [
+        {
+          "option": "The operation was division"
+        },
+        {
+          "option": "The numbers are prime"
+        },
+        {
+          "option": "The calculation is definitely correct"
+        },
+        {
+          "option": "The calculation is definitely incorrect",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of the following fractions is the largest using cross-multiplication: 5/8 or 7/11?",
+      "options": [
+        {
+          "option": "They are equal"
+        },
+        {
+          "option": "5/8",
+          "is_answer": true
+        },
+        {
+          "option": "7/11"
+        },
+        {
+          "option": "Cannot be determined"
+        }
+      ]
+    },
+    {
+      "question": "Compare 3/5 and 4/7 using cross-multiplication. Which one is greater?",
+      "options": [
+        {
+          "option": "4/7"
+        },
+        {
+          "option": "Both are equal"
+        },
+        {
+          "option": "None of these"
+        },
+        {
+          "option": "3/5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Arrange the fractions 2/3 and 3/5 in descending order using cross-multiplication.",
+      "options": [
+        {
+          "option": "Equal"
+        },
+        {
+          "option": "None"
+        },
+        {
+          "option": "3/5, 2/3"
+        },
+        {
+          "option": "2/3, 3/5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which fraction is smaller between 9/13 and 7/10?",
+      "options": [
+        {
+          "option": "9/13",
+          "is_answer": true
+        },
+        {
+          "option": "Data inadequate"
+        },
+        {
+          "option": "Both are equal"
+        },
+        {
+          "option": "7/10"
+        }
+      ]
+    },
+    {
+      "question": "Using cross-multiplication, find the greater fraction between 11/15 and 13/18.",
+      "options": [
+        {
+          "option": "They are equal"
+        },
+        {
+          "option": "Cannot say"
+        },
+        {
+          "option": "13/18"
+        },
+        {
+          "option": "11/15",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is true for fractions 4/9 and 5/11?",
+      "options": [
+        {
+          "option": "4/9 = 5/11"
+        },
+        {
+          "option": "4/9 > 5/11",
+          "is_answer": true
+        },
+        {
+          "option": "4/9 < 5/11"
+        },
+        {
+          "option": "Comparison not possible"
+        }
+      ]
+    },
+    {
+      "question": "Find the smallest fraction among 3/4, 5/7, and 7/10 by pairwise cross-multiplication.",
+      "options": [
+        {
+          "option": "5/7"
+        },
+        {
+          "option": "All are equal"
+        },
+        {
+          "option": "3/4"
+        },
+        {
+          "option": "7/10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Identify the second largest fraction from the set: 2/5, 4/7, 3/8, 1/2.",
+      "options": [
+        {
+          "option": "2/5"
+        },
+        {
+          "option": "4/7"
+        },
+        {
+          "option": "3/8"
+        },
+        {
+          "option": "1/2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Compare 17/24 and 19/27 using cross-multiplication. Which is greater?",
+      "options": [
+        {
+          "option": "Both are equal"
+        },
+        {
+          "option": "19/27"
+        },
+        {
+          "option": "None"
+        },
+        {
+          "option": "17/24",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Arrange 5/6, 7/9, and 11/12 in ascending order.",
+      "options": [
+        {
+          "option": "5/6, 7/9, 11/12"
+        },
+        {
+          "option": "11/12, 5/6, 7/9"
+        },
+        {
+          "option": "7/9, 11/12, 5/6"
+        },
+        {
+          "option": "7/9, 5/6, 11/12",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which fraction is greater: 13/16 or 15/19?",
+      "options": [
+        {
+          "option": "Cannot determine"
+        },
+        {
+          "option": "Equal"
+        },
+        {
+          "option": "13/16",
+          "is_answer": true
+        },
+        {
+          "option": "15/19"
+        }
+      ]
+    },
+    {
+      "question": "Using cross-multiplication, determine which of 8/15 and 11/20 is larger.",
+      "options": [
+        {
+          "option": "8/15"
+        },
+        {
+          "option": "11/20",
+          "is_answer": true
+        },
+        {
+          "option": "None"
+        },
+        {
+          "option": "Both are equal"
+        }
+      ]
+    },
+    {
+      "question": "Which among 6/11, 5/9, and 7/12 is the greatest?",
+      "options": [
+        {
+          "option": "All are equal"
+        },
+        {
+          "option": "7/12",
+          "is_answer": true
+        },
+        {
+          "option": "6/11"
+        },
+        {
+          "option": "5/9"
+        }
+      ]
+    },
+    {
+      "question": "Compare 23/30 and 19/25 using cross-multiplication. Which is smaller?",
+      "options": [
+        {
+          "option": "23/30"
+        },
+        {
+          "option": "Both are equal"
+        },
+        {
+          "option": "19/25",
+          "is_answer": true
+        },
+        {
+          "option": "None"
+        }
+      ]
+    },
+    {
+      "question": "What is the correct descending order of fractions: 7/8, 11/13, 5/6?",
+      "options": [
+        {
+          "option": "7/8, 11/13, 5/6",
+          "is_answer": true
+        },
+        {
+          "option": "11/13, 7/8, 5/6"
+        },
+        {
+          "option": "7/8, 5/6, 11/13"
+        },
+        {
+          "option": "5/6, 11/13, 7/8"
+        }
+      ]
+    },
+    {
+      "question": "Which fraction is greater between 12/17 and 14/19?",
+      "options": [
+        {
+          "option": "Data insufficient"
+        },
+        {
+          "option": "14/19",
+          "is_answer": true
+        },
+        {
+          "option": "Both are equal"
+        },
+        {
+          "option": "12/17"
+        }
+      ]
+    },
+    {
+      "question": "Using percentage conversion or cross-multiplication, find the smallest among 4/5, 7/8, and 8/10.",
+      "options": [
+        {
+          "option": "4/5",
+          "is_answer": true
+        },
+        {
+          "option": "8/10"
+        },
+        {
+          "option": "7/8"
+        },
+        {
+          "option": "All are equal"
+        }
+      ]
+    },
+    {
+      "question": "If we compare 16/21 and 19/25, which relation is correct?",
+      "options": [
+        {
+          "option": "16/21 < 19/25",
+          "is_answer": true
+        },
+        {
+          "option": "None of these"
+        },
+        {
+          "option": "16/21 = 19/25"
+        },
+        {
+          "option": "16/21 > 19/25"
+        }
+      ]
+    },
+    {
+      "question": "Find the second smallest fraction among 3/7, 2/5, 4/9, and 1/3.",
+      "options": [
+        {
+          "option": "2/5"
+        },
+        {
+          "option": "4/9",
+          "is_answer": true
+        },
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "3/7"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following sets of fractions is arranged correctly in ascending order?",
+      "options": [
+        {
+          "option": "3/5, 7/10, 4/5, 5/6",
+          "is_answer": true
+        },
+        {
+          "option": "5/6, 4/5, 7/10, 3/5"
+        },
+        {
+          "option": "7/10, 3/5, 4/5, 5/6"
+        },
+        {
+          "option": "3/5, 4/5, 7/10, 5/6"
+        }
+      ]
+    },
+    {
+      "question": "Find the total number of factors of 72.",
+      "options": [
+        {
+          "option": "14"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "What is the total number of factors of 108?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "Find the total number of factors of 200.",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "How many factors does the number 360 have?",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "Find the total number of factors of 540.",
+      "options": [
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "26"
+        },
+        {
+          "option": "28"
+        },
+        {
+          "option": "22"
+        }
+      ]
+    },
+    {
+      "question": "What is the total number of factors of 1000?",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "Find the total number of factors of 1440.",
+      "options": [
+        {
+          "option": "36",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "32"
+        }
+      ]
+    },
+    {
+      "question": "Find the total number of factors of 750.",
+      "options": [
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of all factors of 24?",
+      "options": [
+        {
+          "option": "60",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "72"
+        }
+      ]
+    },
+    {
+      "question": "Find the sum of all factors of 36.",
+      "options": [
+        {
+          "option": "84"
+        },
+        {
+          "option": "95"
+        },
+        {
+          "option": "78"
+        },
+        {
+          "option": "91",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of all factors of 50?",
+      "options": [
+        {
+          "option": "93",
+          "is_answer": true
+        },
+        {
+          "option": "96"
+        },
+        {
+          "option": "88"
+        },
+        {
+          "option": "90"
+        }
+      ]
+    },
+    {
+      "question": "Find the sum of all factors of 60.",
+      "options": [
+        {
+          "option": "168",
+          "is_answer": true
+        },
+        {
+          "option": "144"
+        },
+        {
+          "option": "150"
+        },
+        {
+          "option": "180"
+        }
+      ]
+    },
+    {
+      "question": "If N = 2^3 * 3^2, find the total number of factors of N.",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If N = 2^4 * 3^3 * 5^1, find the total number of factors.",
+      "options": [
+        {
+          "option": "40",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "45"
+        }
+      ]
+    },
+    {
+      "question": "Find the total number of factors of 420.",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "24",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the total number of factors of 48?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the total number of factors of 90.",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of all factors of 28?",
+      "options": [
+        {
+          "option": "42"
+        },
+        {
+          "option": "56",
+          "is_answer": true
+        },
+        {
+          "option": "64"
+        },
+        {
+          "option": "48"
+        }
+      ]
+    },
+    {
+      "question": "Find the total number of factors of 64.",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "If N = 2^5 * 5^2, find the total number of factors of N.",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "18",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the total number of even factors of the number 72?",
+      "options": [
+        {
+          "option": 8
+        },
+        {
+          "option": 6
+        },
+        {
+          "option": 12
+        },
+        {
+          "option": 10,
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the number of odd factors of 72.",
+      "options": [
+        {
+          "option": 2,
+          "is_answer": true
+        },
+        {
+          "option": 3
+        },
+        {
+          "option": 4
+        },
+        {
+          "option": 1
+        }
+      ]
+    },
+    {
+      "question": "How many even factors does the number 360 have?",
+      "options": [
+        {
+          "option": 16
+        },
+        {
+          "option": 20,
+          "is_answer": true
+        },
+        {
+          "option": 12
+        },
+        {
+          "option": 24
+        }
+      ]
+    },
+    {
+      "question": "What is the count of odd factors of 360?",
+      "options": [
+        {
+          "option": 8
+        },
+        {
+          "option": 4,
+          "is_answer": true
+        },
+        {
+          "option": 2
+        },
+        {
+          "option": 6
+        }
+      ]
+    },
+    {
+      "question": "Find the number of even factors of 540.",
+      "options": [
+        {
+          "option": 12
+        },
+        {
+          "option": 24
+        },
+        {
+          "option": 20
+        },
+        {
+          "option": 16,
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many odd factors does 540 possess?",
+      "options": [
+        {
+          "option": 8,
+          "is_answer": true
+        },
+        {
+          "option": 6
+        },
+        {
+          "option": 12
+        },
+        {
+          "option": 4
+        }
+      ]
+    },
+    {
+      "question": "What is the number of even factors of 1000?",
+      "options": [
+        {
+          "option": 8
+        },
+        {
+          "option": 16
+        },
+        {
+          "option": 12,
+          "is_answer": true
+        },
+        {
+          "option": 10
+        }
+      ]
+    },
+    {
+      "question": "Find the number of odd factors of 1000.",
+      "options": [
+        {
+          "option": 8
+        },
+        {
+          "option": 6
+        },
+        {
+          "option": 4,
+          "is_answer": true
+        },
+        {
+          "option": 2
+        }
+      ]
+    },
+    {
+      "question": "Calculate the number of even factors of 200.",
+      "options": [
+        {
+          "option": 9,
+          "is_answer": true
+        },
+        {
+          "option": 12
+        },
+        {
+          "option": 8
+        },
+        {
+          "option": 6
+        }
+      ]
+    },
+    {
+      "question": "Calculate the number of odd factors of 200.",
+      "options": [
+        {
+          "option": 3,
+          "is_answer": true
+        },
+        {
+          "option": 6
+        },
+        {
+          "option": 4
+        },
+        {
+          "option": 2
+        }
+      ]
+    },
+    {
+      "question": "What is the total number of even factors of 1080?",
+      "options": [
+        {
+          "option": 32
+        },
+        {
+          "option": 16
+        },
+        {
+          "option": 24,
+          "is_answer": true
+        },
+        {
+          "option": 18
+        }
+      ]
+    },
+    {
+      "question": "Find the count of odd factors of 1080.",
+      "options": [
+        {
+          "option": 4
+        },
+        {
+          "option": 6
+        },
+        {
+          "option": 8,
+          "is_answer": true
+        },
+        {
+          "option": 12
+        }
+      ]
+    },
+    {
+      "question": "How many even factors does the number 300 have?",
+      "options": [
+        {
+          "option": 9
+        },
+        {
+          "option": 6
+        },
+        {
+          "option": 15
+        },
+        {
+          "option": 12,
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the number of odd factors of 300.",
+      "options": [
+        {
+          "option": 6,
+          "is_answer": true
+        },
+        {
+          "option": 4
+        },
+        {
+          "option": 3
+        },
+        {
+          "option": 8
+        }
+      ]
+    },
+    {
+      "question": "What is the number of even factors of 450?",
+      "options": [
+        {
+          "option": 18
+        },
+        {
+          "option": 6
+        },
+        {
+          "option": 12,
+          "is_answer": true
+        },
+        {
+          "option": 9
+        }
+      ]
+    },
+    {
+      "question": "Find the number of odd factors of 450.",
+      "options": [
+        {
+          "option": 8
+        },
+        {
+          "option": 6,
+          "is_answer": true
+        },
+        {
+          "option": 4
+        },
+        {
+          "option": 12
+        }
+      ]
+    },
+    {
+      "question": "How many even factors are there for the number 1200?",
+      "options": [
+        {
+          "option": 18
+        },
+        {
+          "option": 20,
+          "is_answer": true
+        },
+        {
+          "option": 24
+        },
+        {
+          "option": 15
+        }
+      ]
+    },
+    {
+      "question": "What is the count of odd factors of 1200?",
+      "options": [
+        {
+          "option": 6
+        },
+        {
+          "option": 12
+        },
+        {
+          "option": 10,
+          "is_answer": true
+        },
+        {
+          "option": 8
+        }
+      ]
+    },
+    {
+      "question": "Find the number of even factors of 900.",
+      "options": [
+        {
+          "option": 15
+        },
+        {
+          "option": 18,
+          "is_answer": true
+        },
+        {
+          "option": 12
+        },
+        {
+          "option": 24
+        }
+      ]
+    },
+    {
+      "question": "Find the number of odd factors of 900.",
+      "options": [
+        {
+          "option": 12
+        },
+        {
+          "option": 8
+        },
+        {
+          "option": 9,
+          "is_answer": true
+        },
+        {
+          "option": 6
+        }
+      ]
+    },
+    {
+      "question": "What is the value of Euler's totient function phi(10)?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "Find the number of positive integers less than or equal to 15 that are coprime to 15.",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "What is phi(p) where p is a prime number?",
+      "options": [
+        {
+          "option": "p / 2"
+        },
+        {
+          "option": "p - 1",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "p"
+        }
+      ]
+    },
+    {
+      "question": "Calculate the value of phi(7).",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of phi(1) by convention?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "infinite"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "undefined"
+        }
+      ]
+    },
+    {
+      "question": "Find phi(12) using the Euler's totient formula.",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is phi(20)?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "If p is a prime number, what is phi(p^2)?",
+      "options": [
+        {
+          "option": "p^2 - 1"
+        },
+        {
+          "option": "p(p-1)"
+        },
+        {
+          "option": "p^2 - p",
+          "is_answer": true
+        },
+        {
+          "option": "p^2"
+        }
+      ]
+    },
+    {
+      "question": "Calculate phi(9).",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is equal to phi(25)?",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of phi(30)?",
+      "options": [
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "Euler's totient function phi(N) is multiplicative. If gcd(a, b) = 1, then phi(a * b) equals:",
+      "options": [
+        {
+          "option": "phi(a) + phi(b)"
+        },
+        {
+          "option": "a * phi(b)"
+        },
+        {
+          "option": "phi(a + b)"
+        },
+        {
+          "option": "phi(a) * phi(b)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the value of phi(11).",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "11"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the number of integers coprime to 18 and less than 18?",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "Calculate phi(16).",
+      "options": [
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "What is phi(14)?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "For any prime p and integer k >= 1, the formula for phi(p^k) is:",
+      "options": [
+        {
+          "option": "k * phi(p)"
+        },
+        {
+          "option": "p^k - 1"
+        },
+        {
+          "option": "p^(k-1)"
+        },
+        {
+          "option": "p^k - p^(k-1)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the value of phi(21).",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "14"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of phi(8)?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "Calculate phi(27).",
+      "options": [
+        {
+          "option": "21"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "18",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate the expression: |5 - 8| + |3 - 7|",
+      "options": [
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "11"
+        },
+        {
+          "option": "-7"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: |-4| - |-9| + |5|",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "-8"
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "Find the value of ||-3 - 2| - |1 - 6||",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "-5"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: |x - 3| when x = -2",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "-5"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "What is the simplified value of |2(-3) + 4| - |-5 + 2|?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Evaluate the expression: |-7| × |-2| / | -4 |",
+      "options": [
+        {
+          "option": "3.5",
+          "is_answer": true
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "-3.5"
+        }
+      ]
+    },
+    {
+      "question": "Simplify the nested absolute value: ||| -2 | - 5 | - 10 |",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "-7"
+        },
+        {
+          "option": "13"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the value of |x - y| if x = -4 and y = 6",
+      "options": [
+        {
+          "option": "-2"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "-10"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: |3 - x| + |x - 5| when x = 4",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-2"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: | -12 / 4 | + | -20 / 5 |",
+      "options": [
+        {
+          "option": "-7"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "11"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of | 5 - | -5 ||?",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "-10"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: -|-8| - (-|8|)",
+      "options": [
+        {
+          "option": "-16"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "Simplify the expression: | 2x - 6 | when x = 1",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "-4"
+        },
+        {
+          "option": "-8"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "Find the value of | -9 + 4 | + | 3 - 8 |",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "-10"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: ||-6| - |2| | × | -3 |",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-12"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: |(-2) × (-3)| - |-5 + 2|",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "-3"
+        }
+      ]
+    },
+    {
+      "question": "What is the value of |x| + |y| - |x + y| if x = -5 and y = 3?",
+      "options": [
+        {
+          "option": "-6"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: | 7 - 10 | × | 2 - 5 |",
+      "options": [
+        {
+          "option": "81"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "-9"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: ||-8| + |-2|| - |-5|",
+      "options": [
+        {
+          "option": "-5"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "11"
+        }
+      ]
+    },
+    {
+      "question": "Find the value of | 3 - x | / | x - 3 | when x = 7",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: log_2(8) + log_2(4)",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Simplify: log_3(81) - log_3(9)",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "Find the value of log_5(125^2)",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: log_10(5) + log_10(20)",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of log_7(1)?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "Not defined"
+        }
+      ]
+    },
+    {
+      "question": "Simplify using change of base: log_2(9) * log_3(8)",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: log_4(64) / log_4(4)",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "If log_x(64) = 3, find x.",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: 2 log_10(5) + log_10(4)",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: log_2(32) - log_2(16) + log_2(8)",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of log_a(a^5)?",
+      "options": [
+        {
+          "option": "a"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "5a"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Simplify: log_10(1000) - 2 log_10(10)",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: log_3(1/27)",
+      "options": [
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "-3",
+          "is_answer": true
+        },
+        {
+          "option": "-1/3"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "Find x if log_3(x) = 4",
+      "options": [
+        {
+          "option": "81",
+          "is_answer": true
+        },
+        {
+          "option": "27"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "64"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: log_5(625) + log_6(216)",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "11"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: log_2(3) + log_2(4) - log_2(6)",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is 3 * log_10(2) + log_10(125)?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: log_10(0.01)",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "-2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the value of log_2(log_3(81))",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: log_a(b) * log_b(c) * log_c(a)",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "a+b+c"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "abc"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: $\\sqrt{5 + 2\\sqrt{6}} + \\sqrt{8 - 2\\sqrt{15}}$",
+      "options": [
+        {
+          "option": "\\sqrt{2} + \\sqrt{3}"
+        },
+        {
+          "option": "\\sqrt{5} - \\sqrt{2}"
+        },
+        {
+          "option": "2\\sqrt{3}"
+        },
+        {
+          "option": "\\sqrt{3} + \\sqrt{5}",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the value of $\\frac{1}{3 + \\sqrt{8}} - \\frac{1}{\\sqrt{8} + \\sqrt{7}} + \\frac{1}{\\sqrt{7} + \\sqrt{6}} - \\frac{1}{\\sqrt{6} + \\sqrt{5}} + \\frac{1}{\\sqrt{5} + 2}$",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "\\sqrt{5}"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: $\\left(1 - \\frac{1}{3}\\right)\\left(1 - \\frac{1}{4}\\right)\\left(1 - \\frac{1}{5}\\right)\\dots\\left(1 - \\frac{1}{n}\\right)$ when $n=100$",
+      "options": [
+        {
+          "option": "\\frac{1}{99}"
+        },
+        {
+          "option": "\\frac{1}{100}",
+          "is_answer": true
+        },
+        {
+          "option": "\\frac{1}{50}"
+        },
+        {
+          "option": "\\frac{2}{99}"
+        }
+      ]
+    },
+    {
+      "question": "If $x = \\frac{\\sqrt{5} + 1}{\\sqrt{5} - 1}$ and $y = \\frac{\\sqrt{5} - 1}{\\sqrt{5} + 1}$, find the value of $x^2 + y^2 + xy$",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Simplify: $\\sqrt[3]{175616} + \\sqrt{4624} - \\sqrt[4]{1296}$",
+      "options": [
+        {
+          "option": "102"
+        },
+        {
+          "option": "94"
+        },
+        {
+          "option": "98",
+          "is_answer": true
+        },
+        {
+          "option": "106"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: $\\frac{(0.05)^2 + (0.41)^2 + (0.073)^2}{(0.005)^2 + (0.041)^2 + (0.0073)^2}$",
+      "options": [
+        {
+          "option": "1000"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "100",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: $\\left[\\left(-\\frac{1}{2}\\right)^{-2}\\right]^{-2}$",
+      "options": [
+        {
+          "option": "16"
+        },
+        {
+          "option": "-\\frac{1}{16}"
+        },
+        {
+          "option": "-16"
+        },
+        {
+          "option": "\\frac{1}{16}",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the value of $\\sqrt{12 + \\sqrt{12 + \\sqrt{12 + \\dots \\infty}}}$",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "2\\sqrt{3}"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: $\\frac{3.75 \\times 3.75 - 2.25 \\times 2.25}{3.75 + 2.25}$",
+      "options": [
+        {
+          "option": "2.5"
+        },
+        {
+          "option": "1.5",
+          "is_answer": true
+        },
+        {
+          "option": "1.2"
+        },
+        {
+          "option": "6.0"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: $\\sqrt{7 + \\sqrt{5}} \\times \\sqrt{7 - \\sqrt{5}}$",
+      "options": [
+        {
+          "option": "44"
+        },
+        {
+          "option": "\\sqrt{44}"
+        },
+        {
+          "option": "2\\sqrt{6}"
+        },
+        {
+          "option": "2\\sqrt{11}",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If $x = 3 + 2\\sqrt{2}$, find the value of $\\sqrt{x} - \\frac{1}{\\sqrt{x}}$",
+      "options": [
+        {
+          "option": "2\\sqrt{2}"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "\\sqrt{2}"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: $\\frac{0.1 \\times 0.1 \\times 0.1 + 0.02 \\times 0.02 \\times 0.02}{0.2 \\times 0.2 \\times 0.2 + 0.04 \\times 0.04 \\times 0.04}$",
+      "options": [
+        {
+          "option": "\\frac{1}{4}"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "\\frac{1}{8}",
+          "is_answer": true
+        },
+        {
+          "option": "\\frac{1}{2}"
+        }
+      ]
+    },
+    {
+      "question": "Find the value of $7^{0.5} \\times 343^{1/3} \\times 49^{0.25} \\div 7^{1.5}$",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "49"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "\\frac{1}{7}"
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: $\\left(1 + \\frac{1}{10}\right)\\left(1 + \\frac{1}{11}\right)\\left(1 + \\frac{1}{12}\right)\\dots\\left(1 + \\frac{1}{99}\right)$",
+      "options": [
+        {
+          "option": "\\frac{99}{10}"
+        },
+        {
+          "option": "11"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Simplify: $\\frac{5.32 \\times 5.32 + 4.68 \\times 4.68 + 2 \\times 5.32 \\times 4.68}{5.32 \\times 5.32 - 4.68 \\times 4.68}$",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "15.625",
+          "is_answer": true
+        },
+        {
+          "option": "12.5"
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "If $x + \\frac{1}{x} = 5$, find the value of $\\frac{x^4 + 3x^3 + 5x^2 + 3x + 1}{x^4 + 1}$",
+      "options": [
+        {
+          "option": "\\frac{65}{23}"
+        },
+        {
+          "option": "\\frac{47}{21}"
+        },
+        {
+          "option": "\\frac{51}{23}"
+        },
+        {
+          "option": "\\frac{63}{23}",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Evaluate: $\\sqrt[3]{500} \\times \\sqrt[3]{54} \\times \\sqrt[3]{16} \\div \\sqrt[3]{24}$",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "40"
+        }
+      ]
+    },
+    {
+      "question": "Simplify: $\\frac{1}{1 + \\frac{1}{1 + \\frac{1}{1 + \\frac{1}{2}}}}$",
+      "options": [
+        {
+          "option": "\\frac{3}{5}"
+        },
+        {
+          "option": "\\frac{8}{5}"
+        },
+        {
+          "option": "\\frac{5}{3}"
+        },
+        {
+          "option": "\\frac{5}{8}",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If $a + b + c = 9$ and $ab + bc + ca = 26$, find the value of $a^3 + b^3 + c^3 - 3abc$",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "81"
+        },
+        {
+          "option": "27",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the value of $\\sqrt{56 - \\sqrt{56 - \\sqrt{56 - \\dots \\infty}}}$",
+      "options": [
+        {
+          "option": "14"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    }
+  ]
+}

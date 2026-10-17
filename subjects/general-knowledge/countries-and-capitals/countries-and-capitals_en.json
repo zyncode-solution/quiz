@@ -1,0 +1,9005 @@
+{
+  "total_questions": 500,
+  "questions": [
+    {
+      "question": "What is the capital city of Kazakhstan?",
+      "options": [
+        {
+          "option": "Shymkent"
+        },
+        {
+          "option": "Almaty"
+        },
+        {
+          "option": "Karaganda"
+        },
+        {
+          "option": "Astana",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which city serves as the capital of Uzbekistan?",
+      "options": [
+        {
+          "option": "Khiva"
+        },
+        {
+          "option": "Bukhara"
+        },
+        {
+          "option": "Tashkent",
+          "is_answer": true
+        },
+        {
+          "option": "Samarkand"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Iran?",
+      "options": [
+        {
+          "option": "Isfahan"
+        },
+        {
+          "option": "Tabriz"
+        },
+        {
+          "option": "Shiraz"
+        },
+        {
+          "option": "Tehran",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of Iraq?",
+      "options": [
+        {
+          "option": "Basra"
+        },
+        {
+          "option": "Erbil"
+        },
+        {
+          "option": "Baghdad",
+          "is_answer": true
+        },
+        {
+          "option": "Mosul"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital city of Saudi Arabia?",
+      "options": [
+        {
+          "option": "Jeddah"
+        },
+        {
+          "option": "Mecca"
+        },
+        {
+          "option": "Medina"
+        },
+        {
+          "option": "Riyadh",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of the United Arab Emirates?",
+      "options": [
+        {
+          "option": "Dubai"
+        },
+        {
+          "option": "Ajman"
+        },
+        {
+          "option": "Sharjah"
+        },
+        {
+          "option": "Abu Dhabi",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Qatar?",
+      "options": [
+        {
+          "option": "Al Khor"
+        },
+        {
+          "option": "Al Wakrah"
+        },
+        {
+          "option": "Doha",
+          "is_answer": true
+        },
+        {
+          "option": "Dukhan"
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of Turkey?",
+      "options": [
+        {
+          "option": "Istanbul"
+        },
+        {
+          "option": "Antalya"
+        },
+        {
+          "option": "Ankara",
+          "is_answer": true
+        },
+        {
+          "option": "Izmir"
+        }
+      ]
+    },
+    {
+      "question": "Astana is the capital of which Central Asian country?",
+      "options": [
+        {
+          "option": "Kazakhstan",
+          "is_answer": true
+        },
+        {
+          "option": "Tajikistan"
+        },
+        {
+          "option": "Kyrgyzstan"
+        },
+        {
+          "option": "Turkmenistan"
+        }
+      ]
+    },
+    {
+      "question": "Tashkent is the capital city of which nation?",
+      "options": [
+        {
+          "option": "Afghanistan"
+        },
+        {
+          "option": "Pakistan"
+        },
+        {
+          "option": "Uzbekistan",
+          "is_answer": true
+        },
+        {
+          "option": "Kazakhstan"
+        }
+      ]
+    },
+    {
+      "question": "Tehran serves as the capital of which country?",
+      "options": [
+        {
+          "option": "Syria"
+        },
+        {
+          "option": "Iraq"
+        },
+        {
+          "option": "Jordan"
+        },
+        {
+          "option": "Iran",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Baghdad is the capital of which Middle Eastern country?",
+      "options": [
+        {
+          "option": "Lebanon"
+        },
+        {
+          "option": "Kuwait"
+        },
+        {
+          "option": "Iran"
+        },
+        {
+          "option": "Iraq",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Riyadh is the capital city of which country?",
+      "options": [
+        {
+          "option": "Bahrain"
+        },
+        {
+          "option": "Oman"
+        },
+        {
+          "option": "Saudi Arabia",
+          "is_answer": true
+        },
+        {
+          "option": "Yemen"
+        }
+      ]
+    },
+    {
+      "question": "Abu Dhabi is the capital of which country?",
+      "options": [
+        {
+          "option": "Kuwait"
+        },
+        {
+          "option": "Oman"
+        },
+        {
+          "option": "Qatar"
+        },
+        {
+          "option": "UAE",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Doha is the capital of which nation?",
+      "options": [
+        {
+          "option": "Qatar",
+          "is_answer": true
+        },
+        {
+          "option": "Bahrain"
+        },
+        {
+          "option": "Saudi Arabia"
+        },
+        {
+          "option": "UAE"
+        }
+      ]
+    },
+    {
+      "question": "Ankara is the capital of which country?",
+      "options": [
+        {
+          "option": "Armenia"
+        },
+        {
+          "option": "Turkey",
+          "is_answer": true
+        },
+        {
+          "option": "Cyprus"
+        },
+        {
+          "option": "Greece"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Kazakhstan?",
+      "options": [
+        {
+          "option": "Bishkek"
+        },
+        {
+          "option": "Dushanbe"
+        },
+        {
+          "option": "Ashgabat"
+        },
+        {
+          "option": "Astana",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Uzbekistan?",
+      "options": [
+        {
+          "option": "Astana"
+        },
+        {
+          "option": "Ashgabat"
+        },
+        {
+          "option": "Tashkent",
+          "is_answer": true
+        },
+        {
+          "option": "Baku"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Iran?",
+      "options": [
+        {
+          "option": "Ankara"
+        },
+        {
+          "option": "Riyadh"
+        },
+        {
+          "option": "Baghdad"
+        },
+        {
+          "option": "Tehran",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Turkey?",
+      "options": [
+        {
+          "option": "Ankara",
+          "is_answer": true
+        },
+        {
+          "option": "Tehran"
+        },
+        {
+          "option": "Doha"
+        },
+        {
+          "option": "Abu Dhabi"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital city of France?",
+      "options": [
+        {
+          "option": "Paris",
+          "is_answer": true
+        },
+        {
+          "option": "Berlin"
+        },
+        {
+          "option": "Dublin"
+        },
+        {
+          "option": "London"
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of the United Kingdom?",
+      "options": [
+        {
+          "option": "London",
+          "is_answer": true
+        },
+        {
+          "option": "Vienna"
+        },
+        {
+          "option": "Brussels"
+        },
+        {
+          "option": "Amsterdam"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Germany?",
+      "options": [
+        {
+          "option": "Bern"
+        },
+        {
+          "option": "Brussels"
+        },
+        {
+          "option": "Paris"
+        },
+        {
+          "option": "Berlin",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which city serves as the capital of the Netherlands?",
+      "options": [
+        {
+          "option": "London"
+        },
+        {
+          "option": "Vienna"
+        },
+        {
+          "option": "Amsterdam",
+          "is_answer": true
+        },
+        {
+          "option": "Dublin"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital city of Belgium?",
+      "options": [
+        {
+          "option": "Paris"
+        },
+        {
+          "option": "Brussels",
+          "is_answer": true
+        },
+        {
+          "option": "Bern"
+        },
+        {
+          "option": "Berlin"
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of Ireland?",
+      "options": [
+        {
+          "option": "London"
+        },
+        {
+          "option": "Bern"
+        },
+        {
+          "option": "Dublin",
+          "is_answer": true
+        },
+        {
+          "option": "Amsterdam"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Austria?",
+      "options": [
+        {
+          "option": "London"
+        },
+        {
+          "option": "Paris"
+        },
+        {
+          "option": "Brussels"
+        },
+        {
+          "option": "Vienna",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of Switzerland?",
+      "options": [
+        {
+          "option": "Berlin"
+        },
+        {
+          "option": "Dublin"
+        },
+        {
+          "option": "Bern",
+          "is_answer": true
+        },
+        {
+          "option": "Amsterdam"
+        }
+      ]
+    },
+    {
+      "question": "Paris is the capital of which country?",
+      "options": [
+        {
+          "option": "Austria"
+        },
+        {
+          "option": "Belgium"
+        },
+        {
+          "option": "France",
+          "is_answer": true
+        },
+        {
+          "option": "Germany"
+        }
+      ]
+    },
+    {
+      "question": "London is the capital of which country?",
+      "options": [
+        {
+          "option": "United Kingdom",
+          "is_answer": true
+        },
+        {
+          "option": "Ireland"
+        },
+        {
+          "option": "Netherlands"
+        },
+        {
+          "option": "Switzerland"
+        }
+      ]
+    },
+    {
+      "question": "Berlin is the capital of which country?",
+      "options": [
+        {
+          "option": "Belgium"
+        },
+        {
+          "option": "Germany",
+          "is_answer": true
+        },
+        {
+          "option": "Austria"
+        },
+        {
+          "option": "France"
+        }
+      ]
+    },
+    {
+      "question": "Amsterdam is the capital of which country?",
+      "options": [
+        {
+          "option": "Netherlands",
+          "is_answer": true
+        },
+        {
+          "option": "Switzerland"
+        },
+        {
+          "option": "United Kingdom"
+        },
+        {
+          "option": "Ireland"
+        }
+      ]
+    },
+    {
+      "question": "Brussels is the capital of which country?",
+      "options": [
+        {
+          "option": "Belgium",
+          "is_answer": true
+        },
+        {
+          "option": "France"
+        },
+        {
+          "option": "Germany"
+        },
+        {
+          "option": "Austria"
+        }
+      ]
+    },
+    {
+      "question": "Dublin is the capital of which country?",
+      "options": [
+        {
+          "option": "United Kingdom"
+        },
+        {
+          "option": "Switzerland"
+        },
+        {
+          "option": "Ireland",
+          "is_answer": true
+        },
+        {
+          "option": "Netherlands"
+        }
+      ]
+    },
+    {
+      "question": "Vienna is the capital of which country?",
+      "options": [
+        {
+          "option": "Germany"
+        },
+        {
+          "option": "Belgium"
+        },
+        {
+          "option": "Austria",
+          "is_answer": true
+        },
+        {
+          "option": "France"
+        }
+      ]
+    },
+    {
+      "question": "Bern is the capital of which country?",
+      "options": [
+        {
+          "option": "Germany"
+        },
+        {
+          "option": "Austria"
+        },
+        {
+          "option": "Netherlands"
+        },
+        {
+          "option": "Switzerland",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Belgium?",
+      "options": [
+        {
+          "option": "Paris"
+        },
+        {
+          "option": "Brussels",
+          "is_answer": true
+        },
+        {
+          "option": "Berlin"
+        },
+        {
+          "option": "London"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Austria?",
+      "options": [
+        {
+          "option": "Vienna",
+          "is_answer": true
+        },
+        {
+          "option": "Amsterdam"
+        },
+        {
+          "option": "Dublin"
+        },
+        {
+          "option": "Bern"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Switzerland?",
+      "options": [
+        {
+          "option": "Brussels"
+        },
+        {
+          "option": "Bern",
+          "is_answer": true
+        },
+        {
+          "option": "Paris"
+        },
+        {
+          "option": "London"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of the Netherlands?",
+      "options": [
+        {
+          "option": "Dublin"
+        },
+        {
+          "option": "Berlin"
+        },
+        {
+          "option": "Vienna"
+        },
+        {
+          "option": "Amsterdam",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the capital city of Italy?",
+      "options": [
+        {
+          "option": "Florence"
+        },
+        {
+          "option": "Milan"
+        },
+        {
+          "option": "Rome",
+          "is_answer": true
+        },
+        {
+          "option": "Naples"
+        }
+      ]
+    },
+    {
+      "question": "Which city serves as the capital of Spain?",
+      "options": [
+        {
+          "option": "Seville"
+        },
+        {
+          "option": "Barcelona"
+        },
+        {
+          "option": "Madrid",
+          "is_answer": true
+        },
+        {
+          "option": "Valencia"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Portugal?",
+      "options": [
+        {
+          "option": "Coimbra"
+        },
+        {
+          "option": "Porto"
+        },
+        {
+          "option": "Braga"
+        },
+        {
+          "option": "Lisbon",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of Greece?",
+      "options": [
+        {
+          "option": "Heraklion"
+        },
+        {
+          "option": "Athens",
+          "is_answer": true
+        },
+        {
+          "option": "Patras"
+        },
+        {
+          "option": "Thessaloniki"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Cyprus?",
+      "options": [
+        {
+          "option": "Limassol"
+        },
+        {
+          "option": "Nicosia",
+          "is_answer": true
+        },
+        {
+          "option": "Paphos"
+        },
+        {
+          "option": "Larnaca"
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of Malta?",
+      "options": [
+        {
+          "option": "Sliema"
+        },
+        {
+          "option": "Valletta",
+          "is_answer": true
+        },
+        {
+          "option": "Birkirkara"
+        },
+        {
+          "option": "Mdina"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Croatia?",
+      "options": [
+        {
+          "option": "Zadar"
+        },
+        {
+          "option": "Split"
+        },
+        {
+          "option": "Rijeka"
+        },
+        {
+          "option": "Zagreb",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Rome is the capital of which Southern European country?",
+      "options": [
+        {
+          "option": "Spain"
+        },
+        {
+          "option": "Greece"
+        },
+        {
+          "option": "Italy",
+          "is_answer": true
+        },
+        {
+          "option": "Croatia"
+        }
+      ]
+    },
+    {
+      "question": "Madrid is the capital city of which nation?",
+      "options": [
+        {
+          "option": "Malta"
+        },
+        {
+          "option": "Spain",
+          "is_answer": true
+        },
+        {
+          "option": "Portugal"
+        },
+        {
+          "option": "Italy"
+        }
+      ]
+    },
+    {
+      "question": "Lisbon is the capital of which country?",
+      "options": [
+        {
+          "option": "Spain"
+        },
+        {
+          "option": "Cyprus"
+        },
+        {
+          "option": "Greece"
+        },
+        {
+          "option": "Portugal",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Athens is the capital of which country?",
+      "options": [
+        {
+          "option": "Cyprus"
+        },
+        {
+          "option": "Italy"
+        },
+        {
+          "option": "Croatia"
+        },
+        {
+          "option": "Greece",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Nicosia is the capital of which island nation?",
+      "options": [
+        {
+          "option": "Malta"
+        },
+        {
+          "option": "Greece"
+        },
+        {
+          "option": "Italy"
+        },
+        {
+          "option": "Cyprus",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Valletta is the capital of which country?",
+      "options": [
+        {
+          "option": "Malta",
+          "is_answer": true
+        },
+        {
+          "option": "Spain"
+        },
+        {
+          "option": "Portugal"
+        },
+        {
+          "option": "Cyprus"
+        }
+      ]
+    },
+    {
+      "question": "Zagreb is the capital of which country?",
+      "options": [
+        {
+          "option": "Croatia",
+          "is_answer": true
+        },
+        {
+          "option": "Greece"
+        },
+        {
+          "option": "Portugal"
+        },
+        {
+          "option": "Italy"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Italy?",
+      "options": [
+        {
+          "option": "Athens"
+        },
+        {
+          "option": "Rome",
+          "is_answer": true
+        },
+        {
+          "option": "Madrid"
+        },
+        {
+          "option": "Lisbon"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Spain?",
+      "options": [
+        {
+          "option": "Madrid",
+          "is_answer": true
+        },
+        {
+          "option": "Valletta"
+        },
+        {
+          "option": "Rome"
+        },
+        {
+          "option": "Zagreb"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Portugal?",
+      "options": [
+        {
+          "option": "Lisbon",
+          "is_answer": true
+        },
+        {
+          "option": "Nicosia"
+        },
+        {
+          "option": "Athens"
+        },
+        {
+          "option": "Rome"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Greece?",
+      "options": [
+        {
+          "option": "Madrid"
+        },
+        {
+          "option": "Lisbon"
+        },
+        {
+          "option": "Zagreb"
+        },
+        {
+          "option": "Athens",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Cyprus?",
+      "options": [
+        {
+          "option": "Rome"
+        },
+        {
+          "option": "Madrid"
+        },
+        {
+          "option": "Valletta"
+        },
+        {
+          "option": "Nicosia",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Croatia?",
+      "options": [
+        {
+          "option": "Nicosia"
+        },
+        {
+          "option": "Zagreb",
+          "is_answer": true
+        },
+        {
+          "option": "Lisbon"
+        },
+        {
+          "option": "Athens"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital city of Indonesia?",
+      "options": [
+        {
+          "option": "Bali"
+        },
+        {
+          "option": "Surabaya"
+        },
+        {
+          "option": "Bandung"
+        },
+        {
+          "option": "Jakarta/Nusantara",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which city serves as the capital of Malaysia?",
+      "options": [
+        {
+          "option": "Ipoh"
+        },
+        {
+          "option": "Johor Bahru"
+        },
+        {
+          "option": "Kuala Lumpur",
+          "is_answer": true
+        },
+        {
+          "option": "Penang"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Thailand?",
+      "options": [
+        {
+          "option": "Chiang Mai"
+        },
+        {
+          "option": "Pattaya"
+        },
+        {
+          "option": "Bangkok",
+          "is_answer": true
+        },
+        {
+          "option": "Phuket"
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of Vietnam?",
+      "options": [
+        {
+          "option": "Hanoi",
+          "is_answer": true
+        },
+        {
+          "option": "Ho Chi Minh City"
+        },
+        {
+          "option": "Haiphong"
+        },
+        {
+          "option": "Da Nang"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of the Philippines?",
+      "options": [
+        {
+          "option": "Quezon City"
+        },
+        {
+          "option": "Manila",
+          "is_answer": true
+        },
+        {
+          "option": "Davao City"
+        },
+        {
+          "option": "Cebu City"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Singapore?",
+      "options": [
+        {
+          "option": "Tampines"
+        },
+        {
+          "option": "Jurong"
+        },
+        {
+          "option": "Singapore",
+          "is_answer": true
+        },
+        {
+          "option": "Woodlands"
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of Myanmar?",
+      "options": [
+        {
+          "option": "Yangon"
+        },
+        {
+          "option": "Mandalay"
+        },
+        {
+          "option": "Naypyidaw",
+          "is_answer": true
+        },
+        {
+          "option": "Bagan"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Cambodia?",
+      "options": [
+        {
+          "option": "Battambang"
+        },
+        {
+          "option": "Siem Reap"
+        },
+        {
+          "option": "Sihanoukville"
+        },
+        {
+          "option": "Phnom Penh",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Indonesia?",
+      "options": [
+        {
+          "option": "Jakarta",
+          "is_answer": true
+        },
+        {
+          "option": "Palembang"
+        },
+        {
+          "option": "Medan"
+        },
+        {
+          "option": "Makassar"
+        }
+      ]
+    },
+    {
+      "question": "Kuala Lumpur is the capital of which country?",
+      "options": [
+        {
+          "option": "Indonesia"
+        },
+        {
+          "option": "Malaysia",
+          "is_answer": true
+        },
+        {
+          "option": "Thailand"
+        },
+        {
+          "option": "Vietnam"
+        }
+      ]
+    },
+    {
+      "question": "Bangkok is the capital city of which Southeast Asian nation?",
+      "options": [
+        {
+          "option": "Cambodia"
+        },
+        {
+          "option": "Myanmar"
+        },
+        {
+          "option": "Philippines"
+        },
+        {
+          "option": "Thailand",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Hanoi is the capital of which country?",
+      "options": [
+        {
+          "option": "Malaysia"
+        },
+        {
+          "option": "Indonesia"
+        },
+        {
+          "option": "Vietnam",
+          "is_answer": true
+        },
+        {
+          "option": "Singapore"
+        }
+      ]
+    },
+    {
+      "question": "Manila is the capital city of which country?",
+      "options": [
+        {
+          "option": "Vietnam"
+        },
+        {
+          "option": "Myanmar"
+        },
+        {
+          "option": "Philippines",
+          "is_answer": true
+        },
+        {
+          "option": "Thailand"
+        }
+      ]
+    },
+    {
+      "question": "Naypyidaw serves as the capital of which country?",
+      "options": [
+        {
+          "option": "Vietnam"
+        },
+        {
+          "option": "Myanmar",
+          "is_answer": true
+        },
+        {
+          "option": "Malaysia"
+        },
+        {
+          "option": "Cambodia"
+        }
+      ]
+    },
+    {
+      "question": "Phnom Penh is the capital of which nation?",
+      "options": [
+        {
+          "option": "Indonesia"
+        },
+        {
+          "option": "Cambodia",
+          "is_answer": true
+        },
+        {
+          "option": "Philippines"
+        },
+        {
+          "option": "Thailand"
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of Indonesia?",
+      "options": [
+        {
+          "option": "Hanoi"
+        },
+        {
+          "option": "Phnom Penh"
+        },
+        {
+          "option": "Manila"
+        },
+        {
+          "option": "Jakarta",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Malaysia?",
+      "options": [
+        {
+          "option": "Naypyidaw"
+        },
+        {
+          "option": "Bangkok"
+        },
+        {
+          "option": "Singapore"
+        },
+        {
+          "option": "Kuala Lumpur",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which country has Bangkok as its capital?",
+      "options": [
+        {
+          "option": "Vietnam"
+        },
+        {
+          "option": "Philippines"
+        },
+        {
+          "option": "Myanmar"
+        },
+        {
+          "option": "Thailand",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Vietnam?",
+      "options": [
+        {
+          "option": "Hanoi",
+          "is_answer": true
+        },
+        {
+          "option": "Kuala Lumpur"
+        },
+        {
+          "option": "Jakarta"
+        },
+        {
+          "option": "Manila"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital city of Poland?",
+      "options": [
+        {
+          "option": "Gdansk"
+        },
+        {
+          "option": "Warsaw",
+          "is_answer": true
+        },
+        {
+          "option": "Wroclaw"
+        },
+        {
+          "option": "Krakow"
+        }
+      ]
+    },
+    {
+      "question": "Which city serves as the capital of Ukraine?",
+      "options": [
+        {
+          "option": "Odesa"
+        },
+        {
+          "option": "Kyiv",
+          "is_answer": true
+        },
+        {
+          "option": "Kharkiv"
+        },
+        {
+          "option": "Lviv"
+        }
+      ]
+    },
+    {
+      "question": "Prague is the capital city of which country?",
+      "options": [
+        {
+          "option": "Czechia",
+          "is_answer": true
+        },
+        {
+          "option": "Austria"
+        },
+        {
+          "option": "Slovakia"
+        },
+        {
+          "option": "Hungary"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Hungary?",
+      "options": [
+        {
+          "option": "Budapest",
+          "is_answer": true
+        },
+        {
+          "option": "Pecs"
+        },
+        {
+          "option": "Debrecen"
+        },
+        {
+          "option": "Szeged"
+        }
+      ]
+    },
+    {
+      "question": "Bucharest is the capital of which Eastern European nation?",
+      "options": [
+        {
+          "option": "Moldova"
+        },
+        {
+          "option": "Serbia"
+        },
+        {
+          "option": "Romania",
+          "is_answer": true
+        },
+        {
+          "option": "Bulgaria"
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of Bulgaria?",
+      "options": [
+        {
+          "option": "Burgas"
+        },
+        {
+          "option": "Varna"
+        },
+        {
+          "option": "Sofia",
+          "is_answer": true
+        },
+        {
+          "option": "Plovdiv"
+        }
+      ]
+    },
+    {
+      "question": "Belgrade is the capital city of which country?",
+      "options": [
+        {
+          "option": "Croatia"
+        },
+        {
+          "option": "Montenegro"
+        },
+        {
+          "option": "Serbia",
+          "is_answer": true
+        },
+        {
+          "option": "Bosnia"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Poland?",
+      "options": [
+        {
+          "option": "Berlin"
+        },
+        {
+          "option": "Warsaw",
+          "is_answer": true
+        },
+        {
+          "option": "Prague"
+        },
+        {
+          "option": "Budapest"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Czechia?",
+      "options": [
+        {
+          "option": "Warsaw"
+        },
+        {
+          "option": "Kyiv"
+        },
+        {
+          "option": "Sofia"
+        },
+        {
+          "option": "Prague",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Kyiv is the capital of which country?",
+      "options": [
+        {
+          "option": "Serbia"
+        },
+        {
+          "option": "Romania"
+        },
+        {
+          "option": "Ukraine",
+          "is_answer": true
+        },
+        {
+          "option": "Poland"
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of Romania?",
+      "options": [
+        {
+          "option": "Budapest"
+        },
+        {
+          "option": "Bucharest",
+          "is_answer": true
+        },
+        {
+          "option": "Sofia"
+        },
+        {
+          "option": "Belgrade"
+        }
+      ]
+    },
+    {
+      "question": "Budapest is the capital of which nation?",
+      "options": [
+        {
+          "option": "Bulgaria"
+        },
+        {
+          "option": "Hungary",
+          "is_answer": true
+        },
+        {
+          "option": "Poland"
+        },
+        {
+          "option": "Czechia"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Serbia?",
+      "options": [
+        {
+          "option": "Kyiv"
+        },
+        {
+          "option": "Sofia"
+        },
+        {
+          "option": "Bucharest"
+        },
+        {
+          "option": "Belgrade",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Sofia is the capital of which country?",
+      "options": [
+        {
+          "option": "Ukraine"
+        },
+        {
+          "option": "Romania"
+        },
+        {
+          "option": "Bulgaria",
+          "is_answer": true
+        },
+        {
+          "option": "Serbia"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Romania?",
+      "options": [
+        {
+          "option": "Bucharest",
+          "is_answer": true
+        },
+        {
+          "option": "Prague"
+        },
+        {
+          "option": "Belgrade"
+        },
+        {
+          "option": "Warsaw"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Bulgaria?",
+      "options": [
+        {
+          "option": "Sofia",
+          "is_answer": true
+        },
+        {
+          "option": "Warsaw"
+        },
+        {
+          "option": "Kyiv"
+        },
+        {
+          "option": "Budapest"
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of Serbia?",
+      "options": [
+        {
+          "option": "Prague"
+        },
+        {
+          "option": "Belgrade",
+          "is_answer": true
+        },
+        {
+          "option": "Bucharest"
+        },
+        {
+          "option": "Sofia"
+        }
+      ]
+    },
+    {
+      "question": "Warsaw is the capital of which country?",
+      "options": [
+        {
+          "option": "Czechia"
+        },
+        {
+          "option": "Hungary"
+        },
+        {
+          "option": "Ukraine"
+        },
+        {
+          "option": "Poland",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Ukraine?",
+      "options": [
+        {
+          "option": "Sofia"
+        },
+        {
+          "option": "Bucharest"
+        },
+        {
+          "option": "Belgrade"
+        },
+        {
+          "option": "Kyiv",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Prague is the capital of which nation?",
+      "options": [
+        {
+          "option": "Serbia"
+        },
+        {
+          "option": "Poland"
+        },
+        {
+          "option": "Czechia",
+          "is_answer": true
+        },
+        {
+          "option": "Romania"
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of Sweden?",
+      "options": [
+        {
+          "option": "Helsinki"
+        },
+        {
+          "option": "Oslo"
+        },
+        {
+          "option": "Copenhagen"
+        },
+        {
+          "option": "Stockholm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the capital city of Norway?",
+      "options": [
+        {
+          "option": "Tallinn"
+        },
+        {
+          "option": "Stockholm"
+        },
+        {
+          "option": "Oslo",
+          "is_answer": true
+        },
+        {
+          "option": "Reykjavik"
+        }
+      ]
+    },
+    {
+      "question": "Which city serves as the capital of Denmark?",
+      "options": [
+        {
+          "option": "Vilnius"
+        },
+        {
+          "option": "Copenhagen",
+          "is_answer": true
+        },
+        {
+          "option": "Helsinki"
+        },
+        {
+          "option": "Riga"
+        }
+      ]
+    },
+    {
+      "question": "Helsinki is the capital city of which country?",
+      "options": [
+        {
+          "option": "Estonia"
+        },
+        {
+          "option": "Finland",
+          "is_answer": true
+        },
+        {
+          "option": "Lithuania"
+        },
+        {
+          "option": "Latvia"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Iceland?",
+      "options": [
+        {
+          "option": "Stockholm"
+        },
+        {
+          "option": "Reykjavik",
+          "is_answer": true
+        },
+        {
+          "option": "Tallinn"
+        },
+        {
+          "option": "Oslo"
+        }
+      ]
+    },
+    {
+      "question": "Tallinn is the capital city of which Baltic nation?",
+      "options": [
+        {
+          "option": "Latvia"
+        },
+        {
+          "option": "Finland"
+        },
+        {
+          "option": "Lithuania"
+        },
+        {
+          "option": "Estonia",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of Latvia?",
+      "options": [
+        {
+          "option": "Stockholm"
+        },
+        {
+          "option": "Riga",
+          "is_answer": true
+        },
+        {
+          "option": "Vilnius"
+        },
+        {
+          "option": "Tallinn"
+        }
+      ]
+    },
+    {
+      "question": "Vilnius is the capital of which country?",
+      "options": [
+        {
+          "option": "Denmark"
+        },
+        {
+          "option": "Latvia"
+        },
+        {
+          "option": "Lithuania",
+          "is_answer": true
+        },
+        {
+          "option": "Estonia"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the northernmost capital city among the listed countries?",
+      "options": [
+        {
+          "option": "Oslo"
+        },
+        {
+          "option": "Reykjavik",
+          "is_answer": true
+        },
+        {
+          "option": "Helsinki"
+        },
+        {
+          "option": "Stockholm"
+        }
+      ]
+    },
+    {
+      "question": "Which capital city is located on the Baltic Sea coast and is the capital of Estonia?",
+      "options": [
+        {
+          "option": "Helsinki"
+        },
+        {
+          "option": "Riga"
+        },
+        {
+          "option": "Vilnius"
+        },
+        {
+          "option": "Tallinn",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Stockholm is built across how many islands?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "14",
+          "is_answer": true
+        },
+        {
+          "option": "21"
+        }
+      ]
+    },
+    {
+      "question": "Which city is known as the 'Pearl of the Baltic'?",
+      "options": [
+        {
+          "option": "Helsinki"
+        },
+        {
+          "option": "Tallinn"
+        },
+        {
+          "option": "Riga",
+          "is_answer": true
+        },
+        {
+          "option": "Vilnius"
+        }
+      ]
+    },
+    {
+      "question": "Which capital city is famous for its Old Town, a UNESCO World Heritage site?",
+      "options": [
+        {
+          "option": "Tallinn",
+          "is_answer": true
+        },
+        {
+          "option": "Stockholm"
+        },
+        {
+          "option": "Reykjavik"
+        },
+        {
+          "option": "Oslo"
+        }
+      ]
+    },
+    {
+      "question": "Which of these cities is the capital of Lithuania?",
+      "options": [
+        {
+          "option": "Riga"
+        },
+        {
+          "option": "Vilnius",
+          "is_answer": true
+        },
+        {
+          "option": "Tallinn"
+        },
+        {
+          "option": "Helsinki"
+        }
+      ]
+    },
+    {
+      "question": "Copenhagen is the capital of which Scandinavian country?",
+      "options": [
+        {
+          "option": "Norway"
+        },
+        {
+          "option": "Sweden"
+        },
+        {
+          "option": "Finland"
+        },
+        {
+          "option": "Denmark",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of Finland?",
+      "options": [
+        {
+          "option": "Oslo"
+        },
+        {
+          "option": "Copenhagen"
+        },
+        {
+          "option": "Stockholm"
+        },
+        {
+          "option": "Helsinki",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which capital city is located in the country of Iceland?",
+      "options": [
+        {
+          "option": "Tallinn"
+        },
+        {
+          "option": "Riga"
+        },
+        {
+          "option": "Reykjavik",
+          "is_answer": true
+        },
+        {
+          "option": "Vilnius"
+        }
+      ]
+    },
+    {
+      "question": "Oslo is the capital city of which country?",
+      "options": [
+        {
+          "option": "Finland"
+        },
+        {
+          "option": "Norway",
+          "is_answer": true
+        },
+        {
+          "option": "Sweden"
+        },
+        {
+          "option": "Denmark"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Latvia?",
+      "options": [
+        {
+          "option": "Vilnius"
+        },
+        {
+          "option": "Stockholm"
+        },
+        {
+          "option": "Riga",
+          "is_answer": true
+        },
+        {
+          "option": "Tallinn"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of India?",
+      "options": [
+        {
+          "option": "Chennai"
+        },
+        {
+          "option": "Kolkata"
+        },
+        {
+          "option": "Mumbai"
+        },
+        {
+          "option": "New Delhi",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of Pakistan?",
+      "options": [
+        {
+          "option": "Peshawar"
+        },
+        {
+          "option": "Lahore"
+        },
+        {
+          "option": "Islamabad",
+          "is_answer": true
+        },
+        {
+          "option": "Karachi"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Bangladesh?",
+      "options": [
+        {
+          "option": "Khulna"
+        },
+        {
+          "option": "Dhaka",
+          "is_answer": true
+        },
+        {
+          "option": "Sylhet"
+        },
+        {
+          "option": "Chittagong"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a capital of Sri Lanka?",
+      "options": [
+        {
+          "option": "Sri Jayawardenepura Kotte",
+          "is_answer": true
+        },
+        {
+          "option": "Galle"
+        },
+        {
+          "option": "Jaffna"
+        },
+        {
+          "option": "Kandy"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Nepal?",
+      "options": [
+        {
+          "option": "Pokhara"
+        },
+        {
+          "option": "Kathmandu",
+          "is_answer": true
+        },
+        {
+          "option": "Lalitpur"
+        },
+        {
+          "option": "Biratnagar"
+        }
+      ]
+    },
+    {
+      "question": "Which city serves as the capital of Bhutan?",
+      "options": [
+        {
+          "option": "Paro"
+        },
+        {
+          "option": "Phuentsholing"
+        },
+        {
+          "option": "Thimphu",
+          "is_answer": true
+        },
+        {
+          "option": "Punakha"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of the Maldives?",
+      "options": [
+        {
+          "option": "Fuvahmulah"
+        },
+        {
+          "option": "Addu City"
+        },
+        {
+          "option": "Male",
+          "is_answer": true
+        },
+        {
+          "option": "Kulhudhuffushi"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Afghanistan?",
+      "options": [
+        {
+          "option": "Herat"
+        },
+        {
+          "option": "Mazar-i-Sharif"
+        },
+        {
+          "option": "Kabul",
+          "is_answer": true
+        },
+        {
+          "option": "Kandahar"
+        }
+      ]
+    },
+    {
+      "question": "Which country has Colombo as one of its capitals?",
+      "options": [
+        {
+          "option": "Bhutan"
+        },
+        {
+          "option": "Sri Lanka",
+          "is_answer": true
+        },
+        {
+          "option": "India"
+        },
+        {
+          "option": "Nepal"
+        }
+      ]
+    },
+    {
+      "question": "New Delhi is the capital of which South Asian nation?",
+      "options": [
+        {
+          "option": "Afghanistan"
+        },
+        {
+          "option": "Bangladesh"
+        },
+        {
+          "option": "India",
+          "is_answer": true
+        },
+        {
+          "option": "Pakistan"
+        }
+      ]
+    },
+    {
+      "question": "Islamabad is the capital of which country?",
+      "options": [
+        {
+          "option": "Pakistan",
+          "is_answer": true
+        },
+        {
+          "option": "Nepal"
+        },
+        {
+          "option": "India"
+        },
+        {
+          "option": "Maldives"
+        }
+      ]
+    },
+    {
+      "question": "Dhaka is the capital of which country?",
+      "options": [
+        {
+          "option": "Afghanistan"
+        },
+        {
+          "option": "Sri Lanka"
+        },
+        {
+          "option": "Bhutan"
+        },
+        {
+          "option": "Bangladesh",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Kathmandu is the capital of which country?",
+      "options": [
+        {
+          "option": "Nepal",
+          "is_answer": true
+        },
+        {
+          "option": "India"
+        },
+        {
+          "option": "Pakistan"
+        },
+        {
+          "option": "Bangladesh"
+        }
+      ]
+    },
+    {
+      "question": "Thimphu is the capital of which country?",
+      "options": [
+        {
+          "option": "Maldives"
+        },
+        {
+          "option": "Nepal"
+        },
+        {
+          "option": "Sri Lanka"
+        },
+        {
+          "option": "Bhutan",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Male is the capital of which country?",
+      "options": [
+        {
+          "option": "Maldives",
+          "is_answer": true
+        },
+        {
+          "option": "India"
+        },
+        {
+          "option": "Pakistan"
+        },
+        {
+          "option": "Afghanistan"
+        }
+      ]
+    },
+    {
+      "question": "Kabul is the capital of which country?",
+      "options": [
+        {
+          "option": "Bhutan"
+        },
+        {
+          "option": "Bangladesh"
+        },
+        {
+          "option": "Nepal"
+        },
+        {
+          "option": "Afghanistan",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is not a South Asian capital?",
+      "options": [
+        {
+          "option": "Tokyo",
+          "is_answer": true
+        },
+        {
+          "option": "New Delhi"
+        },
+        {
+          "option": "Dhaka"
+        },
+        {
+          "option": "Islamabad"
+        }
+      ]
+    },
+    {
+      "question": "Which country's capital is Sri Jayawardenepura Kotte?",
+      "options": [
+        {
+          "option": "Maldives"
+        },
+        {
+          "option": "Sri Lanka",
+          "is_answer": true
+        },
+        {
+          "option": "Bhutan"
+        },
+        {
+          "option": "Nepal"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of the country that borders India to the west?",
+      "options": [
+        {
+          "option": "Dhaka"
+        },
+        {
+          "option": "Islamabad",
+          "is_answer": true
+        },
+        {
+          "option": "Kathmandu"
+        },
+        {
+          "option": "Thimphu"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is the capital of Bhutan?",
+      "options": [
+        {
+          "option": "Dhaka"
+        },
+        {
+          "option": "Male"
+        },
+        {
+          "option": "Thimphu",
+          "is_answer": true
+        },
+        {
+          "option": "Kabul"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital city of China?",
+      "options": [
+        {
+          "option": "Shanghai"
+        },
+        {
+          "option": "Shenzhen"
+        },
+        {
+          "option": "Guangzhou"
+        },
+        {
+          "option": "Beijing",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which city serves as the capital of Japan?",
+      "options": [
+        {
+          "option": "Nagoya"
+        },
+        {
+          "option": "Tokyo",
+          "is_answer": true
+        },
+        {
+          "option": "Osaka"
+        },
+        {
+          "option": "Kyoto"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of South Korea?",
+      "options": [
+        {
+          "option": "Seoul",
+          "is_answer": true
+        },
+        {
+          "option": "Busan"
+        },
+        {
+          "option": "Daegu"
+        },
+        {
+          "option": "Incheon"
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of North Korea?",
+      "options": [
+        {
+          "option": "Hamhung"
+        },
+        {
+          "option": "Kaesong"
+        },
+        {
+          "option": "Wonsan"
+        },
+        {
+          "option": "Pyongyang",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the capital city of Mongolia?",
+      "options": [
+        {
+          "option": "Ulaanbaatar",
+          "is_answer": true
+        },
+        {
+          "option": "Darkhan"
+        },
+        {
+          "option": "Choibalsan"
+        },
+        {
+          "option": "Erdenet"
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of Taiwan?",
+      "options": [
+        {
+          "option": "Taipei",
+          "is_answer": true
+        },
+        {
+          "option": "Tainan"
+        },
+        {
+          "option": "Kaohsiung"
+        },
+        {
+          "option": "Taichung"
+        }
+      ]
+    },
+    {
+      "question": "Beijing is the capital of which East Asian country?",
+      "options": [
+        {
+          "option": "South Korea"
+        },
+        {
+          "option": "Mongolia"
+        },
+        {
+          "option": "China",
+          "is_answer": true
+        },
+        {
+          "option": "Japan"
+        }
+      ]
+    },
+    {
+      "question": "Tokyo is the capital of which nation?",
+      "options": [
+        {
+          "option": "China"
+        },
+        {
+          "option": "Japan",
+          "is_answer": true
+        },
+        {
+          "option": "North Korea"
+        },
+        {
+          "option": "Taiwan"
+        }
+      ]
+    },
+    {
+      "question": "Seoul is the capital city of which country?",
+      "options": [
+        {
+          "option": "China"
+        },
+        {
+          "option": "South Korea",
+          "is_answer": true
+        },
+        {
+          "option": "North Korea"
+        },
+        {
+          "option": "Japan"
+        }
+      ]
+    },
+    {
+      "question": "Pyongyang is the capital of which country?",
+      "options": [
+        {
+          "option": "China"
+        },
+        {
+          "option": "North Korea",
+          "is_answer": true
+        },
+        {
+          "option": "South Korea"
+        },
+        {
+          "option": "Mongolia"
+        }
+      ]
+    },
+    {
+      "question": "Ulaanbaatar is the capital of which country?",
+      "options": [
+        {
+          "option": "Mongolia",
+          "is_answer": true
+        },
+        {
+          "option": "China"
+        },
+        {
+          "option": "Japan"
+        },
+        {
+          "option": "South Korea"
+        }
+      ]
+    },
+    {
+      "question": "Taipei is the capital of which country?",
+      "options": [
+        {
+          "option": "Taiwan",
+          "is_answer": true
+        },
+        {
+          "option": "Japan"
+        },
+        {
+          "option": "China"
+        },
+        {
+          "option": "North Korea"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of South Korea?",
+      "options": [
+        {
+          "option": "Seoul",
+          "is_answer": true
+        },
+        {
+          "option": "Pyongyang"
+        },
+        {
+          "option": "Beijing"
+        },
+        {
+          "option": "Tokyo"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Japan?",
+      "options": [
+        {
+          "option": "Ulaanbaatar"
+        },
+        {
+          "option": "Tokyo",
+          "is_answer": true
+        },
+        {
+          "option": "Taipei"
+        },
+        {
+          "option": "Seoul"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of China?",
+      "options": [
+        {
+          "option": "Beijing",
+          "is_answer": true
+        },
+        {
+          "option": "Pyongyang"
+        },
+        {
+          "option": "Tokyo"
+        },
+        {
+          "option": "Seoul"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of North Korea?",
+      "options": [
+        {
+          "option": "Taipei"
+        },
+        {
+          "option": "Beijing"
+        },
+        {
+          "option": "Ulaanbaatar"
+        },
+        {
+          "option": "Pyongyang",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Mongolia?",
+      "options": [
+        {
+          "option": "Beijing"
+        },
+        {
+          "option": "Seoul"
+        },
+        {
+          "option": "Ulaanbaatar",
+          "is_answer": true
+        },
+        {
+          "option": "Tokyo"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Taiwan?",
+      "options": [
+        {
+          "option": "Pyongyang"
+        },
+        {
+          "option": "Tokyo"
+        },
+        {
+          "option": "Seoul"
+        },
+        {
+          "option": "Taipei",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of the country that is home to the Great Wall?",
+      "options": [
+        {
+          "option": "Tokyo"
+        },
+        {
+          "option": "Beijing",
+          "is_answer": true
+        },
+        {
+          "option": "Seoul"
+        },
+        {
+          "option": "Pyongyang"
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of the country known as the Land of the Rising Sun?",
+      "options": [
+        {
+          "option": "Seoul"
+        },
+        {
+          "option": "Tokyo",
+          "is_answer": true
+        },
+        {
+          "option": "Beijing"
+        },
+        {
+          "option": "Taipei"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital city of Canada?",
+      "options": [
+        {
+          "option": "Ottawa",
+          "is_answer": true
+        },
+        {
+          "option": "Vancouver"
+        },
+        {
+          "option": "Toronto"
+        },
+        {
+          "option": "Montreal"
+        }
+      ]
+    },
+    {
+      "question": "Which city serves as the capital of the United States?",
+      "options": [
+        {
+          "option": "Chicago"
+        },
+        {
+          "option": "Los Angeles"
+        },
+        {
+          "option": "Washington D.C.",
+          "is_answer": true
+        },
+        {
+          "option": "New York City"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Mexico?",
+      "options": [
+        {
+          "option": "Guadalajara"
+        },
+        {
+          "option": "Monterrey"
+        },
+        {
+          "option": "Cancun"
+        },
+        {
+          "option": "Mexico City",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Canada?",
+      "options": [
+        {
+          "option": "Ottawa",
+          "is_answer": true
+        },
+        {
+          "option": "Edmonton"
+        },
+        {
+          "option": "Calgary"
+        },
+        {
+          "option": "Quebec City"
+        }
+      ]
+    },
+    {
+      "question": "Washington D.C. is the capital of which North American country?",
+      "options": [
+        {
+          "option": "Canada"
+        },
+        {
+          "option": "Panama"
+        },
+        {
+          "option": "Mexico"
+        },
+        {
+          "option": "United States",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Mexico City is the capital of which country?",
+      "options": [
+        {
+          "option": "Canada"
+        },
+        {
+          "option": "Costa Rica"
+        },
+        {
+          "option": "United States"
+        },
+        {
+          "option": "Mexico",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which city is the administrative center of Canada?",
+      "options": [
+        {
+          "option": "Ottawa",
+          "is_answer": true
+        },
+        {
+          "option": "Toronto"
+        },
+        {
+          "option": "Vancouver"
+        },
+        {
+          "option": "Winnipeg"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of the USA?",
+      "options": [
+        {
+          "option": "Washington D.C.",
+          "is_answer": true
+        },
+        {
+          "option": "Boston"
+        },
+        {
+          "option": "Philadelphia"
+        },
+        {
+          "option": "Miami"
+        }
+      ]
+    },
+    {
+      "question": "Which North American capital is located furthest south?",
+      "options": [
+        {
+          "option": "Ottawa"
+        },
+        {
+          "option": "Washington D.C."
+        },
+        {
+          "option": "Mexico City",
+          "is_answer": true
+        },
+        {
+          "option": "None of these"
+        }
+      ]
+    },
+    {
+      "question": "Ottawa is the capital of which nation?",
+      "options": [
+        {
+          "option": "United States"
+        },
+        {
+          "option": "Canada",
+          "is_answer": true
+        },
+        {
+          "option": "Mexico"
+        },
+        {
+          "option": "Cuba"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Mexico?",
+      "options": [
+        {
+          "option": "Mexico City",
+          "is_answer": true
+        },
+        {
+          "option": "Tijuana"
+        },
+        {
+          "option": "Leon"
+        },
+        {
+          "option": "Puebla"
+        }
+      ]
+    },
+    {
+      "question": "Washington D.C. is located in which country?",
+      "options": [
+        {
+          "option": "United States",
+          "is_answer": true
+        },
+        {
+          "option": "Mexico"
+        },
+        {
+          "option": "Brazil"
+        },
+        {
+          "option": "Canada"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of the country that shares a border with the USA to the north?",
+      "options": [
+        {
+          "option": "Havana"
+        },
+        {
+          "option": "Mexico City"
+        },
+        {
+          "option": "Washington D.C."
+        },
+        {
+          "option": "Ottawa",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of the country that lies south of the USA?",
+      "options": [
+        {
+          "option": "Mexico City",
+          "is_answer": true
+        },
+        {
+          "option": "Washington D.C."
+        },
+        {
+          "option": "Toronto"
+        },
+        {
+          "option": "Ottawa"
+        }
+      ]
+    },
+    {
+      "question": "The capital of Canada is:",
+      "options": [
+        {
+          "option": "Vancouver"
+        },
+        {
+          "option": "Ottawa",
+          "is_answer": true
+        },
+        {
+          "option": "Calgary"
+        },
+        {
+          "option": "Toronto"
+        }
+      ]
+    },
+    {
+      "question": "The capital of the United States is:",
+      "options": [
+        {
+          "option": "Houston"
+        },
+        {
+          "option": "Los Angeles"
+        },
+        {
+          "option": "Washington D.C.",
+          "is_answer": true
+        },
+        {
+          "option": "New York"
+        }
+      ]
+    },
+    {
+      "question": "The capital of Mexico is:",
+      "options": [
+        {
+          "option": "Cancun"
+        },
+        {
+          "option": "Mexico City",
+          "is_answer": true
+        },
+        {
+          "option": "Acapulco"
+        },
+        {
+          "option": "Tijuana"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is NOT a capital city in North America?",
+      "options": [
+        {
+          "option": "Washington D.C."
+        },
+        {
+          "option": "Mexico City"
+        },
+        {
+          "option": "Toronto",
+          "is_answer": true
+        },
+        {
+          "option": "Ottawa"
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of the USA?",
+      "options": [
+        {
+          "option": "Washington D.C.",
+          "is_answer": true
+        },
+        {
+          "option": "Seattle"
+        },
+        {
+          "option": "Chicago"
+        },
+        {
+          "option": "Dallas"
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of Canada?",
+      "options": [
+        {
+          "option": "Montreal"
+        },
+        {
+          "option": "Quebec"
+        },
+        {
+          "option": "Ottawa",
+          "is_answer": true
+        },
+        {
+          "option": "Vancouver"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital city of Panama?",
+      "options": [
+        {
+          "option": "Havana"
+        },
+        {
+          "option": "Panama City",
+          "is_answer": true
+        },
+        {
+          "option": "San Jose"
+        },
+        {
+          "option": "Kingston"
+        }
+      ]
+    },
+    {
+      "question": "Which city serves as the capital of Costa Rica?",
+      "options": [
+        {
+          "option": "Port-au-Prince"
+        },
+        {
+          "option": "San Jose",
+          "is_answer": true
+        },
+        {
+          "option": "Nassau"
+        },
+        {
+          "option": "Panama City"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Cuba?",
+      "options": [
+        {
+          "option": "Havana",
+          "is_answer": true
+        },
+        {
+          "option": "San Jose"
+        },
+        {
+          "option": "Kingston"
+        },
+        {
+          "option": "Nassau"
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of Jamaica?",
+      "options": [
+        {
+          "option": "Port-au-Prince"
+        },
+        {
+          "option": "Kingston",
+          "is_answer": true
+        },
+        {
+          "option": "Panama City"
+        },
+        {
+          "option": "Havana"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital city of Haiti?",
+      "options": [
+        {
+          "option": "San Jose"
+        },
+        {
+          "option": "Nassau"
+        },
+        {
+          "option": "Port-au-Prince",
+          "is_answer": true
+        },
+        {
+          "option": "Kingston"
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of the Bahamas?",
+      "options": [
+        {
+          "option": "Panama City"
+        },
+        {
+          "option": "Nassau",
+          "is_answer": true
+        },
+        {
+          "option": "Havana"
+        },
+        {
+          "option": "Port-au-Prince"
+        }
+      ]
+    },
+    {
+      "question": "San Jose is the capital of which country?",
+      "options": [
+        {
+          "option": "Costa Rica",
+          "is_answer": true
+        },
+        {
+          "option": "Cuba"
+        },
+        {
+          "option": "Panama"
+        },
+        {
+          "option": "Jamaica"
+        }
+      ]
+    },
+    {
+      "question": "Havana is the capital city of which nation?",
+      "options": [
+        {
+          "option": "Haiti"
+        },
+        {
+          "option": "Cuba",
+          "is_answer": true
+        },
+        {
+          "option": "Costa Rica"
+        },
+        {
+          "option": "Bahamas"
+        }
+      ]
+    },
+    {
+      "question": "Port-au-Prince is the capital of which country?",
+      "options": [
+        {
+          "option": "Panama"
+        },
+        {
+          "option": "Bahamas"
+        },
+        {
+          "option": "Jamaica"
+        },
+        {
+          "option": "Haiti",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Kingston is the capital of which Caribbean nation?",
+      "options": [
+        {
+          "option": "Haiti"
+        },
+        {
+          "option": "Cuba"
+        },
+        {
+          "option": "Bahamas"
+        },
+        {
+          "option": "Jamaica",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Panama City is the capital of which country?",
+      "options": [
+        {
+          "option": "Haiti"
+        },
+        {
+          "option": "Panama",
+          "is_answer": true
+        },
+        {
+          "option": "Cuba"
+        },
+        {
+          "option": "Costa Rica"
+        }
+      ]
+    },
+    {
+      "question": "Nassau is the capital of which island nation?",
+      "options": [
+        {
+          "option": "Haiti"
+        },
+        {
+          "option": "Cuba"
+        },
+        {
+          "option": "Jamaica"
+        },
+        {
+          "option": "Bahamas",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Costa Rica?",
+      "options": [
+        {
+          "option": "Havana"
+        },
+        {
+          "option": "Panama City"
+        },
+        {
+          "option": "San Jose",
+          "is_answer": true
+        },
+        {
+          "option": "Nassau"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Haiti?",
+      "options": [
+        {
+          "option": "Port-au-Prince",
+          "is_answer": true
+        },
+        {
+          "option": "Panama City"
+        },
+        {
+          "option": "Kingston"
+        },
+        {
+          "option": "San Jose"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Cuba?",
+      "options": [
+        {
+          "option": "Havana",
+          "is_answer": true
+        },
+        {
+          "option": "Kingston"
+        },
+        {
+          "option": "Nassau"
+        },
+        {
+          "option": "Port-au-Prince"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Jamaica?",
+      "options": [
+        {
+          "option": "San Jose"
+        },
+        {
+          "option": "Nassau"
+        },
+        {
+          "option": "Havana"
+        },
+        {
+          "option": "Kingston",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of the Bahamas?",
+      "options": [
+        {
+          "option": "Panama City"
+        },
+        {
+          "option": "Havana"
+        },
+        {
+          "option": "Port-au-Prince"
+        },
+        {
+          "option": "Nassau",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Panama?",
+      "options": [
+        {
+          "option": "San Jose"
+        },
+        {
+          "option": "Port-au-Prince"
+        },
+        {
+          "option": "Kingston"
+        },
+        {
+          "option": "Panama City",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of the country that borders Colombia?",
+      "options": [
+        {
+          "option": "Havana"
+        },
+        {
+          "option": "Nassau"
+        },
+        {
+          "option": "Kingston"
+        },
+        {
+          "option": "Panama City",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which capital city is located on the island of Hispaniola?",
+      "options": [
+        {
+          "option": "Nassau"
+        },
+        {
+          "option": "Havana"
+        },
+        {
+          "option": "Kingston"
+        },
+        {
+          "option": "Port-au-Prince",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the capital city of Egypt?",
+      "options": [
+        {
+          "option": "Algiers"
+        },
+        {
+          "option": "Tunis"
+        },
+        {
+          "option": "Cairo",
+          "is_answer": true
+        },
+        {
+          "option": "Rabat"
+        }
+      ]
+    },
+    {
+      "question": "Which city serves as the capital of Morocco?",
+      "options": [
+        {
+          "option": "Tripoli"
+        },
+        {
+          "option": "Cairo"
+        },
+        {
+          "option": "Khartoum"
+        },
+        {
+          "option": "Rabat",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Algiers is the capital city of which North African country?",
+      "options": [
+        {
+          "option": "Algeria",
+          "is_answer": true
+        },
+        {
+          "option": "Tunisia"
+        },
+        {
+          "option": "Egypt"
+        },
+        {
+          "option": "Libya"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Tunisia?",
+      "options": [
+        {
+          "option": "Khartoum"
+        },
+        {
+          "option": "Algiers"
+        },
+        {
+          "option": "Tunis",
+          "is_answer": true
+        },
+        {
+          "option": "Rabat"
+        }
+      ]
+    },
+    {
+      "question": "Tripoli is the capital city of which nation?",
+      "options": [
+        {
+          "option": "Sudan"
+        },
+        {
+          "option": "Libya",
+          "is_answer": true
+        },
+        {
+          "option": "Morocco"
+        },
+        {
+          "option": "Egypt"
+        }
+      ]
+    },
+    {
+      "question": "Khartoum is the capital city of which country?",
+      "options": [
+        {
+          "option": "Libya"
+        },
+        {
+          "option": "Tunisia"
+        },
+        {
+          "option": "Algeria"
+        },
+        {
+          "option": "Sudan",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Algeria?",
+      "options": [
+        {
+          "option": "Cairo"
+        },
+        {
+          "option": "Algiers",
+          "is_answer": true
+        },
+        {
+          "option": "Tripoli"
+        },
+        {
+          "option": "Rabat"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Libya?",
+      "options": [
+        {
+          "option": "Tunis"
+        },
+        {
+          "option": "Cairo"
+        },
+        {
+          "option": "Khartoum"
+        },
+        {
+          "option": "Tripoli",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of Sudan?",
+      "options": [
+        {
+          "option": "Tunis"
+        },
+        {
+          "option": "Algiers"
+        },
+        {
+          "option": "Rabat"
+        },
+        {
+          "option": "Khartoum",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Cairo is the capital of which North African country?",
+      "options": [
+        {
+          "option": "Morocco"
+        },
+        {
+          "option": "Sudan"
+        },
+        {
+          "option": "Libya"
+        },
+        {
+          "option": "Egypt",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Rabat is the capital of which country?",
+      "options": [
+        {
+          "option": "Morocco",
+          "is_answer": true
+        },
+        {
+          "option": "Algeria"
+        },
+        {
+          "option": "Egypt"
+        },
+        {
+          "option": "Tunisia"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is the capital of Tunisia?",
+      "options": [
+        {
+          "option": "Algiers"
+        },
+        {
+          "option": "Tripoli"
+        },
+        {
+          "option": "Tunis",
+          "is_answer": true
+        },
+        {
+          "option": "Khartoum"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Algeria?",
+      "options": [
+        {
+          "option": "Tunis"
+        },
+        {
+          "option": "Rabat"
+        },
+        {
+          "option": "Cairo"
+        },
+        {
+          "option": "Algiers",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of Egypt?",
+      "options": [
+        {
+          "option": "Rabat"
+        },
+        {
+          "option": "Khartoum"
+        },
+        {
+          "option": "Tripoli"
+        },
+        {
+          "option": "Cairo",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Morocco?",
+      "options": [
+        {
+          "option": "Algiers"
+        },
+        {
+          "option": "Rabat",
+          "is_answer": true
+        },
+        {
+          "option": "Tunis"
+        },
+        {
+          "option": "Tripoli"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Libya?",
+      "options": [
+        {
+          "option": "Cairo"
+        },
+        {
+          "option": "Khartoum"
+        },
+        {
+          "option": "Tripoli",
+          "is_answer": true
+        },
+        {
+          "option": "Algiers"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Sudan?",
+      "options": [
+        {
+          "option": "Khartoum",
+          "is_answer": true
+        },
+        {
+          "option": "Rabat"
+        },
+        {
+          "option": "Tunis"
+        },
+        {
+          "option": "Cairo"
+        }
+      ]
+    },
+    {
+      "question": "Tunis is the capital of which country?",
+      "options": [
+        {
+          "option": "Libya"
+        },
+        {
+          "option": "Tunisia",
+          "is_answer": true
+        },
+        {
+          "option": "Algeria"
+        },
+        {
+          "option": "Morocco"
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of Algeria?",
+      "options": [
+        {
+          "option": "Cairo"
+        },
+        {
+          "option": "Khartoum"
+        },
+        {
+          "option": "Tripoli"
+        },
+        {
+          "option": "Algiers",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the capital city of Colombia?",
+      "options": [
+        {
+          "option": "Bogota",
+          "is_answer": true
+        },
+        {
+          "option": "Cali"
+        },
+        {
+          "option": "Cartagena"
+        },
+        {
+          "option": "Medellin"
+        }
+      ]
+    },
+    {
+      "question": "Which city serves as the capital of Venezuela?",
+      "options": [
+        {
+          "option": "Barquisimeto"
+        },
+        {
+          "option": "Maracaibo"
+        },
+        {
+          "option": "Caracas",
+          "is_answer": true
+        },
+        {
+          "option": "Valencia"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Peru?",
+      "options": [
+        {
+          "option": "Trujillo"
+        },
+        {
+          "option": "Cusco"
+        },
+        {
+          "option": "Lima",
+          "is_answer": true
+        },
+        {
+          "option": "Arequipa"
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of Ecuador?",
+      "options": [
+        {
+          "option": "Quito",
+          "is_answer": true
+        },
+        {
+          "option": "Cuenca"
+        },
+        {
+          "option": "Ambato"
+        },
+        {
+          "option": "Guayaquil"
+        }
+      ]
+    },
+    {
+      "question": "Bolivia has two capitals; which of these is the administrative capital?",
+      "options": [
+        {
+          "option": "La Paz",
+          "is_answer": true
+        },
+        {
+          "option": "Cochabamba"
+        },
+        {
+          "option": "Sucre"
+        },
+        {
+          "option": "Santa Cruz"
+        }
+      ]
+    },
+    {
+      "question": "Which South American country is located furthest north?",
+      "options": [
+        {
+          "option": "Peru"
+        },
+        {
+          "option": "Ecuador"
+        },
+        {
+          "option": "Bolivia"
+        },
+        {
+          "option": "Colombia",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these countries is landlocked?",
+      "options": [
+        {
+          "option": "Peru"
+        },
+        {
+          "option": "Colombia"
+        },
+        {
+          "option": "Venezuela"
+        },
+        {
+          "option": "Bolivia",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the constitutional capital of Bolivia?",
+      "options": [
+        {
+          "option": "La Paz"
+        },
+        {
+          "option": "Sucre",
+          "is_answer": true
+        },
+        {
+          "option": "Oruro"
+        },
+        {
+          "option": "Potosi"
+        }
+      ]
+    },
+    {
+      "question": "Which country shares a border with both the Pacific and Atlantic Oceans?",
+      "options": [
+        {
+          "option": "Colombia",
+          "is_answer": true
+        },
+        {
+          "option": "Peru"
+        },
+        {
+          "option": "Ecuador"
+        },
+        {
+          "option": "Bolivia"
+        }
+      ]
+    },
+    {
+      "question": "Which city is known for being the highest capital city in the world?",
+      "options": [
+        {
+          "option": "Quito"
+        },
+        {
+          "option": "Bogota"
+        },
+        {
+          "option": "La Paz",
+          "is_answer": true
+        },
+        {
+          "option": "Lima"
+        }
+      ]
+    },
+    {
+      "question": "Which country is located directly on the equator?",
+      "options": [
+        {
+          "option": "Venezuela"
+        },
+        {
+          "option": "Bolivia"
+        },
+        {
+          "option": "Ecuador",
+          "is_answer": true
+        },
+        {
+          "option": "Peru"
+        }
+      ]
+    },
+    {
+      "question": "Which of these countries is a member of the Andean Community?",
+      "options": [
+        {
+          "option": "Peru",
+          "is_answer": true
+        },
+        {
+          "option": "Brazil"
+        },
+        {
+          "option": "Argentina"
+        },
+        {
+          "option": "Venezuela"
+        }
+      ]
+    },
+    {
+      "question": "What is the primary language spoken in all these five countries?",
+      "options": [
+        {
+          "option": "Spanish",
+          "is_answer": true
+        },
+        {
+          "option": "Portuguese"
+        },
+        {
+          "option": "French"
+        },
+        {
+          "option": "English"
+        }
+      ]
+    },
+    {
+      "question": "Which country is famous for the Angel Falls?",
+      "options": [
+        {
+          "option": "Venezuela",
+          "is_answer": true
+        },
+        {
+          "option": "Colombia"
+        },
+        {
+          "option": "Ecuador"
+        },
+        {
+          "option": "Peru"
+        }
+      ]
+    },
+    {
+      "question": "Which city is the largest city in Peru?",
+      "options": [
+        {
+          "option": "Lima",
+          "is_answer": true
+        },
+        {
+          "option": "Arequipa"
+        },
+        {
+          "option": "Cusco"
+        },
+        {
+          "option": "Callao"
+        }
+      ]
+    },
+    {
+      "question": "Which country borders both Colombia and Peru?",
+      "options": [
+        {
+          "option": "Ecuador",
+          "is_answer": true
+        },
+        {
+          "option": "Chile"
+        },
+        {
+          "option": "Bolivia"
+        },
+        {
+          "option": "Venezuela"
+        }
+      ]
+    },
+    {
+      "question": "Which of these countries has a coastline on the Caribbean Sea?",
+      "options": [
+        {
+          "option": "Ecuador"
+        },
+        {
+          "option": "Bolivia"
+        },
+        {
+          "option": "Colombia",
+          "is_answer": true
+        },
+        {
+          "option": "Peru"
+        }
+      ]
+    },
+    {
+      "question": "What is the currency of Colombia?",
+      "options": [
+        {
+          "option": "Bolivar"
+        },
+        {
+          "option": "Sucre"
+        },
+        {
+          "option": "Peso",
+          "is_answer": true
+        },
+        {
+          "option": "Sol"
+        }
+      ]
+    },
+    {
+      "question": "Which country is located to the east of Colombia?",
+      "options": [
+        {
+          "option": "Peru"
+        },
+        {
+          "option": "Bolivia"
+        },
+        {
+          "option": "Venezuela",
+          "is_answer": true
+        },
+        {
+          "option": "Ecuador"
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of the country that uses the 'Sol' as its currency?",
+      "options": [
+        {
+          "option": "Lima",
+          "is_answer": true
+        },
+        {
+          "option": "Quito"
+        },
+        {
+          "option": "Caracas"
+        },
+        {
+          "option": "Bogota"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital city of Brazil?",
+      "options": [
+        {
+          "option": "Sao Paulo"
+        },
+        {
+          "option": "Rio de Janeiro"
+        },
+        {
+          "option": "Salvador"
+        },
+        {
+          "option": "Brasilia",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which city serves as the capital of Argentina?",
+      "options": [
+        {
+          "option": "Rosario"
+        },
+        {
+          "option": "Buenos Aires",
+          "is_answer": true
+        },
+        {
+          "option": "Mendoza"
+        },
+        {
+          "option": "Cordoba"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Chile?",
+      "options": [
+        {
+          "option": "Valparaiso"
+        },
+        {
+          "option": "Antofagasta"
+        },
+        {
+          "option": "Santiago",
+          "is_answer": true
+        },
+        {
+          "option": "Concepcion"
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of Uruguay?",
+      "options": [
+        {
+          "option": "Salto"
+        },
+        {
+          "option": "Maldonado"
+        },
+        {
+          "option": "Montevideo",
+          "is_answer": true
+        },
+        {
+          "option": "Paysandu"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Paraguay?",
+      "options": [
+        {
+          "option": "Ciudad del Este"
+        },
+        {
+          "option": "Asuncion",
+          "is_answer": true
+        },
+        {
+          "option": "Luque"
+        },
+        {
+          "option": "Encarnacion"
+        }
+      ]
+    },
+    {
+      "question": "Brasilia is the capital of which South American country?",
+      "options": [
+        {
+          "option": "Argentina"
+        },
+        {
+          "option": "Chile"
+        },
+        {
+          "option": "Brazil",
+          "is_answer": true
+        },
+        {
+          "option": "Uruguay"
+        }
+      ]
+    },
+    {
+      "question": "Buenos Aires is the capital of which nation?",
+      "options": [
+        {
+          "option": "Argentina",
+          "is_answer": true
+        },
+        {
+          "option": "Chile"
+        },
+        {
+          "option": "Brazil"
+        },
+        {
+          "option": "Paraguay"
+        }
+      ]
+    },
+    {
+      "question": "Santiago is the capital city of which country?",
+      "options": [
+        {
+          "option": "Argentina"
+        },
+        {
+          "option": "Chile",
+          "is_answer": true
+        },
+        {
+          "option": "Uruguay"
+        },
+        {
+          "option": "Brazil"
+        }
+      ]
+    },
+    {
+      "question": "Montevideo is the capital of which country?",
+      "options": [
+        {
+          "option": "Chile"
+        },
+        {
+          "option": "Brazil"
+        },
+        {
+          "option": "Paraguay"
+        },
+        {
+          "option": "Uruguay",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Asuncion is the capital of which country?",
+      "options": [
+        {
+          "option": "Argentina"
+        },
+        {
+          "option": "Uruguay"
+        },
+        {
+          "option": "Brazil"
+        },
+        {
+          "option": "Paraguay",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Brazil?",
+      "options": [
+        {
+          "option": "Buenos Aires"
+        },
+        {
+          "option": "Santiago"
+        },
+        {
+          "option": "Brasilia",
+          "is_answer": true
+        },
+        {
+          "option": "Montevideo"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Argentina?",
+      "options": [
+        {
+          "option": "Brasilia"
+        },
+        {
+          "option": "Santiago"
+        },
+        {
+          "option": "Buenos Aires",
+          "is_answer": true
+        },
+        {
+          "option": "Asuncion"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Chile?",
+      "options": [
+        {
+          "option": "Montevideo"
+        },
+        {
+          "option": "Asuncion"
+        },
+        {
+          "option": "Buenos Aires"
+        },
+        {
+          "option": "Santiago",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Uruguay?",
+      "options": [
+        {
+          "option": "Brasilia"
+        },
+        {
+          "option": "Montevideo",
+          "is_answer": true
+        },
+        {
+          "option": "Santiago"
+        },
+        {
+          "option": "Asuncion"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Paraguay?",
+      "options": [
+        {
+          "option": "Asuncion",
+          "is_answer": true
+        },
+        {
+          "option": "Montevideo"
+        },
+        {
+          "option": "Buenos Aires"
+        },
+        {
+          "option": "Brasilia"
+        }
+      ]
+    },
+    {
+      "question": "What is the correct capital-country pair?",
+      "options": [
+        {
+          "option": "Brasilia - Brazil",
+          "is_answer": true
+        },
+        {
+          "option": "Buenos Aires - Chile"
+        },
+        {
+          "option": "Montevideo - Paraguay"
+        },
+        {
+          "option": "Santiago - Argentina"
+        }
+      ]
+    },
+    {
+      "question": "Which capital city is located in the Southern Cone region?",
+      "options": [
+        {
+          "option": "Brasilia"
+        },
+        {
+          "option": "Buenos Aires",
+          "is_answer": true
+        },
+        {
+          "option": "Bogota"
+        },
+        {
+          "option": "Lima"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is NOT a capital city in the Southern Cone/Brazil region?",
+      "options": [
+        {
+          "option": "Brasilia"
+        },
+        {
+          "option": "Asuncion"
+        },
+        {
+          "option": "Montevideo"
+        },
+        {
+          "option": "Quito",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of the country that shares a border with both Brazil and Argentina?",
+      "options": [
+        {
+          "option": "Santiago"
+        },
+        {
+          "option": "Asuncion",
+          "is_answer": true
+        },
+        {
+          "option": "Buenos Aires"
+        },
+        {
+          "option": "Brasilia"
+        }
+      ]
+    },
+    {
+      "question": "Which capital city is the furthest east?",
+      "options": [
+        {
+          "option": "Asuncion"
+        },
+        {
+          "option": "Santiago"
+        },
+        {
+          "option": "Brasilia",
+          "is_answer": true
+        },
+        {
+          "option": "Buenos Aires"
+        }
+      ]
+    },
+    {
+      "question": "Which city serves as the administrative capital of South Africa?",
+      "options": [
+        {
+          "option": "Cape Town"
+        },
+        {
+          "option": "Bloemfontein"
+        },
+        {
+          "option": "Johannesburg"
+        },
+        {
+          "option": "Pretoria",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the capital city of Zimbabwe?",
+      "options": [
+        {
+          "option": "Harare",
+          "is_answer": true
+        },
+        {
+          "option": "Luanda"
+        },
+        {
+          "option": "Lusaka"
+        },
+        {
+          "option": "Windhoek"
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of Zambia?",
+      "options": [
+        {
+          "option": "Harare"
+        },
+        {
+          "option": "Pretoria"
+        },
+        {
+          "option": "Lusaka",
+          "is_answer": true
+        },
+        {
+          "option": "Kinshasa"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Angola?",
+      "options": [
+        {
+          "option": "Luanda",
+          "is_answer": true
+        },
+        {
+          "option": "Windhoek"
+        },
+        {
+          "option": "Harare"
+        },
+        {
+          "option": "Kinshasa"
+        }
+      ]
+    },
+    {
+      "question": "Kinshasa is the capital city of which country?",
+      "options": [
+        {
+          "option": "Zambia"
+        },
+        {
+          "option": "Zimbabwe"
+        },
+        {
+          "option": "DRC",
+          "is_answer": true
+        },
+        {
+          "option": "Namibia"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital city of Namibia?",
+      "options": [
+        {
+          "option": "Luanda"
+        },
+        {
+          "option": "Windhoek",
+          "is_answer": true
+        },
+        {
+          "option": "Lusaka"
+        },
+        {
+          "option": "Pretoria"
+        }
+      ]
+    },
+    {
+      "question": "Which city is the legislative capital of South Africa?",
+      "options": [
+        {
+          "option": "Pretoria"
+        },
+        {
+          "option": "Bloemfontein"
+        },
+        {
+          "option": "Cape Town",
+          "is_answer": true
+        },
+        {
+          "option": "Durban"
+        }
+      ]
+    },
+    {
+      "question": "Which city is the judicial capital of South Africa?",
+      "options": [
+        {
+          "option": "Cape Town"
+        },
+        {
+          "option": "Bloemfontein",
+          "is_answer": true
+        },
+        {
+          "option": "Johannesburg"
+        },
+        {
+          "option": "Pretoria"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a capital city in Southern Africa?",
+      "options": [
+        {
+          "option": "Nairobi"
+        },
+        {
+          "option": "Cairo"
+        },
+        {
+          "option": "Accra"
+        },
+        {
+          "option": "Lusaka",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Luanda is the capital of which nation?",
+      "options": [
+        {
+          "option": "Angola",
+          "is_answer": true
+        },
+        {
+          "option": "Namibia"
+        },
+        {
+          "option": "Zimbabwe"
+        },
+        {
+          "option": "Zambia"
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of the Democratic Republic of the Congo?",
+      "options": [
+        {
+          "option": "Harare"
+        },
+        {
+          "option": "Luanda"
+        },
+        {
+          "option": "Kinshasa",
+          "is_answer": true
+        },
+        {
+          "option": "Windhoek"
+        }
+      ]
+    },
+    {
+      "question": "Harare is the capital city of which country?",
+      "options": [
+        {
+          "option": "Zimbabwe",
+          "is_answer": true
+        },
+        {
+          "option": "Zambia"
+        },
+        {
+          "option": "Angola"
+        },
+        {
+          "option": "Namibia"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is NOT a capital of South Africa?",
+      "options": [
+        {
+          "option": "Johannesburg",
+          "is_answer": true
+        },
+        {
+          "option": "Pretoria"
+        },
+        {
+          "option": "Bloemfontein"
+        },
+        {
+          "option": "Cape Town"
+        }
+      ]
+    },
+    {
+      "question": "Windhoek is the capital of which country?",
+      "options": [
+        {
+          "option": "Angola"
+        },
+        {
+          "option": "Zambia"
+        },
+        {
+          "option": "Namibia",
+          "is_answer": true
+        },
+        {
+          "option": "Zimbabwe"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Zambia?",
+      "options": [
+        {
+          "option": "Lusaka",
+          "is_answer": true
+        },
+        {
+          "option": "Kinshasa"
+        },
+        {
+          "option": "Harare"
+        },
+        {
+          "option": "Luanda"
+        }
+      ]
+    },
+    {
+      "question": "Which city is the administrative center of South Africa?",
+      "options": [
+        {
+          "option": "Cape Town"
+        },
+        {
+          "option": "Johannesburg"
+        },
+        {
+          "option": "Pretoria",
+          "is_answer": true
+        },
+        {
+          "option": "Bloemfontein"
+        }
+      ]
+    },
+    {
+      "question": "Which country has Luanda as its capital?",
+      "options": [
+        {
+          "option": "Zambia"
+        },
+        {
+          "option": "Angola",
+          "is_answer": true
+        },
+        {
+          "option": "Namibia"
+        },
+        {
+          "option": "DRC"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital city of the DRC?",
+      "options": [
+        {
+          "option": "Lusaka"
+        },
+        {
+          "option": "Kinshasa",
+          "is_answer": true
+        },
+        {
+          "option": "Windhoek"
+        },
+        {
+          "option": "Harare"
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of Zimbabwe?",
+      "options": [
+        {
+          "option": "Harare",
+          "is_answer": true
+        },
+        {
+          "option": "Pretoria"
+        },
+        {
+          "option": "Luanda"
+        },
+        {
+          "option": "Lusaka"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Namibia?",
+      "options": [
+        {
+          "option": "Lusaka"
+        },
+        {
+          "option": "Kinshasa"
+        },
+        {
+          "option": "Windhoek",
+          "is_answer": true
+        },
+        {
+          "option": "Harare"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital city of Australia?",
+      "options": [
+        {
+          "option": "Melbourne"
+        },
+        {
+          "option": "Sydney"
+        },
+        {
+          "option": "Canberra",
+          "is_answer": true
+        },
+        {
+          "option": "Brisbane"
+        }
+      ]
+    },
+    {
+      "question": "Which city serves as the capital of New Zealand?",
+      "options": [
+        {
+          "option": "Wellington",
+          "is_answer": true
+        },
+        {
+          "option": "Hamilton"
+        },
+        {
+          "option": "Auckland"
+        },
+        {
+          "option": "Christchurch"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Fiji?",
+      "options": [
+        {
+          "option": "Nadi"
+        },
+        {
+          "option": "Suva",
+          "is_answer": true
+        },
+        {
+          "option": "Savusavu"
+        },
+        {
+          "option": "Lautoka"
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of Papua New Guinea?",
+      "options": [
+        {
+          "option": "Port Moresby",
+          "is_answer": true
+        },
+        {
+          "option": "Madang"
+        },
+        {
+          "option": "Goroka"
+        },
+        {
+          "option": "Lae"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital city of Samoa?",
+      "options": [
+        {
+          "option": "Apia",
+          "is_answer": true
+        },
+        {
+          "option": "Nuku'alofa"
+        },
+        {
+          "option": "Pago Pago"
+        },
+        {
+          "option": "Tarawa"
+        }
+      ]
+    },
+    {
+      "question": "Canberra is the capital of which country?",
+      "options": [
+        {
+          "option": "Fiji"
+        },
+        {
+          "option": "Papua New Guinea"
+        },
+        {
+          "option": "New Zealand"
+        },
+        {
+          "option": "Australia",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Wellington is the capital of which nation?",
+      "options": [
+        {
+          "option": "New Zealand",
+          "is_answer": true
+        },
+        {
+          "option": "Fiji"
+        },
+        {
+          "option": "Australia"
+        },
+        {
+          "option": "Samoa"
+        }
+      ]
+    },
+    {
+      "question": "Suva is the capital city of which Pacific island country?",
+      "options": [
+        {
+          "option": "Samoa"
+        },
+        {
+          "option": "Australia"
+        },
+        {
+          "option": "Papua New Guinea"
+        },
+        {
+          "option": "Fiji",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Port Moresby is the capital of which country?",
+      "options": [
+        {
+          "option": "New Zealand"
+        },
+        {
+          "option": "Papua New Guinea",
+          "is_answer": true
+        },
+        {
+          "option": "Fiji"
+        },
+        {
+          "option": "Samoa"
+        }
+      ]
+    },
+    {
+      "question": "Apia is the capital of which country?",
+      "options": [
+        {
+          "option": "Samoa",
+          "is_answer": true
+        },
+        {
+          "option": "New Zealand"
+        },
+        {
+          "option": "Australia"
+        },
+        {
+          "option": "Fiji"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Australia?",
+      "options": [
+        {
+          "option": "Canberra",
+          "is_answer": true
+        },
+        {
+          "option": "Perth"
+        },
+        {
+          "option": "Darwin"
+        },
+        {
+          "option": "Hobart"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of New Zealand?",
+      "options": [
+        {
+          "option": "Napier"
+        },
+        {
+          "option": "Dunedin"
+        },
+        {
+          "option": "Nelson"
+        },
+        {
+          "option": "Wellington",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Fiji?",
+      "options": [
+        {
+          "option": "Suva",
+          "is_answer": true
+        },
+        {
+          "option": "Sigatoka"
+        },
+        {
+          "option": "Labasa"
+        },
+        {
+          "option": "Ba"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Papua New Guinea?",
+      "options": [
+        {
+          "option": "Mount Hagen"
+        },
+        {
+          "option": "Wewak"
+        },
+        {
+          "option": "Port Moresby",
+          "is_answer": true
+        },
+        {
+          "option": "Kimbe"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Samoa?",
+      "options": [
+        {
+          "option": "Faleolo"
+        },
+        {
+          "option": "Apia",
+          "is_answer": true
+        },
+        {
+          "option": "Vaitele"
+        },
+        {
+          "option": "Salelologa"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of the country that hosts the city of Canberra?",
+      "options": [
+        {
+          "option": "Sydney"
+        },
+        {
+          "option": "Canberra",
+          "is_answer": true
+        },
+        {
+          "option": "Adelaide"
+        },
+        {
+          "option": "Melbourne"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of the country that hosts the city of Wellington?",
+      "options": [
+        {
+          "option": "Auckland"
+        },
+        {
+          "option": "Hamilton"
+        },
+        {
+          "option": "Wellington",
+          "is_answer": true
+        },
+        {
+          "option": "Tauranga"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of the country that hosts the city of Suva?",
+      "options": [
+        {
+          "option": "Lautoka"
+        },
+        {
+          "option": "Ba"
+        },
+        {
+          "option": "Nadi"
+        },
+        {
+          "option": "Suva",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of the country that hosts the city of Port Moresby?",
+      "options": [
+        {
+          "option": "Port Moresby",
+          "is_answer": true
+        },
+        {
+          "option": "Madang"
+        },
+        {
+          "option": "Mount Hagen"
+        },
+        {
+          "option": "Lae"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of the country that hosts the city of Apia?",
+      "options": [
+        {
+          "option": "Apia",
+          "is_answer": true
+        },
+        {
+          "option": "Funafuti"
+        },
+        {
+          "option": "Pago Pago"
+        },
+        {
+          "option": "Nuku'alofa"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Switzerland?",
+      "options": [
+        {
+          "option": "Geneva"
+        },
+        {
+          "option": "Zurich"
+        },
+        {
+          "option": "Bern",
+          "is_answer": true
+        },
+        {
+          "option": "Basel"
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of Austria?",
+      "options": [
+        {
+          "option": "Innsbruck"
+        },
+        {
+          "option": "Vienna",
+          "is_answer": true
+        },
+        {
+          "option": "Graz"
+        },
+        {
+          "option": "Salzburg"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Mongolia?",
+      "options": [
+        {
+          "option": "Erdenet"
+        },
+        {
+          "option": "Choibalsan"
+        },
+        {
+          "option": "Ulaanbaatar",
+          "is_answer": true
+        },
+        {
+          "option": "Darkhan"
+        }
+      ]
+    },
+    {
+      "question": "Which city serves as the capital of Nepal?",
+      "options": [
+        {
+          "option": "Kathmandu",
+          "is_answer": true
+        },
+        {
+          "option": "Lalitpur"
+        },
+        {
+          "option": "Pokhara"
+        },
+        {
+          "option": "Biratnagar"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Bolivia?",
+      "options": [
+        {
+          "option": "Cochabamba"
+        },
+        {
+          "option": "Santa Cruz"
+        },
+        {
+          "option": "Sucre"
+        },
+        {
+          "option": "La Paz",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of Paraguay?",
+      "options": [
+        {
+          "option": "Encarnacion"
+        },
+        {
+          "option": "Ciudad del Este"
+        },
+        {
+          "option": "Asuncion",
+          "is_answer": true
+        },
+        {
+          "option": "Luque"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Chad?",
+      "options": [
+        {
+          "option": "N'Djamena",
+          "is_answer": true
+        },
+        {
+          "option": "Moundou"
+        },
+        {
+          "option": "Sarh"
+        },
+        {
+          "option": "Abeche"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a landlocked country with its capital as Bern?",
+      "options": [
+        {
+          "option": "Switzerland",
+          "is_answer": true
+        },
+        {
+          "option": "Hungary"
+        },
+        {
+          "option": "Austria"
+        },
+        {
+          "option": "Czech Republic"
+        }
+      ]
+    },
+    {
+      "question": "Vienna is the capital of which landlocked nation?",
+      "options": [
+        {
+          "option": "Serbia"
+        },
+        {
+          "option": "Austria",
+          "is_answer": true
+        },
+        {
+          "option": "Slovakia"
+        },
+        {
+          "option": "Switzerland"
+        }
+      ]
+    },
+    {
+      "question": "Kathmandu is the capital of which landlocked country?",
+      "options": [
+        {
+          "option": "Laos"
+        },
+        {
+          "option": "Bhutan"
+        },
+        {
+          "option": "Nepal",
+          "is_answer": true
+        },
+        {
+          "option": "Afghanistan"
+        }
+      ]
+    },
+    {
+      "question": "Which landlocked country has La Paz as its capital?",
+      "options": [
+        {
+          "option": "Chile"
+        },
+        {
+          "option": "Argentina"
+        },
+        {
+          "option": "Paraguay"
+        },
+        {
+          "option": "Bolivia",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Asuncion is the capital of which South American landlocked country?",
+      "options": [
+        {
+          "option": "Uruguay"
+        },
+        {
+          "option": "Paraguay",
+          "is_answer": true
+        },
+        {
+          "option": "Bolivia"
+        },
+        {
+          "option": "Peru"
+        }
+      ]
+    },
+    {
+      "question": "N'Djamena is the capital of which African landlocked country?",
+      "options": [
+        {
+          "option": "Niger"
+        },
+        {
+          "option": "Mali"
+        },
+        {
+          "option": "Chad",
+          "is_answer": true
+        },
+        {
+          "option": "Central African Republic"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is NOT a landlocked country?",
+      "options": [
+        {
+          "option": "Nepal"
+        },
+        {
+          "option": "Switzerland"
+        },
+        {
+          "option": "Chile",
+          "is_answer": true
+        },
+        {
+          "option": "Austria"
+        }
+      ]
+    },
+    {
+      "question": "The capital of Switzerland is:",
+      "options": [
+        {
+          "option": "Lugano"
+        },
+        {
+          "option": "Geneva"
+        },
+        {
+          "option": "Zurich"
+        },
+        {
+          "option": "Bern",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The capital of Austria is:",
+      "options": [
+        {
+          "option": "Graz"
+        },
+        {
+          "option": "Salzburg"
+        },
+        {
+          "option": "Linz"
+        },
+        {
+          "option": "Vienna",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The capital of Mongolia is:",
+      "options": [
+        {
+          "option": "Altai"
+        },
+        {
+          "option": "Ulaanbaatar",
+          "is_answer": true
+        },
+        {
+          "option": "Olgii"
+        },
+        {
+          "option": "Murun"
+        }
+      ]
+    },
+    {
+      "question": "The capital of Nepal is:",
+      "options": [
+        {
+          "option": "Hetauda"
+        },
+        {
+          "option": "Patan"
+        },
+        {
+          "option": "Bhaktapur"
+        },
+        {
+          "option": "Kathmandu",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The capital of Paraguay is:",
+      "options": [
+        {
+          "option": "Asuncion",
+          "is_answer": true
+        },
+        {
+          "option": "Aregua"
+        },
+        {
+          "option": "Capiata"
+        },
+        {
+          "option": "Itaugua"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital city of Nigeria?",
+      "options": [
+        {
+          "option": "Ibadan"
+        },
+        {
+          "option": "Kano"
+        },
+        {
+          "option": "Lagos"
+        },
+        {
+          "option": "Abuja",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which city serves as the capital of Ghana?",
+      "options": [
+        {
+          "option": "Accra",
+          "is_answer": true
+        },
+        {
+          "option": "Kumasi"
+        },
+        {
+          "option": "Sekondi"
+        },
+        {
+          "option": "Tamale"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Senegal?",
+      "options": [
+        {
+          "option": "Saint-Louis"
+        },
+        {
+          "option": "Kaolack"
+        },
+        {
+          "option": "Thiès"
+        },
+        {
+          "option": "Dakar",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of Ivory Coast?",
+      "options": [
+        {
+          "option": "Yamoussoukro",
+          "is_answer": true
+        },
+        {
+          "option": "Daloa"
+        },
+        {
+          "option": "Bouaké"
+        },
+        {
+          "option": "Abidjan"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital city of Mali?",
+      "options": [
+        {
+          "option": "Kayes"
+        },
+        {
+          "option": "Bamako",
+          "is_answer": true
+        },
+        {
+          "option": "Mopti"
+        },
+        {
+          "option": "Sikasso"
+        }
+      ]
+    },
+    {
+      "question": "Abuja is the capital of which West African nation?",
+      "options": [
+        {
+          "option": "Ghana"
+        },
+        {
+          "option": "Senegal"
+        },
+        {
+          "option": "Nigeria",
+          "is_answer": true
+        },
+        {
+          "option": "Mali"
+        }
+      ]
+    },
+    {
+      "question": "Accra is the capital city of which country?",
+      "options": [
+        {
+          "option": "Ivory Coast"
+        },
+        {
+          "option": "Nigeria"
+        },
+        {
+          "option": "Ghana",
+          "is_answer": true
+        },
+        {
+          "option": "Senegal"
+        }
+      ]
+    },
+    {
+      "question": "Dakar is the capital of which country?",
+      "options": [
+        {
+          "option": "Ghana"
+        },
+        {
+          "option": "Mali"
+        },
+        {
+          "option": "Nigeria"
+        },
+        {
+          "option": "Senegal",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Yamoussoukro is the capital of which nation?",
+      "options": [
+        {
+          "option": "Ghana"
+        },
+        {
+          "option": "Mali"
+        },
+        {
+          "option": "Senegal"
+        },
+        {
+          "option": "Ivory Coast",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Bamako is the capital of which West African country?",
+      "options": [
+        {
+          "option": "Senegal"
+        },
+        {
+          "option": "Mali",
+          "is_answer": true
+        },
+        {
+          "option": "Nigeria"
+        },
+        {
+          "option": "Ivory Coast"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Nigeria?",
+      "options": [
+        {
+          "option": "Abuja",
+          "is_answer": true
+        },
+        {
+          "option": "Bamako"
+        },
+        {
+          "option": "Dakar"
+        },
+        {
+          "option": "Accra"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Ghana?",
+      "options": [
+        {
+          "option": "Bamako"
+        },
+        {
+          "option": "Yamoussoukro"
+        },
+        {
+          "option": "Accra",
+          "is_answer": true
+        },
+        {
+          "option": "Abuja"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Senegal?",
+      "options": [
+        {
+          "option": "Abuja"
+        },
+        {
+          "option": "Abidjan"
+        },
+        {
+          "option": "Accra"
+        },
+        {
+          "option": "Dakar",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Ivory Coast?",
+      "options": [
+        {
+          "option": "Bamako"
+        },
+        {
+          "option": "Yamoussoukro",
+          "is_answer": true
+        },
+        {
+          "option": "Accra"
+        },
+        {
+          "option": "Dakar"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Mali?",
+      "options": [
+        {
+          "option": "Bamako",
+          "is_answer": true
+        },
+        {
+          "option": "Dakar"
+        },
+        {
+          "option": "Yamoussoukro"
+        },
+        {
+          "option": "Abuja"
+        }
+      ]
+    },
+    {
+      "question": "Which city is the administrative center of Mali?",
+      "options": [
+        {
+          "option": "Accra"
+        },
+        {
+          "option": "Bamako",
+          "is_answer": true
+        },
+        {
+          "option": "Abuja"
+        },
+        {
+          "option": "Dakar"
+        }
+      ]
+    },
+    {
+      "question": "Which city is the administrative center of Senegal?",
+      "options": [
+        {
+          "option": "Yamoussoukro"
+        },
+        {
+          "option": "Dakar",
+          "is_answer": true
+        },
+        {
+          "option": "Bamako"
+        },
+        {
+          "option": "Abuja"
+        }
+      ]
+    },
+    {
+      "question": "Which city is the administrative center of Ghana?",
+      "options": [
+        {
+          "option": "Yamoussoukro"
+        },
+        {
+          "option": "Bamako"
+        },
+        {
+          "option": "Dakar"
+        },
+        {
+          "option": "Accra",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which city is the administrative center of Nigeria?",
+      "options": [
+        {
+          "option": "Abuja",
+          "is_answer": true
+        },
+        {
+          "option": "Accra"
+        },
+        {
+          "option": "Bamako"
+        },
+        {
+          "option": "Dakar"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital city of Kenya?",
+      "options": [
+        {
+          "option": "Nairobi",
+          "is_answer": true
+        },
+        {
+          "option": "Kigali"
+        },
+        {
+          "option": "Mogadishu"
+        },
+        {
+          "option": "Dodoma"
+        }
+      ]
+    },
+    {
+      "question": "Which city serves as the capital of Ethiopia?",
+      "options": [
+        {
+          "option": "Addis Ababa",
+          "is_answer": true
+        },
+        {
+          "option": "Nairobi"
+        },
+        {
+          "option": "Dodoma"
+        },
+        {
+          "option": "Kampala"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Tanzania?",
+      "options": [
+        {
+          "option": "Addis Ababa"
+        },
+        {
+          "option": "Kigali"
+        },
+        {
+          "option": "Mogadishu"
+        },
+        {
+          "option": "Dodoma",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of Uganda?",
+      "options": [
+        {
+          "option": "Kampala",
+          "is_answer": true
+        },
+        {
+          "option": "Nairobi"
+        },
+        {
+          "option": "Kigali"
+        },
+        {
+          "option": "Addis Ababa"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital city of Rwanda?",
+      "options": [
+        {
+          "option": "Kampala"
+        },
+        {
+          "option": "Dodoma"
+        },
+        {
+          "option": "Kigali",
+          "is_answer": true
+        },
+        {
+          "option": "Mogadishu"
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of Somalia?",
+      "options": [
+        {
+          "option": "Nairobi"
+        },
+        {
+          "option": "Dodoma"
+        },
+        {
+          "option": "Mogadishu",
+          "is_answer": true
+        },
+        {
+          "option": "Addis Ababa"
+        }
+      ]
+    },
+    {
+      "question": "Nairobi is the capital of which East African country?",
+      "options": [
+        {
+          "option": "Rwanda"
+        },
+        {
+          "option": "Kenya",
+          "is_answer": true
+        },
+        {
+          "option": "Uganda"
+        },
+        {
+          "option": "Tanzania"
+        }
+      ]
+    },
+    {
+      "question": "Addis Ababa is the capital of which country?",
+      "options": [
+        {
+          "option": "Somalia"
+        },
+        {
+          "option": "Uganda"
+        },
+        {
+          "option": "Ethiopia",
+          "is_answer": true
+        },
+        {
+          "option": "Kenya"
+        }
+      ]
+    },
+    {
+      "question": "Dodoma is the capital city of which nation?",
+      "options": [
+        {
+          "option": "Rwanda"
+        },
+        {
+          "option": "Tanzania",
+          "is_answer": true
+        },
+        {
+          "option": "Somalia"
+        },
+        {
+          "option": "Ethiopia"
+        }
+      ]
+    },
+    {
+      "question": "Kampala is the capital of which country?",
+      "options": [
+        {
+          "option": "Kenya"
+        },
+        {
+          "option": "Rwanda"
+        },
+        {
+          "option": "Tanzania"
+        },
+        {
+          "option": "Uganda",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Kigali is the capital of which East African nation?",
+      "options": [
+        {
+          "option": "Kenya"
+        },
+        {
+          "option": "Rwanda",
+          "is_answer": true
+        },
+        {
+          "option": "Somalia"
+        },
+        {
+          "option": "Ethiopia"
+        }
+      ]
+    },
+    {
+      "question": "Mogadishu is the capital of which country?",
+      "options": [
+        {
+          "option": "Uganda"
+        },
+        {
+          "option": "Somalia",
+          "is_answer": true
+        },
+        {
+          "option": "Ethiopia"
+        },
+        {
+          "option": "Tanzania"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Kenya?",
+      "options": [
+        {
+          "option": "Dodoma"
+        },
+        {
+          "option": "Kampala"
+        },
+        {
+          "option": "Kigali"
+        },
+        {
+          "option": "Nairobi",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Ethiopia?",
+      "options": [
+        {
+          "option": "Mogadishu"
+        },
+        {
+          "option": "Nairobi"
+        },
+        {
+          "option": "Addis Ababa",
+          "is_answer": true
+        },
+        {
+          "option": "Rwanda"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Tanzania?",
+      "options": [
+        {
+          "option": "Dodoma",
+          "is_answer": true
+        },
+        {
+          "option": "Nairobi"
+        },
+        {
+          "option": "Addis Ababa"
+        },
+        {
+          "option": "Kampala"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Uganda?",
+      "options": [
+        {
+          "option": "Mogadishu"
+        },
+        {
+          "option": "Dodoma"
+        },
+        {
+          "option": "Kampala",
+          "is_answer": true
+        },
+        {
+          "option": "Kigali"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Rwanda?",
+      "options": [
+        {
+          "option": "Kigali",
+          "is_answer": true
+        },
+        {
+          "option": "Addis Ababa"
+        },
+        {
+          "option": "Nairobi"
+        },
+        {
+          "option": "Somalia"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Somalia?",
+      "options": [
+        {
+          "option": "Kampala"
+        },
+        {
+          "option": "Kenya"
+        },
+        {
+          "option": "Dodoma"
+        },
+        {
+          "option": "Mogadishu",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of the country where Nairobi is located?",
+      "options": [
+        {
+          "option": "Kigali"
+        },
+        {
+          "option": "Dodoma"
+        },
+        {
+          "option": "Nairobi",
+          "is_answer": true
+        },
+        {
+          "option": "Addis Ababa"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of the country where Addis Ababa is located?",
+      "options": [
+        {
+          "option": "Nairobi"
+        },
+        {
+          "option": "Kampala"
+        },
+        {
+          "option": "Addis Ababa",
+          "is_answer": true
+        },
+        {
+          "option": "Mogadishu"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Madagascar?",
+      "options": [
+        {
+          "option": "Victoria"
+        },
+        {
+          "option": "Male"
+        },
+        {
+          "option": "Port Louis"
+        },
+        {
+          "option": "Antananarivo",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which city serves as the capital of Mauritius?",
+      "options": [
+        {
+          "option": "Port Louis",
+          "is_answer": true
+        },
+        {
+          "option": "Colombo"
+        },
+        {
+          "option": "Reykjavik"
+        },
+        {
+          "option": "Victoria"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Seychelles?",
+      "options": [
+        {
+          "option": "Victoria",
+          "is_answer": true
+        },
+        {
+          "option": "Antananarivo"
+        },
+        {
+          "option": "Male"
+        },
+        {
+          "option": "Reykjavik"
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of the Maldives?",
+      "options": [
+        {
+          "option": "Port Louis"
+        },
+        {
+          "option": "Antananarivo"
+        },
+        {
+          "option": "Colombo"
+        },
+        {
+          "option": "Male",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Sri Lanka?",
+      "options": [
+        {
+          "option": "Male"
+        },
+        {
+          "option": "Colombo"
+        },
+        {
+          "option": "Sri Jayawardenepura Kotte",
+          "is_answer": true
+        },
+        {
+          "option": "Victoria"
+        }
+      ]
+    },
+    {
+      "question": "Antananarivo is the capital of which island nation?",
+      "options": [
+        {
+          "option": "Maldives"
+        },
+        {
+          "option": "Madagascar",
+          "is_answer": true
+        },
+        {
+          "option": "Seychelles"
+        },
+        {
+          "option": "Mauritius"
+        }
+      ]
+    },
+    {
+      "question": "Port Louis is the capital of which country?",
+      "options": [
+        {
+          "option": "Mauritius",
+          "is_answer": true
+        },
+        {
+          "option": "Madagascar"
+        },
+        {
+          "option": "Sri Lanka"
+        },
+        {
+          "option": "Iceland"
+        }
+      ]
+    },
+    {
+      "question": "Victoria is the capital of which island nation?",
+      "options": [
+        {
+          "option": "Maldives"
+        },
+        {
+          "option": "Mauritius"
+        },
+        {
+          "option": "Seychelles",
+          "is_answer": true
+        },
+        {
+          "option": "Madagascar"
+        }
+      ]
+    },
+    {
+      "question": "Male is the capital of which island nation?",
+      "options": [
+        {
+          "option": "Seychelles"
+        },
+        {
+          "option": "Sri Lanka"
+        },
+        {
+          "option": "Mauritius"
+        },
+        {
+          "option": "Maldives",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Reykjavik is the capital of which island nation?",
+      "options": [
+        {
+          "option": "Madagascar"
+        },
+        {
+          "option": "Sri Lanka"
+        },
+        {
+          "option": "Iceland",
+          "is_answer": true
+        },
+        {
+          "option": "Seychelles"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the capital of Sri Lanka?",
+      "options": [
+        {
+          "option": "Port Louis"
+        },
+        {
+          "option": "Sri Jayawardenepura Kotte",
+          "is_answer": true
+        },
+        {
+          "option": "Victoria"
+        },
+        {
+          "option": "Male"
+        }
+      ]
+    },
+    {
+      "question": "Which country has Antananarivo as its capital?",
+      "options": [
+        {
+          "option": "Madagascar",
+          "is_answer": true
+        },
+        {
+          "option": "Maldives"
+        },
+        {
+          "option": "Iceland"
+        },
+        {
+          "option": "Seychelles"
+        }
+      ]
+    },
+    {
+      "question": "Which country has Port Louis as its capital?",
+      "options": [
+        {
+          "option": "Sri Lanka"
+        },
+        {
+          "option": "Mauritius",
+          "is_answer": true
+        },
+        {
+          "option": "Madagascar"
+        },
+        {
+          "option": "Iceland"
+        }
+      ]
+    },
+    {
+      "question": "Which country has Victoria as its capital?",
+      "options": [
+        {
+          "option": "Maldives"
+        },
+        {
+          "option": "Seychelles",
+          "is_answer": true
+        },
+        {
+          "option": "Mauritius"
+        },
+        {
+          "option": "Sri Lanka"
+        }
+      ]
+    },
+    {
+      "question": "Which country has Male as its capital?",
+      "options": [
+        {
+          "option": "Maldives",
+          "is_answer": true
+        },
+        {
+          "option": "Seychelles"
+        },
+        {
+          "option": "Iceland"
+        },
+        {
+          "option": "Madagascar"
+        }
+      ]
+    },
+    {
+      "question": "Which country has Reykjavik as its capital?",
+      "options": [
+        {
+          "option": "Maldives"
+        },
+        {
+          "option": "Mauritius"
+        },
+        {
+          "option": "Iceland",
+          "is_answer": true
+        },
+        {
+          "option": "Sri Lanka"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of the island nation of Mauritius?",
+      "options": [
+        {
+          "option": "Port Louis",
+          "is_answer": true
+        },
+        {
+          "option": "Victoria"
+        },
+        {
+          "option": "Male"
+        },
+        {
+          "option": "Antananarivo"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of the island nation of Seychelles?",
+      "options": [
+        {
+          "option": "Reykjavik"
+        },
+        {
+          "option": "Victoria",
+          "is_answer": true
+        },
+        {
+          "option": "Colombo"
+        },
+        {
+          "option": "Port Louis"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of the island nation of Maldives?",
+      "options": [
+        {
+          "option": "Male",
+          "is_answer": true
+        },
+        {
+          "option": "Victoria"
+        },
+        {
+          "option": "Port Louis"
+        },
+        {
+          "option": "Antananarivo"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Vatican City?",
+      "options": [
+        {
+          "option": "Naples"
+        },
+        {
+          "option": "Milan"
+        },
+        {
+          "option": "Rome"
+        },
+        {
+          "option": "Vatican City",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Monaco?",
+      "options": [
+        {
+          "option": "Cannes"
+        },
+        {
+          "option": "Marseille"
+        },
+        {
+          "option": "Monaco",
+          "is_answer": true
+        },
+        {
+          "option": "Nice"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of San Marino?",
+      "options": [
+        {
+          "option": "Rimini"
+        },
+        {
+          "option": "Florence"
+        },
+        {
+          "option": "Bologna"
+        },
+        {
+          "option": "San Marino",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Liechtenstein?",
+      "options": [
+        {
+          "option": "Balzers"
+        },
+        {
+          "option": "Schaan"
+        },
+        {
+          "option": "Triesen"
+        },
+        {
+          "option": "Vaduz",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Andorra?",
+      "options": [
+        {
+          "option": "Canillo"
+        },
+        {
+          "option": "Encamp"
+        },
+        {
+          "option": "Andorra la Vella",
+          "is_answer": true
+        },
+        {
+          "option": "Escaldes"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Nauru?",
+      "options": [
+        {
+          "option": "Denigomodu"
+        },
+        {
+          "option": "Boe"
+        },
+        {
+          "option": "Aiwo"
+        },
+        {
+          "option": "Yaren",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which microstate has Vaduz as its capital?",
+      "options": [
+        {
+          "option": "San Marino"
+        },
+        {
+          "option": "Monaco"
+        },
+        {
+          "option": "Liechtenstein",
+          "is_answer": true
+        },
+        {
+          "option": "Andorra"
+        }
+      ]
+    },
+    {
+      "question": "Which microstate has Yaren as its capital?",
+      "options": [
+        {
+          "option": "Liechtenstein"
+        },
+        {
+          "option": "Nauru",
+          "is_answer": true
+        },
+        {
+          "option": "Monaco"
+        },
+        {
+          "option": "Vatican City"
+        }
+      ]
+    },
+    {
+      "question": "Which microstate has Andorra la Vella as its capital?",
+      "options": [
+        {
+          "option": "San Marino"
+        },
+        {
+          "option": "Nauru"
+        },
+        {
+          "option": "Andorra",
+          "is_answer": true
+        },
+        {
+          "option": "Liechtenstein"
+        }
+      ]
+    },
+    {
+      "question": "Vatican City is located within which city?",
+      "options": [
+        {
+          "option": "Milan"
+        },
+        {
+          "option": "Venice"
+        },
+        {
+          "option": "Rome",
+          "is_answer": true
+        },
+        {
+          "option": "Florence"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a microstate located in Europe?",
+      "options": [
+        {
+          "option": "Nauru"
+        },
+        {
+          "option": "Fiji"
+        },
+        {
+          "option": "Samoa"
+        },
+        {
+          "option": "San Marino",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which microstate is an island nation in the Pacific?",
+      "options": [
+        {
+          "option": "Vatican City"
+        },
+        {
+          "option": "Monaco"
+        },
+        {
+          "option": "Nauru",
+          "is_answer": true
+        },
+        {
+          "option": "Andorra"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of the microstate San Marino?",
+      "options": [
+        {
+          "option": "Serravalle"
+        },
+        {
+          "option": "Borgo Maggiore"
+        },
+        {
+          "option": "Faetano"
+        },
+        {
+          "option": "San Marino",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which microstate is surrounded by France and Spain?",
+      "options": [
+        {
+          "option": "Liechtenstein"
+        },
+        {
+          "option": "Monaco"
+        },
+        {
+          "option": "San Marino"
+        },
+        {
+          "option": "Andorra",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which microstate is located between Switzerland and Austria?",
+      "options": [
+        {
+          "option": "Andorra"
+        },
+        {
+          "option": "Monaco"
+        },
+        {
+          "option": "San Marino"
+        },
+        {
+          "option": "Liechtenstein",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the smallest country in the world?",
+      "options": [
+        {
+          "option": "Vatican City",
+          "is_answer": true
+        },
+        {
+          "option": "Nauru"
+        },
+        {
+          "option": "Monaco"
+        },
+        {
+          "option": "San Marino"
+        }
+      ]
+    },
+    {
+      "question": "Which microstate is known for its capital Yaren?",
+      "options": [
+        {
+          "option": "Liechtenstein"
+        },
+        {
+          "option": "Vatican City"
+        },
+        {
+          "option": "Andorra"
+        },
+        {
+          "option": "Nauru",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which microstate has the capital Andorra la Vella?",
+      "options": [
+        {
+          "option": "Nauru"
+        },
+        {
+          "option": "San Marino"
+        },
+        {
+          "option": "Monaco"
+        },
+        {
+          "option": "Andorra",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which microstate is located on the Italian Peninsula?",
+      "options": [
+        {
+          "option": "Andorra"
+        },
+        {
+          "option": "San Marino",
+          "is_answer": true
+        },
+        {
+          "option": "Liechtenstein"
+        },
+        {
+          "option": "Nauru"
+        }
+      ]
+    },
+    {
+      "question": "Which country has three official capital cities?",
+      "options": [
+        {
+          "option": "Kazakhstan"
+        },
+        {
+          "option": "Indonesia"
+        },
+        {
+          "option": "Bolivia"
+        },
+        {
+          "option": "South Africa",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the name of Indonesia's new capital city currently under construction?",
+      "options": [
+        {
+          "option": "Jakarta"
+        },
+        {
+          "option": "Nusantara",
+          "is_answer": true
+        },
+        {
+          "option": "Bandung"
+        },
+        {
+          "option": "Surabaya"
+        }
+      ]
+    },
+    {
+      "question": "Which city replaced Almaty as the capital of Kazakhstan in 1997?",
+      "options": [
+        {
+          "option": "Astana",
+          "is_answer": true
+        },
+        {
+          "option": "Shymkent"
+        },
+        {
+          "option": "Aktobe"
+        },
+        {
+          "option": "Karaganda"
+        }
+      ]
+    },
+    {
+      "question": "Which South American country has two official capital cities?",
+      "options": [
+        {
+          "option": "Argentina"
+        },
+        {
+          "option": "Brazil"
+        },
+        {
+          "option": "Chile"
+        },
+        {
+          "option": "Bolivia",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the name of the capital city of Myanmar that replaced Yangon in 2005?",
+      "options": [
+        {
+          "option": "Taunggyi"
+        },
+        {
+          "option": "Bagan"
+        },
+        {
+          "option": "Naypyidaw",
+          "is_answer": true
+        },
+        {
+          "option": "Mandalay"
+        }
+      ]
+    },
+    {
+      "question": "Which city was purpose-built to serve as the capital of Brazil?",
+      "options": [
+        {
+          "option": "Brasilia",
+          "is_answer": true
+        },
+        {
+          "option": "Rio de Janeiro"
+        },
+        {
+          "option": "Salvador"
+        },
+        {
+          "option": "Sao Paulo"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is NOT one of the three capitals of South Africa?",
+      "options": [
+        {
+          "option": "Johannesburg",
+          "is_answer": true
+        },
+        {
+          "option": "Pretoria"
+        },
+        {
+          "option": "Cape Town"
+        },
+        {
+          "option": "Bloemfontein"
+        }
+      ]
+    },
+    {
+      "question": "Bolivia's administrative capital is La Paz; what is its constitutional capital?",
+      "options": [
+        {
+          "option": "Sucre",
+          "is_answer": true
+        },
+        {
+          "option": "Santa Cruz"
+        },
+        {
+          "option": "Cochabamba"
+        },
+        {
+          "option": "Oruro"
+        }
+      ]
+    },
+    {
+      "question": "Astana, the capital of Kazakhstan, was briefly renamed to what in 2019?",
+      "options": [
+        {
+          "option": "Almaty"
+        },
+        {
+          "option": "Akmola"
+        },
+        {
+          "option": "Tselinograd"
+        },
+        {
+          "option": "Nur-Sultan",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which city served as the capital of Brazil before Brasilia?",
+      "options": [
+        {
+          "option": "Rio de Janeiro",
+          "is_answer": true
+        },
+        {
+          "option": "Recife"
+        },
+        {
+          "option": "Manaus"
+        },
+        {
+          "option": "Sao Paulo"
+        }
+      ]
+    },
+    {
+      "question": "Which South African city serves as the legislative capital?",
+      "options": [
+        {
+          "option": "Cape Town",
+          "is_answer": true
+        },
+        {
+          "option": "Bloemfontein"
+        },
+        {
+          "option": "Durban"
+        },
+        {
+          "option": "Pretoria"
+        }
+      ]
+    },
+    {
+      "question": "In which year did Indonesia officially announce the move of its capital to Nusantara?",
+      "options": [
+        {
+          "option": "2019",
+          "is_answer": true
+        },
+        {
+          "option": "2015"
+        },
+        {
+          "option": "2021"
+        },
+        {
+          "option": "2023"
+        }
+      ]
+    },
+    {
+      "question": "What is the administrative capital of South Africa?",
+      "options": [
+        {
+          "option": "Durban"
+        },
+        {
+          "option": "Bloemfontein"
+        },
+        {
+          "option": "Cape Town"
+        },
+        {
+          "option": "Pretoria",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Naypyidaw is located in which country?",
+      "options": [
+        {
+          "option": "Myanmar",
+          "is_answer": true
+        },
+        {
+          "option": "Thailand"
+        },
+        {
+          "option": "Vietnam"
+        },
+        {
+          "option": "Laos"
+        }
+      ]
+    },
+    {
+      "question": "Which country moved its capital from Almaty to Astana?",
+      "options": [
+        {
+          "option": "Tajikistan"
+        },
+        {
+          "option": "Kyrgyzstan"
+        },
+        {
+          "option": "Kazakhstan",
+          "is_answer": true
+        },
+        {
+          "option": "Uzbekistan"
+        }
+      ]
+    },
+    {
+      "question": "Brasilia was inaugurated as the capital of Brazil in which decade?",
+      "options": [
+        {
+          "option": "1950s"
+        },
+        {
+          "option": "1970s"
+        },
+        {
+          "option": "1980s"
+        },
+        {
+          "option": "1960s",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a capital of Bolivia?",
+      "options": [
+        {
+          "option": "Both A and B"
+        },
+        {
+          "option": "Neither A nor B"
+        },
+        {
+          "option": "La Paz"
+        },
+        {
+          "option": "Sucre",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the primary reason Indonesia decided to move its capital?",
+      "options": [
+        {
+          "option": "Political instability"
+        },
+        {
+          "option": "Climate change"
+        },
+        {
+          "option": "Jakarta's sinking and overcrowding",
+          "is_answer": true
+        },
+        {
+          "option": "Economic growth"
+        }
+      ]
+    },
+    {
+      "question": "Which city is the legislative capital of Bolivia?",
+      "options": [
+        {
+          "option": "Sucre"
+        },
+        {
+          "option": "La Paz",
+          "is_answer": true
+        },
+        {
+          "option": "Potosi"
+        },
+        {
+          "option": "Santa Cruz"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Panama?",
+      "options": [
+        {
+          "option": "Panama City",
+          "is_answer": true
+        },
+        {
+          "option": "David"
+        },
+        {
+          "option": "Colon"
+        },
+        {
+          "option": "Santiago"
+        }
+      ]
+    },
+    {
+      "question": "Which city serves as the capital of Mexico?",
+      "options": [
+        {
+          "option": "Monterrey"
+        },
+        {
+          "option": "Guadalajara"
+        },
+        {
+          "option": "Cancun"
+        },
+        {
+          "option": "Mexico City",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Guatemala?",
+      "options": [
+        {
+          "option": "Antigua"
+        },
+        {
+          "option": "Escuintla"
+        },
+        {
+          "option": "Guatemala City",
+          "is_answer": true
+        },
+        {
+          "option": "Quetzaltenango"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of the country San Marino?",
+      "options": [
+        {
+          "option": "San Marino",
+          "is_answer": true
+        },
+        {
+          "option": "Faetano"
+        },
+        {
+          "option": "Serravalle"
+        },
+        {
+          "option": "Borgo Maggiore"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Kuwait?",
+      "options": [
+        {
+          "option": "Hawalli"
+        },
+        {
+          "option": "Jahra"
+        },
+        {
+          "option": "Kuwait City",
+          "is_answer": true
+        },
+        {
+          "option": "Al Ahmadi"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Djibouti?",
+      "options": [
+        {
+          "option": "Obock"
+        },
+        {
+          "option": "Ali Sabieh"
+        },
+        {
+          "option": "Djibouti",
+          "is_answer": true
+        },
+        {
+          "option": "Tadjoura"
+        }
+      ]
+    },
+    {
+      "question": "Which of these countries has a capital with the same name as the country?",
+      "options": [
+        {
+          "option": "France"
+        },
+        {
+          "option": "Panama",
+          "is_answer": true
+        },
+        {
+          "option": "Japan"
+        },
+        {
+          "option": "Brazil"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a city-state where the capital is the country itself?",
+      "options": [
+        {
+          "option": "Thailand"
+        },
+        {
+          "option": "Malaysia"
+        },
+        {
+          "option": "Singapore",
+          "is_answer": true
+        },
+        {
+          "option": "Vietnam"
+        }
+      ]
+    },
+    {
+      "question": "The capital of which country is also named San Marino?",
+      "options": [
+        {
+          "option": "San Marino",
+          "is_answer": true
+        },
+        {
+          "option": "Italy"
+        },
+        {
+          "option": "Malta"
+        },
+        {
+          "option": "Vatican City"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of the nation Djibouti?",
+      "options": [
+        {
+          "option": "Loyada"
+        },
+        {
+          "option": "Djibouti City",
+          "is_answer": true
+        },
+        {
+          "option": "Dikhil"
+        },
+        {
+          "option": "Arta"
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of Mexico?",
+      "options": [
+        {
+          "option": "Leon"
+        },
+        {
+          "option": "Merida"
+        },
+        {
+          "option": "Mexico City",
+          "is_answer": true
+        },
+        {
+          "option": "Puebla"
+        }
+      ]
+    },
+    {
+      "question": "Is the capital of Kuwait named Kuwait City?",
+      "options": [
+        {
+          "option": "No"
+        },
+        {
+          "option": "Maybe"
+        },
+        {
+          "option": "Unknown"
+        },
+        {
+          "option": "Yes",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which country has a capital named Guatemala City?",
+      "options": [
+        {
+          "option": "Honduras"
+        },
+        {
+          "option": "Nicaragua"
+        },
+        {
+          "option": "El Salvador"
+        },
+        {
+          "option": "Guatemala",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a capital city that shares its name with its country?",
+      "options": [
+        {
+          "option": "Panama City",
+          "is_answer": true
+        },
+        {
+          "option": "Berlin"
+        },
+        {
+          "option": "London"
+        },
+        {
+          "option": "Tokyo"
+        }
+      ]
+    },
+    {
+      "question": "Which country's capital is also called Djibouti?",
+      "options": [
+        {
+          "option": "Ethiopia"
+        },
+        {
+          "option": "Eritrea"
+        },
+        {
+          "option": "Djibouti",
+          "is_answer": true
+        },
+        {
+          "option": "Somalia"
+        }
+      ]
+    },
+    {
+      "question": "Which river flows through London?",
+      "options": [
+        {
+          "option": "Thames",
+          "is_answer": true
+        },
+        {
+          "option": "Seine"
+        },
+        {
+          "option": "Danube"
+        },
+        {
+          "option": "Tiber"
+        }
+      ]
+    },
+    {
+      "question": "Paris is located on the banks of which river?",
+      "options": [
+        {
+          "option": "Thames"
+        },
+        {
+          "option": "Potomac"
+        },
+        {
+          "option": "Tigris"
+        },
+        {
+          "option": "Seine",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which river flows through Cairo?",
+      "options": [
+        {
+          "option": "Potomac"
+        },
+        {
+          "option": "Nile",
+          "is_answer": true
+        },
+        {
+          "option": "Tiber"
+        },
+        {
+          "option": "Danube"
+        }
+      ]
+    },
+    {
+      "question": "Rome is situated on which river?",
+      "options": [
+        {
+          "option": "Nile"
+        },
+        {
+          "option": "Thames"
+        },
+        {
+          "option": "Seine"
+        },
+        {
+          "option": "Tiber",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which river flows through Washington D.C.?",
+      "options": [
+        {
+          "option": "Potomac",
+          "is_answer": true
+        },
+        {
+          "option": "Danube"
+        },
+        {
+          "option": "Tigris"
+        },
+        {
+          "option": "Seine"
+        }
+      ]
+    },
+    {
+      "question": "Baghdad is located on the banks of which river?",
+      "options": [
+        {
+          "option": "Thames"
+        },
+        {
+          "option": "Tigris",
+          "is_answer": true
+        },
+        {
+          "option": "Nile"
+        },
+        {
+          "option": "Tiber"
+        }
+      ]
+    },
+    {
+      "question": "Which river flows through Budapest?",
+      "options": [
+        {
+          "option": "Tigris"
+        },
+        {
+          "option": "Seine"
+        },
+        {
+          "option": "Potomac"
+        },
+        {
+          "option": "Danube",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The Thames river flows through which capital city?",
+      "options": [
+        {
+          "option": "Cairo"
+        },
+        {
+          "option": "Rome"
+        },
+        {
+          "option": "Paris"
+        },
+        {
+          "option": "London",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The Seine river is associated with which capital?",
+      "options": [
+        {
+          "option": "London"
+        },
+        {
+          "option": "Baghdad"
+        },
+        {
+          "option": "Paris",
+          "is_answer": true
+        },
+        {
+          "option": "Budapest"
+        }
+      ]
+    },
+    {
+      "question": "Which capital city is famous for the Nile river?",
+      "options": [
+        {
+          "option": "Washington"
+        },
+        {
+          "option": "Cairo",
+          "is_answer": true
+        },
+        {
+          "option": "Rome"
+        },
+        {
+          "option": "London"
+        }
+      ]
+    },
+    {
+      "question": "The Tiber river flows through which city?",
+      "options": [
+        {
+          "option": "Budapest"
+        },
+        {
+          "option": "Paris"
+        },
+        {
+          "option": "Washington"
+        },
+        {
+          "option": "Rome",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which capital is located on the Potomac river?",
+      "options": [
+        {
+          "option": "Cairo"
+        },
+        {
+          "option": "Baghdad"
+        },
+        {
+          "option": "Washington",
+          "is_answer": true
+        },
+        {
+          "option": "London"
+        }
+      ]
+    },
+    {
+      "question": "The Tigris river flows through which capital?",
+      "options": [
+        {
+          "option": "Paris"
+        },
+        {
+          "option": "Baghdad",
+          "is_answer": true
+        },
+        {
+          "option": "Budapest"
+        },
+        {
+          "option": "Rome"
+        }
+      ]
+    },
+    {
+      "question": "Which capital city is situated on the Danube?",
+      "options": [
+        {
+          "option": "Washington"
+        },
+        {
+          "option": "Cairo"
+        },
+        {
+          "option": "London"
+        },
+        {
+          "option": "Budapest",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which river is associated with London?",
+      "options": [
+        {
+          "option": "Potomac"
+        },
+        {
+          "option": "Nile"
+        },
+        {
+          "option": "Thames",
+          "is_answer": true
+        },
+        {
+          "option": "Tigris"
+        }
+      ]
+    },
+    {
+      "question": "Which river is associated with Paris?",
+      "options": [
+        {
+          "option": "Seine",
+          "is_answer": true
+        },
+        {
+          "option": "Thames"
+        },
+        {
+          "option": "Tiber"
+        },
+        {
+          "option": "Danube"
+        }
+      ]
+    },
+    {
+      "question": "Which river is associated with Cairo?",
+      "options": [
+        {
+          "option": "Tigris"
+        },
+        {
+          "option": "Seine"
+        },
+        {
+          "option": "Potomac"
+        },
+        {
+          "option": "Nile",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which river is associated with Rome?",
+      "options": [
+        {
+          "option": "Thames"
+        },
+        {
+          "option": "Danube"
+        },
+        {
+          "option": "Tiber",
+          "is_answer": true
+        },
+        {
+          "option": "Nile"
+        }
+      ]
+    },
+    {
+      "question": "Which river is associated with Washington?",
+      "options": [
+        {
+          "option": "Budapest"
+        },
+        {
+          "option": "Seine"
+        },
+        {
+          "option": "Tigris"
+        },
+        {
+          "option": "Potomac",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which river is associated with Baghdad?",
+      "options": [
+        {
+          "option": "Tigris",
+          "is_answer": true
+        },
+        {
+          "option": "Nile"
+        },
+        {
+          "option": "Tiber"
+        },
+        {
+          "option": "Seine"
+        }
+      ]
+    },
+    {
+      "question": "What is the administrative center of Kosovo?",
+      "options": [
+        {
+          "option": "Mitrovica"
+        },
+        {
+          "option": "Prizren"
+        },
+        {
+          "option": "Pristina",
+          "is_answer": true
+        },
+        {
+          "option": "Peja"
+        }
+      ]
+    },
+    {
+      "question": "Which city serves as the administrative center of Taiwan?",
+      "options": [
+        {
+          "option": "Taichung"
+        },
+        {
+          "option": "Tainan"
+        },
+        {
+          "option": "Kaohsiung"
+        },
+        {
+          "option": "Taipei",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the designated administrative center of Western Sahara?",
+      "options": [
+        {
+          "option": "El Aaiun",
+          "is_answer": true
+        },
+        {
+          "option": "Dakhla"
+        },
+        {
+          "option": "Smara"
+        },
+        {
+          "option": "Boujdour"
+        }
+      ]
+    },
+    {
+      "question": "Which city is recognized as the administrative center of Greenland?",
+      "options": [
+        {
+          "option": "Ilulissat"
+        },
+        {
+          "option": "Qaqortoq"
+        },
+        {
+          "option": "Sisimiut"
+        },
+        {
+          "option": "Nuuk",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which city functions as the de facto administrative center for the Palestinian Authority?",
+      "options": [
+        {
+          "option": "Ramallah",
+          "is_answer": true
+        },
+        {
+          "option": "Bethlehem"
+        },
+        {
+          "option": "Nablus"
+        },
+        {
+          "option": "Gaza City"
+        }
+      ]
+    },
+    {
+      "question": "Pristina is the capital and administrative center of which territory?",
+      "options": [
+        {
+          "option": "North Macedonia"
+        },
+        {
+          "option": "Montenegro"
+        },
+        {
+          "option": "Albania"
+        },
+        {
+          "option": "Kosovo",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Taipei is the administrative center of which disputed territory?",
+      "options": [
+        {
+          "option": "Hainan"
+        },
+        {
+          "option": "Hong Kong"
+        },
+        {
+          "option": "Taiwan",
+          "is_answer": true
+        },
+        {
+          "option": "Macau"
+        }
+      ]
+    },
+    {
+      "question": "El Aaiun is the administrative center of which region?",
+      "options": [
+        {
+          "option": "Algeria"
+        },
+        {
+          "option": "Morocco"
+        },
+        {
+          "option": "Western Sahara",
+          "is_answer": true
+        },
+        {
+          "option": "Mauritania"
+        }
+      ]
+    },
+    {
+      "question": "Nuuk serves as the administrative center for which autonomous territory?",
+      "options": [
+        {
+          "option": "Greenland",
+          "is_answer": true
+        },
+        {
+          "option": "Iceland"
+        },
+        {
+          "option": "Svalbard"
+        },
+        {
+          "option": "Faroe Islands"
+        }
+      ]
+    },
+    {
+      "question": "Jerusalem is claimed as the administrative center by which entity?",
+      "options": [
+        {
+          "option": "Syria"
+        },
+        {
+          "option": "Lebanon"
+        },
+        {
+          "option": "Palestine",
+          "is_answer": true
+        },
+        {
+          "option": "Jordan"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the administrative center of Kosovo?",
+      "options": [
+        {
+          "option": "Ferizaj"
+        },
+        {
+          "option": "Pristina",
+          "is_answer": true
+        },
+        {
+          "option": "Gjilan"
+        },
+        {
+          "option": "Gjakova"
+        }
+      ]
+    },
+    {
+      "question": "What is the primary administrative center of Taiwan?",
+      "options": [
+        {
+          "option": "Chiayi"
+        },
+        {
+          "option": "Taipei",
+          "is_answer": true
+        },
+        {
+          "option": "Hsinchu"
+        },
+        {
+          "option": "Keelung"
+        }
+      ]
+    },
+    {
+      "question": "Which city is the administrative center of Western Sahara?",
+      "options": [
+        {
+          "option": "Tan-Tan"
+        },
+        {
+          "option": "Tarfaya"
+        },
+        {
+          "option": "Guelta Zemmur"
+        },
+        {
+          "option": "El Aaiun",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Nuuk is the administrative center of which territory?",
+      "options": [
+        {
+          "option": "Greenland",
+          "is_answer": true
+        },
+        {
+          "option": "Nunavut"
+        },
+        {
+          "option": "Yukon"
+        },
+        {
+          "option": "Iceland"
+        }
+      ]
+    },
+    {
+      "question": "Ramallah is the administrative center for which authority?",
+      "options": [
+        {
+          "option": "Palestinian Authority",
+          "is_answer": true
+        },
+        {
+          "option": "Jordanian Government"
+        },
+        {
+          "option": "Syrian Council"
+        },
+        {
+          "option": "Egyptian Administration"
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital and administrative center of Kosovo?",
+      "options": [
+        {
+          "option": "Peja"
+        },
+        {
+          "option": "Pristina",
+          "is_answer": true
+        },
+        {
+          "option": "Gjakova"
+        },
+        {
+          "option": "Prizren"
+        }
+      ]
+    },
+    {
+      "question": "Taipei serves as the administrative center for which territory?",
+      "options": [
+        {
+          "option": "Taiwan",
+          "is_answer": true
+        },
+        {
+          "option": "Japan"
+        },
+        {
+          "option": "South Korea"
+        },
+        {
+          "option": "Philippines"
+        }
+      ]
+    },
+    {
+      "question": "El Aaiun is the administrative center of which disputed territory?",
+      "options": [
+        {
+          "option": "Sahara Desert"
+        },
+        {
+          "option": "Western Sahara",
+          "is_answer": true
+        },
+        {
+          "option": "Tunisia"
+        },
+        {
+          "option": "Libya"
+        }
+      ]
+    },
+    {
+      "question": "Which city is the administrative center of Greenland?",
+      "options": [
+        {
+          "option": "Aasiaat"
+        },
+        {
+          "option": "Nuuk",
+          "is_answer": true
+        },
+        {
+          "option": "Paamiut"
+        },
+        {
+          "option": "Maniitsoq"
+        }
+      ]
+    },
+    {
+      "question": "Ramallah is the administrative center associated with which territory?",
+      "options": [
+        {
+          "option": "Palestine",
+          "is_answer": true
+        },
+        {
+          "option": "Egypt"
+        },
+        {
+          "option": "Israel"
+        },
+        {
+          "option": "Jordan"
+        }
+      ]
+    },
+    {
+      "question": "Which city is recognized as the highest administrative capital in the world?",
+      "options": [
+        {
+          "option": "Thimphu, Bhutan"
+        },
+        {
+          "option": "Quito, Ecuador"
+        },
+        {
+          "option": "Addis Ababa, Ethiopia"
+        },
+        {
+          "option": "La Paz, Bolivia",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which capital city is located below sea level?",
+      "options": [
+        {
+          "option": "La Paz, Bolivia"
+        },
+        {
+          "option": "Thimphu, Bhutan"
+        },
+        {
+          "option": "Baku, Azerbaijan",
+          "is_answer": true
+        },
+        {
+          "option": "Quito, Ecuador"
+        }
+      ]
+    },
+    {
+      "question": "What is the approximate elevation of Quito, Ecuador?",
+      "options": [
+        {
+          "option": "3,640 meters"
+        },
+        {
+          "option": "2,850 meters",
+          "is_answer": true
+        },
+        {
+          "option": "1,500 meters"
+        },
+        {
+          "option": "500 meters"
+        }
+      ]
+    },
+    {
+      "question": "In which country is Thimphu located?",
+      "options": [
+        {
+          "option": "Nepal"
+        },
+        {
+          "option": "Bhutan",
+          "is_answer": true
+        },
+        {
+          "option": "Tibet"
+        },
+        {
+          "option": "Mongolia"
+        }
+      ]
+    },
+    {
+      "question": "Baku, the capital of Azerbaijan, is situated on the coast of which body of water?",
+      "options": [
+        {
+          "option": "Caspian Sea",
+          "is_answer": true
+        },
+        {
+          "option": "Black Sea"
+        },
+        {
+          "option": "Persian Gulf"
+        },
+        {
+          "option": "Mediterranean Sea"
+        }
+      ]
+    },
+    {
+      "question": "Which of these cities is known for being at a very high altitude in the Andes mountains?",
+      "options": [
+        {
+          "option": "Thimphu"
+        },
+        {
+          "option": "Paris"
+        },
+        {
+          "option": "La Paz",
+          "is_answer": true
+        },
+        {
+          "option": "Baku"
+        }
+      ]
+    },
+    {
+      "question": "Approximately how far below sea level is Baku located?",
+      "options": [
+        {
+          "option": "50 meters"
+        },
+        {
+          "option": "100 meters"
+        },
+        {
+          "option": "10 meters"
+        },
+        {
+          "option": "28 meters",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the approximate altitude of Thimphu, Bhutan?",
+      "options": [
+        {
+          "option": "4,000 meters"
+        },
+        {
+          "option": "1,200 meters"
+        },
+        {
+          "option": "2,300 meters",
+          "is_answer": true
+        },
+        {
+          "option": "3,500 meters"
+        }
+      ]
+    },
+    {
+      "question": "Which capital city is the highest in the world by elevation?",
+      "options": [
+        {
+          "option": "Thimphu"
+        },
+        {
+          "option": "La Paz",
+          "is_answer": true
+        },
+        {
+          "option": "Quito"
+        },
+        {
+          "option": "Bogota"
+        }
+      ]
+    },
+    {
+      "question": "Baku is the capital of which country?",
+      "options": [
+        {
+          "option": "Azerbaijan",
+          "is_answer": true
+        },
+        {
+          "option": "Kazakhstan"
+        },
+        {
+          "option": "Armenia"
+        },
+        {
+          "option": "Georgia"
+        }
+      ]
+    },
+    {
+      "question": "Quito is the capital city of which South American nation?",
+      "options": [
+        {
+          "option": "Ecuador",
+          "is_answer": true
+        },
+        {
+          "option": "Peru"
+        },
+        {
+          "option": "Bolivia"
+        },
+        {
+          "option": "Chile"
+        }
+      ]
+    },
+    {
+      "question": "Which of these cities is NOT a high-altitude capital?",
+      "options": [
+        {
+          "option": "Thimphu"
+        },
+        {
+          "option": "La Paz"
+        },
+        {
+          "option": "Quito"
+        },
+        {
+          "option": "Baku",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "La Paz serves as the administrative capital of which country?",
+      "options": [
+        {
+          "option": "Peru"
+        },
+        {
+          "option": "Colombia"
+        },
+        {
+          "option": "Ecuador"
+        },
+        {
+          "option": "Bolivia",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the approximate altitude of La Paz, Bolivia?",
+      "options": [
+        {
+          "option": "3,640 meters",
+          "is_answer": true
+        },
+        {
+          "option": "2,300 meters"
+        },
+        {
+          "option": "2,850 meters"
+        },
+        {
+          "option": "4,500 meters"
+        }
+      ]
+    },
+    {
+      "question": "Which city is located in the Himalayas?",
+      "options": [
+        {
+          "option": "Quito"
+        },
+        {
+          "option": "Thimphu",
+          "is_answer": true
+        },
+        {
+          "option": "Baku"
+        },
+        {
+          "option": "La Paz"
+        }
+      ]
+    },
+    {
+      "question": "Baku's location below sea level is primarily due to its proximity to which feature?",
+      "options": [
+        {
+          "option": "Caspian Sea depression",
+          "is_answer": true
+        },
+        {
+          "option": "A volcanic crater"
+        },
+        {
+          "option": "A canyon"
+        },
+        {
+          "option": "A deep valley"
+        }
+      ]
+    },
+    {
+      "question": "Which of these capitals is located in the Andes?",
+      "options": [
+        {
+          "option": "Thimphu"
+        },
+        {
+          "option": "Baku"
+        },
+        {
+          "option": "Quito",
+          "is_answer": true
+        },
+        {
+          "option": "London"
+        }
+      ]
+    },
+    {
+      "question": "What is the primary characteristic of Baku's elevation?",
+      "options": [
+        {
+          "option": "Below sea level",
+          "is_answer": true
+        },
+        {
+          "option": "High altitude"
+        },
+        {
+          "option": "Plateau"
+        },
+        {
+          "option": "Mountainous"
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of Bhutan?",
+      "options": [
+        {
+          "option": "Paro"
+        },
+        {
+          "option": "Baku"
+        },
+        {
+          "option": "Thimphu",
+          "is_answer": true
+        },
+        {
+          "option": "Punakha"
+        }
+      ]
+    },
+    {
+      "question": "Which of these cities is known for being a high-altitude capital in South America?",
+      "options": [
+        {
+          "option": "La Paz",
+          "is_answer": true
+        },
+        {
+          "option": "Baku"
+        },
+        {
+          "option": "Thimphu"
+        },
+        {
+          "option": "Tokyo"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "options": [
+        {
+          "option": "Nagoya"
+        },
+        {
+          "option": "Osaka"
+        },
+        {
+          "option": "Kyoto"
+        },
+        {
+          "option": "Tokyo",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of France?",
+      "options": [
+        {
+          "option": "Marseille"
+        },
+        {
+          "option": "Nice"
+        },
+        {
+          "option": "Paris",
+          "is_answer": true
+        },
+        {
+          "option": "Lyon"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Australia?",
+      "options": [
+        {
+          "option": "Sydney"
+        },
+        {
+          "option": "Melbourne"
+        },
+        {
+          "option": "Canberra",
+          "is_answer": true
+        },
+        {
+          "option": "Perth"
+        }
+      ]
+    },
+    {
+      "question": "Which city serves as the capital of Canada?",
+      "options": [
+        {
+          "option": "Montreal"
+        },
+        {
+          "option": "Vancouver"
+        },
+        {
+          "option": "Ottawa",
+          "is_answer": true
+        },
+        {
+          "option": "Toronto"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Brazil?",
+      "options": [
+        {
+          "option": "Rio de Janeiro"
+        },
+        {
+          "option": "Salvador"
+        },
+        {
+          "option": "Brasilia",
+          "is_answer": true
+        },
+        {
+          "option": "Sao Paulo"
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of Germany?",
+      "options": [
+        {
+          "option": "Munich"
+        },
+        {
+          "option": "Berlin",
+          "is_answer": true
+        },
+        {
+          "option": "Hamburg"
+        },
+        {
+          "option": "Frankfurt"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Italy?",
+      "options": [
+        {
+          "option": "Milan"
+        },
+        {
+          "option": "Venice"
+        },
+        {
+          "option": "Rome",
+          "is_answer": true
+        },
+        {
+          "option": "Florence"
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of Spain?",
+      "options": [
+        {
+          "option": "Seville"
+        },
+        {
+          "option": "Madrid",
+          "is_answer": true
+        },
+        {
+          "option": "Valencia"
+        },
+        {
+          "option": "Barcelona"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Argentina?",
+      "options": [
+        {
+          "option": "Rosario"
+        },
+        {
+          "option": "Cordoba"
+        },
+        {
+          "option": "Buenos Aires",
+          "is_answer": true
+        },
+        {
+          "option": "Mendoza"
+        }
+      ]
+    },
+    {
+      "question": "Which city is the capital of Thailand?",
+      "options": [
+        {
+          "option": "Chiang Mai"
+        },
+        {
+          "option": "Bangkok",
+          "is_answer": true
+        },
+        {
+          "option": "Pattaya"
+        },
+        {
+          "option": "Phuket"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Russia?",
+      "options": [
+        {
+          "option": "Moscow",
+          "is_answer": true
+        },
+        {
+          "option": "Saint Petersburg"
+        },
+        {
+          "option": "Novosibirsk"
+        },
+        {
+          "option": "Kazan"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Turkey?",
+      "options": [
+        {
+          "option": "Istanbul"
+        },
+        {
+          "option": "Izmir"
+        },
+        {
+          "option": "Ankara",
+          "is_answer": true
+        },
+        {
+          "option": "Antalya"
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of Sweden?",
+      "options": [
+        {
+          "option": "Uppsala"
+        },
+        {
+          "option": "Stockholm",
+          "is_answer": true
+        },
+        {
+          "option": "Gothenburg"
+        },
+        {
+          "option": "Malmo"
+        }
+      ]
+    }
+  ]
+}

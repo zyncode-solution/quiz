@@ -1,0 +1,9005 @@
+{
+  "total_questions": 500,
+  "questions": [
+    {
+      "question": "What is a part of a line that has two distinct endpoints?",
+      "options": [
+        {
+          "option": "Line segment",
+          "is_answer": true
+        },
+        {
+          "option": "Plane"
+        },
+        {
+          "option": "Line"
+        },
+        {
+          "option": "Ray"
+        }
+      ]
+    },
+    {
+      "question": "Which geometric figure extends infinitely in only one direction?",
+      "options": [
+        {
+          "option": "Line"
+        },
+        {
+          "option": "Ray",
+          "is_answer": true
+        },
+        {
+          "option": "Plane"
+        },
+        {
+          "option": "Line segment"
+        }
+      ]
+    },
+    {
+      "question": "Points that lie on the same line are called:",
+      "options": [
+        {
+          "option": "Collinear",
+          "is_answer": true
+        },
+        {
+          "option": "Parallel"
+        },
+        {
+          "option": "Coplanar"
+        },
+        {
+          "option": "Intersecting"
+        }
+      ]
+    },
+    {
+      "question": "What do you call lines in the same plane that never intersect?",
+      "options": [
+        {
+          "option": "Intersecting lines"
+        },
+        {
+          "option": "Perpendicular lines"
+        },
+        {
+          "option": "Skew lines"
+        },
+        {
+          "option": "Parallel lines",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is a flat, two-dimensional surface that extends infinitely in all directions?",
+      "options": [
+        {
+          "option": "Plane",
+          "is_answer": true
+        },
+        {
+          "option": "Ray"
+        },
+        {
+          "option": "Segment"
+        },
+        {
+          "option": "Line"
+        }
+      ]
+    },
+    {
+      "question": "Lines that are not in the same plane and do not intersect are called:",
+      "options": [
+        {
+          "option": "Skew lines",
+          "is_answer": true
+        },
+        {
+          "option": "Intersecting lines"
+        },
+        {
+          "option": "Parallel lines"
+        },
+        {
+          "option": "Coplanar lines"
+        }
+      ]
+    },
+    {
+      "question": "How many points are required to define a unique line?",
+      "options": [
+        {
+          "option": "Four"
+        },
+        {
+          "option": "Three"
+        },
+        {
+          "option": "One"
+        },
+        {
+          "option": "Two",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Points that lie on the same plane are called:",
+      "options": [
+        {
+          "option": "Parallel"
+        },
+        {
+          "option": "Skew"
+        },
+        {
+          "option": "Coplanar",
+          "is_answer": true
+        },
+        {
+          "option": "Collinear"
+        }
+      ]
+    },
+    {
+      "question": "What is the intersection of two distinct non-parallel lines?",
+      "options": [
+        {
+          "option": "A line"
+        },
+        {
+          "option": "No intersection"
+        },
+        {
+          "option": "A plane"
+        },
+        {
+          "option": "A single point",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of the following has no thickness and extends infinitely in both directions?",
+      "options": [
+        {
+          "option": "Point"
+        },
+        {
+          "option": "Line",
+          "is_answer": true
+        },
+        {
+          "option": "Segment"
+        },
+        {
+          "option": "Ray"
+        }
+      ]
+    },
+    {
+      "question": "What is the minimum number of points needed to define a plane?",
+      "options": [
+        {
+          "option": "Three",
+          "is_answer": true
+        },
+        {
+          "option": "Four"
+        },
+        {
+          "option": "One"
+        },
+        {
+          "option": "Two"
+        }
+      ]
+    },
+    {
+      "question": "If two planes intersect, their intersection is a:",
+      "options": [
+        {
+          "option": "Line",
+          "is_answer": true
+        },
+        {
+          "option": "Point"
+        },
+        {
+          "option": "Segment"
+        },
+        {
+          "option": "Ray"
+        }
+      ]
+    },
+    {
+      "question": "A ray is named starting with which point?",
+      "options": [
+        {
+          "option": "Intersection point"
+        },
+        {
+          "option": "Midpoint"
+        },
+        {
+          "option": "Endpoint",
+          "is_answer": true
+        },
+        {
+          "option": "Any point"
+        }
+      ]
+    },
+    {
+      "question": "What do you call lines that intersect at a 90-degree angle?",
+      "options": [
+        {
+          "option": "Perpendicular lines",
+          "is_answer": true
+        },
+        {
+          "option": "Collinear lines"
+        },
+        {
+          "option": "Parallel lines"
+        },
+        {
+          "option": "Skew lines"
+        }
+      ]
+    },
+    {
+      "question": "Which geometric primitive has no dimensions?",
+      "options": [
+        {
+          "option": "Line"
+        },
+        {
+          "option": "Ray"
+        },
+        {
+          "option": "Point",
+          "is_answer": true
+        },
+        {
+          "option": "Plane"
+        }
+      ]
+    },
+    {
+      "question": "Two lines that are in the same plane and never meet are:",
+      "options": [
+        {
+          "option": "Intersecting"
+        },
+        {
+          "option": "Parallel",
+          "is_answer": true
+        },
+        {
+          "option": "Perpendicular"
+        },
+        {
+          "option": "Skew"
+        }
+      ]
+    },
+    {
+      "question": "A line segment is a part of a line that has:",
+      "options": [
+        {
+          "option": "Two endpoints",
+          "is_answer": true
+        },
+        {
+          "option": "No endpoints"
+        },
+        {
+          "option": "One endpoint"
+        },
+        {
+          "option": "Infinite length"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is always coplanar?",
+      "options": [
+        {
+          "option": "Three non-collinear points"
+        },
+        {
+          "option": "A line and a point not on it"
+        },
+        {
+          "option": "Two intersecting lines",
+          "is_answer": true
+        },
+        {
+          "option": "Two skew lines"
+        }
+      ]
+    },
+    {
+      "question": "What is the term for points that do not lie on the same line?",
+      "options": [
+        {
+          "option": "Non-collinear",
+          "is_answer": true
+        },
+        {
+          "option": "Coplanar"
+        },
+        {
+          "option": "Intersecting"
+        },
+        {
+          "option": "Parallel"
+        }
+      ]
+    },
+    {
+      "question": "A plane is usually represented by which shape in diagrams?",
+      "options": [
+        {
+          "option": "Circle"
+        },
+        {
+          "option": "Triangle"
+        },
+        {
+          "option": "Line"
+        },
+        {
+          "option": "Parallelogram",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which criterion states that if two angles of one triangle are equal to two angles of another triangle, the triangles are similar?",
+      "options": [
+        {
+          "option": "SSS"
+        },
+        {
+          "option": "AAA",
+          "is_answer": true
+        },
+        {
+          "option": "ASA"
+        },
+        {
+          "option": "SAS"
+        }
+      ]
+    },
+    {
+      "question": "If the ratio of corresponding sides of two similar triangles is 2:3, what is the ratio of their areas?",
+      "options": [
+        {
+          "option": "2:3"
+        },
+        {
+          "option": "4:9",
+          "is_answer": true
+        },
+        {
+          "option": "8:27"
+        },
+        {
+          "option": "16:81"
+        }
+      ]
+    },
+    {
+      "question": "Which criterion requires two sides to be proportional and the included angle to be equal?",
+      "options": [
+        {
+          "option": "SAS",
+          "is_answer": true
+        },
+        {
+          "option": "AAA"
+        },
+        {
+          "option": "SSS"
+        },
+        {
+          "option": "RHS"
+        }
+      ]
+    },
+    {
+      "question": "If all three sides of one triangle are proportional to the three sides of another triangle, which criterion is used?",
+      "options": [
+        {
+          "option": "ASA"
+        },
+        {
+          "option": "SSS",
+          "is_answer": true
+        },
+        {
+          "option": "SAS"
+        },
+        {
+          "option": "AAA"
+        }
+      ]
+    },
+    {
+      "question": "If the areas of two similar triangles are in the ratio 16:25, what is the ratio of their corresponding sides?",
+      "options": [
+        {
+          "option": "8:10"
+        },
+        {
+          "option": "16:25"
+        },
+        {
+          "option": "2:5"
+        },
+        {
+          "option": "4:5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Are all equilateral triangles similar?",
+      "options": [
+        {
+          "option": "Only if sides are equal"
+        },
+        {
+          "option": "Only if areas are equal"
+        },
+        {
+          "option": "Yes",
+          "is_answer": true
+        },
+        {
+          "option": "No"
+        }
+      ]
+    },
+    {
+      "question": "In similar triangles, corresponding angles are:",
+      "options": [
+        {
+          "option": "Equal",
+          "is_answer": true
+        },
+        {
+          "option": "Proportional"
+        },
+        {
+          "option": "Complementary"
+        },
+        {
+          "option": "Supplementary"
+        }
+      ]
+    },
+    {
+      "question": "If triangle ABC is similar to triangle DEF, then AB/DE equals:",
+      "options": [
+        {
+          "option": "AC/EF"
+        },
+        {
+          "option": "BC/DF"
+        },
+        {
+          "option": "BC/EF",
+          "is_answer": true
+        },
+        {
+          "option": "DE/AB"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is NOT a criterion for similarity of triangles?",
+      "options": [
+        {
+          "option": "SAS"
+        },
+        {
+          "option": "SSS"
+        },
+        {
+          "option": "SSA",
+          "is_answer": true
+        },
+        {
+          "option": "AAA"
+        }
+      ]
+    },
+    {
+      "question": "If two triangles are similar, their corresponding sides are:",
+      "options": [
+        {
+          "option": "Equal"
+        },
+        {
+          "option": "Parallel"
+        },
+        {
+          "option": "Perpendicular"
+        },
+        {
+          "option": "Proportional",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The ratio of the areas of two similar triangles is equal to the square of the ratio of their:",
+      "options": [
+        {
+          "option": "All of the above"
+        },
+        {
+          "option": "Corresponding sides",
+          "is_answer": true
+        },
+        {
+          "option": "Perimeters"
+        },
+        {
+          "option": "Altitudes"
+        }
+      ]
+    },
+    {
+      "question": "If triangle PQR ~ triangle XYZ, then angle P equals:",
+      "options": [
+        {
+          "option": "Angle Y"
+        },
+        {
+          "option": "Angle X",
+          "is_answer": true
+        },
+        {
+          "option": "Angle Z"
+        },
+        {
+          "option": "Angle Q"
+        }
+      ]
+    },
+    {
+      "question": "Two triangles are similar if their corresponding angles are equal. This is known as:",
+      "options": [
+        {
+          "option": "SSS criterion"
+        },
+        {
+          "option": "SAS criterion"
+        },
+        {
+          "option": "RHS criterion"
+        },
+        {
+          "option": "AAA criterion",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the sides of two triangles are 3, 4, 5 and 6, 8, 10, the triangles are:",
+      "options": [
+        {
+          "option": "Not similar"
+        },
+        {
+          "option": "Equal in area"
+        },
+        {
+          "option": "Similar",
+          "is_answer": true
+        },
+        {
+          "option": "Congruent"
+        }
+      ]
+    },
+    {
+      "question": "What is the ratio of areas of two similar triangles with sides in ratio 1:4?",
+      "options": [
+        {
+          "option": "4:1"
+        },
+        {
+          "option": "16:1"
+        },
+        {
+          "option": "1:4"
+        },
+        {
+          "option": "1:16",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If triangle ABC ~ triangle PQR, then AB/PQ = BC/QR = ?",
+      "options": [
+        {
+          "option": "AC/PR",
+          "is_answer": true
+        },
+        {
+          "option": "PQ/AB"
+        },
+        {
+          "option": "QR/BC"
+        },
+        {
+          "option": "PR/AC"
+        }
+      ]
+    },
+    {
+      "question": "Which property is essential for SAS similarity?",
+      "options": [
+        {
+          "option": "All angles must be equal"
+        },
+        {
+          "option": "All sides must be equal"
+        },
+        {
+          "option": "No angle condition"
+        },
+        {
+          "option": "Included angle must be equal",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If two triangles are similar, the ratio of their perimeters is equal to:",
+      "options": [
+        {
+          "option": "Square of side ratio"
+        },
+        {
+          "option": "None of these"
+        },
+        {
+          "option": "Ratio of areas"
+        },
+        {
+          "option": "Ratio of corresponding sides",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Can two triangles be similar if they have the same shape but different sizes?",
+      "options": [
+        {
+          "option": "Only if they are right-angled"
+        },
+        {
+          "option": "No"
+        },
+        {
+          "option": "Yes",
+          "is_answer": true
+        },
+        {
+          "option": "Only if they are isosceles"
+        }
+      ]
+    },
+    {
+      "question": "If triangle ABC ~ triangle DEF, then angle B equals:",
+      "options": [
+        {
+          "option": "Angle E",
+          "is_answer": true
+        },
+        {
+          "option": "Angle D"
+        },
+        {
+          "option": "Angle F"
+        },
+        {
+          "option": "Angle A"
+        }
+      ]
+    },
+    {
+      "question": "Which congruence criterion states that if three sides of one triangle are equal to three sides of another triangle, the triangles are congruent?",
+      "options": [
+        {
+          "option": "RHS"
+        },
+        {
+          "option": "ASA"
+        },
+        {
+          "option": "SSS",
+          "is_answer": true
+        },
+        {
+          "option": "SAS"
+        }
+      ]
+    },
+    {
+      "question": "What does CPCTC stand for?",
+      "options": [
+        {
+          "option": "Congruent Parts of Corresponding Triangles are Congruent"
+        },
+        {
+          "option": "Corresponding Points of Congruent Triangles are Congruent"
+        },
+        {
+          "option": "Common Parts of Congruent Triangles are Congruent"
+        },
+        {
+          "option": "Corresponding Parts of Congruent Triangles are Congruent",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which criterion requires two sides and the included angle to be equal?",
+      "options": [
+        {
+          "option": "SAS",
+          "is_answer": true
+        },
+        {
+          "option": "SSS"
+        },
+        {
+          "option": "ASA"
+        },
+        {
+          "option": "AAS"
+        }
+      ]
+    },
+    {
+      "question": "In RHS congruence, what does 'H' stand for?",
+      "options": [
+        {
+          "option": "Horizontal"
+        },
+        {
+          "option": "Hypotenuse",
+          "is_answer": true
+        },
+        {
+          "option": "Height"
+        },
+        {
+          "option": "Half"
+        }
+      ]
+    },
+    {
+      "question": "If two angles and the included side of one triangle are equal to two angles and the included side of another, which rule is applied?",
+      "options": [
+        {
+          "option": "SSS"
+        },
+        {
+          "option": "SAS"
+        },
+        {
+          "option": "ASA",
+          "is_answer": true
+        },
+        {
+          "option": "RHS"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is NOT a valid triangle congruence criterion?",
+      "options": [
+        {
+          "option": "ASA"
+        },
+        {
+          "option": "AAA",
+          "is_answer": true
+        },
+        {
+          "option": "SSS"
+        },
+        {
+          "option": "SAS"
+        }
+      ]
+    },
+    {
+      "question": "The AAS criterion is equivalent to which other criterion?",
+      "options": [
+        {
+          "option": "ASA",
+          "is_answer": true
+        },
+        {
+          "option": "SSS"
+        },
+        {
+          "option": "SAS"
+        },
+        {
+          "option": "RHS"
+        }
+      ]
+    },
+    {
+      "question": "For two right-angled triangles to be congruent by RHS, what must be equal?",
+      "options": [
+        {
+          "option": "Two angles"
+        },
+        {
+          "option": "Three angles"
+        },
+        {
+          "option": "Two sides"
+        },
+        {
+          "option": "Hypotenuse and one side",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If triangle ABC is congruent to triangle DEF, then side AB is equal to which side?",
+      "options": [
+        {
+          "option": "None of these"
+        },
+        {
+          "option": "EF"
+        },
+        {
+          "option": "DE",
+          "is_answer": true
+        },
+        {
+          "option": "DF"
+        }
+      ]
+    },
+    {
+      "question": "Which criterion uses two angles and a non-included side?",
+      "options": [
+        {
+          "option": "AAS",
+          "is_answer": true
+        },
+        {
+          "option": "SAS"
+        },
+        {
+          "option": "SSS"
+        },
+        {
+          "option": "ASA"
+        }
+      ]
+    },
+    {
+      "question": "In congruent triangles, corresponding angles are always:",
+      "options": [
+        {
+          "option": "Equal",
+          "is_answer": true
+        },
+        {
+          "option": "Supplementary"
+        },
+        {
+          "option": "Complementary"
+        },
+        {
+          "option": "Different"
+        }
+      ]
+    },
+    {
+      "question": "If two triangles have all three angles equal, are they necessarily congruent?",
+      "options": [
+        {
+          "option": "No, they are similar",
+          "is_answer": true
+        },
+        {
+          "option": "Only if sides are equal"
+        },
+        {
+          "option": "Yes, always"
+        },
+        {
+          "option": "Only if they are right-angled"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a necessary condition for SAS congruence?",
+      "options": [
+        {
+          "option": "The angle must be opposite to the sides"
+        },
+        {
+          "option": "The angle must be between the two sides",
+          "is_answer": true
+        },
+        {
+          "option": "The sides must be equal to the angles"
+        },
+        {
+          "option": "The triangles must be equilateral"
+        }
+      ]
+    },
+    {
+      "question": "If triangle PQR is congruent to triangle XYZ, then angle Q is equal to which angle?",
+      "options": [
+        {
+          "option": "Angle X"
+        },
+        {
+          "option": "Angle Y",
+          "is_answer": true
+        },
+        {
+          "option": "None of these"
+        },
+        {
+          "option": "Angle Z"
+        }
+      ]
+    },
+    {
+      "question": "What does the 'S' in SSS stand for?",
+      "options": [
+        {
+          "option": "Square"
+        },
+        {
+          "option": "Side",
+          "is_answer": true
+        },
+        {
+          "option": "Sum"
+        },
+        {
+          "option": "Segment"
+        }
+      ]
+    },
+    {
+      "question": "Which criterion is specifically used for right-angled triangles?",
+      "options": [
+        {
+          "option": "SSS"
+        },
+        {
+          "option": "ASA"
+        },
+        {
+          "option": "RHS",
+          "is_answer": true
+        },
+        {
+          "option": "SAS"
+        }
+      ]
+    },
+    {
+      "question": "If two sides and a non-included angle are equal, is the triangle congruence guaranteed?",
+      "options": [
+        {
+          "option": "Yes"
+        },
+        {
+          "option": "Only for isosceles"
+        },
+        {
+          "option": "Only for right-angled"
+        },
+        {
+          "option": "No",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In ASA congruence, what does 'A' stand for?",
+      "options": [
+        {
+          "option": "Angle",
+          "is_answer": true
+        },
+        {
+          "option": "Altitude"
+        },
+        {
+          "option": "Apex"
+        },
+        {
+          "option": "Area"
+        }
+      ]
+    },
+    {
+      "question": "If two triangles are congruent, their areas are:",
+      "options": [
+        {
+          "option": "Equal",
+          "is_answer": true
+        },
+        {
+          "option": "Half"
+        },
+        {
+          "option": "Different"
+        },
+        {
+          "option": "Double"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is a valid congruence rule?",
+      "options": [
+        {
+          "option": "ASS"
+        },
+        {
+          "option": "SAS",
+          "is_answer": true
+        },
+        {
+          "option": "SSA"
+        },
+        {
+          "option": "AAA"
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of the interior angles of any triangle?",
+      "options": [
+        {
+          "option": "180°",
+          "is_answer": true
+        },
+        {
+          "option": "360°"
+        },
+        {
+          "option": "270°"
+        },
+        {
+          "option": "90°"
+        }
+      ]
+    },
+    {
+      "question": "If two angles of a triangle are 50° and 60°, what is the third angle?",
+      "options": [
+        {
+          "option": "80°"
+        },
+        {
+          "option": "70°",
+          "is_answer": true
+        },
+        {
+          "option": "50°"
+        },
+        {
+          "option": "60°"
+        }
+      ]
+    },
+    {
+      "question": "An exterior angle of a triangle is equal to the sum of which two angles?",
+      "options": [
+        {
+          "option": "All three interior angles"
+        },
+        {
+          "option": "Two exterior angles"
+        },
+        {
+          "option": "Two opposite interior angles",
+          "is_answer": true
+        },
+        {
+          "option": "Two adjacent interior angles"
+        }
+      ]
+    },
+    {
+      "question": "If an exterior angle is 120° and one interior opposite angle is 70°, what is the other interior opposite angle?",
+      "options": [
+        {
+          "option": "60°"
+        },
+        {
+          "option": "40°"
+        },
+        {
+          "option": "50°",
+          "is_answer": true
+        },
+        {
+          "option": "70°"
+        }
+      ]
+    },
+    {
+      "question": "In an equilateral triangle, what is the measure of each interior angle?",
+      "options": [
+        {
+          "option": "45°"
+        },
+        {
+          "option": "60°",
+          "is_answer": true
+        },
+        {
+          "option": "90°"
+        },
+        {
+          "option": "120°"
+        }
+      ]
+    },
+    {
+      "question": "If the three angles of a triangle are x, x, and x, what is the value of x?",
+      "options": [
+        {
+          "option": "45°"
+        },
+        {
+          "option": "90°"
+        },
+        {
+          "option": "30°"
+        },
+        {
+          "option": "60°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of an interior angle and its adjacent exterior angle?",
+      "options": [
+        {
+          "option": "360°"
+        },
+        {
+          "option": "270°"
+        },
+        {
+          "option": "90°"
+        },
+        {
+          "option": "180°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If two interior angles are 40° and 80°, what is the exterior angle at the third vertex?",
+      "options": [
+        {
+          "option": "120°",
+          "is_answer": true
+        },
+        {
+          "option": "60°"
+        },
+        {
+          "option": "140°"
+        },
+        {
+          "option": "100°"
+        }
+      ]
+    },
+    {
+      "question": "Can a triangle have two obtuse angles?",
+      "options": [
+        {
+          "option": "Yes"
+        },
+        {
+          "option": "Only if it is right-angled"
+        },
+        {
+          "option": "No",
+          "is_answer": true
+        },
+        {
+          "option": "Only if it is equilateral"
+        }
+      ]
+    },
+    {
+      "question": "If one angle of a triangle is 90°, what is the sum of the other two angles?",
+      "options": [
+        {
+          "option": "45°"
+        },
+        {
+          "option": "180°"
+        },
+        {
+          "option": "60°"
+        },
+        {
+          "option": "90°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The exterior angle of a triangle is always ____ than either of its interior opposite angles.",
+      "options": [
+        {
+          "option": "Greater",
+          "is_answer": true
+        },
+        {
+          "option": "Half"
+        },
+        {
+          "option": "Equal"
+        },
+        {
+          "option": "Smaller"
+        }
+      ]
+    },
+    {
+      "question": "If the exterior angle is 100°, and the two opposite interior angles are equal, what is each interior angle?",
+      "options": [
+        {
+          "option": "60°"
+        },
+        {
+          "option": "80°"
+        },
+        {
+          "option": "50°",
+          "is_answer": true
+        },
+        {
+          "option": "40°"
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of all exterior angles of a triangle?",
+      "options": [
+        {
+          "option": "270°"
+        },
+        {
+          "option": "360°",
+          "is_answer": true
+        },
+        {
+          "option": "540°"
+        },
+        {
+          "option": "180°"
+        }
+      ]
+    },
+    {
+      "question": "If a triangle has angles 30°, 60°, and 90°, what type of triangle is it?",
+      "options": [
+        {
+          "option": "Isosceles triangle"
+        },
+        {
+          "option": "Right-angled triangle",
+          "is_answer": true
+        },
+        {
+          "option": "Equilateral triangle"
+        },
+        {
+          "option": "Obtuse triangle"
+        }
+      ]
+    },
+    {
+      "question": "If an exterior angle is 110°, and one interior opposite angle is 30°, what is the other interior opposite angle?",
+      "options": [
+        {
+          "option": "60°"
+        },
+        {
+          "option": "70°"
+        },
+        {
+          "option": "80°",
+          "is_answer": true
+        },
+        {
+          "option": "90°"
+        }
+      ]
+    },
+    {
+      "question": "Can a triangle have an exterior angle equal to 90°?",
+      "options": [
+        {
+          "option": "Yes",
+          "is_answer": true
+        },
+        {
+          "option": "Only if it is obtuse"
+        },
+        {
+          "option": "No"
+        },
+        {
+          "option": "Only if it is equilateral"
+        }
+      ]
+    },
+    {
+      "question": "If the sum of two angles of a triangle is 100°, what is the third angle?",
+      "options": [
+        {
+          "option": "80°",
+          "is_answer": true
+        },
+        {
+          "option": "70°"
+        },
+        {
+          "option": "90°"
+        },
+        {
+          "option": "60°"
+        }
+      ]
+    },
+    {
+      "question": "The exterior angle theorem states that the exterior angle is ____ the sum of the two opposite interior angles.",
+      "options": [
+        {
+          "option": "Equal to",
+          "is_answer": true
+        },
+        {
+          "option": "Less than"
+        },
+        {
+          "option": "Double"
+        },
+        {
+          "option": "Greater than"
+        }
+      ]
+    },
+    {
+      "question": "If a triangle has two equal angles of 45°, what is the third angle?",
+      "options": [
+        {
+          "option": "45°"
+        },
+        {
+          "option": "100°"
+        },
+        {
+          "option": "60°"
+        },
+        {
+          "option": "90°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the measure of an exterior angle of an equilateral triangle?",
+      "options": [
+        {
+          "option": "180°"
+        },
+        {
+          "option": "120°",
+          "is_answer": true
+        },
+        {
+          "option": "60°"
+        },
+        {
+          "option": "90°"
+        }
+      ]
+    },
+    {
+      "question": "When two parallel lines are cut by a transversal, what is the relationship between corresponding angles?",
+      "options": [
+        {
+          "option": "They sum to 90 degrees"
+        },
+        {
+          "option": "They are equal",
+          "is_answer": true
+        },
+        {
+          "option": "They are supplementary"
+        },
+        {
+          "option": "They are complementary"
+        }
+      ]
+    },
+    {
+      "question": "If two parallel lines are cut by a transversal, consecutive interior angles are:",
+      "options": [
+        {
+          "option": "Equal"
+        },
+        {
+          "option": "Vertical"
+        },
+        {
+          "option": "Complementary"
+        },
+        {
+          "option": "Supplementary",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Alternate interior angles are always ______ when lines are parallel.",
+      "options": [
+        {
+          "option": "Supplementary"
+        },
+        {
+          "option": "Greater than 90"
+        },
+        {
+          "option": "Equal",
+          "is_answer": true
+        },
+        {
+          "option": "Different"
+        }
+      ]
+    },
+    {
+      "question": "If one angle of a pair of corresponding angles is 60°, what is the measure of the other angle?",
+      "options": [
+        {
+          "option": "90°"
+        },
+        {
+          "option": "60°",
+          "is_answer": true
+        },
+        {
+          "option": "30°"
+        },
+        {
+          "option": "120°"
+        }
+      ]
+    },
+    {
+      "question": "Consecutive interior angles sum to:",
+      "options": [
+        {
+          "option": "360°"
+        },
+        {
+          "option": "180°",
+          "is_answer": true
+        },
+        {
+          "option": "270°"
+        },
+        {
+          "option": "90°"
+        }
+      ]
+    },
+    {
+      "question": "Which angles are equal when a transversal intersects two parallel lines?",
+      "options": [
+        {
+          "option": "Linear pair angles"
+        },
+        {
+          "option": "Supplementary angles"
+        },
+        {
+          "option": "Alternate interior angles",
+          "is_answer": true
+        },
+        {
+          "option": "Consecutive interior angles"
+        }
+      ]
+    },
+    {
+      "question": "If an alternate interior angle is 110°, its pair must be:",
+      "options": [
+        {
+          "option": "180°"
+        },
+        {
+          "option": "70°"
+        },
+        {
+          "option": "90°"
+        },
+        {
+          "option": "110°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of two consecutive interior angles if the lines are parallel?",
+      "options": [
+        {
+          "option": "180°",
+          "is_answer": true
+        },
+        {
+          "option": "100°"
+        },
+        {
+          "option": "90°"
+        },
+        {
+          "option": "180° is not correct"
+        }
+      ]
+    },
+    {
+      "question": "Vertical angles formed by a transversal are always:",
+      "options": [
+        {
+          "option": "Complementary"
+        },
+        {
+          "option": "Equal",
+          "is_answer": true
+        },
+        {
+          "option": "Unequal"
+        },
+        {
+          "option": "Supplementary"
+        }
+      ]
+    },
+    {
+      "question": "If one angle of a linear pair is 50°, the other is:",
+      "options": [
+        {
+          "option": "180°"
+        },
+        {
+          "option": "130°",
+          "is_answer": true
+        },
+        {
+          "option": "50°"
+        },
+        {
+          "option": "40°"
+        }
+      ]
+    },
+    {
+      "question": "Alternate exterior angles are ______ when lines are parallel.",
+      "options": [
+        {
+          "option": "Complementary"
+        },
+        {
+          "option": "Equal",
+          "is_answer": true
+        },
+        {
+          "option": "Supplementary"
+        },
+        {
+          "option": "None of these"
+        }
+      ]
+    },
+    {
+      "question": "If a transversal is perpendicular to two parallel lines, all angles formed are:",
+      "options": [
+        {
+          "option": "90°",
+          "is_answer": true
+        },
+        {
+          "option": "45°"
+        },
+        {
+          "option": "60°"
+        },
+        {
+          "option": "180°"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is true for parallel lines cut by a transversal?",
+      "options": [
+        {
+          "option": "All angles are equal"
+        },
+        {
+          "option": "Alternate interior angles are supplementary"
+        },
+        {
+          "option": "Corresponding angles are equal",
+          "is_answer": true
+        },
+        {
+          "option": "Consecutive interior angles are equal"
+        }
+      ]
+    },
+    {
+      "question": "If two lines are parallel, the alternate interior angles are:",
+      "options": [
+        {
+          "option": "Supplementary"
+        },
+        {
+          "option": "Equal",
+          "is_answer": true
+        },
+        {
+          "option": "None of these"
+        },
+        {
+          "option": "Sum to 90°"
+        }
+      ]
+    },
+    {
+      "question": "The sum of consecutive interior angles is always:",
+      "options": [
+        {
+          "option": "90°"
+        },
+        {
+          "option": "180°",
+          "is_answer": true
+        },
+        {
+          "option": "180° is not always true"
+        },
+        {
+          "option": "360°"
+        }
+      ]
+    },
+    {
+      "question": "If one angle is 120°, its corresponding angle is:",
+      "options": [
+        {
+          "option": "90°"
+        },
+        {
+          "option": "60°"
+        },
+        {
+          "option": "180°"
+        },
+        {
+          "option": "120°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "When a transversal cuts two lines, how many angles are formed?",
+      "options": [
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "If two lines are cut by a transversal and alternate interior angles are equal, the lines are:",
+      "options": [
+        {
+          "option": "Parallel",
+          "is_answer": true
+        },
+        {
+          "option": "Intersecting"
+        },
+        {
+          "option": "Perpendicular"
+        },
+        {
+          "option": "Skew"
+        }
+      ]
+    },
+    {
+      "question": "Consecutive interior angles are also known as:",
+      "options": [
+        {
+          "option": "Vertical angles"
+        },
+        {
+          "option": "Corresponding angles"
+        },
+        {
+          "option": "Co-interior angles",
+          "is_answer": true
+        },
+        {
+          "option": "Alternate angles"
+        }
+      ]
+    },
+    {
+      "question": "If a transversal intersects two parallel lines, the sum of an interior angle and its corresponding exterior angle on the same side is:",
+      "options": [
+        {
+          "option": "180°",
+          "is_answer": true
+        },
+        {
+          "option": "Equal"
+        },
+        {
+          "option": "360°"
+        },
+        {
+          "option": "90°"
+        }
+      ]
+    },
+    {
+      "question": "What is an angle measuring exactly 90 degrees called?",
+      "options": [
+        {
+          "option": "Reflex angle"
+        },
+        {
+          "option": "Obtuse angle"
+        },
+        {
+          "option": "Right angle",
+          "is_answer": true
+        },
+        {
+          "option": "Acute angle"
+        }
+      ]
+    },
+    {
+      "question": "An angle measuring between 0 and 90 degrees is known as:",
+      "options": [
+        {
+          "option": "Right angle"
+        },
+        {
+          "option": "Obtuse angle"
+        },
+        {
+          "option": "Acute angle",
+          "is_answer": true
+        },
+        {
+          "option": "Straight angle"
+        }
+      ]
+    },
+    {
+      "question": "What is the property of vertically opposite angles?",
+      "options": [
+        {
+          "option": "They are complementary"
+        },
+        {
+          "option": "They sum to 180"
+        },
+        {
+          "option": "They are equal",
+          "is_answer": true
+        },
+        {
+          "option": "They are always acute"
+        }
+      ]
+    },
+    {
+      "question": "An angle greater than 90 degrees but less than 180 degrees is called:",
+      "options": [
+        {
+          "option": "Right angle"
+        },
+        {
+          "option": "Obtuse angle",
+          "is_answer": true
+        },
+        {
+          "option": "Acute angle"
+        },
+        {
+          "option": "Reflex angle"
+        }
+      ]
+    },
+    {
+      "question": "What does an angle bisector do to an angle?",
+      "options": [
+        {
+          "option": "Divides it into two equal parts",
+          "is_answer": true
+        },
+        {
+          "option": "Makes it a right angle"
+        },
+        {
+          "option": "Doubles the angle"
+        },
+        {
+          "option": "Adds 90 degrees to it"
+        }
+      ]
+    },
+    {
+      "question": "An angle measuring more than 180 degrees but less than 360 degrees is called:",
+      "options": [
+        {
+          "option": "Acute angle"
+        },
+        {
+          "option": "Obtuse angle"
+        },
+        {
+          "option": "Reflex angle",
+          "is_answer": true
+        },
+        {
+          "option": "Straight angle"
+        }
+      ]
+    },
+    {
+      "question": "If two lines intersect, the angles opposite to each other are called:",
+      "options": [
+        {
+          "option": "Supplementary angles"
+        },
+        {
+          "option": "Complementary angles"
+        },
+        {
+          "option": "Vertically opposite angles",
+          "is_answer": true
+        },
+        {
+          "option": "Adjacent angles"
+        }
+      ]
+    },
+    {
+      "question": "What is the measure of a straight angle?",
+      "options": [
+        {
+          "option": "45 degrees"
+        },
+        {
+          "option": "90 degrees"
+        },
+        {
+          "option": "360 degrees"
+        },
+        {
+          "option": "180 degrees",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If an angle is 60 degrees, what is the measure of each part after bisecting it?",
+      "options": [
+        {
+          "option": "30 degrees",
+          "is_answer": true
+        },
+        {
+          "option": "60 degrees"
+        },
+        {
+          "option": "120 degrees"
+        },
+        {
+          "option": "15 degrees"
+        }
+      ]
+    },
+    {
+      "question": "Which instrument is typically used to construct an angle bisector?",
+      "options": [
+        {
+          "option": "Ruler only"
+        },
+        {
+          "option": "Set square only"
+        },
+        {
+          "option": "Compass and straightedge",
+          "is_answer": true
+        },
+        {
+          "option": "Protractor only"
+        }
+      ]
+    },
+    {
+      "question": "Two angles are vertically opposite. If one is 50 degrees, what is the other?",
+      "options": [
+        {
+          "option": "100 degrees"
+        },
+        {
+          "option": "130 degrees"
+        },
+        {
+          "option": "50 degrees",
+          "is_answer": true
+        },
+        {
+          "option": "40 degrees"
+        }
+      ]
+    },
+    {
+      "question": "What is a complete rotation angle?",
+      "options": [
+        {
+          "option": "180 degrees"
+        },
+        {
+          "option": "360 degrees",
+          "is_answer": true
+        },
+        {
+          "option": "90 degrees"
+        },
+        {
+          "option": "270 degrees"
+        }
+      ]
+    },
+    {
+      "question": "An angle of 90 degrees is also known as:",
+      "options": [
+        {
+          "option": "Obtuse angle"
+        },
+        {
+          "option": "Acute angle"
+        },
+        {
+          "option": "Straight angle"
+        },
+        {
+          "option": "Right angle",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is an acute angle?",
+      "options": [
+        {
+          "option": "45 degrees",
+          "is_answer": true
+        },
+        {
+          "option": "120 degrees"
+        },
+        {
+          "option": "180 degrees"
+        },
+        {
+          "option": "90 degrees"
+        }
+      ]
+    },
+    {
+      "question": "If you bisect a 180-degree angle, what do you get?",
+      "options": [
+        {
+          "option": "Two 90-degree angles",
+          "is_answer": true
+        },
+        {
+          "option": "Two 180-degree angles"
+        },
+        {
+          "option": "Two 45-degree angles"
+        },
+        {
+          "option": "Two 60-degree angles"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is an obtuse angle?",
+      "options": [
+        {
+          "option": "90 degrees"
+        },
+        {
+          "option": "180 degrees"
+        },
+        {
+          "option": "80 degrees"
+        },
+        {
+          "option": "110 degrees",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Vertically opposite angles are formed by:",
+      "options": [
+        {
+          "option": "A triangle"
+        },
+        {
+          "option": "Two parallel lines"
+        },
+        {
+          "option": "Two intersecting lines",
+          "is_answer": true
+        },
+        {
+          "option": "A single ray"
+        }
+      ]
+    },
+    {
+      "question": "What is the angle measure of a zero angle?",
+      "options": [
+        {
+          "option": "180 degrees"
+        },
+        {
+          "option": "360 degrees"
+        },
+        {
+          "option": "0 degrees",
+          "is_answer": true
+        },
+        {
+          "option": "90 degrees"
+        }
+      ]
+    },
+    {
+      "question": "An angle bisector is a ray that:",
+      "options": [
+        {
+          "option": "Divides an angle into two equal angles",
+          "is_answer": true
+        },
+        {
+          "option": "Connects two vertices"
+        },
+        {
+          "option": "Forms a 90-degree angle"
+        },
+        {
+          "option": "Is perpendicular to the angle"
+        }
+      ]
+    },
+    {
+      "question": "If two angles are vertically opposite and one is 120 degrees, the other is:",
+      "options": [
+        {
+          "option": "180 degrees"
+        },
+        {
+          "option": "120 degrees",
+          "is_answer": true
+        },
+        {
+          "option": "90 degrees"
+        },
+        {
+          "option": "60 degrees"
+        }
+      ]
+    },
+    {
+      "question": "What is the point of intersection of the perpendicular bisectors of a triangle called?",
+      "options": [
+        {
+          "option": "Centroid"
+        },
+        {
+          "option": "Circumcenter",
+          "is_answer": true
+        },
+        {
+          "option": "Orthocenter"
+        },
+        {
+          "option": "Incenter"
+        }
+      ]
+    },
+    {
+      "question": "What is the point of intersection of the altitudes of a triangle called?",
+      "options": [
+        {
+          "option": "Circumcenter"
+        },
+        {
+          "option": "Orthocenter",
+          "is_answer": true
+        },
+        {
+          "option": "Incenter"
+        },
+        {
+          "option": "Centroid"
+        }
+      ]
+    },
+    {
+      "question": "The circumcenter is equidistant from which parts of the triangle?",
+      "options": [
+        {
+          "option": "Altitudes"
+        },
+        {
+          "option": "Sides"
+        },
+        {
+          "option": "Medians"
+        },
+        {
+          "option": "Vertices",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In an obtuse triangle, where does the circumcenter lie?",
+      "options": [
+        {
+          "option": "On the hypotenuse"
+        },
+        {
+          "option": "At the vertex"
+        },
+        {
+          "option": "Outside the triangle",
+          "is_answer": true
+        },
+        {
+          "option": "Inside the triangle"
+        }
+      ]
+    },
+    {
+      "question": "In a right-angled triangle, where does the circumcenter lie?",
+      "options": [
+        {
+          "option": "At the right-angle vertex"
+        },
+        {
+          "option": "Outside the triangle"
+        },
+        {
+          "option": "Inside the triangle"
+        },
+        {
+          "option": "Midpoint of the hypotenuse",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In a right-angled triangle, where does the orthocenter lie?",
+      "options": [
+        {
+          "option": "Outside the triangle"
+        },
+        {
+          "option": "At the vertex of the right angle",
+          "is_answer": true
+        },
+        {
+          "option": "Inside the triangle"
+        },
+        {
+          "option": "Midpoint of the hypotenuse"
+        }
+      ]
+    },
+    {
+      "question": "For an acute triangle, where is the orthocenter located?",
+      "options": [
+        {
+          "option": "At a vertex"
+        },
+        {
+          "option": "Outside the triangle"
+        },
+        {
+          "option": "Inside the triangle",
+          "is_answer": true
+        },
+        {
+          "option": "On a side"
+        }
+      ]
+    },
+    {
+      "question": "The circumcenter is the center of which circle?",
+      "options": [
+        {
+          "option": "Excircle"
+        },
+        {
+          "option": "Circumcircle",
+          "is_answer": true
+        },
+        {
+          "option": "Nine-point circle"
+        },
+        {
+          "option": "Incircle"
+        }
+      ]
+    },
+    {
+      "question": "Which line segment connects a vertex to the opposite side at a 90-degree angle?",
+      "options": [
+        {
+          "option": "Median"
+        },
+        {
+          "option": "Perpendicular bisector"
+        },
+        {
+          "option": "Angle bisector"
+        },
+        {
+          "option": "Altitude",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In an equilateral triangle, the circumcenter and orthocenter are:",
+      "options": [
+        {
+          "option": "The same point",
+          "is_answer": true
+        },
+        {
+          "option": "Different points"
+        },
+        {
+          "option": "Undefined"
+        },
+        {
+          "option": "On opposite sides"
+        }
+      ]
+    },
+    {
+      "question": "The perpendicular bisector of a side passes through which point?",
+      "options": [
+        {
+          "option": "Orthocenter"
+        },
+        {
+          "option": "Incenter"
+        },
+        {
+          "option": "Centroid"
+        },
+        {
+          "option": "Circumcenter",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The orthocenter is the intersection of:",
+      "options": [
+        {
+          "option": "Altitudes",
+          "is_answer": true
+        },
+        {
+          "option": "Medians"
+        },
+        {
+          "option": "Angle bisectors"
+        },
+        {
+          "option": "Perpendicular bisectors"
+        }
+      ]
+    },
+    {
+      "question": "If a triangle is obtuse, where does the orthocenter lie?",
+      "options": [
+        {
+          "option": "Inside the triangle"
+        },
+        {
+          "option": "Outside the triangle",
+          "is_answer": true
+        },
+        {
+          "option": "On the longest side"
+        },
+        {
+          "option": "At the vertex"
+        }
+      ]
+    },
+    {
+      "question": "The circumcenter of an acute triangle lies:",
+      "options": [
+        {
+          "option": "Inside the triangle",
+          "is_answer": true
+        },
+        {
+          "option": "At the centroid"
+        },
+        {
+          "option": "On the boundary"
+        },
+        {
+          "option": "Outside the triangle"
+        }
+      ]
+    },
+    {
+      "question": "Which point is equidistant from all three vertices of a triangle?",
+      "options": [
+        {
+          "option": "Orthocenter"
+        },
+        {
+          "option": "Incenter"
+        },
+        {
+          "option": "Circumcenter",
+          "is_answer": true
+        },
+        {
+          "option": "Centroid"
+        }
+      ]
+    },
+    {
+      "question": "The altitude of a triangle is a line segment from a vertex that is ___ to the opposite side.",
+      "options": [
+        {
+          "option": "Equal"
+        },
+        {
+          "option": "Parallel"
+        },
+        {
+          "option": "Bisecting"
+        },
+        {
+          "option": "Perpendicular",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Euler's line passes through which of the following points?",
+      "options": [
+        {
+          "option": "Orthocenter, Incenter, Circumcenter"
+        },
+        {
+          "option": "Incenter, Centroid, Circumcenter"
+        },
+        {
+          "option": "Orthocenter, Centroid, Incenter"
+        },
+        {
+          "option": "Orthocenter, Centroid, Circumcenter",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The perpendicular bisector of a side of a triangle:",
+      "options": [
+        {
+          "option": "Is equal to the altitude"
+        },
+        {
+          "option": "Is parallel to the opposite side"
+        },
+        {
+          "option": "Passes through the midpoint of the side",
+          "is_answer": true
+        },
+        {
+          "option": "Passes through the opposite vertex"
+        }
+      ]
+    },
+    {
+      "question": "Can the circumcenter and orthocenter ever be the same point?",
+      "options": [
+        {
+          "option": "Yes, in an equilateral triangle",
+          "is_answer": true
+        },
+        {
+          "option": "Only in a right triangle"
+        },
+        {
+          "option": "No, never"
+        },
+        {
+          "option": "Only in an obtuse triangle"
+        }
+      ]
+    },
+    {
+      "question": "The distance from the circumcenter to any vertex is called:",
+      "options": [
+        {
+          "option": "Median"
+        },
+        {
+          "option": "Inradius"
+        },
+        {
+          "option": "Circumradius",
+          "is_answer": true
+        },
+        {
+          "option": "Altitude"
+        }
+      ]
+    },
+    {
+      "question": "What is the point of intersection of the three medians of a triangle called?",
+      "options": [
+        {
+          "option": "Incenter"
+        },
+        {
+          "option": "Orthocenter"
+        },
+        {
+          "option": "Centroid",
+          "is_answer": true
+        },
+        {
+          "option": "Circumcenter"
+        }
+      ]
+    },
+    {
+      "question": "The centroid of a triangle divides each median in what ratio?",
+      "options": [
+        {
+          "option": "2:1",
+          "is_answer": true
+        },
+        {
+          "option": "1:1"
+        },
+        {
+          "option": "3:1"
+        },
+        {
+          "option": "1:2"
+        }
+      ]
+    },
+    {
+      "question": "What is the point of intersection of the angle bisectors of a triangle called?",
+      "options": [
+        {
+          "option": "Centroid"
+        },
+        {
+          "option": "Orthocenter"
+        },
+        {
+          "option": "Incenter",
+          "is_answer": true
+        },
+        {
+          "option": "Circumcenter"
+        }
+      ]
+    },
+    {
+      "question": "The incenter of a triangle is the center of which circle?",
+      "options": [
+        {
+          "option": "Circumcircle"
+        },
+        {
+          "option": "Nine-point circle"
+        },
+        {
+          "option": "Incircle",
+          "is_answer": true
+        },
+        {
+          "option": "Excircle"
+        }
+      ]
+    },
+    {
+      "question": "Which point is always located inside the triangle?",
+      "options": [
+        {
+          "option": "None of these"
+        },
+        {
+          "option": "Both Centroid and Incenter",
+          "is_answer": true
+        },
+        {
+          "option": "Only Circumcenter"
+        },
+        {
+          "option": "Only Orthocenter"
+        }
+      ]
+    },
+    {
+      "question": "If a triangle is equilateral, where do the centroid and incenter lie?",
+      "options": [
+        {
+          "option": "On the vertices"
+        },
+        {
+          "option": "At different points"
+        },
+        {
+          "option": "Outside the triangle"
+        },
+        {
+          "option": "At the same point",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The distance from the incenter to the sides of a triangle is equal to what?",
+      "options": [
+        {
+          "option": "Altitude length"
+        },
+        {
+          "option": "Circumradius"
+        },
+        {
+          "option": "Inradius",
+          "is_answer": true
+        },
+        {
+          "option": "Median length"
+        }
+      ]
+    },
+    {
+      "question": "Which line segment connects a vertex to the midpoint of the opposite side?",
+      "options": [
+        {
+          "option": "Perpendicular bisector"
+        },
+        {
+          "option": "Angle bisector"
+        },
+        {
+          "option": "Median",
+          "is_answer": true
+        },
+        {
+          "option": "Altitude"
+        }
+      ]
+    },
+    {
+      "question": "The incenter is equidistant from which elements of the triangle?",
+      "options": [
+        {
+          "option": "The three vertices"
+        },
+        {
+          "option": "The midpoints of sides"
+        },
+        {
+          "option": "The feet of the altitudes"
+        },
+        {
+          "option": "The three sides",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In a right-angled triangle, where is the centroid located?",
+      "options": [
+        {
+          "option": "On the hypotenuse"
+        },
+        {
+          "option": "Outside the triangle"
+        },
+        {
+          "option": "At the right-angle vertex"
+        },
+        {
+          "option": "Inside the triangle",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The centroid divides the median into segments with lengths in ratio 2:1. Which segment is longer?",
+      "options": [
+        {
+          "option": "The segment from centroid to side"
+        },
+        {
+          "option": "The segment from vertex to centroid",
+          "is_answer": true
+        },
+        {
+          "option": "Both are equal"
+        },
+        {
+          "option": "Depends on the triangle"
+        }
+      ]
+    },
+    {
+      "question": "How many medians does a triangle have?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "How many angle bisectors does a triangle have?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "The incenter is the intersection of which lines?",
+      "options": [
+        {
+          "option": "Internal angle bisectors",
+          "is_answer": true
+        },
+        {
+          "option": "Perpendicular bisectors"
+        },
+        {
+          "option": "Altitudes"
+        },
+        {
+          "option": "Medians"
+        }
+      ]
+    },
+    {
+      "question": "Which point is the center of mass of a triangle?",
+      "options": [
+        {
+          "option": "Orthocenter"
+        },
+        {
+          "option": "Centroid",
+          "is_answer": true
+        },
+        {
+          "option": "Circumcenter"
+        },
+        {
+          "option": "Incenter"
+        }
+      ]
+    },
+    {
+      "question": "The incenter of a triangle is always located:",
+      "options": [
+        {
+          "option": "Inside the triangle",
+          "is_answer": true
+        },
+        {
+          "option": "On a side"
+        },
+        {
+          "option": "At a vertex"
+        },
+        {
+          "option": "Outside the triangle"
+        }
+      ]
+    },
+    {
+      "question": "If the coordinates of vertices are (x1,y1), (x2,y2), (x3,y3), what is the centroid?",
+      "options": [
+        {
+          "option": "((x1+x2)/2, (y1+y2)/2)"
+        },
+        {
+          "option": "(x1+x2+x3, y1+y2+y3)"
+        },
+        {
+          "option": "(x1/3, y1/3)"
+        },
+        {
+          "option": "((x1+x2+x3)/3, (y1+y2+y3)/3)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is true for any triangle?",
+      "options": [
+        {
+          "option": "Incenter is always on a vertex"
+        },
+        {
+          "option": "Incenter can be outside"
+        },
+        {
+          "option": "Centroid can be outside"
+        },
+        {
+          "option": "Centroid is always inside",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The incenter is the intersection of angle bisectors. What does it represent in terms of circles?",
+      "options": [
+        {
+          "option": "Center of the circumcircle"
+        },
+        {
+          "option": "Center of the excircle"
+        },
+        {
+          "option": "Center of the nine-point circle"
+        },
+        {
+          "option": "Center of the incircle",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Can the centroid and incenter be the same point?",
+      "options": [
+        {
+          "option": "Yes, in right triangles"
+        },
+        {
+          "option": "Yes, in equilateral triangles",
+          "is_answer": true
+        },
+        {
+          "option": "Yes, in scalene triangles"
+        },
+        {
+          "option": "No, never"
+        }
+      ]
+    },
+    {
+      "question": "If a line is drawn parallel to one side of a triangle to intersect the other two sides, then the other two sides are divided in the same ratio. This statement is known as:",
+      "options": [
+        {
+          "option": "Basic Proportionality Theorem",
+          "is_answer": true
+        },
+        {
+          "option": "Converse of Pythagoras Theorem"
+        },
+        {
+          "option": "Pythagoras Theorem"
+        },
+        {
+          "option": "Midpoint Theorem"
+        }
+      ]
+    },
+    {
+      "question": "In triangle ABC, if DE || BC, then according to BPT, which ratio is correct?",
+      "options": [
+        {
+          "option": "AD/AB = AE/BC"
+        },
+        {
+          "option": "AD/DB = AE/EC",
+          "is_answer": true
+        },
+        {
+          "option": "AD/DB = EC/AE"
+        },
+        {
+          "option": "AB/AD = AC/DE"
+        }
+      ]
+    },
+    {
+      "question": "The converse of the Basic Proportionality Theorem states that if a line divides any two sides of a triangle in the same ratio, then the line is:",
+      "options": [
+        {
+          "option": "Parallel to the third side",
+          "is_answer": true
+        },
+        {
+          "option": "Equal to the third side"
+        },
+        {
+          "option": "Perpendicular to the third side"
+        },
+        {
+          "option": "Bisecting the third side"
+        }
+      ]
+    },
+    {
+      "question": "In triangle ABC, D and E are points on AB and AC such that AD=2cm, DB=3cm, AE=4cm, and EC=6cm. Is DE || BC?",
+      "options": [
+        {
+          "option": "Yes",
+          "is_answer": true
+        },
+        {
+          "option": "Only if angle A is 90 degrees"
+        },
+        {
+          "option": "No"
+        },
+        {
+          "option": "Cannot be determined"
+        }
+      ]
+    },
+    {
+      "question": "If a line divides two sides of a triangle in the ratio 1:3, what is the ratio of the segments of the other side?",
+      "options": [
+        {
+          "option": "3:1"
+        },
+        {
+          "option": "1:4"
+        },
+        {
+          "option": "4:1"
+        },
+        {
+          "option": "1:3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Thales of Miletus is associated with which theorem?",
+      "options": [
+        {
+          "option": "Pythagoras Theorem"
+        },
+        {
+          "option": "Euclid's Postulates"
+        },
+        {
+          "option": "Area Addition Postulate"
+        },
+        {
+          "option": "Basic Proportionality Theorem",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In triangle ABC, DE || BC. If AD=3, DB=2, and AE=6, find EC.",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "BPT is applicable to which type of geometric figure?",
+      "options": [
+        {
+          "option": "Trapezium"
+        },
+        {
+          "option": "Rectangle"
+        },
+        {
+          "option": "Circle"
+        },
+        {
+          "option": "Triangle",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If in triangle ABC, DE || BC, then AD/AB = ?",
+      "options": [
+        {
+          "option": "AE/EC"
+        },
+        {
+          "option": "EC/AE"
+        },
+        {
+          "option": "AE/AC",
+          "is_answer": true
+        },
+        {
+          "option": "AC/AE"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is a necessary condition for BPT?",
+      "options": [
+        {
+          "option": "The triangle must be right-angled"
+        },
+        {
+          "option": "The line must be parallel to one side",
+          "is_answer": true
+        },
+        {
+          "option": "The line must pass through the centroid"
+        },
+        {
+          "option": "The triangle must be equilateral"
+        }
+      ]
+    },
+    {
+      "question": "If a line intersects two sides of a triangle at distinct points and is parallel to the third side, then the segments are:",
+      "options": [
+        {
+          "option": "Proportional",
+          "is_answer": true
+        },
+        {
+          "option": "Equal"
+        },
+        {
+          "option": "Perpendicular"
+        },
+        {
+          "option": "Congruent"
+        }
+      ]
+    },
+    {
+      "question": "In triangle PQR, ST || QR. If PS/SQ = 3/4 and PT = 6, find TR.",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "The Basic Proportionality Theorem is also known as:",
+      "options": [
+        {
+          "option": "Pythagoras' Theorem"
+        },
+        {
+          "option": "Euclid's Theorem"
+        },
+        {
+          "option": "Thales' Theorem",
+          "is_answer": true
+        },
+        {
+          "option": "Archimedes' Theorem"
+        }
+      ]
+    },
+    {
+      "question": "If AD/DB = AE/EC in triangle ABC, then:",
+      "options": [
+        {
+          "option": "DE is perpendicular to BC"
+        },
+        {
+          "option": "DE || BC",
+          "is_answer": true
+        },
+        {
+          "option": "AD = AE"
+        },
+        {
+          "option": "DE = BC"
+        }
+      ]
+    },
+    {
+      "question": "In triangle ABC, if DE || BC, then AD/AB = AE/AC. This is a corollary of:",
+      "options": [
+        {
+          "option": "Midpoint Theorem"
+        },
+        {
+          "option": "Pythagoras Theorem"
+        },
+        {
+          "option": "Angle Bisector Theorem"
+        },
+        {
+          "option": "BPT",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If a line divides two sides of a triangle in the same ratio, the line is parallel to the third side. This is:",
+      "options": [
+        {
+          "option": "Converse of Pythagoras Theorem"
+        },
+        {
+          "option": "Converse of BPT",
+          "is_answer": true
+        },
+        {
+          "option": "Pythagoras Theorem"
+        },
+        {
+          "option": "BPT"
+        }
+      ]
+    },
+    {
+      "question": "In triangle ABC, D and E are on AB and AC. If AD=4, DB=4, AE=5, EC=5, then:",
+      "options": [
+        {
+          "option": "DE is not parallel to BC"
+        },
+        {
+          "option": "Triangle is right-angled"
+        },
+        {
+          "option": "DE = BC"
+        },
+        {
+          "option": "DE || BC",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "BPT is used to prove which of the following?",
+      "options": [
+        {
+          "option": "Area of triangles"
+        },
+        {
+          "option": "Perimeter of triangles"
+        },
+        {
+          "option": "Congruence of triangles"
+        },
+        {
+          "option": "Similarity of triangles",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If DE || BC in triangle ABC, and AD=x, DB=x+1, AE=x+2, EC=x+3, find x.",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The ratio of segments created by a line parallel to one side of a triangle is:",
+      "options": [
+        {
+          "option": "Infinite"
+        },
+        {
+          "option": "Variable"
+        },
+        {
+          "option": "Zero"
+        },
+        {
+          "option": "Constant",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the measure of each interior angle in an equilateral triangle?",
+      "options": [
+        {
+          "option": "45°"
+        },
+        {
+          "option": "30°"
+        },
+        {
+          "option": "60°",
+          "is_answer": true
+        },
+        {
+          "option": "90°"
+        }
+      ]
+    },
+    {
+      "question": "If an isosceles triangle has two equal sides of 5cm and a base of 6cm, what is the perimeter?",
+      "options": [
+        {
+          "option": "15cm"
+        },
+        {
+          "option": "11cm"
+        },
+        {
+          "option": "17cm"
+        },
+        {
+          "option": "16cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the formula for the area of an equilateral triangle with side 'a'?",
+      "options": [
+        {
+          "option": "a²"
+        },
+        {
+          "option": "(1/2)a²"
+        },
+        {
+          "option": "(√3/2)a²"
+        },
+        {
+          "option": "(√3/4)a²",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In an isosceles triangle, the angles opposite to the equal sides are:",
+      "options": [
+        {
+          "option": "Always 60°"
+        },
+        {
+          "option": "Different"
+        },
+        {
+          "option": "Always 90°"
+        },
+        {
+          "option": "Equal",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the height of an equilateral triangle with side 'a'?",
+      "options": [
+        {
+          "option": "(√3/4)a"
+        },
+        {
+          "option": "√3a"
+        },
+        {
+          "option": "a/2"
+        },
+        {
+          "option": "(√3/2)a",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many lines of symmetry does an equilateral triangle have?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "If the vertex angle of an isosceles triangle is 40°, what is the measure of each base angle?",
+      "options": [
+        {
+          "option": "70°",
+          "is_answer": true
+        },
+        {
+          "option": "60°"
+        },
+        {
+          "option": "40°"
+        },
+        {
+          "option": "50°"
+        }
+      ]
+    },
+    {
+      "question": "An equilateral triangle is also a type of:",
+      "options": [
+        {
+          "option": "Acute triangle",
+          "is_answer": true
+        },
+        {
+          "option": "Right triangle"
+        },
+        {
+          "option": "Obtuse triangle"
+        },
+        {
+          "option": "Scalene triangle"
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of all angles in an equilateral triangle?",
+      "options": [
+        {
+          "option": "360°"
+        },
+        {
+          "option": "180°",
+          "is_answer": true
+        },
+        {
+          "option": "90°"
+        },
+        {
+          "option": "270°"
+        }
+      ]
+    },
+    {
+      "question": "If one base angle of an isosceles triangle is 50°, what is the vertex angle?",
+      "options": [
+        {
+          "option": "80°",
+          "is_answer": true
+        },
+        {
+          "option": "50°"
+        },
+        {
+          "option": "100°"
+        },
+        {
+          "option": "65°"
+        }
+      ]
+    },
+    {
+      "question": "Which property is true for both equilateral and isosceles triangles?",
+      "options": [
+        {
+          "option": "No sides are equal"
+        },
+        {
+          "option": "All angles are 60°"
+        },
+        {
+          "option": "At least two sides are equal",
+          "is_answer": true
+        },
+        {
+          "option": "All sides are equal"
+        }
+      ]
+    },
+    {
+      "question": "The altitude drawn to the base of an isosceles triangle:",
+      "options": [
+        {
+          "option": "Is longer than the sides"
+        },
+        {
+          "option": "Is always 0"
+        },
+        {
+          "option": "Bisects the base",
+          "is_answer": true
+        },
+        {
+          "option": "Does not bisect the base"
+        }
+      ]
+    },
+    {
+      "question": "If the side of an equilateral triangle is 4cm, what is its perimeter?",
+      "options": [
+        {
+          "option": "8cm"
+        },
+        {
+          "option": "6cm"
+        },
+        {
+          "option": "12cm",
+          "is_answer": true
+        },
+        {
+          "option": "16cm"
+        }
+      ]
+    },
+    {
+      "question": "An isosceles triangle can have at most how many obtuse angles?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "What is the area of an equilateral triangle with side 2cm?",
+      "options": [
+        {
+          "option": "√3 cm²",
+          "is_answer": true
+        },
+        {
+          "option": "√3/2 cm²"
+        },
+        {
+          "option": "2√3 cm²"
+        },
+        {
+          "option": "4√3 cm²"
+        }
+      ]
+    },
+    {
+      "question": "In an equilateral triangle, the altitude is also the:",
+      "options": [
+        {
+          "option": "Median",
+          "is_answer": true
+        },
+        {
+          "option": "Base"
+        },
+        {
+          "option": "Hypotenuse"
+        },
+        {
+          "option": "Exterior angle"
+        }
+      ]
+    },
+    {
+      "question": "How many lines of symmetry does an isosceles triangle (that is not equilateral) have?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "If all angles of a triangle are 60°, the triangle is:",
+      "options": [
+        {
+          "option": "Equilateral",
+          "is_answer": true
+        },
+        {
+          "option": "Scalene"
+        },
+        {
+          "option": "Isosceles"
+        },
+        {
+          "option": "Right"
+        }
+      ]
+    },
+    {
+      "question": "The perimeter of an isosceles triangle with sides 6cm, 6cm, and 4cm is:",
+      "options": [
+        {
+          "option": "20cm"
+        },
+        {
+          "option": "16cm",
+          "is_answer": true
+        },
+        {
+          "option": "10cm"
+        },
+        {
+          "option": "12cm"
+        }
+      ]
+    },
+    {
+      "question": "Can an equilateral triangle be a right-angled triangle?",
+      "options": [
+        {
+          "option": "No",
+          "is_answer": true
+        },
+        {
+          "option": "Only if sides are 1"
+        },
+        {
+          "option": "Yes"
+        },
+        {
+          "option": "Only if sides are 0"
+        }
+      ]
+    },
+    {
+      "question": "Which three points lie on the Euler line of a triangle?",
+      "options": [
+        {
+          "option": "Incenter, Centroid, Orthocenter"
+        },
+        {
+          "option": "Circumcenter, Incenter, Orthocenter"
+        },
+        {
+          "option": "Centroid, Incenter, Circumcenter"
+        },
+        {
+          "option": "Centroid, Orthocenter, Circumcenter",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In what ratio does the centroid divide the segment connecting the orthocenter and the circumcenter?",
+      "options": [
+        {
+          "option": "3:1"
+        },
+        {
+          "option": "1:2"
+        },
+        {
+          "option": "2:1",
+          "is_answer": true
+        },
+        {
+          "option": "1:1"
+        }
+      ]
+    },
+    {
+      "question": "The nine-point circle passes through the midpoints of the sides and which other set of points?",
+      "options": [
+        {
+          "option": "Excenters"
+        },
+        {
+          "option": "Feet of the altitudes",
+          "is_answer": true
+        },
+        {
+          "option": "Vertices of the triangle"
+        },
+        {
+          "option": "Points of tangency of the incircle"
+        }
+      ]
+    },
+    {
+      "question": "What is the radius of the nine-point circle in relation to the circumradius (R) of the triangle?",
+      "options": [
+        {
+          "option": "R/2",
+          "is_answer": true
+        },
+        {
+          "option": "R"
+        },
+        {
+          "option": "R/3"
+        },
+        {
+          "option": "2R"
+        }
+      ]
+    },
+    {
+      "question": "The center of the nine-point circle lies on which line?",
+      "options": [
+        {
+          "option": "Median"
+        },
+        {
+          "option": "Angle bisector"
+        },
+        {
+          "option": "Altitude"
+        },
+        {
+          "option": "Euler line",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which point is the center of the nine-point circle?",
+      "options": [
+        {
+          "option": "Midpoint of the segment joining the orthocenter and circumcenter",
+          "is_answer": true
+        },
+        {
+          "option": "Incenter"
+        },
+        {
+          "option": "Centroid"
+        },
+        {
+          "option": "Orthocenter"
+        }
+      ]
+    },
+    {
+      "question": "The nine-point circle also passes through the midpoints of the segments connecting the orthocenter to which points?",
+      "options": [
+        {
+          "option": "Vertices",
+          "is_answer": true
+        },
+        {
+          "option": "Centroid"
+        },
+        {
+          "option": "Incenter"
+        },
+        {
+          "option": "Circumcenter"
+        }
+      ]
+    },
+    {
+      "question": "In an equilateral triangle, where do the Euler line points lie?",
+      "options": [
+        {
+          "option": "They coincide at a single point",
+          "is_answer": true
+        },
+        {
+          "option": "They form a small triangle"
+        },
+        {
+          "option": "They are collinear but distinct"
+        },
+        {
+          "option": "They do not exist"
+        }
+      ]
+    },
+    {
+      "question": "The nine-point circle is also known as what?",
+      "options": [
+        {
+          "option": "Euler circle"
+        },
+        {
+          "option": "Centroid circle"
+        },
+        {
+          "option": "Feuerbach circle",
+          "is_answer": true
+        },
+        {
+          "option": "Orthocenter circle"
+        }
+      ]
+    },
+    {
+      "question": "How many points define the nine-point circle?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "The Euler line is undefined for which type of triangle?",
+      "options": [
+        {
+          "option": "Equilateral triangle",
+          "is_answer": true
+        },
+        {
+          "option": "Scalene triangle"
+        },
+        {
+          "option": "Right triangle"
+        },
+        {
+          "option": "Isosceles triangle"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is NOT a point on the nine-point circle?",
+      "options": [
+        {
+          "option": "Incenter",
+          "is_answer": true
+        },
+        {
+          "option": "Midpoint of a side"
+        },
+        {
+          "option": "Midpoint of segment from orthocenter to vertex"
+        },
+        {
+          "option": "Foot of an altitude"
+        }
+      ]
+    },
+    {
+      "question": "The distance from the nine-point center to the circumcenter is what fraction of the distance from the orthocenter to the circumcenter?",
+      "options": [
+        {
+          "option": "2/3"
+        },
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "1/2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In a right triangle, the orthocenter is located at:",
+      "options": [
+        {
+          "option": "The centroid"
+        },
+        {
+          "option": "The circumcenter"
+        },
+        {
+          "option": "The midpoint of the hypotenuse"
+        },
+        {
+          "option": "The vertex of the right angle",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The Euler line passes through the centroid and which other point that divides the segment OH in 2:1?",
+      "options": [
+        {
+          "option": "Incenter"
+        },
+        {
+          "option": "Nine-point center"
+        },
+        {
+          "option": "Excenter"
+        },
+        {
+          "option": "Centroid",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The nine-point circle is tangent to which circles?",
+      "options": [
+        {
+          "option": "None of these"
+        },
+        {
+          "option": "Circumcircle only"
+        },
+        {
+          "option": "Incircle and excircles",
+          "is_answer": true
+        },
+        {
+          "option": "Incircle only"
+        }
+      ]
+    },
+    {
+      "question": "What is the relationship between the Euler line and the nine-point center?",
+      "options": [
+        {
+          "option": "The nine-point center lies on the Euler line",
+          "is_answer": true
+        },
+        {
+          "option": "The Euler line is perpendicular to the nine-point center"
+        },
+        {
+          "option": "They do not intersect"
+        },
+        {
+          "option": "They are parallel"
+        }
+      ]
+    },
+    {
+      "question": "Which points are the 'nine' points of the nine-point circle?",
+      "options": [
+        {
+          "option": "3 vertices, 3 midpoints, 3 incenters"
+        },
+        {
+          "option": "3 midpoints of sides, 3 feet of altitudes, 3 midpoints of segments from orthocenter to vertices",
+          "is_answer": true
+        },
+        {
+          "option": "None of the above"
+        },
+        {
+          "option": "3 centroids, 3 orthocenters, 3 circumcenters"
+        }
+      ]
+    },
+    {
+      "question": "If a triangle is isosceles, the Euler line coincides with what?",
+      "options": [
+        {
+          "option": "The median to the base"
+        },
+        {
+          "option": "The altitude to the base"
+        },
+        {
+          "option": "The axis of symmetry",
+          "is_answer": true
+        },
+        {
+          "option": "The base"
+        }
+      ]
+    },
+    {
+      "question": "The nine-point circle of a triangle is the circumcircle of which triangle?",
+      "options": [
+        {
+          "option": "Excentral triangle"
+        },
+        {
+          "option": "Incentral triangle"
+        },
+        {
+          "option": "Medial triangle",
+          "is_answer": true
+        },
+        {
+          "option": "Orthic triangle"
+        }
+      ]
+    },
+    {
+      "question": "In a right-angled triangle, what is the relationship between the sides a, b, and hypotenuse c?",
+      "options": [
+        {
+          "option": "a + b = c"
+        },
+        {
+          "option": "a^2 + b^2 = c^2",
+          "is_answer": true
+        },
+        {
+          "option": "a^2 + c^2 = b^2"
+        },
+        {
+          "option": "a^2 - b^2 = c^2"
+        }
+      ]
+    },
+    {
+      "question": "If the legs of a right triangle are 3 and 4, what is the length of the hypotenuse?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "In a right triangle, if the altitude to the hypotenuse divides it into segments p and q, what is the relation for altitude h?",
+      "options": [
+        {
+          "option": "h^2 = p * q",
+          "is_answer": true
+        },
+        {
+          "option": "h^2 = p + q"
+        },
+        {
+          "option": "h = p + q"
+        },
+        {
+          "option": "h = p * q"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following sets of numbers forms a Pythagorean triple?",
+      "options": [
+        {
+          "option": "5, 12, 13",
+          "is_answer": true
+        },
+        {
+          "option": "4, 5, 6"
+        },
+        {
+          "option": "1, 2, 3"
+        },
+        {
+          "option": "2, 3, 4"
+        }
+      ]
+    },
+    {
+      "question": "What is the hypotenuse of a right triangle with legs 6 and 8?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In a right triangle, the square of the hypotenuse is equal to the sum of the squares of the other two sides. This is known as:",
+      "options": [
+        {
+          "option": "Euclid's Theorem"
+        },
+        {
+          "option": "Thales' Theorem"
+        },
+        {
+          "option": "Area Theorem"
+        },
+        {
+          "option": "Pythagorean Theorem",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the hypotenuse is 10 and one leg is 6, what is the other leg?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which triangle is always a right-angled triangle?",
+      "options": [
+        {
+          "option": "A triangle with sides 2, 2, 5"
+        },
+        {
+          "option": "An obtuse triangle"
+        },
+        {
+          "option": "A triangle with sides 3, 4, 5",
+          "is_answer": true
+        },
+        {
+          "option": "An equilateral triangle"
+        }
+      ]
+    },
+    {
+      "question": "The altitude to the hypotenuse of a right triangle creates two triangles that are:",
+      "options": [
+        {
+          "option": "Congruent to each other"
+        },
+        {
+          "option": "Similar to the original triangle",
+          "is_answer": true
+        },
+        {
+          "option": "Equilateral triangles"
+        },
+        {
+          "option": "Obtuse triangles"
+        }
+      ]
+    },
+    {
+      "question": "If a right triangle has legs of length 5 and 12, what is the hypotenuse?",
+      "options": [
+        {
+          "option": "17"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "13",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the value of the hypotenuse if the legs are 1 and 1?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "sqrt(3)"
+        },
+        {
+          "option": "sqrt(2)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In a right triangle, the hypotenuse is always:",
+      "options": [
+        {
+          "option": "The shortest side"
+        },
+        {
+          "option": "Equal to the sum of legs"
+        },
+        {
+          "option": "The longest side",
+          "is_answer": true
+        },
+        {
+          "option": "Equal to the difference of legs"
+        }
+      ]
+    },
+    {
+      "question": "If p=2 and q=8 are segments of the hypotenuse, what is the altitude h?",
+      "options": [
+        {
+          "option": "16"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is NOT a Pythagorean triple?",
+      "options": [
+        {
+          "option": "6, 8, 10"
+        },
+        {
+          "option": "2, 3, 4",
+          "is_answer": true
+        },
+        {
+          "option": "5, 12, 13"
+        },
+        {
+          "option": "3, 4, 5"
+        }
+      ]
+    },
+    {
+      "question": "The Pythagorean theorem applies only to:",
+      "options": [
+        {
+          "option": "Equilateral triangles"
+        },
+        {
+          "option": "Circles"
+        },
+        {
+          "option": "Right-angled triangles",
+          "is_answer": true
+        },
+        {
+          "option": "All triangles"
+        }
+      ]
+    },
+    {
+      "question": "If a triangle has sides 7, 24, and 25, is it a right triangle?",
+      "options": [
+        {
+          "option": "Only if it is isosceles"
+        },
+        {
+          "option": "Yes",
+          "is_answer": true
+        },
+        {
+          "option": "Only if angles are 90"
+        },
+        {
+          "option": "No"
+        }
+      ]
+    },
+    {
+      "question": "What is the square of the hypotenuse if legs are 9 and 12?",
+      "options": [
+        {
+          "option": "81"
+        },
+        {
+          "option": "144"
+        },
+        {
+          "option": "225",
+          "is_answer": true
+        },
+        {
+          "option": "100"
+        }
+      ]
+    },
+    {
+      "question": "In a right triangle, the altitude to the hypotenuse is the geometric mean of:",
+      "options": [
+        {
+          "option": "The two segments of the hypotenuse",
+          "is_answer": true
+        },
+        {
+          "option": "The perimeter and area"
+        },
+        {
+          "option": "The hypotenuse and a leg"
+        },
+        {
+          "option": "The two legs"
+        }
+      ]
+    },
+    {
+      "question": "If the hypotenuse is 13 and one leg is 5, what is the other leg?",
+      "options": [
+        {
+          "option": "11"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "Which mathematician is associated with the theorem a^2 + b^2 = c^2?",
+      "options": [
+        {
+          "option": "Newton"
+        },
+        {
+          "option": "Euclid"
+        },
+        {
+          "option": "Pythagoras",
+          "is_answer": true
+        },
+        {
+          "option": "Archimedes"
+        }
+      ]
+    },
+    {
+      "question": "In a parallelogram, what is the relationship between opposite sides?",
+      "options": [
+        {
+          "option": "They are unequal"
+        },
+        {
+          "option": "They intersect at 90 degrees"
+        },
+        {
+          "option": "They are equal and parallel",
+          "is_answer": true
+        },
+        {
+          "option": "They are perpendicular"
+        }
+      ]
+    },
+    {
+      "question": "What is true about the opposite angles of a parallelogram?",
+      "options": [
+        {
+          "option": "They are complementary"
+        },
+        {
+          "option": "They are supplementary"
+        },
+        {
+          "option": "They are equal",
+          "is_answer": true
+        },
+        {
+          "option": "They are unequal"
+        }
+      ]
+    },
+    {
+      "question": "What happens to the diagonals of a parallelogram?",
+      "options": [
+        {
+          "option": "They are perpendicular to each other"
+        },
+        {
+          "option": "They do not intersect"
+        },
+        {
+          "option": "They are equal in length"
+        },
+        {
+          "option": "They bisect each other",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If one angle of a parallelogram is 70 degrees, what is the measure of its opposite angle?",
+      "options": [
+        {
+          "option": "110 degrees"
+        },
+        {
+          "option": "180 degrees"
+        },
+        {
+          "option": "70 degrees",
+          "is_answer": true
+        },
+        {
+          "option": "20 degrees"
+        }
+      ]
+    },
+    {
+      "question": "Consecutive angles in a parallelogram are always:",
+      "options": [
+        {
+          "option": "Right angles"
+        },
+        {
+          "option": "Equal"
+        },
+        {
+          "option": "Complementary"
+        },
+        {
+          "option": "Supplementary",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which property is NOT necessarily true for a general parallelogram?",
+      "options": [
+        {
+          "option": "Diagonals are equal",
+          "is_answer": true
+        },
+        {
+          "option": "Opposite sides are parallel"
+        },
+        {
+          "option": "Diagonals bisect each other"
+        },
+        {
+          "option": "Opposite angles are equal"
+        }
+      ]
+    },
+    {
+      "question": "If the diagonals of a quadrilateral bisect each other, the quadrilateral must be a:",
+      "options": [
+        {
+          "option": "Parallelogram",
+          "is_answer": true
+        },
+        {
+          "option": "Square only"
+        },
+        {
+          "option": "Kite"
+        },
+        {
+          "option": "Trapezoid"
+        }
+      ]
+    },
+    {
+      "question": "In a parallelogram ABCD, if AB = 5cm, what is the length of CD?",
+      "options": [
+        {
+          "option": "2.5cm"
+        },
+        {
+          "option": "Cannot be determined"
+        },
+        {
+          "option": "10cm"
+        },
+        {
+          "option": "5cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The sum of all interior angles of a parallelogram is:",
+      "options": [
+        {
+          "option": "90 degrees"
+        },
+        {
+          "option": "360 degrees",
+          "is_answer": true
+        },
+        {
+          "option": "540 degrees"
+        },
+        {
+          "option": "180 degrees"
+        }
+      ]
+    },
+    {
+      "question": "If one angle of a parallelogram is 90 degrees, it is a:",
+      "options": [
+        {
+          "option": "Rectangle",
+          "is_answer": true
+        },
+        {
+          "option": "Trapezoid"
+        },
+        {
+          "option": "Kite"
+        },
+        {
+          "option": "Rhombus"
+        }
+      ]
+    },
+    {
+      "question": "A parallelogram with all sides equal is called a:",
+      "options": [
+        {
+          "option": "Trapezoid"
+        },
+        {
+          "option": "Rectangle"
+        },
+        {
+          "option": "Square only"
+        },
+        {
+          "option": "Rhombus",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In parallelogram ABCD, angle A + angle B equals:",
+      "options": [
+        {
+          "option": "90 degrees"
+        },
+        {
+          "option": "270 degrees"
+        },
+        {
+          "option": "360 degrees"
+        },
+        {
+          "option": "180 degrees",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is a property of a parallelogram?",
+      "options": [
+        {
+          "option": "Diagonals are equal"
+        },
+        {
+          "option": "All angles are 90 degrees"
+        },
+        {
+          "option": "Opposite sides are parallel",
+          "is_answer": true
+        },
+        {
+          "option": "Diagonals are perpendicular"
+        }
+      ]
+    },
+    {
+      "question": "If the diagonals of a parallelogram are equal, the figure is a:",
+      "options": [
+        {
+          "option": "Trapezoid"
+        },
+        {
+          "option": "Rhombus"
+        },
+        {
+          "option": "Rectangle",
+          "is_answer": true
+        },
+        {
+          "option": "Kite"
+        }
+      ]
+    },
+    {
+      "question": "In a parallelogram, the diagonals divide it into two triangles that are:",
+      "options": [
+        {
+          "option": "Congruent",
+          "is_answer": true
+        },
+        {
+          "option": "Equal in area only"
+        },
+        {
+          "option": "None of these"
+        },
+        {
+          "option": "Similar only"
+        }
+      ]
+    },
+    {
+      "question": "If one pair of opposite sides of a quadrilateral is equal and parallel, it is a:",
+      "options": [
+        {
+          "option": "Kite"
+        },
+        {
+          "option": "Trapezoid"
+        },
+        {
+          "option": "Parallelogram",
+          "is_answer": true
+        },
+        {
+          "option": "None"
+        }
+      ]
+    },
+    {
+      "question": "The diagonals of a parallelogram bisect each other at:",
+      "options": [
+        {
+          "option": "The vertices"
+        },
+        {
+          "option": "Their midpoint",
+          "is_answer": true
+        },
+        {
+          "option": "The center of the sides"
+        },
+        {
+          "option": "A 90-degree angle"
+        }
+      ]
+    },
+    {
+      "question": "Which statement is always true for a parallelogram?",
+      "options": [
+        {
+          "option": "Opposite angles are equal",
+          "is_answer": true
+        },
+        {
+          "option": "Diagonals are perpendicular"
+        },
+        {
+          "option": "Diagonals are equal"
+        },
+        {
+          "option": "All sides are equal"
+        }
+      ]
+    },
+    {
+      "question": "If angle A = 100 degrees in parallelogram ABCD, what is angle C?",
+      "options": [
+        {
+          "option": "80 degrees"
+        },
+        {
+          "option": "90 degrees"
+        },
+        {
+          "option": "180 degrees"
+        },
+        {
+          "option": "100 degrees",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A quadrilateral is a parallelogram if:",
+      "options": [
+        {
+          "option": "Diagonals are equal"
+        },
+        {
+          "option": "All angles are 90 degrees"
+        },
+        {
+          "option": "Both pairs of opposite sides are parallel",
+          "is_answer": true
+        },
+        {
+          "option": "Only one pair of sides is parallel"
+        }
+      ]
+    },
+    {
+      "question": "What is the formula for the length of the midsegment of a trapezoid with bases a and b?",
+      "options": [
+        {
+          "option": "a + b"
+        },
+        {
+          "option": "2(a + b)"
+        },
+        {
+          "option": "(a + b) / 2",
+          "is_answer": true
+        },
+        {
+          "option": "sqrt(ab)"
+        }
+      ]
+    },
+    {
+      "question": "How many pairs of parallel sides does a trapezoid have?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In an isosceles trapezoid, what is true about the base angles?",
+      "options": [
+        {
+          "option": "They are complementary"
+        },
+        {
+          "option": "They are supplementary"
+        },
+        {
+          "option": "They are equal",
+          "is_answer": true
+        },
+        {
+          "option": "They are unequal"
+        }
+      ]
+    },
+    {
+      "question": "If the bases of a trapezoid are 6 cm and 10 cm, what is the length of the midsegment?",
+      "options": [
+        {
+          "option": "4 cm"
+        },
+        {
+          "option": "60 cm"
+        },
+        {
+          "option": "16 cm"
+        },
+        {
+          "option": "8 cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The midsegment of a trapezoid is _______ to the bases.",
+      "options": [
+        {
+          "option": "Equal"
+        },
+        {
+          "option": "Parallel",
+          "is_answer": true
+        },
+        {
+          "option": "Perpendicular"
+        },
+        {
+          "option": "Intersecting"
+        }
+      ]
+    },
+    {
+      "question": "In an isosceles trapezoid, the diagonals are:",
+      "options": [
+        {
+          "option": "Equal in length",
+          "is_answer": true
+        },
+        {
+          "option": "Parallel"
+        },
+        {
+          "option": "Bisecting each other"
+        },
+        {
+          "option": "Perpendicular"
+        }
+      ]
+    },
+    {
+      "question": "If the midsegment of a trapezoid is 12 and one base is 10, what is the other base?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "22"
+        },
+        {
+          "option": "14",
+          "is_answer": true
+        },
+        {
+          "option": "11"
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of the interior angles of a trapezoid?",
+      "options": [
+        {
+          "option": "270 degrees"
+        },
+        {
+          "option": "90 degrees"
+        },
+        {
+          "option": "180 degrees"
+        },
+        {
+          "option": "360 degrees",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A trapezoid with non-parallel sides of equal length is called:",
+      "options": [
+        {
+          "option": "Right trapezoid"
+        },
+        {
+          "option": "Scalene trapezoid"
+        },
+        {
+          "option": "Isosceles trapezoid",
+          "is_answer": true
+        },
+        {
+          "option": "Parallelogram"
+        }
+      ]
+    },
+    {
+      "question": "The midsegment of a trapezoid connects the:",
+      "options": [
+        {
+          "option": "Midpoints of the parallel sides"
+        },
+        {
+          "option": "Vertices of the bases"
+        },
+        {
+          "option": "Midpoints of the non-parallel sides",
+          "is_answer": true
+        },
+        {
+          "option": "Diagonals"
+        }
+      ]
+    },
+    {
+      "question": "If a trapezoid has a height of 5 and bases of 4 and 6, what is its area?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "50"
+        },
+        {
+          "option": "25",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In a right trapezoid, how many angles are 90 degrees?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The midsegment length is the _______ of the two bases.",
+      "options": [
+        {
+          "option": "Sum"
+        },
+        {
+          "option": "Difference"
+        },
+        {
+          "option": "Arithmetic mean",
+          "is_answer": true
+        },
+        {
+          "option": "Geometric mean"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is NOT a property of a trapezoid?",
+      "options": [
+        {
+          "option": "Four sides"
+        },
+        {
+          "option": "All sides are equal",
+          "is_answer": true
+        },
+        {
+          "option": "One pair of parallel sides"
+        },
+        {
+          "option": "Interior angles sum to 360"
+        }
+      ]
+    },
+    {
+      "question": "If the midsegment is 15 and the bases are x and 12, what is x?",
+      "options": [
+        {
+          "option": "27"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "18",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "Can a trapezoid have all four sides equal?",
+      "options": [
+        {
+          "option": "Yes"
+        },
+        {
+          "option": "No",
+          "is_answer": true
+        },
+        {
+          "option": "Only if it is a rectangle"
+        },
+        {
+          "option": "Only if it is a square"
+        }
+      ]
+    },
+    {
+      "question": "The parallel sides of a trapezoid are called:",
+      "options": [
+        {
+          "option": "Midsegments"
+        },
+        {
+          "option": "Diagonals"
+        },
+        {
+          "option": "Bases",
+          "is_answer": true
+        },
+        {
+          "option": "Legs"
+        }
+      ]
+    },
+    {
+      "question": "The non-parallel sides of a trapezoid are called:",
+      "options": [
+        {
+          "option": "Midsegments"
+        },
+        {
+          "option": "Diagonals"
+        },
+        {
+          "option": "Bases"
+        },
+        {
+          "option": "Legs",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If an isosceles trapezoid has a perimeter of 40 and the bases are 10 and 14, what is the length of each leg?",
+      "options": [
+        {
+          "option": "16"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "The midsegment of a trapezoid is always _______ the sum of the bases.",
+      "options": [
+        {
+          "option": "Equal to"
+        },
+        {
+          "option": "Double"
+        },
+        {
+          "option": "Half",
+          "is_answer": true
+        },
+        {
+          "option": "Triple"
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of the interior angles of a pentagon?",
+      "options": [
+        {
+          "option": "360°"
+        },
+        {
+          "option": "540°",
+          "is_answer": true
+        },
+        {
+          "option": "180°"
+        },
+        {
+          "option": "720°"
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of the exterior angles of any convex polygon?",
+      "options": [
+        {
+          "option": "180°"
+        },
+        {
+          "option": "720°"
+        },
+        {
+          "option": "540°"
+        },
+        {
+          "option": "360°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many diagonals does a quadrilateral have?",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "What is the measure of each interior angle of a regular hexagon?",
+      "options": [
+        {
+          "option": "108°"
+        },
+        {
+          "option": "90°"
+        },
+        {
+          "option": "120°",
+          "is_answer": true
+        },
+        {
+          "option": "135°"
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of the interior angles of a decagon (10-sided polygon)?",
+      "options": [
+        {
+          "option": "1440°",
+          "is_answer": true
+        },
+        {
+          "option": "1800°"
+        },
+        {
+          "option": "1260°"
+        },
+        {
+          "option": "1620°"
+        }
+      ]
+    },
+    {
+      "question": "How many sides does a polygon have if the sum of its interior angles is 1800°?",
+      "options": [
+        {
+          "option": "14"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "11"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the measure of each exterior angle of a regular octagon?",
+      "options": [
+        {
+          "option": "60°"
+        },
+        {
+          "option": "45°",
+          "is_answer": true
+        },
+        {
+          "option": "40°"
+        },
+        {
+          "option": "30°"
+        }
+      ]
+    },
+    {
+      "question": "How many diagonals does a pentagon have?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of interior angles of a heptagon (7-sided)?",
+      "options": [
+        {
+          "option": "900°",
+          "is_answer": true
+        },
+        {
+          "option": "1260°"
+        },
+        {
+          "option": "1080°"
+        },
+        {
+          "option": "720°"
+        }
+      ]
+    },
+    {
+      "question": "If a regular polygon has an exterior angle of 72°, how many sides does it have?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of interior angles of a triangle?",
+      "options": [
+        {
+          "option": "90°"
+        },
+        {
+          "option": "270°"
+        },
+        {
+          "option": "360°"
+        },
+        {
+          "option": "180°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many diagonals does a hexagon have?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "What is the measure of each interior angle of a regular nonagon (9-sided)?",
+      "options": [
+        {
+          "option": "150°"
+        },
+        {
+          "option": "135°"
+        },
+        {
+          "option": "140°",
+          "is_answer": true
+        },
+        {
+          "option": "120°"
+        }
+      ]
+    },
+    {
+      "question": "The sum of interior angles of a polygon is 1080°. How many sides does it have?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of the exterior angles of a 20-sided polygon?",
+      "options": [
+        {
+          "option": "360°",
+          "is_answer": true
+        },
+        {
+          "option": "720°"
+        },
+        {
+          "option": "180°"
+        },
+        {
+          "option": "3240°"
+        }
+      ]
+    },
+    {
+      "question": "How many diagonals does a decagon have?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "35",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "45"
+        }
+      ]
+    },
+    {
+      "question": "What is the measure of each exterior angle of a regular pentagon?",
+      "options": [
+        {
+          "option": "108°"
+        },
+        {
+          "option": "90°"
+        },
+        {
+          "option": "72°",
+          "is_answer": true
+        },
+        {
+          "option": "60°"
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of interior angles of a square?",
+      "options": [
+        {
+          "option": "270°"
+        },
+        {
+          "option": "540°"
+        },
+        {
+          "option": "180°"
+        },
+        {
+          "option": "360°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If a regular polygon has 12 sides, what is the measure of each exterior angle?",
+      "options": [
+        {
+          "option": "15°"
+        },
+        {
+          "option": "30°",
+          "is_answer": true
+        },
+        {
+          "option": "45°"
+        },
+        {
+          "option": "20°"
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of interior angles of an octagon?",
+      "options": [
+        {
+          "option": "720°"
+        },
+        {
+          "option": "1080°",
+          "is_answer": true
+        },
+        {
+          "option": "1260°"
+        },
+        {
+          "option": "900°"
+        }
+      ]
+    },
+    {
+      "question": "Which property is unique to a rectangle among parallelograms?",
+      "options": [
+        {
+          "option": "Opposite sides are parallel"
+        },
+        {
+          "option": "Diagonals bisect each other"
+        },
+        {
+          "option": "Opposite angles are equal"
+        },
+        {
+          "option": "Diagonals are equal in length",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In a rhombus, the diagonals intersect at what angle?",
+      "options": [
+        {
+          "option": "90 degrees",
+          "is_answer": true
+        },
+        {
+          "option": "45 degrees"
+        },
+        {
+          "option": "120 degrees"
+        },
+        {
+          "option": "60 degrees"
+        }
+      ]
+    },
+    {
+      "question": "Which shape has both equal and perpendicular diagonals?",
+      "options": [
+        {
+          "option": "Parallelogram"
+        },
+        {
+          "option": "Rhombus"
+        },
+        {
+          "option": "Rectangle"
+        },
+        {
+          "option": "Square",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The diagonals of a rhombus bisect which of the following?",
+      "options": [
+        {
+          "option": "The sides"
+        },
+        {
+          "option": "The area"
+        },
+        {
+          "option": "The perimeter"
+        },
+        {
+          "option": "The interior angles",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If a rectangle has equal adjacent sides, it becomes a:",
+      "options": [
+        {
+          "option": "Rhombus"
+        },
+        {
+          "option": "Kite"
+        },
+        {
+          "option": "Trapezoid"
+        },
+        {
+          "option": "Square",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the measure of each angle in a square?",
+      "options": [
+        {
+          "option": "60 degrees"
+        },
+        {
+          "option": "90 degrees",
+          "is_answer": true
+        },
+        {
+          "option": "45 degrees"
+        },
+        {
+          "option": "180 degrees"
+        }
+      ]
+    },
+    {
+      "question": "Which statement is true for all rectangles?",
+      "options": [
+        {
+          "option": "Diagonals bisect angles"
+        },
+        {
+          "option": "All sides are equal"
+        },
+        {
+          "option": "Diagonals are perpendicular"
+        },
+        {
+          "option": "Diagonals are equal",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A rhombus is a parallelogram with:",
+      "options": [
+        {
+          "option": "All sides equal",
+          "is_answer": true
+        },
+        {
+          "option": "All angles equal"
+        },
+        {
+          "option": "No parallel sides"
+        },
+        {
+          "option": "Equal diagonals"
+        }
+      ]
+    },
+    {
+      "question": "The diagonals of a rectangle:",
+      "options": [
+        {
+          "option": "Are unequal"
+        },
+        {
+          "option": "Are perpendicular"
+        },
+        {
+          "option": "Bisect the angles"
+        },
+        {
+          "option": "Bisect each other",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A square is also a:",
+      "options": [
+        {
+          "option": "Kite only"
+        },
+        {
+          "option": "Triangle"
+        },
+        {
+          "option": "Trapezoid only"
+        },
+        {
+          "option": "Rectangle and Rhombus",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In a rhombus, the diagonals bisect the angles at the:",
+      "options": [
+        {
+          "option": "Edges"
+        },
+        {
+          "option": "Center"
+        },
+        {
+          "option": "Vertices",
+          "is_answer": true
+        },
+        {
+          "option": "Midpoints"
+        }
+      ]
+    },
+    {
+      "question": "Which property is shared by both a square and a rectangle?",
+      "options": [
+        {
+          "option": "Equal diagonals",
+          "is_answer": true
+        },
+        {
+          "option": "Perpendicular diagonals"
+        },
+        {
+          "option": "All sides equal"
+        },
+        {
+          "option": "Diagonals bisect angles"
+        }
+      ]
+    },
+    {
+      "question": "If the diagonals of a parallelogram are perpendicular, it must be a:",
+      "options": [
+        {
+          "option": "Rhombus",
+          "is_answer": true
+        },
+        {
+          "option": "Trapezoid"
+        },
+        {
+          "option": "Rectangle"
+        },
+        {
+          "option": "Square only"
+        }
+      ]
+    },
+    {
+      "question": "How many lines of symmetry does a square have?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The diagonals of a square are:",
+      "options": [
+        {
+          "option": "Equal and perpendicular",
+          "is_answer": true
+        },
+        {
+          "option": "Unequal and parallel"
+        },
+        {
+          "option": "Unequal and perpendicular"
+        },
+        {
+          "option": "Equal and parallel"
+        }
+      ]
+    },
+    {
+      "question": "A rectangle is a parallelogram with:",
+      "options": [
+        {
+          "option": "Four equal sides"
+        },
+        {
+          "option": "Perpendicular diagonals"
+        },
+        {
+          "option": "Four right angles",
+          "is_answer": true
+        },
+        {
+          "option": "No parallel sides"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is NOT necessarily true for a rhombus?",
+      "options": [
+        {
+          "option": "Diagonals are equal",
+          "is_answer": true
+        },
+        {
+          "option": "Diagonals are perpendicular"
+        },
+        {
+          "option": "Opposite angles are equal"
+        },
+        {
+          "option": "All sides are equal"
+        }
+      ]
+    },
+    {
+      "question": "The diagonals of a square bisect each other at:",
+      "options": [
+        {
+          "option": "45 degrees"
+        },
+        {
+          "option": "60 degrees"
+        },
+        {
+          "option": "90 degrees",
+          "is_answer": true
+        },
+        {
+          "option": "180 degrees"
+        }
+      ]
+    },
+    {
+      "question": "A quadrilateral with four equal sides and four right angles is a:",
+      "options": [
+        {
+          "option": "Square",
+          "is_answer": true
+        },
+        {
+          "option": "Rhombus"
+        },
+        {
+          "option": "Rectangle"
+        },
+        {
+          "option": "Parallelogram"
+        }
+      ]
+    },
+    {
+      "question": "In a rectangle, the diagonals divide the rectangle into:",
+      "options": [
+        {
+          "option": "Four equal squares"
+        },
+        {
+          "option": "Two congruent triangles",
+          "is_answer": true
+        },
+        {
+          "option": "Two trapezoids"
+        },
+        {
+          "option": "Four unequal triangles"
+        }
+      ]
+    },
+    {
+      "question": "A tangent to a circle is perpendicular to the radius at the point of contact. What is the angle between them?",
+      "options": [
+        {
+          "option": "180 degrees"
+        },
+        {
+          "option": "90 degrees",
+          "is_answer": true
+        },
+        {
+          "option": "45 degrees"
+        },
+        {
+          "option": "60 degrees"
+        }
+      ]
+    },
+    {
+      "question": "If two tangents are drawn from an external point to a circle, what is the relationship between their lengths?",
+      "options": [
+        {
+          "option": "One is double the other"
+        },
+        {
+          "option": "They are perpendicular"
+        },
+        {
+          "option": "They are unequal"
+        },
+        {
+          "option": "They are equal",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many tangents can be drawn to a circle from a point lying inside the circle?",
+      "options": [
+        {
+          "option": "Infinite"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The length of a tangent from an external point to a circle is 8 cm. What is the length of the other tangent from the same point?",
+      "options": [
+        {
+          "option": "8 cm",
+          "is_answer": true
+        },
+        {
+          "option": "12 cm"
+        },
+        {
+          "option": "16 cm"
+        },
+        {
+          "option": "4 cm"
+        }
+      ]
+    },
+    {
+      "question": "A line that intersects a circle at only one point is called a:",
+      "options": [
+        {
+          "option": "Tangent",
+          "is_answer": true
+        },
+        {
+          "option": "Secant"
+        },
+        {
+          "option": "Diameter"
+        },
+        {
+          "option": "Chord"
+        }
+      ]
+    },
+    {
+      "question": "The point where the tangent touches the circle is called the:",
+      "options": [
+        {
+          "option": "Intersection point"
+        },
+        {
+          "option": "Center"
+        },
+        {
+          "option": "Point of contact",
+          "is_answer": true
+        },
+        {
+          "option": "Vertex"
+        }
+      ]
+    },
+    {
+      "question": "If the distance from the center to an external point is 10 cm and the radius is 6 cm, what is the length of the tangent?",
+      "options": [
+        {
+          "option": "4 cm"
+        },
+        {
+          "option": "8 cm",
+          "is_answer": true
+        },
+        {
+          "option": "12 cm"
+        },
+        {
+          "option": "14 cm"
+        }
+      ]
+    },
+    {
+      "question": "How many tangents can be drawn to a circle from a point on the circle?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "Infinite"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "The angle between the radius and the tangent at the point of contact is always:",
+      "options": [
+        {
+          "option": "90 degrees",
+          "is_answer": true
+        },
+        {
+          "option": "0 degrees"
+        },
+        {
+          "option": "180 degrees"
+        },
+        {
+          "option": "45 degrees"
+        }
+      ]
+    },
+    {
+      "question": "Two tangents are drawn to a circle from an external point P. If the angle between them is 60 degrees, what is the angle subtended by the line segment joining the center to P at the point of contact?",
+      "options": [
+        {
+          "option": "120 degrees"
+        },
+        {
+          "option": "30 degrees",
+          "is_answer": true
+        },
+        {
+          "option": "60 degrees"
+        },
+        {
+          "option": "90 degrees"
+        }
+      ]
+    },
+    {
+      "question": "A tangent is a special case of a:",
+      "options": [
+        {
+          "option": "Chord"
+        },
+        {
+          "option": "Secant",
+          "is_answer": true
+        },
+        {
+          "option": "Radius"
+        },
+        {
+          "option": "Diameter"
+        }
+      ]
+    },
+    {
+      "question": "The length of the tangent from a point 13 cm away from the center of a circle of radius 5 cm is:",
+      "options": [
+        {
+          "option": "18 cm"
+        },
+        {
+          "option": "8 cm"
+        },
+        {
+          "option": "10 cm"
+        },
+        {
+          "option": "12 cm",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "How many parallel tangents can a circle have at most?",
+      "options": [
+        {
+          "option": "Infinite"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If a line is perpendicular to the radius at its endpoint on the circle, then the line is a:",
+      "options": [
+        {
+          "option": "Tangent",
+          "is_answer": true
+        },
+        {
+          "option": "Secant"
+        },
+        {
+          "option": "Diameter"
+        },
+        {
+          "option": "Chord"
+        }
+      ]
+    },
+    {
+      "question": "The tangents drawn at the ends of a diameter of a circle are:",
+      "options": [
+        {
+          "option": "Perpendicular"
+        },
+        {
+          "option": "Intersecting"
+        },
+        {
+          "option": "Parallel",
+          "is_answer": true
+        },
+        {
+          "option": "Equal"
+        }
+      ]
+    },
+    {
+      "question": "The distance between two parallel tangents of a circle of radius 4 cm is:",
+      "options": [
+        {
+          "option": "4 cm"
+        },
+        {
+          "option": "16 cm"
+        },
+        {
+          "option": "8 cm",
+          "is_answer": true
+        },
+        {
+          "option": "2 cm"
+        }
+      ]
+    },
+    {
+      "question": "A circle can have how many tangents?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "Infinite",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "The common point of a tangent and the circle is called:",
+      "options": [
+        {
+          "option": "Point of contact",
+          "is_answer": true
+        },
+        {
+          "option": "Chord"
+        },
+        {
+          "option": "Radius"
+        },
+        {
+          "option": "Center"
+        }
+      ]
+    },
+    {
+      "question": "If the angle between two tangents drawn from an external point to a circle is 80 degrees, what is the angle between the radii at the points of contact?",
+      "options": [
+        {
+          "option": "80 degrees"
+        },
+        {
+          "option": "90 degrees"
+        },
+        {
+          "option": "100 degrees",
+          "is_answer": true
+        },
+        {
+          "option": "180 degrees"
+        }
+      ]
+    },
+    {
+      "question": "Which theorem states that tangents drawn from an external point to a circle are equal in length?",
+      "options": [
+        {
+          "option": "Midpoint theorem"
+        },
+        {
+          "option": "Thales theorem"
+        },
+        {
+          "option": "Tangent segment theorem",
+          "is_answer": true
+        },
+        {
+          "option": "Pythagoras theorem"
+        }
+      ]
+    },
+    {
+      "question": "If two chords of a circle are equal, what can be said about their corresponding central angles?",
+      "options": [
+        {
+          "option": "They are complementary"
+        },
+        {
+          "option": "They are unequal"
+        },
+        {
+          "option": "They are equal",
+          "is_answer": true
+        },
+        {
+          "option": "They are supplementary"
+        }
+      ]
+    },
+    {
+      "question": "A perpendicular drawn from the center of a circle to a chord performs which action?",
+      "options": [
+        {
+          "option": "Does nothing"
+        },
+        {
+          "option": "Doubles the chord"
+        },
+        {
+          "option": "Triples the chord"
+        },
+        {
+          "option": "Bisects the chord",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If two central angles are equal, their corresponding chords are:",
+      "options": [
+        {
+          "option": "Perpendicular"
+        },
+        {
+          "option": "Intersecting"
+        },
+        {
+          "option": "Equal",
+          "is_answer": true
+        },
+        {
+          "option": "Parallel"
+        }
+      ]
+    },
+    {
+      "question": "The perpendicular bisector of a chord always passes through:",
+      "options": [
+        {
+          "option": "The midpoint of the arc"
+        },
+        {
+          "option": "The circumference"
+        },
+        {
+          "option": "The center of the circle",
+          "is_answer": true
+        },
+        {
+          "option": "The tangent point"
+        }
+      ]
+    },
+    {
+      "question": "If a chord of length 8cm is 3cm away from the center, what is the radius of the circle?",
+      "options": [
+        {
+          "option": "5cm",
+          "is_answer": true
+        },
+        {
+          "option": "6cm"
+        },
+        {
+          "option": "4cm"
+        },
+        {
+          "option": "7cm"
+        }
+      ]
+    },
+    {
+      "question": "The angle subtended by a diameter at the center of the circle is:",
+      "options": [
+        {
+          "option": "45 degrees"
+        },
+        {
+          "option": "90 degrees"
+        },
+        {
+          "option": "180 degrees",
+          "is_answer": true
+        },
+        {
+          "option": "360 degrees"
+        }
+      ]
+    },
+    {
+      "question": "Chords equidistant from the center of a circle are:",
+      "options": [
+        {
+          "option": "Perpendicular"
+        },
+        {
+          "option": "Parallel"
+        },
+        {
+          "option": "Equal in length",
+          "is_answer": true
+        },
+        {
+          "option": "Unequal"
+        }
+      ]
+    },
+    {
+      "question": "What is the measure of the central angle of a minor arc if the major arc is 240 degrees?",
+      "options": [
+        {
+          "option": "120 degrees",
+          "is_answer": true
+        },
+        {
+          "option": "60 degrees"
+        },
+        {
+          "option": "240 degrees"
+        },
+        {
+          "option": "180 degrees"
+        }
+      ]
+    },
+    {
+      "question": "The line segment joining the center to the midpoint of a chord is:",
+      "options": [
+        {
+          "option": "Equal to the chord"
+        },
+        {
+          "option": "A tangent"
+        },
+        {
+          "option": "Parallel to the chord"
+        },
+        {
+          "option": "Perpendicular to the chord",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the radius of a circle is 10cm and a chord is 16cm long, how far is the chord from the center?",
+      "options": [
+        {
+          "option": "4cm"
+        },
+        {
+          "option": "6cm",
+          "is_answer": true
+        },
+        {
+          "option": "8cm"
+        },
+        {
+          "option": "10cm"
+        }
+      ]
+    },
+    {
+      "question": "Two equal chords of a circle subtend equal arcs. This statement is:",
+      "options": [
+        {
+          "option": "Only for large circles"
+        },
+        {
+          "option": "Only for small circles"
+        },
+        {
+          "option": "True",
+          "is_answer": true
+        },
+        {
+          "option": "False"
+        }
+      ]
+    },
+    {
+      "question": "The total measure of central angles in a circle is:",
+      "options": [
+        {
+          "option": "180 degrees"
+        },
+        {
+          "option": "270 degrees"
+        },
+        {
+          "option": "90 degrees"
+        },
+        {
+          "option": "360 degrees",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If a chord is 12cm long and the radius is 10cm, what is the distance from the center?",
+      "options": [
+        {
+          "option": "8cm",
+          "is_answer": true
+        },
+        {
+          "option": "4cm"
+        },
+        {
+          "option": "6cm"
+        },
+        {
+          "option": "5cm"
+        }
+      ]
+    },
+    {
+      "question": "A chord that passes through the center of the circle is called:",
+      "options": [
+        {
+          "option": "Secant"
+        },
+        {
+          "option": "Diameter",
+          "is_answer": true
+        },
+        {
+          "option": "Tangent"
+        },
+        {
+          "option": "Radius"
+        }
+      ]
+    },
+    {
+      "question": "If two arcs of a circle are equal, their corresponding chords are:",
+      "options": [
+        {
+          "option": "Intersecting"
+        },
+        {
+          "option": "Perpendicular"
+        },
+        {
+          "option": "Equal",
+          "is_answer": true
+        },
+        {
+          "option": "Parallel"
+        }
+      ]
+    },
+    {
+      "question": "The perpendicular from the center to a chord bisects the chord. This is a:",
+      "options": [
+        {
+          "option": "Theorem",
+          "is_answer": true
+        },
+        {
+          "option": "Corollary"
+        },
+        {
+          "option": "Definition"
+        },
+        {
+          "option": "Postulate"
+        }
+      ]
+    },
+    {
+      "question": "If the central angle is 90 degrees, the arc is called:",
+      "options": [
+        {
+          "option": "A semicircle"
+        },
+        {
+          "option": "A minor arc"
+        },
+        {
+          "option": "A major arc"
+        },
+        {
+          "option": "A quadrant",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is always true for a circle?",
+      "options": [
+        {
+          "option": "All chords are equal"
+        },
+        {
+          "option": "All chords pass through the center"
+        },
+        {
+          "option": "The diameter is not a chord"
+        },
+        {
+          "option": "Equal chords are equidistant from the center",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If a chord is 10cm long and the distance from the center is 12cm, what is the radius?",
+      "options": [
+        {
+          "option": "13cm",
+          "is_answer": true
+        },
+        {
+          "option": "14cm"
+        },
+        {
+          "option": "11cm"
+        },
+        {
+          "option": "15cm"
+        }
+      ]
+    },
+    {
+      "question": "The region bounded by a chord and an arc is called:",
+      "options": [
+        {
+          "option": "A circumference"
+        },
+        {
+          "option": "A quadrant"
+        },
+        {
+          "option": "A sector"
+        },
+        {
+          "option": "A segment",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If an inscribed angle subtends an arc of 80 degrees at the center, what is the measure of the inscribed angle?",
+      "options": [
+        {
+          "option": "20 degrees"
+        },
+        {
+          "option": "40 degrees",
+          "is_answer": true
+        },
+        {
+          "option": "80 degrees"
+        },
+        {
+          "option": "160 degrees"
+        }
+      ]
+    },
+    {
+      "question": "What is the measure of an angle inscribed in a semicircle?",
+      "options": [
+        {
+          "option": "180 degrees"
+        },
+        {
+          "option": "45 degrees"
+        },
+        {
+          "option": "60 degrees"
+        },
+        {
+          "option": "90 degrees",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the inscribed angle is 35 degrees, what is the measure of the central angle subtending the same arc?",
+      "options": [
+        {
+          "option": "17.5 degrees"
+        },
+        {
+          "option": "105 degrees"
+        },
+        {
+          "option": "35 degrees"
+        },
+        {
+          "option": "70 degrees",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Angles subtended by the same arc in the same segment of a circle are:",
+      "options": [
+        {
+          "option": "Equal",
+          "is_answer": true
+        },
+        {
+          "option": "Double each other"
+        },
+        {
+          "option": "Complementary"
+        },
+        {
+          "option": "Supplementary"
+        }
+      ]
+    },
+    {
+      "question": "If a central angle is 120 degrees, what is the measure of the inscribed angle subtending the same arc?",
+      "options": [
+        {
+          "option": "240 degrees"
+        },
+        {
+          "option": "30 degrees"
+        },
+        {
+          "option": "120 degrees"
+        },
+        {
+          "option": "60 degrees",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "An angle inscribed in a semicircle is always a:",
+      "options": [
+        {
+          "option": "Obtuse angle"
+        },
+        {
+          "option": "Right angle",
+          "is_answer": true
+        },
+        {
+          "option": "Acute angle"
+        },
+        {
+          "option": "Straight angle"
+        }
+      ]
+    },
+    {
+      "question": "If the inscribed angle is 50 degrees, what is the measure of the arc it intercepts?",
+      "options": [
+        {
+          "option": "50 degrees"
+        },
+        {
+          "option": "200 degrees"
+        },
+        {
+          "option": "25 degrees"
+        },
+        {
+          "option": "100 degrees",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The measure of the central angle is always ____ the measure of the inscribed angle subtending the same arc.",
+      "options": [
+        {
+          "option": "Equal to"
+        },
+        {
+          "option": "Half"
+        },
+        {
+          "option": "One-third of"
+        },
+        {
+          "option": "Twice",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If an inscribed angle is 45 degrees, what is the measure of the central angle?",
+      "options": [
+        {
+          "option": "22.5 degrees"
+        },
+        {
+          "option": "45 degrees"
+        },
+        {
+          "option": "180 degrees"
+        },
+        {
+          "option": "90 degrees",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the measure of an inscribed angle that intercepts a 180-degree arc?",
+      "options": [
+        {
+          "option": "180 degrees"
+        },
+        {
+          "option": "45 degrees"
+        },
+        {
+          "option": "360 degrees"
+        },
+        {
+          "option": "90 degrees",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the central angle is 100 degrees, what is the inscribed angle?",
+      "options": [
+        {
+          "option": "25 degrees"
+        },
+        {
+          "option": "200 degrees"
+        },
+        {
+          "option": "50 degrees",
+          "is_answer": true
+        },
+        {
+          "option": "100 degrees"
+        }
+      ]
+    },
+    {
+      "question": "Two inscribed angles subtending the same arc are:",
+      "options": [
+        {
+          "option": "Supplementary"
+        },
+        {
+          "option": "Equal",
+          "is_answer": true
+        },
+        {
+          "option": "Different"
+        },
+        {
+          "option": "Complementary"
+        }
+      ]
+    },
+    {
+      "question": "If an inscribed angle is 60 degrees, what is the measure of the central angle?",
+      "options": [
+        {
+          "option": "240 degrees"
+        },
+        {
+          "option": "120 degrees",
+          "is_answer": true
+        },
+        {
+          "option": "60 degrees"
+        },
+        {
+          "option": "30 degrees"
+        }
+      ]
+    },
+    {
+      "question": "The angle in a semicircle is a property derived from:",
+      "options": [
+        {
+          "option": "Pythagorean Theorem"
+        },
+        {
+          "option": "Thales's Theorem"
+        },
+        {
+          "option": "Inscribed Angle Theorem",
+          "is_answer": true
+        },
+        {
+          "option": "Euclid's Postulate"
+        }
+      ]
+    },
+    {
+      "question": "If the arc measure is 140 degrees, what is the inscribed angle?",
+      "options": [
+        {
+          "option": "70 degrees",
+          "is_answer": true
+        },
+        {
+          "option": "140 degrees"
+        },
+        {
+          "option": "280 degrees"
+        },
+        {
+          "option": "35 degrees"
+        }
+      ]
+    },
+    {
+      "question": "An inscribed angle is ____ the measure of the arc it intercepts.",
+      "options": [
+        {
+          "option": "One-fourth"
+        },
+        {
+          "option": "Half",
+          "is_answer": true
+        },
+        {
+          "option": "Equal to"
+        },
+        {
+          "option": "Twice"
+        }
+      ]
+    },
+    {
+      "question": "If the inscribed angle is 20 degrees, what is the central angle?",
+      "options": [
+        {
+          "option": "40 degrees",
+          "is_answer": true
+        },
+        {
+          "option": "10 degrees"
+        },
+        {
+          "option": "20 degrees"
+        },
+        {
+          "option": "80 degrees"
+        }
+      ]
+    },
+    {
+      "question": "What is the measure of the central angle if the inscribed angle is 90 degrees?",
+      "options": [
+        {
+          "option": "180 degrees",
+          "is_answer": true
+        },
+        {
+          "option": "360 degrees"
+        },
+        {
+          "option": "45 degrees"
+        },
+        {
+          "option": "90 degrees"
+        }
+      ]
+    },
+    {
+      "question": "If the central angle is 160 degrees, what is the inscribed angle?",
+      "options": [
+        {
+          "option": "40 degrees"
+        },
+        {
+          "option": "80 degrees",
+          "is_answer": true
+        },
+        {
+          "option": "320 degrees"
+        },
+        {
+          "option": "160 degrees"
+        }
+      ]
+    },
+    {
+      "question": "The inscribed angle theorem states that the inscribed angle is ____ the central angle.",
+      "options": [
+        {
+          "option": "Half",
+          "is_answer": true
+        },
+        {
+          "option": "Equal to"
+        },
+        {
+          "option": "Twice"
+        },
+        {
+          "option": "Triple"
+        }
+      ]
+    },
+    {
+      "question": "In a cyclic quadrilateral, what is the sum of a pair of opposite angles?",
+      "options": [
+        {
+          "option": "270°"
+        },
+        {
+          "option": "180°",
+          "is_answer": true
+        },
+        {
+          "option": "360°"
+        },
+        {
+          "option": "90°"
+        }
+      ]
+    },
+    {
+      "question": "If one angle of a cyclic quadrilateral is 70°, what is the measure of its opposite angle?",
+      "options": [
+        {
+          "option": "20°"
+        },
+        {
+          "option": "110°",
+          "is_answer": true
+        },
+        {
+          "option": "70°"
+        },
+        {
+          "option": "180°"
+        }
+      ]
+    },
+    {
+      "question": "Ptolemy's theorem relates the sides and diagonals of which shape?",
+      "options": [
+        {
+          "option": "Parallelogram"
+        },
+        {
+          "option": "Rhombus"
+        },
+        {
+          "option": "Cyclic quadrilateral",
+          "is_answer": true
+        },
+        {
+          "option": "Triangle"
+        }
+      ]
+    },
+    {
+      "question": "If a cyclic quadrilateral has an angle of 105°, what is the measure of the opposite angle?",
+      "options": [
+        {
+          "option": "85°"
+        },
+        {
+          "option": "95°"
+        },
+        {
+          "option": "75°",
+          "is_answer": true
+        },
+        {
+          "option": "105°"
+        }
+      ]
+    },
+    {
+      "question": "Which theorem states that the product of the diagonals equals the sum of the products of opposite sides?",
+      "options": [
+        {
+          "option": "Ptolemy's Theorem",
+          "is_answer": true
+        },
+        {
+          "option": "Thales Theorem"
+        },
+        {
+          "option": "Euclid's Theorem"
+        },
+        {
+          "option": "Pythagoras Theorem"
+        }
+      ]
+    },
+    {
+      "question": "In a cyclic quadrilateral ABCD, if angle A = 80°, what is angle C?",
+      "options": [
+        {
+          "option": "180°"
+        },
+        {
+          "option": "90°"
+        },
+        {
+          "option": "100°",
+          "is_answer": true
+        },
+        {
+          "option": "80°"
+        }
+      ]
+    },
+    {
+      "question": "What is the sum of all interior angles of a cyclic quadrilateral?",
+      "options": [
+        {
+          "option": "360°",
+          "is_answer": true
+        },
+        {
+          "option": "720°"
+        },
+        {
+          "option": "540°"
+        },
+        {
+          "option": "180°"
+        }
+      ]
+    },
+    {
+      "question": "If a cyclic quadrilateral is a rectangle, what is the measure of each angle?",
+      "options": [
+        {
+          "option": "90°",
+          "is_answer": true
+        },
+        {
+          "option": "60°"
+        },
+        {
+          "option": "180°"
+        },
+        {
+          "option": "45°"
+        }
+      ]
+    },
+    {
+      "question": "In cyclic quadrilateral ABCD, if angle B = 120°, what is angle D?",
+      "options": [
+        {
+          "option": "60°",
+          "is_answer": true
+        },
+        {
+          "option": "30°"
+        },
+        {
+          "option": "120°"
+        },
+        {
+          "option": "90°"
+        }
+      ]
+    },
+    {
+      "question": "Which condition must be met for a quadrilateral to be cyclic?",
+      "options": [
+        {
+          "option": "All sides are equal"
+        },
+        {
+          "option": "Opposite sides are parallel"
+        },
+        {
+          "option": "Diagonals bisect each other"
+        },
+        {
+          "option": "All vertices lie on a circle",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If angle A and angle C are opposite in a cyclic quadrilateral, then angle A + angle C = ?",
+      "options": [
+        {
+          "option": "180°",
+          "is_answer": true
+        },
+        {
+          "option": "0°"
+        },
+        {
+          "option": "90°"
+        },
+        {
+          "option": "360°"
+        }
+      ]
+    },
+    {
+      "question": "If a cyclic quadrilateral has angles 80°, 100°, and 70°, what is the fourth angle?",
+      "options": [
+        {
+          "option": "110°",
+          "is_answer": true
+        },
+        {
+          "option": "90°"
+        },
+        {
+          "option": "80°"
+        },
+        {
+          "option": "100°"
+        }
+      ]
+    },
+    {
+      "question": "Ptolemy's theorem states that for cyclic quadrilateral ABCD, AC * BD = ?",
+      "options": [
+        {
+          "option": "AB*AD + BC*CD"
+        },
+        {
+          "option": "AB*BC + CD*DA"
+        },
+        {
+          "option": "AC*AD + BD*BC"
+        },
+        {
+          "option": "AB*CD + BC*AD",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In a cyclic quadrilateral, if one angle is 90°, what is its opposite angle?",
+      "options": [
+        {
+          "option": "90°",
+          "is_answer": true
+        },
+        {
+          "option": "180°"
+        },
+        {
+          "option": "45°"
+        },
+        {
+          "option": "0°"
+        }
+      ]
+    },
+    {
+      "question": "Can a square be a cyclic quadrilateral?",
+      "options": [
+        {
+          "option": "Only if sides are equal"
+        },
+        {
+          "option": "No"
+        },
+        {
+          "option": "Only if diagonals are equal"
+        },
+        {
+          "option": "Yes",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the sum of a pair of opposite angles of a quadrilateral is 180°, the quadrilateral is:",
+      "options": [
+        {
+          "option": "Square"
+        },
+        {
+          "option": "Rhombus"
+        },
+        {
+          "option": "Trapezoid"
+        },
+        {
+          "option": "Cyclic",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In cyclic quadrilateral ABCD, if angle A = 65°, what is the measure of angle C?",
+      "options": [
+        {
+          "option": "115°",
+          "is_answer": true
+        },
+        {
+          "option": "90°"
+        },
+        {
+          "option": "180°"
+        },
+        {
+          "option": "65°"
+        }
+      ]
+    },
+    {
+      "question": "What is the property of the diagonals of a cyclic quadrilateral?",
+      "options": [
+        {
+          "option": "They bisect each other"
+        },
+        {
+          "option": "They intersect inside the circle",
+          "is_answer": true
+        },
+        {
+          "option": "They are perpendicular"
+        },
+        {
+          "option": "They are always equal"
+        }
+      ]
+    },
+    {
+      "question": "If a cyclic quadrilateral has angles 110° and 60°, what are the other two angles?",
+      "options": [
+        {
+          "option": "110° and 60°"
+        },
+        {
+          "option": "90° and 90°"
+        },
+        {
+          "option": "70° and 120°",
+          "is_answer": true
+        },
+        {
+          "option": "80° and 100°"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is always true for a cyclic quadrilateral?",
+      "options": [
+        {
+          "option": "All sides are equal"
+        },
+        {
+          "option": "Diagonals are equal"
+        },
+        {
+          "option": "It is a parallelogram"
+        },
+        {
+          "option": "Opposite angles are supplementary",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "In a circle, two chords AB and CD intersect at point P. If PA = 4, PB = 6, and PC = 3, what is the length of PD?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A tangent PT is drawn to a circle from an external point P. If PT = 8 and PA = 4, what is the length of PB (where P, A, B are collinear)?",
+      "options": [
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "32"
+        }
+      ]
+    },
+    {
+      "question": "Two chords AB and CD intersect at P. If PA = 5, PB = 2, and PD = 2.5, what is the length of PC?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "If a tangent PT = 10 and a secant segment PA = 5, what is the total length of the secant segment PB?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "50"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "Chords AB and CD intersect at P. If PA = x, PB = 4, PC = 2, and PD = 6, find x.",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A tangent PT = 6 and secant PAB has PA = 3. What is the length of AB?",
+      "options": [
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "In the intersecting chords theorem, if PA * PB = 24, what must be the product PC * PD?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "If PT is a tangent and PAB is a secant, which equation is correct?",
+      "options": [
+        {
+          "option": "PT = PA + PB"
+        },
+        {
+          "option": "PT^2 = PA + PB"
+        },
+        {
+          "option": "PT^2 = PA * PB",
+          "is_answer": true
+        },
+        {
+          "option": "PT = PA * PB"
+        }
+      ]
+    },
+    {
+      "question": "Chords AB and CD intersect at P. If PA = 8, PB = 3, and PC = 4, what is PD?",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "A tangent PT = 12 and secant PAB has PA = 4. What is the length of PB?",
+      "options": [
+        {
+          "option": "36",
+          "is_answer": true
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "If PA = 2, PB = 9, and PC = 3, find PD in intersecting chords.",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "For a tangent PT and secant PAB, if PB = 16 and PA = 4, what is PT?",
+      "options": [
+        {
+          "option": "16"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "64"
+        }
+      ]
+    },
+    {
+      "question": "Chords AB and CD intersect at P. If PA = 10, PB = 2, and PC = 5, what is PD?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If PT = 9 and PA = 3, what is the length of the whole secant segment PB?",
+      "options": [
+        {
+          "option": "27",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "81"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "In intersecting chords, if PA = 6, PB = 6, and PC = 4, what is PD?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "A tangent PT = 5 and secant PAB has PA = 2.5. What is PB?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "2.5"
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "If PA = 12, PB = 1, and PC = 3, find PD.",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "For a tangent PT and secant PAB, if PT = 4 and PB = 8, what is PA?",
+      "options": [
+        {
+          "option": "16"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "Chords AB and CD intersect at P. If PA = 9, PB = 4, and PC = 6, what is PD?",
+      "options": [
+        {
+          "option": "36"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "If PT = 15 and PA = 5, what is the length of PB?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "75"
+        },
+        {
+          "option": "45",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "What is the formula for the inradius (r) of a triangle with area A and semi-perimeter s?",
+      "options": [
+        {
+          "option": "r = s/A"
+        },
+        {
+          "option": "r = A*s"
+        },
+        {
+          "option": "r = A/s",
+          "is_answer": true
+        },
+        {
+          "option": "r = 2A/s"
+        }
+      ]
+    },
+    {
+      "question": "What is the formula for the circumradius (R) of a triangle with sides a, b, c and area A?",
+      "options": [
+        {
+          "option": "R = (abc)/(2A)"
+        },
+        {
+          "option": "R = (abc)/A"
+        },
+        {
+          "option": "R = (abc)/(4A)",
+          "is_answer": true
+        },
+        {
+          "option": "R = (4A)/(abc)"
+        }
+      ]
+    },
+    {
+      "question": "For an equilateral triangle with side length 'a', what is the inradius r?",
+      "options": [
+        {
+          "option": "a / 3"
+        },
+        {
+          "option": "a / (2*sqrt(3))",
+          "is_answer": true
+        },
+        {
+          "option": "a / 2"
+        },
+        {
+          "option": "a / sqrt(3)"
+        }
+      ]
+    },
+    {
+      "question": "For an equilateral triangle with side length 'a', what is the circumradius R?",
+      "options": [
+        {
+          "option": "a / sqrt(3)",
+          "is_answer": true
+        },
+        {
+          "option": "a / 2"
+        },
+        {
+          "option": "a / 3"
+        },
+        {
+          "option": "a / (2*sqrt(3))"
+        }
+      ]
+    },
+    {
+      "question": "In a right-angled triangle with legs a and b and hypotenuse c, what is the inradius r?",
+      "options": [
+        {
+          "option": "(a + b - c) / 2",
+          "is_answer": true
+        },
+        {
+          "option": "(a + b) / 2"
+        },
+        {
+          "option": "(a + b + c) / 2"
+        },
+        {
+          "option": "c / 2"
+        }
+      ]
+    },
+    {
+      "question": "In a right-angled triangle with hypotenuse c, what is the circumradius R?",
+      "options": [
+        {
+          "option": "c"
+        },
+        {
+          "option": "2c"
+        },
+        {
+          "option": "c / sqrt(2)"
+        },
+        {
+          "option": "c / 2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the relationship between the inradius r and circumradius R of an equilateral triangle?",
+      "options": [
+        {
+          "option": "R = 1.5r"
+        },
+        {
+          "option": "R = 3r"
+        },
+        {
+          "option": "R = 2r",
+          "is_answer": true
+        },
+        {
+          "option": "R = r"
+        }
+      ]
+    },
+    {
+      "question": "The center of the inscribed circle is called the:",
+      "options": [
+        {
+          "option": "Circumcenter"
+        },
+        {
+          "option": "Centroid"
+        },
+        {
+          "option": "Incenter",
+          "is_answer": true
+        },
+        {
+          "option": "Orthocenter"
+        }
+      ]
+    },
+    {
+      "question": "The center of the circumscribed circle is called the:",
+      "options": [
+        {
+          "option": "Circumcenter",
+          "is_answer": true
+        },
+        {
+          "option": "Centroid"
+        },
+        {
+          "option": "Orthocenter"
+        },
+        {
+          "option": "Incenter"
+        }
+      ]
+    },
+    {
+      "question": "For a triangle with sides 3, 4, 5, what is the inradius r?",
+      "options": [
+        {
+          "option": "1.5"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0.5"
+        }
+      ]
+    },
+    {
+      "question": "For a triangle with sides 3, 4, 5, what is the circumradius R?",
+      "options": [
+        {
+          "option": "2.5",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "The incenter is the intersection of the triangle's:",
+      "options": [
+        {
+          "option": "Perpendicular bisectors"
+        },
+        {
+          "option": "Altitudes"
+        },
+        {
+          "option": "Medians"
+        },
+        {
+          "option": "Angle bisectors",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "The circumcenter is the intersection of the triangle's:",
+      "options": [
+        {
+          "option": "Altitudes"
+        },
+        {
+          "option": "Angle bisectors"
+        },
+        {
+          "option": "Medians"
+        },
+        {
+          "option": "Perpendicular bisectors",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the area of a triangle is 6 and the semi-perimeter is 6, what is the inradius r?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "36"
+        }
+      ]
+    },
+    {
+      "question": "Which circle touches all three sides of a triangle?",
+      "options": [
+        {
+          "option": "Inscribed circle",
+          "is_answer": true
+        },
+        {
+          "option": "Circumscribed circle"
+        },
+        {
+          "option": "Unit circle"
+        },
+        {
+          "option": "Exscribed circle"
+        }
+      ]
+    },
+    {
+      "question": "Which circle passes through all three vertices of a triangle?",
+      "options": [
+        {
+          "option": "Exscribed circle"
+        },
+        {
+          "option": "Unit circle"
+        },
+        {
+          "option": "Circumscribed circle",
+          "is_answer": true
+        },
+        {
+          "option": "Inscribed circle"
+        }
+      ]
+    },
+    {
+      "question": "Euler's theorem states the distance d between incenter and circumcenter is:",
+      "options": [
+        {
+          "option": "d^2 = r(r - 2R)"
+        },
+        {
+          "option": "d^2 = R(R + 2r)"
+        },
+        {
+          "option": "d^2 = 2Rr"
+        },
+        {
+          "option": "d^2 = R(R - 2r)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "For any triangle, the circumradius R is always:",
+      "options": [
+        {
+          "option": "Greater than or equal to 2r",
+          "is_answer": true
+        },
+        {
+          "option": "Half of r"
+        },
+        {
+          "option": "Equal to r"
+        },
+        {
+          "option": "Less than r"
+        }
+      ]
+    },
+    {
+      "question": "If a triangle is equilateral, the incenter and circumcenter are:",
+      "options": [
+        {
+          "option": "Perpendicular"
+        },
+        {
+          "option": "The same point",
+          "is_answer": true
+        },
+        {
+          "option": "On the same side"
+        },
+        {
+          "option": "Different points"
+        }
+      ]
+    },
+    {
+      "question": "What is the area of a triangle if its inradius is 2 and semi-perimeter is 10?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "What is the distance between points (0,0) and (3,4)?",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "Find the midpoint of the line segment joining (2,4) and (4,6).",
+      "options": [
+        {
+          "option": "(1,1)"
+        },
+        {
+          "option": "(3,5)",
+          "is_answer": true
+        },
+        {
+          "option": "(6,10)"
+        },
+        {
+          "option": "(2,2)"
+        }
+      ]
+    },
+    {
+      "question": "What is the distance between (1,2) and (4,6)?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "Find the midpoint of (0,0) and (8,10).",
+      "options": [
+        {
+          "option": "(4,5)",
+          "is_answer": true
+        },
+        {
+          "option": "(0,0)"
+        },
+        {
+          "option": "(8,10)"
+        },
+        {
+          "option": "(2,2)"
+        }
+      ]
+    },
+    {
+      "question": "The distance of point (x,y) from the origin is?",
+      "options": [
+        {
+          "option": "sqrt(x+y)"
+        },
+        {
+          "option": "x^2+y^2"
+        },
+        {
+          "option": "x+y"
+        },
+        {
+          "option": "sqrt(x^2 + y^2)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the point dividing the line segment joining (1,1) and (3,3) in the ratio 1:1.",
+      "options": [
+        {
+          "option": "(2,2)",
+          "is_answer": true
+        },
+        {
+          "option": "(1,1)"
+        },
+        {
+          "option": "(4,4)"
+        },
+        {
+          "option": "(3,3)"
+        }
+      ]
+    },
+    {
+      "question": "What is the distance between (0,5) and (0,-5)?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "-10"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the midpoint of a segment is (2,3) and one end is (1,2), what is the other end?",
+      "options": [
+        {
+          "option": "(4,6)"
+        },
+        {
+          "option": "(0,0)"
+        },
+        {
+          "option": "(3,4)",
+          "is_answer": true
+        },
+        {
+          "option": "(1,1)"
+        }
+      ]
+    },
+    {
+      "question": "The distance between (a,0) and (0,b) is?",
+      "options": [
+        {
+          "option": "sqrt(a^2 + b^2)",
+          "is_answer": true
+        },
+        {
+          "option": "sqrt(a+b)"
+        },
+        {
+          "option": "a+b"
+        },
+        {
+          "option": "a-b"
+        }
+      ]
+    },
+    {
+      "question": "Find the midpoint of (-2,4) and (2,-4).",
+      "options": [
+        {
+          "option": "(2,4)"
+        },
+        {
+          "option": "(-2,-4)"
+        },
+        {
+          "option": "(1,1)"
+        },
+        {
+          "option": "(0,0)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the distance between (2,3) and (5,7)?",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "The section formula for internal division in ratio m:n is?",
+      "options": [
+        {
+          "option": "(mx1+nx2, my1+ny2)"
+        },
+        {
+          "option": "((mx2+nx1)/(m+n), (my2+ny1)/(m+n))",
+          "is_answer": true
+        },
+        {
+          "option": "(m+n, m+n)"
+        },
+        {
+          "option": "((mx1+nx2)/(m+n), (my1+ny2)/(m+n))"
+        }
+      ]
+    },
+    {
+      "question": "Find the distance between (0,0) and (-6,-8).",
+      "options": [
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "The midpoint of a line segment is always the point that divides it in ratio?",
+      "options": [
+        {
+          "option": "1:3"
+        },
+        {
+          "option": "2:1"
+        },
+        {
+          "option": "1:1",
+          "is_answer": true
+        },
+        {
+          "option": "1:2"
+        }
+      ]
+    },
+    {
+      "question": "What is the distance between (3,0) and (0,4)?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "Find the midpoint of (1,5) and (3,1).",
+      "options": [
+        {
+          "option": "(4,6)"
+        },
+        {
+          "option": "(2,3)",
+          "is_answer": true
+        },
+        {
+          "option": "(3,5)"
+        },
+        {
+          "option": "(1,1)"
+        }
+      ]
+    },
+    {
+      "question": "The distance between (x1, y1) and (x2, y2) is given by?",
+      "options": [
+        {
+          "option": "(x2-x1)^2 + (y2-y1)^2"
+        },
+        {
+          "option": "sqrt((x2-x1)^2 + (y2-y1)^2)",
+          "is_answer": true
+        },
+        {
+          "option": "x2-x1 + y2-y1"
+        },
+        {
+          "option": "sqrt(x2-x1 + y2-y1)"
+        }
+      ]
+    },
+    {
+      "question": "Find the midpoint of (5,5) and (-5,-5).",
+      "options": [
+        {
+          "option": "(10,10)"
+        },
+        {
+          "option": "(0,0)",
+          "is_answer": true
+        },
+        {
+          "option": "(5,5)"
+        },
+        {
+          "option": "(-5,-5)"
+        }
+      ]
+    },
+    {
+      "question": "What is the distance between (2,2) and (5,6)?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "If a point divides a segment in ratio 1:2, the sum of ratio parts is?",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "What is the area of a triangle with vertices (0,0), (4,0), and (0,3)?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If the area of a triangle with vertices (x,0), (2,0), and (0,3) is 6, what is the value of x?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "What is the condition for three points to be collinear using the area formula?",
+      "options": [
+        {
+          "option": "Area < 0"
+        },
+        {
+          "option": "Area = 0",
+          "is_answer": true
+        },
+        {
+          "option": "Area = 1"
+        },
+        {
+          "option": "Area > 0"
+        }
+      ]
+    },
+    {
+      "question": "Find the area of a triangle with vertices (1,1), (3,4), and (5,1).",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the area of a triangle with vertices (0,0), (2,2), and (4,0)?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "If vertices are (0,0), (1,0), and (0,1), what is the area?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0.5",
+          "is_answer": true
+        },
+        {
+          "option": "0.25"
+        }
+      ]
+    },
+    {
+      "question": "Find the area of a triangle with vertices (2,3), (-1,0), and (2,-4).",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "21"
+        },
+        {
+          "option": "10.5",
+          "is_answer": true
+        },
+        {
+          "option": "14"
+        }
+      ]
+    },
+    {
+      "question": "Are the points (1,1), (2,2), and (3,3) collinear?",
+      "options": [
+        {
+          "option": "Yes",
+          "is_answer": true
+        },
+        {
+          "option": "Only if area is 1"
+        },
+        {
+          "option": "Cannot be determined"
+        },
+        {
+          "option": "No"
+        }
+      ]
+    },
+    {
+      "question": "What is the area of a triangle with vertices (0,0), (5,0), and (0,5)?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "12.5",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "If the area of a triangle with vertices (0,0), (k,0), and (0,2) is 5, find k.",
+      "options": [
+        {
+          "option": "2.5"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the area of a triangle with vertices (-1,-1), (2,3), and (8,12).",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the area of a triangle with vertices (2,0), (0,2), and (2,2)?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "If the area of a triangle is 0, what can you say about the vertices?",
+      "options": [
+        {
+          "option": "They are not on the same plane"
+        },
+        {
+          "option": "They are collinear",
+          "is_answer": true
+        },
+        {
+          "option": "They form an equilateral triangle"
+        },
+        {
+          "option": "They form a right triangle"
+        }
+      ]
+    },
+    {
+      "question": "Find the area of a triangle with vertices (0,0), (3,0), and (0,4).",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "What is the area of a triangle with vertices (1,0), (4,0), and (1,4)?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "If vertices are (2,2), (4,4), and (6,6), what is the area?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Find the area of a triangle with vertices (0,0), (6,0), and (0,6).",
+      "options": [
+        {
+          "option": "36"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "18",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "What is the area of a triangle with vertices (0,0), (10,0), and (0,1)?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2.5"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Are the points (0,0), (1,1), and (2,2) collinear?",
+      "options": [
+        {
+          "option": "Yes",
+          "is_answer": true
+        },
+        {
+          "option": "No"
+        },
+        {
+          "option": "Only if area is 2"
+        },
+        {
+          "option": "Only if area is 0.5"
+        }
+      ]
+    },
+    {
+      "question": "Find the area of a triangle with vertices (0,0), (4,0), and (0,2).",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "What is the image of point (3, 5) after a reflection across the x-axis?",
+      "options": [
+        {
+          "option": "(5, 3)"
+        },
+        {
+          "option": "(3, 5)"
+        },
+        {
+          "option": "(-3, 5)"
+        },
+        {
+          "option": "(3, -5)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which transformation preserves the orientation of a figure?",
+      "options": [
+        {
+          "option": "Rotation by 180 degrees"
+        },
+        {
+          "option": "Translation",
+          "is_answer": true
+        },
+        {
+          "option": "Reflection"
+        },
+        {
+          "option": "Glide Reflection"
+        }
+      ]
+    },
+    {
+      "question": "What are the coordinates of point (2, -4) after a 90-degree counter-clockwise rotation about the origin?",
+      "options": [
+        {
+          "option": "(-2, 4)"
+        },
+        {
+          "option": "(4, 2)",
+          "is_answer": true
+        },
+        {
+          "option": "(-4, -2)"
+        },
+        {
+          "option": "(2, 4)"
+        }
+      ]
+    },
+    {
+      "question": "A translation of (x, y) to (x + 3, y - 2) moves a point in which direction?",
+      "options": [
+        {
+          "option": "Right 3, Up 2"
+        },
+        {
+          "option": "Left 3, Down 2"
+        },
+        {
+          "option": "Left 3, Up 2"
+        },
+        {
+          "option": "Right 3, Down 2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the image of point (-1, 4) after a reflection across the y-axis?",
+      "options": [
+        {
+          "option": "(-1, -4)"
+        },
+        {
+          "option": "(4, -1)"
+        },
+        {
+          "option": "(1, 4)",
+          "is_answer": true
+        },
+        {
+          "option": "(1, -4)"
+        }
+      ]
+    },
+    {
+      "question": "Which transformation is considered an 'isometry'?",
+      "options": [
+        {
+          "option": "Reflection"
+        },
+        {
+          "option": "Translation"
+        },
+        {
+          "option": "All of these",
+          "is_answer": true
+        },
+        {
+          "option": "Rotation"
+        }
+      ]
+    },
+    {
+      "question": "What is the result of rotating point (1, 1) 180 degrees about the origin?",
+      "options": [
+        {
+          "option": "(1, -1)"
+        },
+        {
+          "option": "(-1, 1)"
+        },
+        {
+          "option": "(1, 1)"
+        },
+        {
+          "option": "(-1, -1)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If a point (x, y) is reflected over the line y = x, what are the new coordinates?",
+      "options": [
+        {
+          "option": "(y, x)",
+          "is_answer": true
+        },
+        {
+          "option": "(x, -y)"
+        },
+        {
+          "option": "(-y, -x)"
+        },
+        {
+          "option": "(-x, y)"
+        }
+      ]
+    },
+    {
+      "question": "Which transformation changes the orientation of a shape?",
+      "options": [
+        {
+          "option": "Dilation"
+        },
+        {
+          "option": "Reflection",
+          "is_answer": true
+        },
+        {
+          "option": "Rotation"
+        },
+        {
+          "option": "Translation"
+        }
+      ]
+    },
+    {
+      "question": "What is the image of point (5, -2) after a translation of 4 units left and 3 units up?",
+      "options": [
+        {
+          "option": "(1, -5)"
+        },
+        {
+          "option": "(9, -5)"
+        },
+        {
+          "option": "(9, 1)"
+        },
+        {
+          "option": "(1, 1)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "A rotation of 360 degrees about the origin results in:",
+      "options": [
+        {
+          "option": "A reflected point"
+        },
+        {
+          "option": "The original point",
+          "is_answer": true
+        },
+        {
+          "option": "A scaled point"
+        },
+        {
+          "option": "The opposite point"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is NOT a rigid transformation?",
+      "options": [
+        {
+          "option": "Reflection"
+        },
+        {
+          "option": "Translation"
+        },
+        {
+          "option": "Dilation",
+          "is_answer": true
+        },
+        {
+          "option": "Rotation"
+        }
+      ]
+    },
+    {
+      "question": "What are the coordinates of (x, y) after a 270-degree counter-clockwise rotation?",
+      "options": [
+        {
+          "option": "(x, -y)"
+        },
+        {
+          "option": "(-y, x)"
+        },
+        {
+          "option": "(y, -x)",
+          "is_answer": true
+        },
+        {
+          "option": "(-x, y)"
+        }
+      ]
+    },
+    {
+      "question": "Reflecting a point twice over two parallel lines is equivalent to a:",
+      "options": [
+        {
+          "option": "Dilation"
+        },
+        {
+          "option": "Single reflection"
+        },
+        {
+          "option": "Rotation"
+        },
+        {
+          "option": "Translation",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the image of (0, 0) after any rotation about the origin?",
+      "options": [
+        {
+          "option": "(0, 1)"
+        },
+        {
+          "option": "(0, 0)",
+          "is_answer": true
+        },
+        {
+          "option": "(1, 0)"
+        },
+        {
+          "option": "(1, 1)"
+        }
+      ]
+    },
+    {
+      "question": "Which transformation maps (x, y) to (-x, -y)?",
+      "options": [
+        {
+          "option": "90-degree rotation"
+        },
+        {
+          "option": "Reflection across y-axis"
+        },
+        {
+          "option": "Reflection across x-axis"
+        },
+        {
+          "option": "180-degree rotation",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "If a shape is reflected across the x-axis, what happens to the y-coordinate?",
+      "options": [
+        {
+          "option": "It becomes zero"
+        },
+        {
+          "option": "It stays the same"
+        },
+        {
+          "option": "It changes sign",
+          "is_answer": true
+        },
+        {
+          "option": "It is multiplied by 2"
+        }
+      ]
+    },
+    {
+      "question": "What is the translation vector for moving a point from (2, 3) to (5, 1)?",
+      "options": [
+        {
+          "option": "<3, 2>"
+        },
+        {
+          "option": "<-3, 2>"
+        },
+        {
+          "option": "<2, 3>"
+        },
+        {
+          "option": "<3, -2>",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "Which of these is a property of all rigid transformations?",
+      "options": [
+        {
+          "option": "Change in angle"
+        },
+        {
+          "option": "Change in shape"
+        },
+        {
+          "option": "Change in area"
+        },
+        {
+          "option": "Preservation of distance",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "What is the image of (x, y) after a reflection across the line y = -x?",
+      "options": [
+        {
+          "option": "(-x, y)"
+        },
+        {
+          "option": "(y, x)"
+        },
+        {
+          "option": "(-y, -x)",
+          "is_answer": true
+        },
+        {
+          "option": "(x, -y)"
+        }
+      ]
+    }
+  ]
+}

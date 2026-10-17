@@ -1,0 +1,9005 @@
+{
+  "total_questions": 500,
+  "questions": [
+    {
+      "question": "सरल कीजिए: 2^3 * 2^4",
+      "options": [
+        {
+          "option": "128",
+          "is_answer": true
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "256"
+        },
+        {
+          "option": "64"
+        }
+      ]
+    },
+    {
+      "question": "मान ज्ञात कीजिए: (3^2)^3",
+      "options": [
+        {
+          "option": "81"
+        },
+        {
+          "option": "729",
+          "is_answer": true
+        },
+        {
+          "option": "19683"
+        },
+        {
+          "option": "243"
+        }
+      ]
+    },
+    {
+      "question": "सरल कीजिए: 5^6 / 5^4",
+      "options": [
+        {
+          "option": "25",
+          "is_answer": true
+        },
+        {
+          "option": "125"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "625"
+        }
+      ]
+    },
+    {
+      "question": "(16)^(1/4) का मान क्या है?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "हर का परिमेयकरण कीजिए: 1 / (sqrt(3))",
+      "options": [
+        {
+          "option": "sqrt(3) / 3",
+          "is_answer": true
+        },
+        {
+          "option": "1 / 3"
+        },
+        {
+          "option": "sqrt(3)"
+        },
+        {
+          "option": "3 / sqrt(3)"
+        }
+      ]
+    },
+    {
+      "question": "7^0 का मान ज्ञात कीजिए",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "अनंत"
+        }
+      ]
+    },
+    {
+      "question": "सरल कीजिए: (2 * 3)^4",
+      "options": [
+        {
+          "option": "48"
+        },
+        {
+          "option": "72"
+        },
+        {
+          "option": "216"
+        },
+        {
+          "option": "1296",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "मान ज्ञात कीजिए: 8^(-2/3)",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "1/4",
+          "is_answer": true
+        },
+        {
+          "option": "1/8"
+        }
+      ]
+    },
+    {
+      "question": "हर का परिमेयकरण कीजिए: 1 / (sqrt(5) - 2)",
+      "options": [
+        {
+          "option": "sqrt(5) - 2"
+        },
+        {
+          "option": "5 - 2"
+        },
+        {
+          "option": "1 / (sqrt(5) + 2)"
+        },
+        {
+          "option": "sqrt(5) + 2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "सरल कीजिए: sqrt(x^3 * x^5)",
+      "options": [
+        {
+          "option": "x^15"
+        },
+        {
+          "option": "x^4",
+          "is_answer": true
+        },
+        {
+          "option": "x^2"
+        },
+        {
+          "option": "x^8"
+        }
+      ]
+    },
+    {
+      "question": "मान ज्ञात कीजिए: (25/9)^(-1/2)",
+      "options": [
+        {
+          "option": "3/5",
+          "is_answer": true
+        },
+        {
+          "option": "25/9"
+        },
+        {
+          "option": "9/25"
+        },
+        {
+          "option": "5/3"
+        }
+      ]
+    },
+    {
+      "question": "यदि 2^x = 32 है तो x का मान ज्ञात कीजिए",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "सरल कीजिए: 4^(3/2)",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा sqrt(20) के बराबर है?",
+      "options": [
+        {
+          "option": "2 * sqrt(5)",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "4 * sqrt(5)"
+        },
+        {
+          "option": "5 * sqrt(2)"
+        }
+      ]
+    },
+    {
+      "question": "सरल कीजिए: (a^2 * b^3)^4",
+      "options": [
+        {
+          "option": "a^6 * b^7"
+        },
+        {
+          "option": "a^8 * b^7"
+        },
+        {
+          "option": "a^8 * b^12",
+          "is_answer": true
+        },
+        {
+          "option": "a^2 * b^12"
+        }
+      ]
+    },
+    {
+      "question": "मान ज्ञात कीजिए: (1/27)^(-2/3)",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "1/9"
+        },
+        {
+          "option": "27"
+        }
+      ]
+    },
+    {
+      "question": "(27)^-(1/3) का मान ज्ञात कीजिए",
+      "options": [
+        {
+          "option": "1/3",
+          "is_answer": true
+        },
+        {
+          "option": "-3"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "-1/3"
+        }
+      ]
+    },
+    {
+      "question": "सरल कीजिए: sqrt(50) + sqrt(18)",
+      "options": [
+        {
+          "option": "2 * sqrt(17)"
+        },
+        {
+          "option": "4 * sqrt(2)"
+        },
+        {
+          "option": "8 * sqrt(2)",
+          "is_answer": true
+        },
+        {
+          "option": "sqrt(68)"
+        }
+      ]
+    },
+    {
+      "question": "यदि 3^(x+1) = 81 है, तो x का मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "सरल कीजिए: (x^(1/3) * x^(1/4))^12",
+      "options": [
+        {
+          "option": "x^12"
+        },
+        {
+          "option": "x^(1/7)"
+        },
+        {
+          "option": "x^5"
+        },
+        {
+          "option": "x^7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "49.8 × 20.2 का अनुमानित मान क्या है?",
+      "options": [
+        {
+          "option": "900"
+        },
+        {
+          "option": "1000",
+          "is_answer": true
+        },
+        {
+          "option": "950"
+        },
+        {
+          "option": "1100"
+        }
+      ]
+    },
+    {
+      "question": "√399 × 15.1 का अनुमानित मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "250"
+        },
+        {
+          "option": "300",
+          "is_answer": true
+        },
+        {
+          "option": "350"
+        },
+        {
+          "option": "200"
+        }
+      ]
+    },
+    {
+      "question": "(501 का 19.98%) + (402 का 24.9%) का अनुमानित मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "200",
+          "is_answer": true
+        },
+        {
+          "option": "220"
+        },
+        {
+          "option": "180"
+        },
+        {
+          "option": "250"
+        }
+      ]
+    },
+    {
+      "question": "784.05 ÷ 27.9 का अनुमानित मान क्या है?",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "28",
+          "is_answer": true
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "अनुमानित मूल्यांकन करें: (14.95)^2 + (19.02)^2.",
+      "options": [
+        {
+          "option": "525"
+        },
+        {
+          "option": "550"
+        },
+        {
+          "option": "600"
+        },
+        {
+          "option": "585",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "1499 का 63.8% + 501 का 34.2% का अनुमानित मान ज्ञात करें।",
+      "options": [
+        {
+          "option": "1170"
+        },
+        {
+          "option": "1050"
+        },
+        {
+          "option": "1135",
+          "is_answer": true
+        },
+        {
+          "option": "1100"
+        }
+      ]
+    },
+    {
+      "question": "12.01 × 14.98 × 6.05 का अनुमानित मान क्या है?",
+      "options": [
+        {
+          "option": "1080",
+          "is_answer": true
+        },
+        {
+          "option": "1000"
+        },
+        {
+          "option": "950"
+        },
+        {
+          "option": "1150"
+        }
+      ]
+    },
+    {
+      "question": "अनुमान लगाएँ: 4567.89 - 2345.12 + 1012.34.",
+      "options": [
+        {
+          "option": "3350"
+        },
+        {
+          "option": "3000"
+        },
+        {
+          "option": "3235",
+          "is_answer": true
+        },
+        {
+          "option": "3100"
+        }
+      ]
+    },
+    {
+      "question": "∛1727.99 × 11.98 का अनुमानित मान क्या है?",
+      "options": [
+        {
+          "option": "132"
+        },
+        {
+          "option": "150"
+        },
+        {
+          "option": "144",
+          "is_answer": true
+        },
+        {
+          "option": "120"
+        }
+      ]
+    },
+    {
+      "question": "(125.99)^(1/3) + (624.98)^(1/2) का अनुमानित मान ज्ञात करें।",
+      "options": [
+        {
+          "option": "28"
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "35"
+        },
+        {
+          "option": "30",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "850 का 45.9% + 640 का 24.8% का अनुमानित मान क्या है?",
+      "options": [
+        {
+          "option": "500"
+        },
+        {
+          "option": "550",
+          "is_answer": true
+        },
+        {
+          "option": "520"
+        },
+        {
+          "option": "580"
+        }
+      ]
+    },
+    {
+      "question": "4399.98 ÷ 11.02 × 14.95 का अनुमानित मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "5500"
+        },
+        {
+          "option": "5970",
+          "is_answer": true
+        },
+        {
+          "option": "6000"
+        },
+        {
+          "option": "5200"
+        }
+      ]
+    },
+    {
+      "question": "(17.98)^2 - (12.05)^2 का अनुमानित मान क्या है?",
+      "options": [
+        {
+          "option": "160"
+        },
+        {
+          "option": "200"
+        },
+        {
+          "option": "150"
+        },
+        {
+          "option": "179",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "399.9 का 89.9% + 800.1 का 15.02% का अनुमानित मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "500"
+        },
+        {
+          "option": "420"
+        },
+        {
+          "option": "480",
+          "is_answer": true
+        },
+        {
+          "option": "450"
+        }
+      ]
+    },
+    {
+      "question": "7345 ÷ 24.8 × 3.1 का अनुमानित मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "950"
+        },
+        {
+          "option": "850"
+        },
+        {
+          "option": "890"
+        },
+        {
+          "option": "918",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "√624.99 + √129.98 - √48.99 का अनुमानित मान क्या है?",
+      "options": [
+        {
+          "option": "28",
+          "is_answer": true
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "1200 का 55.05% + 800 का 44.95% का अनुमानित मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "1050"
+        },
+        {
+          "option": "1000"
+        },
+        {
+          "option": "980"
+        },
+        {
+          "option": "1020",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "14.02 × 18.95 + 12.08 × 15.12 का अनुमानित मान क्या है?",
+      "options": [
+        {
+          "option": "420"
+        },
+        {
+          "option": "400"
+        },
+        {
+          "option": "460"
+        },
+        {
+          "option": "446",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "(21.98)^2 ÷ 3.95 × 2.02 का अनुमानित मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "260"
+        },
+        {
+          "option": "220"
+        },
+        {
+          "option": "242",
+          "is_answer": true
+        },
+        {
+          "option": "200"
+        }
+      ]
+    },
+    {
+      "question": "999.09 ÷ 12.48 × 3.02 का अनुमानित मान क्या है?",
+      "options": [
+        {
+          "option": "240",
+          "is_answer": true
+        },
+        {
+          "option": "220"
+        },
+        {
+          "option": "260"
+        },
+        {
+          "option": "200"
+        }
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सी संख्या 11 से विभाज्य है?",
+      "options": [
+        {
+          "option": "4831"
+        },
+        {
+          "option": "4828"
+        },
+        {
+          "option": "4829",
+          "is_answer": true
+        },
+        {
+          "option": "4830"
+        }
+      ]
+    },
+    {
+      "question": "* का सबसे छोटा मान क्या है ताकि संख्या 543*2, 9 से विभाज्य हो?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सी संख्या 7 से विभाज्य है?",
+      "options": [
+        {
+          "option": "364",
+          "is_answer": true
+        },
+        {
+          "option": "365"
+        },
+        {
+          "option": "367"
+        },
+        {
+          "option": "362"
+        }
+      ]
+    },
+    {
+      "question": "यदि संख्या 78x32, 4 से विभाज्य है, तो x का मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सी संख्या 13 से विभाज्य है?",
+      "options": [
+        {
+          "option": "292"
+        },
+        {
+          "option": "289"
+        },
+        {
+          "option": "286",
+          "is_answer": true
+        },
+        {
+          "option": "273"
+        }
+      ]
+    },
+    {
+      "question": "एक संख्या 8 से विभाज्य है यदि:",
+      "options": [
+        {
+          "option": "अंतिम दो अंक 8 से विभाज्य हैं"
+        },
+        {
+          "option": "अंतिम तीन अंकों से बनी संख्या 8 से विभाज्य है",
+          "is_answer": true
+        },
+        {
+          "option": "सभी अंकों का योग 8 से विभाज्य है"
+        },
+        {
+          "option": "अंतिम अंक सम है और 4 से विभाज्य है"
+        }
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सी संख्या 17 से विभाज्य है?",
+      "options": [
+        {
+          "option": "323",
+          "is_answer": true
+        },
+        {
+          "option": "327"
+        },
+        {
+          "option": "331"
+        },
+        {
+          "option": "337"
+        }
+      ]
+    },
+    {
+      "question": "यदि कोई संख्या 3 और 4 दोनों से विभाज्य है, तो वह किससे विभाज्य होनी चाहिए?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सी संख्या 19 से विभाज्य है?",
+      "options": [
+        {
+          "option": "351"
+        },
+        {
+          "option": "363"
+        },
+        {
+          "option": "361",
+          "is_answer": true
+        },
+        {
+          "option": "371"
+        }
+      ]
+    },
+    {
+      "question": "6 के लिए विभाज्यता का नियम क्या है?",
+      "options": [
+        {
+          "option": "2 और 3 दोनों से विभाज्य",
+          "is_answer": true
+        },
+        {
+          "option": "2 और 4 दोनों से विभाज्य"
+        },
+        {
+          "option": "1 और 6 दोनों से विभाज्य"
+        },
+        {
+          "option": "3 और 4 दोनों से विभाज्य"
+        }
+      ]
+    },
+    {
+      "question": "संख्या 456x के 6 से विभाज्य होने के लिए, x का अधिकतम मान क्या हो सकता है?",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सी संख्या 5 से विभाज्य नहीं है?",
+      "options": [
+        {
+          "option": "4326",
+          "is_answer": true
+        },
+        {
+          "option": "4330"
+        },
+        {
+          "option": "4325"
+        },
+        {
+          "option": "4335"
+        }
+      ]
+    },
+    {
+      "question": "यदि 6-अंकों की संख्या 7125x2, 9 से विभाज्य है, तो x का मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "जब 9435 को 11 से विभाजित किया जाता है, तो शेषफल क्या होता है?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सी संख्या 12 से विभाज्य है?",
+      "options": [
+        {
+          "option": "5470"
+        },
+        {
+          "option": "5472",
+          "is_answer": true
+        },
+        {
+          "option": "5474"
+        },
+        {
+          "option": "5478"
+        }
+      ]
+    },
+    {
+      "question": "7 से विभाज्यता की जाँच करने के लिए मानक नियम में क्या शामिल है?",
+      "options": [
+        {
+          "option": "अंतिम अंक को तिगुना करके शेष संख्या में जोड़ना"
+        },
+        {
+          "option": "अंतिम अंक को आधा करके जोड़ना"
+        },
+        {
+          "option": "अंतिम अंक को दुगुना करके शेष संख्या से घटाना",
+          "is_answer": true
+        },
+        {
+          "option": "अंतिम अंक को 4 से गुणा करके घटाना"
+        }
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा संयुक्त भाजक नियम है: एक संख्या 72 से विभाज्य है यदि वह किससे विभाज्य है?",
+      "options": [
+        {
+          "option": "6 और 12"
+        },
+        {
+          "option": "4 और 18"
+        },
+        {
+          "option": "2 और 36"
+        },
+        {
+          "option": "8 और 9",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "918x6 में लुप्त अंक x ज्ञात कीजिए ताकि यह 8 से विभाज्य हो।",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सी संख्या 3 और 11 दोनों से विभाज्य है?",
+      "options": [
+        {
+          "option": "6534",
+          "is_answer": true
+        },
+        {
+          "option": "6523"
+        },
+        {
+          "option": "6531"
+        },
+        {
+          "option": "6537"
+        }
+      ]
+    },
+    {
+      "question": "2356 में कौन सी सबसे छोटी संख्या जोड़ी जानी चाहिए ताकि योग 5 से पूर्णतः विभाज्य हो?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "मान ज्ञात कीजिए: 2 1/4 + 3 3/4 - 1 1/2",
+      "options": [
+        {
+          "option": "4 1/2",
+          "is_answer": true
+        },
+        {
+          "option": "5 1/2"
+        },
+        {
+          "option": "3 3/4"
+        },
+        {
+          "option": "4 1/4"
+        }
+      ]
+    },
+    {
+      "question": "आवर्ती दशमलव 0.333... को भिन्न में बदलें।",
+      "options": [
+        {
+          "option": "33/100"
+        },
+        {
+          "option": "1/3",
+          "is_answer": true
+        },
+        {
+          "option": "3/11"
+        },
+        {
+          "option": "3/10"
+        }
+      ]
+    },
+    {
+      "question": "मान ज्ञात कीजिए: (1 1/2) * (2 2/3) / (1 1/3)",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "2 1/2"
+        }
+      ]
+    },
+    {
+      "question": "आवर्ती दशमलव 0.666... (या 0.6̄) को सरल भिन्न में बदलें।",
+      "options": [
+        {
+          "option": "6/10"
+        },
+        {
+          "option": "3/5"
+        },
+        {
+          "option": "2/3",
+          "is_answer": true
+        },
+        {
+          "option": "66/99"
+        }
+      ]
+    },
+    {
+      "question": "मान ज्ञात कीजिए: 5.4 + 2.35 - 1.2",
+      "options": [
+        {
+          "option": "6.45"
+        },
+        {
+          "option": "6.55",
+          "is_answer": true
+        },
+        {
+          "option": "6.75"
+        },
+        {
+          "option": "7.55"
+        }
+      ]
+    },
+    {
+      "question": "0.4̄ + 0.3̄ का मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "37/90"
+        },
+        {
+          "option": "77/100"
+        },
+        {
+          "option": "7/10"
+        },
+        {
+          "option": "7/9",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "मान ज्ञात कीजिए: 4 1/5 - 2 3/10 + 1 1/2",
+      "options": [
+        {
+          "option": "2 2/5"
+        },
+        {
+          "option": "4 1/10"
+        },
+        {
+          "option": "3 4/5"
+        },
+        {
+          "option": "3 2/5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "आवर्ती दशमलव 0.1666... (या 0.16̄) को भिन्न में बदलें।",
+      "options": [
+        {
+          "option": "1/6",
+          "is_answer": true
+        },
+        {
+          "option": "16/99"
+        },
+        {
+          "option": "15/90"
+        },
+        {
+          "option": "1/5"
+        }
+      ]
+    },
+    {
+      "question": "सरल कीजिए: (3/4 + 2/3) / (5/6)",
+      "options": [
+        {
+          "option": "1 1/2"
+        },
+        {
+          "option": "1 3/5"
+        },
+        {
+          "option": "1 9/10",
+          "is_answer": true
+        },
+        {
+          "option": "2 1/5"
+        }
+      ]
+    },
+    {
+      "question": "मान ज्ञात कीजिए: 0.2̄ + 0.4̄ + 0.3̄",
+      "options": [
+        {
+          "option": "0.99"
+        },
+        {
+          "option": "9/10"
+        },
+        {
+          "option": "1.1"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "मान ज्ञात कीजिए: 7.25 * 0.4",
+      "options": [
+        {
+          "option": "2.9",
+          "is_answer": true
+        },
+        {
+          "option": "2.75"
+        },
+        {
+          "option": "3.1"
+        },
+        {
+          "option": "2.85"
+        }
+      ]
+    },
+    {
+      "question": "मान ज्ञात कीजिए: 3 1/3 - 1 5/6 + 2 3/4",
+      "options": [
+        {
+          "option": "3 3/4"
+        },
+        {
+          "option": "4 7/12"
+        },
+        {
+          "option": "4 1/4",
+          "is_answer": true
+        },
+        {
+          "option": "4 5/12"
+        }
+      ]
+    },
+    {
+      "question": "0.12̄ (2 पर आवर्ती) को भिन्न में बदलें।",
+      "options": [
+        {
+          "option": "6/50"
+        },
+        {
+          "option": "11/90",
+          "is_answer": true
+        },
+        {
+          "option": "2/15"
+        },
+        {
+          "option": "12/99"
+        }
+      ]
+    },
+    {
+      "question": "मान ज्ञात कीजिए: (5/8) / (2 1/2) * (1 1/5)",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "3/10",
+          "is_answer": true
+        },
+        {
+          "option": "3/8"
+        },
+        {
+          "option": "4/5"
+        }
+      ]
+    },
+    {
+      "question": "मान ज्ञात कीजिए: 15.5 - {7.2 - (3.1 + 1.2)}",
+      "options": [
+        {
+          "option": "13.2"
+        },
+        {
+          "option": "10.4"
+        },
+        {
+          "option": "12.6",
+          "is_answer": true
+        },
+        {
+          "option": "11.6"
+        }
+      ]
+    },
+    {
+      "question": "0.37̄ को भिन्न के रूप में व्यक्त करने पर क्या परिणाम मिलता है?",
+      "options": [
+        {
+          "option": "34/90",
+          "is_answer": true
+        },
+        {
+          "option": "37/100"
+        },
+        {
+          "option": "37/99"
+        },
+        {
+          "option": "33/90"
+        }
+      ]
+    },
+    {
+      "question": "मान ज्ञात कीजिए: (2 1/3 + 1 1/6) * (4/5)",
+      "options": [
+        {
+          "option": "2 4/5",
+          "is_answer": true
+        },
+        {
+          "option": "3 1/3"
+        },
+        {
+          "option": "2 1/2"
+        },
+        {
+          "option": "2 2/3"
+        }
+      ]
+    },
+    {
+      "question": "सरल कीजिए: 8.5 - 3.2 * 1.5 + 2.4",
+      "options": [
+        {
+          "option": "6.1",
+          "is_answer": true
+        },
+        {
+          "option": "5.9"
+        },
+        {
+          "option": "7.3"
+        },
+        {
+          "option": "10.35"
+        }
+      ]
+    },
+    {
+      "question": "मान ज्ञात कीजिए: 5.76̄ - 2.34̄",
+      "options": [
+        {
+          "option": "3.42"
+        },
+        {
+          "option": "3.43̄"
+        },
+        {
+          "option": "3.41"
+        },
+        {
+          "option": "3.42̄",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "मान ज्ञात कीजिए: (1 - 1/2)(1 - 1/3)(1 - 1/4)...(1 - 1/10)",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "1/10",
+          "is_answer": true
+        },
+        {
+          "option": "1/9"
+        },
+        {
+          "option": "9/10"
+        }
+      ]
+    },
+    {
+      "question": "सरल करें: (75 + 25)^2 - (75 - 25)^2 / (75 * 25)",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "100"
+        }
+      ]
+    },
+    {
+      "question": "यदि x + y = 12 और xy = 27 है, तो x^3 + y^3 का मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "729"
+        },
+        {
+          "option": "486"
+        },
+        {
+          "option": "1728"
+        },
+        {
+          "option": "756",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "मूल्यांकन करें: (85 * 85 * 85 - 15 * 15 * 15) / (85 * 85 + 85 * 15 + 15 * 15)",
+      "options": [
+        {
+          "option": "100"
+        },
+        {
+          "option": "850"
+        },
+        {
+          "option": "70",
+          "is_answer": true
+        },
+        {
+          "option": "50"
+        }
+      ]
+    },
+    {
+      "question": "यदि a + b + c = 9 और ab + bc + ca = 26 है, तो a^2 + b^2 + c^2 ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "133"
+        },
+        {
+          "option": "29",
+          "is_answer": true
+        },
+        {
+          "option": "55"
+        },
+        {
+          "option": "81"
+        }
+      ]
+    },
+    {
+      "question": "सरल करें: (4.7 * 4.7 - 1.3 * 1.3) / (4.7 - 1.3)",
+      "options": [
+        {
+          "option": "4.7"
+        },
+        {
+          "option": "6.0",
+          "is_answer": true
+        },
+        {
+          "option": "1.3"
+        },
+        {
+          "option": "3.4"
+        }
+      ]
+    },
+    {
+      "question": "यदि x - 1/x = 5 है, तो x^2 + 1/x^2 का मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "27",
+          "is_answer": true
+        },
+        {
+          "option": "23"
+        }
+      ]
+    },
+    {
+      "question": "मूल्यांकन करें: (38 * 38 + 2 * 38 * 12 + 12 * 12)",
+      "options": [
+        {
+          "option": "2400"
+        },
+        {
+          "option": "2000"
+        },
+        {
+          "option": "2600"
+        },
+        {
+          "option": "2500",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि x + 1/x = 3 है, तो x^3 + 1/x^3 का मान किसके बराबर है?",
+      "options": [
+        {
+          "option": "18",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "27"
+        },
+        {
+          "option": "36"
+        }
+      ]
+    },
+    {
+      "question": "बीजगणितीय सर्वसमिकाओं का उपयोग करके (999)^2 का मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "998991"
+        },
+        {
+          "option": "998001",
+          "is_answer": true
+        },
+        {
+          "option": "980001"
+        },
+        {
+          "option": "999001"
+        }
+      ]
+    },
+    {
+      "question": "सरल करें: (64^2 - 36^2) / 28",
+      "options": [
+        {
+          "option": "200"
+        },
+        {
+          "option": "100",
+          "is_answer": true
+        },
+        {
+          "option": "28"
+        },
+        {
+          "option": "50"
+        }
+      ]
+    },
+    {
+      "question": "यदि a + b = 10 और a - b = 4 है, तो ab का मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "21",
+          "is_answer": true
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "28"
+        }
+      ]
+    },
+    {
+      "question": "मूल्यांकन करें: (2.3 * 2.3 * 2.3 + 0.7 * 0.7 * 0.7) / (2.3 * 2.3 - 2.3 * 0.7 + 0.7 * 0.7)",
+      "options": [
+        {
+          "option": "3.0",
+          "is_answer": true
+        },
+        {
+          "option": "1.6"
+        },
+        {
+          "option": "0.7"
+        },
+        {
+          "option": "2.3"
+        }
+      ]
+    },
+    {
+      "question": "यदि x - y = 4 और xy = 21 है, तो x^3 - y^3 ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "100"
+        },
+        {
+          "option": "256"
+        },
+        {
+          "option": "316",
+          "is_answer": true
+        },
+        {
+          "option": "64"
+        }
+      ]
+    },
+    {
+      "question": "यदि a + b + c = 12 और a^2 + b^2 + c^2 = 50 है, तो ab + bc + ca ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "94"
+        },
+        {
+          "option": "47",
+          "is_answer": true
+        },
+        {
+          "option": "54"
+        },
+        {
+          "option": "74"
+        }
+      ]
+    },
+    {
+      "question": "सरल करें: (59 + 41)^2 - 4 * 59 * 41",
+      "options": [
+        {
+          "option": "10000"
+        },
+        {
+          "option": "3364",
+          "is_answer": true
+        },
+        {
+          "option": "2418"
+        },
+        {
+          "option": "4836"
+        }
+      ]
+    },
+    {
+      "question": "यदि x = 301 और y = 300 है, तो x^2 - y^2 का मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "180601"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "90301"
+        },
+        {
+          "option": "601",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि a + b = 7 और ab = 12 है, तो a^3 + b^3 ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "91",
+          "is_answer": true
+        },
+        {
+          "option": "49"
+        },
+        {
+          "option": "343"
+        },
+        {
+          "option": "133"
+        }
+      ]
+    },
+    {
+      "question": "यदि a + b + c = 0 है, तो a^3 + b^3 + c^3 का मान है:",
+      "options": [
+        {
+          "option": "3abc",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "abc"
+        },
+        {
+          "option": "-3abc"
+        }
+      ]
+    },
+    {
+      "question": "सरल करें: (103 * 97)",
+      "options": [
+        {
+          "option": "9999"
+        },
+        {
+          "option": "9909"
+        },
+        {
+          "option": "9991",
+          "is_answer": true
+        },
+        {
+          "option": "10009"
+        }
+      ]
+    },
+    {
+      "question": "यदि x + 1/x = 4 है, तो x^4 + 1/x^4 किसके बराबर है?",
+      "options": [
+        {
+          "option": "194",
+          "is_answer": true
+        },
+        {
+          "option": "192"
+        },
+        {
+          "option": "196"
+        },
+        {
+          "option": "256"
+        }
+      ]
+    },
+    {
+      "question": "अभाज्य गुणनखंड विधि का उपयोग करके 24 और 36 का HCF क्या है?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "अभाज्य गुणनखंड विधि का उपयोग करके 12 और 18 का LCM क्या है?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "72"
+        },
+        {
+          "option": "36",
+          "is_answer": true
+        },
+        {
+          "option": "54"
+        }
+      ]
+    },
+    {
+      "question": "अभाज्य गुणनखंड विधि द्वारा 45, 75 और 105 का HCF ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "45"
+        }
+      ]
+    },
+    {
+      "question": "अभाज्य गुणनखंड विधि द्वारा 15, 20 और 30 का LCM ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "150"
+        },
+        {
+          "option": "60",
+          "is_answer": true
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "90"
+        }
+      ]
+    },
+    {
+      "question": "यदि दो संख्याएँ $2^3 \\times 3^2$ और $2^2 \\times 3^3$ के रूप में व्यक्त की जाती हैं, तो उनका HCF क्या है?",
+      "options": [
+        {
+          "option": "36",
+          "is_answer": true
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "72"
+        },
+        {
+          "option": "108"
+        }
+      ]
+    },
+    {
+      "question": "यदि दो संख्याएँ $2^3 \\times 3^2$ और $2^2 \\times 3^3$ के रूप में व्यक्त की जाती हैं, तो उनका LCM क्या है?",
+      "options": [
+        {
+          "option": "216"
+        },
+        {
+          "option": "72"
+        },
+        {
+          "option": "108",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        }
+      ]
+    },
+    {
+      "question": "अभाज्य संख्याओं 17 और 19 का HCF क्या है?",
+      "options": [
+        {
+          "option": "323"
+        },
+        {
+          "option": "19"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "17"
+        }
+      ]
+    },
+    {
+      "question": "अभाज्य संख्याओं 11 और 13 का LCM क्या है?",
+      "options": [
+        {
+          "option": "121"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "143",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "अभाज्य गुणनखंड अवधारणा का उपयोग करके $a^2b^3c$ और $ab^2c^3$ का HCF ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "$ab^2c$",
+          "is_answer": true
+        },
+        {
+          "option": "$a^2b^3c^3$"
+        },
+        {
+          "option": "$abc$"
+        },
+        {
+          "option": "$a^2b^2c^2$"
+        }
+      ]
+    },
+    {
+      "question": "अभाज्य गुणनखंड अवधारणा का उपयोग करके $x^3y^2$ और $x^2y^4$ का LCM ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "$x^3y^2$"
+        },
+        {
+          "option": "$x^5y^6$"
+        },
+        {
+          "option": "$x^3y^4$",
+          "is_answer": true
+        },
+        {
+          "option": "$x^2y^2$"
+        }
+      ]
+    },
+    {
+      "question": "56 और 84 का HCF क्या है?",
+      "options": [
+        {
+          "option": "56"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "28",
+          "is_answer": true
+        },
+        {
+          "option": "14"
+        }
+      ]
+    },
+    {
+      "question": "28, 42 और 56 का LCM क्या है?",
+      "options": [
+        {
+          "option": "84"
+        },
+        {
+          "option": "168",
+          "is_answer": true
+        },
+        {
+          "option": "336"
+        },
+        {
+          "option": "252"
+        }
+      ]
+    },
+    {
+      "question": "अभाज्य गुणनखंड का उपयोग करके 108, 288 और 360 का HCF ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "72"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "54"
+        },
+        {
+          "option": "36",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "अभाज्य गुणनखंड का उपयोग करके 24, 36 और 40 का LCM ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "360",
+          "is_answer": true
+        },
+        {
+          "option": "720"
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "180"
+        }
+      ]
+    },
+    {
+      "question": "दो संख्याओं 14 और 35 के HCF और LCM का गुणनफल क्या है, और यह उनके अभाज्य गुणनखंडों से कैसे संबंधित है?",
+      "options": [
+        {
+          "option": "490",
+          "is_answer": true
+        },
+        {
+          "option": "49"
+        },
+        {
+          "option": "245"
+        },
+        {
+          "option": "98"
+        }
+      ]
+    },
+    {
+      "question": "उन संख्याओं का HCF ज्ञात कीजिए जिनके अभाज्य गुणनखंड $2^4 \\times 3^2 \\times 5^3$ और $2^2 \\times 3^4 \\times 5^1$ हैं।",
+      "options": [
+        {
+          "option": "90"
+        },
+        {
+          "option": "540"
+        },
+        {
+          "option": "360"
+        },
+        {
+          "option": "180",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "$7^2 \\times 3$ और $7 \\times 3^2$ का LCM क्या है?",
+      "options": [
+        {
+          "option": "147"
+        },
+        {
+          "option": "63"
+        },
+        {
+          "option": "441",
+          "is_answer": true
+        },
+        {
+          "option": "21"
+        }
+      ]
+    },
+    {
+      "question": "यदि संख्या A का अभाज्य गुणनखंड $2^3 \\times 5^2$ है और संख्या B का $2^2 \\times 5^3 \\times 7$ है, तो A और B का HCF क्या है?",
+      "options": [
+        {
+          "option": "50"
+        },
+        {
+          "option": "700"
+        },
+        {
+          "option": "100",
+          "is_answer": true
+        },
+        {
+          "option": "200"
+        }
+      ]
+    },
+    {
+      "question": "अभाज्य गुणनखंड विधि द्वारा 16, 24 और 36 का LCM ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "144",
+          "is_answer": true
+        },
+        {
+          "option": "72"
+        },
+        {
+          "option": "432"
+        },
+        {
+          "option": "288"
+        }
+      ]
+    },
+    {
+      "question": "$2^3 \\times 3^2$, $2^2 \\times 3^3$, और $2^4 \\times 3^1$ द्वारा दी गई तीन संख्याओं का HCF क्या है?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "$7^{105}$ का इकाई अंक क्या है?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "$3^{64}$ का इकाई अंक ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "गुणाफल $246^{54} \\times 527^{32}$ में इकाई अंक क्या है?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "$2^{43} \\times 3^{52}$ का इकाई अंक ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "$4^{99} + 9^{100}$ का इकाई अंक क्या है?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "$8^{75}$ का इकाई अंक निर्धारित करें।",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "$6^{58} + 5^{79} + 1^{45}$ का इकाई अंक क्या है?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "व्यंजक $(123)^{42}$ का इकाई अंक ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "$7^{95} - 3^{58}$ का इकाई अंक क्या है?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "$9^{101} \\times 4^{22}$ का इकाई अंक ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "$2^{51}$ का इकाई अंक क्या है?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "$17^{2016}$ का इकाई अंक निर्धारित करें।",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "$264^{102} + 264^{103}$ का इकाई अंक ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "$5^{(5^{5})}$ का इकाई अंक क्या है?",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "$6^{100} \\times 4^{47}$ का इकाई अंक क्या है?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "$(81)^{(10 \times 25 \times 30)}$ का इकाई अंक ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "योग $1^1 + 2^2 + 3^3 + 4^4 + 5^5$ का इकाई अंक क्या है?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "$33^{33}$ का इकाई अंक निर्धारित करें।",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "$7^{4n}$ का इकाई अंक ज्ञात कीजिए जहाँ $n$ एक धनात्मक पूर्णांक है।",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "$2017^{2017}$ का इकाई अंक क्या है?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "$7^{99}$ का दहाई का अंक क्या है?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "$3^{400}$ के अंतिम दो अंक ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "01",
+          "is_answer": true
+        },
+        {
+          "option": "21"
+        },
+        {
+          "option": "41"
+        },
+        {
+          "option": "81"
+        }
+      ]
+    },
+    {
+      "question": "जब $2^{100}$ को 25 से विभाजित किया जाता है, तो शेषफल क्या होता है?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "01"
+        },
+        {
+          "option": "76",
+          "is_answer": true
+        },
+        {
+          "option": "50"
+        }
+      ]
+    },
+    {
+      "question": "$7^{2008}$ के अंतिम दो अंक ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "43"
+        },
+        {
+          "option": "21"
+        },
+        {
+          "option": "01",
+          "is_answer": true
+        },
+        {
+          "option": "57"
+        }
+      ]
+    },
+    {
+      "question": "$3^{50}$ का दहाई का अंक क्या है?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "जब $7^{82}$ को 100 से विभाजित किया जाता है, तो शेषफल ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "09"
+        },
+        {
+          "option": "29"
+        },
+        {
+          "option": "89"
+        },
+        {
+          "option": "49",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "$19^{19}$ के अंतिम दो अंक क्या हैं?",
+      "options": [
+        {
+          "option": "29"
+        },
+        {
+          "option": "19"
+        },
+        {
+          "option": "99",
+          "is_answer": true
+        },
+        {
+          "option": "09"
+        }
+      ]
+    },
+    {
+      "question": "यूलर के प्रमेया का उपयोग करके, 100 से विभाजित करने पर $7^{222}$ का शेषफल ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "01"
+        },
+        {
+          "option": "51"
+        },
+        {
+          "option": "49",
+          "is_answer": true
+        },
+        {
+          "option": "29"
+        }
+      ]
+    },
+    {
+      "question": "$2^{1000}$ का दहाई का अंक ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "जब $3^{100}$ को 80 से विभाजित किया जाता है, तो शेषफल क्या होता है?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "43"
+        },
+        {
+          "option": "27"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "$13^{2000}$ के अंतिम दो अंक ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "21"
+        },
+        {
+          "option": "01",
+          "is_answer": true
+        },
+        {
+          "option": "41"
+        },
+        {
+          "option": "61"
+        }
+      ]
+    },
+    {
+      "question": "$9^{99}$ का दहाई का अंक क्या है?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "$51^{51}$ के अंतिम दो अंक ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "01"
+        },
+        {
+          "option": "21"
+        },
+        {
+          "option": "51",
+          "is_answer": true
+        },
+        {
+          "option": "71"
+        }
+      ]
+    },
+    {
+      "question": "$2^{60}$ को 7 से विभाजित करने पर शेषफल क्या प्राप्त होता है?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "$67^{100}$ के अंतिम दो अंक ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "41"
+        },
+        {
+          "option": "01",
+          "is_answer": true
+        },
+        {
+          "option": "81"
+        },
+        {
+          "option": "21"
+        }
+      ]
+    },
+    {
+      "question": "$4^{44}$ का दहाई का अंक क्या है?",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "$9^{111}$ के अंतिम दो अंक ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "09"
+        },
+        {
+          "option": "89"
+        },
+        {
+          "option": "69"
+        },
+        {
+          "option": "29",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "जब $7^{1000}$ को 24 से विभाजित किया जाता है, तो शेषफल क्या होता है?",
+      "options": [
+        {
+          "option": "23"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "17"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "$43^{43}$ के अंतिम दो अंक ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "27"
+        },
+        {
+          "option": "87"
+        },
+        {
+          "option": "47"
+        },
+        {
+          "option": "07",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यूलर प्रमेय का उपयोग करके, $3^{102}$ को 100 से विभाजित करने पर शेषफल ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "49"
+        },
+        {
+          "option": "09",
+          "is_answer": true
+        },
+        {
+          "option": "89"
+        },
+        {
+          "option": "29"
+        }
+      ]
+    },
+    {
+      "question": "भिन्नो 2/3, 4/9 और 5/6 का महत्तम समापवर्तक (HCF) ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "1/18",
+          "is_answer": true
+        },
+        {
+          "option": "20/3"
+        },
+        {
+          "option": "1/9"
+        },
+        {
+          "option": "2/9"
+        }
+      ]
+    },
+    {
+      "question": "भिन्नो 2/3, 4/9 और 5/6 का लघुत्तम समापवर्त्य (LCM) ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "10/3"
+        },
+        {
+          "option": "20/3",
+          "is_answer": true
+        },
+        {
+          "option": "20/9"
+        },
+        {
+          "option": "1/18"
+        }
+      ]
+    },
+    {
+      "question": "दशमलव संख्याओं 0.6, 1.8 और 3.6 का HCF ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "0.6",
+          "is_answer": true
+        },
+        {
+          "option": "1.8"
+        },
+        {
+          "option": "0.2"
+        },
+        {
+          "option": "0.06"
+        }
+      ]
+    },
+    {
+      "question": "दशमलव संख्याओं 0.6, 1.8 और 3.6 का LCM ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "3.6",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "1.8"
+        },
+        {
+          "option": "0.6"
+        }
+      ]
+    },
+    {
+      "question": "भिन्नो 1/3, 2/9, 5/6 और 4/27 का HCF ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "1/27"
+        },
+        {
+          "option": "2/27"
+        },
+        {
+          "option": "20/3"
+        },
+        {
+          "option": "1/54",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "भिन्नो 1/3, 2/9, 5/6 और 4/27 का LCM ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "10/3"
+        },
+        {
+          "option": "20/9"
+        },
+        {
+          "option": "5/54"
+        },
+        {
+          "option": "20/3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "दशमलव संख्याओं 1.2, 0.24 और 3.0 का HCF ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "0.12"
+        },
+        {
+          "option": "1.2"
+        },
+        {
+          "option": "0.6"
+        },
+        {
+          "option": "0.06",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "दशमलव संख्याओं 1.2, 0.24 और 3.0 का LCM ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "0.6"
+        },
+        {
+          "option": "3.0"
+        },
+        {
+          "option": "1.2"
+        },
+        {
+          "option": "6.0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "7/9, 14/15 और 7/10 का HCF क्या है?",
+      "options": [
+        {
+          "option": "7/45"
+        },
+        {
+          "option": "14/45"
+        },
+        {
+          "option": "7/90",
+          "is_answer": true
+        },
+        {
+          "option": "1/90"
+        }
+      ]
+    },
+    {
+      "question": "7/9, 14/15 और 7/10 का LCM क्या है?",
+      "options": [
+        {
+          "option": "49"
+        },
+        {
+          "option": "98",
+          "is_answer": true
+        },
+        {
+          "option": "98/45"
+        },
+        {
+          "option": "14"
+        }
+      ]
+    },
+    {
+      "question": "0.36, 1.2 और 0.48 का HCF ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "0.12",
+          "is_answer": true
+        },
+        {
+          "option": "0.06"
+        },
+        {
+          "option": "1.2"
+        },
+        {
+          "option": "0.24"
+        }
+      ]
+    },
+    {
+      "question": "0.36, 1.2 और 0.48 का LCM ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "0.72"
+        },
+        {
+          "option": "1.44",
+          "is_answer": true
+        },
+        {
+          "option": "7.2"
+        },
+        {
+          "option": "14.4"
+        }
+      ]
+    },
+    {
+      "question": "भिन्नो 3/4, 5/8 और 7/12 का HCF ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "3/24"
+        },
+        {
+          "option": "1/8"
+        },
+        {
+          "option": "1/24",
+          "is_answer": true
+        },
+        {
+          "option": "35/24"
+        }
+      ]
+    },
+    {
+      "question": "भिन्नो 3/4, 5/8 और 7/12 का LCM ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "105/8"
+        },
+        {
+          "option": "105/4",
+          "is_answer": true
+        },
+        {
+          "option": "15/8"
+        },
+        {
+          "option": "35/24"
+        }
+      ]
+    },
+    {
+      "question": "दशमलव संख्याओं 1.5, 0.3 और 0.09 का HCF ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "1.5"
+        },
+        {
+          "option": "0.3"
+        },
+        {
+          "option": "0.09"
+        },
+        {
+          "option": "0.03",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "दशमलव संख्याओं 1.5, 0.3 और 0.09 का LCM ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "9.0"
+        },
+        {
+          "option": "4.5",
+          "is_answer": true
+        },
+        {
+          "option": "1.5"
+        },
+        {
+          "option": "0.45"
+        }
+      ]
+    },
+    {
+      "question": "2.5, 0.5 और 0.125 का HCF निर्धारित कीजिए।",
+      "options": [
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0.025"
+        },
+        {
+          "option": "2.5"
+        },
+        {
+          "option": "0.125",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "2.5, 0.5 और 0.125 का LCM निर्धारित कीजिए।",
+      "options": [
+        {
+          "option": "0.125"
+        },
+        {
+          "option": "1.25"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "2.5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "भिन्नो 9/10, 12/25, 18/35 और 21/40 का HCF ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "1/1400"
+        },
+        {
+          "option": "3/700"
+        },
+        {
+          "option": "9/1400"
+        },
+        {
+          "option": "3/1400",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "भिन्नो 9/10, 12/25, 18/35 और 21/40 का LCM ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "63/1400"
+        },
+        {
+          "option": "126"
+        },
+        {
+          "option": "504"
+        },
+        {
+          "option": "252",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "मान निकालें: 15 - [6 - {2 + (6 of 2 - 3)}]",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "14",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "सरल करें: 25 - 5 [2 + 3{2 - 2(5 - 3)}] + 10",
+      "options": [
+        {
+          "option": "45"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "35",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "मान ज्ञात कीजिए: 36 ÷ [6 + 3 × {5 - 3(4 - 2)}]",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "36",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "मान निकालें: 48 - [38 - {60 - (6 - 9 - 11)}]",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "-10"
+        },
+        {
+          "option": "-30",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "सरल करें: 100 - [80 - {60 - (40 - 20)}]",
+      "options": [
+        {
+          "option": "40"
+        },
+        {
+          "option": "80"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "60",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "मान निकालें: 50 - [20 + {30 - (10 - 5)}] + 15",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "मान ज्ञात कीजिए: 12 + [12 - {12 × (12 ÷ 12)}]",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "144"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "24"
+        }
+      ]
+    },
+    {
+      "question": "सरल करें: 64 ÷ [4 × {3 - (9 - 6)}] - 2",
+      "options": [
+        {
+          "option": "अपਰਿਭਾਸ਼ਿਤ / त्रुटी",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "मान निकालें: 18 - [5 - {6 - (5 - 4 - 3)}]",
+      "options": [
+        {
+          "option": "11"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "13"
+        },
+        {
+          "option": "17"
+        }
+      ]
+    },
+    {
+      "question": "सरल करें: 27 - [38 - {46 - (15 - 13 - 2)}]",
+      "options": [
+        {
+          "option": "35",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "45"
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "मान ज्ञात कीजिए: 9.5 - [7.2 - {3.5 - (1.2 + 0.5)}]",
+      "options": [
+        {
+          "option": "6.2"
+        },
+        {
+          "option": "3.9"
+        },
+        {
+          "option": "4.5",
+          "is_answer": true
+        },
+        {
+          "option": "5.1"
+        }
+      ]
+    },
+    {
+      "question": "मान निकालें: 30 - [40 - {50 - (60 - 70 - 80)}]",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "90",
+          "is_answer": true
+        },
+        {
+          "option": "-10"
+        }
+      ]
+    },
+    {
+      "question": "सरल करें: 10 + 10 × 10 - 10 ÷ 10",
+      "options": [
+        {
+          "option": "199"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "109",
+          "is_answer": true
+        },
+        {
+          "option": "100"
+        }
+      ]
+    },
+    {
+      "question": "मान निकालें: 5 + 5 + 5 + 5 + 5 ÷ 5 of 5 + 5 × 5 - 5",
+      "options": [
+        {
+          "option": "45",
+          "is_answer": true
+        },
+        {
+          "option": "55"
+        },
+        {
+          "option": "50"
+        },
+        {
+          "option": "35"
+        }
+      ]
+    },
+    {
+      "question": "मान ज्ञात कीजिए: 8 ÷ 2(2 + 2)",
+      "options": [
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "सरल करें: 220 - [140 - {100 - (50 - 30 - 20)}]",
+      "options": [
+        {
+          "option": "100",
+          "is_answer": true
+        },
+        {
+          "option": "120"
+        },
+        {
+          "option": "80"
+        },
+        {
+          "option": "60"
+        }
+      ]
+    },
+    {
+      "question": "मान निकालें: 3 × [5 + {2 × (4 + 1) - 3}]",
+      "options": [
+        {
+          "option": "36",
+          "is_answer": true
+        },
+        {
+          "option": "42"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "सरल करें: 50 - [20 - {30 - (20 - 10)}] + 10",
+      "options": [
+        {
+          "option": "40",
+          "is_answer": true
+        },
+        {
+          "option": "50"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "मान निकालें: [72 ÷ {8 of 3} + {4 × 2 - (6 ÷ 2)}]",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "सरल करें: 15 - {15 - (15 - 15 - 15)}",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "-15"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "भाग विधि का उपयोग करके 252 और 735 का म.स.प. (HCF) ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "14"
+        },
+        {
+          "option": "63"
+        },
+        {
+          "option": "42"
+        },
+        {
+          "option": "21",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "दो संख्याओं का म.स.प. 11 है और उनका ल.स.प. 7700 है। यदि एक संख्या 275 है, तो दूसरी संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "280"
+        },
+        {
+          "option": "385"
+        },
+        {
+          "option": "308",
+          "is_answer": true
+        },
+        {
+          "option": "318"
+        }
+      ]
+    },
+    {
+      "question": "भाग विधि द्वारा दो संख्याओं का म.स.प. ज्ञात करते समय, अंतिम भाजक 17 है और ऊपर से नीचे तक भागफल 1, 3 और 2 हैं। दोनों संख्याओं का योग क्या है?",
+      "options": [
+        {
+          "option": "340"
+        },
+        {
+          "option": "323",
+          "is_answer": true
+        },
+        {
+          "option": "289"
+        },
+        {
+          "option": "306"
+        }
+      ]
+    },
+    {
+      "question": "दो संख्याओं का गुणनफल 4107 है। यदि उनका म.स.प. 37 है, तो बड़ी संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "111",
+          "is_answer": true
+        },
+        {
+          "option": "107"
+        },
+        {
+          "option": "97"
+        },
+        {
+          "option": "118"
+        }
+      ]
+    },
+    {
+      "question": "1365, 1755 और 2925 का म.स.प. ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "225"
+        },
+        {
+          "option": "135"
+        },
+        {
+          "option": "105"
+        },
+        {
+          "option": "195",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "दो संख्याओं का ल.स.प. उनके म.स.प. का 12 गुना है। म.स.प. और ल.स.प. का योग 403 है। यदि एक संख्या 93 है, तो दूसरी ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "124",
+          "is_answer": true
+        },
+        {
+          "option": "116"
+        },
+        {
+          "option": "134"
+        },
+        {
+          "option": "148"
+        }
+      ]
+    },
+    {
+      "question": "क्या दो संख्याओं का म.स.प. 16 और ल.स.प. 380 हो सकता है?",
+      "options": [
+        {
+          "option": "नहीं, क्योंकि म.स.प. को ल.स.प. को पूरी तरह से विभाजित करना चाहिए",
+          "is_answer": true
+        },
+        {
+          "option": "हाँ, हमेशा"
+        },
+        {
+          "option": "केवल अगर संख्याएँ अभाज्य हैं"
+        },
+        {
+          "option": "हाँ, क्योंकि ल.स.प. म.स.प. से बड़ा है"
+        }
+      ]
+    },
+    {
+      "question": "वह सबसे बड़ी संख्या ज्ञात कीजिए जो 400, 435 और 541 को विभाजित करने पर क्रमशः 9, 10 और 14 शेष बचे।",
+      "options": [
+        {
+          "option": "13",
+          "is_answer": true
+        },
+        {
+          "option": "19"
+        },
+        {
+          "option": "17"
+        },
+        {
+          "option": "23"
+        }
+      ]
+    },
+    {
+      "question": "दो संख्याओं का म.स.प. 23 है और उनके ल.स.प. के अन्य दो गुणनखंड 13 और 14 हैं। बड़ी संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "299"
+        },
+        {
+          "option": "312"
+        },
+        {
+          "option": "322",
+          "is_answer": true
+        },
+        {
+          "option": "276"
+        }
+      ]
+    },
+    {
+      "question": "भाग विधि द्वारा दो संख्याओं का म.स.प. ज्ञात करने की प्रक्रिया में, अंतिम भागफल 4 है और अंतिम भाजक 48 है। यदि कोई अन्य चरण शामिल नहीं है तो दोनों संख्याओं का गुणनफल क्या है?",
+      "options": [
+        {
+          "option": "18432"
+        },
+        {
+          "option": "2304"
+        },
+        {
+          "option": "9216",
+          "is_answer": true
+        },
+        {
+          "option": "4608"
+        }
+      ]
+    },
+    {
+      "question": "वह सबसे बड़ी संख्या ज्ञात कीजिए जो 1657 और 2037 को विभाजित करने पर क्रमशः 6 और 5 शेष बचे।",
+      "options": [
+        {
+          "option": "127",
+          "is_answer": true
+        },
+        {
+          "option": "133"
+        },
+        {
+          "option": "305"
+        },
+        {
+          "option": "235"
+        }
+      ]
+    },
+    {
+      "question": "दो संख्याओं का म.स.प. 8 है। निम्नलिखित में से कौन सा उनका ल.स.प. कभी नहीं हो सकता है?",
+      "options": [
+        {
+          "option": "60",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "56"
+        },
+        {
+          "option": "48"
+        }
+      ]
+    },
+    {
+      "question": "1.75, 5.6 और 7 का म.स.प. ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "3.5"
+        },
+        {
+          "option": "0.7"
+        },
+        {
+          "option": "0.07"
+        },
+        {
+          "option": "0.35",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "दो सह-अभाज्य संख्याओं का ल.स.प. 357 है। यदि एक संख्या 17 है, तो दूसरी संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "25"
+        },
+        {
+          "option": "23"
+        },
+        {
+          "option": "19"
+        },
+        {
+          "option": "21",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "तीन संख्याएँ 3:4:5 के अनुपात में हैं और उनका ल.स.प. 2400 है। उनका म.स.प. क्या है?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "80"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "40",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "भाग विधि का उपयोग करते हुए, दो संख्याओं का म.स.प. ज्ञात करते समय, क्रमिक चरणों में भागफल क्रमशः 2, 1 और 3 हैं, और अंतिम भाजक 35 है। दोनों संख्याओं का योग ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "630"
+        },
+        {
+          "option": "490"
+        },
+        {
+          "option": "595",
+          "is_answer": true
+        },
+        {
+          "option": "525"
+        }
+      ]
+    },
+    {
+      "question": "दो संख्याओं का म.स.प. और ल.स.प. क्रमशः 8 और 48 हैं। यदि दोनों संख्याओं का अनुपात 1:3 है, तो बड़ी संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "32"
+        }
+      ]
+    },
+    {
+      "question": "छात्रों की अधिकतम संख्या ज्ञात कीजिए जिनमें 1001 पेन और 910 पेंसिलें समान संख्या में बांटी जा सकें।",
+      "options": [
+        {
+          "option": "13"
+        },
+        {
+          "option": "91",
+          "is_answer": true
+        },
+        {
+          "option": "11"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "यदि दो संख्याओं का ल.स.प. 20769 और उनका म.स.प. 189 है, और उनमें से एक संख्या 2394 है, तो दूसरी संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "1809"
+        },
+        {
+          "option": "1722"
+        },
+        {
+          "option": "1641",
+          "is_answer": true
+        },
+        {
+          "option": "1598"
+        }
+      ]
+    },
+    {
+      "question": "दो अभाज्य संख्याओं $P$ और $Q$ (जहाँ $P > Q$) का म.स.प. क्या है?",
+      "options": [
+        {
+          "option": "PQ"
+        },
+        {
+          "option": "Q"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "P"
+        }
+      ]
+    },
+    {
+      "question": "17576 का घनमूल क्या है?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "26",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "28"
+        }
+      ]
+    },
+    {
+      "question": "32768 का घनमूल ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "38"
+        },
+        {
+          "option": "34"
+        },
+        {
+          "option": "32",
+          "is_answer": true
+        },
+        {
+          "option": "28"
+        }
+      ]
+    },
+    {
+      "question": "50653 का घनमूल क्या है?",
+      "options": [
+        {
+          "option": "37",
+          "is_answer": true
+        },
+        {
+          "option": "39"
+        },
+        {
+          "option": "33"
+        },
+        {
+          "option": "47"
+        }
+      ]
+    },
+    {
+      "question": "74088 का घनमूल ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "42",
+          "is_answer": true
+        },
+        {
+          "option": "52"
+        },
+        {
+          "option": "44"
+        },
+        {
+          "option": "48"
+        }
+      ]
+    },
+    {
+      "question": "110592 का घनमूल क्या है?",
+      "options": [
+        {
+          "option": "58"
+        },
+        {
+          "option": "42"
+        },
+        {
+          "option": "46"
+        },
+        {
+          "option": "48",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "140608 का घनमूल ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "58"
+        },
+        {
+          "option": "54"
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "52",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "195112 का घनमूल क्या है?",
+      "options": [
+        {
+          "option": "56"
+        },
+        {
+          "option": "64"
+        },
+        {
+          "option": "52"
+        },
+        {
+          "option": "58",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "250047 का घनमूल ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "53"
+        },
+        {
+          "option": "69"
+        },
+        {
+          "option": "63",
+          "is_answer": true
+        },
+        {
+          "option": "67"
+        }
+      ]
+    },
+    {
+      "question": "300763 का घनमूल क्या है?",
+      "options": [
+        {
+          "option": "63"
+        },
+        {
+          "option": "67",
+          "is_answer": true
+        },
+        {
+          "option": "77"
+        },
+        {
+          "option": "73"
+        }
+      ]
+    },
+    {
+      "question": "389017 का घनमूल ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "77"
+        },
+        {
+          "option": "83"
+        },
+        {
+          "option": "63"
+        },
+        {
+          "option": "73",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "456533 का घनमूल क्या है?",
+      "options": [
+        {
+          "option": "73"
+        },
+        {
+          "option": "87"
+        },
+        {
+          "option": "79"
+        },
+        {
+          "option": "77",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "551368 का घनमूल ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "88"
+        },
+        {
+          "option": "78"
+        },
+        {
+          "option": "82",
+          "is_answer": true
+        },
+        {
+          "option": "84"
+        }
+      ]
+    },
+    {
+      "question": "636056 का घनमूल क्या है?",
+      "options": [
+        {
+          "option": "84"
+        },
+        {
+          "option": "96"
+        },
+        {
+          "option": "86",
+          "is_answer": true
+        },
+        {
+          "option": "88"
+        }
+      ]
+    },
+    {
+      "question": "704969 का घनमूल ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "91"
+        },
+        {
+          "option": "89",
+          "is_answer": true
+        },
+        {
+          "option": "99"
+        },
+        {
+          "option": "81"
+        }
+      ]
+    },
+    {
+      "question": "830584 का घनमूल क्या है?",
+      "options": [
+        {
+          "option": "92"
+        },
+        {
+          "option": "84"
+        },
+        {
+          "option": "94",
+          "is_answer": true
+        },
+        {
+          "option": "96"
+        }
+      ]
+    },
+    {
+      "question": "912673 का घनमूल ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "87"
+        },
+        {
+          "option": "97",
+          "is_answer": true
+        },
+        {
+          "option": "99"
+        },
+        {
+          "option": "93"
+        }
+      ]
+    },
+    {
+      "question": "103823 का घनमूल क्या है?",
+      "options": [
+        {
+          "option": "43"
+        },
+        {
+          "option": "57"
+        },
+        {
+          "option": "47",
+          "is_answer": true
+        },
+        {
+          "option": "49"
+        }
+      ]
+    },
+    {
+      "question": "21952 का घनमूल ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "28",
+          "is_answer": true
+        },
+        {
+          "option": "26"
+        },
+        {
+          "option": "32"
+        },
+        {
+          "option": "22"
+        }
+      ]
+    },
+    {
+      "question": "438976 का घनमूल क्या है?",
+      "options": [
+        {
+          "option": "66"
+        },
+        {
+          "option": "76",
+          "is_answer": true
+        },
+        {
+          "option": "74"
+        },
+        {
+          "option": "84"
+        }
+      ]
+    },
+    {
+      "question": "592704 का घनमूल ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "74"
+        },
+        {
+          "option": "94"
+        },
+        {
+          "option": "84",
+          "is_answer": true
+        },
+        {
+          "option": "86"
+        }
+      ]
+    },
+    {
+      "question": "लंबी भाग विधि का उपयोग करके 576 का सटीक वर्गमूल क्या है?",
+      "options": [
+        {
+          "option": "22"
+        },
+        {
+          "option": "28"
+        },
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "26"
+        }
+      ]
+    },
+    {
+      "question": "एक दशमलव स्थान तक अनुमान लगाकर 10 का अनुमानित वर्गमूल ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "3.3"
+        },
+        {
+          "option": "3.1"
+        },
+        {
+          "option": "3.2",
+          "is_answer": true
+        },
+        {
+          "option": "3.5"
+        }
+      ]
+    },
+    {
+      "question": "लंबी भाग विधि से गणना किया गया 1024 का वर्गमूल क्या है?",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "34"
+        },
+        {
+          "option": "32",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "4489 के वर्गमूल का सटीक मान क्या है?",
+      "options": [
+        {
+          "option": "63"
+        },
+        {
+          "option": "61"
+        },
+        {
+          "option": "67",
+          "is_answer": true
+        },
+        {
+          "option": "69"
+        }
+      ]
+    },
+    {
+      "question": "निकटतम पूर्ण संख्या में 50 का वर्गमूल अनुमानित करें।",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "लंबी भाग का उपयोग करके, 7056 का वर्गमूल क्या है?",
+      "options": [
+        {
+          "option": "84",
+          "is_answer": true
+        },
+        {
+          "option": "86"
+        },
+        {
+          "option": "88"
+        },
+        {
+          "option": "82"
+        }
+      ]
+    },
+    {
+      "question": "2 का अनुमानित वर्गमूल ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "1.414",
+          "is_answer": true
+        },
+        {
+          "option": "1.500"
+        },
+        {
+          "option": "1.225"
+        },
+        {
+          "option": "1.732"
+        }
+      ]
+    },
+    {
+      "question": "लंबी भाग का उपयोग करके 152.2756 का वर्गमूल क्या है?",
+      "options": [
+        {
+          "option": "12.44"
+        },
+        {
+          "option": "12.14"
+        },
+        {
+          "option": "12.24"
+        },
+        {
+          "option": "12.34",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "120 का वर्गमूल अनुमानित करें।",
+      "options": [
+        {
+          "option": "11.50"
+        },
+        {
+          "option": "10.95",
+          "is_answer": true
+        },
+        {
+          "option": "10.50"
+        },
+        {
+          "option": "11.25"
+        }
+      ]
+    },
+    {
+      "question": "9801 का वर्गमूल क्या है?",
+      "options": [
+        {
+          "option": "99",
+          "is_answer": true
+        },
+        {
+          "option": "91"
+        },
+        {
+          "option": "93"
+        },
+        {
+          "option": "97"
+        }
+      ]
+    },
+    {
+      "question": "लंबी भाग द्वारा, 1764 का वर्गमूल ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "48"
+        },
+        {
+          "option": "44"
+        },
+        {
+          "option": "46"
+        },
+        {
+          "option": "42",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "5 का अनुमानित वर्गमूल क्या है?",
+      "options": [
+        {
+          "option": "2.450"
+        },
+        {
+          "option": "2.122"
+        },
+        {
+          "option": "2.645"
+        },
+        {
+          "option": "2.236",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "लंबी भाग द्वारा दो दशमलव स्थानों तक 0.9 का वर्गमूल ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "0.90"
+        },
+        {
+          "option": "0.97"
+        },
+        {
+          "option": "0.95",
+          "is_answer": true
+        },
+        {
+          "option": "0.85"
+        }
+      ]
+    },
+    {
+      "question": "3136 का सटीक वर्गमूल क्या है?",
+      "options": [
+        {
+          "option": "58"
+        },
+        {
+          "option": "54"
+        },
+        {
+          "option": "56",
+          "is_answer": true
+        },
+        {
+          "option": "52"
+        }
+      ]
+    },
+    {
+      "question": "निकटतम पूर्णांक तक 300 का वर्गमूल अनुमानित करें।",
+      "options": [
+        {
+          "option": "17",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "19"
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "लंबी भाग का उपयोग करके, 6241 का वर्गमूल क्या है?",
+      "options": [
+        {
+          "option": "73"
+        },
+        {
+          "option": "71"
+        },
+        {
+          "option": "79",
+          "is_answer": true
+        },
+        {
+          "option": "77"
+        }
+      ]
+    },
+    {
+      "question": "0.0009 का वर्गमूल क्या है?",
+      "options": [
+        {
+          "option": "0.003"
+        },
+        {
+          "option": "0.03",
+          "is_answer": true
+        },
+        {
+          "option": "0.0003"
+        },
+        {
+          "option": "0.3"
+        }
+      ]
+    },
+    {
+      "question": "अनुमान लगाकर 80 के वर्गमूल का अनुमानित मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "8.94",
+          "is_answer": true
+        },
+        {
+          "option": "9.10"
+        },
+        {
+          "option": "8.25"
+        },
+        {
+          "option": "8.50"
+        }
+      ]
+    },
+    {
+      "question": "लंबी भाग विधि से 2304 का वर्गमूल क्या है?",
+      "options": [
+        {
+          "option": "42"
+        },
+        {
+          "option": "44"
+        },
+        {
+          "option": "46"
+        },
+        {
+          "option": "48",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "लंबी भाग विधि से 7.29 का वर्गमूल क्या है?",
+      "options": [
+        {
+          "option": "2.9"
+        },
+        {
+          "option": "2.5"
+        },
+        {
+          "option": "2.7",
+          "is_answer": true
+        },
+        {
+          "option": "2.3"
+        }
+      ]
+    },
+    {
+      "question": "0.333... को भिन्न में बदलें।",
+      "options": [
+        {
+          "option": "3/10"
+        },
+        {
+          "option": "1/9"
+        },
+        {
+          "option": "1/3",
+          "is_answer": true
+        },
+        {
+          "option": "3/99"
+        }
+      ]
+    },
+    {
+      "question": "0.666... को भिन्न में बदलें।",
+      "options": [
+        {
+          "option": "3/5"
+        },
+        {
+          "option": "6/99"
+        },
+        {
+          "option": "6/10"
+        },
+        {
+          "option": "2/3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "0.777... को भिन्न में बदलें।",
+      "options": [
+        {
+          "option": "77/100"
+        },
+        {
+          "option": "7/10"
+        },
+        {
+          "option": "7/9",
+          "is_answer": true
+        },
+        {
+          "option": "7/99"
+        }
+      ]
+    },
+    {
+      "question": "0.454545... को भिन्न में बदलें।",
+      "options": [
+        {
+          "option": "4/11"
+        },
+        {
+          "option": "9/20"
+        },
+        {
+          "option": "45/100"
+        },
+        {
+          "option": "5/11",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "0.123123... को भिन्न में बदलें।",
+      "options": [
+        {
+          "option": "41/300"
+        },
+        {
+          "option": "41/333",
+          "is_answer": true
+        },
+        {
+          "option": "123/1000"
+        },
+        {
+          "option": "123/99"
+        }
+      ]
+    },
+    {
+      "question": "0.1666... (0.16̄) को भिन्न में बदलें।",
+      "options": [
+        {
+          "option": "1/6",
+          "is_answer": true
+        },
+        {
+          "option": "8/45"
+        },
+        {
+          "option": "16/100"
+        },
+        {
+          "option": "16/99"
+        }
+      ]
+    },
+    {
+      "question": "0.2777... (0.27̄) को भिन्न में बदलें।",
+      "options": [
+        {
+          "option": "27/99"
+        },
+        {
+          "option": "25/90"
+        },
+        {
+          "option": "5/18",
+          "is_answer": true
+        },
+        {
+          "option": "7/25"
+        }
+      ]
+    },
+    {
+      "question": "0.5444... (0.54̄) को भिन्न में बदलें।",
+      "options": [
+        {
+          "option": "5/9"
+        },
+        {
+          "option": "27/50"
+        },
+        {
+          "option": "54/99"
+        },
+        {
+          "option": "49/90",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "0.3888... (0.38̄) को भिन्न में बदलें।",
+      "options": [
+        {
+          "option": "38/99"
+        },
+        {
+          "option": "19/45"
+        },
+        {
+          "option": "7/18",
+          "is_answer": true
+        },
+        {
+          "option": "35/90"
+        }
+      ]
+    },
+    {
+      "question": "0.1252525... (0.125̄) को भिन्न में बदलें।",
+      "options": [
+        {
+          "option": "125/999"
+        },
+        {
+          "option": "125/900"
+        },
+        {
+          "option": "62/495",
+          "is_answer": true
+        },
+        {
+          "option": "13/99"
+        }
+      ]
+    },
+    {
+      "question": "2.333... को भिन्न में बदलें।",
+      "options": [
+        {
+          "option": "21/9"
+        },
+        {
+          "option": "7/9"
+        },
+        {
+          "option": "23/10"
+        },
+        {
+          "option": "7/3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "1.666... को भिन्न में बदलें।",
+      "options": [
+        {
+          "option": "16/10"
+        },
+        {
+          "option": "8/5"
+        },
+        {
+          "option": "13/9"
+        },
+        {
+          "option": "5/3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "0.999... को भिन्न में बदलें।",
+      "options": [
+        {
+          "option": "99/100"
+        },
+        {
+          "option": "9/99"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "9/10"
+        }
+      ]
+    },
+    {
+      "question": "0.050505... (0.05̄) को भिन्न में बदलें।",
+      "options": [
+        {
+          "option": "1/20"
+        },
+        {
+          "option": "5/99",
+          "is_answer": true
+        },
+        {
+          "option": "5/90"
+        },
+        {
+          "option": "51/1000"
+        }
+      ]
+    },
+    {
+      "question": "0.241241... (0.241̄) को भिन्न में बदलें।",
+      "options": [
+        {
+          "option": "8/33"
+        },
+        {
+          "option": "241/1000"
+        },
+        {
+          "option": "241/999",
+          "is_answer": true
+        },
+        {
+          "option": "24/99"
+        }
+      ]
+    },
+    {
+      "question": "0.090909... (0.09̄) को भिन्न में बदलें।",
+      "options": [
+        {
+          "option": "9/100"
+        },
+        {
+          "option": "1/11",
+          "is_answer": true
+        },
+        {
+          "option": "9/999"
+        },
+        {
+          "option": "9/90"
+        }
+      ]
+    },
+    {
+      "question": "1.272727... (1.27̄) को भिन्न में बदलें।",
+      "options": [
+        {
+          "option": "11/9"
+        },
+        {
+          "option": "127/99"
+        },
+        {
+          "option": "14/11",
+          "is_answer": true
+        },
+        {
+          "option": "127/100"
+        }
+      ]
+    },
+    {
+      "question": "0.181818... (0.18̄) को भिन्न में बदलें।",
+      "options": [
+        {
+          "option": "18/999"
+        },
+        {
+          "option": "9/50"
+        },
+        {
+          "option": "18/100"
+        },
+        {
+          "option": "2/11",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "3.142857142857... (3.(142857)) को भिन्न में बदलें।",
+      "options": [
+        {
+          "option": "3142857/1000000"
+        },
+        {
+          "option": "314/99"
+        },
+        {
+          "option": "22/7",
+          "is_answer": true
+        },
+        {
+          "option": "31/10"
+        }
+      ]
+    },
+    {
+      "question": "0.34111... (0.341̄) को भिन्न में बदलें।",
+      "options": [
+        {
+          "option": "341/990"
+        },
+        {
+          "option": "341/999"
+        },
+        {
+          "option": "307/900",
+          "is_answer": true
+        },
+        {
+          "option": "31/90"
+        }
+      ]
+    },
+    {
+      "question": "प्रथम 10 प्राकृतिक संख्याओं का योग कितना है?",
+      "options": [
+        {
+          "option": "50"
+        },
+        {
+          "option": "55",
+          "is_answer": true
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "45"
+        }
+      ]
+    },
+    {
+      "question": "प्रथम 20 प्राकृतिक संख्याओं का योग ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "200"
+        },
+        {
+          "option": "220"
+        },
+        {
+          "option": "190"
+        },
+        {
+          "option": "210",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "प्रथम 'n' प्राकृतिक संख्याओं के योग का सूत्र क्या है?",
+      "options": [
+        {
+          "option": "n(n+1)/2",
+          "is_answer": true
+        },
+        {
+          "option": "[n(n+1)/2]^2"
+        },
+        {
+          "option": "n(n-1)/2"
+        },
+        {
+          "option": "n(n+1)(2n+1)/6"
+        }
+      ]
+    },
+    {
+      "question": "प्रथम 5 प्राकृतिक संख्याओं के वर्गों का योग क्या है (1^2 + 2^2 + ... + 5^2)?",
+      "options": [
+        {
+          "option": "50"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "55",
+          "is_answer": true
+        },
+        {
+          "option": "45"
+        }
+      ]
+    },
+    {
+      "question": "प्रथम 'n' प्राकृतिक संख्याओं के वर्गों के योग का सूत्र क्या है?",
+      "options": [
+        {
+          "option": "n(n+1)(2n+1)/6",
+          "is_answer": true
+        },
+        {
+          "option": "n(n-1)(2n-1)/6"
+        },
+        {
+          "option": "n(n+1)/2"
+        },
+        {
+          "option": "[n(n+1)/2]^2"
+        }
+      ]
+    },
+    {
+      "question": "प्रथम 4 प्राकृतिक संख्याओं के घनों का योग कितना है (1^3 + 2^3 + 3^3 + 4^3)?",
+      "options": [
+        {
+          "option": "110"
+        },
+        {
+          "option": "90"
+        },
+        {
+          "option": "81"
+        },
+        {
+          "option": "100",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "प्रथम 'n' प्राकृतिक संख्याओं के घनों के योग का सूत्र क्या है?",
+      "options": [
+        {
+          "option": "n(n+1)(2n+1)/6"
+        },
+        {
+          "option": "[n(n+1)/2]^2",
+          "is_answer": true
+        },
+        {
+          "option": "n(n+1)/2"
+        },
+        {
+          "option": "n^2(n+1)^2/4"
+        }
+      ]
+    },
+    {
+      "question": "प्रथम 30 प्राकृतिक संख्याओं का योग ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "450"
+        },
+        {
+          "option": "480"
+        },
+        {
+          "option": "435"
+        },
+        {
+          "option": "465",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "प्रथम 10 प्राकृतिक संख्याओं के वर्गों का योग क्या है?",
+      "options": [
+        {
+          "option": "385",
+          "is_answer": true
+        },
+        {
+          "option": "375"
+        },
+        {
+          "option": "390"
+        },
+        {
+          "option": "380"
+        }
+      ]
+    },
+    {
+      "question": "प्रथम 5 प्राकृतिक संख्याओं के घनों का योग ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "210"
+        },
+        {
+          "option": "225",
+          "is_answer": true
+        },
+        {
+          "option": "200"
+        },
+        {
+          "option": "250"
+        }
+      ]
+    },
+    {
+      "question": "यदि प्रथम n प्राकृतिक संख्याओं का योग 1275 है, तो n का मान क्या है?",
+      "options": [
+        {
+          "option": "51"
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "49"
+        },
+        {
+          "option": "50",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "11 से 20 तक की प्राकृतिक संख्याओं का योग कितना है?",
+      "options": [
+        {
+          "option": "160"
+        },
+        {
+          "option": "155",
+          "is_answer": true
+        },
+        {
+          "option": "150"
+        },
+        {
+          "option": "145"
+        }
+      ]
+    },
+    {
+      "question": "योग ज्ञात कीजिए: 1 + 2 + 3 + ... + 50.",
+      "options": [
+        {
+          "option": "1300"
+        },
+        {
+          "option": "1250"
+        },
+        {
+          "option": "1275",
+          "is_answer": true
+        },
+        {
+          "option": "1225"
+        }
+      ]
+    },
+    {
+      "question": "1 से 6 तक की संख्याओं के वर्गों का योग क्या है (1^2 + 2^2 + ... + 6^2)?",
+      "options": [
+        {
+          "option": "95"
+        },
+        {
+          "option": "84"
+        },
+        {
+          "option": "85"
+        },
+        {
+          "option": "91",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि प्रथम n प्राकृतिक संख्याओं के वर्गों का योग 946 है, तो n क्या है?",
+      "options": [
+        {
+          "option": "11",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "(1^3 + 2^3 + 3^3) का मान क्या है?",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "36",
+          "is_answer": true
+        },
+        {
+          "option": "42"
+        },
+        {
+          "option": "32"
+        }
+      ]
+    },
+    {
+      "question": "प्रथम 100 प्राकृतिक संख्याओं का योग ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "5000"
+        },
+        {
+          "option": "4950"
+        },
+        {
+          "option": "5050",
+          "is_answer": true
+        },
+        {
+          "option": "5100"
+        }
+      ]
+    },
+    {
+      "question": "यदि प्रथम n प्राकृतिक संख्याओं के घनों का योग 3025 है, तो n ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "11"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "1 से 15 तक की प्राकृतिक संख्याओं का योग कितना है?",
+      "options": [
+        {
+          "option": "125"
+        },
+        {
+          "option": "120",
+          "is_answer": true
+        },
+        {
+          "option": "110"
+        },
+        {
+          "option": "105"
+        }
+      ]
+    },
+    {
+      "question": "प्रथम 7 प्राकृतिक संख्याओं के वर्गों का योग ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "135"
+        },
+        {
+          "option": "140",
+          "is_answer": true
+        },
+        {
+          "option": "150"
+        },
+        {
+          "option": "130"
+        }
+      ]
+    },
+    {
+      "question": "अनंत सतत भिन्न का मान ज्ञात कीजिए: 1 + 1 / (1 + 1 / (1 + 1 / ...))",
+      "options": [
+        {
+          "option": "(1 - √5) / 2"
+        },
+        {
+          "option": "(3 + √5) / 2"
+        },
+        {
+          "option": "√5"
+        },
+        {
+          "option": "(1 + √5) / 2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "अनंत सतत भिन्न का मान ज्ञात कीजिए: 1 / (1 + 1 / (1 + 1 / (1 + 1 / ...)))",
+      "options": [
+        {
+          "option": "(√5 - 1) / 2",
+          "is_answer": true
+        },
+        {
+          "option": "(1 + √5) / 2"
+        },
+        {
+          "option": "(√5 - 2) / 2"
+        },
+        {
+          "option": "1 / √5"
+        }
+      ]
+    },
+    {
+      "question": "नियत सतत भिन्न का मान ज्ञात कीजिए: 1 + 1 / (1 + 1 / (1 + 1 / 2))",
+      "options": [
+        {
+          "option": "5 / 3"
+        },
+        {
+          "option": "3 / 5"
+        },
+        {
+          "option": "5 / 8"
+        },
+        {
+          "option": "8 / 5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "नियत सतत भिन्न का मान ज्ञात कीजिए: 2 + 1 / (3 + 1 / 4)",
+      "options": [
+        {
+          "option": "13 / 31"
+        },
+        {
+          "option": "12 / 13"
+        },
+        {
+          "option": "27 / 13"
+        },
+        {
+          "option": "31 / 13",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "सीढ़ी भिन्न का मान ज्ञात कीजिए: 1 / (2 + 1 / (2 + 1 / (2 + 1 / 2)))",
+      "options": [
+        {
+          "option": "29 / 12"
+        },
+        {
+          "option": "12 / 17"
+        },
+        {
+          "option": "5 / 12"
+        },
+        {
+          "option": "12 / 29",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "अनंत सतत भिन्न का मान ज्ञात कीजिए: 2 + 1 / (2 + 1 / (2 + 1 / (2 + ...)))",
+      "options": [
+        {
+          "option": "2 + √2"
+        },
+        {
+          "option": "1 + √2",
+          "is_answer": true
+        },
+        {
+          "option": "√2 - 1"
+        },
+        {
+          "option": "√3"
+        }
+      ]
+    },
+    {
+      "question": "सीढ़ी भिन्न का मान ज्ञात कीजिए: 1 - 1 / (1 - 1 / (1 - 1 / 2))",
+      "options": [
+        {
+          "option": "1 / 2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "-1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "सतत भिन्न को सरल कीजिए: 3 + 1 / (1 + 1 / (2 + 1 / 3))",
+      "options": [
+        {
+          "option": "31 / 9",
+          "is_answer": true
+        },
+        {
+          "option": "9 / 31"
+        },
+        {
+          "option": "31 / 7"
+        },
+        {
+          "option": "22 / 9"
+        }
+      ]
+    },
+    {
+      "question": "अनंत सतत भिन्न का मान ज्ञात कीजिए: 3 + 1 / (3 + 1 / (3 + 1 / (3 + ...)))",
+      "options": [
+        {
+          "option": "(1 + √13) / 2"
+        },
+        {
+          "option": "(3 - √13) / 2"
+        },
+        {
+          "option": "3 + √13"
+        },
+        {
+          "option": "(3 + √13) / 2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "नियत सीढ़ी भिन्न का मान ज्ञात कीजिए: 1 / (1 + 1 / (2 + 1 / (3 + 1)))",
+      "options": [
+        {
+          "option": "4 / 7"
+        },
+        {
+          "option": "7 / 4"
+        },
+        {
+          "option": "11 / 7"
+        },
+        {
+          "option": "7 / 11",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "इसका मान क्या है: 1 + 2 / (1 + 2 / (1 + 2 / (1 + 2)))",
+      "options": [
+        {
+          "option": "3 / 5"
+        },
+        {
+          "option": "5 / 3"
+        },
+        {
+          "option": "17 / 11",
+          "is_answer": true
+        },
+        {
+          "option": "11 / 17"
+        }
+      ]
+    },
+    {
+      "question": "नियत सतत भिन्न का मान ज्ञात कीजिए: 4 - 1 / (3 - 1 / (2 - 1 / 2))",
+      "options": [
+        {
+          "option": "19 / 5",
+          "is_answer": true
+        },
+        {
+          "option": "5 / 19"
+        },
+        {
+          "option": "11 / 3"
+        },
+        {
+          "option": "3 / 11"
+        }
+      ]
+    },
+    {
+      "question": "अनंत सतत भिन्न का मान ज्ञात कीजिए: 4 + 1 / (4 + 1 / (4 + 1 / (4 + ...)))",
+      "options": [
+        {
+          "option": "2 + √5",
+          "is_answer": true
+        },
+        {
+          "option": "4 + √5"
+        },
+        {
+          "option": "2 - √5"
+        },
+        {
+          "option": "(1 + √5) / 2"
+        }
+      ]
+    },
+    {
+      "question": "सरल कीजिए: 1 / (1 + 1 / (1 + 1 / (1 + 1 / 3)))",
+      "options": [
+        {
+          "option": "3 / 8"
+        },
+        {
+          "option": "8 / 5"
+        },
+        {
+          "option": "5 / 3"
+        },
+        {
+          "option": "5 / 8",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "मान ज्ञात कीजिए: 1 + 1 / (2 + 1 / (1 + 1 / 2))",
+      "options": [
+        {
+          "option": "11 / 8",
+          "is_answer": true
+        },
+        {
+          "option": "8 / 11"
+        },
+        {
+          "option": "3 / 8"
+        },
+        {
+          "option": "5 / 8"
+        }
+      ]
+    },
+    {
+      "question": "सीढ़ी भिन्न का मान ज्ञात कीजिए: 2 - 1 / (2 - 1 / (2 - 1 / 2))",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "3 / 2"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "1 / 2"
+        }
+      ]
+    },
+    {
+      "question": "अनंत सतत भिन्न का मान ज्ञात कीजिए: 5 + 1 / (5 + 1 / (5 + 1 / (5 + ...)))",
+      "options": [
+        {
+          "option": "(5 + √29) / 2",
+          "is_answer": true
+        },
+        {
+          "option": "(5 - √29) / 2"
+        },
+        {
+          "option": "(1 + √29) / 2"
+        },
+        {
+          "option": "5 + √29"
+        }
+      ]
+    },
+    {
+      "question": "मान ज्ञात कीजिए: 1 + 1 / (1 + 2 / (1 + 3 / 4))",
+      "options": [
+        {
+          "option": "15 / 21"
+        },
+        {
+          "option": "8 / 5"
+        },
+        {
+          "option": "21 / 15",
+          "is_answer": true
+        },
+        {
+          "option": "5 / 8"
+        }
+      ]
+    },
+    {
+      "question": "नियत सतत भिन्न का मान ज्ञात कीजिए: 1 + 2 / (1 + 3 / (1 + 4 / 5))",
+      "options": [
+        {
+          "option": "27 / 17",
+          "is_answer": true
+        },
+        {
+          "option": "12 / 17"
+        },
+        {
+          "option": "17 / 27"
+        },
+        {
+          "option": "27 / 12"
+        }
+      ]
+    },
+    {
+      "question": "अनंत सीढ़ी भिन्न को सरल कीजिए: 1 - 1 / (1 - 1 / (1 - 1 / (1 - ...)))",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "अभिसरण नहीं करता (Does not converge)",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "10! में अंत में शून्यों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "25! के अंत में कितने शून्य हैं?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "50! में अंत में शून्यों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "11"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "100! के अंत में शून्यों की संख्या निर्धारित करें।",
+      "options": [
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "22"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "120! में अंत में शून्यों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "28",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "200! के अंत में शून्यों की संख्या क्या है?",
+      "options": [
+        {
+          "option": "45"
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "49",
+          "is_answer": true
+        },
+        {
+          "option": "50"
+        }
+      ]
+    },
+    {
+      "question": "500! में अंत में शून्यों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "100"
+        },
+        {
+          "option": "124",
+          "is_answer": true
+        },
+        {
+          "option": "125"
+        },
+        {
+          "option": "110"
+        }
+      ]
+    },
+    {
+      "question": "1000! के अंत में कितने शून्य हैं?",
+      "options": [
+        {
+          "option": "250"
+        },
+        {
+          "option": "249",
+          "is_answer": true
+        },
+        {
+          "option": "224"
+        },
+        {
+          "option": "200"
+        }
+      ]
+    },
+    {
+      "question": "75! में अंत में शून्यों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "18",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "60! के अंत में शून्यों की संख्या निर्धारित करें।",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "14",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "30! में अंत में शून्यों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "150! के अंत में शून्यों की संख्या क्या है?",
+      "options": [
+        {
+          "option": "40"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "35"
+        },
+        {
+          "option": "37",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "40! में अंत में शून्यों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "80! के अंत में कितने शून्य हैं?",
+      "options": [
+        {
+          "option": "19",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "90! में अंत में शून्यों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "21",
+          "is_answer": true
+        },
+        {
+          "option": "22"
+        }
+      ]
+    },
+    {
+      "question": "300! के अंत में शून्यों की संख्या निर्धारित करें।",
+      "options": [
+        {
+          "option": "60"
+        },
+        {
+          "option": "70"
+        },
+        {
+          "option": "74",
+          "is_answer": true
+        },
+        {
+          "option": "75"
+        }
+      ]
+    },
+    {
+      "question": "400! में अंत में शून्यों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "80"
+        },
+        {
+          "option": "99",
+          "is_answer": true
+        },
+        {
+          "option": "95"
+        },
+        {
+          "option": "100"
+        }
+      ]
+    },
+    {
+      "question": "70! के अंत में शून्यों की संख्या क्या है?",
+      "options": [
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "17"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "14"
+        }
+      ]
+    },
+    {
+      "question": "600! में अंत में शून्यों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "150"
+        },
+        {
+          "option": "149",
+          "is_answer": true
+        },
+        {
+          "option": "140"
+        }
+      ]
+    },
+    {
+      "question": "250! के अंत में कितने शून्य हैं?",
+      "options": [
+        {
+          "option": "65"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "62",
+          "is_answer": true
+        },
+        {
+          "option": "50"
+        }
+      ]
+    },
+    {
+      "question": "नाइन्स कास्ट आउट विधि का उपयोग करके 458 का डिजिटल रूट क्या है?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "यदि किसी संख्या को 9 से गुणा किया जाए, तो गुणनफल का अपेक्षित डिजिटल रूट क्या है?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "789 का डिजिटल रूट क्या है?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "डिजिटल रूट पद्धति में, अंकों के योग पर कौन सा ऑपरेशन किया जाता है?",
+      "options": [
+        {
+          "option": "मॉड्यूलो 7"
+        },
+        {
+          "option": "मॉड्यूलो 10"
+        },
+        {
+          "option": "मॉड्यूलो 9",
+          "is_answer": true
+        },
+        {
+          "option": "मॉड्यूलो 8"
+        }
+      ]
+    },
+    {
+      "question": "योग का डिजिटल रूट ज्ञात कीजिए: 345 + 678.",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "999 का डिजिटल रूट क्या है?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "यदि A का डिजिटल रूट 5 है और B का डिजिटल रूट 7 है, तो A x B का डिजिटल रूट क्या है?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "क्या डिजिटल रूट पद्धति निश्चित रूप से यह साबित कर सकती है कि उत्तर 100% सही है?",
+      "options": [
+        {
+          "option": "नहीं, यह केवल यह सत्यापित कर सकता है कि यह संभावित रूप से सही है",
+          "is_answer": true
+        },
+        {
+          "option": "हाँ, हमेशा"
+        },
+        {
+          "option": "केवल गुणा के लिए"
+        },
+        {
+          "option": "केवल जोड़ के लिए"
+        }
+      ]
+    },
+    {
+      "question": "1000 का डिजिटल रूट क्या है?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "846 का डिजिटल रूट क्या है?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "यदि किसी संख्या का डिजिटल रूट 0 है, तो इसका समतुल्य मॉड्यूलो 9 डिजिटल रूट इस प्रकार दर्शाया जाता है:",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "56 x 73 का डिजिटल रूट गणना करें।",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "डिजिटल रूट (नाइन्स कास्ट आउट) पद्धति में कौन सा अंक 0 की तरह ही व्यवहार करता है?",
+      "options": [
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "12345 का डिजिटल रूट क्या है?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "यदि X - Y = Z है, तो उनके डिजिटल रूट (DR) के लिए कौन सा संबंध सत्य है?",
+      "options": [
+        {
+          "option": "DR(X) = DR(Y) x DR(Z)"
+        },
+        {
+          "option": "DR(X) x DR(Y) = DR(Z)"
+        },
+        {
+          "option": "DR(X) - DR(Y) = DR(Z) (मॉड्यूलो 9 समायोजित)",
+          "is_answer": true
+        },
+        {
+          "option": "DR(X) + DR(Y) = DR(Z)"
+        }
+      ]
+    },
+    {
+      "question": "9876 का डिजिटल रूट क्या है?",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "डिजिटल रूट पद्धति त्रुटि का पता लगाने में क्यों विफल हो सकती है?",
+      "options": [
+        {
+          "option": "यह बड़ी संख्याओं को संसाधित नहीं कर सकती है"
+        },
+        {
+          "option": "यह संख्या 5 की उपेक्षा करती है"
+        },
+        {
+          "option": "यह केवल घटाव के लिए काम करती है"
+        },
+        {
+          "option": "अदला-बदली किए गए अंकों (anagrams) का डिजिटल रूट समान होता है",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "14 के वर्ग का डिजिटल रूट ज्ञात कीजिए.",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "2023 का डिजिटल रूट क्या है?",
+      "options": [
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "यदि समीकरण के दोनों पक्षों के डिजिटल रूट मेल नहीं खाते हैं, तो आप निश्चित रूप से क्या निष्कर्ष निकाल सकते हैं?",
+      "options": [
+        {
+          "option": "ऑपरेशन विभाजन था"
+        },
+        {
+          "option": "संख्याएँ अभाज्य हैं"
+        },
+        {
+          "option": "गणना निश्चित रूप से सही है"
+        },
+        {
+          "option": "गणना निश्चित रूप से गलत है",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "क्रॉस-मल्टीप्लिकेशन का उपयोग करके निम्नलिखित में से कौन सा अंश सबसे बड़ा है: 5/8 या 7/11?",
+      "options": [
+        {
+          "option": "वे समान हैं"
+        },
+        {
+          "option": "5/8",
+          "is_answer": true
+        },
+        {
+          "option": "7/11"
+        },
+        {
+          "option": "निर्धारित नहीं किया जा सकता"
+        }
+      ]
+    },
+    {
+      "question": "क्रॉस-मल्टीप्लिकेशन का उपयोग करके 3/5 और 4/7 की तुलना करें। कौन सा बड़ा है?",
+      "options": [
+        {
+          "option": "4/7"
+        },
+        {
+          "option": "दोनों समान हैं"
+        },
+        {
+          "option": "इनमें से कोई नहीं"
+        },
+        {
+          "option": "3/5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "क्रॉस-मल्टीप्लिकेशन का उपयोग करके भिन्नों 2/3 और 3/5 को अवरोही क्रम में व्यवस्थित करें।",
+      "options": [
+        {
+          "option": "समान"
+        },
+        {
+          "option": "कोई नहीं"
+        },
+        {
+          "option": "3/5, 2/3"
+        },
+        {
+          "option": "2/3, 3/5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "9/13 और 7/10 के बीच कौन सा अंश छोटा है?",
+      "options": [
+        {
+          "option": "9/13",
+          "is_answer": true
+        },
+        {
+          "option": "डेटा अपर्याप्त है"
+        },
+        {
+          "option": "दोनों समान हैं"
+        },
+        {
+          "option": "7/10"
+        }
+      ]
+    },
+    {
+      "question": "क्रॉस-मल्टीप्लिकेशन का उपयोग करके, 11/15 और 13/18 के बीच बड़ा अंश ज्ञात करें।",
+      "options": [
+        {
+          "option": "वे समान हैं"
+        },
+        {
+          "option": "कहा नहीं जा सकता"
+        },
+        {
+          "option": "13/18"
+        },
+        {
+          "option": "11/15",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "भिन्नों 4/9 और 5/11 के लिए निम्नलिखित में से कौन सा सत्य है?",
+      "options": [
+        {
+          "option": "4/9 = 5/11"
+        },
+        {
+          "option": "4/9 > 5/11",
+          "is_answer": true
+        },
+        {
+          "option": "4/9 < 5/11"
+        },
+        {
+          "option": "तुलना संभव नहीं है"
+        }
+      ]
+    },
+    {
+      "question": "युग्म-वार क्रॉस-मल्टीप्लिकेशन द्वारा 3/4, 5/7 और 7/10 में सबसे छोटा अंश ज्ञात करें।",
+      "options": [
+        {
+          "option": "5/7"
+        },
+        {
+          "option": "सभी समान हैं"
+        },
+        {
+          "option": "3/4"
+        },
+        {
+          "option": "7/10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "सेट से दूसरा सबसे बड़ा अंश पहचानें: 2/5, 4/7, 3/8, 1/2.",
+      "options": [
+        {
+          "option": "2/5"
+        },
+        {
+          "option": "4/7"
+        },
+        {
+          "option": "3/8"
+        },
+        {
+          "option": "1/2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "क्रॉस-मल्टीप्लिकेशन का उपयोग करके 17/24 और 19/27 की तुलना करें। कौन सा बड़ा है?",
+      "options": [
+        {
+          "option": "दोनों समान हैं"
+        },
+        {
+          "option": "19/27"
+        },
+        {
+          "option": "कोई नहीं"
+        },
+        {
+          "option": "17/24",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "5/6, 7/9 और 11/12 को आरोही क्रम में व्यवस्थित करें।",
+      "options": [
+        {
+          "option": "5/6, 7/9, 11/12"
+        },
+        {
+          "option": "11/12, 5/6, 7/9"
+        },
+        {
+          "option": "7/9, 11/12, 5/6"
+        },
+        {
+          "option": "7/9, 5/6, 11/12",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "कौन सा अंश बड़ा है: 13/16 या 15/19?",
+      "options": [
+        {
+          "option": "निर्धारित नहीं किया जा सकता"
+        },
+        {
+          "option": "समान"
+        },
+        {
+          "option": "13/16",
+          "is_answer": true
+        },
+        {
+          "option": "15/19"
+        }
+      ]
+    },
+    {
+      "question": "क्रॉस-मल्टीप्लिकेशन का उपयोग करके निर्धारित करें कि 8/15 और 11/20 में से कौन सा बड़ा है।",
+      "options": [
+        {
+          "option": "8/15"
+        },
+        {
+          "option": "11/20",
+          "is_answer": true
+        },
+        {
+          "option": "कोई नहीं"
+        },
+        {
+          "option": "दोनों समान हैं"
+        }
+      ]
+    },
+    {
+      "question": "6/11, 5/9 और 7/12 में से सबसे बड़ा कौन सा है?",
+      "options": [
+        {
+          "option": "सभी समान हैं"
+        },
+        {
+          "option": "7/12",
+          "is_answer": true
+        },
+        {
+          "option": "6/11"
+        },
+        {
+          "option": "5/9"
+        }
+      ]
+    },
+    {
+      "question": "क्रॉस-मल्टीप्लिकेशन का उपयोग करके 23/30 और 19/25 की तुलना करें। कौन सा छोटा है?",
+      "options": [
+        {
+          "option": "23/30"
+        },
+        {
+          "option": "दोनों समान हैं"
+        },
+        {
+          "option": "19/25",
+          "is_answer": true
+        },
+        {
+          "option": "कोई नहीं"
+        }
+      ]
+    },
+    {
+      "question": "भिन्नों का सही अवरोही क्रम क्या है: 7/8, 11/13, 5/6?",
+      "options": [
+        {
+          "option": "7/8, 11/13, 5/6",
+          "is_answer": true
+        },
+        {
+          "option": "11/13, 7/8, 5/6"
+        },
+        {
+          "option": "7/8, 5/6, 11/13"
+        },
+        {
+          "option": "5/6, 11/13, 7/8"
+        }
+      ]
+    },
+    {
+      "question": "12/17 और 14/19 के बीच कौन सा अंश बड़ा है?",
+      "options": [
+        {
+          "option": "डेटा अपर्याप्त"
+        },
+        {
+          "option": "14/19",
+          "is_answer": true
+        },
+        {
+          "option": "दोनों समान हैं"
+        },
+        {
+          "option": "12/17"
+        }
+      ]
+    },
+    {
+      "question": "प्रतिशत रूपांतरण या क्रॉस-मल्टीप्लिकेशन का उपयोग करके, 4/5, 7/8 और 8/10 में सबसे छोटा ज्ञात करें।",
+      "options": [
+        {
+          "option": "4/5",
+          "is_answer": true
+        },
+        {
+          "option": "8/10"
+        },
+        {
+          "option": "7/8"
+        },
+        {
+          "option": "सभी समान हैं"
+        }
+      ]
+    },
+    {
+      "question": "यदि हम 16/21 और 19/25 की तुलना करें, तो कौन सा संबंध सही है?",
+      "options": [
+        {
+          "option": "16/21 < 19/25",
+          "is_answer": true
+        },
+        {
+          "option": "इनमें से कोई नहीं"
+        },
+        {
+          "option": "16/21 = 19/25"
+        },
+        {
+          "option": "16/21 > 19/25"
+        }
+      ]
+    },
+    {
+      "question": "3/7, 2/5, 4/9 और 1/3 में से दूसरा सबसे छोटा अंश ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "2/5"
+        },
+        {
+          "option": "4/9",
+          "is_answer": true
+        },
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "3/7"
+        }
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा अंशों का सेट आरोही क्रम में सही ढंग से व्यवस्थित है?",
+      "options": [
+        {
+          "option": "3/5, 7/10, 4/5, 5/6",
+          "is_answer": true
+        },
+        {
+          "option": "5/6, 4/5, 7/10, 3/5"
+        },
+        {
+          "option": "7/10, 3/5, 4/5, 5/6"
+        },
+        {
+          "option": "3/5, 4/5, 7/10, 5/6"
+        }
+      ]
+    },
+    {
+      "question": "72 के कुल गुणनखंडों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "14"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "108 के कुल गुणनखंडों की संख्या क्या है?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "200 के कुल गुणनखंडों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "संख्या 360 के कितने गुणनखंड हैं?",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "540 के कुल गुणनखंडों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "26"
+        },
+        {
+          "option": "28"
+        },
+        {
+          "option": "22"
+        }
+      ]
+    },
+    {
+      "question": "1000 के कुल गुणनखंडों की संख्या क्या है?",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "1440 के कुल गुणनखंडों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "36",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "32"
+        }
+      ]
+    },
+    {
+      "question": "750 के कुल गुणनखंडों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "24 के सभी गुणनखंडों का योग क्या है?",
+      "options": [
+        {
+          "option": "60",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "72"
+        }
+      ]
+    },
+    {
+      "question": "36 के सभी गुणनखंडों का योग ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "84"
+        },
+        {
+          "option": "95"
+        },
+        {
+          "option": "78"
+        },
+        {
+          "option": "91",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "50 के सभी गुणनखंडों का योग क्या है?",
+      "options": [
+        {
+          "option": "93",
+          "is_answer": true
+        },
+        {
+          "option": "96"
+        },
+        {
+          "option": "88"
+        },
+        {
+          "option": "90"
+        }
+      ]
+    },
+    {
+      "question": "60 के सभी गुणनखंडों का योग ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "168",
+          "is_answer": true
+        },
+        {
+          "option": "144"
+        },
+        {
+          "option": "150"
+        },
+        {
+          "option": "180"
+        }
+      ]
+    },
+    {
+      "question": "यदि N = 2^3 * 3^2 है, तो N के कुल गुणनखंडों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि N = 2^4 * 3^3 * 5^1 है, तो कुल गुणनखंडों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "40",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "45"
+        }
+      ]
+    },
+    {
+      "question": "420 के कुल गुणनखंडों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "24",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "48 के कुल गुणनखंडों की संख्या क्या है?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "90 के कुल गुणनखंडों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "28 के सभी गुणनखंडों का योग क्या है?",
+      "options": [
+        {
+          "option": "42"
+        },
+        {
+          "option": "56",
+          "is_answer": true
+        },
+        {
+          "option": "64"
+        },
+        {
+          "option": "48"
+        }
+      ]
+    },
+    {
+      "question": "64 के कुल गुणनखंडों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "यदि N = 2^5 * 5^2 है, तो N के कुल गुणनखंडों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "18",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "संख्या 72 के सम गुणनखंडों की कुल संख्या क्या है?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "72 के विषम गुणनखंडों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "संख्या 360 के कितने सम गुणनखंड हैं?",
+      "options": [
+        {
+          "option": "16"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "24"
+        }
+      ]
+    },
+    {
+      "question": "360 के विषम गुणनखंडों की गिनती क्या है?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "540 के सम गुणनखंडों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "540 के पास कितने विषम गुणनखंड हैं?",
+      "options": [
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "1000 के सम गुणनखंडों की संख्या क्या है?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "1000 के विषम गुणनखंडों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "200 के सम गुणनखंडों की संख्या की गणना करें।",
+      "options": [
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "200 के विषम गुणनखंडों की संख्या की गणना करें।",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "1080 के सम गुणनखंडों की कुल संख्या क्या है?",
+      "options": [
+        {
+          "option": "32"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "1080 के विषम गुणनखंडों की गिनती ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "संख्या 300 के कितने सम गुणनखंड हैं?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "300 के विषम गुणनखंडों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "450 के सम गुणनखंडों की संख्या क्या है?",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "450 के विषम गुणनखंडों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "संख्या 1200 के लिए कितने सम गुणनखंड हैं?",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "1200 के विषम गुणनखंडों की गिनती क्या है?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "900 के सम गुणनखंडों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "18",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "24"
+        }
+      ]
+    },
+    {
+      "question": "900 के विषम गुणनखंडों की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "यूलर के टोटिएंट फलन phi(10) का मान क्या है?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "15 से कम या उसके बराबर ऐसी धनात्मक पूर्णांक संख्याओं की संख्या ज्ञात कीजिए जो 15 के सह-अभाज्य (coprime) हों।",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "phi(p) क्या है जहाँ p एक अभाज्य संख्या (prime number) है?",
+      "options": [
+        {
+          "option": "p / 2"
+        },
+        {
+          "option": "p - 1",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "p"
+        }
+      ]
+    },
+    {
+      "question": "phi(7) का मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "परिपाटी के अनुसार phi(1) का मान क्या है?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "अनंत"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "अपरिभाषित"
+        }
+      ]
+    },
+    {
+      "question": "यूलर के टोटिएंट सूत्र का उपयोग करके phi(12) ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "phi(20) क्या है?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "यदि p एक अभाज्य संख्या है, तो phi(p^2) क्या है?",
+      "options": [
+        {
+          "option": "p^2 - 1"
+        },
+        {
+          "option": "p(p-1)"
+        },
+        {
+          "option": "p^2 - p",
+          "is_answer": true
+        },
+        {
+          "option": "p^2"
+        }
+      ]
+    },
+    {
+      "question": "phi(9) ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा phi(25) के बराबर है?",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "phi(30) का मान क्या है?",
+      "options": [
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "यूलर का टोटिएंट फलन phi(N) गुणनात्मक है। यदि gcd(a, b) = 1 है, तो phi(a * b) बराबर है:",
+      "options": [
+        {
+          "option": "phi(a) + phi(b)"
+        },
+        {
+          "option": "a * phi(b)"
+        },
+        {
+          "option": "phi(a + b)"
+        },
+        {
+          "option": "phi(a) * phi(b)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "phi(11) का मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "11"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "18 से छोटी और 18 के साथ सह-अभाज्य पूर्णांकों की संख्या कितनी है?",
+      "options": [
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "phi(16) ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "phi(14) क्या है?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "किसी भी अभाज्य संख्या p और पूर्णांक k >= 1 के लिए, phi(p^k) का सूत्र है:",
+      "options": [
+        {
+          "option": "k * phi(p)"
+        },
+        {
+          "option": "p^k - 1"
+        },
+        {
+          "option": "p^(k-1)"
+        },
+        {
+          "option": "p^k - p^(k-1)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "phi(21) का मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "14"
+        }
+      ]
+    },
+    {
+      "question": "phi(8) का मान क्या है?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "phi(27) ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "21"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "18",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "व्यंजक का मूल्यांकन करें: |5 - 8| + |3 - 7|",
+      "options": [
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "11"
+        },
+        {
+          "option": "-7"
+        }
+      ]
+    },
+    {
+      "question": "सरल करें: |-4| - |-9| + |5|",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "-8"
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "||-3 - 2| - |1 - 6|| का मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "-5"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "जब x = -2 हो, तो |x - 3| का मूल्यांकन करें।",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "-5"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "|2(-3) + 4| - |-5 + 2| का सरलीकृत मान क्या है?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "व्यंजक का मूल्यांकन करें: |-7| × |-2| / | -4 |",
+      "options": [
+        {
+          "option": "3.5",
+          "is_answer": true
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "-3.5"
+        }
+      ]
+    },
+    {
+      "question": "नेस्टेड निरपेक्ष मान को सरल करें: ||| -2 | - 5 | - 10 |",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "-7"
+        },
+        {
+          "option": "13"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि x = -4 और y = 6 हो, तो |x - y| का मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "-2"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "-10"
+        }
+      ]
+    },
+    {
+      "question": "जब x = 4 हो, तो |3 - x| + |x - 5| का मूल्यांकन करें।",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-2"
+        }
+      ]
+    },
+    {
+      "question": "सरल करें: | -12 / 4 | + | -20 / 5 |",
+      "options": [
+        {
+          "option": "-7"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "11"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "| 5 - | -5 || का मान क्या है?",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "-10"
+        }
+      ]
+    },
+    {
+      "question": "मूल्यांकन करें: -|-8| - (-|8|)",
+      "options": [
+        {
+          "option": "-16"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "व्यंजक को सरल करें: | 2x - 6 | जब x = 1 हो।",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "-4"
+        },
+        {
+          "option": "-8"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "| -9 + 4 | + | 3 - 8 | का मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "-10"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "मूल्यांकन करें: ||-6| - |2| | × | -3 |",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-12"
+        }
+      ]
+    },
+    {
+      "question": "सरल करें: |(-2) × (-3)| - |-5 + 2|",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "-3"
+        }
+      ]
+    },
+    {
+      "question": "यदि x = -5 और y = 3 हो, तो |x| + |y| - |x + y| का मान क्या है?",
+      "options": [
+        {
+          "option": "-6"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "मूल्यांकन करें: | 7 - 10 | × | 2 - 5 |",
+      "options": [
+        {
+          "option": "81"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "-9"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "सरल करें: ||-8| + |-2|| - |-5|",
+      "options": [
+        {
+          "option": "-5"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "11"
+        }
+      ]
+    },
+    {
+      "question": "जब x = 7 हो, तो | 3 - x | / | x - 3 | का मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "मान ज्ञात कीजिए: log_2(8) + log_2(4)",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "सरल कीजिए: log_3(81) - log_3(9)",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "log_5(125^2) का मान ज्ञात कीजिए",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "मान ज्ञात कीजिए: log_10(5) + log_10(20)",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "log_7(1) का मान क्या है?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "अपरिभाषित"
+        }
+      ]
+    },
+    {
+      "question": "आधार परिवर्तन नियम का उपयोग करके सरल कीजिए: log_2(9) * log_3(8)",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "मान ज्ञात कीजिए: log_4(64) / log_4(4)",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "यदि log_x(64) = 3 है, तो x ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "सरल कीजिए: 2 log_10(5) + log_10(4)",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "मान ज्ञात कीजिए: log_2(32) - log_2(16) + log_2(8)",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "log_a(a^5) का मान क्या है?",
+      "options": [
+        {
+          "option": "a"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "5a"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "सरल कीजिए: log_10(1000) - 2 log_10(10)",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "मान ज्ञात कीजिए: log_3(1/27)",
+      "options": [
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "-3",
+          "is_answer": true
+        },
+        {
+          "option": "-1/3"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "यदि log_3(x) = 4 है तो x ज्ञात कीजिए",
+      "options": [
+        {
+          "option": "81",
+          "is_answer": true
+        },
+        {
+          "option": "27"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "64"
+        }
+      ]
+    },
+    {
+      "question": "मान ज्ञात कीजिए: log_5(625) + log_6(216)",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "11"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "सरल कीजिए: log_2(3) + log_2(4) - log_2(6)",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "3 * log_10(2) + log_10(125) का मान क्या है?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "मान ज्ञात कीजिए: log_10(0.01)",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "-2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "log_2(log_3(81)) का मान ज्ञात कीजिए",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "सरल कीजिए: log_a(b) * log_b(c) * log_c(a)",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "a+b+c"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "abc"
+        }
+      ]
+    },
+    {
+      "question": "सरल कीजिए: $\\sqrt{5 + 2\\sqrt{6}} + \\sqrt{8 - 2\\sqrt{15}}$",
+      "options": [
+        {
+          "option": "\\sqrt{2} + \\sqrt{3}"
+        },
+        {
+          "option": "\\sqrt{5} - \\sqrt{2}"
+        },
+        {
+          "option": "2\\sqrt{3}"
+        },
+        {
+          "option": "\\sqrt{3} + \\sqrt{5}",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "मान ज्ञात कीजिए: $\\frac{1}{3 + \\sqrt{8}} - \\frac{1}{\\sqrt{8} + \\sqrt{7}} + \\frac{1}{\\sqrt{7} + \\sqrt{6}} - \\frac{1}{\\sqrt{6} + \\sqrt{5}} + \\frac{1}{\\sqrt{5} + 2}$",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "\\sqrt{5}"
+        }
+      ]
+    },
+    {
+      "question": "मूल्य ज्ञात कीजिए: $\\left(1 - \\frac{1}{3}\\right)\\left(1 - \\frac{1}{4}\\right)\\left(1 - \\frac{1}{5}\\right)\\dots\\left(1 - \\frac{1}{n}\\right)$ जब $n=100$",
+      "options": [
+        {
+          "option": "\\frac{1}{99}"
+        },
+        {
+          "option": "\\frac{1}{100}",
+          "is_answer": true
+        },
+        {
+          "option": "\\frac{1}{50}"
+        },
+        {
+          "option": "\\frac{2}{99}"
+        }
+      ]
+    },
+    {
+      "question": "यदि $x = \\frac{\\sqrt{5} + 1}{\\sqrt{5} - 1}$ और $y = \\frac{\\sqrt{5} - 1}{\\sqrt{5} + 1}$ है, तो $x^2 + y^2 + xy$ का मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "सरल कीजिए: $\\sqrt[3]{175616} + \\sqrt{4624} - \\sqrt[4]{1296}$",
+      "options": [
+        {
+          "option": "102"
+        },
+        {
+          "option": "94"
+        },
+        {
+          "option": "98",
+          "is_answer": true
+        },
+        {
+          "option": "106"
+        }
+      ]
+    },
+    {
+      "question": "मूल्य ज्ञात कीजिए: $\\frac{(0.05)^2 + (0.41)^2 + (0.073)^2}{(0.005)^2 + (0.041)^2 + (0.0073)^2}$",
+      "options": [
+        {
+          "option": "1000"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "100",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "सरल कीजिए: $\\left[\\left(-\\frac{1}{2}\\right)^{-2}\\right]^{-2}$",
+      "options": [
+        {
+          "option": "16"
+        },
+        {
+          "option": "-\\frac{1}{16}"
+        },
+        {
+          "option": "-16"
+        },
+        {
+          "option": "\\frac{1}{16}",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "मान ज्ञात कीजिए: $\\sqrt{12 + \\sqrt{12 + \\sqrt{12 + \\dots \\infty}}}$",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "2\\sqrt{3}"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "सरल कीजिए: $\\frac{3.75 \\times 3.75 - 2.25 \\times 2.25}{3.75 + 2.25}$",
+      "options": [
+        {
+          "option": "2.5"
+        },
+        {
+          "option": "1.5",
+          "is_answer": true
+        },
+        {
+          "option": "1.2"
+        },
+        {
+          "option": "6.0"
+        }
+      ]
+    },
+    {
+      "question": "मूल्य ज्ञात कीजिए: $\\sqrt{7 + \\sqrt{5}} \\times \\sqrt{7 - \\sqrt{5}}$",
+      "options": [
+        {
+          "option": "44"
+        },
+        {
+          "option": "\\sqrt{44}"
+        },
+        {
+          "option": "2\\sqrt{6}"
+        },
+        {
+          "option": "2\\sqrt{11}",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि $x = 3 + 2\\sqrt{2}$ है, तो $\\sqrt{x} - \\frac{1}{\\sqrt{x}}$ का मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "2\\sqrt{2}"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "\\sqrt{2}"
+        }
+      ]
+    },
+    {
+      "question": "सरल कीजिए: $\\frac{0.1 \\times 0.1 \\times 0.1 + 0.02 \\times 0.02 \\times 0.02}{0.2 \\times 0.2 \\times 0.2 + 0.04 \\times 0.04 \\times 0.04}$",
+      "options": [
+        {
+          "option": "\\frac{1}{4}"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "\\frac{1}{8}",
+          "is_answer": true
+        },
+        {
+          "option": "\\frac{1}{2}"
+        }
+      ]
+    },
+    {
+      "question": "मान ज्ञात कीजिए: $7^{0.5} \\times 343^{1/3} \\times 49^{0.25} \\div 7^{1.5}$",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "49"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "\\frac{1}{7}"
+        }
+      ]
+    },
+    {
+      "question": "मूल्य ज्ञात कीजिए: $\\left(1 + \\frac{1}{10}\right)\\left(1 + \\frac{1}{11}\right)\\left(1 + \\frac{1}{12}\right)\\dots\\left(1 + \\frac{1}{99}\right)$",
+      "options": [
+        {
+          "option": "\\frac{99}{10}"
+        },
+        {
+          "option": "11"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "सरल कीजिए: $\\frac{5.32 \\times 5.32 + 4.68 \\times 4.68 + 2 \\times 5.32 \\times 4.68}{5.32 \\times 5.32 - 4.68 \\times 4.68}$",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "15.625",
+          "is_answer": true
+        },
+        {
+          "option": "12.5"
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "यदि $x + \\frac{1}{x} = 5$ है, तो $\\frac{x^4 + 3x^3 + 5x^2 + 3x + 1}{x^4 + 1}$ का मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "\\frac{65}{23}"
+        },
+        {
+          "option": "\\frac{47}{21}"
+        },
+        {
+          "option": "\\frac{51}{23}"
+        },
+        {
+          "option": "\\frac{63}{23}",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "मूल्य ज्ञात कीजिए: $\\sqrt[3]{500} \\times \\sqrt[3]{54} \\times \\sqrt[3]{16} \\div \\sqrt[3]{24}$",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "40"
+        }
+      ]
+    },
+    {
+      "question": "सरल कीजिए: $\\frac{1}{1 + \\frac{1}{1 + \\frac{1}{1 + \\frac{1}{2}}}}$",
+      "options": [
+        {
+          "option": "\\frac{3}{5}"
+        },
+        {
+          "option": "\\frac{8}{5}"
+        },
+        {
+          "option": "\\frac{5}{3}"
+        },
+        {
+          "option": "\\frac{5}{8}",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "यदि $a + b + c = 9$ और $ab + bc + ca = 26$ है, तो $a^3 + b^3 + c^3 - 3abc$ का मान ज्ञात कीजिए।",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "81"
+        },
+        {
+          "option": "27",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "मान ज्ञात कीजिए: $\\sqrt{56 - \\sqrt{56 - \\sqrt{56 - \\dots \\infty}}}$",
+      "options": [
+        {
+          "option": "14"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    }
+  ]
+}

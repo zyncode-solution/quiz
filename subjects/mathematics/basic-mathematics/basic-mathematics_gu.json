@@ -1,0 +1,9005 @@
+{
+  "total_questions": 500,
+  "questions": [
+    {
+      "question": "ગણતરી કરો: 5 + (3 * 2)",
+      "options": [
+        {
+          "option": "11",
+          "is_answer": true
+        },
+        {
+          "option": "13"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "ગણતરી કરો: (10 - 2) / 4",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "ગણતરી કરો: 2 * (3 + 4)",
+      "options": [
+        {
+          "option": "14",
+          "is_answer": true
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "ગણતરી કરો: 15 - (2 + 3)",
+      "options": [
+        {
+          "option": "14"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "ગણતરી કરો: 20 / (2 * 5)",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "50"
+        }
+      ]
+    },
+    {
+      "question": "ગણતરી કરો: 3 * (4 + 2) - 5",
+      "options": [
+        {
+          "option": "13",
+          "is_answer": true
+        },
+        {
+          "option": "11"
+        },
+        {
+          "option": "17"
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "ગણતરી કરો: 8 + [4 * (3 - 1)]",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "16",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "ગણતરી કરો: (12 / 3) + (2 * 5)",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "14",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "ગણતરી કરો: 5 * {2 + (6 / 3)}",
+      "options": [
+        {
+          "option": "16"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "ગણતરી કરો: (10 + 5) / (3 + 2)",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "ગણતરી કરો: 2 * [10 - (2 * 3)]",
+      "options": [
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "14"
+        }
+      ]
+    },
+    {
+      "question": "ગણતરી કરો: 4 + 3 * (2 + 1)",
+      "options": [
+        {
+          "option": "13",
+          "is_answer": true
+        },
+        {
+          "option": "21"
+        },
+        {
+          "option": "11"
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "ગણતરી કરો: (8 - 2) * (5 + 1)",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "42"
+        },
+        {
+          "option": "36",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "ગણતરી કરો: 100 / (10 * 2)",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "ગણતરી કરો: 7 + (3 * 4) - 2",
+      "options": [
+        {
+          "option": "19"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "17",
+          "is_answer": true
+        },
+        {
+          "option": "21"
+        }
+      ]
+    },
+    {
+      "question": "ગણતરી કરો: 2 * {5 + [3 * (2 + 1)]}",
+      "options": [
+        {
+          "option": "32"
+        },
+        {
+          "option": "28",
+          "is_answer": true
+        },
+        {
+          "option": "22"
+        },
+        {
+          "option": "26"
+        }
+      ]
+    },
+    {
+      "question": "ગણતરી કરો: (15 - 5) / 2 + 3",
+      "options": [
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "ગણતરી કરો: 6 * (2 + 3) - 4",
+      "options": [
+        {
+          "option": "22"
+        },
+        {
+          "option": "28"
+        },
+        {
+          "option": "26",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "ગણતરી કરો: 10 + (2 * (5 - 3))",
+      "options": [
+        {
+          "option": "14",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "18"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "ગણતરી કરો: (20 / 4) * (3 + 2)",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "25",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "-7 નું નિરપેક્ષ મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "-7"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "સંખ્યા રેખા પર, ધન સંખ્યાઓ દર્શાવવા માટે તમે કઈ દિશામાં આગળ વધો છો?",
+      "options": [
+        {
+          "option": "ડાબી બાજુ"
+        },
+        {
+          "option": "જમણી બાજુ",
+          "is_answer": true
+        },
+        {
+          "option": "ઉપર"
+        },
+        {
+          "option": "નીચે"
+        }
+      ]
+    },
+    {
+      "question": "સંખ્યા રેખા પર 0 થી -5 નું અંતર કેટલું છે?",
+      "options": [
+        {
+          "option": "5 એકમ",
+          "is_answer": true
+        },
+        {
+          "option": "0 એકમ"
+        },
+        {
+          "option": "-5 એકમ"
+        },
+        {
+          "option": "10 એકમ"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કયું |12| ની બરાબર છે?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-12"
+        }
+      ]
+    },
+    {
+      "question": "|0| નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "અવ્યાખ્યાયિત"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "સંખ્યા રેખા પર -2 ની ડાબી બાજુએ કઈ સંખ્યા આવેલી છે?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "-3",
+          "is_answer": true
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "જો |x| = 9 હોય, તો x નું મૂલ્ય શું હોઈ શકે?",
+      "options": [
+        {
+          "option": "9 અથવા -9",
+          "is_answer": true
+        },
+        {
+          "option": "માત્ર 9"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "માત્ર -9"
+        }
+      ]
+    },
+    {
+      "question": "કયો પૂર્ણાંક મોટો છે: -3 કે -10?",
+      "options": [
+        {
+          "option": "બંને સમાન છે"
+        },
+        {
+          "option": "એક પણ નહીં"
+        },
+        {
+          "option": "-3",
+          "is_answer": true
+        },
+        {
+          "option": "-10"
+        }
+      ]
+    },
+    {
+      "question": "15 નું નિરપેક્ષ મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "-15"
+        }
+      ]
+    },
+    {
+      "question": "સંખ્યા રેખા પર, ઋણ સંખ્યાઓ શૂન્યની કઈ બાજુએ આવેલી છે?",
+      "options": [
+        {
+          "option": "જમણી બાજુ"
+        },
+        {
+          "option": "ઉપર"
+        },
+        {
+          "option": "નીચે"
+        },
+        {
+          "option": "ડાબી બાજુ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "|-8| + |-2| નું પરિણામ શું છે?",
+      "options": [
+        {
+          "option": "-6"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "-10"
+        }
+      ]
+    },
+    {
+      "question": "આ સંખ્યાઓમાંથી કઈ સંખ્યા રેખા પર શૂન્યથી સૌથી દૂર છે?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "-10",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "-|5| નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "-5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "સંખ્યા રેખા પર -4 અને -2 ની વચ્ચે કઈ સંખ્યા છે?",
+      "options": [
+        {
+          "option": "-1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-3",
+          "is_answer": true
+        },
+        {
+          "option": "-5"
+        }
+      ]
+    },
+    {
+      "question": "-100 નું નિરપેક્ષ મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "-100"
+        },
+        {
+          "option": "100",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "નિરપેક્ષ મૂલ્યના સંદર્ભમાં કયું વિધાન સાચું છે?",
+      "options": [
+        {
+          "option": "તે હંમેશા બિન-ઋણ હોય છે",
+          "is_answer": true
+        },
+        {
+          "option": "તે હંમેશા શૂન્ય હોય છે"
+        },
+        {
+          "option": "તે ફક્ત અપૂર્ણાંકો માટે છે"
+        },
+        {
+          "option": "તે ઋણ હોઈ શકે છે"
+        }
+      ]
+    },
+    {
+      "question": "સંખ્યા રેખા પર -3 અને 2 વચ્ચેનું અંતર કેટલું છે?",
+      "options": [
+        {
+          "option": "-1 એકમ"
+        },
+        {
+          "option": "1 એકમ"
+        },
+        {
+          "option": "6 એકમ"
+        },
+        {
+          "option": "5 એકમ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "6 ની વિરોધી સંખ્યા કઈ છે?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "1/6"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "| -4 | - | 2 | શું થાય?",
+      "options": [
+        {
+          "option": "-2"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "-6"
+        }
+      ]
+    },
+    {
+      "question": "આમાંથી કઈ ધન પૂર્ણાંક સંખ્યા છે?",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "-5"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "કઈ સંખ્યાઓનો સમૂહ પૂર્ણ સંખ્યાઓ (W) નો ઉપગણ છે?",
+      "options": [
+        {
+          "option": "અસંમેય સંખ્યાઓ"
+        },
+        {
+          "option": "સંમેય સંખ્યાઓ (Q)"
+        },
+        {
+          "option": "પ્રાકૃતિક સંખ્યાઓ (N)",
+          "is_answer": true
+        },
+        {
+          "option": "પૂર્ણાંક સંખ્યાઓ (Z)"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કઈ અસંમેય સંખ્યા છે?",
+      "options": [
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "વર્ગમૂળમાં 2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "દરેક પૂર્ણાંક સંખ્યા એ પણ એક:",
+      "options": [
+        {
+          "option": "સંમેય સંખ્યા છે",
+          "is_answer": true
+        },
+        {
+          "option": "પ્રાકૃતિક સંખ્યા છે"
+        },
+        {
+          "option": "પૂર્ણ સંખ્યા છે"
+        },
+        {
+          "option": "અસંમેય સંખ્યા છે"
+        }
+      ]
+    },
+    {
+      "question": "કયા સમૂહમાં તમામ પ્રાકૃતિક, પૂર્ણ, પૂર્ણાંક અને સંમેય સંખ્યાઓનો સમાવેશ થાય છે?",
+      "options": [
+        {
+          "option": "પૂર્ણ સંખ્યાઓ (W)"
+        },
+        {
+          "option": "વાસ્તવિક સંખ્યાઓ (R)",
+          "is_answer": true
+        },
+        {
+          "option": "પૂર્ણાંક સંખ્યાઓ (Z)"
+        },
+        {
+          "option": "પ્રાકૃતિક સંખ્યાઓ (N)"
+        }
+      ]
+    },
+    {
+      "question": "શું સંખ્યા 0 એ પૂર્ણ સંખ્યા છે?",
+      "options": [
+        {
+          "option": "ના, તે અસંમેય સંખ્યા છે"
+        },
+        {
+          "option": "ના, તે પ્રાકૃતિક સંખ્યા છે"
+        },
+        {
+          "option": "હા",
+          "is_answer": true
+        },
+        {
+          "option": "ના, તે સંખ્યા નથી"
+        }
+      ]
+    },
+    {
+      "question": "આમાંથી કઈ સંમેય સંખ્યા નથી?",
+      "options": [
+        {
+          "option": "2/3"
+        },
+        {
+          "option": "પાઈ (π)",
+          "is_answer": true
+        },
+        {
+          "option": "0.75"
+        },
+        {
+          "option": "-5"
+        }
+      ]
+    },
+    {
+      "question": "પ્રાકૃતિક સંખ્યાઓ (N) નો સમૂહ ક્યાંથી શરૂ થાય છે?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કયું પૂર્ણાંક સંખ્યાઓ (Z) નો ઉપગણ છે?",
+      "options": [
+        {
+          "option": "વાસ્તવિક સંખ્યાઓ (R)"
+        },
+        {
+          "option": "ઉપરનામાંથી કોઈ નહીં"
+        },
+        {
+          "option": "અસંમેય સંખ્યાઓ"
+        },
+        {
+          "option": "પૂર્ણ સંખ્યાઓ (W)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "શું બધી સંમેય સંખ્યાઓ વાસ્તવિક સંખ્યાઓ પણ છે?",
+      "options": [
+        {
+          "option": "માત્ર ઋણ સંખ્યાઓ"
+        },
+        {
+          "option": "ના"
+        },
+        {
+          "option": "હા",
+          "is_answer": true
+        },
+        {
+          "option": "માત્ર ધન સંખ્યાઓ"
+        }
+      ]
+    },
+    {
+      "question": "કઈ સંખ્યા પૂર્ણાંક છે પણ પ્રાકૃતિક નથી?",
+      "options": [
+        {
+          "option": "-3",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "અસંમેય સંખ્યાનું દશાંશ સ્વરૂપ કેવું હોય છે?",
+      "options": [
+        {
+          "option": "અનંત અને અનાવૃત",
+          "is_answer": true
+        },
+        {
+          "option": "શાંત"
+        },
+        {
+          "option": "આવૃત"
+        },
+        {
+          "option": "સીમિત"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કઈ સંમેય સંખ્યા છે?",
+      "options": [
+        {
+          "option": "0.333...",
+          "is_answer": true
+        },
+        {
+          "option": "પાઈ"
+        },
+        {
+          "option": "વર્ગમૂળમાં 3"
+        },
+        {
+          "option": "વર્ગમૂળમાં 5"
+        }
+      ]
+    },
+    {
+      "question": "વાસ્તવિક સંખ્યાઓ (R) નો સમૂહ શેનો બનેલો છે?",
+      "options": [
+        {
+          "option": "પ્રાકૃતિક અને પૂર્ણ સંખ્યાઓ"
+        },
+        {
+          "option": "સંમેય અને અસંમેય સંખ્યાઓ",
+          "is_answer": true
+        },
+        {
+          "option": "પૂર્ણાંક અને પ્રાકૃતિક સંખ્યાઓ"
+        },
+        {
+          "option": "માત્ર સંમેય સંખ્યાઓ"
+        }
+      ]
+    },
+    {
+      "question": "શું -5 એ સંમેય સંખ્યા છે?",
+      "options": [
+        {
+          "option": "ના, તે પૂર્ણાંક છે"
+        },
+        {
+          "option": "હા, કારણ કે તેને -5/1 તરીકે લખી શકાય છે",
+          "is_answer": true
+        },
+        {
+          "option": "ના, તે અસંમેય છે"
+        },
+        {
+          "option": "ના, તે ઋણ સંખ્યા છે"
+        }
+      ]
+    },
+    {
+      "question": "કયું ચિહ્ન પૂર્ણાંક સંખ્યાઓના સમૂહને દર્શાવે છે?",
+      "options": [
+        {
+          "option": "W"
+        },
+        {
+          "option": "Z",
+          "is_answer": true
+        },
+        {
+          "option": "N"
+        },
+        {
+          "option": "Q"
+        }
+      ]
+    },
+    {
+      "question": "શું બધી પૂર્ણ સંખ્યાઓ પ્રાકૃતિક સંખ્યાઓ પણ છે?",
+      "options": [
+        {
+          "option": "હા, તે સમાન છે"
+        },
+        {
+          "option": "હા, પણ માત્ર ધન સંખ્યાઓ"
+        },
+        {
+          "option": "ના, કારણ કે 0 એ પૂર્ણ સંખ્યા છે પણ પ્રાકૃતિક નથી",
+          "is_answer": true
+        },
+        {
+          "option": "ના, કારણ કે પ્રાકૃતિક સંખ્યાઓ મોટી છે"
+        }
+      ]
+    },
+    {
+      "question": "આમાંથી કયું સંમેય સંખ્યાઓ (Q) નો ઉપગણ છે?",
+      "options": [
+        {
+          "option": "અસંમેય સંખ્યાઓ"
+        },
+        {
+          "option": "વાસ્તવિક સંખ્યાઓ (R)"
+        },
+        {
+          "option": "ઉપરનામાંથી કોઈ નહીં"
+        },
+        {
+          "option": "પૂર્ણાંક સંખ્યાઓ (Z)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "સૌથી નાની પ્રાકૃતિક સંખ્યા કઈ છે?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "શું કોઈ સંખ્યા સંમેય અને અસંમેય બંને હોઈ શકે?",
+      "options": [
+        {
+          "option": "ના",
+          "is_answer": true
+        },
+        {
+          "option": "માત્ર જો તે 1 હોય"
+        },
+        {
+          "option": "હા"
+        },
+        {
+          "option": "માત્ર જો તે 0 હોય"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કઈ વાસ્તવિક સંખ્યા છે?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "બધા જ વિકલ્પો",
+          "is_answer": true
+        },
+        {
+          "option": "વર્ગમૂળમાં 2"
+        },
+        {
+          "option": "-2/3"
+        }
+      ]
+    },
+    {
+      "question": "'ટકા' (percent) શબ્દનો શાબ્દિક અર્થ શું થાય છે?",
+      "options": [
+        {
+          "option": "સો દીઠ",
+          "is_answer": true
+        },
+        {
+          "option": "હજાર દીઠ"
+        },
+        {
+          "option": "એકમ દીઠ"
+        },
+        {
+          "option": "દસ દીઠ"
+        }
+      ]
+    },
+    {
+      "question": "જો એક ચોરસ ગ્રીડમાં 100 ખાના હોય અને 25 છાયાંકિત હોય, તો કેટલા ટકા ભાગ છાયાંકિત છે?",
+      "options": [
+        {
+          "option": "250%"
+        },
+        {
+          "option": "25%",
+          "is_answer": true
+        },
+        {
+          "option": "0.25%"
+        },
+        {
+          "option": "2.5%"
+        }
+      ]
+    },
+    {
+      "question": "અપૂર્ણાંક 1/2 ને ટકામાં ફેરવો.",
+      "options": [
+        {
+          "option": "5%"
+        },
+        {
+          "option": "12%"
+        },
+        {
+          "option": "50%",
+          "is_answer": true
+        },
+        {
+          "option": "20%"
+        }
+      ]
+    },
+    {
+      "question": "0.75 ને ટકામાં કેવી રીતે દર્શાવશો?",
+      "options": [
+        {
+          "option": "7.5%"
+        },
+        {
+          "option": "0.75%"
+        },
+        {
+          "option": "75%",
+          "is_answer": true
+        },
+        {
+          "option": "750%"
+        }
+      ]
+    },
+    {
+      "question": "કયો અપૂર્ણાંક 20% ને સમાન છે?",
+      "options": [
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "1/5",
+          "is_answer": true
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "1/10"
+        }
+      ]
+    },
+    {
+      "question": "50 ના 100% કેટલા થાય?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "100"
+        },
+        {
+          "option": "50",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "4/100 ને ટકામાં દર્શાવો.",
+      "options": [
+        {
+          "option": "0.4%"
+        },
+        {
+          "option": "400%"
+        },
+        {
+          "option": "40%"
+        },
+        {
+          "option": "4%",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "200 ના 1% કેટલા થાય?",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "0.2"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "કયો દશાંશ 5% ને સમાન છે?",
+      "options": [
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0.005"
+        },
+        {
+          "option": "0.05",
+          "is_answer": true
+        },
+        {
+          "option": "5.0"
+        }
+      ]
+    },
+    {
+      "question": "જો તમારી પાસે 100 સફરજનમાંથી 10 સફરજન હોય, તો તમારી પાસે કેટલા ટકા સફરજન છે?",
+      "options": [
+        {
+          "option": "100%"
+        },
+        {
+          "option": "1%"
+        },
+        {
+          "option": "0.1%"
+        },
+        {
+          "option": "10%",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "1/4 ને ટકામાં કેટલા કહેવાય?",
+      "options": [
+        {
+          "option": "25%",
+          "is_answer": true
+        },
+        {
+          "option": "2.5%"
+        },
+        {
+          "option": "40%"
+        },
+        {
+          "option": "4%"
+        }
+      ]
+    },
+    {
+      "question": "આમાંથી કઈ કિંમત સૌથી મોટી છે?",
+      "options": [
+        {
+          "option": "1/10"
+        },
+        {
+          "option": "5%"
+        },
+        {
+          "option": "50%",
+          "is_answer": true
+        },
+        {
+          "option": "0.05"
+        }
+      ]
+    },
+    {
+      "question": "0.1 ને ટકામાં કેવી રીતે લખાય?",
+      "options": [
+        {
+          "option": "0.1%"
+        },
+        {
+          "option": "10%",
+          "is_answer": true
+        },
+        {
+          "option": "100%"
+        },
+        {
+          "option": "1%"
+        }
+      ]
+    },
+    {
+      "question": "100 ના 3/4 કેટલા થાય?",
+      "options": [
+        {
+          "option": "7.5"
+        },
+        {
+          "option": "75",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "34"
+        }
+      ]
+    },
+    {
+      "question": "10 ના 200% કેટલા થાય?",
+      "options": [
+        {
+          "option": "40"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "100"
+        }
+      ]
+    },
+    {
+      "question": "1/10 ને ટકામાં કેવી રીતે દર્શાવશો?",
+      "options": [
+        {
+          "option": "10%",
+          "is_answer": true
+        },
+        {
+          "option": "0.1%"
+        },
+        {
+          "option": "1%"
+        },
+        {
+          "option": "100%"
+        }
+      ]
+    },
+    {
+      "question": "જો 100 માંથી 80 વિદ્યાર્થીઓ પાસ થયા હોય, તો પાસ થવાની ટકાવારી કેટલી છે?",
+      "options": [
+        {
+          "option": "80%",
+          "is_answer": true
+        },
+        {
+          "option": "20%"
+        },
+        {
+          "option": "8%"
+        },
+        {
+          "option": "0.8%"
+        }
+      ]
+    },
+    {
+      "question": "0.01 ને ટકામાં કેટલા કહેવાય?",
+      "options": [
+        {
+          "option": "1%",
+          "is_answer": true
+        },
+        {
+          "option": "0.1%"
+        },
+        {
+          "option": "100%"
+        },
+        {
+          "option": "10%"
+        }
+      ]
+    },
+    {
+      "question": "કયો અપૂર્ણાંક 75% ને સમાન છે?",
+      "options": [
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "7/5"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "3/4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "200 ના 50% કેટલા થાય?",
+      "options": [
+        {
+          "option": "200"
+        },
+        {
+          "option": "100",
+          "is_answer": true
+        },
+        {
+          "option": "50"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "3/4 અપૂર્ણાંકમાં છેદ કયો છે?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "કયો અપૂર્ણાંક 1/2 ને સમાન છે?",
+      "options": [
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "3/5"
+        },
+        {
+          "option": "2/3"
+        },
+        {
+          "option": "2/4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "4/8 અપૂર્ણાંકને તેના સૌથી નાના સ્વરૂપમાં ફેરવો.",
+      "options": [
+        {
+          "option": "2/4"
+        },
+        {
+          "option": "2/8"
+        },
+        {
+          "option": "1/2",
+          "is_answer": true
+        },
+        {
+          "option": "1/4"
+        }
+      ]
+    },
+    {
+      "question": "જો તમે 2/3 ના અંશ અને છેદને 2 વડે ગુણો, તો નવો અપૂર્ણાંક શું મળે?",
+      "options": [
+        {
+          "option": "2/5"
+        },
+        {
+          "option": "4/6",
+          "is_answer": true
+        },
+        {
+          "option": "4/3"
+        },
+        {
+          "option": "2/6"
+        }
+      ]
+    },
+    {
+      "question": "4 સમાન ભાગોમાં વહેંચાયેલા વર્તુળના 3 ભાગ છાયાંકિત હોય, તો તે કયો અપૂર્ણાંક દર્શાવે છે?",
+      "options": [
+        {
+          "option": "4/3"
+        },
+        {
+          "option": "3/4",
+          "is_answer": true
+        },
+        {
+          "option": "3/1"
+        },
+        {
+          "option": "1/4"
+        }
+      ]
+    },
+    {
+      "question": "5/9 અપૂર્ણાંકમાં અંશ કયો છે?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        }
+      ]
+    },
+    {
+      "question": "આમાંથી કયો અપૂર્ણાંક 1/3 ને સમાન નથી?",
+      "options": [
+        {
+          "option": "3/9"
+        },
+        {
+          "option": "2/6"
+        },
+        {
+          "option": "4/12"
+        },
+        {
+          "option": "2/9",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "6/9 ને અતિસંક્ષિપ્ત રૂપમાં લખો.",
+      "options": [
+        {
+          "option": "2/3",
+          "is_answer": true
+        },
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "3/4"
+        },
+        {
+          "option": "2/9"
+        }
+      ]
+    },
+    {
+      "question": "સમાન અપૂર્ણાંક શોધવા માટે, તમે અંશ અને છેદને સમાન ... વડે ગુણી શકો છો.",
+      "options": [
+        {
+          "option": "ઋણ ચિહ્ન"
+        },
+        {
+          "option": "શૂન્ય સિવાયની સંખ્યા",
+          "is_answer": true
+        },
+        {
+          "option": "અપૂર્ણાંક"
+        },
+        {
+          "option": "શૂન્ય"
+        }
+      ]
+    },
+    {
+      "question": "કયો અપૂર્ણાંક 3/5 ને સમાન છે?",
+      "options": [
+        {
+          "option": "9/20"
+        },
+        {
+          "option": "6/10",
+          "is_answer": true
+        },
+        {
+          "option": "3/10"
+        },
+        {
+          "option": "5/3"
+        }
+      ]
+    },
+    {
+      "question": "જો એક લંબચોરસને 5 સમાન ભાગોમાં વહેંચવામાં આવે અને 2 ભાગ છાયાંકિત હોય, તો અપૂર્ણાંક શું થાય?",
+      "options": [
+        {
+          "option": "2/3"
+        },
+        {
+          "option": "2/5",
+          "is_answer": true
+        },
+        {
+          "option": "5/2"
+        },
+        {
+          "option": "3/5"
+        }
+      ]
+    },
+    {
+      "question": "10/20 નું સૌથી સરળ સ્વરૂપ શું છે?",
+      "options": [
+        {
+          "option": "1/2",
+          "is_answer": true
+        },
+        {
+          "option": "2/10"
+        },
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "5/10"
+        }
+      ]
+    },
+    {
+      "question": "કયો અપૂર્ણાંક 4/6 ને સમાન છે?",
+      "options": [
+        {
+          "option": "6/4"
+        },
+        {
+          "option": "3/2"
+        },
+        {
+          "option": "2/3",
+          "is_answer": true
+        },
+        {
+          "option": "4/3"
+        }
+      ]
+    },
+    {
+      "question": "જો તમે 8/12 ના અંશ અને છેદને 4 વડે ભાગો, તો શું મળે?",
+      "options": [
+        {
+          "option": "4/3"
+        },
+        {
+          "option": "2/3",
+          "is_answer": true
+        },
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "2/4"
+        }
+      ]
+    },
+    {
+      "question": "આમાંથી કયો અપૂર્ણાંક 1 ની બરાબર છે?",
+      "options": [
+        {
+          "option": "1/5"
+        },
+        {
+          "option": "5/5",
+          "is_answer": true
+        },
+        {
+          "option": "5/1"
+        },
+        {
+          "option": "0/5"
+        }
+      ]
+    },
+    {
+      "question": "અપૂર્ણાંકની લીટીની ઉપરની સંખ્યાને શું કહેવાય છે?",
+      "options": [
+        {
+          "option": "દશાંશ"
+        },
+        {
+          "option": "છેદ"
+        },
+        {
+          "option": "પૂર્ણ સંખ્યા"
+        },
+        {
+          "option": "અંશ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "કયો અપૂર્ણાંક 2/7 ને સમાન છે?",
+      "options": [
+        {
+          "option": "4/14",
+          "is_answer": true
+        },
+        {
+          "option": "7/2"
+        },
+        {
+          "option": "2/14"
+        },
+        {
+          "option": "4/7"
+        }
+      ]
+    },
+    {
+      "question": "5/15 ને અતિસંક્ષિપ્ત રૂપમાં લખો.",
+      "options": [
+        {
+          "option": "1/3",
+          "is_answer": true
+        },
+        {
+          "option": "3/5"
+        },
+        {
+          "option": "1/5"
+        },
+        {
+          "option": "5/3"
+        }
+      ]
+    },
+    {
+      "question": "જો તમે 3/4 ને 3/3 વડે ગુણો, તો પરિણામ શું મળે?",
+      "options": [
+        {
+          "option": "3/12"
+        },
+        {
+          "option": "9/4"
+        },
+        {
+          "option": "9/12",
+          "is_answer": true
+        },
+        {
+          "option": "6/7"
+        }
+      ]
+    },
+    {
+      "question": "કયો અપૂર્ણાંક 5/10 ને સમાન છે?",
+      "options": [
+        {
+          "option": "1/2",
+          "is_answer": true
+        },
+        {
+          "option": "1/5"
+        },
+        {
+          "option": "2/5"
+        },
+        {
+          "option": "5/2"
+        }
+      ]
+    },
+    {
+      "question": "0.472 સંખ્યામાં 7 અંકની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "7 એકમ"
+        },
+        {
+          "option": "7 સહસ્ત્રાંશ"
+        },
+        {
+          "option": "7 શતાંશ",
+          "is_answer": true
+        },
+        {
+          "option": "7 દશાંશ"
+        }
+      ]
+    },
+    {
+      "question": "કયો દશાંશ 5 દશાંશ અને 3 સહસ્ત્રાંશ દર્શાવે છે?",
+      "options": [
+        {
+          "option": "0.053"
+        },
+        {
+          "option": "0.53"
+        },
+        {
+          "option": "0.503",
+          "is_answer": true
+        },
+        {
+          "option": "5.003"
+        }
+      ]
+    },
+    {
+      "question": "0.246 નું વિસ્તૃત સ્વરૂપ શું છે?",
+      "options": [
+        {
+          "option": "2 + 4 + 6"
+        },
+        {
+          "option": "0.2 + 0.4 + 0.6"
+        },
+        {
+          "option": "0.2 + 0.04 + 0.006",
+          "is_answer": true
+        },
+        {
+          "option": "0.02 + 0.004 + 0.0006"
+        }
+      ]
+    },
+    {
+      "question": "કઈ સંખ્યા મોટી છે: 0.45 કે 0.452?",
+      "options": [
+        {
+          "option": "0.4"
+        },
+        {
+          "option": "0.452",
+          "is_answer": true
+        },
+        {
+          "option": "0.45"
+        },
+        {
+          "option": "બંને સમાન છે"
+        }
+      ]
+    },
+    {
+      "question": "8.195 સંખ્યામાં, કયો અંક શતાંશના સ્થાને છે?",
+      "options": [
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "0.8 ને અપૂર્ણાંક તરીકે કેવી રીતે લખાય?",
+      "options": [
+        {
+          "option": "80/10"
+        },
+        {
+          "option": "8/100"
+        },
+        {
+          "option": "8/10",
+          "is_answer": true
+        },
+        {
+          "option": "8/1000"
+        }
+      ]
+    },
+    {
+      "question": "આમાંથી કયું 0.70 ને સમાન છે?",
+      "options": [
+        {
+          "option": "7.0"
+        },
+        {
+          "option": "0.007"
+        },
+        {
+          "option": "0.7",
+          "is_answer": true
+        },
+        {
+          "option": "0.07"
+        }
+      ]
+    },
+    {
+      "question": "0.003 માં 3 ની સ્થાન કિંમત શું છે?",
+      "options": [
+        {
+          "option": "એકમ"
+        },
+        {
+          "option": "દશાંશ"
+        },
+        {
+          "option": "શતાંશ"
+        },
+        {
+          "option": "સહસ્ત્રાંશ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "કયો દશાંશ સૌથી નાનો છે?",
+      "options": [
+        {
+          "option": "0.019",
+          "is_answer": true
+        },
+        {
+          "option": "0.109"
+        },
+        {
+          "option": "0.190"
+        },
+        {
+          "option": "0.110"
+        }
+      ]
+    },
+    {
+      "question": "'છ અને ચાર શતાંશ' ને દશાંશમાં કેવી રીતે લખશો?",
+      "options": [
+        {
+          "option": "6.004"
+        },
+        {
+          "option": "64.0"
+        },
+        {
+          "option": "6.04",
+          "is_answer": true
+        },
+        {
+          "option": "6.4"
+        }
+      ]
+    },
+    {
+      "question": "0.675 માં કયો અંક દશાંશના સ્થાને છે?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "સરખામણી કરો: 0.5 અને 0.500. કયું સાચું છે?",
+      "options": [
+        {
+          "option": "0.5 > 0.500"
+        },
+        {
+          "option": "0.5 = 0.500",
+          "is_answer": true
+        },
+        {
+          "option": "0.5 < 0.500"
+        },
+        {
+          "option": "તેમની સરખામણી થઈ શકતી નથી"
+        }
+      ]
+    },
+    {
+      "question": "0.05 + 0.002 શું થાય?",
+      "options": [
+        {
+          "option": "0.007"
+        },
+        {
+          "option": "0.52"
+        },
+        {
+          "option": "0.07"
+        },
+        {
+          "option": "0.052",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "કઈ સંખ્યામાં સહસ્ત્રાંશના સ્થાને 5 છે?",
+      "options": [
+        {
+          "option": "0.125",
+          "is_answer": true
+        },
+        {
+          "option": "0.152"
+        },
+        {
+          "option": "5.120"
+        },
+        {
+          "option": "0.512"
+        }
+      ]
+    },
+    {
+      "question": "7/100 ને દશાંશમાં શું કહેવાય?",
+      "options": [
+        {
+          "option": "0.07",
+          "is_answer": true
+        },
+        {
+          "option": "7.0"
+        },
+        {
+          "option": "0.7"
+        },
+        {
+          "option": "0.007"
+        }
+      ]
+    },
+    {
+      "question": "કયું મોટું છે: 0.09 કે 0.1?",
+      "options": [
+        {
+          "option": "બંને સમાન છે"
+        },
+        {
+          "option": "0.009"
+        },
+        {
+          "option": "0.09"
+        },
+        {
+          "option": "0.1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "0.285 માં 2 ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "2 એકમ"
+        },
+        {
+          "option": "2 શતાંશ"
+        },
+        {
+          "option": "2 દશાંશ",
+          "is_answer": true
+        },
+        {
+          "option": "2 સહસ્ત્રાંશ"
+        }
+      ]
+    },
+    {
+      "question": "0.305 ને શબ્દોમાં લખો.",
+      "options": [
+        {
+          "option": "પાંત્રીસ સહસ્ત્રાંશ"
+        },
+        {
+          "option": "ત્રણ પોઈન્ટ ઝીરો પાંચ"
+        },
+        {
+          "option": "ત્રણસો પાંચ સહસ્ત્રાંશ",
+          "is_answer": true
+        },
+        {
+          "option": "ત્રણસો પાંચ શતાંશ"
+        }
+      ]
+    },
+    {
+      "question": "કયો દશાંશ 4/10 ને સમાન છે?",
+      "options": [
+        {
+          "option": "0.4",
+          "is_answer": true
+        },
+        {
+          "option": "0.04"
+        },
+        {
+          "option": "4.0"
+        },
+        {
+          "option": "0.004"
+        }
+      ]
+    },
+    {
+      "question": "0.1 અને 0.01 નો સરવાળો શું થાય?",
+      "options": [
+        {
+          "option": "0.011"
+        },
+        {
+          "option": "0.11",
+          "is_answer": true
+        },
+        {
+          "option": "1.1"
+        },
+        {
+          "option": "0.101"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કઈ અવિભાજ્ય સંખ્યા છે?",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "સૌથી નાની અવિભાજ્ય સંખ્યા કઈ છે?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "12 નો અવયવ કયો છે?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "6 નો અવયવી કયો છે?",
+      "options": [
+        {
+          "option": "14"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "18",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "1 અને 10 ની વચ્ચે કેટલી અવિભાજ્ય સંખ્યાઓ છે?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "કઈ સંખ્યા અવિભાજ્ય પણ નથી અને વિભાજ્ય પણ નથી?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "એકમાત્ર બેકી અવિભાજ્ય સંખ્યા કઈ છે?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કઈ વિભાજ્ય સંખ્યા છે?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "20 નો અવયવ કયો છે?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "9 નો અવયવી કયો છે?",
+      "options": [
+        {
+          "option": "27",
+          "is_answer": true
+        },
+        {
+          "option": "19"
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "શું 13 અવિભાજ્ય સંખ્યા છે?",
+      "options": [
+        {
+          "option": "ના"
+        },
+        {
+          "option": "કદાચ"
+        },
+        {
+          "option": "તે વિભાજ્ય છે"
+        },
+        {
+          "option": "હા",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "15 નો અવયવ કયો છે?",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "7 નો ચોથો અવયવી કયો છે?",
+      "options": [
+        {
+          "option": "21"
+        },
+        {
+          "option": "28",
+          "is_answer": true
+        },
+        {
+          "option": "35"
+        },
+        {
+          "option": "14"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કઈ સંખ્યા અવિભાજ્ય છે?",
+      "options": [
+        {
+          "option": "11",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "12 નો અવયવી કયો છે?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "5 ના કેટલા અવયવો છે?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કઈ સંખ્યા અવિભાજ્ય નથી?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "10 નો સૌથી મોટો અવયવ કયો છે?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "8 નો અવયવી કયો છે?",
+      "options": [
+        {
+          "option": "16",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "14"
+        }
+      ]
+    },
+    {
+      "question": "શું 17 અવિભાજ્ય સંખ્યા છે?",
+      "options": [
+        {
+          "option": "તે 3 નો અવયવી છે"
+        },
+        {
+          "option": "ના"
+        },
+        {
+          "option": "હા",
+          "is_answer": true
+        },
+        {
+          "option": "કદાચ"
+        }
+      ]
+    },
+    {
+      "question": "12 અને 18 નો ગુરુત્તમ સામાન્ય અવયવ (GCD) શું છે?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        }
+      ]
+    },
+    {
+      "question": "4 અને 6 નો લઘુત્તમ સામાન્ય અવયવી (LCM) શું છે?",
+      "options": [
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "જો બે સંખ્યાઓ અવિભાજ્ય હોય, તો તેમનો GCD હંમેશા શું હોય છે?",
+      "options": [
+        {
+          "option": "તે સંખ્યાઓ પોતે"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "સંખ્યાઓનો ગુણાકાર"
+        }
+      ]
+    },
+    {
+      "question": "15 અને 25 નો GCD શોધો.",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "75"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        }
+      ]
+    },
+    {
+      "question": "8 અને 12 નો LCM શોધો.",
+      "options": [
+        {
+          "option": "96"
+        },
+        {
+          "option": "24",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "48"
+        }
+      ]
+    },
+    {
+      "question": "બે ઘંટડીઓ 5 અને 10 મિનિટના અંતરે વાગે છે. તેઓ હવે પછી ક્યારે સાથે વાગશે?",
+      "options": [
+        {
+          "option": "15 મિનિટ"
+        },
+        {
+          "option": "5 મિનિટ"
+        },
+        {
+          "option": "50 મિનિટ"
+        },
+        {
+          "option": "10 મિનિટ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "20, 30 અને 40 નો GCD શું છે?",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "બે સંખ્યાઓનો ગુણાકાર 24 છે અને તેમનો GCD 2 છે. તેમનો LCM શું છે?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "3, 6 અને 9 નો LCM શું છે?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "54"
+        },
+        {
+          "option": "18",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "એક માળી પાસે 12 ગુલાબ અને 18 લીલી છે. તે સમાન કલગીની મહત્તમ સંખ્યા કેટલી બનાવી શકે?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "7 અને 13 નો GCD શું છે?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "13"
+        },
+        {
+          "option": "91"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કઈ સંખ્યા 4 અને 5 બંનેનો અવયવી છે?",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "10 અને 15 નો LCM શું છે?",
+      "options": [
+        {
+          "option": "15"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "30",
+          "is_answer": true
+        },
+        {
+          "option": "150"
+        }
+      ]
+    },
+    {
+      "question": "જો GCD(a, b) = 1 હોય, તો તે સંખ્યાઓને શું કહેવાય છે?",
+      "options": [
+        {
+          "option": "સહ-અવિભાજ્ય",
+          "is_answer": true
+        },
+        {
+          "option": "બેકી"
+        },
+        {
+          "option": "વિભાજ્ય"
+        },
+        {
+          "option": "અવિભાજ્ય"
+        }
+      ]
+    },
+    {
+      "question": "14 અને 21 નો GCD શું છે?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "42"
+        },
+        {
+          "option": "3"
+        }
+      ]
+    },
+    {
+      "question": "બે દોડવીરો એક ગોળાકાર ટ્રેક પર એક જ સમયે દોડવાનું શરૂ કરે છે. તેઓ 6 અને 8 મિનિટમાં એક ચક્કર પૂર્ણ કરે છે. તેઓ શરૂઆતના બિંદુએ ક્યારે મળશે?",
+      "options": [
+        {
+          "option": "24 મિનિટ",
+          "is_answer": true
+        },
+        {
+          "option": "48 મિનિટ"
+        },
+        {
+          "option": "6 મિનિટ"
+        },
+        {
+          "option": "14 મિનિટ"
+        }
+      ]
+    },
+    {
+      "question": "5 અને 7 નો LCM શું છે?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "70"
+        },
+        {
+          "option": "35",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "બે ક્રમિક બેકી સંખ્યાઓનો GCD હંમેશા શું હોય છે?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "100 અને 25 નો GCD શું છે?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "50"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "25",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "12 અને 15 નો LCM શું છે?",
+      "options": [
+        {
+          "option": "180"
+        },
+        {
+          "option": "60",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "3 સફરજન અને 5 નારંગીના ગુણોત્તરને કોલન સંકેતમાં દર્શાવો.",
+      "options": [
+        {
+          "option": "3:5",
+          "is_answer": true
+        },
+        {
+          "option": "8:3"
+        },
+        {
+          "option": "5:3"
+        },
+        {
+          "option": "3/5"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કયો ગુણોત્તર 2:4 ને સમાન છે?",
+      "options": [
+        {
+          "option": "4:2"
+        },
+        {
+          "option": "1:2",
+          "is_answer": true
+        },
+        {
+          "option": "2:1"
+        },
+        {
+          "option": "1:4"
+        }
+      ]
+    },
+    {
+      "question": "4/9 ગુણોત્તરને કોલન સંકેતમાં લખો.",
+      "options": [
+        {
+          "option": "4:9",
+          "is_answer": true
+        },
+        {
+          "option": "4.9"
+        },
+        {
+          "option": "9:4"
+        },
+        {
+          "option": "4+9"
+        }
+      ]
+    },
+    {
+      "question": "શું 1:2 અને 3:6 ગુણોત્તર પ્રમાણમાં છે?",
+      "options": [
+        {
+          "option": "હા",
+          "is_answer": true
+        },
+        {
+          "option": "માત્ર જો 2 વડે ગુણવામાં આવે તો"
+        },
+        {
+          "option": "ના"
+        },
+        {
+          "option": "નક્કી કરી શકાતું નથી"
+        }
+      ]
+    },
+    {
+      "question": "10:20 ગુણોત્તરનું અતિસંક્ષિપ્ત રૂપ આપો.",
+      "options": [
+        {
+          "option": "2:1"
+        },
+        {
+          "option": "5:10"
+        },
+        {
+          "option": "10:1"
+        },
+        {
+          "option": "1:2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો 2:x = 4:8 હોય, તો x ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "16"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "કયો ગુણોત્તર 3:5 ને સમાન છે?",
+      "options": [
+        {
+          "option": "9:20"
+        },
+        {
+          "option": "3:10"
+        },
+        {
+          "option": "5:3"
+        },
+        {
+          "option": "6:10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "7 થી 11 ના ગુણોત્તરને અપૂર્ણાંક સ્વરૂપમાં દર્શાવો.",
+      "options": [
+        {
+          "option": "1/7"
+        },
+        {
+          "option": "11/7"
+        },
+        {
+          "option": "7.11"
+        },
+        {
+          "option": "7/11",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "ચકાસો કે 5:10 અને 2:4 પ્રમાણ બનાવે છે કે નહીં.",
+      "options": [
+        {
+          "option": "ના"
+        },
+        {
+          "option": "કદાચ"
+        },
+        {
+          "option": "હા",
+          "is_answer": true
+        },
+        {
+          "option": "માત્ર જો 5=2 હોય"
+        }
+      ]
+    },
+    {
+      "question": "15 મિનિટ અને 1 કલાકનો ગુણોત્તર શું છે?",
+      "options": [
+        {
+          "option": "1:15"
+        },
+        {
+          "option": "1:4",
+          "is_answer": true
+        },
+        {
+          "option": "1:60"
+        },
+        {
+          "option": "15:1"
+        }
+      ]
+    },
+    {
+      "question": "જો પ્રમાણ 1:3 = x:9 હોય, તો x શોધો.",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "9"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "27"
+        }
+      ]
+    },
+    {
+      "question": "આમાંથી કયું પ્રમાણ માન્ય નથી?",
+      "options": [
+        {
+          "option": "1:2 = 2:4"
+        },
+        {
+          "option": "1:2 = 3:7",
+          "is_answer": true
+        },
+        {
+          "option": "5:10 = 1:2"
+        },
+        {
+          "option": "3:4 = 6:8"
+        }
+      ]
+    },
+    {
+      "question": "0.5 ને અતિસંક્ષિપ્ત ગુણોત્તર સ્વરૂપે લખો.",
+      "options": [
+        {
+          "option": "1:5"
+        },
+        {
+          "option": "5:10"
+        },
+        {
+          "option": "1:2",
+          "is_answer": true
+        },
+        {
+          "option": "2:1"
+        }
+      ]
+    },
+    {
+      "question": "વર્ગમાં છોકરાઓ અને છોકરીઓનો ગુણોત્તર 2:3 છે. જો 10 છોકરાઓ હોય, તો કેટલી છોકરીઓ છે?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "શું 4:6 એ 8:12 ને સમાન છે?",
+      "options": [
+        {
+          "option": "માત્ર જો 2 વડે ભાગવામાં આવે તો"
+        },
+        {
+          "option": "ના"
+        },
+        {
+          "option": "માત્ર જો 3 વડે ગુણવામાં આવે તો"
+        },
+        {
+          "option": "હા",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "5:2 ગુણોત્તરને અપૂર્ણાંક સ્વરૂપમાં ફેરવો.",
+      "options": [
+        {
+          "option": "7/2"
+        },
+        {
+          "option": "5/2",
+          "is_answer": true
+        },
+        {
+          "option": "5.2"
+        },
+        {
+          "option": "2/5"
+        }
+      ]
+    },
+    {
+      "question": "જો 3:4 = 9:x હોય, તો x શું છે?",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "કયો ગુણોત્તર 1:3 ને સમાન નથી?",
+      "options": [
+        {
+          "option": "3:9"
+        },
+        {
+          "option": "4:12"
+        },
+        {
+          "option": "2:6"
+        },
+        {
+          "option": "2:9",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "20:40 નો ગુણોત્તર કોના જેવો જ છે:",
+      "options": [
+        {
+          "option": "1:4"
+        },
+        {
+          "option": "2:1"
+        },
+        {
+          "option": "20:1"
+        },
+        {
+          "option": "1:2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો પ્રમાણ 5:x = 10:20 હોય, તો x શોધો.",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "1 કિલોમીટરમાં કેટલા મીટર હોય છે?",
+      "options": [
+        {
+          "option": "100 મીટર"
+        },
+        {
+          "option": "10000 મીટર"
+        },
+        {
+          "option": "1000 મીટર",
+          "is_answer": true
+        },
+        {
+          "option": "10 મીટર"
+        }
+      ]
+    },
+    {
+      "question": "1 મીટરમાં કેટલા સેન્ટિમીટર હોય છે?",
+      "options": [
+        {
+          "option": "1000 સેન્ટિમીટર"
+        },
+        {
+          "option": "10 સેન્ટિમીટર"
+        },
+        {
+          "option": "10000 સેન્ટિમીટર"
+        },
+        {
+          "option": "100 સેન્ટિમીટર",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "1 લીટરમાં કેટલા મિલિલીટર હોય છે?",
+      "options": [
+        {
+          "option": "500 મિલિલીટર"
+        },
+        {
+          "option": "10 મિલિલીટર"
+        },
+        {
+          "option": "100 મિલિલીટર"
+        },
+        {
+          "option": "1000 મિલિલીટર",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "1 કિલોગ્રામમાં કેટલા ગ્રામ હોય છે?",
+      "options": [
+        {
+          "option": "500 ગ્રામ"
+        },
+        {
+          "option": "100 ગ્રામ"
+        },
+        {
+          "option": "10 ગ્રામ"
+        },
+        {
+          "option": "1000 ગ્રામ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "કયો પૂર્વગ એકમનો 1/1000 ભાગ દર્શાવે છે?",
+      "options": [
+        {
+          "option": "સેન્ટી"
+        },
+        {
+          "option": "કિલો"
+        },
+        {
+          "option": "ડેસી"
+        },
+        {
+          "option": "મિલી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "1 સેન્ટિમીટરમાં કેટલા મિલિમીટર હોય છે?",
+      "options": [
+        {
+          "option": "1 મિલિમીટર"
+        },
+        {
+          "option": "10 મિલિમીટર",
+          "is_answer": true
+        },
+        {
+          "option": "100 મિલિમીટર"
+        },
+        {
+          "option": "1000 મિલિમીટર"
+        }
+      ]
+    },
+    {
+      "question": "5 કિલોમીટરને મીટરમાં ફેરવો.",
+      "options": [
+        {
+          "option": "5000 મીટર",
+          "is_answer": true
+        },
+        {
+          "option": "50000 મીટર"
+        },
+        {
+          "option": "500 મીટર"
+        },
+        {
+          "option": "50 મીટર"
+        }
+      ]
+    },
+    {
+      "question": "2 લીટરને મિલિલીટરમાં ફેરવો.",
+      "options": [
+        {
+          "option": "2000 મિલિલીટર",
+          "is_answer": true
+        },
+        {
+          "option": "200 મિલિલીટર"
+        },
+        {
+          "option": "20 મિલિલીટર"
+        },
+        {
+          "option": "20000 મિલિલીટર"
+        }
+      ]
+    },
+    {
+      "question": "કયો એકમ સૌથી મોટો છે?",
+      "options": [
+        {
+          "option": "મિલિમીટર"
+        },
+        {
+          "option": "કિલોમીટર",
+          "is_answer": true
+        },
+        {
+          "option": "મીટર"
+        },
+        {
+          "option": "સેન્ટિમીટર"
+        }
+      ]
+    },
+    {
+      "question": "1 મીટરમાં કેટલા ડેસીમીટર હોય છે?",
+      "options": [
+        {
+          "option": "10 ડેસીમીટર",
+          "is_answer": true
+        },
+        {
+          "option": "100 ડેસીમીટર"
+        },
+        {
+          "option": "1 ડેસીમીટર"
+        },
+        {
+          "option": "1000 ડેસીમીટર"
+        }
+      ]
+    },
+    {
+      "question": "3000 ગ્રામને કિલોગ્રામમાં ફેરવો.",
+      "options": [
+        {
+          "option": "0.3 કિલોગ્રામ"
+        },
+        {
+          "option": "300 કિલોગ્રામ"
+        },
+        {
+          "option": "3 કિલોગ્રામ",
+          "is_answer": true
+        },
+        {
+          "option": "30 કિલોગ્રામ"
+        }
+      ]
+    },
+    {
+      "question": "કયા પૂર્વગનો અર્થ 100 થાય છે?",
+      "options": [
+        {
+          "option": "ડેકા"
+        },
+        {
+          "option": "સેન્ટી"
+        },
+        {
+          "option": "હેક્ટો",
+          "is_answer": true
+        },
+        {
+          "option": "ડેસી"
+        }
+      ]
+    },
+    {
+      "question": "400 સેન્ટિમીટરને મીટરમાં ફેરવો.",
+      "options": [
+        {
+          "option": "40 મીટર"
+        },
+        {
+          "option": "4000 મીટર"
+        },
+        {
+          "option": "4 મીટર",
+          "is_answer": true
+        },
+        {
+          "option": "0.4 મીટર"
+        }
+      ]
+    },
+    {
+      "question": "1 કિલોમીટરમાં કેટલા હેક્ટોમીટર હોય છે?",
+      "options": [
+        {
+          "option": "10 હેક્ટોમીટર",
+          "is_answer": true
+        },
+        {
+          "option": "1 હેક્ટોમીટર"
+        },
+        {
+          "option": "100 હેક્ટોમીટર"
+        },
+        {
+          "option": "1000 હેક્ટોમીટર"
+        }
+      ]
+    },
+    {
+      "question": "પ્રવાહીનું કદ માપવા માટે કયા એકમનો ઉપયોગ થાય છે?",
+      "options": [
+        {
+          "option": "લીટર",
+          "is_answer": true
+        },
+        {
+          "option": "કિલોમીટર"
+        },
+        {
+          "option": "ગ્રામ"
+        },
+        {
+          "option": "મીટર"
+        }
+      ]
+    },
+    {
+      "question": "0.5 કિલોમીટરને મીટરમાં ફેરવો.",
+      "options": [
+        {
+          "option": "500 મીટર",
+          "is_answer": true
+        },
+        {
+          "option": "5000 મીટર"
+        },
+        {
+          "option": "50 મીટર"
+        },
+        {
+          "option": "5 મીટર"
+        }
+      ]
+    },
+    {
+      "question": "1 ગ્રામમાં કેટલા સેન્ટિગ્રામ હોય છે?",
+      "options": [
+        {
+          "option": "100 સેન્ટિગ્રામ",
+          "is_answer": true
+        },
+        {
+          "option": "1000 સેન્ટિગ્રામ"
+        },
+        {
+          "option": "10000 સેન્ટિગ્રામ"
+        },
+        {
+          "option": "10 સેન્ટિગ્રામ"
+        }
+      ]
+    },
+    {
+      "question": "કયા પૂર્વગનો અર્થ 10 થાય છે?",
+      "options": [
+        {
+          "option": "ડેકા",
+          "is_answer": true
+        },
+        {
+          "option": "કિલો"
+        },
+        {
+          "option": "ડેસી"
+        },
+        {
+          "option": "હેક્ટો"
+        }
+      ]
+    },
+    {
+      "question": "7000 મિલિલીટરને લીટરમાં ફેરવો.",
+      "options": [
+        {
+          "option": "700 લીટર"
+        },
+        {
+          "option": "7 લીટર",
+          "is_answer": true
+        },
+        {
+          "option": "0.7 લીટર"
+        },
+        {
+          "option": "70 લીટર"
+        }
+      ]
+    },
+    {
+      "question": "કયો એકમ સૌથી નાનો છે?",
+      "options": [
+        {
+          "option": "મિલિમીટર",
+          "is_answer": true
+        },
+        {
+          "option": "ડેસીમીટર"
+        },
+        {
+          "option": "સેન્ટિમીટર"
+        },
+        {
+          "option": "મીટર"
+        }
+      ]
+    },
+    {
+      "question": "1 ઇંચમાં કેટલા સેન્ટિમીટર હોય છે?",
+      "options": [
+        {
+          "option": "1.54 સેમી"
+        },
+        {
+          "option": "3.54 સેમી"
+        },
+        {
+          "option": "2.00 સેમી"
+        },
+        {
+          "option": "2.54 સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "1 ફૂટમાં કેટલા ઇંચ હોય છે?",
+      "options": [
+        {
+          "option": "24 ઇંચ"
+        },
+        {
+          "option": "36 ઇંચ"
+        },
+        {
+          "option": "12 ઇંચ",
+          "is_answer": true
+        },
+        {
+          "option": "10 ઇંચ"
+        }
+      ]
+    },
+    {
+      "question": "1 યાર્ડમાં કેટલા ફૂટ હોય છે?",
+      "options": [
+        {
+          "option": "12 ફૂટ"
+        },
+        {
+          "option": "3 ફૂટ",
+          "is_answer": true
+        },
+        {
+          "option": "2 ફૂટ"
+        },
+        {
+          "option": "4 ફૂટ"
+        }
+      ]
+    },
+    {
+      "question": "1 પાઉન્ડમાં કેટલા ઔંસ હોય છે?",
+      "options": [
+        {
+          "option": "16 ઔંસ",
+          "is_answer": true
+        },
+        {
+          "option": "12 ઔંસ"
+        },
+        {
+          "option": "8 ઔંસ"
+        },
+        {
+          "option": "20 ઔંસ"
+        }
+      ]
+    },
+    {
+      "question": "1 ગેલનમાં કેટલા પાઇન્ટ હોય છે?",
+      "options": [
+        {
+          "option": "16 પાઇન્ટ"
+        },
+        {
+          "option": "4 પાઇન્ટ"
+        },
+        {
+          "option": "2 પાઇન્ટ"
+        },
+        {
+          "option": "8 પાઇન્ટ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "2 ઇંચને સેન્ટિમીટરમાં રૂપાંતરિત કરો.",
+      "options": [
+        {
+          "option": "5.08 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "6.08 સેમી"
+        },
+        {
+          "option": "4.54 સેમી"
+        },
+        {
+          "option": "2.54 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "2 યાર્ડમાં કેટલા ઇંચ હોય છે?",
+      "options": [
+        {
+          "option": "72 ઇંચ",
+          "is_answer": true
+        },
+        {
+          "option": "36 ઇંચ"
+        },
+        {
+          "option": "24 ઇંચ"
+        },
+        {
+          "option": "48 ઇંચ"
+        }
+      ]
+    },
+    {
+      "question": "આમાંથી લંબાઈનો સૌથી મોટો એકમ કયો છે?",
+      "options": [
+        {
+          "option": "માઇલ",
+          "is_answer": true
+        },
+        {
+          "option": "ફૂટ"
+        },
+        {
+          "option": "યાર્ડ"
+        },
+        {
+          "option": "ઇંચ"
+        }
+      ]
+    },
+    {
+      "question": "1 માઇલમાં કેટલા ફૂટ હોય છે?",
+      "options": [
+        {
+          "option": "1000 ફૂટ"
+        },
+        {
+          "option": "3000 ફૂટ"
+        },
+        {
+          "option": "5280 ફૂટ",
+          "is_answer": true
+        },
+        {
+          "option": "5000 ફૂટ"
+        }
+      ]
+    },
+    {
+      "question": "જો 1 ઇંચ = 2.54 સેમી હોય, તો 10 ઇંચ કેટલા સેમી થાય?",
+      "options": [
+        {
+          "option": "12.54 સેમી"
+        },
+        {
+          "option": "254 સેમી"
+        },
+        {
+          "option": "25.4 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "2.54 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "32 ઔંસમાં કેટલા પાઉન્ડ હોય છે?",
+      "options": [
+        {
+          "option": "2 પાઉન્ડ",
+          "is_answer": true
+        },
+        {
+          "option": "1 પાઉન્ડ"
+        },
+        {
+          "option": "3 પાઉન્ડ"
+        },
+        {
+          "option": "4 પાઉન્ડ"
+        }
+      ]
+    },
+    {
+      "question": "1 માઇલમાં કેટલા યાર્ડ હોય છે?",
+      "options": [
+        {
+          "option": "1760 યાર્ડ",
+          "is_answer": true
+        },
+        {
+          "option": "1000 યાર્ડ"
+        },
+        {
+          "option": "3600 યાર્ડ"
+        },
+        {
+          "option": "5280 યાર્ડ"
+        }
+      ]
+    },
+    {
+      "question": "3 ફૂટમાં કેટલા ઇંચ હોય છે?",
+      "options": [
+        {
+          "option": "24 ઇંચ"
+        },
+        {
+          "option": "12 ઇંચ"
+        },
+        {
+          "option": "48 ઇંચ"
+        },
+        {
+          "option": "36 ઇંચ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "2 યાર્ડમાં કેટલા ફૂટ હોય છે?",
+      "options": [
+        {
+          "option": "12 ફૂટ"
+        },
+        {
+          "option": "4 ફૂટ"
+        },
+        {
+          "option": "3 ફૂટ"
+        },
+        {
+          "option": "6 ફૂટ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "5 ઇંચને સેન્ટિમીટરમાં રૂપાંતરિત કરો.",
+      "options": [
+        {
+          "option": "10.5 સેમી"
+        },
+        {
+          "option": "5.54 સેમી"
+        },
+        {
+          "option": "15.2 સેમી"
+        },
+        {
+          "option": "12.7 સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "0.5 પાઉન્ડમાં કેટલા ઔંસ હોય છે?",
+      "options": [
+        {
+          "option": "12 ઔંસ"
+        },
+        {
+          "option": "16 ઔંસ"
+        },
+        {
+          "option": "8 ઔંસ",
+          "is_answer": true
+        },
+        {
+          "option": "4 ઔંસ"
+        }
+      ]
+    },
+    {
+      "question": "2 ગેલનમાં કેટલા પાઇન્ટ હોય છે?",
+      "options": [
+        {
+          "option": "16 પાઇન્ટ",
+          "is_answer": true
+        },
+        {
+          "option": "8 પાઇન્ટ"
+        },
+        {
+          "option": "32 પાઇન્ટ"
+        },
+        {
+          "option": "4 પાઇન્ટ"
+        }
+      ]
+    },
+    {
+      "question": "આમાંથી કયો વજનનો એકમ છે?",
+      "options": [
+        {
+          "option": "ગેલન"
+        },
+        {
+          "option": "પાઉન્ડ",
+          "is_answer": true
+        },
+        {
+          "option": "ઇંચ"
+        },
+        {
+          "option": "યાર્ડ"
+        }
+      ]
+    },
+    {
+      "question": "0.5 ફૂટમાં કેટલા ઇંચ હોય છે?",
+      "options": [
+        {
+          "option": "9 ઇંચ"
+        },
+        {
+          "option": "3 ઇંચ"
+        },
+        {
+          "option": "6 ઇંચ",
+          "is_answer": true
+        },
+        {
+          "option": "12 ઇંચ"
+        }
+      ]
+    },
+    {
+      "question": "4, 8, અને 12 સંખ્યાઓનો મધ્યક (સરેરાશ) શું છે?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "જો ત્રણ મિત્રો પાસે અનુક્રમે 2, 5, અને 8 સફરજન હોય, તો પ્રતિ વ્યક્તિ સરેરાશ કેટલા સફરજન થાય?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "10, 20, 30, અને 40 ની સરેરાશ શોધો.",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "35"
+        },
+        {
+          "option": "25",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "પાંચ સંખ્યાઓનો સરવાળો 50 છે. તેમનો મધ્યક શું છે?",
+      "options": [
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "3, 3, 3, અને 3 ની સરેરાશ શું છે?",
+      "options": [
+        {
+          "option": "3",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "જો બે સંખ્યાઓની સરેરાશ 10 હોય અને એક સંખ્યા 8 હોય, તો બીજી સંખ્યા કઈ છે?",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "0, 5, અને 10 નો મધ્યક ગણો.",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "2.5"
+        },
+        {
+          "option": "7.5"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "એક વિદ્યાર્થીએ ત્રણ પરીક્ષાઓમાં 80, 90, અને 100 ગુણ મેળવ્યા. સરેરાશ ગુણ કેટલા છે?",
+      "options": [
+        {
+          "option": "95"
+        },
+        {
+          "option": "80"
+        },
+        {
+          "option": "85"
+        },
+        {
+          "option": "90",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "પ્રથમ ત્રણ બેકી સંખ્યાઓ (2, 4, 6) ની સરેરાશ શું છે?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "જો તમારી પાસે 4, 6, અને 8 હોય, તો કેન્દ્ર દર્શાવતી કિંમત કઈ છે?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "question": "5 અને 15 ની સરેરાશ છે:",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "1, 2, 3, 4, અને 5 નો મધ્યક શું છે?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો 4 વસ્તુઓનો કુલ સરવાળો 40 હોય, તો સરેરાશ કેટલી થાય?",
+      "options": [
+        {
+          "option": "4"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "7, 14, અને 21 ની સરેરાશ શોધો.",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "14",
+          "is_answer": true
+        },
+        {
+          "option": "21"
+        }
+      ]
+    },
+    {
+      "question": "10 અને 30 નો મધ્યક શું છે?",
+      "options": [
+        {
+          "option": "30"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "જો ત્રણ થેલીઓમાં 10 કિગ્રા, 20 કિગ્રા, અને 30 કિગ્રા ચોખા હોય, તો પ્રતિ થેલી સરેરાશ વજન કેટલું થાય?",
+      "options": [
+        {
+          "option": "30kg"
+        },
+        {
+          "option": "60kg"
+        },
+        {
+          "option": "20kg",
+          "is_answer": true
+        },
+        {
+          "option": "10kg"
+        }
+      ]
+    },
+    {
+      "question": "2, 4, 6, અને 8 ની સરેરાશ છે:",
+      "options": [
+        {
+          "option": "8"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "100, 200, અને 300 નો મધ્યક શું છે?",
+      "options": [
+        {
+          "option": "100"
+        },
+        {
+          "option": "300"
+        },
+        {
+          "option": "200",
+          "is_answer": true
+        },
+        {
+          "option": "150"
+        }
+      ]
+    },
+    {
+      "question": "જો બે સંખ્યાઓની સરેરાશ 5 હોય, તો તેમનો સરવાળો કેટલો થાય?",
+      "options": [
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "1, 3, 5, 7, અને 9 ની સરેરાશ ગણો.",
+      "options": [
+        {
+          "option": "9"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "5 સેમી બાજુની લંબાઈ ધરાવતા ચોરસની પરિમિતિ કેટલી થાય?",
+      "options": [
+        {
+          "option": "10 સેમી"
+        },
+        {
+          "option": "15 સેમી"
+        },
+        {
+          "option": "20 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "25 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "એક લંબચોરસની લંબાઈ 6 સેમી અને પહોળાઈ 4 સેમી છે. તેની પરિમિતિ કેટલી થાય?",
+      "options": [
+        {
+          "option": "10 સેમી"
+        },
+        {
+          "option": "12 સેમી"
+        },
+        {
+          "option": "20 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "24 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "3 સેમી, 4 સેમી અને 5 સેમી બાજુઓ ધરાવતા ત્રિકોણની પરિમિતિ કેટલી થાય?",
+      "options": [
+        {
+          "option": "7 સેમી"
+        },
+        {
+          "option": "60 સેમી"
+        },
+        {
+          "option": "12 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "9 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "જો ચોરસની પરિમિતિ 36 સેમી હોય, તો તેની એક બાજુની લંબાઈ કેટલી થાય?",
+      "options": [
+        {
+          "option": "6 સેમી"
+        },
+        {
+          "option": "12 સેમી"
+        },
+        {
+          "option": "18 સેમી"
+        },
+        {
+          "option": "9 સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "લંબચોરસની પરિમિતિ શોધવાનું સૂત્ર કયું છે?",
+      "options": [
+        {
+          "option": "l * w"
+        },
+        {
+          "option": "4 * l"
+        },
+        {
+          "option": "2(l + w)",
+          "is_answer": true
+        },
+        {
+          "option": "l + w"
+        }
+      ]
+    },
+    {
+      "question": "ચોરસની બાજુ 8 સેમી છે. તેની પરિમિતિ કેટલી થાય?",
+      "options": [
+        {
+          "option": "24 સેમી"
+        },
+        {
+          "option": "64 સેમી"
+        },
+        {
+          "option": "16 સેમી"
+        },
+        {
+          "option": "32 સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "7 સેમી બાજુ ધરાવતા સમબાજુ ત્રિકોણની પરિમિતિ કેટલી થાય?",
+      "options": [
+        {
+          "option": "21 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "14 સેમી"
+        },
+        {
+          "option": "7 સેમી"
+        },
+        {
+          "option": "49 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "એક લંબચોરસની પરિમિતિ 30 સેમી અને લંબાઈ 10 સેમી છે. તેની પહોળાઈ કેટલી થાય?",
+      "options": [
+        {
+          "option": "5 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "20 સેમી"
+        },
+        {
+          "option": "15 સેમી"
+        },
+        {
+          "option": "10 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "4 સેમી બાજુ ધરાવતા નિયમિત પંચકોણની પરિમિતિ કેટલી થાય?",
+      "options": [
+        {
+          "option": "24 સેમી"
+        },
+        {
+          "option": "12 સેમી"
+        },
+        {
+          "option": "16 સેમી"
+        },
+        {
+          "option": "20 સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો ત્રિકોણની બાજુઓ 5 સેમી, 5 સેમી અને 8 સેમી હોય, તો તેની પરિમિતિ કેટલી થાય?",
+      "options": [
+        {
+          "option": "40 સેમી"
+        },
+        {
+          "option": "18 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "25 સેમી"
+        },
+        {
+          "option": "13 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "12 સેમી બાજુ ધરાવતા ચોરસની પરિમિતિ કેટલી થાય?",
+      "options": [
+        {
+          "option": "48 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "144 સેમી"
+        },
+        {
+          "option": "36 સેમી"
+        },
+        {
+          "option": "24 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "એક લંબચોરસની લંબાઈ 15 સેમી અને પહોળાઈ 5 સેમી છે. તેની પરિમિતિ કેટલી થાય?",
+      "options": [
+        {
+          "option": "75 સેમી"
+        },
+        {
+          "option": "20 સેમી"
+        },
+        {
+          "option": "50 સેમી"
+        },
+        {
+          "option": "40 સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "3 સેમી બાજુ ધરાવતા નિયમિત ષટ્કોણની પરિમિતિ કેટલી થાય?",
+      "options": [
+        {
+          "option": "9 સેમી"
+        },
+        {
+          "option": "21 સેમી"
+        },
+        {
+          "option": "12 સેમી"
+        },
+        {
+          "option": "18 સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો ત્રિકોણની પરિમિતિ 20 સેમી હોય અને બે બાજુઓ 6 સેમી અને 7 સેમી હોય, તો ત્રીજી બાજુ કેટલી થાય?",
+      "options": [
+        {
+          "option": "13 સેમી"
+        },
+        {
+          "option": "14 સેમી"
+        },
+        {
+          "option": "7 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "6 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "2.5 સેમી બાજુ ધરાવતા ચોરસની પરિમિતિ કેટલી થાય?",
+      "options": [
+        {
+          "option": "7.5 સેમી"
+        },
+        {
+          "option": "5 સેમી"
+        },
+        {
+          "option": "10 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "12.5 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "એક લંબચોરસની પરિમિતિ 50 સેમી છે. જો લંબાઈ 20 સેમી હોય, તો પહોળાઈ કેટલી થાય?",
+      "options": [
+        {
+          "option": "5 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "15 સેમી"
+        },
+        {
+          "option": "25 સેમી"
+        },
+        {
+          "option": "10 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "10 સેમી, 10 સેમી અને 10 સેમી બાજુઓ ધરાવતા ત્રિકોણની પરિમિતિ કેટલી થાય?",
+      "options": [
+        {
+          "option": "100 સેમી"
+        },
+        {
+          "option": "20 સેમી"
+        },
+        {
+          "option": "30 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "40 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "ચોરસની પરિમિતિ 40 સેમી છે. તેની એક બાજુની લંબાઈ કેટલી થાય?",
+      "options": [
+        {
+          "option": "5 સેમી"
+        },
+        {
+          "option": "10 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "4 સેમી"
+        },
+        {
+          "option": "20 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "12 સેમી લંબાઈ અને 8 સેમી પહોળાઈ ધરાવતા લંબચોરસની પરિમિતિ કેટલી થાય?",
+      "options": [
+        {
+          "option": "40 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "96 સેમી"
+        },
+        {
+          "option": "30 સેમી"
+        },
+        {
+          "option": "20 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "ત્રિકોણની પરિમિતિ 15 સેમી છે. જો બે બાજુઓ 4 સેમી અને 5 સેમી હોય, તો ત્રીજી બાજુ કેટલી થાય?",
+      "options": [
+        {
+          "option": "9 સેમી"
+        },
+        {
+          "option": "5 સેમી"
+        },
+        {
+          "option": "10 સેમી"
+        },
+        {
+          "option": "6 સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "5 સેમી લંબાઈ અને 4 સેમી પહોળાઈ ધરાવતા લંબચોરસનું ક્ષેત્રફળ કેટલું થાય?",
+      "options": [
+        {
+          "option": "18 ચોરસ સેમી"
+        },
+        {
+          "option": "25 ચોરસ સેમી"
+        },
+        {
+          "option": "20 ચોરસ સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "9 ચોરસ સેમી"
+        }
+      ]
+    },
+    {
+      "question": "6 સેમી બાજુ ધરાવતા ચોરસનું ક્ષેત્રફળ કેટલું થાય?",
+      "options": [
+        {
+          "option": "12 ચોરસ સેમી"
+        },
+        {
+          "option": "24 ચોરસ સેમી"
+        },
+        {
+          "option": "36 ચોરસ સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "30 ચોરસ સેમી"
+        }
+      ]
+    },
+    {
+      "question": "10 સેમી પાયો અને 4 સેમી ઊંચાઈ ધરાવતા ત્રિકોણનું ક્ષેત્રફળ શોધો.",
+      "options": [
+        {
+          "option": "14 ચોરસ સેમી"
+        },
+        {
+          "option": "30 ચોરસ સેમી"
+        },
+        {
+          "option": "40 ચોરસ સેમી"
+        },
+        {
+          "option": "20 ચોરસ સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "8 સેમી પાયો અને 5 સેમી ઊંચાઈ ધરાવતા સમાંતરબાજુ ચતુષ્કોણનું ક્ષેત્રફળ કેટલું થાય?",
+      "options": [
+        {
+          "option": "26 ચોરસ સેમી"
+        },
+        {
+          "option": "13 ચોરસ સેમી"
+        },
+        {
+          "option": "40 ચોરસ સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "35 ચોરસ સેમી"
+        }
+      ]
+    },
+    {
+      "question": "જો લંબચોરસની લંબાઈ 10 સેમી અને પહોળાઈ 2 સેમી હોય, તો તેનું ક્ષેત્રફળ કેટલું થાય?",
+      "options": [
+        {
+          "option": "22 ચોરસ સેમી"
+        },
+        {
+          "option": "40 ચોરસ સેમી"
+        },
+        {
+          "option": "12 ચોરસ સેમી"
+        },
+        {
+          "option": "20 ચોરસ સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "9 સેમી બાજુ ધરાવતા ચોરસનું ક્ષેત્રફળ કેટલું થાય?",
+      "options": [
+        {
+          "option": "72 ચોરસ સેમી"
+        },
+        {
+          "option": "81 ચોરસ સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "18 ચોરસ સેમી"
+        },
+        {
+          "option": "36 ચોરસ સેમી"
+        }
+      ]
+    },
+    {
+      "question": "એક ત્રિકોણનો પાયો 6 સેમી અને ઊંચાઈ 7 સેમી છે. તેનું ક્ષેત્રફળ કેટલું થાય?",
+      "options": [
+        {
+          "option": "21 ચોરસ સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "13 ચોરસ સેમી"
+        },
+        {
+          "option": "28 ચોરસ સેમી"
+        },
+        {
+          "option": "42 ચોરસ સેમી"
+        }
+      ]
+    },
+    {
+      "question": "12 સેમી પાયો અને 3 સેમી ઊંચાઈ ધરાવતા સમાંતરબાજુ ચતુષ્કોણનું ક્ષેત્રફળ કેટલું થાય?",
+      "options": [
+        {
+          "option": "15 ચોરસ સેમી"
+        },
+        {
+          "option": "30 ચોરસ સેમી"
+        },
+        {
+          "option": "36 ચોરસ સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "72 ચોરસ સેમી"
+        }
+      ]
+    },
+    {
+      "question": "11 સેમી બાજુ ધરાવતા ચોરસનું ક્ષેત્રફળ ગણો.",
+      "options": [
+        {
+          "option": "110 ચોરસ સેમી"
+        },
+        {
+          "option": "44 ચોરસ સેમી"
+        },
+        {
+          "option": "22 ચોરસ સેમી"
+        },
+        {
+          "option": "121 ચોરસ સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "એક લંબચોરસની લંબાઈ 7 સેમી અને પહોળાઈ 3 સેમી છે. ક્ષેત્રફળ કેટલું થાય?",
+      "options": [
+        {
+          "option": "10 ચોરસ સેમી"
+        },
+        {
+          "option": "20 ચોરસ સેમી"
+        },
+        {
+          "option": "21 ચોરસ સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "14 ચોરસ સેમી"
+        }
+      ]
+    },
+    {
+      "question": "8 સેમી પાયો અને 10 સેમી ઊંચાઈ ધરાવતા ત્રિકોણનું ક્ષેત્રફળ કેટલું થાય?",
+      "options": [
+        {
+          "option": "80 ચોરસ સેમી"
+        },
+        {
+          "option": "18 ચોરસ સેમી"
+        },
+        {
+          "option": "40 ચોરસ સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "36 ચોરસ સેમી"
+        }
+      ]
+    },
+    {
+      "question": "5 સેમી પાયો અને 9 સેમી ઊંચાઈ ધરાવતા સમાંતરબાજુ ચતુષ્કોણનું ક્ષેત્રફળ શોધો.",
+      "options": [
+        {
+          "option": "28 ચોરસ સેમી"
+        },
+        {
+          "option": "40 ચોરસ સેમી"
+        },
+        {
+          "option": "14 ચોરસ સેમી"
+        },
+        {
+          "option": "45 ચોરસ સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "4 સેમી બાજુ ધરાવતા ચોરસનું ક્ષેત્રફળ કેટલું થાય?",
+      "options": [
+        {
+          "option": "8 ચોરસ સેમી"
+        },
+        {
+          "option": "12 ચોરસ સેમી"
+        },
+        {
+          "option": "20 ચોરસ સેમી"
+        },
+        {
+          "option": "16 ચોરસ સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "એક લંબચોરસની લંબાઈ 6 સેમી અને પહોળાઈ 5 સેમી છે. ક્ષેત્રફળ કેટલું થાય?",
+      "options": [
+        {
+          "option": "22 ચોરસ સેમી"
+        },
+        {
+          "option": "25 ચોરસ સેમી"
+        },
+        {
+          "option": "30 ચોરસ સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "11 ચોરસ સેમી"
+        }
+      ]
+    },
+    {
+      "question": "12 સેમી પાયો અને 5 સેમી ઊંચાઈ ધરાવતા ત્રિકોણનું ક્ષેત્રફળ કેટલું થાય?",
+      "options": [
+        {
+          "option": "17 ચોરસ સેમી"
+        },
+        {
+          "option": "30 ચોરસ સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "60 ચોરસ સેમી"
+        },
+        {
+          "option": "34 ચોરસ સેમી"
+        }
+      ]
+    },
+    {
+      "question": "7 સેમી પાયો અને 4 સેમી ઊંચાઈ ધરાવતા સમાંતરબાજુ ચતુષ્કોણનું ક્ષેત્રફળ શોધો.",
+      "options": [
+        {
+          "option": "22 ચોરસ સેમી"
+        },
+        {
+          "option": "11 ચોરસ સેમી"
+        },
+        {
+          "option": "28 ચોરસ સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "35 ચોરસ સેમી"
+        }
+      ]
+    },
+    {
+      "question": "7 સેમી બાજુ ધરાવતા ચોરસનું ક્ષેત્રફળ કેટલું થાય?",
+      "options": [
+        {
+          "option": "14 ચોરસ સેમી"
+        },
+        {
+          "option": "49 ચોરસ સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "42 ચોરસ સેમી"
+        },
+        {
+          "option": "28 ચોરસ સેમી"
+        }
+      ]
+    },
+    {
+      "question": "એક લંબચોરસની લંબાઈ 9 સેમી અને પહોળાઈ 4 સેમી છે. ક્ષેત્રફળ કેટલું થાય?",
+      "options": [
+        {
+          "option": "45 ચોરસ સેમી"
+        },
+        {
+          "option": "26 ચોરસ સેમી"
+        },
+        {
+          "option": "36 ચોરસ સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "13 ચોરસ સેમી"
+        }
+      ]
+    },
+    {
+      "question": "4 સેમી પાયો અને 3 સેમી ઊંચાઈ ધરાવતા ત્રિકોણનું ક્ષેત્રફળ કેટલું થાય?",
+      "options": [
+        {
+          "option": "14 ચોરસ સેમી"
+        },
+        {
+          "option": "7 ચોરસ સેમી"
+        },
+        {
+          "option": "12 ચોરસ સેમી"
+        },
+        {
+          "option": "6 ચોરસ સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "10 સેમી પાયો અને 6 સેમી ઊંચાઈ ધરાવતા સમાંતરબાજુ ચતુષ્કોણનું ક્ષેત્રફળ શોધો.",
+      "options": [
+        {
+          "option": "16 ચોરસ સેમી"
+        },
+        {
+          "option": "50 ચોરસ સેમી"
+        },
+        {
+          "option": "60 ચોરસ સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "32 ચોરસ સેમી"
+        }
+      ]
+    },
+    {
+      "question": "ચોક્કસ 90 અંશના માપના ખૂણાને શું કહેવાય છે?",
+      "options": [
+        {
+          "option": "ગુરુકોણ"
+        },
+        {
+          "option": "લઘુકોણ"
+        },
+        {
+          "option": "કાટખૂણો",
+          "is_answer": true
+        },
+        {
+          "option": "વિપરીતકોણ"
+        }
+      ]
+    },
+    {
+      "question": "45 અંશના માપનો ખૂણો કયા પ્રકારનો ખૂણો ગણાય છે?",
+      "options": [
+        {
+          "option": "કાટખૂણો"
+        },
+        {
+          "option": "લઘુકોણ",
+          "is_answer": true
+        },
+        {
+          "option": "સરળકોણ"
+        },
+        {
+          "option": "ગુરુકોણ"
+        }
+      ]
+    },
+    {
+      "question": "કયો ખૂણો 90 અંશથી વધુ પરંતુ 180 અંશથી ઓછો હોય છે?",
+      "options": [
+        {
+          "option": "લઘુકોણ"
+        },
+        {
+          "option": "વિપરીતકોણ"
+        },
+        {
+          "option": "કાટખૂણો"
+        },
+        {
+          "option": "ગુરુકોણ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "સરળકોણનું માપ કેટલું હોય છે?",
+      "options": [
+        {
+          "option": "180 અંશ",
+          "is_answer": true
+        },
+        {
+          "option": "45 અંશ"
+        },
+        {
+          "option": "90 અંશ"
+        },
+        {
+          "option": "360 અંશ"
+        }
+      ]
+    },
+    {
+      "question": "210 અંશના માપના ખૂણાને શું કહેવાય છે?",
+      "options": [
+        {
+          "option": "ગુરુકોણ"
+        },
+        {
+          "option": "કાટખૂણો"
+        },
+        {
+          "option": "વિપરીતકોણ",
+          "is_answer": true
+        },
+        {
+          "option": "લઘુકોણ"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કયો લઘુકોણ છે?",
+      "options": [
+        {
+          "option": "30 અંશ",
+          "is_answer": true
+        },
+        {
+          "option": "180 અંશ"
+        },
+        {
+          "option": "90 અંશ"
+        },
+        {
+          "option": "120 અંશ"
+        }
+      ]
+    },
+    {
+      "question": "179 અંશનો ખૂણો કયા પ્રકારનો છે?",
+      "options": [
+        {
+          "option": "વિપરીતકોણ"
+        },
+        {
+          "option": "કાટખૂણો"
+        },
+        {
+          "option": "લઘુકોણ"
+        },
+        {
+          "option": "ગુરુકોણ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "વિપરીતકોણ હંમેશા કયા માપથી મોટો હોય છે?",
+      "options": [
+        {
+          "option": "90 અંશ"
+        },
+        {
+          "option": "180 અંશ",
+          "is_answer": true
+        },
+        {
+          "option": "0 અંશ"
+        },
+        {
+          "option": "360 અંશ"
+        }
+      ]
+    },
+    {
+      "question": "જો ખૂણાનું માપ 95 અંશ હોય, તો તે કયો ખૂણો છે?",
+      "options": [
+        {
+          "option": "લઘુકોણ"
+        },
+        {
+          "option": "કાટખૂણો"
+        },
+        {
+          "option": "વિપરીતકોણ"
+        },
+        {
+          "option": "ગુરુકોણ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "કયો ખૂણો બરાબર 360 અંશનો હોય છે?",
+      "options": [
+        {
+          "option": "પૂર્ણકોણ",
+          "is_answer": true
+        },
+        {
+          "option": "વિપરીતકોણ"
+        },
+        {
+          "option": "કાટખૂણો"
+        },
+        {
+          "option": "સરળકોણ"
+        }
+      ]
+    },
+    {
+      "question": "89 અંશના ખૂણાને શું કહેવાય?",
+      "options": [
+        {
+          "option": "કાટખૂણો"
+        },
+        {
+          "option": "લઘુકોણ",
+          "is_answer": true
+        },
+        {
+          "option": "વિપરીતકોણ"
+        },
+        {
+          "option": "ગુરુકોણ"
+        }
+      ]
+    },
+    {
+      "question": "ગુરુકોણનો વિસ્તાર કેટલો છે?",
+      "options": [
+        {
+          "option": "180 થી 360 અંશ"
+        },
+        {
+          "option": "0 થી 180 અંશ"
+        },
+        {
+          "option": "0 થી 90 અંશ"
+        },
+        {
+          "option": "90 થી 180 અંશ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "આમાંથી કયો વિપરીતકોણ છે?",
+      "options": [
+        {
+          "option": "90 અંશ"
+        },
+        {
+          "option": "270 અંશ",
+          "is_answer": true
+        },
+        {
+          "option": "180 અંશ"
+        },
+        {
+          "option": "45 અંશ"
+        }
+      ]
+    },
+    {
+      "question": "90 અંશથી નાના ખૂણાને શું કહેવાય છે?",
+      "options": [
+        {
+          "option": "કાટખૂણો"
+        },
+        {
+          "option": "ગુરુકોણ"
+        },
+        {
+          "option": "લઘુકોણ",
+          "is_answer": true
+        },
+        {
+          "option": "વિપરીતકોણ"
+        }
+      ]
+    },
+    {
+      "question": "સરળકોણ શું બનાવે છે?",
+      "options": [
+        {
+          "option": "ત્રિકોણ"
+        },
+        {
+          "option": "વર્તુળ"
+        },
+        {
+          "option": "ચોરસ ખૂણો"
+        },
+        {
+          "option": "સીધી રેખા",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "કાટખૂણાનું માપ કેટલું હોય છે?",
+      "options": [
+        {
+          "option": "90 અંશ",
+          "is_answer": true
+        },
+        {
+          "option": "360 અંશ"
+        },
+        {
+          "option": "180 અંશ"
+        },
+        {
+          "option": "45 અંશ"
+        }
+      ]
+    },
+    {
+      "question": "181 અંશનો ખૂણો કયો છે?",
+      "options": [
+        {
+          "option": "ગુરુકોણ"
+        },
+        {
+          "option": "વિપરીતકોણ",
+          "is_answer": true
+        },
+        {
+          "option": "લઘુકોણ"
+        },
+        {
+          "option": "સરળકોણ"
+        }
+      ]
+    },
+    {
+      "question": "કયો ખૂણો 180 અને 360 અંશની વચ્ચે હોય છે?",
+      "options": [
+        {
+          "option": "ગુરુકોણ"
+        },
+        {
+          "option": "કાટખૂણો"
+        },
+        {
+          "option": "વિપરીતકોણ",
+          "is_answer": true
+        },
+        {
+          "option": "લઘુકોણ"
+        }
+      ]
+    },
+    {
+      "question": "120 અંશનો ખૂણો કયો છે?",
+      "options": [
+        {
+          "option": "વિપરીતકોણ"
+        },
+        {
+          "option": "કાટખૂણો"
+        },
+        {
+          "option": "લઘુકોણ"
+        },
+        {
+          "option": "ગુરુકોણ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "આમાંથી કયો કાટખૂણો છે?",
+      "options": [
+        {
+          "option": "180 અંશ"
+        },
+        {
+          "option": "90 અંશ",
+          "is_answer": true
+        },
+        {
+          "option": "89 અંશ"
+        },
+        {
+          "option": "91 અંશ"
+        }
+      ]
+    },
+    {
+      "question": "5 સેમી લંબાઈ, 3 સેમી પહોળાઈ અને 2 સેમી ઊંચાઈ ધરાવતા બોક્સનું ઘનફળ કેટલું થાય?",
+      "options": [
+        {
+          "option": "25 ઘન સેમી"
+        },
+        {
+          "option": "30 ઘન સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "15 ઘન સેમી"
+        },
+        {
+          "option": "10 ઘન સેમી"
+        }
+      ]
+    },
+    {
+      "question": "એક લંબઘનનું માપ 4 મીટર x 4 મીટર x 4 મીટર છે. તેનું ઘનફળ કેટલું છે?",
+      "options": [
+        {
+          "option": "16 ઘન મીટર"
+        },
+        {
+          "option": "80 ઘન મીટર"
+        },
+        {
+          "option": "12 ઘન મીટર"
+        },
+        {
+          "option": "64 ઘન મીટર",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો એક બોક્સના પાયાનું ક્ષેત્રફળ 20 ચોરસ સેમી અને ઊંચાઈ 5 સેમી હોય, તો તેનું ઘનફળ કેટલું થાય?",
+      "options": [
+        {
+          "option": "100 ઘન સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "25 ઘન સેમી"
+        },
+        {
+          "option": "15 ઘન સેમી"
+        },
+        {
+          "option": "4 ઘન સેમી"
+        }
+      ]
+    },
+    {
+      "question": "10 સેમી લંબાઈ, 2 સેમી પહોળાઈ અને 4 સેમી ઊંચાઈ ધરાવતા પાત્રનું ઘનફળ શોધો.",
+      "options": [
+        {
+          "option": "20 ઘન સેમી"
+        },
+        {
+          "option": "40 ઘન સેમી"
+        },
+        {
+          "option": "16 ઘન સેમી"
+        },
+        {
+          "option": "80 ઘન સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "એક બોક્સ 6 મીટર લાંબુ, 3 મીટર પહોળું અને 2 મીટર ઊંચું છે. તેનું ઘનફળ કેટલું છે?",
+      "options": [
+        {
+          "option": "18 ઘન મીટર"
+        },
+        {
+          "option": "24 ઘન મીટર"
+        },
+        {
+          "option": "11 ઘન મીટર"
+        },
+        {
+          "option": "36 ઘન મીટર",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "3 સેમી બાજુની લંબાઈ ધરાવતા સમઘનનું ઘનફળ કેટલું થાય?",
+      "options": [
+        {
+          "option": "9 ઘન સેમી"
+        },
+        {
+          "option": "12 ઘન સેમી"
+        },
+        {
+          "option": "6 ઘન સેમી"
+        },
+        {
+          "option": "27 ઘન સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "એક લંબઘનનું ઘનફળ 48 ઘન સેમી છે. જો લંબાઈ 4 સેમી અને પહોળાઈ 3 સેમી હોય, તો ઊંચાઈ કેટલી થાય?",
+      "options": [
+        {
+          "option": "6 સેમી"
+        },
+        {
+          "option": "4 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "3 સેમી"
+        },
+        {
+          "option": "8 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "5 મીટર x 2 મીટર x 1 મીટર માપ ધરાવતા બોક્સનું ઘનફળ શોધો.",
+      "options": [
+        {
+          "option": "15 ઘન મીટર"
+        },
+        {
+          "option": "7 ઘન મીટર"
+        },
+        {
+          "option": "8 ઘન મીટર"
+        },
+        {
+          "option": "10 ઘન મીટર",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો લંબઘનનું ઘનફળ 100 ઘન સેમી અને ઊંચાઈ 10 સેમી હોય, તો પાયાનું ક્ષેત્રફળ કેટલું થાય?",
+      "options": [
+        {
+          "option": "10 ચોરસ સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "20 ચોરસ સેમી"
+        },
+        {
+          "option": "100 ચોરસ સેમી"
+        },
+        {
+          "option": "5 ચોરસ સેમી"
+        }
+      ]
+    },
+    {
+      "question": "7 સેમી લંબાઈ, 2 સેમી પહોળાઈ અને 3 સેમી ઊંચાઈ ધરાવતા બોક્સનું ઘનફળ કેટલું થાય?",
+      "options": [
+        {
+          "option": "14 ઘન સેમી"
+        },
+        {
+          "option": "12 ઘન સેમી"
+        },
+        {
+          "option": "21 ઘન સેમી"
+        },
+        {
+          "option": "42 ઘન સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "એક પ્રિઝમના પાયાનું ક્ષેત્રફળ 50 ચોરસ મીટર અને ઊંચાઈ 4 મીટર છે. તેનું ઘનફળ કેટલું છે?",
+      "options": [
+        {
+          "option": "100 ઘન મીટર"
+        },
+        {
+          "option": "250 ઘન મીટર"
+        },
+        {
+          "option": "54 ઘન મીટર"
+        },
+        {
+          "option": "200 ઘન મીટર",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "8 સેમી લંબાઈ, 5 સેમી પહોળાઈ અને 10 સેમી ઊંચાઈ ધરાવતા બોક્સનું ઘનફળ ગણો.",
+      "options": [
+        {
+          "option": "50 ઘન સેમી"
+        },
+        {
+          "option": "80 ઘન સેમી"
+        },
+        {
+          "option": "400 ઘન સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "23 ઘન સેમી"
+        }
+      ]
+    },
+    {
+      "question": "એક બોક્સનું ઘનફળ 60 ઘન સેમી છે. જો પાયાનું ક્ષેત્રફળ 15 ચોરસ સેમી હોય, તો ઊંચાઈ કેટલી થાય?",
+      "options": [
+        {
+          "option": "4 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "5 સેમી"
+        },
+        {
+          "option": "3 સેમી"
+        },
+        {
+          "option": "6 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "2 મીટર x 3 મીટર x 5 મીટર માપ ધરાવતા લંબઘનનું ઘનફળ કેટલું થાય?",
+      "options": [
+        {
+          "option": "30 ઘન મીટર",
+          "is_answer": true
+        },
+        {
+          "option": "15 ઘન મીટર"
+        },
+        {
+          "option": "10 ઘન મીટર"
+        },
+        {
+          "option": "25 ઘન મીટર"
+        }
+      ]
+    },
+    {
+      "question": "જો એક બોક્સ 4 સેમી લાંબુ, 4 સેમી પહોળું અને 2 સેમી ઊંચું હોય, તો તેનું ઘનફળ કેટલું થાય?",
+      "options": [
+        {
+          "option": "10 ઘન સેમી"
+        },
+        {
+          "option": "16 ઘન સેમી"
+        },
+        {
+          "option": "24 ઘન સેમી"
+        },
+        {
+          "option": "32 ઘન સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "4 સેમી બાજુ ધરાવતા સમઘનનું ઘનફળ કેટલું થાય?",
+      "options": [
+        {
+          "option": "64 ઘન સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "16 ઘન સેમી"
+        },
+        {
+          "option": "8 ઘન સેમી"
+        },
+        {
+          "option": "12 ઘન સેમી"
+        }
+      ]
+    },
+    {
+      "question": "એક લંબચોરસ બોક્સનું ઘનફળ 120 ઘન સેમી છે. જો લંબાઈ 6 સેમી અને ઊંચાઈ 4 સેમી હોય, તો પહોળાઈ કેટલી થાય?",
+      "options": [
+        {
+          "option": "4 સેમી"
+        },
+        {
+          "option": "6 સેમી"
+        },
+        {
+          "option": "5 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "10 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "9 મીટર x 2 મીટર x 3 મીટર માપ ધરાવતા બોક્સનું ઘનફળ શોધો.",
+      "options": [
+        {
+          "option": "54 ઘન મીટર",
+          "is_answer": true
+        },
+        {
+          "option": "18 ઘન મીટર"
+        },
+        {
+          "option": "45 ઘન મીટર"
+        },
+        {
+          "option": "27 ઘન મીટર"
+        }
+      ]
+    },
+    {
+      "question": "જો એક બોક્સના પાયાનું ક્ષેત્રફળ 12 ચોરસ સેમી અને ઊંચાઈ 3 સેમી હોય, તો તેનું ઘનફળ કેટલું થાય?",
+      "options": [
+        {
+          "option": "15 ઘન સેમી"
+        },
+        {
+          "option": "9 ઘન સેમી"
+        },
+        {
+          "option": "36 ઘન સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "4 ઘન સેમી"
+        }
+      ]
+    },
+    {
+      "question": "5 સેમી લંબાઈ, 5 સેમી પહોળાઈ અને 4 સેમી ઊંચાઈ ધરાવતા બોક્સનું ઘનફળ કેટલું થાય?",
+      "options": [
+        {
+          "option": "100 ઘન સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "25 ઘન સેમી"
+        },
+        {
+          "option": "20 ઘન સેમી"
+        },
+        {
+          "option": "50 ઘન સેમી"
+        }
+      ]
+    },
+    {
+      "question": "30° ના ખૂણાનો કોટિકોણ કેટલો થાય?",
+      "options": [
+        {
+          "option": "150°"
+        },
+        {
+          "option": "60°",
+          "is_answer": true
+        },
+        {
+          "option": "30°"
+        },
+        {
+          "option": "90°"
+        }
+      ]
+    },
+    {
+      "question": "100° ના ખૂણાનો પૂરકકોણ કેટલો થાય?",
+      "options": [
+        {
+          "option": "260°"
+        },
+        {
+          "option": "80°",
+          "is_answer": true
+        },
+        {
+          "option": "10°"
+        },
+        {
+          "option": "100°"
+        }
+      ]
+    },
+    {
+      "question": "બે ખૂણા કોટિકોણ છે. જો એક ખૂણો 45° હોય, તો બીજો ખૂણો કેટલો હોય?",
+      "options": [
+        {
+          "option": "55°"
+        },
+        {
+          "option": "90°"
+        },
+        {
+          "option": "135°"
+        },
+        {
+          "option": "45°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "બે ખૂણા પૂરકકોણ છે. જો એક ખૂણો 120° હોય, તો બીજો ખૂણો કેટલો હોય?",
+      "options": [
+        {
+          "option": "120°"
+        },
+        {
+          "option": "240°"
+        },
+        {
+          "option": "30°"
+        },
+        {
+          "option": "60°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "20° ના ખૂણાનો કોટિકોણ કેટલો થાય?",
+      "options": [
+        {
+          "option": "70°",
+          "is_answer": true
+        },
+        {
+          "option": "90°"
+        },
+        {
+          "option": "20°"
+        },
+        {
+          "option": "160°"
+        }
+      ]
+    },
+    {
+      "question": "50° ના ખૂણાનો પૂરકકોણ કેટલો થાય?",
+      "options": [
+        {
+          "option": "130°",
+          "is_answer": true
+        },
+        {
+          "option": "40°"
+        },
+        {
+          "option": "50°"
+        },
+        {
+          "option": "310°"
+        }
+      ]
+    },
+    {
+      "question": "જો ખૂણો 0° હોય, તો તેનો કોટિકોણ કેટલો થાય?",
+      "options": [
+        {
+          "option": "45°"
+        },
+        {
+          "option": "180°"
+        },
+        {
+          "option": "90°",
+          "is_answer": true
+        },
+        {
+          "option": "0°"
+        }
+      ]
+    },
+    {
+      "question": "જો ખૂણો 90° હોય, તો તેનો પૂરકકોણ કેટલો થાય?",
+      "options": [
+        {
+          "option": "0°"
+        },
+        {
+          "option": "90°",
+          "is_answer": true
+        },
+        {
+          "option": "180°"
+        },
+        {
+          "option": "270°"
+        }
+      ]
+    },
+    {
+      "question": "15° ના ખૂણાનો કોટિકોણ કેટલો થાય?",
+      "options": [
+        {
+          "option": "15°"
+        },
+        {
+          "option": "75°",
+          "is_answer": true
+        },
+        {
+          "option": "90°"
+        },
+        {
+          "option": "165°"
+        }
+      ]
+    },
+    {
+      "question": "110° ના ખૂણાનો પૂરકકોણ કેટલો થાય?",
+      "options": [
+        {
+          "option": "70°",
+          "is_answer": true
+        },
+        {
+          "option": "20°"
+        },
+        {
+          "option": "250°"
+        },
+        {
+          "option": "110°"
+        }
+      ]
+    },
+    {
+      "question": "બે ખૂણા કોટિકોણ છે. જો એક ખૂણો 35° હોય, તો બીજો ખૂણો કેટલો હોય?",
+      "options": [
+        {
+          "option": "90°"
+        },
+        {
+          "option": "55°",
+          "is_answer": true
+        },
+        {
+          "option": "145°"
+        },
+        {
+          "option": "35°"
+        }
+      ]
+    },
+    {
+      "question": "બે ખૂણા પૂરકકોણ છે. જો એક ખૂણો 150° હોય, તો બીજો ખૂણો કેટલો હોય?",
+      "options": [
+        {
+          "option": "60°"
+        },
+        {
+          "option": "30°",
+          "is_answer": true
+        },
+        {
+          "option": "150°"
+        },
+        {
+          "option": "210°"
+        }
+      ]
+    },
+    {
+      "question": "40° ના ખૂણાનો કોટિકોણ કેટલો થાય?",
+      "options": [
+        {
+          "option": "90°"
+        },
+        {
+          "option": "140°"
+        },
+        {
+          "option": "40°"
+        },
+        {
+          "option": "50°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "25° ના ખૂણાનો પૂરકકોણ કેટલો થાય?",
+      "options": [
+        {
+          "option": "25°"
+        },
+        {
+          "option": "65°"
+        },
+        {
+          "option": "335°"
+        },
+        {
+          "option": "155°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો ખૂણો 45° હોય, તો તેનો પૂરકકોણ કેટલો થાય?",
+      "options": [
+        {
+          "option": "135°",
+          "is_answer": true
+        },
+        {
+          "option": "45°"
+        },
+        {
+          "option": "90°"
+        },
+        {
+          "option": "225°"
+        }
+      ]
+    },
+    {
+      "question": "5° ના ખૂણાનો કોટિકોણ કેટલો થાય?",
+      "options": [
+        {
+          "option": "175°"
+        },
+        {
+          "option": "5°"
+        },
+        {
+          "option": "85°",
+          "is_answer": true
+        },
+        {
+          "option": "90°"
+        }
+      ]
+    },
+    {
+      "question": "170° ના ખૂણાનો પૂરકકોણ કેટલો થાય?",
+      "options": [
+        {
+          "option": "80°"
+        },
+        {
+          "option": "170°"
+        },
+        {
+          "option": "10°",
+          "is_answer": true
+        },
+        {
+          "option": "190°"
+        }
+      ]
+    },
+    {
+      "question": "બે ખૂણા કોટિકોણ છે. જો એક ખૂણો 60° હોય, તો બીજો ખૂણો કેટલો હોય?",
+      "options": [
+        {
+          "option": "120°"
+        },
+        {
+          "option": "30°",
+          "is_answer": true
+        },
+        {
+          "option": "90°"
+        },
+        {
+          "option": "60°"
+        }
+      ]
+    },
+    {
+      "question": "55° ના ખૂણાનો કોટિકોણ કેટલો થાય?",
+      "options": [
+        {
+          "option": "35°",
+          "is_answer": true
+        },
+        {
+          "option": "90°"
+        },
+        {
+          "option": "55°"
+        },
+        {
+          "option": "125°"
+        }
+      ]
+    },
+    {
+      "question": "95° ના ખૂણાનો પૂરકકોણ કેટલો થાય?",
+      "options": [
+        {
+          "option": "5°"
+        },
+        {
+          "option": "265°"
+        },
+        {
+          "option": "85°",
+          "is_answer": true
+        },
+        {
+          "option": "95°"
+        }
+      ]
+    },
+    {
+      "question": "જો વર્તુળની ત્રિજ્યા 7 સેમી હોય, તો તેનો વ્યાસ કેટલો થાય?",
+      "options": [
+        {
+          "option": "49 સેમી"
+        },
+        {
+          "option": "21 સેમી"
+        },
+        {
+          "option": "14 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "7 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "7 સેમી ત્રિજ્યા ધરાવતા વર્તુળનો પરિઘ કેટલો થાય? (pi = 22/7 લો)",
+      "options": [
+        {
+          "option": "88 સેમી"
+        },
+        {
+          "option": "154 સેમી"
+        },
+        {
+          "option": "44 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "22 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "7 સેમી ત્રિજ્યા ધરાવતા વર્તુળનું ક્ષેત્રફળ કેટલું થાય? (pi = 22/7 લો)",
+      "options": [
+        {
+          "option": "49 ચો.સેમી"
+        },
+        {
+          "option": "44 ચો.સેમી"
+        },
+        {
+          "option": "77 ચો.સેમી"
+        },
+        {
+          "option": "154 ચો.સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો વર્તુળનો વ્યાસ 20 સેમી હોય, તો તેની ત્રિજ્યા કેટલી થાય?",
+      "options": [
+        {
+          "option": "40 સેમી"
+        },
+        {
+          "option": "5 સેમી"
+        },
+        {
+          "option": "10 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "20 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "10 સેમી વ્યાસ ધરાવતા વર્તુળનો પરિઘ કેટલો થાય? (pi = 3.14 લો)",
+      "options": [
+        {
+          "option": "62.8 સેમી"
+        },
+        {
+          "option": "15.7 સેમી"
+        },
+        {
+          "option": "31.4 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "314 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "10 સેમી વ્યાસ ધરાવતા વર્તુળનું ક્ષેત્રફળ કેટલું થાય? (pi = 3.14 લો)",
+      "options": [
+        {
+          "option": "78.5 ચો.સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "157 ચો.સેમી"
+        },
+        {
+          "option": "31.4 ચો.સેમી"
+        },
+        {
+          "option": "314 ચો.સેમી"
+        }
+      ]
+    },
+    {
+      "question": "જો વર્તુળનો પરિઘ 44 સેમી હોય, તો તેની ત્રિજ્યા કેટલી થાય? (pi = 22/7 લો)",
+      "options": [
+        {
+          "option": "3.5 સેમી"
+        },
+        {
+          "option": "14 સેમી"
+        },
+        {
+          "option": "7 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "22 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "વર્તુળના ક્ષેત્રફળ માટેનું સૂત્ર કયું છે?",
+      "options": [
+        {
+          "option": "pi * d"
+        },
+        {
+          "option": "2 * pi * r"
+        },
+        {
+          "option": "pi * r^2",
+          "is_answer": true
+        },
+        {
+          "option": "r^2"
+        }
+      ]
+    },
+    {
+      "question": "વર્તુળના પરિઘ માટેનું સૂત્ર કયું છે?",
+      "options": [
+        {
+          "option": "2 * pi * r",
+          "is_answer": true
+        },
+        {
+          "option": "pi * r^2"
+        },
+        {
+          "option": "d^2"
+        },
+        {
+          "option": "r^2"
+        }
+      ]
+    },
+    {
+      "question": "જો ત્રિજ્યા બમણી કરવામાં આવે, તો વર્તુળનું ક્ષેત્રફળ કેટલું થાય?",
+      "options": [
+        {
+          "option": "8 ગણું"
+        },
+        {
+          "option": "તેટલું જ રહે"
+        },
+        {
+          "option": "2 ગણું"
+        },
+        {
+          "option": "4 ગણું",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "154 ચો.સેમી ક્ષેત્રફળ ધરાવતા વર્તુળની ત્રિજ્યા કેટલી થાય? (pi = 22/7 લો)",
+      "options": [
+        {
+          "option": "14 સેમી"
+        },
+        {
+          "option": "7 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "21 સેમી"
+        },
+        {
+          "option": "49 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "વર્તુળના પરિઘ અને તેના વ્યાસનો ગુણોત્તર હંમેશા કેટલો હોય છે?",
+      "options": [
+        {
+          "option": "1/pi"
+        },
+        {
+          "option": "r"
+        },
+        {
+          "option": "pi",
+          "is_answer": true
+        },
+        {
+          "option": "2 * pi"
+        }
+      ]
+    },
+    {
+      "question": "જો વ્યાસ 14 સેમી હોય, તો ક્ષેત્રફળ કેટલું થાય? (pi = 22/7 લો)",
+      "options": [
+        {
+          "option": "44 ચો.સેમી"
+        },
+        {
+          "option": "616 ચો.સેમી"
+        },
+        {
+          "option": "308 ચો.સેમી"
+        },
+        {
+          "option": "154 ચો.સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "3.5 સેમી ત્રિજ્યા ધરાવતા વર્તુળનો પરિઘ કેટલો થાય? (pi = 22/7 લો)",
+      "options": [
+        {
+          "option": "22 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "7 સેમી"
+        },
+        {
+          "option": "11 સેમી"
+        },
+        {
+          "option": "44 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "જો વર્તુળનું ક્ષેત્રફળ 314 ચો.સેમી હોય, તો તેની ત્રિજ્યા કેટલી થાય? (pi = 3.14 લો)",
+      "options": [
+        {
+          "option": "100 સેમી"
+        },
+        {
+          "option": "10 સેમી",
+          "is_answer": true
+        },
+        {
+          "option": "20 સેમી"
+        },
+        {
+          "option": "5 સેમી"
+        }
+      ]
+    },
+    {
+      "question": "વર્તુળની કિનારીની આસપાસના અંતરને શું કહેવાય છે?",
+      "options": [
+        {
+          "option": "વ્યાસ"
+        },
+        {
+          "option": "ત્રિજ્યા"
+        },
+        {
+          "option": "પરિઘ",
+          "is_answer": true
+        },
+        {
+          "option": "ક્ષેત્રફળ"
+        }
+      ]
+    },
+    {
+      "question": "કેન્દ્રમાંથી પસાર થતો અને વર્તુળ પરના બે બિંદુઓને જોડતો રેખાખંડ કયો છે?",
+      "options": [
+        {
+          "option": "વ્યાસ",
+          "is_answer": true
+        },
+        {
+          "option": "જીવા"
+        },
+        {
+          "option": "ત્રિજ્યા"
+        },
+        {
+          "option": "પરિઘ"
+        }
+      ]
+    },
+    {
+      "question": "જો ત્રિજ્યા 1 સેમી હોય, તો ક્ષેત્રફળ કેટલું થાય? (pi = 3.14 લો)",
+      "options": [
+        {
+          "option": "6.28 ચો.સેમી"
+        },
+        {
+          "option": "12.56 ચો.સેમી"
+        },
+        {
+          "option": "1.57 ચો.સેમી"
+        },
+        {
+          "option": "3.14 ચો.સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો ત્રિજ્યા 1 સેમી હોય, તો પરિઘ કેટલો થાય? (pi = 3.14 લો)",
+      "options": [
+        {
+          "option": "3.14 સેમી"
+        },
+        {
+          "option": "1.57 સેમી"
+        },
+        {
+          "option": "12.56 સેમી"
+        },
+        {
+          "option": "6.28 સેમી",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "ત્રિજ્યા (r) અને વ્યાસ (d) વચ્ચેનો સાચો સંબંધ કયો છે?",
+      "options": [
+        {
+          "option": "d = 2r",
+          "is_answer": true
+        },
+        {
+          "option": "d = r^2"
+        },
+        {
+          "option": "r = 2d"
+        },
+        {
+          "option": "r = pi * d"
+        }
+      ]
+    },
+    {
+      "question": "ત્રણ સમાન લંબાઈની બાજુઓ ધરાવતા ત્રિકોણને શું કહેવાય છે?",
+      "options": [
+        {
+          "option": "કાટકોણ"
+        },
+        {
+          "option": "વિષમબાજુ"
+        },
+        {
+          "option": "સમદ્વિબાજુ"
+        },
+        {
+          "option": "સમબાજુ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "ત્રિકોણના તમામ આંતરિક ખૂણાઓનો સરવાળો કેટલો હોય છે?",
+      "options": [
+        {
+          "option": "360 અંશ"
+        },
+        {
+          "option": "180 અંશ",
+          "is_answer": true
+        },
+        {
+          "option": "90 અંશ"
+        },
+        {
+          "option": "270 અંશ"
+        }
+      ]
+    },
+    {
+      "question": "બરાબર બે સમાન બાજુઓ ધરાવતા ત્રિકોણને શું કહેવાય છે?",
+      "options": [
+        {
+          "option": "સમબાજુ"
+        },
+        {
+          "option": "વિષમબાજુ"
+        },
+        {
+          "option": "ગુરુકોણ"
+        },
+        {
+          "option": "સમદ્વિબાજુ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જે ત્રિકોણની ત્રણેય બાજુઓ અલગ-અલગ લંબાઈની હોય તેને શું કહેવાય?",
+      "options": [
+        {
+          "option": "સમબાજુ"
+        },
+        {
+          "option": "લઘુકોણ"
+        },
+        {
+          "option": "સમદ્વિબાજુ"
+        },
+        {
+          "option": "વિષમબાજુ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જે ત્રિકોણમાં એક ખૂણો 90 અંશનો હોય તેને શું કહેવાય?",
+      "options": [
+        {
+          "option": "કાટકોણ",
+          "is_answer": true
+        },
+        {
+          "option": "સમબાજુ"
+        },
+        {
+          "option": "ગુરુકોણ"
+        },
+        {
+          "option": "લઘુકોણ"
+        }
+      ]
+    },
+    {
+      "question": "જો ત્રિકોણના તમામ ખૂણા 90 અંશથી ઓછા હોય, તો તેને શું કહેવાય?",
+      "options": [
+        {
+          "option": "કાટકોણ"
+        },
+        {
+          "option": "વિષમબાજુ"
+        },
+        {
+          "option": "ગુરુકોણ"
+        },
+        {
+          "option": "લઘુકોણ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જે ત્રિકોણમાં એક ખૂણો 90 અંશથી મોટો હોય તેને શું કહેવાય?",
+      "options": [
+        {
+          "option": "કાટકોણ"
+        },
+        {
+          "option": "ગુરુકોણ",
+          "is_answer": true
+        },
+        {
+          "option": "લઘુકોણ"
+        },
+        {
+          "option": "સમદ્વિબાજુ"
+        }
+      ]
+    },
+    {
+      "question": "સમબાજુ ત્રિકોણમાં દરેક ખૂણાનું માપ કેટલું હોય છે?",
+      "options": [
+        {
+          "option": "45 અંશ"
+        },
+        {
+          "option": "30 અંશ"
+        },
+        {
+          "option": "90 અંશ"
+        },
+        {
+          "option": "60 અંશ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "શું ત્રિકોણમાં બે કાટખૂણા હોઈ શકે?",
+      "options": [
+        {
+          "option": "માત્ર સમદ્વિબાજુ હોય તો"
+        },
+        {
+          "option": "હા"
+        },
+        {
+          "option": "માત્ર વિષમબાજુ હોય તો"
+        },
+        {
+          "option": "ના",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "3 સેમી, 4 સેમી અને 5 સેમી બાજુઓ ધરાવતો ત્રિકોણ કેવો છે?",
+      "options": [
+        {
+          "option": "સમદ્વિબાજુ ત્રિકોણ"
+        },
+        {
+          "option": "સમબાજુ ત્રિકોણ"
+        },
+        {
+          "option": "લઘુકોણ ત્રિકોણ"
+        },
+        {
+          "option": "વિષમબાજુ ત્રિકોણ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો ત્રિકોણના બે ખૂણા 50 અને 60 અંશના હોય, તો ત્રીજો ખૂણો કેટલાનો હોય?",
+      "options": [
+        {
+          "option": "60 અંશ"
+        },
+        {
+          "option": "50 અંશ"
+        },
+        {
+          "option": "80 અંશ"
+        },
+        {
+          "option": "70 અંશ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "કયા ત્રિકોણમાં બધી બાજુઓ અને બધા ખૂણા અસમાન હોય છે?",
+      "options": [
+        {
+          "option": "કાટકોણ"
+        },
+        {
+          "option": "સમદ્વિબાજુ"
+        },
+        {
+          "option": "વિષમબાજુ",
+          "is_answer": true
+        },
+        {
+          "option": "સમબાજુ"
+        }
+      ]
+    },
+    {
+      "question": "સમદ્વિબાજુ ત્રિકોણમાં ઓછામાં ઓછા કેટલા ખૂણા સમાન હોવા જોઈએ?",
+      "options": [
+        {
+          "option": "એક"
+        },
+        {
+          "option": "બે",
+          "is_answer": true
+        },
+        {
+          "option": "શૂન્ય"
+        },
+        {
+          "option": "ત્રણ"
+        }
+      ]
+    },
+    {
+      "question": "40, 40 અને 100 અંશના ખૂણા ધરાવતા ત્રિકોણનું વર્ગીકરણ શું છે?",
+      "options": [
+        {
+          "option": "ગુરુકોણ વિષમબાજુ"
+        },
+        {
+          "option": "ગુરુકોણ સમદ્વિબાજુ",
+          "is_answer": true
+        },
+        {
+          "option": "લઘુકોણ સમબાજુ"
+        },
+        {
+          "option": "કાટકોણ વિષમબાજુ"
+        }
+      ]
+    },
+    {
+      "question": "શું ત્રિકોણમાં ત્રણ લઘુકોણ હોઈ શકે?",
+      "options": [
+        {
+          "option": "ના"
+        },
+        {
+          "option": "માત્ર સમબાજુ હોય તો"
+        },
+        {
+          "option": "હા",
+          "is_answer": true
+        },
+        {
+          "option": "માત્ર સમદ્વિબાજુ હોય તો"
+        }
+      ]
+    },
+    {
+      "question": "ત્રિકોણની કોઈપણ બે બાજુઓનો સરવાળો કેવો હોવો જોઈએ?",
+      "options": [
+        {
+          "option": "ત્રીજી બાજુ કરતાં મોટો",
+          "is_answer": true
+        },
+        {
+          "option": "ત્રીજી બાજુ જેટલો"
+        },
+        {
+          "option": "ત્રીજી બાજુના અડધા જેટલો"
+        },
+        {
+          "option": "ત્રીજી બાજુ કરતાં નાનો"
+        }
+      ]
+    },
+    {
+      "question": "60, 60 અને 60 અંશના ખૂણા ધરાવતો ત્રિકોણ કેવો છે?",
+      "options": [
+        {
+          "option": "કાટકોણ"
+        },
+        {
+          "option": "સમબાજુ",
+          "is_answer": true
+        },
+        {
+          "option": "ગુરુકોણ"
+        },
+        {
+          "option": "વિષમબાજુ"
+        }
+      ]
+    },
+    {
+      "question": "કયા પ્રકારના ત્રિકોણમાં બધા ખૂણા સમાન હોય છે?",
+      "options": [
+        {
+          "option": "સમબાજુ",
+          "is_answer": true
+        },
+        {
+          "option": "વિષમબાજુ"
+        },
+        {
+          "option": "સમદ્વિબાજુ"
+        },
+        {
+          "option": "કાટકોણ"
+        }
+      ]
+    },
+    {
+      "question": "જો ત્રિકોણનો એક ખૂણો 90 અંશનો હોય, તો બાકીના બે ખૂણા કેવા હોય?",
+      "options": [
+        {
+          "option": "લઘુકોણ",
+          "is_answer": true
+        },
+        {
+          "option": "સમાન"
+        },
+        {
+          "option": "કાટકોણ"
+        },
+        {
+          "option": "ગુરુકોણ"
+        }
+      ]
+    },
+    {
+      "question": "કાટકોણ અને સમદ્વિબાજુ બંને હોય તેવા ત્રિકોણના ખૂણા કેટલા હોય?",
+      "options": [
+        {
+          "option": "60, 60, 60"
+        },
+        {
+          "option": "90, 45, 45",
+          "is_answer": true
+        },
+        {
+          "option": "90, 50, 40"
+        },
+        {
+          "option": "90, 60, 30"
+        }
+      ]
+    },
+    {
+      "question": "કાર્ટેઝિયન સમતલ પર ઉગમબિંદુના યામ શું છે?",
+      "options": [
+        {
+          "option": "(0, 0)",
+          "is_answer": true
+        },
+        {
+          "option": "(0, 1)"
+        },
+        {
+          "option": "(1, 1)"
+        },
+        {
+          "option": "(1, 0)"
+        }
+      ]
+    },
+    {
+      "question": "કયા ચરણમાં x અને y બંને યામ ધન હોય છે?",
+      "options": [
+        {
+          "option": "ચોથું ચરણ"
+        },
+        {
+          "option": "પ્રથમ ચરણ",
+          "is_answer": true
+        },
+        {
+          "option": "ત્રીજું ચરણ"
+        },
+        {
+          "option": "બીજું ચરણ"
+        }
+      ]
+    },
+    {
+      "question": "જો કોઈ બિંદુના યામ (-3, 5) હોય, તો તે કયા ચરણમાં આવેલું છે?",
+      "options": [
+        {
+          "option": "ત્રીજું ચરણ"
+        },
+        {
+          "option": "બીજું ચરણ",
+          "is_answer": true
+        },
+        {
+          "option": "પ્રથમ ચરણ"
+        },
+        {
+          "option": "ચોથું ચરણ"
+        }
+      ]
+    },
+    {
+      "question": "ત્રીજા ચરણમાં યામની નિશાનીઓ શું હોય છે?",
+      "options": [
+        {
+          "option": "(-, +)"
+        },
+        {
+          "option": "(+, -)"
+        },
+        {
+          "option": "(-, -)",
+          "is_answer": true
+        },
+        {
+          "option": "(+, +)"
+        }
+      ]
+    },
+    {
+      "question": "યામ સમતલમાં આડી રેખા કયા અક્ષ દ્વારા દર્શાવવામાં આવે છે?",
+      "options": [
+        {
+          "option": "z-અક્ષ"
+        },
+        {
+          "option": "ઉગમબિંદુ"
+        },
+        {
+          "option": "x-અક્ષ",
+          "is_answer": true
+        },
+        {
+          "option": "y-અક્ષ"
+        }
+      ]
+    },
+    {
+      "question": "(4, -2) યામ ધરાવતું બિંદુ કયા ચરણમાં આવેલું છે?",
+      "options": [
+        {
+          "option": "ચોથું ચરણ",
+          "is_answer": true
+        },
+        {
+          "option": "બીજું ચરણ"
+        },
+        {
+          "option": "ત્રીજું ચરણ"
+        },
+        {
+          "option": "પ્રથમ ચરણ"
+        }
+      ]
+    },
+    {
+      "question": "કાર્ટેઝિયન સમતલમાં ઊભી રેખાને શું કહેવામાં આવે છે?",
+      "options": [
+        {
+          "option": "ચરણ"
+        },
+        {
+          "option": "ઉગમબિંદુ"
+        },
+        {
+          "option": "y-અક્ષ",
+          "is_answer": true
+        },
+        {
+          "option": "x-અક્ષ"
+        }
+      ]
+    },
+    {
+      "question": "જો કોઈ બિંદુ y-અક્ષ પર હોય, તો તેનો x-યામ શું હોય?",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "નક્કી કરી શકાય નહીં"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "કયા ચરણમાં ઋણ x અને ધન y મૂલ્યો ધરાવતા બિંદુઓ હોય છે?",
+      "options": [
+        {
+          "option": "બીજું ચરણ",
+          "is_answer": true
+        },
+        {
+          "option": "ચોથું ચરણ"
+        },
+        {
+          "option": "ત્રીજું ચરણ"
+        },
+        {
+          "option": "પ્રથમ ચરણ"
+        }
+      ]
+    },
+    {
+      "question": "(5, 8) બિંદુનો x-યામ શું છે?",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "13"
+        }
+      ]
+    },
+    {
+      "question": "જો કોઈ બિંદુ x-અક્ષ પર હોય, તો તેનો y-યામ શું હોય?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "-5"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "કયા ચરણમાં (+, -) નિશાનીઓ હોય છે?",
+      "options": [
+        {
+          "option": "ચોથું ચરણ",
+          "is_answer": true
+        },
+        {
+          "option": "ત્રીજું ચરણ"
+        },
+        {
+          "option": "પ્રથમ ચરણ"
+        },
+        {
+          "option": "બીજું ચરણ"
+        }
+      ]
+    },
+    {
+      "question": "ક્રમયુક્ત જોડ (x, y) માં, પ્રથમ સંખ્યા શું દર્શાવે છે?",
+      "options": [
+        {
+          "option": "x-યામ",
+          "is_answer": true
+        },
+        {
+          "option": "y-યામ"
+        },
+        {
+          "option": "ચરણ"
+        },
+        {
+          "option": "ઉગમબિંદુ"
+        }
+      ]
+    },
+    {
+      "question": "(0, 5) બિંદુ ક્યાં આવેલું છે?",
+      "options": [
+        {
+          "option": "પ્રથમ ચરણમાં"
+        },
+        {
+          "option": "x-અક્ષ પર"
+        },
+        {
+          "option": "બીજા ચરણમાં"
+        },
+        {
+          "option": "y-અક્ષ પર",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "(-2, -7) બિંદુનો y-યામ શું છે?",
+      "options": [
+        {
+          "option": "-7",
+          "is_answer": true
+        },
+        {
+          "option": "-2"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "(-4, -4) બિંદુ કયા ચરણમાં આવેલું છે?",
+      "options": [
+        {
+          "option": "બીજું ચરણ"
+        },
+        {
+          "option": "પ્રથમ ચરણ"
+        },
+        {
+          "option": "ચોથું ચરણ"
+        },
+        {
+          "option": "ત્રીજું ચરણ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "(3, 0) બિંદુ કયા અક્ષ પર આવેલું છે?",
+      "options": [
+        {
+          "option": "y-અક્ષ"
+        },
+        {
+          "option": "ઉગમબિંદુ"
+        },
+        {
+          "option": "કોઈ નહીં"
+        },
+        {
+          "option": "x-અક્ષ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "કાર્ટેઝિયન સમતલમાં કેટલા ચરણ હોય છે?",
+      "options": [
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "બીજા ચરણમાં y-યામની નિશાની શું હોય છે?",
+      "options": [
+        {
+          "option": "શૂન્ય"
+        },
+        {
+          "option": "ધન",
+          "is_answer": true
+        },
+        {
+          "option": "અવ્યાખ્યાયિત"
+        },
+        {
+          "option": "ઋણ"
+        }
+      ]
+    },
+    {
+      "question": "કયું બિંદુ પ્રથમ ચરણમાં છે?",
+      "options": [
+        {
+          "option": "(-2, 3)"
+        },
+        {
+          "option": "(-2, -3)"
+        },
+        {
+          "option": "(2, 3)",
+          "is_answer": true
+        },
+        {
+          "option": "(2, -3)"
+        }
+      ]
+    },
+    {
+      "question": "કાટકોણ ત્રિકોણમાં, બાજુઓ a, b અને કર્ણ c વચ્ચેનો સંબંધ શું છે?",
+      "options": [
+        {
+          "option": "a + b = c"
+        },
+        {
+          "option": "a^2 - b^2 = c^2"
+        },
+        {
+          "option": "a^2 + b^2 = 2c"
+        },
+        {
+          "option": "a^2 + b^2 = c^2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "કાટકોણ ત્રિકોણમાં કઈ બાજુ હંમેશા સૌથી લાંબી હોય છે?",
+      "options": [
+        {
+          "option": "પાયો"
+        },
+        {
+          "option": "વેધ"
+        },
+        {
+          "option": "પાસેની બાજુ"
+        },
+        {
+          "option": "કર્ણ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો કાટકોણ ત્રિકોણની બાજુઓ 3 અને 4 હોય, તો કર્ણ શું છે?",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "સંખ્યાઓનો કયો સમૂહ પાયથાગોરિયન ત્રિપુટી બનાવે છે?",
+      "options": [
+        {
+          "option": "1, 2, 3"
+        },
+        {
+          "option": "5, 12, 13",
+          "is_answer": true
+        },
+        {
+          "option": "4, 5, 6"
+        },
+        {
+          "option": "2, 3, 4"
+        }
+      ]
+    },
+    {
+      "question": "જો a=6 અને b=8 હોય, તો c નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "14"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "28"
+        },
+        {
+          "option": "48"
+        }
+      ]
+    },
+    {
+      "question": "પાયથાગોરસનો પ્રમેય ફક્ત કયા પ્રકારના ત્રિકોણને લાગુ પડે છે?",
+      "options": [
+        {
+          "option": "સમબાજુ ત્રિકોણ"
+        },
+        {
+          "option": "ગુરુકોણ ત્રિકોણ"
+        },
+        {
+          "option": "સમદ્વિબાજુ ત્રિકોણ"
+        },
+        {
+          "option": "કાટકોણ ત્રિકોણ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો કર્ણ 10 હોય અને એક બાજુ 6 હોય, તો બીજી બાજુ શું છે?",
+      "options": [
+        {
+          "option": "8",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "16"
+        }
+      ]
+    },
+    {
+      "question": "આમાંથી કઈ પાયથાગોરિયન ત્રિપુટી નથી?",
+      "options": [
+        {
+          "option": "3, 4, 5"
+        },
+        {
+          "option": "6, 8, 10"
+        },
+        {
+          "option": "2, 3, 4",
+          "is_answer": true
+        },
+        {
+          "option": "5, 12, 13"
+        }
+      ]
+    },
+    {
+      "question": "5, 12 અને 13 બાજુઓ ધરાવતો ત્રિકોણ શું કાટકોણ ત્રિકોણ છે?",
+      "options": [
+        {
+          "option": "નિર્ધારિત કરી શકાતું નથી"
+        },
+        {
+          "option": "માત્ર જો ખૂણા 90 હોય"
+        },
+        {
+          "option": "હા",
+          "is_answer": true
+        },
+        {
+          "option": "ના"
+        }
+      ]
+    },
+    {
+      "question": "કર્ણનો વર્ગ કોના બરાબર હોય છે?",
+      "options": [
+        {
+          "option": "બાકીની બે બાજુઓના વર્ગોનો સરવાળો",
+          "is_answer": true
+        },
+        {
+          "option": "બાકીની બે બાજુઓના વર્ગોનો તફાવત"
+        },
+        {
+          "option": "બાકીની બે બાજુઓનો ગુણાકાર"
+        },
+        {
+          "option": "બાકીની બે બાજુઓનો સરવાળો"
+        }
+      ]
+    },
+    {
+      "question": "જો a=5 અને b=12 હોય, તો કર્ણ c શું છે?",
+      "options": [
+        {
+          "option": "13",
+          "is_answer": true
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "17"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "કર્ણ શોધવા માટે કયા સૂત્રનો ઉપયોગ થાય છે?",
+      "options": [
+        {
+          "option": "c = a^2 + b^2"
+        },
+        {
+          "option": "c = sqrt(a + b)"
+        },
+        {
+          "option": "c = sqrt(a^2 + b^2)",
+          "is_answer": true
+        },
+        {
+          "option": "c = a + b"
+        }
+      ]
+    },
+    {
+      "question": "જો ત્રિકોણની બાજુઓ 7, 24, 25 હોય, તો શું તે કાટકોણ ત્રિકોણ છે?",
+      "options": [
+        {
+          "option": "માત્ર જો ક્ષેત્રફળ 84 હોય"
+        },
+        {
+          "option": "ના"
+        },
+        {
+          "option": "હા",
+          "is_answer": true
+        },
+        {
+          "option": "કદાચ"
+        }
+      ]
+    },
+    {
+      "question": "જો a=9 અને b=12 હોય, તો c નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "21"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "108"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "શું પાયથાગોરસના પ્રમેયનો ઉપયોગ બાજુની લંબાઈ શોધવા માટે થઈ શકે છે?",
+      "options": [
+        {
+          "option": "હા",
+          "is_answer": true
+        },
+        {
+          "option": "ના"
+        },
+        {
+          "option": "માત્ર જો ત્રિકોણ સમબાજુ હોય"
+        },
+        {
+          "option": "માત્ર જો કર્ણ જાણીતો હોય"
+        }
+      ]
+    },
+    {
+      "question": "જો a=8 અને c=10 હોય, તો b શું છે?",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "6",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "આમાંથી કયો કાટકોણ ત્રિકોણની બાજુઓનો માન્ય સમૂહ છે?",
+      "options": [
+        {
+          "option": "1, 1, 2"
+        },
+        {
+          "option": "9, 12, 15",
+          "is_answer": true
+        },
+        {
+          "option": "2, 2, 5"
+        },
+        {
+          "option": "5, 5, 10"
+        }
+      ]
+    },
+    {
+      "question": "કયા ત્રિકોણમાં બે ટૂંકી બાજુઓના વર્ગોનો સરવાળો સૌથી લાંબી બાજુના વર્ગ જેટલો થાય છે?",
+      "options": [
+        {
+          "option": "કોઈપણ ત્રિકોણ"
+        },
+        {
+          "option": "કાટકોણ ત્રિકોણ",
+          "is_answer": true
+        },
+        {
+          "option": "ગુરુકોણ ત્રિકોણ"
+        },
+        {
+          "option": "લઘુકોણ ત્રિકોણ"
+        }
+      ]
+    },
+    {
+      "question": "જો a=1 અને b=1 હોય, તો c શું છે?",
+      "options": [
+        {
+          "option": "sqrt(3)"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "sqrt(2)",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "12 અને 16 બાજુઓ ધરાવતા ત્રિકોણનો કર્ણ શું છે?",
+      "options": [
+        {
+          "option": "14"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "28"
+        },
+        {
+          "option": "400"
+        }
+      ]
+    },
+    {
+      "question": "એક સિક્કો ઉછાળતા છાપ (heads) મળવાની સંભાવના કેટલી છે?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1/2",
+          "is_answer": true
+        },
+        {
+          "option": "1/4"
+        }
+      ]
+    },
+    {
+      "question": "એક સામાન્ય 6 બાજુવાળો પાસો ફેંકતા 4 મળવાની સંભાવના કેટલી છે?",
+      "options": [
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "1/6",
+          "is_answer": true
+        },
+        {
+          "option": "4/6"
+        }
+      ]
+    },
+    {
+      "question": "એક થેલીમાં 3 લાલ અને 2 વાદળી લખોટીઓ છે. લાલ લખોટી પસંદ કરવાની સંભાવના કેટલી છે?",
+      "options": [
+        {
+          "option": "3/2"
+        },
+        {
+          "option": "2/5"
+        },
+        {
+          "option": "3/5",
+          "is_answer": true
+        },
+        {
+          "option": "1/5"
+        }
+      ]
+    },
+    {
+      "question": "એક સામાન્ય 6 બાજુવાળા પાસા પર બેકી સંખ્યા આવવાની સંભાવના કેટલી છે?",
+      "options": [
+        {
+          "option": "2/3"
+        },
+        {
+          "option": "1/2",
+          "is_answer": true
+        },
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "1/6"
+        }
+      ]
+    },
+    {
+      "question": "52 પત્તાના સામાન્ય પેકેટમાંથી એક પત્તું ખેંચતા એક્કો (Ace) આવવાની સંભાવના કેટલી છે?",
+      "options": [
+        {
+          "option": "1/13",
+          "is_answer": true
+        },
+        {
+          "option": "4/13"
+        },
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "1/52"
+        }
+      ]
+    },
+    {
+      "question": "એક સામાન્ય 6 બાજુવાળા પાસા પર 6 થી મોટી સંખ્યા આવવાની સંભાવના કેટલી છે?",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "1/6"
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "એક સ્પિનરમાં 4 સમાન ભાગ છે જે લાલ, વાદળી, લીલા અને પીળા રંગના છે. લાલ રંગ પર અટકવાની સંભાવના કેટલી છે?",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "1/4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "એક સામાન્ય 6 બાજુવાળા પાસા પર 7 થી નાની સંખ્યા આવવાની સંભાવના કેટલી છે?",
+      "options": [
+        {
+          "option": "5/6"
+        },
+        {
+          "option": "1/6"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "એક બરણીમાં 10 લખોટીઓ છે: 5 લીલી, 3 સફેદ અને 2 કાળી. સફેદ લખોટી પસંદ કરવાની સંભાવના કેટલી છે?",
+      "options": [
+        {
+          "option": "1/10"
+        },
+        {
+          "option": "5/10"
+        },
+        {
+          "option": "3/10",
+          "is_answer": true
+        },
+        {
+          "option": "2/10"
+        }
+      ]
+    },
+    {
+      "question": "સિક્કો ઉછાળતા કાંટો (tails) મળવાની સંભાવના કેટલી છે?",
+      "options": [
+        {
+          "option": "1/2",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "52 પત્તાના પેકેટમાંથી લાલનું પત્તું (Heart) ખેંચવાની સંભાવના કેટલી છે?",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "1/4",
+          "is_answer": true
+        },
+        {
+          "option": "1/13"
+        },
+        {
+          "option": "1/52"
+        }
+      ]
+    },
+    {
+      "question": "એક સામાન્ય 6 બાજુવાળા પાસા પર 3 અથવા 5 આવવાની સંભાવના કેટલી છે?",
+      "options": [
+        {
+          "option": "1/3",
+          "is_answer": true
+        },
+        {
+          "option": "1/6"
+        },
+        {
+          "option": "2/3"
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "એક થેલીમાં 4 વાદળી, 4 લાલ અને 2 પીળા દડા છે. પીળો દડો પસંદ કરવાની સંભાવના કેટલી છે?",
+      "options": [
+        {
+          "option": "2/5"
+        },
+        {
+          "option": "1/10"
+        },
+        {
+          "option": "4/10"
+        },
+        {
+          "option": "1/5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "એક સામાન્ય 6 બાજુવાળા પાસા પર એકી સંખ્યા આવવાની સંભાવના કેટલી છે?",
+      "options": [
+        {
+          "option": "2/3"
+        },
+        {
+          "option": "1/6"
+        },
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "1/2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "'APPLE' શબ્દમાંથી એક અક્ષર પસંદ કરતા 'P' આવવાની સંભાવના કેટલી છે?",
+      "options": [
+        {
+          "option": "2/5",
+          "is_answer": true
+        },
+        {
+          "option": "1/5"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "3/5"
+        }
+      ]
+    },
+    {
+      "question": "એક સામાન્ય 6 બાજુવાળા પાસા પર 4 થી મોટી સંખ્યા આવવાની સંભાવના કેટલી છે?",
+      "options": [
+        {
+          "option": "1/3",
+          "is_answer": true
+        },
+        {
+          "option": "1/6"
+        },
+        {
+          "option": "2/3"
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "એક બોક્સમાં 5 કાળી અને 5 વાદળી પેન છે. કાળી પેન પસંદ કરવાની સંભાવના કેટલી છે?",
+      "options": [
+        {
+          "option": "5/5"
+        },
+        {
+          "option": "1/10"
+        },
+        {
+          "option": "1/2",
+          "is_answer": true
+        },
+        {
+          "option": "1/5"
+        }
+      ]
+    },
+    {
+      "question": "એક સામાન્ય 6 બાજુવાળા પાસા પર 1 આવવાની સંભાવના કેટલી છે?",
+      "options": [
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "1/6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "52 પત્તાના પેકેટમાંથી રાજા (King) આવવાની સંભાવના કેટલી છે?",
+      "options": [
+        {
+          "option": "1/13",
+          "is_answer": true
+        },
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "4/13"
+        },
+        {
+          "option": "1/52"
+        }
+      ]
+    },
+    {
+      "question": "એક સામાન્ય 6 બાજુવાળા પાસા પર 3 થી નાની સંખ્યા આવવાની સંભાવના કેટલી છે?",
+      "options": [
+        {
+          "option": "2/3"
+        },
+        {
+          "option": "1/3",
+          "is_answer": true
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "1/6"
+        }
+      ]
+    },
+    {
+      "question": "એક બાર ચાર્ટમાં 5 સફરજન, 3 કેળા અને 2 નારંગી દર્શાવેલ છે. કુલ કેટલા ફળો છે?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        }
+      ]
+    },
+    {
+      "question": "બાર ચાર્ટમાં, વર્ગ A માં 20 વિદ્યાર્થીઓ અને વર્ગ B માં 15 વિદ્યાર્થીઓ છે. વિદ્યાર્થીઓની સંખ્યામાં કેટલો તફાવત છે?",
+      "options": [
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "35"
+        }
+      ]
+    },
+    {
+      "question": "એક ટેબલ દર્શાવે છે કે સોમવારે 10 વેચાણ અને મંગળવારે 12 વેચાણ થયું છે. બંને દિવસોમાં કુલ કેટલું વેચાણ થયું?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "22",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "જો 'લાલ' માટેનો બાર 8 સુધી પહોંચે અને 'વાદળી' માટેનો બાર 4 સુધી પહોંચે, તો 'વાદળી' કરતા 'લાલ' વસ્તુઓ કેટલી વધારે છે?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "એક ટેબલમાં યાદી છે: બિલાડી=6, કૂતરો=9. પાલતુ પ્રાણીઓની કુલ સંખ્યા કેટલી છે?",
+      "options": [
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "18"
+        }
+      ]
+    },
+    {
+      "question": "એક વર્ટિકલ બાર ચાર્ટ સોમવારે 7 પુસ્તકો અને મંગળવારે 3 પુસ્તકો દર્શાવે છે. કુલ કેટલા પુસ્તકો વાંચવામાં આવ્યા?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "21"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો બાર ચાર્ટ સવારે 15 કાર અને સાંજે 10 કાર દર્શાવે છે, તો કુલ કેટલા થાય?",
+      "options": [
+        {
+          "option": "25",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "150"
+        }
+      ]
+    },
+    {
+      "question": "એક ટેબલ બોક્સ A માં 12 પેન અને બોક્સ B માં 8 પેન દર્શાવે છે. બોક્સ B કરતા બોક્સ A માં કેટલી પેન વધારે છે?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "બાર ચાર્ટમાં, 'ગેમ્સ' માટેની ઊંચાઈ 18 છે અને 'મૂવીઝ' માટે 12 છે. સરવાળો કેટલો થાય?",
+      "options": [
+        {
+          "option": "24"
+        },
+        {
+          "option": "216"
+        },
+        {
+          "option": "30",
+          "is_answer": true
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "એક ટેબલ શનિવારે 50 મુલાકાતીઓ અને રવિવારે 40 મુલાકાતીઓ દર્શાવે છે. તફાવત કેટલો છે?",
+      "options": [
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "90"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "એક બાર ચાર્ટ ઝાડ પર 4 પક્ષીઓ અને જમીન પર 6 પક્ષીઓ દર્શાવે છે. કુલ કેટલા પક્ષીઓ છે?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "8"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો ટેબલ 30 સફરજન અને 20 નારંગી વેચાયા હોવાનું દર્શાવે છે, તો કુલ કેટલા ફળો વેચાયા?",
+      "options": [
+        {
+          "option": "50",
+          "is_answer": true
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "600"
+        }
+      ]
+    },
+    {
+      "question": "એક બાર ચાર્ટ 14 વાદળી લખોટીઓ અને 7 લાલ લખોટીઓ દર્શાવે છે. વાદળી લખોટીઓ કેટલી વધારે છે?",
+      "options": [
+        {
+          "option": "21"
+        },
+        {
+          "option": "7",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "એક ટેબલ શુક્રવારે 9 કેક અને શનિવારે 11 કેક બેક કરેલી દર્શાવે છે. કુલ કેટલા થાય?",
+      "options": [
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "15"
+        },
+        {
+          "option": "99"
+        }
+      ]
+    },
+    {
+      "question": "જો બાર ચાર્ટ ટીમ A માટે 25 પોઈન્ટ અને ટીમ B માટે 15 પોઈન્ટ દર્શાવે છે, તો તફાવત કેટલો છે?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "40"
+        }
+      ]
+    },
+    {
+      "question": "એક ટેબલ 8 કપ ચા અને 4 કપ કોફી દર્શાવે છે. કુલ કેટલા પીણાં છે?",
+      "options": [
+        {
+          "option": "32"
+        },
+        {
+          "option": "12",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "એક બાર ચાર્ટ 6 લાલ ફૂલો અને 9 પીળા ફૂલો દર્શાવે છે. કુલ કેટલા ફૂલો છે?",
+      "options": [
+        {
+          "option": "3"
+        },
+        {
+          "option": "15",
+          "is_answer": true
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "54"
+        }
+      ]
+    },
+    {
+      "question": "જો ટેબલ વર્ગમાં 10 છોકરાઓ અને 12 છોકરીઓ દર્શાવે છે, તો છોકરાઓ કરતા છોકરીઓ કેટલી વધારે છે?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "22"
+        }
+      ]
+    },
+    {
+      "question": "એક બાર ચાર્ટ બેગમાં 5 પેન્સિલ અને ડેસ્ક પર 5 પેન્સિલ દર્શાવે છે. કુલ કેટલા થાય?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "25"
+        }
+      ]
+    },
+    {
+      "question": "એક ટેબલ 20 કાર અને 10 ટ્રક દર્શાવે છે. ટ્રક કરતા કાર કેટલી વધારે છે?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "સાદું રૂપ આપો: 3x + 5x",
+      "options": [
+        {
+          "option": "8x",
+          "is_answer": true
+        },
+        {
+          "option": "2x"
+        },
+        {
+          "option": "8x^2"
+        },
+        {
+          "option": "15x"
+        }
+      ]
+    },
+    {
+      "question": "સાદું રૂપ આપો: 7y - 2y",
+      "options": [
+        {
+          "option": "9y"
+        },
+        {
+          "option": "5y^2"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "5y",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "સમાન પદોને ભેગા કરો: 4a + 3a + 2a",
+      "options": [
+        {
+          "option": "7a"
+        },
+        {
+          "option": "9a^3"
+        },
+        {
+          "option": "9a",
+          "is_answer": true
+        },
+        {
+          "option": "12a"
+        }
+      ]
+    },
+    {
+      "question": "સાદું રૂપ આપો: 10b - 4b - b",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "5b",
+          "is_answer": true
+        },
+        {
+          "option": "6b"
+        },
+        {
+          "option": "7b"
+        }
+      ]
+    },
+    {
+      "question": "સાદું રૂપ આપો: 2x + 3y + 4x",
+      "options": [
+        {
+          "option": "9xy"
+        },
+        {
+          "option": "6x + 3"
+        },
+        {
+          "option": "5x + 4y"
+        },
+        {
+          "option": "6x + 3y",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "સાદું રૂપ આપો: 5m + 2n - 3m",
+      "options": [
+        {
+          "option": "2m - 2n"
+        },
+        {
+          "option": "4m + 2n"
+        },
+        {
+          "option": "2m + 2n",
+          "is_answer": true
+        },
+        {
+          "option": "4mn"
+        }
+      ]
+    },
+    {
+      "question": "સાદું રૂપ આપો: 8p - 3p + 4q",
+      "options": [
+        {
+          "option": "5p - 4q"
+        },
+        {
+          "option": "11p + 4q"
+        },
+        {
+          "option": "5p + 4q",
+          "is_answer": true
+        },
+        {
+          "option": "9pq"
+        }
+      ]
+    },
+    {
+      "question": "સાદું રૂપ આપો: 6a + 5b - 2a - b",
+      "options": [
+        {
+          "option": "8a + 6b"
+        },
+        {
+          "option": "4a - 4b"
+        },
+        {
+          "option": "4a + 4b",
+          "is_answer": true
+        },
+        {
+          "option": "4a + 6b"
+        }
+      ]
+    },
+    {
+      "question": "સાદું રૂપ આપો: 12x - 5x + 3x",
+      "options": [
+        {
+          "option": "10x",
+          "is_answer": true
+        },
+        {
+          "option": "4x"
+        },
+        {
+          "option": "14x"
+        },
+        {
+          "option": "7x"
+        }
+      ]
+    },
+    {
+      "question": "સાદું રૂપ આપો: 9y + 2 - 4y",
+      "options": [
+        {
+          "option": "5y - 2"
+        },
+        {
+          "option": "11y + 2"
+        },
+        {
+          "option": "5y + 2",
+          "is_answer": true
+        },
+        {
+          "option": "7y"
+        }
+      ]
+    },
+    {
+      "question": "સાદું રૂપ આપો: 7a + 3b + 2a - b",
+      "options": [
+        {
+          "option": "10ab"
+        },
+        {
+          "option": "5a + 4b"
+        },
+        {
+          "option": "9a + 4b"
+        },
+        {
+          "option": "9a + 2b",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "સાદું રૂપ આપો: 4x + 6 + 2x - 3",
+      "options": [
+        {
+          "option": "2x + 3"
+        },
+        {
+          "option": "6x + 9"
+        },
+        {
+          "option": "8x"
+        },
+        {
+          "option": "6x + 3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "સાદું રૂપ આપો: 15m - 8m + 2m",
+      "options": [
+        {
+          "option": "7m"
+        },
+        {
+          "option": "5m"
+        },
+        {
+          "option": "9m",
+          "is_answer": true
+        },
+        {
+          "option": "25m"
+        }
+      ]
+    },
+    {
+      "question": "સાદું રૂપ આપો: 3x + 4y + 5x - 2y",
+      "options": [
+        {
+          "option": "10xy"
+        },
+        {
+          "option": "8x + 2y",
+          "is_answer": true
+        },
+        {
+          "option": "2x + 2y"
+        },
+        {
+          "option": "8x + 6y"
+        }
+      ]
+    },
+    {
+      "question": "સાદું રૂપ આપો: 10a - 4a + 5b",
+      "options": [
+        {
+          "option": "6a + 5b",
+          "is_answer": true
+        },
+        {
+          "option": "11ab"
+        },
+        {
+          "option": "14a + 5b"
+        },
+        {
+          "option": "6a - 5b"
+        }
+      ]
+    },
+    {
+      "question": "સાદું રૂપ આપો: 2p + 3q + p + q",
+      "options": [
+        {
+          "option": "2p + 4q"
+        },
+        {
+          "option": "3p + 4q",
+          "is_answer": true
+        },
+        {
+          "option": "7pq"
+        },
+        {
+          "option": "3p + 3q"
+        }
+      ]
+    },
+    {
+      "question": "સાદું રૂપ આપો: 5x - 2x + 4x",
+      "options": [
+        {
+          "option": "11x"
+        },
+        {
+          "option": "3x"
+        },
+        {
+          "option": "9x"
+        },
+        {
+          "option": "7x",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "સાદું રૂપ આપો: 8y + 5 - 3y - 2",
+      "options": [
+        {
+          "option": "5y + 7"
+        },
+        {
+          "option": "5y - 3"
+        },
+        {
+          "option": "5y + 3",
+          "is_answer": true
+        },
+        {
+          "option": "11y + 3"
+        }
+      ]
+    },
+    {
+      "question": "સાદું રૂપ આપો: 4a + 2b + 3a + 5b",
+      "options": [
+        {
+          "option": "7a + 2b"
+        },
+        {
+          "option": "14ab"
+        },
+        {
+          "option": "4a + 7b"
+        },
+        {
+          "option": "7a + 7b",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "સાદું રૂપ આપો: 12x - 3x - 2x",
+      "options": [
+        {
+          "option": "7x",
+          "is_answer": true
+        },
+        {
+          "option": "9x"
+        },
+        {
+          "option": "10x"
+        },
+        {
+          "option": "17x"
+        }
+      ]
+    },
+    {
+      "question": "એક શર્ટની કિંમત $40 છે. જો 25% ડિસ્કાઉન્ટ હોય, તો તમારે કેટલા ચૂકવવા પડશે?",
+      "options": [
+        {
+          "option": "$30",
+          "is_answer": true
+        },
+        {
+          "option": "$20"
+        },
+        {
+          "option": "$35"
+        },
+        {
+          "option": "$25"
+        }
+      ]
+    },
+    {
+      "question": "તમે $2 લેખે 3 નોટબુક અને $1 માં એક પેન ખરીદો છો. કુલ બિલ કેટલું થશે?",
+      "options": [
+        {
+          "option": "$6"
+        },
+        {
+          "option": "$5"
+        },
+        {
+          "option": "$8"
+        },
+        {
+          "option": "$7",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "એક ટ્રેન બપોરે 2:00 વાગ્યે ઉપડે છે અને 5:30 વાગ્યે પહોંચે છે. મુસાફરીનો સમય કેટલો છે?",
+      "options": [
+        {
+          "option": "2 કલાક 30 મિનિટ"
+        },
+        {
+          "option": "3 કલાક 30 મિનિટ",
+          "is_answer": true
+        },
+        {
+          "option": "3 કલાક"
+        },
+        {
+          "option": "4 કલાક"
+        }
+      ]
+    },
+    {
+      "question": "4 લોકો માટેની રેસીપીમાં 200 ગ્રામ લોટની જરૂર પડે છે. 2 લોકો માટે કેટલા લોટની જરૂર પડશે?",
+      "options": [
+        {
+          "option": "200 ગ્રામ"
+        },
+        {
+          "option": "100 ગ્રામ",
+          "is_answer": true
+        },
+        {
+          "option": "50 ગ્રામ"
+        },
+        {
+          "option": "400 ગ્રામ"
+        }
+      ]
+    },
+    {
+      "question": "$14.50 ની વસ્તુઓ માટે તમે $20 ની નોટ આપો છો. તમને કેટલા પાછા મળશે?",
+      "options": [
+        {
+          "option": "$4.50"
+        },
+        {
+          "option": "$5.00"
+        },
+        {
+          "option": "$6.50"
+        },
+        {
+          "option": "$5.50",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો એક કાર 1 કલાકમાં 60 માઇલ મુસાફરી કરે છે, તો તે 3 કલાકમાં કેટલું અંતર કાપશે?",
+      "options": [
+        {
+          "option": "120 માઇલ"
+        },
+        {
+          "option": "240 માઇલ"
+        },
+        {
+          "option": "180 માઇલ",
+          "is_answer": true
+        },
+        {
+          "option": "90 માઇલ"
+        }
+      ]
+    },
+    {
+      "question": "સફરજનની એક થેલીની કિંમત $5 છે. જો તમે 4 થેલી ખરીદો, તો કુલ કિંમત કેટલી થાય?",
+      "options": [
+        {
+          "option": "$25"
+        },
+        {
+          "option": "$10"
+        },
+        {
+          "option": "$20",
+          "is_answer": true
+        },
+        {
+          "option": "$15"
+        }
+      ]
+    },
+    {
+      "question": "કેકની રેસીપીમાં 6 સર્વિંગ માટે 3 ઈંડાની જરૂર પડે છે. 12 સર્વિંગ માટે કેટલા ઈંડાની જરૂર પડશે?",
+      "options": [
+        {
+          "option": "3 ઈંડા"
+        },
+        {
+          "option": "9 ઈંડા"
+        },
+        {
+          "option": "12 ઈંડા"
+        },
+        {
+          "option": "6 ઈંડા",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "તમારી પાસે $50 છે અને તમે લંચ પર $12 અને પુસ્તક પર $8 ખર્ચો છો. તમારી પાસે કેટલા બાકી રહ્યા?",
+      "options": [
+        {
+          "option": "$30",
+          "is_answer": true
+        },
+        {
+          "option": "$38"
+        },
+        {
+          "option": "$42"
+        },
+        {
+          "option": "$20"
+        }
+      ]
+    },
+    {
+      "question": "દુકાન '2 ખરીદો 1 મફત મેળવો' ઓફર આપે છે. જો દરેક વસ્તુ $10 ની હોય, તો 3 વસ્તુઓની કિંમત કેટલી થાય?",
+      "options": [
+        {
+          "option": "$25"
+        },
+        {
+          "option": "$20",
+          "is_answer": true
+        },
+        {
+          "option": "$10"
+        },
+        {
+          "option": "$30"
+        }
+      ]
+    },
+    {
+      "question": "જો બસની ટિકિટની કિંમત $2.50 હોય, તો 4 ટિકિટની કિંમત કેટલી થાય?",
+      "options": [
+        {
+          "option": "$12.50"
+        },
+        {
+          "option": "$5"
+        },
+        {
+          "option": "$7.50"
+        },
+        {
+          "option": "$10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "તમે 5 દિવસ માટે દરરોજ 8 કલાક કામ કરો છો. તમે કુલ કેટલા કલાક કામ કર્યું?",
+      "options": [
+        {
+          "option": "45 કલાક"
+        },
+        {
+          "option": "40 કલાક",
+          "is_answer": true
+        },
+        {
+          "option": "50 કલાક"
+        },
+        {
+          "option": "35 કલાક"
+        }
+      ]
+    },
+    {
+      "question": "રેસીપીમાં 500 મિલી દૂધની જરૂર છે. જો તમે રેસીપી બમણી કરો, તો કેટલા દૂધની જરૂર પડશે?",
+      "options": [
+        {
+          "option": "750 મિલી"
+        },
+        {
+          "option": "1.5 લીટર"
+        },
+        {
+          "option": "1 લીટર",
+          "is_answer": true
+        },
+        {
+          "option": "500 મિલી"
+        }
+      ]
+    },
+    {
+      "question": "એક પેનની કિંમત $1.20 છે. 5 પેનની કિંમત કેટલી થાય?",
+      "options": [
+        {
+          "option": "$7"
+        },
+        {
+          "option": "$5"
+        },
+        {
+          "option": "$6",
+          "is_answer": true
+        },
+        {
+          "option": "$5.50"
+        }
+      ]
+    },
+    {
+      "question": "તમે સાંજે 7:00 વાગ્યે મૂવી શરૂ કરો છો. તે 120 મિનિટ ચાલે છે. તે ક્યારે પૂરી થશે?",
+      "options": [
+        {
+          "option": "રાત્રે 9:30 વાગ્યે"
+        },
+        {
+          "option": "રાત્રે 10:00 વાગ્યે"
+        },
+        {
+          "option": "રાત્રે 8:30 વાગ્યે"
+        },
+        {
+          "option": "રાત્રે 9:00 વાગ્યે",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "એક બોક્સમાં 12 ચોકલેટ છે. 3 બોક્સમાં કેટલી ચોકલેટ હશે?",
+      "options": [
+        {
+          "option": "48"
+        },
+        {
+          "option": "36",
+          "is_answer": true
+        },
+        {
+          "option": "24"
+        },
+        {
+          "option": "30"
+        }
+      ]
+    },
+    {
+      "question": "જો તમે દર અઠવાડિયે $5 બચાવો છો, તો 10 અઠવાડિયામાં તમારી પાસે કેટલા હશે?",
+      "options": [
+        {
+          "option": "$55"
+        },
+        {
+          "option": "$60"
+        },
+        {
+          "option": "$40"
+        },
+        {
+          "option": "$50",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "શર્ટની કિંમત $30 છે. ટેક્સ 10% છે. અંતિમ કિંમત શું છે?",
+      "options": [
+        {
+          "option": "$35"
+        },
+        {
+          "option": "$30"
+        },
+        {
+          "option": "$33",
+          "is_answer": true
+        },
+        {
+          "option": "$32"
+        }
+      ]
+    },
+    {
+      "question": "તમે શાળાએ જવા માટે 2 માઇલ અને પાછા આવવા માટે 2 માઇલ ચાલો છો. 5 દિવસમાં કુલ કેટલા માઇલ ચાલશો?",
+      "options": [
+        {
+          "option": "10 માઇલ"
+        },
+        {
+          "option": "15 માઇલ"
+        },
+        {
+          "option": "25 માઇલ"
+        },
+        {
+          "option": "20 માઇલ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "રેસીપીમાં 1/2 કપ ખાંડની જરૂર છે. રેસીપી 4 ગણી કરવા માટે કેટલી ખાંડ જોઈએ?",
+      "options": [
+        {
+          "option": "1.5 કપ"
+        },
+        {
+          "option": "2.5 કપ"
+        },
+        {
+          "option": "1 કપ"
+        },
+        {
+          "option": "2 કપ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "15 ને 4 વડે ગુણતા શું પરિણામ મળે?",
+      "options": [
+        {
+          "option": "45"
+        },
+        {
+          "option": "50"
+        },
+        {
+          "option": "60",
+          "is_answer": true
+        },
+        {
+          "option": "70"
+        }
+      ]
+    }
+  ]
+}

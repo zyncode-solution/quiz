@@ -1,0 +1,9005 @@
+{
+  "total_questions": 500,
+  "questions": [
+    {
+      "question": "sin(90° - θ) ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "cos θ",
+          "is_answer": true
+        },
+        {
+          "option": "sec θ"
+        },
+        {
+          "option": "tan θ"
+        },
+        {
+          "option": "sin θ"
+        }
+      ]
+    },
+    {
+      "question": "cos(90° - θ) ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "cot θ"
+        },
+        {
+          "option": "sin θ",
+          "is_answer": true
+        },
+        {
+          "option": "csc θ"
+        },
+        {
+          "option": "cos θ"
+        }
+      ]
+    },
+    {
+      "question": "tan(90° - θ) ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "cot θ",
+          "is_answer": true
+        },
+        {
+          "option": "sin θ"
+        },
+        {
+          "option": "tan θ"
+        },
+        {
+          "option": "cos θ"
+        }
+      ]
+    },
+    {
+      "question": "sec(90° - θ) ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "tan θ"
+        },
+        {
+          "option": "cot θ"
+        },
+        {
+          "option": "sec θ"
+        },
+        {
+          "option": "csc θ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "sin 35° / cos 55° ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "tan 20° / cot 70° ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "0.5"
+        }
+      ]
+    },
+    {
+      "question": "sec 40° - csc 50° ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "cos 48° - sin 42° ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "જો tan θ = cot 30° હોય, તો θ શું છે?",
+      "options": [
+        {
+          "option": "30°"
+        },
+        {
+          "option": "90°"
+        },
+        {
+          "option": "45°"
+        },
+        {
+          "option": "60°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો sin θ = cos 20° હોય, તો θ શું છે?",
+      "options": [
+        {
+          "option": "90°"
+        },
+        {
+          "option": "70°",
+          "is_answer": true
+        },
+        {
+          "option": "45°"
+        },
+        {
+          "option": "20°"
+        }
+      ]
+    },
+    {
+      "question": "sin 18° / cos 72° ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "csc 31° - sec 59° ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "25° નો કોટિકોણ શું છે?",
+      "options": [
+        {
+          "option": "35°"
+        },
+        {
+          "option": "55°"
+        },
+        {
+          "option": "65°",
+          "is_answer": true
+        },
+        {
+          "option": "75°"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કયું cot θ ની બરાબર છે?",
+      "options": [
+        {
+          "option": "tan(90° - θ)",
+          "is_answer": true
+        },
+        {
+          "option": "sec(90° - θ)"
+        },
+        {
+          "option": "sin(90° - θ)"
+        },
+        {
+          "option": "cos(90° - θ)"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કયું csc θ ની બરાબર છે?",
+      "options": [
+        {
+          "option": "tan(90° - θ)"
+        },
+        {
+          "option": "sin(90° - θ)"
+        },
+        {
+          "option": "sec(90° - θ)",
+          "is_answer": true
+        },
+        {
+          "option": "cos(90° - θ)"
+        }
+      ]
+    },
+    {
+      "question": "cos 53° / sin 37° ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "જો tan 2A = cot(A - 18°) હોય, તો A શોધો.",
+      "options": [
+        {
+          "option": "36°",
+          "is_answer": true
+        },
+        {
+          "option": "45°"
+        },
+        {
+          "option": "18°"
+        },
+        {
+          "option": "30°"
+        }
+      ]
+    },
+    {
+      "question": "sin 20° cos 70° + cos 20° sin 70° ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "જો sec 4A = csc(A - 20°) હોય, તો A શોધો.",
+      "options": [
+        {
+          "option": "22°",
+          "is_answer": true
+        },
+        {
+          "option": "20°"
+        },
+        {
+          "option": "30°"
+        },
+        {
+          "option": "45°"
+        }
+      ]
+    },
+    {
+      "question": "tan 10° tan 80° ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "એકમ વર્તુળ પર, બિંદુનો x-યામ ખૂણા θ માટે શું દર્શાવે છે?",
+      "options": [
+        {
+          "option": "sin(θ)"
+        },
+        {
+          "option": "cos(θ)",
+          "is_answer": true
+        },
+        {
+          "option": "sec(θ)"
+        },
+        {
+          "option": "tan(θ)"
+        }
+      ]
+    },
+    {
+      "question": "કયા ચરણમાં sin(θ) ધન અને cos(θ) ઋણ હોય છે?",
+      "options": [
+        {
+          "option": "પ્રથમ ચરણ"
+        },
+        {
+          "option": "બીજું ચરણ",
+          "is_answer": true
+        },
+        {
+          "option": "ત્રીજું ચરણ"
+        },
+        {
+          "option": "ચોથું ચરણ"
+        }
+      ]
+    },
+    {
+      "question": "એકમ વર્તુળ પર sin(π/2) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "અવ્યાખ્યાયિત"
+        }
+      ]
+    },
+    {
+      "question": "કયું ત્રિકોણમિતીય વિધેય ચારેય ચરણમાં ધન હોય છે?",
+      "options": [
+        {
+          "option": "tan(θ)"
+        },
+        {
+          "option": "એક પણ નહીં",
+          "is_answer": true
+        },
+        {
+          "option": "cos(θ)"
+        },
+        {
+          "option": "sin(θ)"
+        }
+      ]
+    },
+    {
+      "question": "એકમ વર્તુળ પર cos(π) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "ત્રીજા ચરણમાં કયા ત્રિકોણમિતીય વિધેયો ધન હોય છે?",
+      "options": [
+        {
+          "option": "cos(θ) અને sec(θ)"
+        },
+        {
+          "option": "બધા વિધેયો"
+        },
+        {
+          "option": "tan(θ) અને cot(θ)",
+          "is_answer": true
+        },
+        {
+          "option": "sin(θ) અને csc(θ)"
+        }
+      ]
+    },
+    {
+      "question": "એકમ વર્તુળ પર sin(0) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "અવ્યાખ્યાયિત"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "એકમ વર્તુળ પરનું બિંદુ (0, -1) કયા ખૂણાને અનુરૂપ છે?",
+      "options": [
+        {
+          "option": "π"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "3π/2",
+          "is_answer": true
+        },
+        {
+          "option": "π/2"
+        }
+      ]
+    },
+    {
+      "question": "કયા ચરણમાં sin(θ) અને cos(θ) બંને ઋણ હોય છે?",
+      "options": [
+        {
+          "option": "ચોથું ચરણ"
+        },
+        {
+          "option": "બીજું ચરણ"
+        },
+        {
+          "option": "ત્રીજું ચરણ",
+          "is_answer": true
+        },
+        {
+          "option": "પ્રથમ ચરણ"
+        }
+      ]
+    },
+    {
+      "question": "એકમ વર્તુળ પર cos(3π/2) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "ચોથા ચરણમાં કયું ત્રિકોણમિતીય વિધેય ધન હોય છે?",
+      "options": [
+        {
+          "option": "csc(θ)"
+        },
+        {
+          "option": "cos(θ)",
+          "is_answer": true
+        },
+        {
+          "option": "sin(θ)"
+        },
+        {
+          "option": "tan(θ)"
+        }
+      ]
+    },
+    {
+      "question": "એકમ વર્તુળ પર sin(π) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "અવ્યાખ્યાયિત"
+        }
+      ]
+    },
+    {
+      "question": "એકમ વર્તુળ પરનું બિંદુ (1, 0) કયા ખૂણાને અનુરૂપ છે?",
+      "options": [
+        {
+          "option": "π/2"
+        },
+        {
+          "option": "π"
+        },
+        {
+          "option": "3π/2"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "એકમ વર્તુળ પર કયું ત્રિકોણમિતીય વિધેય y/x તરીકે વ્યાખ્યાયિત છે?",
+      "options": [
+        {
+          "option": "cos(θ)"
+        },
+        {
+          "option": "sec(θ)"
+        },
+        {
+          "option": "tan(θ)",
+          "is_answer": true
+        },
+        {
+          "option": "sin(θ)"
+        }
+      ]
+    },
+    {
+      "question": "બીજા ચરણમાં કયું ત્રિકોણમિતીય વિધેય ધન હોય છે?",
+      "options": [
+        {
+          "option": "tan(θ)"
+        },
+        {
+          "option": "sec(θ)"
+        },
+        {
+          "option": "cos(θ)"
+        },
+        {
+          "option": "sin(θ)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "એકમ વર્તુળ પર cos(0) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "અવ્યાખ્યાયિત"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "એકમ વર્તુળ પરનું બિંદુ (0, 1) કયા ખૂણાને અનુરૂપ છે?",
+      "options": [
+        {
+          "option": "π"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "3π/2"
+        },
+        {
+          "option": "π/2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "એકમ વર્તુળ પર sin(3π/2) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "એકમ વર્તુળ પર કયું ત્રિકોણમિતીય વિધેય 1/x તરીકે વ્યાખ્યાયિત છે?",
+      "options": [
+        {
+          "option": "tan(θ)"
+        },
+        {
+          "option": "csc(θ)"
+        },
+        {
+          "option": "sec(θ)",
+          "is_answer": true
+        },
+        {
+          "option": "cot(θ)"
+        }
+      ]
+    },
+    {
+      "question": "એકમ વર્તુળ પર cos(π/2) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "અવ્યાખ્યાયિત"
+        }
+      ]
+    },
+    {
+      "question": "csc θ માટે વ્યસ્ત નિત્યસમ શું છે?",
+      "options": [
+        {
+          "option": "sin θ"
+        },
+        {
+          "option": "1/tan θ"
+        },
+        {
+          "option": "1/sin θ",
+          "is_answer": true
+        },
+        {
+          "option": "1/cos θ"
+        }
+      ]
+    },
+    {
+      "question": "કયું નિત્યસમ tan θ ને sin અને cos ના સ્વરૂપમાં દર્શાવે છે?",
+      "options": [
+        {
+          "option": "1 / cos θ"
+        },
+        {
+          "option": "1 / sin θ"
+        },
+        {
+          "option": "cos θ / sin θ"
+        },
+        {
+          "option": "sin θ / cos θ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "sec θ માટે વ્યસ્ત નિત્યસમ શું છે?",
+      "options": [
+        {
+          "option": "1/cos θ",
+          "is_answer": true
+        },
+        {
+          "option": "1/sin θ"
+        },
+        {
+          "option": "1/tan θ"
+        },
+        {
+          "option": "cos θ"
+        }
+      ]
+    },
+    {
+      "question": "કયું નિત્યસમ cot θ ને sin અને cos ના સ્વરૂપમાં દર્શાવે છે?",
+      "options": [
+        {
+          "option": "1 / cos θ"
+        },
+        {
+          "option": "cos θ / sin θ",
+          "is_answer": true
+        },
+        {
+          "option": "sin θ / cos θ"
+        },
+        {
+          "option": "1 / sin θ"
+        }
+      ]
+    },
+    {
+      "question": "cot θ માટે વ્યસ્ત નિત્યસમ શું છે?",
+      "options": [
+        {
+          "option": "1/cos θ"
+        },
+        {
+          "option": "1/sin θ"
+        },
+        {
+          "option": "1/tan θ",
+          "is_answer": true
+        },
+        {
+          "option": "tan θ"
+        }
+      ]
+    },
+    {
+      "question": "જો tan θ = sin θ / cos θ હોય, તો 1 / tan θ બરાબર શું થાય?",
+      "options": [
+        {
+          "option": "1 / cos θ"
+        },
+        {
+          "option": "cos θ / sin θ",
+          "is_answer": true
+        },
+        {
+          "option": "sin θ / cos θ"
+        },
+        {
+          "option": "1 / sin θ"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કયું csc θ ને સમાન છે?",
+      "options": [
+        {
+          "option": "1 / sin θ",
+          "is_answer": true
+        },
+        {
+          "option": "1 / cos θ"
+        },
+        {
+          "option": "cos θ / sin θ"
+        },
+        {
+          "option": "sin θ / cos θ"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કયું sec θ ને સમાન છે?",
+      "options": [
+        {
+          "option": "sin θ / cos θ"
+        },
+        {
+          "option": "cos θ / sin θ"
+        },
+        {
+          "option": "1 / sin θ"
+        },
+        {
+          "option": "1 / cos θ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "tan θ માટે ભાગાકાર નિત્યસમ શું છે?",
+      "options": [
+        {
+          "option": "1 / cos θ"
+        },
+        {
+          "option": "cos θ / sin θ"
+        },
+        {
+          "option": "sin θ / cos θ",
+          "is_answer": true
+        },
+        {
+          "option": "1 / sin θ"
+        }
+      ]
+    },
+    {
+      "question": "cot θ માટે ભાગાકાર નિત્યસમ શું છે?",
+      "options": [
+        {
+          "option": "cos θ / sin θ",
+          "is_answer": true
+        },
+        {
+          "option": "1 / sin θ"
+        },
+        {
+          "option": "1 / cos θ"
+        },
+        {
+          "option": "sin θ / cos θ"
+        }
+      ]
+    },
+    {
+      "question": "કયું પદ 1 / cot θ ને સમાન છે?",
+      "options": [
+        {
+          "option": "tan θ",
+          "is_answer": true
+        },
+        {
+          "option": "sin θ"
+        },
+        {
+          "option": "cos θ"
+        },
+        {
+          "option": "sec θ"
+        }
+      ]
+    },
+    {
+      "question": "કયું પદ 1 / sec θ ને સમાન છે?",
+      "options": [
+        {
+          "option": "cos θ",
+          "is_answer": true
+        },
+        {
+          "option": "tan θ"
+        },
+        {
+          "option": "sin θ"
+        },
+        {
+          "option": "csc θ"
+        }
+      ]
+    },
+    {
+      "question": "કયું પદ 1 / csc θ ને સમાન છે?",
+      "options": [
+        {
+          "option": "cos θ"
+        },
+        {
+          "option": "sin θ",
+          "is_answer": true
+        },
+        {
+          "option": "tan θ"
+        },
+        {
+          "option": "cot θ"
+        }
+      ]
+    },
+    {
+      "question": "જો cot θ = 1/2 હોય, તો tan θ શું થાય?",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "જો sin θ = 0.5 હોય, તો csc θ શું થાય?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "આમાંથી કયું ભાગાકાર નિત્યસમ સાચું છે?",
+      "options": [
+        {
+          "option": "tan θ = cos θ / sin θ"
+        },
+        {
+          "option": "tan θ = 1 / cos θ"
+        },
+        {
+          "option": "tan θ = sin θ / cos θ",
+          "is_answer": true
+        },
+        {
+          "option": "tan θ = 1 / sin θ"
+        }
+      ]
+    },
+    {
+      "question": "આમાંથી કયું વ્યસ્ત નિત્યસમ સાચું છે?",
+      "options": [
+        {
+          "option": "sec θ = 1 / sin θ"
+        },
+        {
+          "option": "sec θ = sin θ / cos θ"
+        },
+        {
+          "option": "sec θ = cos θ / sin θ"
+        },
+        {
+          "option": "sec θ = 1 / cos θ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "tan θ * cot θ ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "sin θ"
+        },
+        {
+          "option": "cos θ"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "sin θ * csc θ ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "cot θ"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "tan θ"
+        }
+      ]
+    },
+    {
+      "question": "cos θ * sec θ ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "sin θ"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "tan θ"
+        }
+      ]
+    },
+    {
+      "question": "sin(30°) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "1/2",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "sqrt(3)/2"
+        }
+      ]
+    },
+    {
+      "question": "cos(60°) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "sqrt(3)/2"
+        },
+        {
+          "option": "1/2",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "1/sqrt(2)"
+        }
+      ]
+    },
+    {
+      "question": "tan(45°) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "sqrt(3)"
+        },
+        {
+          "option": "1/sqrt(3)"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "sin(90°) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "sqrt(3)/2"
+        }
+      ]
+    },
+    {
+      "question": "cos(0°) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "sqrt(3)/2"
+        }
+      ]
+    },
+    {
+      "question": "tan(60°) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "1/sqrt(3)"
+        },
+        {
+          "option": "sqrt(3)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "sin(0°) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "sqrt(3)/2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "cos(90°) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "sqrt(3)/2"
+        }
+      ]
+    },
+    {
+      "question": "tan(30°) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "sqrt(3)"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1/sqrt(3)",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "sin(45°) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "sqrt(3)/2"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "1/sqrt(2)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "cos(45°) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "1/sqrt(2)",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "sqrt(3)/2"
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "sin(60°) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "1/sqrt(2)"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "sqrt(3)/2",
+          "is_answer": true
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "cos(30°) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "sqrt(3)/2",
+          "is_answer": true
+        },
+        {
+          "option": "1/sqrt(2)"
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "tan(0°) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "1/sqrt(3)"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "sqrt(3)"
+        }
+      ]
+    },
+    {
+      "question": "tan(90°) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "sqrt(3)"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "અવ્યાખ્યાયિત",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "કયા ખૂણા માટે sin નું મૂલ્ય 1 થાય છે?",
+      "options": [
+        {
+          "option": "90°",
+          "is_answer": true
+        },
+        {
+          "option": "45°"
+        },
+        {
+          "option": "0°"
+        },
+        {
+          "option": "30°"
+        }
+      ]
+    },
+    {
+      "question": "કયા ખૂણા માટે cos નું મૂલ્ય 0 થાય છે?",
+      "options": [
+        {
+          "option": "90°",
+          "is_answer": true
+        },
+        {
+          "option": "60°"
+        },
+        {
+          "option": "0°"
+        },
+        {
+          "option": "45°"
+        }
+      ]
+    },
+    {
+      "question": "કયા ખૂણા માટે tan નું મૂલ્ય 1 થાય છે?",
+      "options": [
+        {
+          "option": "45°",
+          "is_answer": true
+        },
+        {
+          "option": "30°"
+        },
+        {
+          "option": "60°"
+        },
+        {
+          "option": "0°"
+        }
+      ]
+    },
+    {
+      "question": "sin(pi/6) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "sqrt(3)/2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "1/2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "cos(pi/3) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "1/2",
+          "is_answer": true
+        },
+        {
+          "option": "sqrt(3)/2"
+        },
+        {
+          "option": "1/sqrt(2)"
+        }
+      ]
+    },
+    {
+      "question": "કાટકોણ ત્રિકોણમાં, કયો ગુણોત્તર sin(θ) દર્શાવે છે?",
+      "options": [
+        {
+          "option": "કર્ણ / સામેની બાજુ"
+        },
+        {
+          "option": "સામેની બાજુ / કર્ણ",
+          "is_answer": true
+        },
+        {
+          "option": "પાસેની બાજુ / કર્ણ"
+        },
+        {
+          "option": "સામેની બાજુ / પાસેની બાજુ"
+        }
+      ]
+    },
+    {
+      "question": "કયો ત્રિકોણમિતીય ગુણોત્તર પાસેની બાજુ / કર્ણ તરીકે વ્યાખ્યાયિત થયેલ છે?",
+      "options": [
+        {
+          "option": "sin(θ)"
+        },
+        {
+          "option": "csc(θ)"
+        },
+        {
+          "option": "tan(θ)"
+        },
+        {
+          "option": "cos(θ)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "કાટકોણ ત્રિકોણમાં tan(θ) ની વ્યાખ્યા શું છે?",
+      "options": [
+        {
+          "option": "પાસેની બાજુ / સામેની બાજુ"
+        },
+        {
+          "option": "સામેની બાજુ / કર્ણ"
+        },
+        {
+          "option": "સામેની બાજુ / પાસેની બાજુ",
+          "is_answer": true
+        },
+        {
+          "option": "કર્ણ / સામેની બાજુ"
+        }
+      ]
+    },
+    {
+      "question": "sin(θ) ના વ્યસ્તને કયા ગુણોત્તર તરીકે વ્યાખ્યાયિત કરવામાં આવે છે?",
+      "options": [
+        {
+          "option": "cos(θ)"
+        },
+        {
+          "option": "csc(θ)",
+          "is_answer": true
+        },
+        {
+          "option": "cot(θ)"
+        },
+        {
+          "option": "sec(θ)"
+        }
+      ]
+    },
+    {
+      "question": "કયો ગુણોત્તર sec(θ) ની બરાબર છે?",
+      "options": [
+        {
+          "option": "પાસેની બાજુ / કર્ણ"
+        },
+        {
+          "option": "કર્ણ / પાસેની બાજુ",
+          "is_answer": true
+        },
+        {
+          "option": "સામેની બાજુ / પાસેની બાજુ"
+        },
+        {
+          "option": "કર્ણ / સામેની બાજુ"
+        }
+      ]
+    },
+    {
+      "question": "cot(θ) માટેનો ગુણોત્તર શું છે?",
+      "options": [
+        {
+          "option": "કર્ણ / પાસેની બાજુ"
+        },
+        {
+          "option": "પાસેની બાજુ / કર્ણ"
+        },
+        {
+          "option": "પાસેની બાજુ / સામેની બાજુ",
+          "is_answer": true
+        },
+        {
+          "option": "સામેની બાજુ / પાસેની બાજુ"
+        }
+      ]
+    },
+    {
+      "question": "કાટકોણ ત્રિકોણમાં, જો સામેની બાજુ 3 અને કર્ણ 5 હોય, તો sin(θ) શું છે?",
+      "options": [
+        {
+          "option": "4/5"
+        },
+        {
+          "option": "5/3"
+        },
+        {
+          "option": "3/4"
+        },
+        {
+          "option": "3/5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "કયું ત્રિકોણમિતીય વિધેય cos(θ) નું વ્યસ્ત છે?",
+      "options": [
+        {
+          "option": "sec(θ)",
+          "is_answer": true
+        },
+        {
+          "option": "cot(θ)"
+        },
+        {
+          "option": "csc(θ)"
+        },
+        {
+          "option": "sin(θ)"
+        }
+      ]
+    },
+    {
+      "question": "જો tan(θ) = 1 હોય, તો સામેની અને પાસેની બાજુ વચ્ચેનો સંબંધ શું છે?",
+      "options": [
+        {
+          "option": "પાસેની બાજુ સામેની બાજુ કરતા બમણી છે"
+        },
+        {
+          "option": "તેઓ સમાન છે",
+          "is_answer": true
+        },
+        {
+          "option": "તેઓ અસમાન છે"
+        },
+        {
+          "option": "સામેની બાજુ પાસેની બાજુ કરતા બમણી છે"
+        }
+      ]
+    },
+    {
+      "question": "કયો ગુણોત્તર csc(θ) દર્શાવે છે?",
+      "options": [
+        {
+          "option": "પાસેની બાજુ / કર્ણ"
+        },
+        {
+          "option": "કર્ણ / સામેની બાજુ",
+          "is_answer": true
+        },
+        {
+          "option": "સામેની બાજુ / કર્ણ"
+        },
+        {
+          "option": "કર્ણ / પાસેની બાજુ"
+        }
+      ]
+    },
+    {
+      "question": "SOH CAH TOA માં, 'CAH' નો અર્થ શું છે?",
+      "options": [
+        {
+          "option": "cos = પાસેની બાજુ / સામેની બાજુ"
+        },
+        {
+          "option": "cos = પાસેની બાજુ / કર્ણ",
+          "is_answer": true
+        },
+        {
+          "option": "cos = સામેની બાજુ / કર્ણ"
+        },
+        {
+          "option": "cos = કર્ણ / પાસેની બાજુ"
+        }
+      ]
+    },
+    {
+      "question": "SOH CAH TOA માં, 'TOA' નો અર્થ શું છે?",
+      "options": [
+        {
+          "option": "tan = સામેની બાજુ / પાસેની બાજુ",
+          "is_answer": true
+        },
+        {
+          "option": "tan = પાસેની બાજુ / સામેની બાજુ"
+        },
+        {
+          "option": "tan = કર્ણ / સામેની બાજુ"
+        },
+        {
+          "option": "tan = સામેની બાજુ / કર્ણ"
+        }
+      ]
+    },
+    {
+      "question": "કયો ગુણોત્તર 1/tan(θ) ને સમકક્ષ છે?",
+      "options": [
+        {
+          "option": "sin(θ)"
+        },
+        {
+          "option": "csc(θ)"
+        },
+        {
+          "option": "cot(θ)",
+          "is_answer": true
+        },
+        {
+          "option": "sec(θ)"
+        }
+      ]
+    },
+    {
+      "question": "કાટકોણ ત્રિકોણમાં, કર્ણ હંમેશા:",
+      "options": [
+        {
+          "option": "સૌથી ટૂંકી બાજુ હોય છે"
+        },
+        {
+          "option": "સૌથી લાંબી બાજુ હોય છે",
+          "is_answer": true
+        },
+        {
+          "option": "પાસેની બાજુ જેટલી હોય છે"
+        },
+        {
+          "option": "સામેની બાજુ જેટલી હોય છે"
+        }
+      ]
+    },
+    {
+      "question": "જો sin(θ) = 0.6 હોય, તો csc(θ) શું છે?",
+      "options": [
+        {
+          "option": "0.4"
+        },
+        {
+          "option": "1.66",
+          "is_answer": true
+        },
+        {
+          "option": "0.6"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "કયો ત્રિકોણમિતીય ગુણોત્તર સામેની બાજુ / પાસેની બાજુ તરીકે વ્યાખ્યાયિત થયેલ છે?",
+      "options": [
+        {
+          "option": "cos(θ)"
+        },
+        {
+          "option": "cot(θ)"
+        },
+        {
+          "option": "sin(θ)"
+        },
+        {
+          "option": "tan(θ)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો cos(θ) = 0.5 હોય, તો sec(θ) શું છે?",
+      "options": [
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "1.5"
+        }
+      ]
+    },
+    {
+      "question": "કાટકોણ ત્રિકોણ માટે નીચેનામાંથી કયું સાચું છે?",
+      "options": [
+        {
+          "option": "sin²θ + cos²θ = 1",
+          "is_answer": true
+        },
+        {
+          "option": "sinθ + cosθ = 1"
+        },
+        {
+          "option": "sin²θ - cos²θ = 1"
+        },
+        {
+          "option": "tanθ = sinθ * cosθ"
+        }
+      ]
+    },
+    {
+      "question": "જો sin(θ) = 3/5 અને cos(θ) = 4/5 હોય, તો tan(θ) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "4/5"
+        },
+        {
+          "option": "3/5"
+        },
+        {
+          "option": "3/4",
+          "is_answer": true
+        },
+        {
+          "option": "4/3"
+        }
+      ]
+    },
+    {
+      "question": "SOH CAH TOA માં, 'SOH' નો અર્થ શું છે?",
+      "options": [
+        {
+          "option": "sin = સામેની બાજુ / કર્ણ",
+          "is_answer": true
+        },
+        {
+          "option": "sin = કર્ણ / સામેની બાજુ"
+        },
+        {
+          "option": "sin = સામેની બાજુ / પાસેની બાજુ"
+        },
+        {
+          "option": "sin = પાસેની બાજુ / કર્ણ"
+        }
+      ]
+    },
+    {
+      "question": "sin(45° + 30°) ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "(√3 - 1)/2"
+        },
+        {
+          "option": "(√3 + 1)/2"
+        },
+        {
+          "option": "(√6 + √2)/4",
+          "is_answer": true
+        },
+        {
+          "option": "(√6 - √2)/4"
+        }
+      ]
+    },
+    {
+      "question": "cos(A - B) નું વિસ્તરણ શું છે?",
+      "options": [
+        {
+          "option": "sin A cos B + cos A sin B"
+        },
+        {
+          "option": "cos A cos B - sin A sin B"
+        },
+        {
+          "option": "cos A cos B + sin A sin B",
+          "is_answer": true
+        },
+        {
+          "option": "sin A cos B - cos A sin B"
+        }
+      ]
+    },
+    {
+      "question": "sin(60° - 30°) ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "1/√2"
+        },
+        {
+          "option": "√3/2"
+        },
+        {
+          "option": "1/2",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "cos(45° + 45°) ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "-1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "કયું સૂત્ર sin(A + B) દર્શાવે છે?",
+      "options": [
+        {
+          "option": "sin A cos B + cos A sin B",
+          "is_answer": true
+        },
+        {
+          "option": "cos A cos B + sin A sin B"
+        },
+        {
+          "option": "sin A cos B - cos A sin B"
+        },
+        {
+          "option": "cos A cos B - sin A sin B"
+        }
+      ]
+    },
+    {
+      "question": "cos(60° + 30°) ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "√3/2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "જ્યારે A=90° અને B=30° હોય ત્યારે sin(A - B) ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "√3/2",
+          "is_answer": true
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "sin(30° + 60°) ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "√3/2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "કયું સૂત્ર cos(A + B) ને સમાન છે?",
+      "options": [
+        {
+          "option": "cos A cos B - sin A sin B",
+          "is_answer": true
+        },
+        {
+          "option": "cos A cos B + sin A sin B"
+        },
+        {
+          "option": "sin A cos B + cos A sin B"
+        },
+        {
+          "option": "sin A cos B - cos A sin B"
+        }
+      ]
+    },
+    {
+      "question": "sin(45° - 30°) ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "(√3 - 1)/2"
+        },
+        {
+          "option": "(√3 + 1)/2"
+        },
+        {
+          "option": "(√6 - √2)/4",
+          "is_answer": true
+        },
+        {
+          "option": "(√6 + √2)/4"
+        }
+      ]
+    },
+    {
+      "question": "cos(60° - 30°) ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "√3/2",
+          "is_answer": true
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "જો sin A = 3/5 અને cos B = 12/13 હોય, તો sin(A + B) શું છે?",
+      "options": [
+        {
+          "option": "33/65"
+        },
+        {
+          "option": "56/65",
+          "is_answer": true
+        },
+        {
+          "option": "16/65"
+        },
+        {
+          "option": "63/65"
+        }
+      ]
+    },
+    {
+      "question": "sin(180° + A) ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "cos A"
+        },
+        {
+          "option": "sin A"
+        },
+        {
+          "option": "-cos A"
+        },
+        {
+          "option": "-sin A",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "cos(180° - A) ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "-cos A",
+          "is_answer": true
+        },
+        {
+          "option": "sin A"
+        },
+        {
+          "option": "-sin A"
+        },
+        {
+          "option": "cos A"
+        }
+      ]
+    },
+    {
+      "question": "કઈ અભિવ્યક્તિ sin A cos B - cos A sin B ને સમાન છે?",
+      "options": [
+        {
+          "option": "sin(A - B)",
+          "is_answer": true
+        },
+        {
+          "option": "cos(A + B)"
+        },
+        {
+          "option": "sin(A + B)"
+        },
+        {
+          "option": "cos(A - B)"
+        }
+      ]
+    },
+    {
+      "question": "sin(90° + A) ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "-cos A"
+        },
+        {
+          "option": "-sin A"
+        },
+        {
+          "option": "sin A"
+        },
+        {
+          "option": "cos A",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "cos(90° + A) ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "-cos A"
+        },
+        {
+          "option": "sin A"
+        },
+        {
+          "option": "-sin A",
+          "is_answer": true
+        },
+        {
+          "option": "cos A"
+        }
+      ]
+    },
+    {
+      "question": "sin(90° - A) ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "-cos A"
+        },
+        {
+          "option": "-sin A"
+        },
+        {
+          "option": "cos A",
+          "is_answer": true
+        },
+        {
+          "option": "sin A"
+        }
+      ]
+    },
+    {
+      "question": "cos(90° - A) ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "sin A",
+          "is_answer": true
+        },
+        {
+          "option": "cos A"
+        },
+        {
+          "option": "-cos A"
+        },
+        {
+          "option": "-sin A"
+        }
+      ]
+    },
+    {
+      "question": "કઈ અભિવ્યક્તિ cos A cos B + sin A sin B ને સમાન છે?",
+      "options": [
+        {
+          "option": "sin(A - B)"
+        },
+        {
+          "option": "cos(A - B)",
+          "is_answer": true
+        },
+        {
+          "option": "sin(A + B)"
+        },
+        {
+          "option": "cos(A + B)"
+        }
+      ]
+    },
+    {
+      "question": "sin(180° - θ) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "-cos θ"
+        },
+        {
+          "option": "sin θ",
+          "is_answer": true
+        },
+        {
+          "option": "-sin θ"
+        },
+        {
+          "option": "cos θ"
+        }
+      ]
+    },
+    {
+      "question": "cos(180° - θ) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "cos θ"
+        },
+        {
+          "option": "-cos θ",
+          "is_answer": true
+        },
+        {
+          "option": "sin θ"
+        },
+        {
+          "option": "-sin θ"
+        }
+      ]
+    },
+    {
+      "question": "tan(180° + θ) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "cot θ"
+        },
+        {
+          "option": "-tan θ"
+        },
+        {
+          "option": "-cot θ"
+        },
+        {
+          "option": "tan θ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "sin(-θ) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "cos θ"
+        },
+        {
+          "option": "-cos θ"
+        },
+        {
+          "option": "-sin θ",
+          "is_answer": true
+        },
+        {
+          "option": "sin θ"
+        }
+      ]
+    },
+    {
+      "question": "cos(-θ) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "-sin θ"
+        },
+        {
+          "option": "sin θ"
+        },
+        {
+          "option": "-cos θ"
+        },
+        {
+          "option": "cos θ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "sin(360° - θ) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "-cos θ"
+        },
+        {
+          "option": "-sin θ",
+          "is_answer": true
+        },
+        {
+          "option": "cos θ"
+        },
+        {
+          "option": "sin θ"
+        }
+      ]
+    },
+    {
+      "question": "cos(360° - θ) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "-sin θ"
+        },
+        {
+          "option": "-cos θ"
+        },
+        {
+          "option": "cos θ",
+          "is_answer": true
+        },
+        {
+          "option": "sin θ"
+        }
+      ]
+    },
+    {
+      "question": "sin(90° + θ) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "sin θ"
+        },
+        {
+          "option": "cos θ",
+          "is_answer": true
+        },
+        {
+          "option": "-sin θ"
+        },
+        {
+          "option": "-cos θ"
+        }
+      ]
+    },
+    {
+      "question": "cos(90° + θ) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "sin θ"
+        },
+        {
+          "option": "-cos θ"
+        },
+        {
+          "option": "cos θ"
+        },
+        {
+          "option": "-sin θ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "tan(90° + θ) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "-cot θ",
+          "is_answer": true
+        },
+        {
+          "option": "cot θ"
+        },
+        {
+          "option": "-tan θ"
+        },
+        {
+          "option": "tan θ"
+        }
+      ]
+    },
+    {
+      "question": "sin(270° - θ) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "cos θ"
+        },
+        {
+          "option": "sin θ"
+        },
+        {
+          "option": "-sin θ"
+        },
+        {
+          "option": "-cos θ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "cos(270° - θ) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "-sin θ",
+          "is_answer": true
+        },
+        {
+          "option": "-cos θ"
+        },
+        {
+          "option": "cos θ"
+        },
+        {
+          "option": "sin θ"
+        }
+      ]
+    },
+    {
+      "question": "sin(270° + θ) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "cos θ"
+        },
+        {
+          "option": "-cos θ",
+          "is_answer": true
+        },
+        {
+          "option": "sin θ"
+        },
+        {
+          "option": "-sin θ"
+        }
+      ]
+    },
+    {
+      "question": "cos(270° + θ) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "sin θ",
+          "is_answer": true
+        },
+        {
+          "option": "-cos θ"
+        },
+        {
+          "option": "cos θ"
+        },
+        {
+          "option": "-sin θ"
+        }
+      ]
+    },
+    {
+      "question": "tan(360° + θ) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "-tan θ"
+        },
+        {
+          "option": "cot θ"
+        },
+        {
+          "option": "tan θ",
+          "is_answer": true
+        },
+        {
+          "option": "-cot θ"
+        }
+      ]
+    },
+    {
+      "question": "tan(-θ) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "cot θ"
+        },
+        {
+          "option": "tan θ"
+        },
+        {
+          "option": "-cot θ"
+        },
+        {
+          "option": "-tan θ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "sin(180° + θ) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "cos θ"
+        },
+        {
+          "option": "sin θ"
+        },
+        {
+          "option": "-cos θ"
+        },
+        {
+          "option": "-sin θ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "cos(180° + θ) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "-sin θ"
+        },
+        {
+          "option": "sin θ"
+        },
+        {
+          "option": "-cos θ",
+          "is_answer": true
+        },
+        {
+          "option": "cos θ"
+        }
+      ]
+    },
+    {
+      "question": "tan(270° - θ) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "cot θ",
+          "is_answer": true
+        },
+        {
+          "option": "tan θ"
+        },
+        {
+          "option": "-cot θ"
+        },
+        {
+          "option": "-tan θ"
+        }
+      ]
+    },
+    {
+      "question": "tan(270° + θ) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "-tan θ"
+        },
+        {
+          "option": "cot θ"
+        },
+        {
+          "option": "-cot θ",
+          "is_answer": true
+        },
+        {
+          "option": "tan θ"
+        }
+      ]
+    },
+    {
+      "question": "tan(A + B) માટેનું સૂત્ર શું છે?",
+      "options": [
+        {
+          "option": "(tan A - tan B) / (1 + tan A tan B)"
+        },
+        {
+          "option": "(tan A + tan B) / (1 + tan A tan B)"
+        },
+        {
+          "option": "(tan A + tan B) / (1 - tan A tan B)",
+          "is_answer": true
+        },
+        {
+          "option": "(tan A - tan B) / (1 - tan A tan B)"
+        }
+      ]
+    },
+    {
+      "question": "tan(A - B) માટેનું સૂત્ર શું છે?",
+      "options": [
+        {
+          "option": "(tan A - tan B) / (1 + tan A tan B)",
+          "is_answer": true
+        },
+        {
+          "option": "(tan A + tan B) / (1 - tan A tan B)"
+        },
+        {
+          "option": "(tan A - tan B) / (1 - tan A tan B)"
+        },
+        {
+          "option": "(tan A + tan B) / (1 + tan A tan B)"
+        }
+      ]
+    },
+    {
+      "question": "tan(45° + A) ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "(1 - tan A) / (1 + tan A)"
+        },
+        {
+          "option": "(tan A + 1) / (tan A - 1)"
+        },
+        {
+          "option": "(1 + tan A) / (1 - tan A)",
+          "is_answer": true
+        },
+        {
+          "option": "(1 + tan A) / (1 + tan A)"
+        }
+      ]
+    },
+    {
+      "question": "tan(45° - A) ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "(1 + tan A) / (1 - tan A)"
+        },
+        {
+          "option": "(1 - tan A) / (1 - tan A)"
+        },
+        {
+          "option": "(1 - tan A) / (1 + tan A)",
+          "is_answer": true
+        },
+        {
+          "option": "(tan A - 1) / (tan A + 1)"
+        }
+      ]
+    },
+    {
+      "question": "cot(A + B) માટેનું સૂત્ર શું છે?",
+      "options": [
+        {
+          "option": "(cot A - cot B) / (cot A cot B + 1)"
+        },
+        {
+          "option": "(cot A cot B - 1) / (cot B + cot A)",
+          "is_answer": true
+        },
+        {
+          "option": "(cot A + cot B) / (cot A cot B - 1)"
+        },
+        {
+          "option": "(cot A cot B + 1) / (cot B - cot A)"
+        }
+      ]
+    },
+    {
+      "question": "cot(A - B) માટેનું સૂત્ર શું છે?",
+      "options": [
+        {
+          "option": "(cot A - cot B) / (cot A cot B + 1)"
+        },
+        {
+          "option": "(cot A cot B - 1) / (cot B + cot A)"
+        },
+        {
+          "option": "(cot A + cot B) / (cot A cot B - 1)"
+        },
+        {
+          "option": "(cot A cot B + 1) / (cot B - cot A)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "tan(60° + 45°) ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "(√3 + 1) / (1 + √3)"
+        },
+        {
+          "option": "(√3 - 1) / (1 + √3)"
+        },
+        {
+          "option": "(√3 + 1) / (1 - √3)",
+          "is_answer": true
+        },
+        {
+          "option": "(1 + √3) / (1 + √3)"
+        }
+      ]
+    },
+    {
+      "question": "જો tan A = 1/2 અને tan B = 1/3 હોય, તો tan(A + B) શું થાય?",
+      "options": [
+        {
+          "option": "1/6"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "5/6"
+        }
+      ]
+    },
+    {
+      "question": "જો tan A = 3 અને tan B = 2 હોય, તો tan(A + B) ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "1/5"
+        },
+        {
+          "option": "-1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કયું tan(A + B) * tan(A - B) ને સમાન છે?",
+      "options": [
+        {
+          "option": "(tan² A + tan² B) / (1 + tan² A tan² B)"
+        },
+        {
+          "option": "(tan A + tan B) / (1 - tan A tan B)"
+        },
+        {
+          "option": "(tan A - tan B) / (1 + tan A tan B)"
+        },
+        {
+          "option": "(tan² A - tan² B) / (1 - tan² A tan² B)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "tan(A + B + C) કોના બરાબર છે?",
+      "options": [
+        {
+          "option": "(Σtan A + Πtan A) / (1 + Σtan A tan B)"
+        },
+        {
+          "option": "(Σtan A - Πtan A) / (1 - Σtan A tan B)",
+          "is_answer": true
+        },
+        {
+          "option": "(Σtan A - Πtan A) / (1 + Σtan A tan B)"
+        },
+        {
+          "option": "(Πtan A - Σtan A) / (1 - Σtan A tan B)"
+        }
+      ]
+    },
+    {
+      "question": "tan(135°) ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "અવ્યાખ્યાયિત"
+        }
+      ]
+    },
+    {
+      "question": "જો tan(A + B) = 1 અને tan A = 1/2 હોય, તો tan B શોધો.",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "2/3"
+        },
+        {
+          "option": "1/3",
+          "is_answer": true
+        },
+        {
+          "option": "3/4"
+        }
+      ]
+    },
+    {
+      "question": "tan(x + 45°) નું વિસ્તરણ શું છે?",
+      "options": [
+        {
+          "option": "(1 + tan x) / (1 - tan x)",
+          "is_answer": true
+        },
+        {
+          "option": "(1 - tan x) / (1 - tan x)"
+        },
+        {
+          "option": "(tan x + 1) / (1 + tan x)"
+        },
+        {
+          "option": "(1 - tan x) / (1 + tan x)"
+        }
+      ]
+    },
+    {
+      "question": "(tan 60° + tan 15°) / (1 - tan 60° tan 15°) ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "tan 30°"
+        },
+        {
+          "option": "tan 75°",
+          "is_answer": true
+        },
+        {
+          "option": "tan 90°"
+        },
+        {
+          "option": "tan 45°"
+        }
+      ]
+    },
+    {
+      "question": "કયું સૂત્ર tan(A - B) ને યોગ્ય રીતે દર્શાવે છે?",
+      "options": [
+        {
+          "option": "(tan A - tan B) / (1 + tan A tan B)",
+          "is_answer": true
+        },
+        {
+          "option": "(tan A - tan B) / (1 - tan A tan B)"
+        },
+        {
+          "option": "(tan A + tan B) / (1 + tan A tan B)"
+        },
+        {
+          "option": "(tan A + tan B) / (1 - tan A tan B)"
+        }
+      ]
+    },
+    {
+      "question": "જો tan A = 1 અને tan B = 1/3 હોય, તો tan(A - B) ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "1/4"
+        },
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "2/3"
+        },
+        {
+          "option": "1/2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "પદાવલિ (tan 20° + tan 25°) / (1 - tan 20° tan 25°) નું સાદું રૂપ શું થાય?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "tan 5°"
+        },
+        {
+          "option": "tan 45°"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "tan ના સંદર્ભમાં cot(A + B) ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "(1 + tan A tan B) / (tan A - tan B)"
+        },
+        {
+          "option": "(tan A - tan B) / (1 + tan A tan B)"
+        },
+        {
+          "option": "(tan A + tan B) / (1 - tan A tan B)"
+        },
+        {
+          "option": "(1 - tan A tan B) / (tan A + tan B)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો tan(A + B) = 3 અને tan(A - B) = 2 હોય, તો tan 2A શું થાય?",
+      "options": [
+        {
+          "option": "6"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "1/5"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "2 sin A cos B માટેનું ગુણાકારમાંથી સરવાળાનું સૂત્ર શું છે?",
+      "options": [
+        {
+          "option": "sin(A+B) + sin(A-B)",
+          "is_answer": true
+        },
+        {
+          "option": "cos(A-B) - cos(A+B)"
+        },
+        {
+          "option": "sin(A+B) - sin(A-B)"
+        },
+        {
+          "option": "cos(A+B) + cos(A-B)"
+        }
+      ]
+    },
+    {
+      "question": "2 cos A cos B માટેનું ગુણાકારમાંથી સરવાળાનું સૂત્ર શું છે?",
+      "options": [
+        {
+          "option": "cos(A+B) - cos(A-B)"
+        },
+        {
+          "option": "cos(A+B) + cos(A-B)",
+          "is_answer": true
+        },
+        {
+          "option": "sin(A+B) + sin(A-B)"
+        },
+        {
+          "option": "sin(A-B) - sin(A+B)"
+        }
+      ]
+    },
+    {
+      "question": "2 sin A sin B માટેનું ગુણાકારમાંથી સરવાળાનું સૂત્ર શું છે?",
+      "options": [
+        {
+          "option": "cos(A-B) - cos(A+B)",
+          "is_answer": true
+        },
+        {
+          "option": "sin(A+B) + sin(A-B)"
+        },
+        {
+          "option": "cos(A+B) - cos(A-B)"
+        },
+        {
+          "option": "sin(A+B) - sin(A-B)"
+        }
+      ]
+    },
+    {
+      "question": "2 sin 30° cos 10° ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "sin 40° + sin 20°",
+          "is_answer": true
+        },
+        {
+          "option": "cos 40° - cos 20°"
+        },
+        {
+          "option": "sin 40° - sin 20°"
+        },
+        {
+          "option": "cos 40° + cos 20°"
+        }
+      ]
+    },
+    {
+      "question": "2 cos 50° cos 20° ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "cos 70° - cos 30°"
+        },
+        {
+          "option": "sin 70° + sin 30°"
+        },
+        {
+          "option": "sin 70° - sin 30°"
+        },
+        {
+          "option": "cos 70° + cos 30°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "2 sin 40° sin 10° ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "cos 50° - cos 30°"
+        },
+        {
+          "option": "sin 50° - sin 30°"
+        },
+        {
+          "option": "sin 30° - sin 50°"
+        },
+        {
+          "option": "cos 30° - cos 50°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "કયું પદ sin 60° + sin 20° ને સમાન છે?",
+      "options": [
+        {
+          "option": "2 sin 40° sin 20°"
+        },
+        {
+          "option": "2 cos 40° cos 20°"
+        },
+        {
+          "option": "2 sin 20° cos 40°"
+        },
+        {
+          "option": "2 sin 40° cos 20°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "કયું પદ cos 80° + cos 20° ને સમાન છે?",
+      "options": [
+        {
+          "option": "2 sin 50° sin 30°"
+        },
+        {
+          "option": "2 cos 50° sin 30°"
+        },
+        {
+          "option": "2 sin 50° cos 30°"
+        },
+        {
+          "option": "2 cos 50° cos 30°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "કયું પદ cos 20° - cos 40° ને સમાન છે?",
+      "options": [
+        {
+          "option": "2 sin 10° sin 30°"
+        },
+        {
+          "option": "2 cos 30° cos 10°"
+        },
+        {
+          "option": "2 sin 30° sin 10°",
+          "is_answer": true
+        },
+        {
+          "option": "2 cos 10° cos 30°"
+        }
+      ]
+    },
+    {
+      "question": "2 sin 3x cos x નું સાદું રૂપ આપો.",
+      "options": [
+        {
+          "option": "sin 4x - sin 2x"
+        },
+        {
+          "option": "sin 4x + sin 2x",
+          "is_answer": true
+        },
+        {
+          "option": "cos 4x - cos 2x"
+        },
+        {
+          "option": "cos 4x + cos 2x"
+        }
+      ]
+    },
+    {
+      "question": "2 cos 4x cos 2x નું સાદું રૂપ આપો.",
+      "options": [
+        {
+          "option": "cos 6x + cos 2x",
+          "is_answer": true
+        },
+        {
+          "option": "cos 6x - cos 2x"
+        },
+        {
+          "option": "sin 6x + sin 2x"
+        },
+        {
+          "option": "sin 6x - sin 2x"
+        }
+      ]
+    },
+    {
+      "question": "2 sin 5x sin 3x નું સાદું રૂપ આપો.",
+      "options": [
+        {
+          "option": "cos 8x - cos 2x"
+        },
+        {
+          "option": "cos 2x - cos 8x",
+          "is_answer": true
+        },
+        {
+          "option": "sin 2x - sin 8x"
+        },
+        {
+          "option": "sin 8x - sin 2x"
+        }
+      ]
+    },
+    {
+      "question": "કયું સૂત્ર 2 sin A cos B દર્શાવે છે?",
+      "options": [
+        {
+          "option": "cos(A-B) - cos(A+B)"
+        },
+        {
+          "option": "cos(A+B) + cos(A-B)"
+        },
+        {
+          "option": "sin(A+B) + sin(A-B)",
+          "is_answer": true
+        },
+        {
+          "option": "sin(A+B) - sin(A-B)"
+        }
+      ]
+    },
+    {
+      "question": "કયું સૂત્ર 2 cos A cos B દર્શાવે છે?",
+      "options": [
+        {
+          "option": "cos(A-B) - cos(A+B)"
+        },
+        {
+          "option": "cos(A+B) + cos(A-B)",
+          "is_answer": true
+        },
+        {
+          "option": "sin(A+B) - sin(A-B)"
+        },
+        {
+          "option": "sin(A+B) + sin(A-B)"
+        }
+      ]
+    },
+    {
+      "question": "કયું સૂત્ર 2 sin A sin B દર્શાવે છે?",
+      "options": [
+        {
+          "option": "sin(A+B) + sin(A-B)"
+        },
+        {
+          "option": "cos(A+B) + cos(A-B)"
+        },
+        {
+          "option": "sin(A+B) - sin(A-B)"
+        },
+        {
+          "option": "cos(A-B) - cos(A+B)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "2 sin 75° cos 15° ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "cos 90° - cos 60°"
+        },
+        {
+          "option": "sin 90° + sin 60°",
+          "is_answer": true
+        },
+        {
+          "option": "cos 90° + cos 60°"
+        },
+        {
+          "option": "sin 90° - sin 60°"
+        }
+      ]
+    },
+    {
+      "question": "2 cos 45° cos 15° ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "cos 60° - cos 30°"
+        },
+        {
+          "option": "sin 60° - sin 30°"
+        },
+        {
+          "option": "sin 60° + sin 30°"
+        },
+        {
+          "option": "cos 60° + cos 30°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "2 sin 60° sin 30° ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "sin 90° - sin 30°"
+        },
+        {
+          "option": "sin 30° - sin 90°"
+        },
+        {
+          "option": "cos 90° - cos 30°"
+        },
+        {
+          "option": "cos 30° - cos 90°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "કયું પદ sin 50° + sin 10° ને સમાન છે?",
+      "options": [
+        {
+          "option": "2 sin 30° sin 20°"
+        },
+        {
+          "option": "2 sin 20° cos 30°"
+        },
+        {
+          "option": "2 cos 30° cos 20°"
+        },
+        {
+          "option": "2 sin 30° cos 20°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "કયું પદ cos 70° + cos 10° ને સમાન છે?",
+      "options": [
+        {
+          "option": "2 sin 40° sin 30°"
+        },
+        {
+          "option": "2 cos 40° sin 30°"
+        },
+        {
+          "option": "2 sin 40° cos 30°"
+        },
+        {
+          "option": "2 cos 40° cos 30°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "sin^2(x) માટે પાવર રિડક્શન સૂત્ર શું છે?",
+      "options": [
+        {
+          "option": "(1 + cos 2x) / 2"
+        },
+        {
+          "option": "(1 + sin 2x) / 2"
+        },
+        {
+          "option": "(1 - cos 2x) / 2",
+          "is_answer": true
+        },
+        {
+          "option": "(1 - sin 2x) / 2"
+        }
+      ]
+    },
+    {
+      "question": "cos^2(x) માટે પાવર રિડક્શન સૂત્ર શું છે?",
+      "options": [
+        {
+          "option": "(1 + sin 2x) / 2"
+        },
+        {
+          "option": "(1 - cos 2x) / 2"
+        },
+        {
+          "option": "(1 - sin 2x) / 2"
+        },
+        {
+          "option": "(1 + cos 2x) / 2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કયું sin^2(A/2) ને સમાન છે?",
+      "options": [
+        {
+          "option": "(1 + sin A) / 2"
+        },
+        {
+          "option": "(1 - sin A) / 2"
+        },
+        {
+          "option": "(1 + cos A) / 2"
+        },
+        {
+          "option": "(1 - cos A) / 2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કયું cos^2(A/2) ને સમાન છે?",
+      "options": [
+        {
+          "option": "(1 - sin A) / 2"
+        },
+        {
+          "option": "(1 - cos A) / 2"
+        },
+        {
+          "option": "(1 + sin A) / 2"
+        },
+        {
+          "option": "(1 + cos A) / 2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "cos A અને sin A ના સંદર્ભમાં tan(A/2) માટેનું સૂત્ર શું છે?",
+      "options": [
+        {
+          "option": "(1 + cos A) / sin A"
+        },
+        {
+          "option": "sin A / (1 + cos A)"
+        },
+        {
+          "option": "sin A / (1 - cos A)"
+        },
+        {
+          "option": "(1 - cos A) / sin A",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો cos A = 0.6 હોય, તો sin^2(A/2) શું છે?",
+      "options": [
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0.2",
+          "is_answer": true
+        },
+        {
+          "option": "0.8"
+        },
+        {
+          "option": "0.4"
+        }
+      ]
+    },
+    {
+      "question": "જો cos A = 0.6 હોય, તો cos^2(A/2) શું છે?",
+      "options": [
+        {
+          "option": "0.8",
+          "is_answer": true
+        },
+        {
+          "option": "0.6"
+        },
+        {
+          "option": "0.2"
+        },
+        {
+          "option": "0.4"
+        }
+      ]
+    },
+    {
+      "question": "હાફ એંગલ ફોર્મ્યુલાનો ઉપયોગ કરીને sin^2(15 ડિગ્રી) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "(2 - sqrt(3)) / 4",
+          "is_answer": true
+        },
+        {
+          "option": "(2 + sqrt(3)) / 4"
+        },
+        {
+          "option": "(1 - sqrt(3)) / 2"
+        },
+        {
+          "option": "(1 + sqrt(3)) / 2"
+        }
+      ]
+    },
+    {
+      "question": "હાફ એંગલ ફોર્મ્યુલાનો ઉપયોગ કરીને cos^2(15 ડિગ્રી) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "(1 - sqrt(3)) / 2"
+        },
+        {
+          "option": "(2 + sqrt(3)) / 4",
+          "is_answer": true
+        },
+        {
+          "option": "(2 - sqrt(3)) / 4"
+        },
+        {
+          "option": "(1 + sqrt(3)) / 2"
+        }
+      ]
+    },
+    {
+      "question": "sin^2(x) માટે પાવર રિડક્શન સૂત્ર મેળવવા માટે કઈ ઓળખનો ઉપયોગ થાય છે?",
+      "options": [
+        {
+          "option": "cos 2x = 1 - 2sin^2(x)",
+          "is_answer": true
+        },
+        {
+          "option": "cos 2x = 2cos^2(x) - 1"
+        },
+        {
+          "option": "cos 2x = cos^2(x) - sin^2(x)"
+        },
+        {
+          "option": "sin 2x = 2sin x cos x"
+        }
+      ]
+    },
+    {
+      "question": "cos^2(x) માટે પાવર રિડક્શન સૂત્ર મેળવવા માટે કઈ ઓળખનો ઉપયોગ થાય છે?",
+      "options": [
+        {
+          "option": "cos 2x = cos^2(x) - sin^2(x)"
+        },
+        {
+          "option": "sin 2x = 2sin x cos x"
+        },
+        {
+          "option": "cos 2x = 2cos^2(x) - 1",
+          "is_answer": true
+        },
+        {
+          "option": "cos 2x = 1 - 2sin^2(x)"
+        }
+      ]
+    },
+    {
+      "question": "જો cos A = 0 અને sin A = 1 હોય, તો tan(A/2) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "અવ્યાખ્યાયિત"
+        }
+      ]
+    },
+    {
+      "question": "જો cos A = -1 અને sin A = 0 હોય, તો tan(A/2) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "અવ્યાખ્યાયિત"
+        }
+      ]
+    },
+    {
+      "question": "અભિવ્યક્તિ (1 - cos 2x) / (1 + cos 2x) કોના બરાબર છે?",
+      "options": [
+        {
+          "option": "tan^2(x)",
+          "is_answer": true
+        },
+        {
+          "option": "cos^2(x)"
+        },
+        {
+          "option": "cot^2(x)"
+        },
+        {
+          "option": "sin^2(x)"
+        }
+      ]
+    },
+    {
+      "question": "2 sin^2(A/2) + cos A શું છે?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "2 cos^2(A/2) - cos A શું છે?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "tan(A/2) માટે કયું સૂત્ર સાચું છે?",
+      "options": [
+        {
+          "option": "(1 - cos A) / sin A",
+          "is_answer": true
+        },
+        {
+          "option": "sin A / (1 + cos A)"
+        },
+        {
+          "option": "(1 - sin A) / cos A"
+        },
+        {
+          "option": "(1 + cos A) / sin A"
+        }
+      ]
+    },
+    {
+      "question": "જો sin^2(A/2) = 0.5 હોય, તો cos A શું છે?",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0.5"
+        }
+      ]
+    },
+    {
+      "question": "જો cos^2(A/2) = 0.5 હોય, તો cos A શું છે?",
+      "options": [
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "જો cos A = 1 હોય, તો tan(A/2) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "અવ્યાખ્યાયિત"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "sin(θ) = 0 માટે વ્યાપક ઉકેલ શું છે?",
+      "options": [
+        {
+          "option": "2nπ"
+        },
+        {
+          "option": "nπ + π/2"
+        },
+        {
+          "option": "2nπ + π"
+        },
+        {
+          "option": "nπ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "cos(θ) = 0 માટે વ્યાપક ઉકેલ શું છે?",
+      "options": [
+        {
+          "option": "nπ + π/2"
+        },
+        {
+          "option": "2nπ"
+        },
+        {
+          "option": "(2n+1)π/2",
+          "is_answer": true
+        },
+        {
+          "option": "nπ"
+        }
+      ]
+    },
+    {
+      "question": "sin(θ) = 1 નો વ્યાપક ઉકેલ છે:",
+      "options": [
+        {
+          "option": "nπ"
+        },
+        {
+          "option": "(4n+1)π/2",
+          "is_answer": true
+        },
+        {
+          "option": "2nπ"
+        },
+        {
+          "option": "nπ + π/2"
+        }
+      ]
+    },
+    {
+      "question": "cos(θ) = 1 નો વ્યાપક ઉકેલ છે:",
+      "options": [
+        {
+          "option": "2nπ",
+          "is_answer": true
+        },
+        {
+          "option": "nπ"
+        },
+        {
+          "option": "nπ/2"
+        },
+        {
+          "option": "(2n+1)π"
+        }
+      ]
+    },
+    {
+      "question": "tan(θ) = 0 નો વ્યાપક ઉકેલ છે:",
+      "options": [
+        {
+          "option": "nπ/2"
+        },
+        {
+          "option": "2nπ"
+        },
+        {
+          "option": "(2n+1)π/2"
+        },
+        {
+          "option": "nπ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો sin(θ) = sin(α) હોય, તો વ્યાપક ઉકેલ શું છે?",
+      "options": [
+        {
+          "option": "nπ + (-1)^n α",
+          "is_answer": true
+        },
+        {
+          "option": "nπ ± α"
+        },
+        {
+          "option": "2nπ ± α"
+        },
+        {
+          "option": "2nπ + α"
+        }
+      ]
+    },
+    {
+      "question": "જો cos(θ) = cos(α) હોય, તો વ્યાપક ઉકેલ શું છે?",
+      "options": [
+        {
+          "option": "2nπ ± α",
+          "is_answer": true
+        },
+        {
+          "option": "nπ + (-1)^n α"
+        },
+        {
+          "option": "nπ ± α"
+        },
+        {
+          "option": "2nπ + α"
+        }
+      ]
+    },
+    {
+      "question": "tan(θ) = tan(α) નો વ્યાપક ઉકેલ છે:",
+      "options": [
+        {
+          "option": "nπ + α",
+          "is_answer": true
+        },
+        {
+          "option": "nπ ± α"
+        },
+        {
+          "option": "2nπ + α"
+        },
+        {
+          "option": "2nπ ± α"
+        }
+      ]
+    },
+    {
+      "question": "sin(θ) = -1 માટે વ્યાપક ઉકેલ શું છે?",
+      "options": [
+        {
+          "option": "nπ"
+        },
+        {
+          "option": "2nπ + π/2"
+        },
+        {
+          "option": "(4n-1)π/2",
+          "is_answer": true
+        },
+        {
+          "option": "nπ + π"
+        }
+      ]
+    },
+    {
+      "question": "cos(θ) = -1 નો વ્યાપક ઉકેલ છે:",
+      "options": [
+        {
+          "option": "nπ/2"
+        },
+        {
+          "option": "nπ"
+        },
+        {
+          "option": "(2n+1)π",
+          "is_answer": true
+        },
+        {
+          "option": "2nπ"
+        }
+      ]
+    },
+    {
+      "question": "sin(θ) = 1/2 માટે વ્યાપક ઉકેલ શોધો.",
+      "options": [
+        {
+          "option": "nπ + (-1)^n π/6",
+          "is_answer": true
+        },
+        {
+          "option": "2nπ ± π/6"
+        },
+        {
+          "option": "2nπ + π/6"
+        },
+        {
+          "option": "nπ ± π/6"
+        }
+      ]
+    },
+    {
+      "question": "cos(θ) = 1/2 માટે વ્યાપક ઉકેલ શોધો.",
+      "options": [
+        {
+          "option": "2nπ ± π/3",
+          "is_answer": true
+        },
+        {
+          "option": "nπ + (-1)^n π/3"
+        },
+        {
+          "option": "2nπ + π/3"
+        },
+        {
+          "option": "nπ ± π/3"
+        }
+      ]
+    },
+    {
+      "question": "sin^2(θ) = sin^2(α) નો વ્યાપક ઉકેલ છે:",
+      "options": [
+        {
+          "option": "2nπ ± α"
+        },
+        {
+          "option": "nπ + (-1)^n α"
+        },
+        {
+          "option": "nπ + α"
+        },
+        {
+          "option": "nπ ± α",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "cos^2(θ) = cos^2(α) નો વ્યાપક ઉકેલ છે:",
+      "options": [
+        {
+          "option": "nπ + α"
+        },
+        {
+          "option": "nπ + (-1)^n α"
+        },
+        {
+          "option": "2nπ ± α"
+        },
+        {
+          "option": "nπ ± α",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "tan^2(θ) = tan^2(α) નો વ્યાપક ઉકેલ છે:",
+      "options": [
+        {
+          "option": "nπ + α"
+        },
+        {
+          "option": "nπ/2 + α"
+        },
+        {
+          "option": "2nπ ± α"
+        },
+        {
+          "option": "nπ ± α",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "sin(θ) = -1/sqrt(2) માટે વ્યાપક ઉકેલ શું છે?",
+      "options": [
+        {
+          "option": "2nπ - π/4"
+        },
+        {
+          "option": "2nπ ± 3π/4"
+        },
+        {
+          "option": "nπ + (-1)^n (-π/4)",
+          "is_answer": true
+        },
+        {
+          "option": "nπ ± 3π/4"
+        }
+      ]
+    },
+    {
+      "question": "cos(θ) = -1/2 માટે વ્યાપક ઉકેલ શું છે?",
+      "options": [
+        {
+          "option": "2nπ ± 2π/3",
+          "is_answer": true
+        },
+        {
+          "option": "nπ ± 2π/3"
+        },
+        {
+          "option": "nπ + (-1)^n 2π/3"
+        },
+        {
+          "option": "2nπ ± π/3"
+        }
+      ]
+    },
+    {
+      "question": "tan(θ) = 1 નો વ્યાપક ઉકેલ છે:",
+      "options": [
+        {
+          "option": "2nπ + π/4"
+        },
+        {
+          "option": "nπ + π/4",
+          "is_answer": true
+        },
+        {
+          "option": "2nπ ± π/4"
+        },
+        {
+          "option": "nπ ± π/4"
+        }
+      ]
+    },
+    {
+      "question": "sin(θ) = -sqrt(3)/2 નો વ્યાપક ઉકેલ છે:",
+      "options": [
+        {
+          "option": "2nπ - π/3"
+        },
+        {
+          "option": "nπ ± 2π/3"
+        },
+        {
+          "option": "nπ + (-1)^n (-π/3)",
+          "is_answer": true
+        },
+        {
+          "option": "2nπ ± 2π/3"
+        }
+      ]
+    },
+    {
+      "question": "cos(θ) = -sqrt(3)/2 નો વ્યાપક ઉકેલ છે:",
+      "options": [
+        {
+          "option": "nπ + (-1)^n 5π/6"
+        },
+        {
+          "option": "2nπ ± π/6"
+        },
+        {
+          "option": "2nπ ± 5π/6",
+          "is_answer": true
+        },
+        {
+          "option": "nπ ± 5π/6"
+        }
+      ]
+    },
+    {
+      "question": "sin^2(θ) + cos^2(θ) ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "sec^2(θ) - tan^2(θ) ને સમકક્ષ કયું નિત્યસમ છે?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "cos^2(θ)"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "sin^2(θ)"
+        }
+      ]
+    },
+    {
+      "question": "1 + cot^2(θ) કોના બરાબર છે?",
+      "options": [
+        {
+          "option": "csc^2(θ)",
+          "is_answer": true
+        },
+        {
+          "option": "tan^2(θ)"
+        },
+        {
+          "option": "sec^2(θ)"
+        },
+        {
+          "option": "sin^2(θ)"
+        }
+      ]
+    },
+    {
+      "question": "કયું પદ cos^2(θ) બરાબર છે?",
+      "options": [
+        {
+          "option": "1 - sin^2(θ)",
+          "is_answer": true
+        },
+        {
+          "option": "1 + tan^2(θ)"
+        },
+        {
+          "option": "sec^2(θ) - 1"
+        },
+        {
+          "option": "1 + sin^2(θ)"
+        }
+      ]
+    },
+    {
+      "question": "sec^2(θ) - 1 ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "sin^2(θ)"
+        },
+        {
+          "option": "cot^2(θ)"
+        },
+        {
+          "option": "csc^2(θ)"
+        },
+        {
+          "option": "tan^2(θ)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "કયું નિત્યસમ 1 + tan^2(θ) દર્શાવે છે?",
+      "options": [
+        {
+          "option": "csc^2(θ)"
+        },
+        {
+          "option": "sin^2(θ)"
+        },
+        {
+          "option": "cos^2(θ)"
+        },
+        {
+          "option": "sec^2(θ)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "csc^2(θ) - cot^2(θ) કોના બરાબર છે?",
+      "options": [
+        {
+          "option": "-1"
+        },
+        {
+          "option": "sin^2(θ)"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કયું sin^2(θ) ને સમકક્ષ છે?",
+      "options": [
+        {
+          "option": "csc^2(θ) - 1"
+        },
+        {
+          "option": "sec^2(θ) - 1"
+        },
+        {
+          "option": "1 - cos^2(θ)",
+          "is_answer": true
+        },
+        {
+          "option": "1 + cos^2(θ)"
+        }
+      ]
+    },
+    {
+      "question": "csc^2(θ) - 1 ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "tan^2(θ)"
+        },
+        {
+          "option": "cot^2(θ)",
+          "is_answer": true
+        },
+        {
+          "option": "cos^2(θ)"
+        },
+        {
+          "option": "sec^2(θ)"
+        }
+      ]
+    },
+    {
+      "question": "sin^2(θ) + cos^2(θ) = 1 પરથી કયું નિત્યસમ મેળવી શકાય છે?",
+      "options": [
+        {
+          "option": "sin^2(θ) = 1 + cos^2(θ)"
+        },
+        {
+          "option": "sin^2(θ) = cos^2(θ) - 1"
+        },
+        {
+          "option": "sin^2(θ) = sec^2(θ)"
+        },
+        {
+          "option": "sin^2(θ) = 1 - cos^2(θ)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો 1 + tan^2(θ) = x હોય, તો x શું છે?",
+      "options": [
+        {
+          "option": "csc^2(θ)"
+        },
+        {
+          "option": "sin^2(θ)"
+        },
+        {
+          "option": "cos^2(θ)"
+        },
+        {
+          "option": "sec^2(θ)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "કયું પદ 1 બરાબર છે?",
+      "options": [
+        {
+          "option": "sec^2(θ) + tan^2(θ)"
+        },
+        {
+          "option": "sin^2(θ) - cos^2(θ)"
+        },
+        {
+          "option": "sec^2(θ) - tan^2(θ)",
+          "is_answer": true
+        },
+        {
+          "option": "csc^2(θ) + cot^2(θ)"
+        }
+      ]
+    },
+    {
+      "question": "1 + cot^2(θ) માટેનું નિત્યસમ કયું છે?",
+      "options": [
+        {
+          "option": "sec^2(θ)"
+        },
+        {
+          "option": "sin^2(θ)"
+        },
+        {
+          "option": "csc^2(θ)",
+          "is_answer": true
+        },
+        {
+          "option": "tan^2(θ)"
+        }
+      ]
+    },
+    {
+      "question": "આમાંથી કયું પાયથાગોરિયન નિત્યસમ છે?",
+      "options": [
+        {
+          "option": "sin^2(θ) + cos^2(θ) = 0"
+        },
+        {
+          "option": "sin^2(θ) + cos^2(θ) = 1",
+          "is_answer": true
+        },
+        {
+          "option": "tan^2(θ) + sec^2(θ) = 1"
+        },
+        {
+          "option": "sin^2(θ) - cos^2(θ) = 1"
+        }
+      ]
+    },
+    {
+      "question": "secant ના સંદર્ભમાં tan^2(θ) કોના બરાબર છે?",
+      "options": [
+        {
+          "option": "sec^2(θ) + 1"
+        },
+        {
+          "option": "1 / sec^2(θ)"
+        },
+        {
+          "option": "sec^2(θ) - 1",
+          "is_answer": true
+        },
+        {
+          "option": "1 - sec^2(θ)"
+        }
+      ]
+    },
+    {
+      "question": "cosecant ના સંદર્ભમાં cot^2(θ) કોના બરાબર છે?",
+      "options": [
+        {
+          "option": "1 / csc^2(θ)"
+        },
+        {
+          "option": "csc^2(θ) - 1",
+          "is_answer": true
+        },
+        {
+          "option": "csc^2(θ) + 1"
+        },
+        {
+          "option": "1 - csc^2(θ)"
+        }
+      ]
+    },
+    {
+      "question": "કયું નિત્યસમ 1 ને સમકક્ષ છે?",
+      "options": [
+        {
+          "option": "csc^2(θ) + cot^2(θ)"
+        },
+        {
+          "option": "cot^2(θ) - csc^2(θ)"
+        },
+        {
+          "option": "csc^2(θ) - cot^2(θ)",
+          "is_answer": true
+        },
+        {
+          "option": "sin^2(θ) + tan^2(θ)"
+        }
+      ]
+    },
+    {
+      "question": "1 - sin^2(θ) ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "cos^2(θ)",
+          "is_answer": true
+        },
+        {
+          "option": "csc^2(θ)"
+        },
+        {
+          "option": "sec^2(θ)"
+        },
+        {
+          "option": "tan^2(θ)"
+        }
+      ]
+    },
+    {
+      "question": "કયું નિત્યસમ સાચું છે?",
+      "options": [
+        {
+          "option": "1 + tan^2(θ) = cos^2(θ)"
+        },
+        {
+          "option": "1 + tan^2(θ) = sec^2(θ)",
+          "is_answer": true
+        },
+        {
+          "option": "1 + tan^2(θ) = csc^2(θ)"
+        },
+        {
+          "option": "1 + tan^2(θ) = sin^2(θ)"
+        }
+      ]
+    },
+    {
+      "question": "1 - cos^2(θ) ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "sec^2(θ)"
+        },
+        {
+          "option": "csc^2(θ)"
+        },
+        {
+          "option": "sin^2(θ)",
+          "is_answer": true
+        },
+        {
+          "option": "tan^2(θ)"
+        }
+      ]
+    },
+    {
+      "question": "sin C + sin D માટેનું સૂત્ર શું છે?",
+      "options": [
+        {
+          "option": "2 sin((C+D)/2) sin((C-D)/2)"
+        },
+        {
+          "option": "2 cos((C+D)/2) cos((C-D)/2)"
+        },
+        {
+          "option": "2 sin((C+D)/2) cos((C-D)/2)",
+          "is_answer": true
+        },
+        {
+          "option": "2 cos((C+D)/2) sin((C-D)/2)"
+        }
+      ]
+    },
+    {
+      "question": "cos C + cos D માટેનું સૂત્ર શું છે?",
+      "options": [
+        {
+          "option": "2 cos((C+D)/2) sin((C-D)/2)"
+        },
+        {
+          "option": "2 sin((C+D)/2) sin((C-D)/2)"
+        },
+        {
+          "option": "2 cos((C+D)/2) cos((C-D)/2)",
+          "is_answer": true
+        },
+        {
+          "option": "2 sin((C+D)/2) cos((C-D)/2)"
+        }
+      ]
+    },
+    {
+      "question": "sin 40° + sin 20° નું સાદું રૂપ આપો.",
+      "options": [
+        {
+          "option": "2 cos 30° sin 10°"
+        },
+        {
+          "option": "2 sin 30° sin 10°"
+        },
+        {
+          "option": "2 sin 60° cos 20°"
+        },
+        {
+          "option": "2 sin 30° cos 10°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "cos 50° + cos 30° નું સાદું રૂપ આપો.",
+      "options": [
+        {
+          "option": "2 cos 80° cos 20°"
+        },
+        {
+          "option": "2 cos 40° sin 10°"
+        },
+        {
+          "option": "2 cos 40° cos 10°",
+          "is_answer": true
+        },
+        {
+          "option": "2 sin 40° sin 10°"
+        }
+      ]
+    },
+    {
+      "question": "sin 70° + sin 10° ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "2 sin 40° sin 30°"
+        },
+        {
+          "option": "2 sin 80° cos 20°"
+        },
+        {
+          "option": "2 cos 40° sin 30°"
+        },
+        {
+          "option": "2 sin 40° cos 30°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "cos 80° + cos 20° ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "2 cos 50° cos 30°",
+          "is_answer": true
+        },
+        {
+          "option": "2 cos 100° cos 60°"
+        },
+        {
+          "option": "2 cos 50° sin 30°"
+        },
+        {
+          "option": "2 sin 50° sin 30°"
+        }
+      ]
+    },
+    {
+      "question": "sin 3x + sin x ને ગુણાકાર સ્વરૂપે દર્શાવો.",
+      "options": [
+        {
+          "option": "2 sin 2x cos x",
+          "is_answer": true
+        },
+        {
+          "option": "2 sin 2x sin x"
+        },
+        {
+          "option": "2 cos 2x sin x"
+        },
+        {
+          "option": "2 sin 4x cos 2x"
+        }
+      ]
+    },
+    {
+      "question": "cos 5x + cos 3x ને ગુણાકાર સ્વરૂપે દર્શાવો.",
+      "options": [
+        {
+          "option": "2 sin 4x sin x"
+        },
+        {
+          "option": "2 cos 4x sin x"
+        },
+        {
+          "option": "2 cos 8x cos 2x"
+        },
+        {
+          "option": "2 cos 4x cos x",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "sin 50° + sin 10° નું પરિણામ શું છે?",
+      "options": [
+        {
+          "option": "2 sin 30° sin 20°"
+        },
+        {
+          "option": "2 sin 30° cos 20°",
+          "is_answer": true
+        },
+        {
+          "option": "2 cos 30° sin 20°"
+        },
+        {
+          "option": "2 sin 60° cos 40°"
+        }
+      ]
+    },
+    {
+      "question": "cos 70° + cos 10° નું પરિણામ શું છે?",
+      "options": [
+        {
+          "option": "2 cos 40° cos 30°",
+          "is_answer": true
+        },
+        {
+          "option": "2 sin 40° sin 30°"
+        },
+        {
+          "option": "2 cos 40° sin 30°"
+        },
+        {
+          "option": "2 cos 80° cos 60°"
+        }
+      ]
+    },
+    {
+      "question": "જો sin A + sin B = 2 sin 40° cos 10° હોય, તો A અને B શું છે?",
+      "options": [
+        {
+          "option": "A=80°, B=20°"
+        },
+        {
+          "option": "A=40°, B=10°"
+        },
+        {
+          "option": "A=70°, B=10°"
+        },
+        {
+          "option": "A=50°, B=30°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો cos A + cos B = 2 cos 50° cos 20° હોય, તો A અને B શું છે?",
+      "options": [
+        {
+          "option": "A=50°, B=20°"
+        },
+        {
+          "option": "A=60°, B=40°"
+        },
+        {
+          "option": "A=100°, B=40°"
+        },
+        {
+          "option": "A=70°, B=30°",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કયું sin 60° + sin 20° ને સમાન છે?",
+      "options": [
+        {
+          "option": "2 sin 80° cos 40°"
+        },
+        {
+          "option": "2 cos 40° sin 20°"
+        },
+        {
+          "option": "2 sin 40° cos 20°",
+          "is_answer": true
+        },
+        {
+          "option": "2 sin 40° sin 20°"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કયું cos 40° + cos 20° ને સમાન છે?",
+      "options": [
+        {
+          "option": "2 sin 30° sin 10°"
+        },
+        {
+          "option": "2 cos 60° cos 20°"
+        },
+        {
+          "option": "2 cos 30° cos 10°",
+          "is_answer": true
+        },
+        {
+          "option": "2 cos 30° sin 10°"
+        }
+      ]
+    },
+    {
+      "question": "sin 2x + sin 4x નું સરવાળામાંથી ગુણાકારનું સ્વરૂપ શું છે?",
+      "options": [
+        {
+          "option": "2 sin 3x cos x",
+          "is_answer": true
+        },
+        {
+          "option": "2 cos 3x sin x"
+        },
+        {
+          "option": "2 sin 3x sin x"
+        },
+        {
+          "option": "2 sin 6x cos 2x"
+        }
+      ]
+    },
+    {
+      "question": "cos 6x + cos 2x નું સરવાળામાંથી ગુણાકારનું સ્વરૂપ શું છે?",
+      "options": [
+        {
+          "option": "2 sin 4x sin 2x"
+        },
+        {
+          "option": "2 cos 8x cos 4x"
+        },
+        {
+          "option": "2 cos 4x cos 2x",
+          "is_answer": true
+        },
+        {
+          "option": "2 cos 4x sin 2x"
+        }
+      ]
+    },
+    {
+      "question": "sin 75° + sin 15° ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "2 cos 45° sin 30°"
+        },
+        {
+          "option": "2 sin 45° cos 30°",
+          "is_answer": true
+        },
+        {
+          "option": "2 sin 45° sin 30°"
+        },
+        {
+          "option": "2 sin 90° cos 60°"
+        }
+      ]
+    },
+    {
+      "question": "cos 75° + cos 15° ની કિંમત શોધો.",
+      "options": [
+        {
+          "option": "2 cos 45° cos 30°",
+          "is_answer": true
+        },
+        {
+          "option": "2 sin 45° sin 30°"
+        },
+        {
+          "option": "2 cos 45° sin 30°"
+        },
+        {
+          "option": "2 cos 90° cos 60°"
+        }
+      ]
+    },
+    {
+      "question": "કોઈપણ ત્રિકોણ ABC માં, a/sin A નો ગુણોત્તર શેના બરાબર છે?",
+      "options": [
+        {
+          "option": "R"
+        },
+        {
+          "option": "a+b+c"
+        },
+        {
+          "option": "r"
+        },
+        {
+          "option": "2R",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "કયું સૂત્ર સાઈનનો નિયમ (Law of Sines) દર્શાવે છે?",
+      "options": [
+        {
+          "option": "a^2 = b^2 + c^2"
+        },
+        {
+          "option": "a/sin B = b/sin A"
+        },
+        {
+          "option": "a/sin A = b/sin B = c/sin C",
+          "is_answer": true
+        },
+        {
+          "option": "a/cos A = b/cos B"
+        }
+      ]
+    },
+    {
+      "question": "જો a=10, sin A=0.5 હોય, તો ત્રિકોણનો પરિઘવ્યાસ (2R) કેટલો થાય?",
+      "options": [
+        {
+          "option": "10"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "2.5"
+        }
+      ]
+    },
+    {
+      "question": "સાઈનનો નિયમ કયા પ્રકારના ત્રિકોણ માટે લાગુ પડે છે?",
+      "options": [
+        {
+          "option": "માત્ર સમબાજુ ત્રિકોણ"
+        },
+        {
+          "option": "માત્ર સમદ્વિબાજુ ત્રિકોણ"
+        },
+        {
+          "option": "માત્ર કાટકોણ ત્રિકોણ"
+        },
+        {
+          "option": "બધા જ ત્રિકોણ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "ત્રિકોણ ABC માં, જો a/sin A = 2R હોય, તો 'R' શું છે?",
+      "options": [
+        {
+          "option": "અર્ધ-પરિમિતિ"
+        },
+        {
+          "option": "અંતઃત્રિજ્યા"
+        },
+        {
+          "option": "પરિત્રિજ્યા",
+          "is_answer": true
+        },
+        {
+          "option": "ક્ષેત્રફળ"
+        }
+      ]
+    },
+    {
+      "question": "જો A=30 ડિગ્રી અને a=5 હોય, તો 2R નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "2.5"
+        },
+        {
+          "option": "20"
+        },
+        {
+          "option": "5"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "સાઈનનો નિયમ વાપરવા માટે કઈ શરત જરૂરી છે?",
+      "options": [
+        {
+          "option": "ક્ષેત્રફળ જાણવું"
+        },
+        {
+          "option": "ઓછામાં ઓછી એક બાજુ અને તેનો સામેનો ખૂણો જાણવો",
+          "is_answer": true
+        },
+        {
+          "option": "ત્રણેય બાજુઓ જાણવી"
+        },
+        {
+          "option": "બે બાજુઓ અને તેમની વચ્ચેનો ખૂણો જાણવો"
+        }
+      ]
+    },
+    {
+      "question": "ત્રિકોણ ABC માં, જો b=8 અને sin B=0.4 હોય, તો 2R શોધો.",
+      "options": [
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "0.05"
+        },
+        {
+          "option": "40"
+        },
+        {
+          "option": "3.2"
+        }
+      ]
+    },
+    {
+      "question": "R ના સંદર્ભમાં sin A/a નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "2R"
+        },
+        {
+          "option": "R"
+        },
+        {
+          "option": "1/(2R)",
+          "is_answer": true
+        },
+        {
+          "option": "1/R"
+        }
+      ]
+    },
+    {
+      "question": "જો a/sin A = b/sin B હોય, તો આ કયા નિયમનો ભાગ છે?",
+      "options": [
+        {
+          "option": "ટેન્જન્ટનો નિયમ"
+        },
+        {
+          "option": "પાયથાગોરસનો પ્રમેય"
+        },
+        {
+          "option": "કોસાઈનનો નિયમ"
+        },
+        {
+          "option": "સાઈનનો નિયમ",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "ત્રિકોણ ABC માં, જો R=5 હોય, તો a/sin A શું થાય?",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "2.5"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "20"
+        }
+      ]
+    },
+    {
+      "question": "સાઈનનો નિયમ ત્રિકોણની બાજુઓ અને ખૂણાઓને કોની સાથે જોડે છે?",
+      "options": [
+        {
+          "option": "અંતઃત્રિજ્યા"
+        },
+        {
+          "option": "પરિમિતિ"
+        },
+        {
+          "option": "પરિત્રિજ્યા",
+          "is_answer": true
+        },
+        {
+          "option": "વેધ"
+        }
+      ]
+    },
+    {
+      "question": "જો a=c હોય, તો નીચેનામાંથી શું સાચું છે?",
+      "options": [
+        {
+          "option": "a = b"
+        },
+        {
+          "option": "A = 90 ડિગ્રી"
+        },
+        {
+          "option": "sin A = sin B"
+        },
+        {
+          "option": "sin A = sin C",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "ત્રિકોણ ABC માં, જો A=90 ડિગ્રી હોય, તો a બરાબર શું થાય?",
+      "options": [
+        {
+          "option": "R"
+        },
+        {
+          "option": "R/2"
+        },
+        {
+          "option": "4R"
+        },
+        {
+          "option": "2R",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "આમાંથી કયું સાઈનનો નિયમનું માન્ય સ્વરૂપ નથી?",
+      "options": [
+        {
+          "option": "sin A/a = sin B/b"
+        },
+        {
+          "option": "a/b = sin A/sin B"
+        },
+        {
+          "option": "a/sin B = b/sin C",
+          "is_answer": true
+        },
+        {
+          "option": "a/sin A = b/sin B"
+        }
+      ]
+    },
+    {
+      "question": "જો sin A = 1 હોય, તો બાજુ 'a' ની લંબાઈ કેટલી થાય?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "2R",
+          "is_answer": true
+        },
+        {
+          "option": "R"
+        },
+        {
+          "option": "R/2"
+        }
+      ]
+    },
+    {
+      "question": "સાઈનનો નિયમ ક્યારે સૌથી વધુ ઉપયોગી છે?",
+      "options": [
+        {
+          "option": "ત્રિકોણની પરિમિતિ શોધવા માટે"
+        },
+        {
+          "option": "ત્રિકોણનું ક્ષેત્રફળ શોધવા માટે"
+        },
+        {
+          "option": "અજ્ઞાત બાજુઓ કે ખૂણાઓ શોધવા માટે",
+          "is_answer": true
+        },
+        {
+          "option": "ત્રિકોણની અંતઃત્રિજ્યા શોધવા માટે"
+        }
+      ]
+    },
+    {
+      "question": "જો a/sin A = 2R હોય, તો sin A બરાબર શું થાય?",
+      "options": [
+        {
+          "option": "2R/a"
+        },
+        {
+          "option": "a/(2R)",
+          "is_answer": true
+        },
+        {
+          "option": "R/a"
+        },
+        {
+          "option": "a*R"
+        }
+      ]
+    },
+    {
+      "question": "કોઈપણ ત્રિકોણમાં, બાજુ અને તેના સામેના ખૂણાના સાઈનનો ગુણોત્તર કેવો હોય છે?",
+      "options": [
+        {
+          "option": "અનંત"
+        },
+        {
+          "option": "શૂન્ય"
+        },
+        {
+          "option": "અચળ",
+          "is_answer": true
+        },
+        {
+          "option": "ચલ"
+        }
+      ]
+    },
+    {
+      "question": "જો a=6, b=6 હોય, તો sin A/sin B બરાબર શું થાય?",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "sin(2A) માટેનું સૂત્ર શું છે?",
+      "options": [
+        {
+          "option": "sin A cos A"
+        },
+        {
+          "option": "cos^2 A - sin^2 A"
+        },
+        {
+          "option": "2 sin A cos A",
+          "is_answer": true
+        },
+        {
+          "option": "2 sin A"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કયું cos(2A) માટેનું નિત્યસમ છે?",
+      "options": [
+        {
+          "option": "1 - cos^2 A"
+        },
+        {
+          "option": "cos^2 A + sin^2 A"
+        },
+        {
+          "option": "2 cos^2 A - 1",
+          "is_answer": true
+        },
+        {
+          "option": "2 sin A cos A"
+        }
+      ]
+    },
+    {
+      "question": "tan(2A) માટેનું સૂત્ર શું છે?",
+      "options": [
+        {
+          "option": "(2 tan A) / (1 + tan^2 A)"
+        },
+        {
+          "option": "(2 tan A) / (1 - tan^2 A)",
+          "is_answer": true
+        },
+        {
+          "option": "(2 tan A) / (tan^2 A - 1)"
+        },
+        {
+          "option": "(tan A) / (1 - tan^2 A)"
+        }
+      ]
+    },
+    {
+      "question": "જો sin A = 3/5 હોય, તો sin(2A) ની કિંમત શું થાય?",
+      "options": [
+        {
+          "option": "6/5"
+        },
+        {
+          "option": "7/25"
+        },
+        {
+          "option": "12/25"
+        },
+        {
+          "option": "24/25",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "કઈ અભિવ્યક્તિ 1 - 2 sin^2 A ને સમાન છે?",
+      "options": [
+        {
+          "option": "cos(2A)",
+          "is_answer": true
+        },
+        {
+          "option": "cos^2 A"
+        },
+        {
+          "option": "sin(2A)"
+        },
+        {
+          "option": "tan(2A)"
+        }
+      ]
+    },
+    {
+      "question": "જો cos A = 1/2 હોય, તો cos(2A) ની કિંમત શું થાય?",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1/2",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "2 sin 15° cos 15° ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "1/2",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "sqrt(3)/2"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "કયું સૂત્ર cos^2 A - sin^2 A દર્શાવે છે?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "sin(2A)"
+        },
+        {
+          "option": "tan(2A)"
+        },
+        {
+          "option": "cos(2A)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો tan A = 1 હોય, તો tan(2A) ની કિંમત શું થાય?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "અવ્યાખ્યાયિત",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "માત્ર sin A નો ઉપયોગ કરીને cos(2A) ને સમાન કયું નિત્યસમ છે?",
+      "options": [
+        {
+          "option": "2 sin^2 A - 1"
+        },
+        {
+          "option": "1 - sin^2 A"
+        },
+        {
+          "option": "2 sin A"
+        },
+        {
+          "option": "1 - 2 sin^2 A",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "2 tan 45° / (1 - tan^2 45°) ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "અવ્યાખ્યાયિત",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "જો sin A = 0 હોય, તો sin(2A) ની કિંમત શું થાય?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "2"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "આમાંથી કયું cos(2A) નું સાચું સ્વરૂપ નથી?",
+      "options": [
+        {
+          "option": "2 cos^2 A - 1"
+        },
+        {
+          "option": "1 - 2 sin^2 A"
+        },
+        {
+          "option": "cos^2 A - sin^2 A"
+        },
+        {
+          "option": "1 + 2 sin^2 A",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો cos A = 0 હોય, તો cos(2A) ની કિંમત શું થાય?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "1 - 2 sin^2 30° ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "1/2",
+          "is_answer": true
+        },
+        {
+          "option": "sqrt(3)/2"
+        }
+      ]
+    },
+    {
+      "question": "સૂત્ર 2 sin A cos A કોના બરાબર છે?",
+      "options": [
+        {
+          "option": "tan(2A)"
+        },
+        {
+          "option": "sin A"
+        },
+        {
+          "option": "cos(2A)"
+        },
+        {
+          "option": "sin(2A)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો tan A = 1/sqrt(3) હોય, તો tan(2A) ની કિંમત શું થાય?",
+      "options": [
+        {
+          "option": "sqrt(3)",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1/sqrt(3)"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "કયું નિત્યસમ cos(2A) ને cos^2 A સાથે જોડે છે?",
+      "options": [
+        {
+          "option": "cos^2 A - 1"
+        },
+        {
+          "option": "2 cos^2 A - 1",
+          "is_answer": true
+        },
+        {
+          "option": "cos^2 A + 1"
+        },
+        {
+          "option": "1 - 2 cos^2 A"
+        }
+      ]
+    },
+    {
+      "question": "2 sin 45° cos 45° ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "sqrt(2)"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કયું cos(2A) ને સમાન છે?",
+      "options": [
+        {
+          "option": "tan^2 A - 1"
+        },
+        {
+          "option": "2 sin A cos A"
+        },
+        {
+          "option": "sin^2 A - cos^2 A"
+        },
+        {
+          "option": "cos^2 A - sin^2 A",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "બાજુ 'a' શોધવા માટે કોસાઇનના નિયમનું સાચું સૂત્ર કયું છે?",
+      "options": [
+        {
+          "option": "a^2 = b^2 + c^2 - 2bc sin A"
+        },
+        {
+          "option": "a^2 = b^2 + c^2 - 2bc cos A",
+          "is_answer": true
+        },
+        {
+          "option": "a^2 = b^2 + c^2 + 2bc cos A"
+        },
+        {
+          "option": "a^2 = b^2 + c^2 - bc cos A"
+        }
+      ]
+    },
+    {
+      "question": "જ્યારે ત્રણેય બાજુઓ (a, b, c) જાણીતી હોય ત્યારે ખૂણો A શોધવા માટે કયા સૂત્રનો ઉપયોગ થાય છે?",
+      "options": [
+        {
+          "option": "cos A = (a^2 - b^2 - c^2) / (2bc)"
+        },
+        {
+          "option": "cos A = (b^2 + c^2 - a^2) / (2bc)",
+          "is_answer": true
+        },
+        {
+          "option": "cos A = (b^2 + c^2 + a^2) / (2bc)"
+        },
+        {
+          "option": "cos A = (a^2 + b^2 - c^2) / (2ab)"
+        }
+      ]
+    },
+    {
+      "question": "જો a=5, b=6, અને c=7 હોય, તો cos A નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "0.2"
+        },
+        {
+          "option": "0.3"
+        },
+        {
+          "option": "0.8"
+        },
+        {
+          "option": "0.5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "એવા ત્રિકોણમાં જ્યાં a=b=c હોય, ત્યાં cos A નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "0.5",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "-0.5"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "કોસાઇનનો નિયમ કયા પ્રમેયનું સામાન્યીકરણ છે?",
+      "options": [
+        {
+          "option": "સાઇનનો નિયમ"
+        },
+        {
+          "option": "યુક્લિડનો પ્રમેય"
+        },
+        {
+          "option": "થેલ્સનો પ્રમેય"
+        },
+        {
+          "option": "પાયથાગોરસનો પ્રમેય",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો A = 90 ડિગ્રી હોય, તો કોસાઇનનો નિયમ શું બને છે?",
+      "options": [
+        {
+          "option": "a^2 = b^2 - c^2"
+        },
+        {
+          "option": "a^2 = 2bc"
+        },
+        {
+          "option": "a^2 = b^2 + c^2 + 2bc"
+        },
+        {
+          "option": "a^2 = b^2 + c^2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "કોસાઇનના નિયમનો ઉપયોગ કરવા માટે કઈ શરત જરૂરી છે?",
+      "options": [
+        {
+          "option": "AAA"
+        },
+        {
+          "option": "AAS"
+        },
+        {
+          "option": "SSA"
+        },
+        {
+          "option": "SAS અથવા SSS",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો b=3, c=4, અને A=60 ડિગ્રી હોય, તો a^2 શું છે?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "13",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "19"
+        }
+      ]
+    },
+    {
+      "question": "કોસાઇનના નિયમમાં cos 180 ડિગ્રીનું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો a^2 = b^2 + c^2 - 2bc cos A હોય, અને a^2 = b^2 + c^2 હોય, તો cos A નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "ખૂણા A ની સામેની બાજુ કઈ છે?",
+      "options": [
+        {
+          "option": "h"
+        },
+        {
+          "option": "b"
+        },
+        {
+          "option": "c"
+        },
+        {
+          "option": "a",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો a=7, b=8, c=9 હોય, તો cos A શોધો.",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "3/4"
+        },
+        {
+          "option": "1/3"
+        },
+        {
+          "option": "2/3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "કોસાઇનનો નિયમ કયા પ્રકારના ત્રિકોણને ઉકેલવા માટે વપરાય છે?",
+      "options": [
+        {
+          "option": "માત્ર સમબાજુ ત્રિકોણ"
+        },
+        {
+          "option": "માત્ર સમદ્વિબાજુ ત્રિકોણ"
+        },
+        {
+          "option": "કોઈપણ ત્રિકોણ",
+          "is_answer": true
+        },
+        {
+          "option": "માત્ર કાટકોણ ત્રિકોણ"
+        }
+      ]
+    },
+    {
+      "question": "જો cos A ઋણ હોય, તો તે ખૂણા A વિશે શું સૂચવે છે?",
+      "options": [
+        {
+          "option": "A ગુરુકોણ છે",
+          "is_answer": true
+        },
+        {
+          "option": "A લઘુકોણ છે"
+        },
+        {
+          "option": "A કાટકોણ છે"
+        },
+        {
+          "option": "A શૂન્ય છે"
+        }
+      ]
+    },
+    {
+      "question": "કોસાઇનના નિયમનો ઉપયોગ કરીને બાજુ 'b' માટેનું સૂત્ર શું છે?",
+      "options": [
+        {
+          "option": "b^2 = a^2 + c^2 - 2ac cos B",
+          "is_answer": true
+        },
+        {
+          "option": "b^2 = a^2 - c^2 - 2ac cos B"
+        },
+        {
+          "option": "b^2 = a^2 + c^2 + 2ac cos B"
+        },
+        {
+          "option": "b^2 = a^2 + c^2 - 2ac sin B"
+        }
+      ]
+    },
+    {
+      "question": "જો a=2, b=2, અને A=60 ડિગ્રી હોય, તો c શું છે?",
+      "options": [
+        {
+          "option": "sqrt(2)"
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "સૂત્ર cos A = (b^2 + c^2 - a^2) / (2bc) માં, 'a' શું દર્શાવે છે?",
+      "options": [
+        {
+          "option": "ખૂણા A ની સામેની બાજુ",
+          "is_answer": true
+        },
+        {
+          "option": "ખૂણા A ની પાસેની બાજુ"
+        },
+        {
+          "option": "ખૂણો"
+        },
+        {
+          "option": "કર્ણ"
+        }
+      ]
+    },
+    {
+      "question": "જો a=1, b=1, c=sqrt(2) હોય, તો ખૂણો C શું છે?",
+      "options": [
+        {
+          "option": "45 ડિગ્રી"
+        },
+        {
+          "option": "60 ડિગ્રી"
+        },
+        {
+          "option": "90 ડિગ્રી",
+          "is_answer": true
+        },
+        {
+          "option": "30 ડિગ્રી"
+        }
+      ]
+    },
+    {
+      "question": "આમાંથી કયું કોસાઇનના નિયમનું માન્ય સ્વરૂપ નથી?",
+      "options": [
+        {
+          "option": "c^2 = a^2 + b^2 + 2ab cos C",
+          "is_answer": true
+        },
+        {
+          "option": "c^2 = a^2 + b^2 - 2ab cos C"
+        },
+        {
+          "option": "a^2 = b^2 + c^2 - 2bc cos A"
+        },
+        {
+          "option": "b^2 = a^2 + c^2 - 2ac cos B"
+        }
+      ]
+    },
+    {
+      "question": "જો a=3, b=5, c=7 હોય, તો cos C શું છે?",
+      "options": [
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-0.5",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "6 સેમી અને 8 સેમી બાજુઓ અને 30 ડિગ્રીના ખૂણાવાળા ત્રિકોણનું ક્ષેત્રફળ શું છે?",
+      "options": [
+        {
+          "option": "12 સેમી²",
+          "is_answer": true
+        },
+        {
+          "option": "48 સેમી²"
+        },
+        {
+          "option": "24 સેમી²"
+        },
+        {
+          "option": "6 સેમી²"
+        }
+      ]
+    },
+    {
+      "question": "જો a=10, b=12, અને ખૂણો C=90 ડિગ્રી હોય, તો ક્ષેત્રફળ કેટલું થાય?",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "60",
+          "is_answer": true
+        },
+        {
+          "option": "30"
+        },
+        {
+          "option": "100"
+        }
+      ]
+    },
+    {
+      "question": "એવા ત્રિકોણનું ક્ષેત્રફળ શોધો જેની બે બાજુઓ 4 અને 5 છે, અને તેમની વચ્ચેનો ખૂણો 150 ડિગ્રી છે.",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        },
+        {
+          "option": "2.5"
+        }
+      ]
+    },
+    {
+      "question": "બે બાજુઓ 'a' અને 'b' અને ખૂણા 'C' નો ઉપયોગ કરીને ત્રિકોણના ક્ષેત્રફળનું સૂત્ર શું છે?",
+      "options": [
+        {
+          "option": "0.5 * a * b * cos(C)"
+        },
+        {
+          "option": "a * b * tan(C)"
+        },
+        {
+          "option": "a * b * sin(C)"
+        },
+        {
+          "option": "0.5 * a * b * sin(C)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો બાજુઓ 7 અને 8 હોય, અને ખૂણો 60 ડિગ્રી હોય, તો ક્ષેત્રફળ કેટલું થાય?",
+      "options": [
+        {
+          "option": "7 * sqrt(3)"
+        },
+        {
+          "option": "56 * sqrt(3)"
+        },
+        {
+          "option": "28 * sqrt(3)"
+        },
+        {
+          "option": "14 * sqrt(3)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "4 લંબાઈની બાજુવાળા સમબાજુ ત્રિકોણનું ક્ષેત્રફળ શું છે?",
+      "options": [
+        {
+          "option": "4 * sqrt(3)",
+          "is_answer": true
+        },
+        {
+          "option": "16 * sqrt(3)"
+        },
+        {
+          "option": "2 * sqrt(3)"
+        },
+        {
+          "option": "8 * sqrt(3)"
+        }
+      ]
+    },
+    {
+      "question": "જો ક્ષેત્રફળ = 20 અને બાજુઓ 8 અને 10 હોય, તો sin(C) શું છે?",
+      "options": [
+        {
+          "option": "0.5",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0.75"
+        },
+        {
+          "option": "0.25"
+        }
+      ]
+    },
+    {
+      "question": "ત્રિકોણના ક્ષેત્રફળના સૂત્રમાં કયા ત્રિકોણમિતીય વિધેયનો ઉપયોગ થાય છે?",
+      "options": [
+        {
+          "option": "Secant"
+        },
+        {
+          "option": "Cosine"
+        },
+        {
+          "option": "Sine",
+          "is_answer": true
+        },
+        {
+          "option": "Tangent"
+        }
+      ]
+    },
+    {
+      "question": "જો a=6, b=6, અને C=30 ડિગ્રી હોય તો ક્ષેત્રફળની ગણતરી કરો.",
+      "options": [
+        {
+          "option": "18"
+        },
+        {
+          "option": "9",
+          "is_answer": true
+        },
+        {
+          "option": "36"
+        },
+        {
+          "option": "4.5"
+        }
+      ]
+    },
+    {
+      "question": "જો ખૂણો 180 ડિગ્રી હોય, તો ત્રિકોણનું ક્ષેત્રફળ શું છે?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "અનંત"
+        },
+        {
+          "option": "અવ્યાખ્યાયિત"
+        }
+      ]
+    },
+    {
+      "question": "જો બાજુઓ 10 અને 20 હોય, અને ખૂણો 45 ડિગ્રી હોય તો ક્ષેત્રફળ શોધો.",
+      "options": [
+        {
+          "option": "50 * sqrt(2)",
+          "is_answer": true
+        },
+        {
+          "option": "100 * sqrt(2)"
+        },
+        {
+          "option": "25 * sqrt(2)"
+        },
+        {
+          "option": "200 * sqrt(2)"
+        }
+      ]
+    },
+    {
+      "question": "જો ક્ષેત્રફળ = 15 અને બાજુઓ 6 અને 10 હોય, તો sin(C) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "0.75"
+        },
+        {
+          "option": "0.5",
+          "is_answer": true
+        },
+        {
+          "option": "0.25"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "5 અને 4 બાજુઓ અને 90 ડિગ્રીના ખૂણાવાળા ત્રિકોણનું ક્ષેત્રફળ શું છે?",
+      "options": [
+        {
+          "option": "20"
+        },
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        },
+        {
+          "option": "5"
+        }
+      ]
+    },
+    {
+      "question": "જો a=3, b=4, અને C=150 ડિગ્રી હોય, તો ક્ષેત્રફળ શું છે?",
+      "options": [
+        {
+          "option": "1.5"
+        },
+        {
+          "option": "6"
+        },
+        {
+          "option": "12"
+        },
+        {
+          "option": "3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "ત્રિકોણનું ક્ષેત્રફળ 0.5 * a * c * sin(B) દ્વારા આપવામાં આવે છે. શું આ સાચું છે?",
+      "options": [
+        {
+          "option": "માત્ર જો a=c"
+        },
+        {
+          "option": "ના"
+        },
+        {
+          "option": "માત્ર જો B=90"
+        },
+        {
+          "option": "હા",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો બાજુઓ 2 અને 3 હોય, અને ખૂણો 30 ડિગ્રી હોય, તો ક્ષેત્રફળ શું છે?",
+      "options": [
+        {
+          "option": "1.5",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "0.75"
+        },
+        {
+          "option": "6"
+        }
+      ]
+    },
+    {
+      "question": "8 અને 10 બાજુઓ અને 150 ડિગ્રીના ખૂણાવાળા ત્રિકોણનું ક્ષેત્રફળ શું છે?",
+      "options": [
+        {
+          "option": "40"
+        },
+        {
+          "option": "80"
+        },
+        {
+          "option": "20",
+          "is_answer": true
+        },
+        {
+          "option": "10"
+        }
+      ]
+    },
+    {
+      "question": "જો sin(C) = 1 હોય, તો તે કેવા પ્રકારનો ત્રિકોણ છે?",
+      "options": [
+        {
+          "option": "સમબાજુ"
+        },
+        {
+          "option": "ગુરુકોણ"
+        },
+        {
+          "option": "કાટકોણ",
+          "is_answer": true
+        },
+        {
+          "option": "સમદ્વિબાજુ"
+        }
+      ]
+    },
+    {
+      "question": "જો a=4, b=10, અને C=60 ડિગ્રી હોય તો ક્ષેત્રફળની ગણતરી કરો.",
+      "options": [
+        {
+          "option": "20 * sqrt(3)"
+        },
+        {
+          "option": "10 * sqrt(3)",
+          "is_answer": true
+        },
+        {
+          "option": "40 * sqrt(3)"
+        },
+        {
+          "option": "5 * sqrt(3)"
+        }
+      ]
+    },
+    {
+      "question": "જો ક્ષેત્રફળ 0 હોય, તો ખૂણા C વિશે શું સાચું હોવું જોઈએ?",
+      "options": [
+        {
+          "option": "C 0 અથવા 180 ડિગ્રી છે",
+          "is_answer": true
+        },
+        {
+          "option": "C 60 ડિગ્રી છે"
+        },
+        {
+          "option": "C 45 ડિગ્રી છે"
+        },
+        {
+          "option": "C 90 ડિગ્રી છે"
+        }
+      ]
+    },
+    {
+      "question": "એક ટાવર 50 મીટર ઊંચો છે. જો પાયાથી 50 મીટર દૂરના બિંદુથી ઉત્સેધકોણ થીટા હોય, તો થીટાનું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "30 અંશ"
+        },
+        {
+          "option": "60 અંશ"
+        },
+        {
+          "option": "45 અંશ",
+          "is_answer": true
+        },
+        {
+          "option": "90 અંશ"
+        }
+      ]
+    },
+    {
+      "question": "જો એક થાંભલાની ઊંચાઈ 10√3 મીટર હોય અને નિરીક્ષકથી અંતર 10 મીટર હોય, તો ઉત્સેધકોણ કેટલો હશે?",
+      "options": [
+        {
+          "option": "90 અંશ"
+        },
+        {
+          "option": "45 અંશ"
+        },
+        {
+          "option": "60 અંશ",
+          "is_answer": true
+        },
+        {
+          "option": "30 અંશ"
+        }
+      ]
+    },
+    {
+      "question": "10 મીટર લાંબી સીડી દીવાલ સાથે ટેકવેલી છે. જો તે જમીન સાથે 30 અંશનો ખૂણો બનાવે, તો તે દીવાલ પર કેટલી ઊંચાઈએ પહોંચશે?",
+      "options": [
+        {
+          "option": "8.66 મીટર"
+        },
+        {
+          "option": "7.07 મીટર"
+        },
+        {
+          "option": "5 મીટર",
+          "is_answer": true
+        },
+        {
+          "option": "10 મીટર"
+        }
+      ]
+    },
+    {
+      "question": "એક ઇમારતના પાયાથી 30 મીટર દૂરના બિંદુથી ઇમારતની ટોચનો ઉત્સેધકોણ 60 અંશ છે. ઇમારતની ઊંચાઈ કેટલી છે?",
+      "options": [
+        {
+          "option": "60 મીટર"
+        },
+        {
+          "option": "30 મીટર"
+        },
+        {
+          "option": "15√3 મીટર"
+        },
+        {
+          "option": "30√3 મીટર",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો ટાવરનો પડછાયો તેની ઊંચાઈ જેટલો હોય, તો સૂર્યનો ઉત્સેધકોણ કેટલો હશે?",
+      "options": [
+        {
+          "option": "60 અંશ"
+        },
+        {
+          "option": "90 અંશ"
+        },
+        {
+          "option": "45 અંશ",
+          "is_answer": true
+        },
+        {
+          "option": "30 અંશ"
+        }
+      ]
+    },
+    {
+      "question": "એક પતંગ 60 મીટરની ઊંચાઈએ ઉડી રહી છે. દોરી જમીન સાથે 60 અંશનો ખૂણો બનાવે છે. દોરીની લંબાઈ કેટલી છે?",
+      "options": [
+        {
+          "option": "120 મીટર"
+        },
+        {
+          "option": "60 મીટર"
+        },
+        {
+          "option": "40√3 મીટર",
+          "is_answer": true
+        },
+        {
+          "option": "30√3 મીટર"
+        }
+      ]
+    },
+    {
+      "question": "જેમ નિરીક્ષક નજીક જાય છે તેમ ટાવરનો ઉત્સેધકોણ 30 થી 60 અંશમાં બદલાય છે. શું ટાવરની ઊંચાઈ બદલાય છે?",
+      "options": [
+        {
+          "option": "ના, તે અચળ રહે છે",
+          "is_answer": true
+        },
+        {
+          "option": "હા, તે ઘટે છે"
+        },
+        {
+          "option": "હા, તે વધે છે"
+        },
+        {
+          "option": "તે અંતર પર આધાર રાખે છે"
+        }
+      ]
+    },
+    {
+      "question": "જો tan(થીટા) = 1 હોય, તો ઉત્સેધકોણ કેટલો હશે?",
+      "options": [
+        {
+          "option": "0 અંશ"
+        },
+        {
+          "option": "30 અંશ"
+        },
+        {
+          "option": "45 અંશ",
+          "is_answer": true
+        },
+        {
+          "option": "60 અંશ"
+        }
+      ]
+    },
+    {
+      "question": "જ્યારે સૂર્યનો ઉત્સેધકોણ 45 અંશ હોય ત્યારે એક વૃક્ષ 10 મીટર લાંબો પડછાયો પાડે છે. વૃક્ષની ઊંચાઈ કેટલી છે?",
+      "options": [
+        {
+          "option": "10√3 મીટર"
+        },
+        {
+          "option": "5 મીટર"
+        },
+        {
+          "option": "10 મીટર",
+          "is_answer": true
+        },
+        {
+          "option": "20 મીટર"
+        }
+      ]
+    },
+    {
+      "question": "જો ઇમારતના પાયાથી અંતર 20 મીટર હોય અને ઊંચાઈ 20√3 મીટર હોય, તો ઉત્સેધકોણ કેટલો છે?",
+      "options": [
+        {
+          "option": "60 અંશ",
+          "is_answer": true
+        },
+        {
+          "option": "30 અંશ"
+        },
+        {
+          "option": "90 અંશ"
+        },
+        {
+          "option": "45 અંશ"
+        }
+      ]
+    },
+    {
+      "question": "ઉત્સેધકોણના દાખલાઓમાં ઊંચાઈ અને અંતર વચ્ચે સંબંધ સ્થાપિત કરવા માટે કયા ત્રિકોણમિતીય ગુણોત્તરનો ઉપયોગ થાય છે?",
+      "options": [
+        {
+          "option": "કોસાઇન (cos)"
+        },
+        {
+          "option": "સેકન્ટ (sec)"
+        },
+        {
+          "option": "સાઇન (sin)"
+        },
+        {
+          "option": "ટેન્જન્ટ (tan)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો ઉત્સેધકોણ 0 અંશ હોય, તો વસ્તુની ઊંચાઈ વિશે શું સૂચવે છે?",
+      "options": [
+        {
+          "option": "ઊંચાઈ અનંત છે"
+        },
+        {
+          "option": "ઊંચાઈ શૂન્ય છે",
+          "is_answer": true
+        },
+        {
+          "option": "ઊંચાઈ અંતર જેટલી છે"
+        },
+        {
+          "option": "વસ્તુ સમાન સ્તરે છે"
+        }
+      ]
+    },
+    {
+      "question": "15 મીટર ઊંચો થાંભલો 15√3 મીટરનો પડછાયો પાડે છે. સૂર્યનો ઉત્સેધકોણ કેટલો છે?",
+      "options": [
+        {
+          "option": "90 અંશ"
+        },
+        {
+          "option": "45 અંશ"
+        },
+        {
+          "option": "30 અંશ",
+          "is_answer": true
+        },
+        {
+          "option": "60 અંશ"
+        }
+      ]
+    },
+    {
+      "question": "જો અંતર સમાન રહે અને વસ્તુની ઊંચાઈ બમણી કરવામાં આવે, તો ઉત્સેધકોણના ટેન્જન્ટ (tan) નું શું થાય છે?",
+      "options": [
+        {
+          "option": "તે અડધું થાય છે"
+        },
+        {
+          "option": "તે ચાર ગણું થાય છે"
+        },
+        {
+          "option": "તે સમાન રહે છે"
+        },
+        {
+          "option": "તે બમણું થાય છે",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "દીવાલ સાથે ટેકવેલી સીડીનો ઉત્સેધકોણ 60 અંશ છે. જો સીડીનો પાયો દીવાલથી 5 મીટર દૂર હોય, તો સીડી કેટલી લાંબી છે?",
+      "options": [
+        {
+          "option": "10 મીટર",
+          "is_answer": true
+        },
+        {
+          "option": "15 મીટર"
+        },
+        {
+          "option": "5 મીટર"
+        },
+        {
+          "option": "5√3 મીટર"
+        }
+      ]
+    },
+    {
+      "question": "tan(60 અંશ) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "√3",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "1/√3"
+        }
+      ]
+    },
+    {
+      "question": "જો ઉત્સેધકોણ 30 અંશ હોય અને ઊંચાઈ 10 મીટર હોય, તો પાયાથી અંતર કેટલું છે?",
+      "options": [
+        {
+          "option": "20 મીટર"
+        },
+        {
+          "option": "5√3 મીટર"
+        },
+        {
+          "option": "10√3 મીટર",
+          "is_answer": true
+        },
+        {
+          "option": "10 મીટર"
+        }
+      ]
+    },
+    {
+      "question": "એક ટાવર જમીન પર ઉભો છે. ટાવરના પાયાથી 40 મીટર દૂર જમીન પરના એક બિંદુથી ઉત્સેધકોણ 30 અંશ છે. ઊંચાઈ શોધો.",
+      "options": [
+        {
+          "option": "40/√3 મીટર",
+          "is_answer": true
+        },
+        {
+          "option": "80 મીટર"
+        },
+        {
+          "option": "40√3 મીટર"
+        },
+        {
+          "option": "20 મીટર"
+        }
+      ]
+    },
+    {
+      "question": "જો સૂર્યનો ઉત્સેધકોણ વધે, તો ઉભા થાંભલાના પડછાયાની લંબાઈનું શું થાય છે?",
+      "options": [
+        {
+          "option": "તે વધે છે"
+        },
+        {
+          "option": "તે શૂન્ય થઈ જાય છે"
+        },
+        {
+          "option": "તે સમાન રહે છે"
+        },
+        {
+          "option": "તે ઘટે છે",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "tan(30 અંશ) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "√3"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "1/√3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો 50 મીટર ઊંચી ટેકરીની ટોચ પરથી એક નિરીક્ષક નીચે રહેલી હોડીને 30 ડિગ્રીના અવસેધકોણથી જુએ છે, તો હોડીનું ટેકરીના પાયાથી આડું અંતર કેટલું હશે?",
+      "options": [
+        {
+          "option": "50√3 મીટર",
+          "is_answer": true
+        },
+        {
+          "option": "100 મીટર"
+        },
+        {
+          "option": "50/√3 મીટર"
+        },
+        {
+          "option": "25 મીટર"
+        }
+      ]
+    },
+    {
+      "question": "ટાવરની ટોચ પરથી જમીન પરના પદાર્થનો અવસેધકોણ 45 ડિગ્રી છે. જો ટાવરની ઊંચાઈ 20 મીટર હોય, તો પદાર્થનું પાયાથી અંતર કેટલું હશે?",
+      "options": [
+        {
+          "option": "20/√2 મીટર"
+        },
+        {
+          "option": "20√3 મીટર"
+        },
+        {
+          "option": "10 મીટર"
+        },
+        {
+          "option": "20 મીટર",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "100 મીટર ઊંચાઈ પર રહેલો નિરીક્ષક 60 ડિગ્રીના અવસેધકોણથી એક પદાર્થને જુએ છે. પદાર્થનું પાયાથી અંતર કેટલું હશે?",
+      "options": [
+        {
+          "option": "50 મીટર"
+        },
+        {
+          "option": "100/√3 મીટર",
+          "is_answer": true
+        },
+        {
+          "option": "100√3 મીટર"
+        },
+        {
+          "option": "200 મીટર"
+        }
+      ]
+    },
+    {
+      "question": "જો 10 મીટર ઊંચી ઇમારત પરથી પદાર્થનો અવસેધકોણ 30 ડિગ્રી હોય, તો પદાર્થ ઇમારતથી કેટલો દૂર છે?",
+      "options": [
+        {
+          "option": "10/√3 મીટર"
+        },
+        {
+          "option": "20 મીટર"
+        },
+        {
+          "option": "5 મીટર"
+        },
+        {
+          "option": "10√3 મીટર",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "એક દીવાદાંડી 60 મીટર ઊંચી છે. વહાણનો અવસેધકોણ 30 ડિગ્રી છે. વહાણ દીવાદાંડીથી કેટલું દૂર છે?",
+      "options": [
+        {
+          "option": "30 મીટર"
+        },
+        {
+          "option": "120 મીટર"
+        },
+        {
+          "option": "60/√3 મીટર"
+        },
+        {
+          "option": "60√3 મીટર",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "40 મીટર ઊંચી ટેકરી પરથી એક બિંદુનો અવસેધકોણ 45 ડિગ્રી છે. આડું અંતર કેટલું હશે?",
+      "options": [
+        {
+          "option": "40 મીટર",
+          "is_answer": true
+        },
+        {
+          "option": "40/√2 મીટર"
+        },
+        {
+          "option": "40√3 મીટર"
+        },
+        {
+          "option": "20 મીટર"
+        }
+      ]
+    },
+    {
+      "question": "જો અવસેધકોણ 60 ડિગ્રી હોય અને પાયાથી અંતર 30 મીટર હોય, તો નિરીક્ષકની ઊંચાઈ કેટલી હશે?",
+      "options": [
+        {
+          "option": "60 મીટર"
+        },
+        {
+          "option": "15 મીટર"
+        },
+        {
+          "option": "30/√3 મીટર"
+        },
+        {
+          "option": "30√3 મીટર",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "20 મીટરની ઊંચાઈએ રહેલો નિરીક્ષક 20 મીટરના અંતરે રહેલા પદાર્થને જુએ છે. અવસેધકોણ કેટલો હશે?",
+      "options": [
+        {
+          "option": "60 ડિગ્રી"
+        },
+        {
+          "option": "45 ડિગ્રી",
+          "is_answer": true
+        },
+        {
+          "option": "30 ડિગ્રી"
+        },
+        {
+          "option": "90 ડિગ્રી"
+        }
+      ]
+    },
+    {
+      "question": "જો અવસેધકોણ 30 ડિગ્રી હોય અને ઊંચાઈ 10√3 મીટર હોય, તો પાયાથી અંતર કેટલું હશે?",
+      "options": [
+        {
+          "option": "10 મીટર"
+        },
+        {
+          "option": "10√3 મીટર"
+        },
+        {
+          "option": "20 મીટર"
+        },
+        {
+          "option": "30 મીટર",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "50 મીટરના ટાવર પર રહેલી વ્યક્તિ 60 ડિગ્રીના અવસેધકોણથી કારને જુએ છે. કાર ટાવરથી કેટલી દૂર છે?",
+      "options": [
+        {
+          "option": "100 મીટર"
+        },
+        {
+          "option": "50√3 મીટર"
+        },
+        {
+          "option": "25 મીટર"
+        },
+        {
+          "option": "50/√3 મીટર",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "100 મીટર ઊંચી ઇમારતની ટોચ પરથી એક બિંદુનો અવસેધકોણ 30 ડિગ્રી છે. બિંદુનું ઇમારતથી અંતર શોધો.",
+      "options": [
+        {
+          "option": "50 મીટર"
+        },
+        {
+          "option": "100/√3 મીટર"
+        },
+        {
+          "option": "200 મીટર"
+        },
+        {
+          "option": "100√3 મીટર",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો અવસેધકોણ 45 ડિગ્રી હોય અને પાયાથી અંતર 15 મીટર હોય, તો નિરીક્ષકની ઊંચાઈ કેટલી હશે?",
+      "options": [
+        {
+          "option": "15√3 મીટર"
+        },
+        {
+          "option": "15/√3 મીટર"
+        },
+        {
+          "option": "30 મીટર"
+        },
+        {
+          "option": "15 મીટર",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "30 મીટરની ઊંચાઈએ રહેલો નિરીક્ષક 30√3 મીટરના અંતરે રહેલા પદાર્થને જુએ છે. અવસેધકોણ કેટલો હશે?",
+      "options": [
+        {
+          "option": "90 ડિગ્રી"
+        },
+        {
+          "option": "60 ડિગ્રી"
+        },
+        {
+          "option": "30 ડિગ્રી",
+          "is_answer": true
+        },
+        {
+          "option": "45 ડિગ્રી"
+        }
+      ]
+    },
+    {
+      "question": "20 મીટર ઊંચા થાંભલા પરથી એક પદાર્થનો અવસેધકોણ 60 ડિગ્રી છે. પદાર્થનું થાંભલાથી અંતર કેટલું હશે?",
+      "options": [
+        {
+          "option": "20√3 મીટર"
+        },
+        {
+          "option": "20/√3 મીટર",
+          "is_answer": true
+        },
+        {
+          "option": "10 મીટર"
+        },
+        {
+          "option": "40 મીટર"
+        }
+      ]
+    },
+    {
+      "question": "જો અવસેધકોણ 30 ડિગ્રી હોય અને પાયાથી અંતર 40 મીટર હોય, તો નિરીક્ષકની ઊંચાઈ કેટલી હશે?",
+      "options": [
+        {
+          "option": "20 મીટર"
+        },
+        {
+          "option": "40/√3 મીટર",
+          "is_answer": true
+        },
+        {
+          "option": "40√3 મીટર"
+        },
+        {
+          "option": "80 મીટર"
+        }
+      ]
+    },
+    {
+      "question": "50 મીટરની ઊંચાઈએ રહેલો નિરીક્ષક 50 મીટરના અંતરે રહેલા પદાર્થને જુએ છે. અવસેધકોણ કેટલો હશે?",
+      "options": [
+        {
+          "option": "30 ડિગ્રી"
+        },
+        {
+          "option": "60 ડિગ્રી"
+        },
+        {
+          "option": "45 ડિગ્રી",
+          "is_answer": true
+        },
+        {
+          "option": "90 ડિગ્રી"
+        }
+      ]
+    },
+    {
+      "question": "10 મીટર ઊંચી દીવાલ પરથી એક પદાર્થનો અવસેધકોણ 45 ડિગ્રી છે. પદાર્થનું દીવાલથી અંતર કેટલું હશે?",
+      "options": [
+        {
+          "option": "10 મીટર",
+          "is_answer": true
+        },
+        {
+          "option": "5 મીટર"
+        },
+        {
+          "option": "10/√2 મીટર"
+        },
+        {
+          "option": "10√3 મીટર"
+        }
+      ]
+    },
+    {
+      "question": "જો અવસેધકોણ 60 ડિગ્રી હોય અને ઊંચાઈ 60 મીટર હોય, તો પાયાથી અંતર કેટલું હશે?",
+      "options": [
+        {
+          "option": "30 મીટર"
+        },
+        {
+          "option": "60/√3 મીટર",
+          "is_answer": true
+        },
+        {
+          "option": "120 મીટર"
+        },
+        {
+          "option": "60√3 મીટર"
+        }
+      ]
+    },
+    {
+      "question": "20 મીટરની ઊંચાઈએ રહેલો નિરીક્ષક 20/√3 મીટરના અંતરે રહેલા પદાર્થને જુએ છે. અવસેધકોણ કેટલો હશે?",
+      "options": [
+        {
+          "option": "60 ડિગ્રી",
+          "is_answer": true
+        },
+        {
+          "option": "45 ડિગ્રી"
+        },
+        {
+          "option": "30 ડિગ્રી"
+        },
+        {
+          "option": "90 ડિગ્રી"
+        }
+      ]
+    },
+    {
+      "question": "30 મીટર ઊંચા ટાવર પરથી એક પદાર્થનો અવસેધકોણ 30 ડિગ્રી છે. પદાર્થનું ટાવરથી અંતર કેટલું હશે?",
+      "options": [
+        {
+          "option": "30√3 મીટર",
+          "is_answer": true
+        },
+        {
+          "option": "15 મીટર"
+        },
+        {
+          "option": "60 મીટર"
+        },
+        {
+          "option": "30/√3 મીટર"
+        }
+      ]
+    },
+    {
+      "question": "sin(3A) માટેનું સૂત્ર શું છે?",
+      "options": [
+        {
+          "option": "3 sin A + 4 sin^3 A"
+        },
+        {
+          "option": "3 sin A - 4 sin^3 A",
+          "is_answer": true
+        },
+        {
+          "option": "4 sin^3 A + 3 sin A"
+        },
+        {
+          "option": "4 sin^3 A - 3 sin A"
+        }
+      ]
+    },
+    {
+      "question": "cos(3A) માટેનું સૂત્ર શું છે?",
+      "options": [
+        {
+          "option": "4 cos^3 A - 3 cos A",
+          "is_answer": true
+        },
+        {
+          "option": "4 cos^3 A + 3 cos A"
+        },
+        {
+          "option": "3 cos A - 4 cos^3 A"
+        },
+        {
+          "option": "3 cos A + 4 cos^3 A"
+        }
+      ]
+    },
+    {
+      "question": "tan(3A) માટેનું સૂત્ર શું છે?",
+      "options": [
+        {
+          "option": "(3 tan A - tan^3 A) / (1 + 3 tan^2 A)"
+        },
+        {
+          "option": "(3 tan A - tan^3 A) / (1 - 3 tan^2 A)",
+          "is_answer": true
+        },
+        {
+          "option": "(3 tan A + tan^3 A) / (1 - 3 tan^2 A)"
+        },
+        {
+          "option": "(tan^3 A - 3 tan A) / (1 - 3 tan^2 A)"
+        }
+      ]
+    },
+    {
+      "question": "જો sin A = 1/2 હોય, તો sin(3A) ની કિંમત શું થાય?",
+      "options": [
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "જો cos A = 0 હોય, તો cos(3A) ની કિંમત શું થાય?",
+      "options": [
+        {
+          "option": "-1"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કયું 3 sin A - 4 sin^3 A ને સમાન છે?",
+      "options": [
+        {
+          "option": "tan(3A)"
+        },
+        {
+          "option": "sin(2A)"
+        },
+        {
+          "option": "sin(3A)",
+          "is_answer": true
+        },
+        {
+          "option": "cos(3A)"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કયું 4 cos^3 A - 3 cos A ને સમાન છે?",
+      "options": [
+        {
+          "option": "cos(3A)",
+          "is_answer": true
+        },
+        {
+          "option": "tan(3A)"
+        },
+        {
+          "option": "cos(2A)"
+        },
+        {
+          "option": "sin(3A)"
+        }
+      ]
+    },
+    {
+      "question": "જો tan A = 1 હોય, તો tan(3A) ની કિંમત શું થાય?",
+      "options": [
+        {
+          "option": "અવ્યાખ્યાયિત"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "sin(3 * 30°) ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "sqrt(3)/2"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "cos(3 * 60°) ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "પદાવલિ (3 tan A - tan^3 A) / (1 - 3 tan^2 A) કોના બરાબર છે?",
+      "options": [
+        {
+          "option": "tan(3A)",
+          "is_answer": true
+        },
+        {
+          "option": "tan(2A)"
+        },
+        {
+          "option": "tan(A)"
+        },
+        {
+          "option": "3 tan(A)"
+        }
+      ]
+    },
+    {
+      "question": "જો sin A = 0 હોય, તો sin(3A) ની કિંમત શું થાય?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો cos A = 1 હોય, તો cos(3A) ની કિંમત શું થાય?",
+      "options": [
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "3"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "સાઇન માટે ત્રિ-કોણ સૂત્ર મેળવવા માટે કઈ નિત્યસમનો ઉપયોગ થાય છે?",
+      "options": [
+        {
+          "option": "sin(A + 2A)",
+          "is_answer": true
+        },
+        {
+          "option": "sin(A + A)"
+        },
+        {
+          "option": "sin(A - 2A)"
+        },
+        {
+          "option": "sin(3A + A)"
+        }
+      ]
+    },
+    {
+      "question": "કોસાઇન માટે ત્રિ-કોણ સૂત્ર મેળવવા માટે કઈ નિત્યસમનો ઉપયોગ થાય છે?",
+      "options": [
+        {
+          "option": "cos(A - 2A)"
+        },
+        {
+          "option": "cos(A + A)"
+        },
+        {
+          "option": "cos(3A + A)"
+        },
+        {
+          "option": "cos(A + 2A)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "tan(3 * 45°) ની કિંમત શું છે?",
+      "options": [
+        {
+          "option": "-1",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "અવ્યાખ્યાયિત"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "જો sin A = 1/3 હોય, તો sin(3A) શું થાય?",
+      "options": [
+        {
+          "option": "8/27"
+        },
+        {
+          "option": "1/27"
+        },
+        {
+          "option": "1/9"
+        },
+        {
+          "option": "23/27",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો cos A = 1/2 હોય, તો cos(3A) શું થાય?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1/8"
+        },
+        {
+          "option": "-1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "સૂત્ર 3 sin A - 4 sin^3 A કોના માટે માન્ય છે?",
+      "options": [
+        {
+          "option": "A ની તમામ વાસ્તવિક કિંમતો માટે",
+          "is_answer": true
+        },
+        {
+          "option": "માત્ર A = 0 માટે"
+        },
+        {
+          "option": "માત્ર A ની ઋણ કિંમતો માટે"
+        },
+        {
+          "option": "માત્ર A ની ધન કિંમતો માટે"
+        }
+      ]
+    },
+    {
+      "question": "આમાંથી કયું ત્રિ-કોણ સૂત્ર નથી?",
+      "options": [
+        {
+          "option": "cos(3A) = 4 cos^3 A - 3 cos A"
+        },
+        {
+          "option": "sin(2A) = 2 sin A cos A",
+          "is_answer": true
+        },
+        {
+          "option": "tan(3A) = (3 tan A - tan^3 A) / (1 - 3 tan^2 A)"
+        },
+        {
+          "option": "sin(3A) = 3 sin A - 4 sin^3 A"
+        }
+      ]
+    },
+    {
+      "question": "arcsin(1/2) નું મુખ્ય મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "pi/3"
+        },
+        {
+          "option": "pi/4"
+        },
+        {
+          "option": "pi/6",
+          "is_answer": true
+        },
+        {
+          "option": "pi/2"
+        }
+      ]
+    },
+    {
+      "question": "arccos(1/2) નું મુખ્ય મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "pi/6"
+        },
+        {
+          "option": "pi/4"
+        },
+        {
+          "option": "2pi/3"
+        },
+        {
+          "option": "pi/3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "arctan(1) નું મુખ્ય મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "pi/3"
+        },
+        {
+          "option": "pi/6"
+        },
+        {
+          "option": "pi/2"
+        },
+        {
+          "option": "pi/4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "arcsin(-1/2) નું મુખ્ય મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "-pi/6",
+          "is_answer": true
+        },
+        {
+          "option": "5pi/6"
+        },
+        {
+          "option": "pi/6"
+        },
+        {
+          "option": "-pi/3"
+        }
+      ]
+    },
+    {
+      "question": "arccos(-1/2) નું મુખ્ય મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "pi/3"
+        },
+        {
+          "option": "2pi/3",
+          "is_answer": true
+        },
+        {
+          "option": "pi/6"
+        },
+        {
+          "option": "-pi/3"
+        }
+      ]
+    },
+    {
+      "question": "arctan(-1) નું મુખ્ય મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "pi/4"
+        },
+        {
+          "option": "-pi/4",
+          "is_answer": true
+        },
+        {
+          "option": "-pi/3"
+        },
+        {
+          "option": "3pi/4"
+        }
+      ]
+    },
+    {
+      "question": "arcsin(1) નું મુખ્ય મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "-pi/2"
+        },
+        {
+          "option": "pi"
+        },
+        {
+          "option": "pi/2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "arccos(0) નું મુખ્ય મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "pi/2",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "pi/4"
+        },
+        {
+          "option": "pi"
+        }
+      ]
+    },
+    {
+      "question": "arcsin(0) નું મુખ્ય મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "pi/2"
+        },
+        {
+          "option": "pi"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "-pi/2"
+        }
+      ]
+    },
+    {
+      "question": "arccos(1) નું મુખ્ય મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "pi/4"
+        },
+        {
+          "option": "pi"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "pi/2"
+        }
+      ]
+    },
+    {
+      "question": "arctan(0) નું મુખ્ય મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "pi"
+        },
+        {
+          "option": "-pi/2"
+        },
+        {
+          "option": "pi/2"
+        }
+      ]
+    },
+    {
+      "question": "arcsin(-1) નું મુખ્ય મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "-pi/2",
+          "is_answer": true
+        },
+        {
+          "option": "pi"
+        },
+        {
+          "option": "pi/2"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "arccos(-1) નું મુખ્ય મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "pi/2"
+        },
+        {
+          "option": "-pi/2"
+        },
+        {
+          "option": "pi",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "arcsin(sqrt(3)/2) નું મુખ્ય મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "pi/4"
+        },
+        {
+          "option": "pi/6"
+        },
+        {
+          "option": "pi/3",
+          "is_answer": true
+        },
+        {
+          "option": "2pi/3"
+        }
+      ]
+    },
+    {
+      "question": "arccos(sqrt(3)/2) નું મુખ્ય મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "pi/3"
+        },
+        {
+          "option": "2pi/3"
+        },
+        {
+          "option": "pi/4"
+        },
+        {
+          "option": "pi/6",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "arctan(sqrt(3)) નું મુખ્ય મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "pi/3",
+          "is_answer": true
+        },
+        {
+          "option": "pi/6"
+        },
+        {
+          "option": "2pi/3"
+        },
+        {
+          "option": "pi/4"
+        }
+      ]
+    },
+    {
+      "question": "arctan(1/sqrt(3)) નું મુખ્ય મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "pi/4"
+        },
+        {
+          "option": "2pi/3"
+        },
+        {
+          "option": "pi/6",
+          "is_answer": true
+        },
+        {
+          "option": "pi/3"
+        }
+      ]
+    },
+    {
+      "question": "arcsin(-sqrt(3)/2) નું મુખ્ય મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "pi/3"
+        },
+        {
+          "option": "-pi/3",
+          "is_answer": true
+        },
+        {
+          "option": "2pi/3"
+        },
+        {
+          "option": "-pi/6"
+        }
+      ]
+    },
+    {
+      "question": "arccos(-sqrt(3)/2) નું મુખ્ય મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "2pi/3"
+        },
+        {
+          "option": "5pi/6",
+          "is_answer": true
+        },
+        {
+          "option": "-pi/6"
+        },
+        {
+          "option": "pi/6"
+        }
+      ]
+    },
+    {
+      "question": "arctan(-sqrt(3)) નું મુખ્ય મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "-pi/6"
+        },
+        {
+          "option": "2pi/3"
+        },
+        {
+          "option": "-pi/3",
+          "is_answer": true
+        },
+        {
+          "option": "pi/3"
+        }
+      ]
+    },
+    {
+      "question": "3 sin θ + 4 cos θ ની મહત્તમ કિંમત શું છે?",
+      "options": [
+        {
+          "option": "12"
+        },
+        {
+          "option": "5",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "1"
+        }
+      ]
+    },
+    {
+      "question": "5 sin θ + 12 cos θ ની ન્યૂનતમ કિંમત શું છે?",
+      "options": [
+        {
+          "option": "13"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-13",
+          "is_answer": true
+        },
+        {
+          "option": "-17"
+        }
+      ]
+    },
+    {
+      "question": "sin θ + cos θ ની મહત્તમ કિંમત શોધો.",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "√2",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "6 sin θ + 8 cos θ નો વિસ્તાર શું છે?",
+      "options": [
+        {
+          "option": "[-48, 48]"
+        },
+        {
+          "option": "[-14, 14]"
+        },
+        {
+          "option": "[-10, 10]",
+          "is_answer": true
+        },
+        {
+          "option": "[-2, 2]"
+        }
+      ]
+    },
+    {
+      "question": "8 sin θ + 15 cos θ ની મહત્તમ કિંમત શું છે?",
+      "options": [
+        {
+          "option": "120"
+        },
+        {
+          "option": "17",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "23"
+        }
+      ]
+    },
+    {
+      "question": "7 sin θ + 24 cos θ ની ન્યૂનતમ કિંમત શોધો.",
+      "options": [
+        {
+          "option": "-25",
+          "is_answer": true
+        },
+        {
+          "option": "25"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "-31"
+        }
+      ]
+    },
+    {
+      "question": "9 sin θ + 40 cos θ ની મહત્તમ કિંમત શું છે?",
+      "options": [
+        {
+          "option": "41",
+          "is_answer": true
+        },
+        {
+          "option": "31"
+        },
+        {
+          "option": "49"
+        },
+        {
+          "option": "360"
+        }
+      ]
+    },
+    {
+      "question": "20 sin θ + 21 cos θ ની ન્યૂનતમ કિંમત શું છે?",
+      "options": [
+        {
+          "option": "-41"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "29"
+        },
+        {
+          "option": "-29",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "√3 sin θ + cos θ ની મહત્તમ કિંમત શોધો.",
+      "options": [
+        {
+          "option": "√3"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "4"
+        }
+      ]
+    },
+    {
+      "question": "5 sin θ - 12 cos θ નો વિસ્તાર શું છે?",
+      "options": [
+        {
+          "option": "[-17, 17]"
+        },
+        {
+          "option": "[-7, 7]"
+        },
+        {
+          "option": "[-13, 13]",
+          "is_answer": true
+        },
+        {
+          "option": "[-60, 60]"
+        }
+      ]
+    },
+    {
+      "question": "12 sin θ + 5 cos θ ની મહત્તમ કિંમત શું છે?",
+      "options": [
+        {
+          "option": "13",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "17"
+        }
+      ]
+    },
+    {
+      "question": "15 sin θ + 8 cos θ ની ન્યૂનતમ કિંમત શોધો.",
+      "options": [
+        {
+          "option": "17"
+        },
+        {
+          "option": "-17",
+          "is_answer": true
+        },
+        {
+          "option": "-23"
+        },
+        {
+          "option": "7"
+        }
+      ]
+    },
+    {
+      "question": "24 sin θ + 7 cos θ ની મહત્તમ કિંમત શું છે?",
+      "options": [
+        {
+          "option": "25",
+          "is_answer": true
+        },
+        {
+          "option": "31"
+        },
+        {
+          "option": "168"
+        },
+        {
+          "option": "17"
+        }
+      ]
+    },
+    {
+      "question": "40 sin θ + 9 cos θ ની ન્યૂનતમ કિંમત શું છે?",
+      "options": [
+        {
+          "option": "-49"
+        },
+        {
+          "option": "31"
+        },
+        {
+          "option": "41"
+        },
+        {
+          "option": "-41",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "21 sin θ + 20 cos θ ની મહત્તમ કિંમત શોધો.",
+      "options": [
+        {
+          "option": "420"
+        },
+        {
+          "option": "41"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "29",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "sin θ + √3 cos θ નો વિસ્તાર શું છે?",
+      "options": [
+        {
+          "option": "[-2, 2]",
+          "is_answer": true
+        },
+        {
+          "option": "[-4, 4]"
+        },
+        {
+          "option": "[-√3, √3]"
+        },
+        {
+          "option": "[-1, 1]"
+        }
+      ]
+    },
+    {
+      "question": "6 sin θ + 8 cos θ ની મહત્તમ કિંમત શું છે?",
+      "options": [
+        {
+          "option": "10",
+          "is_answer": true
+        },
+        {
+          "option": "14"
+        },
+        {
+          "option": "48"
+        },
+        {
+          "option": "2"
+        }
+      ]
+    },
+    {
+      "question": "3 sin θ - 4 cos θ ની ન્યૂનતમ કિંમત શોધો.",
+      "options": [
+        {
+          "option": "5"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "-5",
+          "is_answer": true
+        },
+        {
+          "option": "-7"
+        }
+      ]
+    },
+    {
+      "question": "5 sin θ + 12 cos θ ની મહત્તમ કિંમત શું છે?",
+      "options": [
+        {
+          "option": "7"
+        },
+        {
+          "option": "17"
+        },
+        {
+          "option": "60"
+        },
+        {
+          "option": "13",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "8 sin θ + 15 cos θ ની ન્યૂનતમ કિંમત શું છે?",
+      "options": [
+        {
+          "option": "-17",
+          "is_answer": true
+        },
+        {
+          "option": "7"
+        },
+        {
+          "option": "17"
+        },
+        {
+          "option": "-23"
+        }
+      ]
+    },
+    {
+      "question": "|x| ≤ 1 માટે arcsin(x) + arccos(x) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "π/2",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "π"
+        }
+      ]
+    },
+    {
+      "question": "x ∈ R માટે arctan(x) + arccot(x) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "π"
+        },
+        {
+          "option": "π/2",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "જ્યારે xy < 1 હોય ત્યારે arctan(x) + arctan(y) માટેનું સૂત્ર શું છે?",
+      "options": [
+        {
+          "option": "arctan((x+y)/(1-xy))",
+          "is_answer": true
+        },
+        {
+          "option": "arctan((x-y)/(1+xy))"
+        },
+        {
+          "option": "arctan((x-y)/(1-xy))"
+        },
+        {
+          "option": "arctan((x+y)/(1+xy))"
+        }
+      ]
+    },
+    {
+      "question": "arcsin(1/2) + arccos(1/2) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "π/4"
+        },
+        {
+          "option": "π/2",
+          "is_answer": true
+        },
+        {
+          "option": "π/6"
+        },
+        {
+          "option": "π/3"
+        }
+      ]
+    },
+    {
+      "question": "arctan(1) + arccot(1) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "π/4"
+        },
+        {
+          "option": "π/2",
+          "is_answer": true
+        },
+        {
+          "option": "π"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કયું arccsc(x) ને સમાન છે?",
+      "options": [
+        {
+          "option": "arcsin(1/x)",
+          "is_answer": true
+        },
+        {
+          "option": "arccot(1/x)"
+        },
+        {
+          "option": "arccos(1/x)"
+        },
+        {
+          "option": "arctan(1/x)"
+        }
+      ]
+    },
+    {
+      "question": "જ્યારે xy > -1 હોય ત્યારે arctan(x) - arctan(y) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "arctan((x+y)/(1+xy))"
+        },
+        {
+          "option": "arctan((x-y)/(1-xy))"
+        },
+        {
+          "option": "arctan((x+y)/(1-xy))"
+        },
+        {
+          "option": "arctan((x-y)/(1+xy))",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "arcsin(x) નો પ્રદેશ (domain) શું છે?",
+      "options": [
+        {
+          "option": "[-1, 1]",
+          "is_answer": true
+        },
+        {
+          "option": "[0, 1]"
+        },
+        {
+          "option": "[0, π]"
+        },
+        {
+          "option": "(-∞, ∞)"
+        }
+      ]
+    },
+    {
+      "question": "arccos(x) નો વિસ્તાર (range) શું છે?",
+      "options": [
+        {
+          "option": "[-π/2, π/2]"
+        },
+        {
+          "option": "[0, π/2]"
+        },
+        {
+          "option": "(-π/2, π/2)"
+        },
+        {
+          "option": "[0, π]",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "arctan(0) + arccot(0) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "π"
+        },
+        {
+          "option": "π/2",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "arccot(x) માટે કયું નિત્યસમ સાચું છે?",
+      "options": [
+        {
+          "option": "arctan(1/x) for x > 0",
+          "is_answer": true
+        },
+        {
+          "option": "arccos(1/x)"
+        },
+        {
+          "option": "arctan(1/x) for x < 0"
+        },
+        {
+          "option": "arcsin(1/x)"
+        }
+      ]
+    },
+    {
+      "question": "x = 0 પર arcsin(x) + arccos(x) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "π"
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "π/2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "2arctan(x) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "arctan(2x/(1-x^2))",
+          "is_answer": true
+        },
+        {
+          "option": "arctan(x/(1-x^2))"
+        },
+        {
+          "option": "arctan(x^2/(1-x))"
+        },
+        {
+          "option": "arctan(2x/(1+x^2))"
+        }
+      ]
+    },
+    {
+      "question": "arctan(1/2) + arctan(1/3) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "π/6"
+        },
+        {
+          "option": "π/4",
+          "is_answer": true
+        },
+        {
+          "option": "π/2"
+        },
+        {
+          "option": "π/3"
+        }
+      ]
+    },
+    {
+      "question": "નીચેનામાંથી કયું -arcsin(x) ને સમાન છે?",
+      "options": [
+        {
+          "option": "arcsin(-x)",
+          "is_answer": true
+        },
+        {
+          "option": "arccos(-x)"
+        },
+        {
+          "option": "arccot(-x)"
+        },
+        {
+          "option": "arctan(-x)"
+        }
+      ]
+    },
+    {
+      "question": "arccos(-x) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "π + arccos(x)"
+        },
+        {
+          "option": "-arccos(x)"
+        },
+        {
+          "option": "π - arccos(x)",
+          "is_answer": true
+        },
+        {
+          "option": "arccos(x)"
+        }
+      ]
+    },
+    {
+      "question": "arctan(-x) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "π - arctan(x)"
+        },
+        {
+          "option": "-arctan(x)",
+          "is_answer": true
+        },
+        {
+          "option": "π + arctan(x)"
+        },
+        {
+          "option": "arctan(x)"
+        }
+      ]
+    },
+    {
+      "question": "arccot(-x) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "arccot(x)"
+        },
+        {
+          "option": "π - arccot(x)",
+          "is_answer": true
+        },
+        {
+          "option": "π + arccot(x)"
+        },
+        {
+          "option": "-arccot(x)"
+        }
+      ]
+    },
+    {
+      "question": "x = 1 પર arcsin(x) + arccos(x) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "π"
+        },
+        {
+          "option": "π/2",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "0"
+        }
+      ]
+    },
+    {
+      "question": "x = 100 પર arctan(x) + arccot(x) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "1"
+        },
+        {
+          "option": "π/2",
+          "is_answer": true
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "π"
+        }
+      ]
+    },
+    {
+      "question": "જો ટાવરના પાયાથી એક જ તરફ a અને b (a < b) અંતરે આવેલા બે બિંદુઓથી ટાવરના ઉત્સેધકોણ alpha અને beta હોય, તો ઊંચાઈ h શું છે?",
+      "options": [
+        {
+          "option": "h = sqrt(ab) * tan alpha"
+        },
+        {
+          "option": "h = (ab tan alpha tan beta) / (tan beta - tan alpha)",
+          "is_answer": true
+        },
+        {
+          "option": "h = (a + b) / (tan alpha + tan beta)"
+        },
+        {
+          "option": "h = (b - a) / (cot alpha - cot beta)"
+        }
+      ]
+    },
+    {
+      "question": "જ્યારે પાયાથી d1 અને d2 અંતરે આવેલા બે બિંદુઓથી ઉત્સેધકોણ કોટિકોણ હોય, ત્યારે ટાવરની ઊંચાઈ કેટલી થાય?",
+      "options": [
+        {
+          "option": "sqrt(d1 * d2)",
+          "is_answer": true
+        },
+        {
+          "option": "sqrt(d1^2 + d2^2)"
+        },
+        {
+          "option": "d1 / d2"
+        },
+        {
+          "option": "d1 + d2"
+        }
+      ]
+    },
+    {
+      "question": "જો એક સીધી રેખા પરના બે બિંદુઓથી ઉત્સેધકોણ 30 અને 60 ડિગ્રી હોય, અને બિંદુઓ વચ્ચેનું અંતર d હોય, તો ઊંચાઈ h કેટલી થાય?",
+      "options": [
+        {
+          "option": "d * sqrt(3)"
+        },
+        {
+          "option": "d / sqrt(3)"
+        },
+        {
+          "option": "2 * d"
+        },
+        {
+          "option": "d * sqrt(3) / 2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "h ઊંચાઈના ટાવર માટે, જો x અને y (x < y) અંતરે આવેલા બે બિંદુઓથી ઉત્સેધકોણ 45 અને 30 ડિગ્રી હોય, તો બિંદુઓ વચ્ચેનું અંતર કેટલું થાય?",
+      "options": [
+        {
+          "option": "h(sqrt(3) + 1)"
+        },
+        {
+          "option": "h / sqrt(3)"
+        },
+        {
+          "option": "h(sqrt(3) - 1)",
+          "is_answer": true
+        },
+        {
+          "option": "h * sqrt(3)"
+        }
+      ]
+    },
+    {
+      "question": "બે-બિંદુ અવલોકનમાં, જો બિંદુઓ વચ્ચેનું અંતર d હોય અને ખૂણા alpha અને beta (alpha > beta) હોય, તો ઊંચાઈ h કયા સૂત્ર દ્વારા મળે?",
+      "options": [
+        {
+          "option": "d * (cot alpha + cot beta)"
+        },
+        {
+          "option": "d / (cot beta - cot alpha)",
+          "is_answer": true
+        },
+        {
+          "option": "d / (tan alpha - tan beta)"
+        },
+        {
+          "option": "d * (tan alpha + tan beta)"
+        }
+      ]
+    },
+    {
+      "question": "જો ટાવરના પાયાથી a અને b અંતરે આવેલા બે બિંદુઓથી ઉત્સેધકોણ 60 અને 30 ડિગ્રી હોય, તો અંતર a:b નો ગુણોત્તર શું છે?",
+      "options": [
+        {
+          "option": "1:sqrt(3)"
+        },
+        {
+          "option": "1:2"
+        },
+        {
+          "option": "3:1"
+        },
+        {
+          "option": "1:3",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જ્યારે ટાવરને વિરુદ્ધ દિશાના બે બિંદુઓથી જોવામાં આવે, બિંદુઓ વચ્ચેનું અંતર d હોય, અને ખૂણા alpha અને beta હોય, તો ઊંચાઈ h કેટલી થાય?",
+      "options": [
+        {
+          "option": "d * (tan alpha - tan beta)"
+        },
+        {
+          "option": "d / (tan alpha + tan beta)"
+        },
+        {
+          "option": "d / (cot alpha + cot beta)",
+          "is_answer": true
+        },
+        {
+          "option": "d * (cot alpha - cot beta)"
+        }
+      ]
+    },
+    {
+      "question": "જો તમે ટાવરની તરફ 20 મીટર નજીક જાઓ ત્યારે ઉત્સેધકોણ 30 થી 45 ડિગ્રી થાય, તો ટાવરની ઊંચાઈ કેટલી હશે?",
+      "options": [
+        {
+          "option": "10(sqrt(3) - 1)"
+        },
+        {
+          "option": "20(sqrt(3) - 1)"
+        },
+        {
+          "option": "10(sqrt(3) + 1)",
+          "is_answer": true
+        },
+        {
+          "option": "20(sqrt(3) + 1)"
+        }
+      ]
+    },
+    {
+      "question": "ટાવરની ઊંચાઈ h છે. પાયાથી x અને y અંતરે આવેલા બે બિંદુઓથી ઉત્સેધકોણ alpha અને beta છે. કયો સંબંધ સાચો છે?",
+      "options": [
+        {
+          "option": "h = x cot alpha = y cot beta"
+        },
+        {
+          "option": "h = x + y"
+        },
+        {
+          "option": "h = x tan alpha = y tan beta",
+          "is_answer": true
+        },
+        {
+          "option": "h = x tan beta = y tan alpha"
+        }
+      ]
+    },
+    {
+      "question": "જો એક બિંદુએ ટાવરનો ઉત્સેધકોણ 30 ડિગ્રી હોય અને 10 મીટર નજીકના બિંદુએ 60 ડિગ્રી હોય, તો ઊંચાઈ કેટલી થાય?",
+      "options": [
+        {
+          "option": "5 * sqrt(3)",
+          "is_answer": true
+        },
+        {
+          "option": "10 / sqrt(3)"
+        },
+        {
+          "option": "5 / sqrt(3)"
+        },
+        {
+          "option": "10 * sqrt(3)"
+        }
+      ]
+    },
+    {
+      "question": "બે-બિંદુ અવલોકનના સંદર્ભમાં, ઉત્સેધકોણનો કોટિજ્ય (cotangent) કોના પ્રમાણમાં હોય છે?",
+      "options": [
+        {
+          "option": "Inverse of the height"
+        },
+        {
+          "option": "Square of the distance"
+        },
+        {
+          "option": "Distance from the base",
+          "is_answer": true
+        },
+        {
+          "option": "Height of the tower"
+        }
+      ]
+    },
+    {
+      "question": "જો a અને b અંતરે આવેલા બે બિંદુઓથી ઉત્સેધકોણ alpha અને beta હોય, તો અંતરનો તફાવત કેટલો થાય?",
+      "options": [
+        {
+          "option": "h(tan alpha + tan beta)"
+        },
+        {
+          "option": "h(tan beta - tan alpha)"
+        },
+        {
+          "option": "h(cot alpha + cot beta)"
+        },
+        {
+          "option": "h(cot beta - cot alpha)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો એક બિંદુએ ટાવરનો ઉત્સેધકોણ 45 ડિગ્રી હોય અને 20 મીટર દૂરના બિંદુએ 30 ડિગ્રી હોય, તો ઊંચાઈ કેટલી થાય?",
+      "options": [
+        {
+          "option": "10(sqrt(3) - 1)"
+        },
+        {
+          "option": "20(sqrt(3) + 1)"
+        },
+        {
+          "option": "20(sqrt(3) - 1)"
+        },
+        {
+          "option": "10(sqrt(3) + 1)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "આ અવલોકનોમાં ઊંચાઈ અને અંતર વચ્ચે સંબંધ સ્થાપિત કરવા માટે કયું ત્રિકોણમિતીય વિધેય સૌથી વધુ ઉપયોગી છે?",
+      "options": [
+        {
+          "option": "Sine"
+        },
+        {
+          "option": "Cosine"
+        },
+        {
+          "option": "Tangent",
+          "is_answer": true
+        },
+        {
+          "option": "Secant"
+        }
+      ]
+    },
+    {
+      "question": "જો બે બિંદુઓથી ઉત્સેધકોણ 30 અને 45 ડિગ્રી હોય, તો ઊંચાઈ h કેટલી થાય?",
+      "options": [
+        {
+          "option": "d * (sqrt(3) + 1)"
+        },
+        {
+          "option": "d / (sqrt(3) - 1)",
+          "is_answer": true
+        },
+        {
+          "option": "d * (sqrt(3) - 1)"
+        },
+        {
+          "option": "d / (sqrt(3) + 1)"
+        }
+      ]
+    },
+    {
+      "question": "h ઊંચાઈના ટાવર માટે, જો d અંતરે આવેલા બે બિંદુઓથી ઉત્સેધકોણ કોટિકોણ હોય, તો:",
+      "options": [
+        {
+          "option": "h^2 = d1 * d2",
+          "is_answer": true
+        },
+        {
+          "option": "h^2 = d1 + d2"
+        },
+        {
+          "option": "h = d1 * d2"
+        },
+        {
+          "option": "h = d1 + d2"
+        }
+      ]
+    },
+    {
+      "question": "જો એક બિંદુએ ઉત્સેધકોણ 60 ડિગ્રી હોય અને 40 મીટર દૂરના બિંદુએ 30 ડિગ્રી હોય, તો ઊંચાઈ કેટલી થાય?",
+      "options": [
+        {
+          "option": "10 * sqrt(3)"
+        },
+        {
+          "option": "20 * sqrt(3)",
+          "is_answer": true
+        },
+        {
+          "option": "20 / sqrt(3)"
+        },
+        {
+          "option": "40 * sqrt(3)"
+        }
+      ]
+    },
+    {
+      "question": "બે બિંદુઓ વચ્ચેનું અંતર d છે. જો ઉત્સેધકોણ 30 અને 60 ડિગ્રી હોય, તો ઊંચાઈ કેટલી થાય?",
+      "options": [
+        {
+          "option": "d / 2"
+        },
+        {
+          "option": "d * sqrt(3)"
+        },
+        {
+          "option": "d / sqrt(3)"
+        },
+        {
+          "option": "d * sqrt(3) / 2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "જો એક બિંદુએ ટાવરનો ઉત્સેધકોણ 30 ડિગ્રી હોય અને 10 મીટર નજીકના બિંદુએ 45 ડિગ્રી હોય, તો ઊંચાઈ કેટલી થાય?",
+      "options": [
+        {
+          "option": "10(sqrt(3) + 1)"
+        },
+        {
+          "option": "10(sqrt(3) - 1)"
+        },
+        {
+          "option": "5(sqrt(3) + 1)",
+          "is_answer": true
+        },
+        {
+          "option": "5(sqrt(3) - 1)"
+        }
+      ]
+    },
+    {
+      "question": "બે-બિંદુ અવલોકનમાં, ઊંચાઈ h ને h = d / (cot beta - cot alpha) સૂત્ર દ્વારા ગણી શકાય છે, જ્યાં:",
+      "options": [
+        {
+          "option": "beta > alpha"
+        },
+        {
+          "option": "alpha + beta = 90"
+        },
+        {
+          "option": "alpha = beta"
+        },
+        {
+          "option": "alpha > beta",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "x માટે ઉકેલો: sin(x) + cos(x) = 1, જ્યાં 0 ≤ x ≤ 2π.",
+      "options": [
+        {
+          "option": "0, π/2",
+          "is_answer": true
+        },
+        {
+          "option": "π/4, π"
+        },
+        {
+          "option": "π/3, 2π/3"
+        },
+        {
+          "option": "0, π"
+        }
+      ]
+    },
+    {
+      "question": "tan(arcsin(1/2)) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "1/√3",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "√3"
+        }
+      ]
+    },
+    {
+      "question": "જો 50 મીટર દૂરના બિંદુથી ટાવરનો ઉત્સેધકોણ 60° હોય, તો ટાવરની ઊંચાઈ કેટલી છે?",
+      "options": [
+        {
+          "option": "50/√3 m"
+        },
+        {
+          "option": "100 m"
+        },
+        {
+          "option": "25√3 m"
+        },
+        {
+          "option": "50√3 m",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "સરળ બનાવો: sin²(θ) + cos²(θ) + tan²(θ) - sec²(θ).",
+      "options": [
+        {
+          "option": "2"
+        },
+        {
+          "option": "0",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "-1"
+        }
+      ]
+    },
+    {
+      "question": "cos(75°) નું મૂલ્ય શોધો.",
+      "options": [
+        {
+          "option": "(√6+√2)/4"
+        },
+        {
+          "option": "(√6-√2)/4",
+          "is_answer": true
+        },
+        {
+          "option": "(√2-1)/2"
+        },
+        {
+          "option": "(√3-1)/2"
+        }
+      ]
+    },
+    {
+      "question": "x માટે ઉકેલો: 2cos²(x) - 1 = 0.",
+      "options": [
+        {
+          "option": "π/3, 2π/3"
+        },
+        {
+          "option": "0, π"
+        },
+        {
+          "option": "π/6, 5π/6"
+        },
+        {
+          "option": "π/4, 3π/4",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "f(x) = sin(3x) વિધેયનો આવર્તકાળ શું છે?",
+      "options": [
+        {
+          "option": "2π"
+        },
+        {
+          "option": "π/3"
+        },
+        {
+          "option": "2π/3",
+          "is_answer": true
+        },
+        {
+          "option": "3π"
+        }
+      ]
+    },
+    {
+      "question": "ગણતરી કરો: sin(15°)cos(15°).",
+      "options": [
+        {
+          "option": "√3/4"
+        },
+        {
+          "option": "√3/2"
+        },
+        {
+          "option": "1/4",
+          "is_answer": true
+        },
+        {
+          "option": "1/2"
+        }
+      ]
+    },
+    {
+      "question": "જો tan(A) = 3/4 હોય, તો sin(A) શું છે?",
+      "options": [
+        {
+          "option": "4/5"
+        },
+        {
+          "option": "3/7"
+        },
+        {
+          "option": "5/3"
+        },
+        {
+          "option": "3/5",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "arcsin(sin(2π/3)) નું મૂલ્ય શોધો.",
+      "options": [
+        {
+          "option": "π/3",
+          "is_answer": true
+        },
+        {
+          "option": "2π/3"
+        },
+        {
+          "option": "π/2"
+        },
+        {
+          "option": "π/6"
+        }
+      ]
+    },
+    {
+      "question": "એક થાંભલાનો પડછાયો તેની ઊંચાઈ જેટલો છે. સૂર્યનો ઉત્સેધકોણ કેટલો છે?",
+      "options": [
+        {
+          "option": "90°"
+        },
+        {
+          "option": "45°",
+          "is_answer": true
+        },
+        {
+          "option": "60°"
+        },
+        {
+          "option": "30°"
+        }
+      ]
+    },
+    {
+      "question": "સરળ બનાવો: (1 - sin²θ)sec²θ.",
+      "options": [
+        {
+          "option": "tan²θ"
+        },
+        {
+          "option": "sin²θ"
+        },
+        {
+          "option": "cos²θ"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "sin(θ) ના સંદર્ભમાં cos(2θ) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "1 + sin²θ"
+        },
+        {
+          "option": "1 - 2sin²θ",
+          "is_answer": true
+        },
+        {
+          "option": "sin²θ - 1"
+        },
+        {
+          "option": "2sin²θ - 1"
+        }
+      ]
+    },
+    {
+      "question": "x માટે ઉકેલો: tan(x) = √3.",
+      "options": [
+        {
+          "option": "π/4"
+        },
+        {
+          "option": "π/2"
+        },
+        {
+          "option": "π/3",
+          "is_answer": true
+        },
+        {
+          "option": "π/6"
+        }
+      ]
+    },
+    {
+      "question": "sin(120°) નું મૂલ્ય શોધો.",
+      "options": [
+        {
+          "option": "-√3/2"
+        },
+        {
+          "option": "1/2"
+        },
+        {
+          "option": "√3/2",
+          "is_answer": true
+        },
+        {
+          "option": "-1/2"
+        }
+      ]
+    },
+    {
+      "question": "જો cos(θ) = 0 હોય, તો θ માટે સામાન્ય ઉકેલ શું છે?",
+      "options": [
+        {
+          "option": "2nπ"
+        },
+        {
+          "option": "(n+1)π"
+        },
+        {
+          "option": "nπ"
+        },
+        {
+          "option": "(2n+1)π/2",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "tan(π/4) + cot(π/4) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "2",
+          "is_answer": true
+        },
+        {
+          "option": "1"
+        },
+        {
+          "option": "√2"
+        }
+      ]
+    },
+    {
+      "question": "દીવાલ સાથે ટેકવેલી સીડીનો ઉત્સેધકોણ 45° છે. જો સીડીનો પાયો દીવાલથી 5 મીટર દૂર હોય, તો સીડીની લંબાઈ કેટલી છે?",
+      "options": [
+        {
+          "option": "5/√2 m"
+        },
+        {
+          "option": "10 m"
+        },
+        {
+          "option": "5 m"
+        },
+        {
+          "option": "5√2 m",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "સરળ બનાવો: sin(π - θ).",
+      "options": [
+        {
+          "option": "-sin(θ)"
+        },
+        {
+          "option": "cos(θ)"
+        },
+        {
+          "option": "sin(θ)",
+          "is_answer": true
+        },
+        {
+          "option": "-cos(θ)"
+        }
+      ]
+    },
+    {
+      "question": "sin(90 ડિગ્રી) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "0"
+        },
+        {
+          "option": "0.5"
+        },
+        {
+          "option": "-1"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "કઈ ત્રિકોણમિતીય નિત્યસમ 1 + tan^2(theta) ને સમાન છે?",
+      "options": [
+        {
+          "option": "sin^2(theta)"
+        },
+        {
+          "option": "cot^2(theta)"
+        },
+        {
+          "option": "csc^2(theta)"
+        },
+        {
+          "option": "sec^2(theta)",
+          "is_answer": true
+        }
+      ]
+    },
+    {
+      "question": "tan(45 ડિગ્રી) નું મૂલ્ય શું છે?",
+      "options": [
+        {
+          "option": "1/sqrt(3)"
+        },
+        {
+          "option": "0"
+        },
+        {
+          "option": "1",
+          "is_answer": true
+        },
+        {
+          "option": "sqrt(3)"
+        }
+      ]
+    }
+  ]
+}
