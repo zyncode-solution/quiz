@@ -6,84 +6,98 @@
       "name": "अभियोग्यता",
       "slug": "aptitude",
       "sub_subjects_length": 13,
+      "isActive": true,
       "sub_subjects": [
         {
           "id": 1,
           "subject_id": 1,
           "name": "औसत",
-          "slug": "average"
+          "slug": "average",
+          "isActive": true
         },
         {
           "id": 2,
           "subject_id": 1,
           "name": "आंकड़ा व्याख्या",
-          "slug": "data-interpretation"
+          "slug": "data-interpretation",
+          "isActive": true
         },
         {
           "id": 3,
           "subject_id": 1,
           "name": "आंकड़ा पर्याप्तता",
-          "slug": "data-sufficiency"
+          "slug": "data-sufficiency",
+          "isActive": true
         },
         {
           "id": 4,
           "subject_id": 1,
           "name": "संख्यात्मक अभियोग्यता",
-          "slug": "numerical-ability"
+          "slug": "numerical-ability",
+          "isActive": true
         },
         {
           "id": 5,
           "subject_id": 1,
           "name": "प्रतिशत",
-          "slug": "percentage"
+          "slug": "percentage",
+          "isActive": true
         },
         {
           "id": 6,
           "subject_id": 1,
           "name": "क्रमचय और संचय",
-          "slug": "permutation-and-combination"
+          "slug": "permutation-and-combination",
+          "isActive": true
         },
         {
           "id": 7,
           "subject_id": 1,
           "name": "प्रायिकता",
-          "slug": "probability"
+          "slug": "probability",
+          "isActive": true
         },
         {
           "id": 8,
           "subject_id": 1,
           "name": "लाभ और हानि",
-          "slug": "profit-and-loss"
+          "slug": "profit-and-loss",
+          "isActive": true
         },
         {
           "id": 9,
           "subject_id": 1,
           "name": "मात्रात्मक अभियोग्यता",
-          "slug": "quantitative-aptitude"
+          "slug": "quantitative-aptitude",
+          "isActive": true
         },
         {
           "id": 10,
           "subject_id": 1,
           "name": "अनुपात और समानुपात",
-          "slug": "ratio-and-proportion"
+          "slug": "ratio-and-proportion",
+          "isActive": true
         },
         {
           "id": 11,
           "subject_id": 1,
           "name": "साधारण और चक्रवृद्धि ब्याज",
-          "slug": "simple-and-compound-interest"
+          "slug": "simple-and-compound-interest",
+          "isActive": true
         },
         {
           "id": 12,
           "subject_id": 1,
           "name": "समय और दूरी",
-          "slug": "time-and-distance"
+          "slug": "time-and-distance",
+          "isActive": true
         },
         {
           "id": 13,
           "subject_id": 1,
           "name": "समय और कार्य",
-          "slug": "time-and-work"
+          "slug": "time-and-work",
+          "isActive": true
         }
       ]
     },
@@ -92,90 +106,105 @@
       "name": "कला और संस्कृति",
       "slug": "arts-and-culture",
       "sub_subjects_length": 14,
+      "isActive": true,
       "sub_subjects": [
         {
           "id": 14,
           "subject_id": 2,
           "name": "स्थापत्य और वास्तुकला",
-          "slug": "architecture"
+          "slug": "architecture",
+          "isActive": true
         },
         {
           "id": 15,
           "subject_id": 2,
           "name": "सिनेमा",
-          "slug": "cinema"
+          "slug": "cinema",
+          "isActive": true
         },
         {
           "id": 16,
           "subject_id": 2,
           "name": "शास्त्रीय नृत्य",
-          "slug": "classical-dance"
+          "slug": "classical-dance",
+          "isActive": true
         },
         {
           "id": 17,
           "subject_id": 2,
           "name": "सांस्कृतिक विरासत",
-          "slug": "cultural-heritage"
+          "slug": "cultural-heritage",
+          "isActive": true
         },
         {
           "id": 18,
           "subject_id": 2,
           "name": "त्योहार",
-          "slug": "festivals"
+          "slug": "festivals",
+          "isActive": true
         },
         {
           "id": 19,
           "subject_id": 2,
           "name": "लोकनृत्य",
-          "slug": "folk-dance"
+          "slug": "folk-dance",
+          "isActive": true
         },
         {
           "id": 20,
           "subject_id": 2,
           "name": "संगीत",
-          "slug": "music"
+          "slug": "music",
+          "isActive": true
         },
         {
           "id": 21,
           "subject_id": 2,
           "name": "संगीत वाद्ययंत्र",
-          "slug": "musical-instruments"
+          "slug": "musical-instruments",
+          "isActive": true
         },
         {
           "id": 22,
           "subject_id": 2,
           "name": "चित्रकला",
-          "slug": "paintings"
+          "slug": "paintings",
+          "isActive": true
         },
         {
           "id": 23,
           "subject_id": 2,
           "name": "मूर्तिकला",
-          "slug": "sculpture"
+          "slug": "sculpture",
+          "isActive": true
         },
         {
           "id": 24,
           "subject_id": 2,
           "name": "रंगमंच",
-          "slug": "theater"
+          "slug": "theater",
+          "isActive": true
         },
         {
           "id": 25,
           "subject_id": 2,
           "name": "विश्व कला",
-          "slug": "world-art"
+          "slug": "world-art",
+          "isActive": true
         },
         {
           "id": 26,
           "subject_id": 2,
           "name": "विश्व संस्कृति",
-          "slug": "world-culture"
+          "slug": "world-culture",
+          "isActive": true
         },
         {
           "id": 27,
           "subject_id": 2,
           "name": "विश्व साहित्य",
-          "slug": "world-literature"
+          "slug": "world-literature",
+          "isActive": true
         }
       ]
     },
@@ -184,102 +213,119 @@
       "name": "कंप्यूटर",
       "slug": "computer",
       "sub_subjects_length": 16,
+      "isActive": true,
       "sub_subjects": [
         {
           "id": 28,
           "subject_id": 3,
           "name": "कृत्रिम बुद्धिमत्ता (AI)",
-          "slug": "artificial-intelligence"
+          "slug": "artificial-intelligence",
+          "isActive": true
         },
         {
           "id": 29,
           "subject_id": 3,
           "name": "क्लाउड कंप्यूटिंग",
-          "slug": "cloud-computing"
+          "slug": "cloud-computing",
+          "isActive": true
         },
         {
           "id": 30,
           "subject_id": 3,
           "name": "कंप्यूटर मूलभूत बातें",
-          "slug": "computer-fundamentals"
+          "slug": "computer-fundamentals",
+          "isActive": true
         },
         {
           "id": 31,
           "subject_id": 3,
           "name": "कंप्यूटर सामान्य ज्ञान",
-          "slug": "computer-general-knowledge"
+          "slug": "computer-general-knowledge",
+          "isActive": true
         },
         {
           "id": 32,
           "subject_id": 3,
           "name": "कंप्यूटर हार्डवेयर",
-          "slug": "computer-hardware"
+          "slug": "computer-hardware",
+          "isActive": true
         },
         {
           "id": 33,
           "subject_id": 3,
           "name": "कंप्यूटर का इतिहास",
-          "slug": "computer-history"
+          "slug": "computer-history",
+          "isActive": true
         },
         {
           "id": 34,
           "subject_id": 3,
           "name": "कंप्यूटर नेटवर्क",
-          "slug": "computer-networks"
+          "slug": "computer-networks",
+          "isActive": true
         },
         {
           "id": 35,
           "subject_id": 3,
           "name": "कंप्यूटर सॉफ्टवेयर",
-          "slug": "computer-software"
+          "slug": "computer-software",
+          "isActive": true
         },
         {
           "id": 36,
           "subject_id": 3,
           "name": "साइबर सुरक्षा",
-          "slug": "cyber-security"
+          "slug": "cyber-security",
+          "isActive": true
         },
         {
           "id": 37,
           "subject_id": 3,
           "name": "डेटा स्ट्रक्चर और एल्गोरिदम",
-          "slug": "data-structures-and-algorithms"
+          "slug": "data-structures-and-algorithms",
+          "isActive": true
         },
         {
           "id": 38,
           "subject_id": 3,
           "name": "डेटाबेस",
-          "slug": "database"
+          "slug": "database",
+          "isActive": true
         },
         {
           "id": 39,
           "subject_id": 3,
           "name": "सूचना प्रौद्योगिकी (IT)",
-          "slug": "information-technology"
+          "slug": "information-technology",
+          "isActive": true
         },
         {
           "id": 40,
           "subject_id": 3,
           "name": "इंटरनेट और वेब",
-          "slug": "internet-and-web"
+          "slug": "internet-and-web",
+          "isActive": true
         },
         {
           "id": 41,
           "subject_id": 3,
           "name": "मशीन लर्निंग",
-          "slug": "machine-learning"
+          "slug": "machine-learning",
+          "isActive": true
         },
         {
           "id": 42,
           "subject_id": 3,
           "name": "ऑपरेटिंग सिस्टम",
-          "slug": "operating-systems"
+          "slug": "operating-systems",
+          "isActive": true
         },
         {
           "id": 43,
           "subject_id": 3,
           "name": "प्रोग्रामिंग",
-          "slug": "programming"
+          "slug": "programming",
+          "isActive": true
         }
       ]
     },
@@ -288,78 +334,91 @@
       "name": "अर्थशास्त्र",
       "slug": "economics",
       "sub_subjects_length": 12,
+      "isActive": true,
       "sub_subjects": [
         {
           "id": 44,
           "subject_id": 4,
           "name": "बैंकिंग",
-          "slug": "banking"
+          "slug": "banking",
+          "isActive": true
         },
         {
           "id": 45,
           "subject_id": 4,
           "name": "व्यापार और वाणिज्य",
-          "slug": "business-and-commerce"
+          "slug": "business-and-commerce",
+          "isActive": true
         },
         {
           "id": 46,
           "subject_id": 4,
           "name": "अर्थशास्त्र की मूलभूत बातें",
-          "slug": "economics-fundamentals"
+          "slug": "economics-fundamentals",
+          "isActive": true
         },
         {
           "id": 47,
           "subject_id": 4,
           "name": "वित्तीय बाजार",
-          "slug": "financial-markets"
+          "slug": "financial-markets",
+          "isActive": true
         },
         {
           "id": 48,
           "subject_id": 4,
           "name": "जीडीपी और आर्थिक संकेतक",
-          "slug": "gdp-and-economic-indicators"
+          "slug": "gdp-and-economic-indicators",
+          "isActive": true
         },
         {
           "id": 49,
           "subject_id": 4,
           "name": "वैश्विक अर्थव्यवस्था",
-          "slug": "global-economy"
+          "slug": "global-economy",
+          "isActive": true
         },
         {
           "id": 50,
           "subject_id": 4,
           "name": "मुद्रास्फीति (महंगाई)",
-          "slug": "inflation"
+          "slug": "inflation",
+          "isActive": true
         },
         {
           "id": 51,
           "subject_id": 4,
           "name": "अंतर्राष्ट्रीय व्यापार",
-          "slug": "international-trade"
+          "slug": "international-trade",
+          "isActive": true
         },
         {
           "id": 52,
           "subject_id": 4,
           "name": "निवेश की मूलभूत बातें",
-          "slug": "investment-fundamentals"
+          "slug": "investment-fundamentals",
+          "isActive": true
         },
         {
           "id": 53,
           "subject_id": 4,
           "name": "मुद्रा और चलन",
-          "slug": "money-and-currency"
+          "slug": "money-and-currency",
+          "isActive": true
         },
         {
           "id": 54,
           "subject_id": 4,
           "name": "व्यक्तिगत वित्त",
-          "slug": "personal-finance"
+          "slug": "personal-finance",
+          "isActive": true
         },
         {
           "id": 55,
           "subject_id": 4,
           "name": "मांग और आपूर्ति",
-          "slug": "supply-and-demand"
+          "slug": "supply-and-demand",
+          "isActive": true
         }
       ]
     },
@@ -368,78 +427,91 @@
       "name": "पर्यावरण",
       "slug": "environment",
       "sub_subjects_length": 12,
+      "isActive": true,
       "sub_subjects": [
         {
           "id": 56,
           "subject_id": 5,
           "name": "जैव विविधता",
-          "slug": "biodiversity"
+          "slug": "biodiversity",
+          "isActive": true
         },
         {
           "id": 57,
           "subject_id": 5,
           "name": "जलवायु परिवर्तन",
-          "slug": "climate-change"
+          "slug": "climate-change",
+          "isActive": true
         },
         {
           "id": 58,
           "subject_id": 5,
           "name": "संरक्षण",
-          "slug": "conservation"
+          "slug": "conservation",
+          "isActive": true
         },
         {
           "id": 59,
           "subject_id": 5,
           "name": "पारिस्थितिकी (इकोलॉजी)",
-          "slug": "ecology"
+          "slug": "ecology",
+          "isActive": true
         },
         {
           "id": 60,
           "subject_id": 5,
           "name": "पारिस्थितिकी तंत्र",
-          "slug": "ecosystems"
+          "slug": "ecosystems",
+          "isActive": true
         },
         {
           "id": 61,
           "subject_id": 5,
           "name": "वन और जंगल",
-          "slug": "forests"
+          "slug": "forests",
+          "isActive": true
         },
         {
           "id": 62,
           "subject_id": 5,
           "name": "ग्लोबल वार्मिंग",
-          "slug": "global-warming"
+          "slug": "global-warming",
+          "isActive": true
         },
         {
           "id": 63,
           "subject_id": 5,
           "name": "प्राकृतिक आपदाएं",
-          "slug": "natural-disasters"
+          "slug": "natural-disasters",
+          "isActive": true
         },
         {
           "id": 64,
           "subject_id": 5,
           "name": "प्रदूषण",
-          "slug": "pollution"
+          "slug": "pollution",
+          "isActive": true
         },
         {
           "id": 65,
           "subject_id": 5,
           "name": "नवीकरणीय ऊर्जा",
-          "slug": "renewable-energy"
+          "slug": "renewable-energy",
+          "isActive": true
         },
         {
           "id": 66,
           "subject_id": 5,
           "name": "सतत विकास",
-          "slug": "sustainable-development"
+          "slug": "sustainable-development",
+          "isActive": true
         },
         {
           "id": 67,
           "subject_id": 5,
           "name": "वन्यजीव",
-          "slug": "wildlife"
+          "slug": "wildlife",
+          "isActive": true
         }
       ]
     },
@@ -448,84 +520,98 @@
       "name": "सामान्य ज्ञान",
       "slug": "general-knowledge",
       "sub_subjects_length": 13,
+      "isActive": true,
       "sub_subjects": [
         {
           "id": 68,
           "subject_id": 6,
           "name": "पुरस्कार और सम्मान",
-          "slug": "awards-and-honors"
+          "slug": "awards-and-honors",
+          "isActive": true
         },
         {
           "id": 69,
           "subject_id": 6,
           "name": "पुस्तकें और लेखक",
-          "slug": "books-and-authors"
+          "slug": "books-and-authors",
+          "isActive": true
         },
         {
           "id": 70,
           "subject_id": 6,
           "name": "देश और राजधानियां",
-          "slug": "countries-and-capitals"
+          "slug": "countries-and-capitals",
+          "isActive": true
         },
         {
           "id": 71,
           "subject_id": 6,
           "name": "मुद्राएं",
-          "slug": "currencies"
+          "slug": "currencies",
+          "isActive": true
         },
         {
           "id": 72,
           "subject_id": 6,
           "name": "समसामयिकी (करेंट अफेयर्स)",
-          "slug": "current-affairs"
+          "slug": "current-affairs",
+          "isActive": true
         },
         {
           "id": 73,
           "subject_id": 6,
           "name": "प्रसिद्ध हस्तियां",
-          "slug": "famous-personalities"
+          "slug": "famous-personalities",
+          "isActive": true
         },
         {
           "id": 74,
           "subject_id": 6,
           "name": "प्रसिद्ध स्थल",
-          "slug": "famous-places"
+          "slug": "famous-places",
+          "isActive": true
         },
         {
           "id": 75,
           "subject_id": 6,
           "name": "ऐतिहासिक घटनाएं",
-          "slug": "historical-events"
+          "slug": "historical-events",
+          "isActive": true
         },
         {
           "id": 76,
           "subject_id": 6,
           "name": "महत्वपूर्ण दिवस",
-          "slug": "important-days"
+          "slug": "important-days",
+          "isActive": true
         },
         {
           "id": 77,
           "subject_id": 6,
           "name": "अंतर्राष्ट्रीय संगठन",
-          "slug": "international-organizations"
+          "slug": "international-organizations",
+          "isActive": true
         },
         {
           "id": 78,
           "subject_id": 6,
           "name": "आविष्कार और खोजें",
-          "slug": "inventions-and-discoveries"
+          "slug": "inventions-and-discoveries",
+          "isActive": true
         },
         {
           "id": 79,
           "subject_id": 6,
           "name": "विश्व सामान्य ज्ञान",
-          "slug": "world-general-knowledge"
+          "slug": "world-general-knowledge",
+          "isActive": true
         },
         {
           "id": 80,
           "subject_id": 6,
           "name": "विश्व रिकॉर्ड",
-          "slug": "world-records"
+          "slug": "world-records",
+          "isActive": true
         }
       ]
     },
@@ -534,84 +620,98 @@
       "name": "भूगोल",
       "slug": "geography",
       "sub_subjects_length": 13,
+      "isActive": true,
       "sub_subjects": [
         {
           "id": 81,
           "subject_id": 7,
           "name": "कृषि",
-          "slug": "agriculture"
+          "slug": "agriculture",
+          "isActive": true
         },
         {
           "id": 82,
           "subject_id": 7,
           "name": "जलवायु",
-          "slug": "climate"
+          "slug": "climate",
+          "isActive": true
         },
         {
           "id": 83,
           "subject_id": 7,
           "name": "महाद्वीप और महासागर",
-          "slug": "continents-and-oceans"
+          "slug": "continents-and-oceans",
+          "isActive": true
         },
         {
           "id": 84,
           "subject_id": 7,
           "name": "देश और स्थान",
-          "slug": "countries-and-locations"
+          "slug": "countries-and-locations",
+          "isActive": true
         },
         {
           "id": 85,
           "subject_id": 7,
           "name": "भू-आकृतियां",
-          "slug": "landforms"
+          "slug": "landforms",
+          "isActive": true
         },
         {
           "id": 86,
           "subject_id": 7,
           "name": "मानचित्र और मानचित्रकला",
-          "slug": "maps-and-cartography"
+          "slug": "maps-and-cartography",
+          "isActive": true
         },
         {
           "id": 87,
           "subject_id": 7,
           "name": "पर्वत और चोटियां",
-          "slug": "mountains-and-peaks"
+          "slug": "mountains-and-peaks",
+          "isActive": true
         },
         {
           "id": 88,
           "subject_id": 7,
           "name": "प्राकृतिक आपदाएं",
-          "slug": "natural-disasters"
+          "slug": "natural-disasters",
+          "isActive": true
         },
         {
           "id": 89,
           "subject_id": 7,
           "name": "प्राकृतिक संसाधन",
-          "slug": "natural-resources"
+          "slug": "natural-resources",
+          "isActive": true
         },
         {
           "id": 90,
           "subject_id": 7,
           "name": "जनसंख्या और जनसांख्यिकी",
-          "slug": "population-and-demographics"
+          "slug": "population-and-demographics",
+          "isActive": true
         },
         {
           "id": 91,
           "subject_id": 7,
           "name": "नदियां और झीलें",
-          "slug": "rivers-and-lakes"
+          "slug": "rivers-and-lakes",
+          "isActive": true
         },
         {
           "id": 92,
           "subject_id": 7,
           "name": "मौसम",
-          "slug": "weather"
+          "slug": "weather",
+          "isActive": true
         },
         {
           "id": 93,
           "subject_id": 7,
           "name": "विश्व भूगोल",
-          "slug": "world-geography"
+          "slug": "world-geography",
+          "isActive": true
         }
       ]
     },
@@ -620,78 +720,91 @@
       "name": "स्वास्थ्य और चिकित्सा",
       "slug": "health-and-medicine",
       "sub_subjects_length": 12,
+      "isActive": true,
       "sub_subjects": [
         {
           "id": 94,
           "subject_id": 8,
           "name": "शरीर रचना विज्ञान (एनाटॉमी)",
-          "slug": "anatomy"
+          "slug": "anatomy",
+          "isActive": true
         },
         {
           "id": 95,
           "subject_id": 8,
           "name": "रोग और बीमारियां",
-          "slug": "diseases"
+          "slug": "diseases",
+          "isActive": true
         },
         {
           "id": 96,
           "subject_id": 8,
           "name": "प्राथमिक उपचार (फर्स्ट एड)",
-          "slug": "first-aid"
+          "slug": "first-aid",
+          "isActive": true
         },
         {
           "id": 97,
           "subject_id": 8,
           "name": "स्वास्थ्य और फिटनेस",
-          "slug": "health-and-fitness"
+          "slug": "health-and-fitness",
+          "isActive": true
         },
         {
           "id": 98,
           "subject_id": 8,
           "name": "मानव शरीर",
-          "slug": "human-body"
+          "slug": "human-body",
+          "isActive": true
         },
         {
           "id": 99,
           "subject_id": 8,
           "name": "चिकित्सा का इतिहास",
-          "slug": "medical-history"
+          "slug": "medical-history",
+          "isActive": true
         },
         {
           "id": 100,
           "subject_id": 8,
           "name": "चिकित्सा विज्ञान",
-          "slug": "medical-science"
+          "slug": "medical-science",
+          "isActive": true
         },
         {
           "id": 101,
           "subject_id": 8,
           "name": "मानसिक स्वास्थ्य",
-          "slug": "mental-health"
+          "slug": "mental-health",
+          "isActive": true
         },
         {
           "id": 102,
           "subject_id": 8,
           "name": "पोषण",
-          "slug": "nutrition"
+          "slug": "nutrition",
+          "isActive": true
         },
         {
           "id": 103,
           "subject_id": 8,
           "name": "औषध विज्ञान (फार्माकोलॉजी)",
-          "slug": "pharmacology"
+          "slug": "pharmacology",
+          "isActive": true
         },
         {
           "id": 104,
           "subject_id": 8,
           "name": "सार्वजनिक स्वास्थ्य",
-          "slug": "public-health"
+          "slug": "public-health",
+          "isActive": true
         },
         {
           "id": 105,
           "subject_id": 8,
           "name": "विटामिन और खनिज",
-          "slug": "vitamins-and-minerals"
+          "slug": "vitamins-and-minerals",
+          "isActive": true
         }
       ]
     },
@@ -700,78 +813,91 @@
       "name": "इतिहास",
       "slug": "history",
       "sub_subjects_length": 12,
+      "isActive": true,
       "sub_subjects": [
         {
           "id": 106,
           "subject_id": 9,
           "name": "प्राचीन सभ्यताएं",
-          "slug": "ancient-civilizations"
+          "slug": "ancient-civilizations",
+          "isActive": true
         },
         {
           "id": 107,
           "subject_id": 9,
           "name": "प्राचीन इतिहास",
-          "slug": "ancient-history"
+          "slug": "ancient-history",
+          "isActive": true
         },
         {
           "id": 108,
           "subject_id": 9,
           "name": "पुरातत्व",
-          "slug": "archaeology"
+          "slug": "archaeology",
+          "isActive": true
         },
         {
           "id": 109,
           "subject_id": 9,
           "name": "साम्राज्य और राजवंश",
-          "slug": "empires-and-dynasties"
+          "slug": "empires-and-dynasties",
+          "isActive": true
         },
         {
           "id": 110,
           "subject_id": 9,
           "name": "ऐतिहासिक घटनाएं",
-          "slug": "historical-events"
+          "slug": "historical-events",
+          "isActive": true
         },
         {
           "id": 111,
           "subject_id": 9,
           "name": "ऐतिहासिक व्यक्तित्व",
-          "slug": "historical-personalities"
+          "slug": "historical-personalities",
+          "isActive": true
         },
         {
           "id": 112,
           "subject_id": 9,
           "name": "सभ्यता का इतिहास",
-          "slug": "history-of-civilization"
+          "slug": "history-of-civilization",
+          "isActive": true
         },
         {
           "id": 113,
           "subject_id": 9,
           "name": "महत्वपूर्ण युद्ध",
-          "slug": "important-battles"
+          "slug": "important-battles",
+          "isActive": true
         },
         {
           "id": 114,
           "subject_id": 9,
           "name": "मध्यकालीन इतिहास",
-          "slug": "medieval-history"
+          "slug": "medieval-history",
+          "isActive": true
         },
         {
           "id": 115,
           "subject_id": 9,
           "name": "आधुनिक इतिहास",
-          "slug": "modern-history"
+          "slug": "modern-history",
+          "isActive": true
         },
         {
           "id": 116,
           "subject_id": 9,
           "name": "विश्व इतिहास",
-          "slug": "world-history"
+          "slug": "world-history",
+          "isActive": true
         },
         {
           "id": 117,
           "subject_id": 9,
           "name": "विश्व युद्ध",
-          "slug": "world-wars"
+          "slug": "world-wars",
+          "isActive": true
         }
       ]
     },
@@ -780,102 +906,119 @@
       "name": "गणित",
       "slug": "mathematics",
       "sub_subjects_length": 16,
+      "isActive": true,
       "sub_subjects": [
         {
           "id": 118,
           "subject_id": 10,
           "name": "बीजगणित",
-          "slug": "algebra"
+          "slug": "algebra",
+          "isActive": true
         },
         {
           "id": 119,
           "subject_id": 10,
           "name": "अंकगणित",
-          "slug": "arithmetic"
+          "slug": "arithmetic",
+          "isActive": true
         },
         {
           "id": 120,
           "subject_id": 10,
           "name": "बुनियादी गणित",
-          "slug": "basic-mathematics"
+          "slug": "basic-mathematics",
+          "isActive": true
         },
         {
           "id": 121,
           "subject_id": 10,
           "name": "ज्यामिति",
-          "slug": "geometry"
+          "slug": "geometry",
+          "isActive": true
         },
         {
           "id": 122,
           "subject_id": 10,
           "name": "क्षेत्रमिति",
-          "slug": "mensuration"
+          "slug": "mensuration",
+          "isActive": true
         },
         {
           "id": 123,
           "subject_id": 10,
           "name": "संख्या पद्धति",
-          "slug": "number-system"
+          "slug": "number-system",
+          "isActive": true
         },
         {
           "id": 124,
           "subject_id": 10,
           "name": "प्रतिशत",
-          "slug": "percentage"
+          "slug": "percentage",
+          "isActive": true
         },
         {
           "id": 125,
           "subject_id": 10,
           "name": "क्रमचय और संचय",
-          "slug": "permutation-and-combination"
+          "slug": "permutation-and-combination",
+          "isActive": true
         },
         {
           "id": 126,
           "subject_id": 10,
           "name": "प्रायिकता",
-          "slug": "probability"
+          "slug": "probability",
+          "isActive": true
         },
         {
           "id": 127,
           "subject_id": 10,
           "name": "लाभ और हानि",
-          "slug": "profit-and-loss"
+          "slug": "profit-and-loss",
+          "isActive": true
         },
         {
           "id": 128,
           "subject_id": 10,
           "name": "अनुपात और समानुपात",
-          "slug": "ratio-and-proportion"
+          "slug": "ratio-and-proportion",
+          "isActive": true
         },
         {
           "id": 129,
           "subject_id": 10,
           "name": "साधारण और चक्रवृद्धि ब्याज",
-          "slug": "simple-and-compound-interest"
+          "slug": "simple-and-compound-interest",
+          "isActive": true
         },
         {
           "id": 130,
           "subject_id": 10,
           "name": "चाल, समय और दूरी",
-          "slug": "speed-time-and-distance"
+          "slug": "speed-time-and-distance",
+          "isActive": true
         },
         {
           "id": 131,
           "subject_id": 10,
           "name": "सांख्यिकी",
-          "slug": "statistics"
+          "slug": "statistics",
+          "isActive": true
         },
         {
           "id": 132,
           "subject_id": 10,
           "name": "समय और कार्य",
-          "slug": "time-and-work"
+          "slug": "time-and-work",
+          "isActive": true
         },
         {
           "id": 133,
           "subject_id": 10,
           "name": "त्रिकोणमिति",
-          "slug": "trigonometry"
+          "slug": "trigonometry",
+          "isActive": true
         }
       ]
     },
@@ -884,96 +1027,112 @@
       "name": "तर्कशक्ति",
       "slug": "reasoning",
       "sub_subjects_length": 15,
+      "isActive": true,
       "sub_subjects": [
         {
           "id": 134,
           "subject_id": 11,
           "name": "वर्णमाला श्रृंखला",
-          "slug": "alphabet-series"
+          "slug": "alphabet-series",
+          "isActive": true
         },
         {
           "id": 135,
           "subject_id": 11,
           "name": "सादृश्यता (एनालॉजी)",
-          "slug": "analogy"
+          "slug": "analogy",
+          "isActive": true
         },
         {
           "id": 136,
           "subject_id": 11,
           "name": "रक्त संबंध",
-          "slug": "blood-relations"
+          "slug": "blood-relations",
+          "isActive": true
         },
         {
           "id": 137,
           "subject_id": 11,
           "name": "वर्गीकरण",
-          "slug": "classification"
+          "slug": "classification",
+          "isActive": true
         },
         {
           "id": 138,
           "subject_id": 11,
           "name": "कोडिंग और डिकोडिंग",
-          "slug": "coding-and-decoding"
+          "slug": "coding-and-decoding",
+          "isActive": true
         },
         {
           "id": 139,
           "subject_id": 11,
           "name": "दिशा ज्ञान परीक्षण",
-          "slug": "direction-sense"
+          "slug": "direction-sense",
+          "isActive": true
         },
         {
           "id": 140,
           "subject_id": 11,
           "name": "तार्किक तर्कशक्ति",
-          "slug": "logical-reasoning"
+          "slug": "logical-reasoning",
+          "isActive": true
         },
         {
           "id": 141,
           "subject_id": 11,
           "name": "अशाब्दिक तर्कशक्ति (नॉन-वर्बल)",
-          "slug": "non-verbal-reasoning"
+          "slug": "non-verbal-reasoning",
+          "isActive": true
         },
         {
           "id": 142,
           "subject_id": 11,
           "name": "संख्या श्रृंखला",
-          "slug": "number-series"
+          "slug": "number-series",
+          "isActive": true
         },
         {
           "id": 143,
           "subject_id": 11,
           "name": "पैटर्न पहचान",
-          "slug": "pattern-recognition"
+          "slug": "pattern-recognition",
+          "isActive": true
         },
         {
           "id": 144,
           "subject_id": 11,
           "name": "पहेलियाँ (पजल्स)",
-          "slug": "puzzles"
+          "slug": "puzzles",
+          "isActive": true
         },
         {
           "id": 145,
           "subject_id": 11,
           "name": "बैठक व्यवस्था",
-          "slug": "seating-arrangement"
+          "slug": "seating-arrangement",
+          "isActive": true
         },
         {
           "id": 146,
           "subject_id": 11,
           "name": "कथन और निष्कर्ष",
-          "slug": "statement-and-conclusion"
+          "slug": "statement-and-conclusion",
+          "isActive": true
         },
         {
           "id": 147,
           "subject_id": 11,
           "name": "न्याय वाक्य (सिलोगिज्म)",
-          "slug": "syllogism"
+          "slug": "syllogism",
+          "isActive": true
         },
         {
           "id": 148,
           "subject_id": 11,
           "name": "मौखिक तर्कशक्ति (वर्बल)",
-          "slug": "verbal-reasoning"
+          "slug": "verbal-reasoning",
+          "isActive": true
         }
       ]
     },
@@ -982,84 +1141,98 @@
       "name": "विज्ञान",
       "slug": "science",
       "sub_subjects_length": 13,
+      "isActive": true,
       "sub_subjects": [
         {
           "id": 149,
           "subject_id": 12,
           "name": "खगोल विज्ञान",
-          "slug": "astronomy"
+          "slug": "astronomy",
+          "isActive": true
         },
         {
           "id": 150,
           "subject_id": 12,
           "name": "जीव विज्ञान",
-          "slug": "biology"
+          "slug": "biology",
+          "isActive": true
         },
         {
           "id": 151,
           "subject_id": 12,
           "name": "वनस्पति विज्ञान",
-          "slug": "botany"
+          "slug": "botany",
+          "isActive": true
         },
         {
           "id": 152,
           "subject_id": 12,
           "name": "रसायन विज्ञान",
-          "slug": "chemistry"
+          "slug": "chemistry",
+          "isActive": true
         },
         {
           "id": 153,
           "subject_id": 12,
           "name": "पृथ्वी विज्ञान",
-          "slug": "earth-science"
+          "slug": "earth-science",
+          "isActive": true
         },
         {
           "id": 154,
           "subject_id": 12,
           "name": "पर्यावरण विज्ञान",
-          "slug": "environmental-science"
+          "slug": "environmental-science",
+          "isActive": true
         },
         {
           "id": 155,
           "subject_id": 12,
           "name": "सामान्य विज्ञान",
-          "slug": "general-science"
+          "slug": "general-science",
+          "isActive": true
         },
         {
           "id": 156,
           "subject_id": 12,
           "name": "आनुवंशिकी (जेनेटिक्स)",
-          "slug": "genetics"
+          "slug": "genetics",
+          "isActive": true
         },
         {
           "id": 157,
           "subject_id": 12,
           "name": "मानव जीव विज्ञान",
-          "slug": "human-biology"
+          "slug": "human-biology",
+          "isActive": true
         },
         {
           "id": 158,
           "subject_id": 12,
           "name": "सूक्ष्म जीव विज्ञान",
-          "slug": "microbiology"
+          "slug": "microbiology",
+          "isActive": true
         },
         {
           "id": 159,
           "subject_id": 12,
           "name": "भौतिक विज्ञान",
-          "slug": "physics"
+          "slug": "physics",
+          "isActive": true
         },
         {
           "id": 160,
           "subject_id": 12,
           "name": "विज्ञान और प्रौद्योगिकी",
-          "slug": "science-and-technology"
+          "slug": "science-and-technology",
+          "isActive": true
         },
         {
           "id": 161,
           "subject_id": 12,
           "name": "प्राणी विज्ञान (जूलॉजी)",
-          "slug": "zoology"
+          "slug": "zoology",
+          "isActive": true
         }
       ]
     },
@@ -1068,84 +1241,98 @@
       "name": "अंतरिक्ष और खगोल विज्ञान",
       "slug": "space-and-astronomy",
       "sub_subjects_length": 13,
+      "isActive": true,
       "sub_subjects": [
         {
           "id": 162,
           "subject_id": 13,
           "name": "खगोल विज्ञान का इतिहास",
-          "slug": "astronomy-history"
+          "slug": "astronomy-history",
+          "isActive": true
         },
         {
           "id": 163,
           "subject_id": 13,
           "name": "ब्लैक होल",
-          "slug": "black-holes"
+          "slug": "black-holes",
+          "isActive": true
         },
         {
           "id": 164,
           "subject_id": 13,
           "name": "ब्रह्मांड विज्ञान",
-          "slug": "cosmology"
+          "slug": "cosmology",
+          "isActive": true
         },
         {
           "id": 165,
           "subject_id": 13,
           "name": "आकाशगंगाएं",
-          "slug": "galaxies"
+          "slug": "galaxies",
+          "isActive": true
         },
         {
           "id": 166,
           "subject_id": 13,
           "name": "ग्रह",
-          "slug": "planets"
+          "slug": "planets",
+          "isActive": true
         },
         {
           "id": 167,
           "subject_id": 13,
           "name": "उपग्रह",
-          "slug": "satellites"
+          "slug": "satellites",
+          "isActive": true
         },
         {
           "id": 168,
           "subject_id": 13,
           "name": "सौर मंडल",
-          "slug": "solar-system"
+          "slug": "solar-system",
+          "isActive": true
         },
         {
           "id": 169,
           "subject_id": 13,
           "name": "अंतरिक्ष एजेंसियां",
-          "slug": "space-agencies"
+          "slug": "space-agencies",
+          "isActive": true
         },
         {
           "id": 170,
           "subject_id": 13,
           "name": "अंतरिक्ष अन्वेषण",
-          "slug": "space-exploration"
+          "slug": "space-exploration",
+          "isActive": true
         },
         {
           "id": 171,
           "subject_id": 13,
           "name": "अंतरिक्ष मिशन",
-          "slug": "space-missions"
+          "slug": "space-missions",
+          "isActive": true
         },
         {
           "id": 172,
           "subject_id": 13,
           "name": "अंतरिक्ष वैज्ञानिक",
-          "slug": "space-scientists"
+          "slug": "space-scientists",
+          "isActive": true
         },
         {
           "id": 173,
           "subject_id": 13,
           "name": "तारे और नक्षत्र",
-          "slug": "stars"
+          "slug": "stars",
+          "isActive": true
         },
         {
           "id": 174,
           "subject_id": 13,
           "name": "ब्रह्मांड",
-          "slug": "universe"
+          "slug": "universe",
+          "isActive": true
         }
       ]
     },
@@ -1154,96 +1341,112 @@
       "name": "खेलकूद",
       "slug": "sports",
       "sub_subjects_length": 15,
+      "isActive": true,
       "sub_subjects": [
         {
           "id": 175,
           "subject_id": 14,
           "name": "एथलेटिक्स",
-          "slug": "athletics"
+          "slug": "athletics",
+          "isActive": true
         },
         {
           "id": 176,
           "subject_id": 14,
           "name": "बैडमिंटन",
-          "slug": "badminton"
+          "slug": "badminton",
+          "isActive": true
         },
         {
           "id": 177,
           "subject_id": 14,
           "name": "बास्केटबॉल",
-          "slug": "basketball"
+          "slug": "basketball",
+          "isActive": true
         },
         {
           "id": 178,
           "subject_id": 14,
           "name": "शतरंज (चेस)",
-          "slug": "chess"
+          "slug": "chess",
+          "isActive": true
         },
         {
           "id": 179,
           "subject_id": 14,
           "name": "क्रिकेट",
-          "slug": "cricket"
+          "slug": "cricket",
+          "isActive": true
         },
         {
           "id": 180,
           "subject_id": 14,
           "name": "रोमांचक खेल",
-          "slug": "extreme-sports"
+          "slug": "extreme-sports",
+          "isActive": true
         },
         {
           "id": 181,
           "subject_id": 14,
           "name": "फ़ुटबॉल",
-          "slug": "football"
+          "slug": "football",
+          "isActive": true
         },
         {
           "id": 182,
           "subject_id": 14,
           "name": "फॉर्मूला 1",
-          "slug": "formula-1"
+          "slug": "formula-1",
+          "isActive": true
         },
         {
           "id": 183,
           "subject_id": 14,
           "name": "हॉकी",
-          "slug": "hockey"
+          "slug": "hockey",
+          "isActive": true
         },
         {
           "id": 184,
           "subject_id": 14,
           "name": "ओलंपिक खेल",
-          "slug": "olympics"
+          "slug": "olympics",
+          "isActive": true
         },
         {
           "id": 185,
           "subject_id": 14,
           "name": "खेल हस्तियां",
-          "slug": "sports-personalities"
+          "slug": "sports-personalities",
+          "isActive": true
         },
         {
           "id": 186,
           "subject_id": 14,
           "name": "खेल रिकॉर्ड",
-          "slug": "sports-records"
+          "slug": "sports-records",
+          "isActive": true
         },
         {
           "id": 187,
           "subject_id": 14,
           "name": "खेल के नियम",
-          "slug": "sports-rules"
+          "slug": "sports-rules",
+          "isActive": true
         },
         {
           "id": 188,
           "subject_id": 14,
           "name": "टेनिस",
-          "slug": "tennis"
+          "slug": "tennis",
+          "isActive": true
         },
         {
           "id": 189,
           "subject_id": 14,
           "name": "टूर्नामेंट और कप",
-          "slug": "tournaments-and-cups"
+          "slug": "tournaments-and-cups",
+          "isActive": true
         }
       ]
     },
@@ -1252,90 +1455,105 @@
       "name": "प्रौद्योगिकी",
       "slug": "technology",
       "sub_subjects_length": 14,
+      "isActive": true,
       "sub_subjects": [
         {
           "id": 190,
           "subject_id": 15,
           "name": "3D प्रिंटिंग",
-          "slug": "3d-printing"
+          "slug": "3d-printing",
+          "isActive": true
         },
         {
           "id": 191,
           "subject_id": 15,
           "name": "कृत्रिम बुद्धिमत्ता (AI)",
-          "slug": "artificial-intelligence"
+          "slug": "artificial-intelligence",
+          "isActive": true
         },
         {
           "id": 192,
           "subject_id": 15,
           "name": "ऑगमेंटेड रियलिटी (AR)",
-          "slug": "augmented-reality"
+          "slug": "augmented-reality",
+          "isActive": true
         },
         {
           "id": 193,
           "subject_id": 15,
           "name": "जैव प्रौद्योगिकी (बायोटेक्नोलॉजी)",
-          "slug": "biotechnology"
+          "slug": "biotechnology",
+          "isActive": true
         },
         {
           "id": 194,
           "subject_id": 15,
           "name": "ब्लॉकचेन",
-          "slug": "blockchain"
+          "slug": "blockchain",
+          "isActive": true
         },
         {
           "id": 195,
           "subject_id": 15,
           "name": "साइबर सुरक्षा",
-          "slug": "cyber-security"
+          "slug": "cyber-security",
+          "isActive": true
         },
         {
           "id": 196,
           "subject_id": 15,
           "name": "इलेक्ट्रिक वाहन (EV)",
-          "slug": "electric-vehicles"
+          "slug": "electric-vehicles",
+          "isActive": true
         },
         {
           "id": 197,
           "subject_id": 15,
           "name": "उभरती हुई प्रौद्योगिकी",
-          "slug": "emerging-technology"
+          "slug": "emerging-technology",
+          "isActive": true
         },
         {
           "id": 198,
           "subject_id": 15,
           "name": "गैजेट्स और उपकरण",
-          "slug": "gadgets"
+          "slug": "gadgets",
+          "isActive": true
         },
         {
           "id": 199,
           "subject_id": 15,
           "name": "इंटरनेट ऑफ थिंग्स (IoT)",
-          "slug": "internet-of-things"
+          "slug": "internet-of-things",
+          "isActive": true
         },
         {
           "id": 200,
           "subject_id": 15,
           "name": "रोबोटिक्स",
-          "slug": "robotics"
+          "slug": "robotics",
+          "isActive": true
         },
         {
           "id": 201,
           "subject_id": 15,
           "name": "स्मार्टफोन",
-          "slug": "smartphones"
+          "slug": "smartphones",
+          "isActive": true
         },
         {
           "id": 202,
           "subject_id": 15,
           "name": "अंतरिक्ष प्रौद्योगिकी",
-          "slug": "space-technology"
+          "slug": "space-technology",
+          "isActive": true
         },
         {
           "id": 203,
           "subject_id": 15,
           "name": "वर्चुअल रियलिटी (VR)",
-          "slug": "virtual-reality"
+          "slug": "virtual-reality",
+          "isActive": true
         }
       ]
     },
@@ -1344,84 +1562,98 @@
       "name": "वाहन और परिवहन",
       "slug": "vehicles-and-transport",
       "sub_subjects_length": 13,
+      "isActive": true,
       "sub_subjects": [
         {
           "id": 204,
           "subject_id": 16,
           "name": "विमान और हवाई जहाज",
-          "slug": "aircraft"
+          "slug": "aircraft",
+          "isActive": true
         },
         {
           "id": 205,
           "subject_id": 16,
           "name": "ऑटोमोबाइल",
-          "slug": "automobiles"
+          "slug": "automobiles",
+          "isActive": true
         },
         {
           "id": 206,
           "subject_id": 16,
           "name": "ऑटोमोटिव तकनीक",
-          "slug": "automotive-technology"
+          "slug": "automotive-technology",
+          "isActive": true
         },
         {
           "id": 207,
           "subject_id": 16,
           "name": "विमानन (एविएशन)",
-          "slug": "aviation"
+          "slug": "aviation",
+          "isActive": true
         },
         {
           "id": 208,
           "subject_id": 16,
           "name": "कारें",
-          "slug": "cars"
+          "slug": "cars",
+          "isActive": true
         },
         {
           "id": 209,
           "subject_id": 16,
           "name": "इलेक्ट्रिक वाहन",
-          "slug": "electric-vehicles"
+          "slug": "electric-vehicles",
+          "isActive": true
         },
         {
           "id": 210,
           "subject_id": 16,
           "name": "प्रसिद्ध वाहन",
-          "slug": "famous-vehicles"
+          "slug": "famous-vehicles",
+          "isActive": true
         },
         {
           "id": 211,
           "subject_id": 16,
           "name": "मोटरसाइकिल",
-          "slug": "motorcycles"
+          "slug": "motorcycles",
+          "isActive": true
         },
         {
           "id": 212,
           "subject_id": 16,
           "name": "रेलवे",
-          "slug": "railways"
+          "slug": "railways",
+          "isActive": true
         },
         {
           "id": 213,
           "subject_id": 16,
           "name": "सड़क परिवहन",
-          "slug": "road-transport"
+          "slug": "road-transport",
+          "isActive": true
         },
         {
           "id": 214,
           "subject_id": 16,
           "name": "जहाज और नावें",
-          "slug": "ships-and-boats"
+          "slug": "ships-and-boats",
+          "isActive": true
         },
         {
           "id": 215,
           "subject_id": 16,
           "name": "यातायात और सड़क सुरक्षा",
-          "slug": "traffic-and-road-safety"
+          "slug": "traffic-and-road-safety",
+          "isActive": true
         },
         {
           "id": 216,
           "subject_id": 16,
           "name": "परिवहन का इतिहास",
-          "slug": "transport-history"
+          "slug": "transport-history",
+          "isActive": true
         }
       ]
     }
