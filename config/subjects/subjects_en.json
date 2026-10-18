@@ -13,93 +13,107 @@
           "subject_id": 1,
           "name": "Average",
           "slug": "average",
-          "isActive": true
+          "isActive": true,
+          "emoji": "⚖️"
         },
         {
           "id": 2,
           "subject_id": 1,
           "name": "Data Interpretation",
           "slug": "data-interpretation",
-          "isActive": true
+          "isActive": true,
+          "emoji": "📊"
         },
         {
           "id": 3,
           "subject_id": 1,
           "name": "Data Sufficiency",
           "slug": "data-sufficiency",
-          "isActive": true
+          "isActive": true,
+          "emoji": "✅"
         },
         {
           "id": 4,
           "subject_id": 1,
           "name": "Numerical Ability",
           "slug": "numerical-ability",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🔢"
         },
         {
           "id": 5,
           "subject_id": 1,
           "name": "Percentage",
           "slug": "percentage",
-          "isActive": true
+          "isActive": true,
+          "emoji": "📉"
         },
         {
           "id": 6,
           "subject_id": 1,
           "name": "Permutation and Combination",
           "slug": "permutation-and-combination",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🎲"
         },
         {
           "id": 7,
           "subject_id": 1,
           "name": "Probability",
           "slug": "probability",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🎯"
         },
         {
           "id": 8,
           "subject_id": 1,
           "name": "Profit and Loss",
           "slug": "profit-and-loss",
-          "isActive": true
+          "isActive": true,
+          "emoji": "💰"
         },
         {
           "id": 9,
           "subject_id": 1,
           "name": "Quantitative Aptitude",
           "slug": "quantitative-aptitude",
-          "isActive": true
+          "isActive": true,
+          "emoji": "📏"
         },
         {
           "id": 10,
           "subject_id": 1,
           "name": "Ratio and Proportion",
           "slug": "ratio-and-proportion",
-          "isActive": true
+          "isActive": true,
+          "emoji": "⚖️"
         },
         {
           "id": 11,
           "subject_id": 1,
           "name": "Simple and Compound Interest",
           "slug": "simple-and-compound-interest",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🏦"
         },
         {
           "id": 12,
           "subject_id": 1,
           "name": "Time and Distance",
           "slug": "time-and-distance",
-          "isActive": true
+          "isActive": true,
+          "emoji": "⏱️"
         },
         {
           "id": 13,
           "subject_id": 1,
           "name": "Time and Work",
           "slug": "time-and-work",
-          "isActive": true
+          "isActive": true,
+          "emoji": "⏳"
         }
-      ]
+      ],
+      "emoji": "🧠"
     },
     {
       "id": 2,
@@ -113,100 +127,115 @@
           "subject_id": 2,
           "name": "Architecture",
           "slug": "architecture",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🏛️"
         },
         {
           "id": 15,
           "subject_id": 2,
           "name": "Cinema",
           "slug": "cinema",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🎬"
         },
         {
           "id": 16,
           "subject_id": 2,
           "name": "Classical Dance",
           "slug": "classical-dance",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🩰"
         },
         {
           "id": 17,
           "subject_id": 2,
           "name": "Cultural Heritage",
           "slug": "cultural-heritage",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🛕"
         },
         {
           "id": 18,
           "subject_id": 2,
           "name": "Festivals",
           "slug": "festivals",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🎉"
         },
         {
           "id": 19,
           "subject_id": 2,
           "name": "Folk Dance",
           "slug": "folk-dance",
-          "isActive": true
+          "isActive": true,
+          "emoji": "💃"
         },
         {
           "id": 20,
           "subject_id": 2,
           "name": "Music",
           "slug": "music",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🎵"
         },
         {
           "id": 21,
           "subject_id": 2,
           "name": "Musical Instruments",
           "slug": "musical-instruments",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🎸"
         },
         {
           "id": 22,
           "subject_id": 2,
           "name": "Paintings",
           "slug": "paintings",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🖼️"
         },
         {
           "id": 23,
           "subject_id": 2,
           "name": "Sculpture",
           "slug": "sculpture",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🗿"
         },
         {
           "id": 24,
           "subject_id": 2,
           "name": "Theater",
           "slug": "theater",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🎭"
         },
         {
           "id": 25,
           "subject_id": 2,
           "name": "World Art",
           "slug": "world-art",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🎨"
         },
         {
           "id": 26,
           "subject_id": 2,
           "name": "World Culture",
           "slug": "world-culture",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🎪"
         },
         {
           "id": 27,
           "subject_id": 2,
           "name": "World Literature",
           "slug": "world-literature",
-          "isActive": true
+          "isActive": true,
+          "emoji": "📚"
         }
-      ]
+      ],
+      "emoji": "🎨"
     },
     {
       "id": 3,
@@ -220,114 +249,131 @@
           "subject_id": 3,
           "name": "Artificial Intelligence",
           "slug": "artificial-intelligence",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🤖"
         },
         {
           "id": 29,
           "subject_id": 3,
           "name": "Cloud Computing",
           "slug": "cloud-computing",
-          "isActive": true
+          "isActive": true,
+          "emoji": "☁️"
         },
         {
           "id": 30,
           "subject_id": 3,
           "name": "Computer Fundamentals",
           "slug": "computer-fundamentals",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🖥️"
         },
         {
           "id": 31,
           "subject_id": 3,
           "name": "Computer General Knowledge",
           "slug": "computer-general-knowledge",
-          "isActive": true
+          "isActive": true,
+          "emoji": "💾"
         },
         {
           "id": 32,
           "subject_id": 3,
           "name": "Computer Hardware",
           "slug": "computer-hardware",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🖲️"
         },
         {
           "id": 33,
           "subject_id": 3,
           "name": "Computer History",
           "slug": "computer-history",
-          "isActive": true
+          "isActive": true,
+          "emoji": "📼"
         },
         {
           "id": 34,
           "subject_id": 3,
           "name": "Computer Networks",
           "slug": "computer-networks",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🌐"
         },
         {
           "id": 35,
           "subject_id": 3,
           "name": "Computer Software",
           "slug": "computer-software",
-          "isActive": true
+          "isActive": true,
+          "emoji": "⚙️"
         },
         {
           "id": 36,
           "subject_id": 3,
           "name": "Cyber Security",
           "slug": "cyber-security",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🔒"
         },
         {
           "id": 37,
           "subject_id": 3,
           "name": "Data Structures and Algorithms",
           "slug": "data-structures-and-algorithms",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🌳"
         },
         {
           "id": 38,
           "subject_id": 3,
           "name": "Database",
           "slug": "database",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🗄️"
         },
         {
           "id": 39,
           "subject_id": 3,
           "name": "Information Technology",
           "slug": "information-technology",
-          "isActive": true
+          "isActive": true,
+          "emoji": "📱"
         },
         {
           "id": 40,
           "subject_id": 3,
           "name": "Internet and Web",
           "slug": "internet-and-web",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🕸️"
         },
         {
           "id": 41,
           "subject_id": 3,
           "name": "Machine Learning",
           "slug": "machine-learning",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🧠"
         },
         {
           "id": 42,
           "subject_id": 3,
           "name": "Operating Systems",
           "slug": "operating-systems",
-          "isActive": true
+          "isActive": true,
+          "emoji": "💻"
         },
         {
           "id": 43,
           "subject_id": 3,
           "name": "Programming",
           "slug": "programming",
-          "isActive": true
+          "isActive": true,
+          "emoji": "⌨️"
         }
-      ]
+      ],
+      "emoji": "💻"
     },
     {
       "id": 4,
@@ -341,86 +387,99 @@
           "subject_id": 4,
           "name": "Banking",
           "slug": "banking",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🏦"
         },
         {
           "id": 45,
           "subject_id": 4,
           "name": "Business and Commerce",
           "slug": "business-and-commerce",
-          "isActive": true
+          "isActive": true,
+          "emoji": "💼"
         },
         {
           "id": 46,
           "subject_id": 4,
           "name": "Economics Fundamentals",
           "slug": "economics-fundamentals",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🪙"
         },
         {
           "id": 47,
           "subject_id": 4,
           "name": "Financial Markets",
           "slug": "financial-markets",
-          "isActive": true
+          "isActive": true,
+          "emoji": "📉"
         },
         {
           "id": 48,
           "subject_id": 4,
           "name": "GDP and Economic Indicators",
           "slug": "gdp-and-economic-indicators",
-          "isActive": true
+          "isActive": true,
+          "emoji": "📊"
         },
         {
           "id": 49,
           "subject_id": 4,
           "name": "Global Economy",
           "slug": "global-economy",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🌐"
         },
         {
           "id": 50,
           "subject_id": 4,
           "name": "Inflation",
           "slug": "inflation",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🎈"
         },
         {
           "id": 51,
           "subject_id": 4,
           "name": "International Trade",
           "slug": "international-trade",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🚢"
         },
         {
           "id": 52,
           "subject_id": 4,
           "name": "Investment Fundamentals",
           "slug": "investment-fundamentals",
-          "isActive": true
+          "isActive": true,
+          "emoji": "💎"
         },
         {
           "id": 53,
           "subject_id": 4,
           "name": "Money and Currency",
           "slug": "money-and-currency",
-          "isActive": true
+          "isActive": true,
+          "emoji": "💵"
         },
         {
           "id": 54,
           "subject_id": 4,
           "name": "Personal Finance",
           "slug": "personal-finance",
-          "isActive": true
+          "isActive": true,
+          "emoji": "💳"
         },
         {
           "id": 55,
           "subject_id": 4,
           "name": "Supply and Demand",
           "slug": "supply-and-demand",
-          "isActive": true
+          "isActive": true,
+          "emoji": "⚖️"
         }
-      ]
+      ],
+      "emoji": "📈"
     },
     {
       "id": 5,
@@ -434,86 +493,99 @@
           "subject_id": 5,
           "name": "Biodiversity",
           "slug": "biodiversity",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🦋"
         },
         {
           "id": 57,
           "subject_id": 5,
           "name": "Climate Change",
           "slug": "climate-change",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🌡️"
         },
         {
           "id": 58,
           "subject_id": 5,
           "name": "Conservation",
           "slug": "conservation",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🌲"
         },
         {
           "id": 59,
           "subject_id": 5,
           "name": "Ecology",
           "slug": "ecology",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🍀"
         },
         {
           "id": 60,
           "subject_id": 5,
           "name": "Ecosystems",
           "slug": "ecosystems",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🌿"
         },
         {
           "id": 61,
           "subject_id": 5,
           "name": "Forests",
           "slug": "forests",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🌳"
         },
         {
           "id": 62,
           "subject_id": 5,
           "name": "Global Warming",
           "slug": "global-warming",
-          "isActive": true
+          "isActive": true,
+          "emoji": "☀️"
         },
         {
           "id": 63,
           "subject_id": 5,
           "name": "Natural Disasters",
           "slug": "natural-disasters",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🌪️"
         },
         {
           "id": 64,
           "subject_id": 5,
           "name": "Pollution",
           "slug": "pollution",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🏭"
         },
         {
           "id": 65,
           "subject_id": 5,
           "name": "Renewable Energy",
           "slug": "renewable-energy",
-          "isActive": true
+          "isActive": true,
+          "emoji": "⚡"
         },
         {
           "id": 66,
           "subject_id": 5,
           "name": "Sustainable Development",
           "slug": "sustainable-development",
-          "isActive": true
+          "isActive": true,
+          "emoji": "♻️"
         },
         {
           "id": 67,
           "subject_id": 5,
           "name": "Wildlife",
           "slug": "wildlife",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🐅"
         }
-      ]
+      ],
+      "emoji": "🌱"
     },
     {
       "id": 6,
@@ -527,93 +599,107 @@
           "subject_id": 6,
           "name": "Awards and Honors",
           "slug": "awards-and-honors",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🏅"
         },
         {
           "id": 69,
           "subject_id": 6,
           "name": "Books and Authors",
           "slug": "books-and-authors",
-          "isActive": true
+          "isActive": true,
+          "emoji": "📖"
         },
         {
           "id": 70,
           "subject_id": 6,
           "name": "Countries and Capitals",
           "slug": "countries-and-capitals",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🚩"
         },
         {
           "id": 71,
           "subject_id": 6,
           "name": "Currencies",
           "slug": "currencies",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🪙"
         },
         {
           "id": 72,
           "subject_id": 6,
           "name": "Current Affairs",
           "slug": "current-affairs",
-          "isActive": true
+          "isActive": true,
+          "emoji": "📰"
         },
         {
           "id": 73,
           "subject_id": 6,
           "name": "Famous Personalities",
           "slug": "famous-personalities",
-          "isActive": true
+          "isActive": true,
+          "emoji": "⭐"
         },
         {
           "id": 74,
           "subject_id": 6,
           "name": "Famous Places",
           "slug": "famous-places",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🗽"
         },
         {
           "id": 75,
           "subject_id": 6,
           "name": "Historical Events",
           "slug": "historical-events",
-          "isActive": true
+          "isActive": true,
+          "emoji": "📅"
         },
         {
           "id": 76,
           "subject_id": 6,
           "name": "Important Days",
           "slug": "important-days",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🗓️"
         },
         {
           "id": 77,
           "subject_id": 6,
           "name": "International Organizations",
           "slug": "international-organizations",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🌐"
         },
         {
           "id": 78,
           "subject_id": 6,
           "name": "Inventions and Discoveries",
           "slug": "inventions-and-discoveries",
-          "isActive": true
+          "isActive": true,
+          "emoji": "💡"
         },
         {
           "id": 79,
           "subject_id": 6,
           "name": "World General Knowledge",
           "slug": "world-general-knowledge",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🔍"
         },
         {
           "id": 80,
           "subject_id": 6,
           "name": "World Records",
           "slug": "world-records",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🎖️"
         }
-      ]
+      ],
+      "emoji": "💡"
     },
     {
       "id": 7,
@@ -627,93 +713,107 @@
           "subject_id": 7,
           "name": "Agriculture",
           "slug": "agriculture",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🌾"
         },
         {
           "id": 82,
           "subject_id": 7,
           "name": "Climate",
           "slug": "climate",
-          "isActive": true
+          "isActive": true,
+          "emoji": "⛅"
         },
         {
           "id": 83,
           "subject_id": 7,
           "name": "Continents and Oceans",
           "slug": "continents-and-oceans",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🌊"
         },
         {
           "id": 84,
           "subject_id": 7,
           "name": "Countries and Locations",
           "slug": "countries-and-locations",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🗺️"
         },
         {
           "id": 85,
           "subject_id": 7,
           "name": "Landforms",
           "slug": "landforms",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🏜️"
         },
         {
           "id": 86,
           "subject_id": 7,
           "name": "Maps and Cartography",
           "slug": "maps-and-cartography",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🧭"
         },
         {
           "id": 87,
           "subject_id": 7,
           "name": "Mountains and Peaks",
           "slug": "mountains-and-peaks",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🏔️"
         },
         {
           "id": 88,
           "subject_id": 7,
           "name": "Natural Disasters",
           "slug": "natural-disasters",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🌋"
         },
         {
           "id": 89,
           "subject_id": 7,
           "name": "Natural Resources",
           "slug": "natural-resources",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🛢️"
         },
         {
           "id": 90,
           "subject_id": 7,
           "name": "Population and Demographics",
           "slug": "population-and-demographics",
-          "isActive": true
+          "isActive": true,
+          "emoji": "👥"
         },
         {
           "id": 91,
           "subject_id": 7,
           "name": "Rivers and Lakes",
           "slug": "rivers-and-lakes",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🏞️"
         },
         {
           "id": 92,
           "subject_id": 7,
           "name": "Weather",
           "slug": "weather",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🌧️"
         },
         {
           "id": 93,
           "subject_id": 7,
           "name": "World Geography",
           "slug": "world-geography",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🌎"
         }
-      ]
+      ],
+      "emoji": "🌍"
     },
     {
       "id": 8,
@@ -727,86 +827,99 @@
           "subject_id": 8,
           "name": "Anatomy",
           "slug": "anatomy",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🫀"
         },
         {
           "id": 95,
           "subject_id": 8,
           "name": "Diseases",
           "slug": "diseases",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🦠"
         },
         {
           "id": 96,
           "subject_id": 8,
           "name": "First Aid",
           "slug": "first-aid",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🩹"
         },
         {
           "id": 97,
           "subject_id": 8,
           "name": "Health and Fitness",
           "slug": "health-and-fitness",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🏋️"
         },
         {
           "id": 98,
           "subject_id": 8,
           "name": "Human Body",
           "slug": "human-body",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🦴"
         },
         {
           "id": 99,
           "subject_id": 8,
           "name": "Medical History",
           "slug": "medical-history",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🩸"
         },
         {
           "id": 100,
           "subject_id": 8,
           "name": "Medical Science",
           "slug": "medical-science",
-          "isActive": true
+          "isActive": true,
+          "emoji": "💉"
         },
         {
           "id": 101,
           "subject_id": 8,
           "name": "Mental Health",
           "slug": "mental-health",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🧠"
         },
         {
           "id": 102,
           "subject_id": 8,
           "name": "Nutrition",
           "slug": "nutrition",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🍏"
         },
         {
           "id": 103,
           "subject_id": 8,
           "name": "Pharmacology",
           "slug": "pharmacology",
-          "isActive": true
+          "isActive": true,
+          "emoji": "💊"
         },
         {
           "id": 104,
           "subject_id": 8,
           "name": "Public Health",
           "slug": "public-health",
-          "isActive": true
+          "isActive": true,
+          "emoji": "😷"
         },
         {
           "id": 105,
           "subject_id": 8,
           "name": "Vitamins and Minerals",
           "slug": "vitamins-and-minerals",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🍊"
         }
-      ]
+      ],
+      "emoji": "🩺"
     },
     {
       "id": 9,
@@ -820,86 +933,99 @@
           "subject_id": 9,
           "name": "Ancient Civilizations",
           "slug": "ancient-civilizations",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🏺"
         },
         {
           "id": 107,
           "subject_id": 9,
           "name": "Ancient History",
           "slug": "ancient-history",
-          "isActive": true
+          "isActive": true,
+          "emoji": "📜"
         },
         {
           "id": 108,
           "subject_id": 9,
           "name": "Archaeology",
           "slug": "archaeology",
-          "isActive": true
+          "isActive": true,
+          "emoji": "⛏️"
         },
         {
           "id": 109,
           "subject_id": 9,
           "name": "Empires and Dynasties",
           "slug": "empires-and-dynasties",
-          "isActive": true
+          "isActive": true,
+          "emoji": "👑"
         },
         {
           "id": 110,
           "subject_id": 9,
           "name": "Historical Events",
           "slug": "historical-events",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🗓️"
         },
         {
           "id": 111,
           "subject_id": 9,
           "name": "Historical Personalities",
           "slug": "historical-personalities",
-          "isActive": true
+          "isActive": true,
+          "emoji": "👤"
         },
         {
           "id": 112,
           "subject_id": 9,
           "name": "History of Civilization",
           "slug": "history-of-civilization",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🏰"
         },
         {
           "id": 113,
           "subject_id": 9,
           "name": "Important Battles",
           "slug": "important-battles",
-          "isActive": true
+          "isActive": true,
+          "emoji": "⚔️"
         },
         {
           "id": 114,
           "subject_id": 9,
           "name": "Medieval History",
           "slug": "medieval-history",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🛡️"
         },
         {
           "id": 115,
           "subject_id": 9,
           "name": "Modern History",
           "slug": "modern-history",
-          "isActive": true
+          "isActive": true,
+          "emoji": "⏰"
         },
         {
           "id": 116,
           "subject_id": 9,
           "name": "World History",
           "slug": "world-history",
-          "isActive": true
+          "isActive": true,
+          "emoji": "⌛"
         },
         {
           "id": 117,
           "subject_id": 9,
           "name": "World Wars",
           "slug": "world-wars",
-          "isActive": true
+          "isActive": true,
+          "emoji": "💣"
         }
-      ]
+      ],
+      "emoji": "🏛️"
     },
     {
       "id": 10,
@@ -913,114 +1039,131 @@
           "subject_id": 10,
           "name": "Algebra",
           "slug": "algebra",
-          "isActive": true
+          "isActive": true,
+          "emoji": "✖️"
         },
         {
           "id": 119,
           "subject_id": 10,
           "name": "Arithmetic",
           "slug": "arithmetic",
-          "isActive": true
+          "isActive": true,
+          "emoji": "➕"
         },
         {
           "id": 120,
           "subject_id": 10,
           "name": "Basic Mathematics",
           "slug": "basic-mathematics",
-          "isActive": true
+          "isActive": true,
+          "emoji": "📐"
         },
         {
           "id": 121,
           "subject_id": 10,
           "name": "Geometry",
           "slug": "geometry",
-          "isActive": true
+          "isActive": true,
+          "emoji": "📏"
         },
         {
           "id": 122,
           "subject_id": 10,
           "name": "Mensuration",
           "slug": "mensuration",
-          "isActive": true
+          "isActive": true,
+          "emoji": "📐"
         },
         {
           "id": 123,
           "subject_id": 10,
           "name": "Number System",
           "slug": "number-system",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🔟"
         },
         {
           "id": 124,
           "subject_id": 10,
           "name": "Percentage",
           "slug": "percentage",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🔣"
         },
         {
           "id": 125,
           "subject_id": 10,
           "name": "Permutation and Combination",
           "slug": "permutation-and-combination",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🎲"
         },
         {
           "id": 126,
           "subject_id": 10,
           "name": "Probability",
           "slug": "probability",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🪄"
         },
         {
           "id": 127,
           "subject_id": 10,
           "name": "Profit and Loss",
           "slug": "profit-and-loss",
-          "isActive": true
+          "isActive": true,
+          "emoji": "📈"
         },
         {
           "id": 128,
           "subject_id": 10,
           "name": "Ratio and Proportion",
           "slug": "ratio-and-proportion",
-          "isActive": true
+          "isActive": true,
+          "emoji": "⚖️"
         },
         {
           "id": 129,
           "subject_id": 10,
           "name": "Simple and Compound Interest",
           "slug": "simple-and-compound-interest",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🪙"
         },
         {
           "id": 130,
           "subject_id": 10,
           "name": "Speed Time and Distance",
           "slug": "speed-time-and-distance",
-          "isActive": true
+          "isActive": true,
+          "emoji": "⏱️"
         },
         {
           "id": 131,
           "subject_id": 10,
           "name": "Statistics",
           "slug": "statistics",
-          "isActive": true
+          "isActive": true,
+          "emoji": "📊"
         },
         {
           "id": 132,
           "subject_id": 10,
           "name": "Time and Work",
           "slug": "time-and-work",
-          "isActive": true
+          "isActive": true,
+          "emoji": "⏲️"
         },
         {
           "id": 133,
           "subject_id": 10,
           "name": "Trigonometry",
           "slug": "trigonometry",
-          "isActive": true
+          "isActive": true,
+          "emoji": "📐"
         }
-      ]
+      ],
+      "emoji": "📐"
     },
     {
       "id": 11,
@@ -1034,107 +1177,123 @@
           "subject_id": 11,
           "name": "Alphabet Series",
           "slug": "alphabet-series",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🔤"
         },
         {
           "id": 135,
           "subject_id": 11,
           "name": "Analogy",
           "slug": "analogy",
-          "isActive": true
+          "isActive": true,
+          "emoji": "✨"
         },
         {
           "id": 136,
           "subject_id": 11,
           "name": "Blood Relations",
           "slug": "blood-relations",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🤝"
         },
         {
           "id": 137,
           "subject_id": 11,
           "name": "Classification",
           "slug": "classification",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🗃️"
         },
         {
           "id": 138,
           "subject_id": 11,
           "name": "Coding and Decoding",
           "slug": "coding-and-decoding",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🔐"
         },
         {
           "id": 139,
           "subject_id": 11,
           "name": "Direction Sense",
           "slug": "direction-sense",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🧭"
         },
         {
           "id": 140,
           "subject_id": 11,
           "name": "Logical Reasoning",
           "slug": "logical-reasoning",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🧠"
         },
         {
           "id": 141,
           "subject_id": 11,
           "name": "Non-Verbal Reasoning",
           "slug": "non-verbal-reasoning",
-          "isActive": true
+          "isActive": true,
+          "emoji": "👁️"
         },
         {
           "id": 142,
           "subject_id": 11,
           "name": "Number Series",
           "slug": "number-series",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🔢"
         },
         {
           "id": 143,
           "subject_id": 11,
           "name": "Pattern Recognition",
           "slug": "pattern-recognition",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🎯"
         },
         {
           "id": 144,
           "subject_id": 11,
           "name": "Puzzles",
           "slug": "puzzles",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🧩"
         },
         {
           "id": 145,
           "subject_id": 11,
           "name": "Seating Arrangement",
           "slug": "seating-arrangement",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🪑"
         },
         {
           "id": 146,
           "subject_id": 11,
           "name": "Statement and Conclusion",
           "slug": "statement-and-conclusion",
-          "isActive": true
+          "isActive": true,
+          "emoji": "📝"
         },
         {
           "id": 147,
           "subject_id": 11,
           "name": "Syllogism",
           "slug": "syllogism",
-          "isActive": true
+          "isActive": true,
+          "emoji": "💭"
         },
         {
           "id": 148,
           "subject_id": 11,
           "name": "Verbal Reasoning",
           "slug": "verbal-reasoning",
-          "isActive": true
+          "isActive": true,
+          "emoji": "💬"
         }
-      ]
+      ],
+      "emoji": "🧩"
     },
     {
       "id": 12,
@@ -1148,93 +1307,107 @@
           "subject_id": 12,
           "name": "Astronomy",
           "slug": "astronomy",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🔭"
         },
         {
           "id": 150,
           "subject_id": 12,
           "name": "Biology",
           "slug": "biology",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🧬"
         },
         {
           "id": 151,
           "subject_id": 12,
           "name": "Botany",
           "slug": "botany",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🌺"
         },
         {
           "id": 152,
           "subject_id": 12,
           "name": "Chemistry",
           "slug": "chemistry",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🧪"
         },
         {
           "id": 153,
           "subject_id": 12,
           "name": "Earth Science",
           "slug": "earth-science",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🌋"
         },
         {
           "id": 154,
           "subject_id": 12,
           "name": "Environmental Science",
           "slug": "environmental-science",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🌿"
         },
         {
           "id": 155,
           "subject_id": 12,
           "name": "General Science",
           "slug": "general-science",
-          "isActive": true
+          "isActive": true,
+          "emoji": "⚗️"
         },
         {
           "id": 156,
           "subject_id": 12,
           "name": "Genetics",
           "slug": "genetics",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🧬"
         },
         {
           "id": 157,
           "subject_id": 12,
           "name": "Human Biology",
           "slug": "human-biology",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🫁"
         },
         {
           "id": 158,
           "subject_id": 12,
           "name": "Microbiology",
           "slug": "microbiology",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🦠"
         },
         {
           "id": 159,
           "subject_id": 12,
           "name": "Physics",
           "slug": "physics",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🧲"
         },
         {
           "id": 160,
           "subject_id": 12,
           "name": "Science and Technology",
           "slug": "science-and-technology",
-          "isActive": true
+          "isActive": true,
+          "emoji": "⚙️"
         },
         {
           "id": 161,
           "subject_id": 12,
           "name": "Zoology",
           "slug": "zoology",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🦁"
         }
-      ]
+      ],
+      "emoji": "🔬"
     },
     {
       "id": 13,
@@ -1248,93 +1421,107 @@
           "subject_id": 13,
           "name": "Astronomy History",
           "slug": "astronomy-history",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🔭"
         },
         {
           "id": 163,
           "subject_id": 13,
           "name": "Black Holes",
           "slug": "black-holes",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🕳️"
         },
         {
           "id": 164,
           "subject_id": 13,
           "name": "Cosmology",
           "slug": "cosmology",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🌌"
         },
         {
           "id": 165,
           "subject_id": 13,
           "name": "Galaxies",
           "slug": "galaxies",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🌟"
         },
         {
           "id": 166,
           "subject_id": 13,
           "name": "Planets",
           "slug": "planets",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🪐"
         },
         {
           "id": 167,
           "subject_id": 13,
           "name": "Satellites",
           "slug": "satellites",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🛰️"
         },
         {
           "id": 168,
           "subject_id": 13,
           "name": "Solar System",
           "slug": "solar-system",
-          "isActive": true
+          "isActive": true,
+          "emoji": "☀️"
         },
         {
           "id": 169,
           "subject_id": 13,
           "name": "Space Agencies",
           "slug": "space-agencies",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🛸"
         },
         {
           "id": 170,
           "subject_id": 13,
           "name": "Space Exploration",
           "slug": "space-exploration",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🚀"
         },
         {
           "id": 171,
           "subject_id": 13,
           "name": "Space Missions",
           "slug": "space-missions",
-          "isActive": true
+          "isActive": true,
+          "emoji": "👨‍🚀"
         },
         {
           "id": 172,
           "subject_id": 13,
           "name": "Space Scientists",
           "slug": "space-scientists",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🔭"
         },
         {
           "id": 173,
           "subject_id": 13,
           "name": "Stars",
           "slug": "stars",
-          "isActive": true
+          "isActive": true,
+          "emoji": "⭐"
         },
         {
           "id": 174,
           "subject_id": 13,
           "name": "Universe",
           "slug": "universe",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🌠"
         }
-      ]
+      ],
+      "emoji": "🪐"
     },
     {
       "id": 14,
@@ -1348,107 +1535,123 @@
           "subject_id": 14,
           "name": "Athletics",
           "slug": "athletics",
-          "isActive": true
+          "isActive": true,
+          "emoji": "👟"
         },
         {
           "id": 176,
           "subject_id": 14,
           "name": "Badminton",
           "slug": "badminton",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🏸"
         },
         {
           "id": 177,
           "subject_id": 14,
           "name": "Basketball",
           "slug": "basketball",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🏀"
         },
         {
           "id": 178,
           "subject_id": 14,
           "name": "Chess",
           "slug": "chess",
-          "isActive": true
+          "isActive": true,
+          "emoji": "♟️"
         },
         {
           "id": 179,
           "subject_id": 14,
           "name": "Cricket",
           "slug": "cricket",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🏏"
         },
         {
           "id": 180,
           "subject_id": 14,
           "name": "Extreme Sports",
           "slug": "extreme-sports",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🪂"
         },
         {
           "id": 181,
           "subject_id": 14,
           "name": "Football",
           "slug": "football",
-          "isActive": true
+          "isActive": true,
+          "emoji": "⚽"
         },
         {
           "id": 182,
           "subject_id": 14,
           "name": "Formula 1",
           "slug": "formula-1",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🏎️"
         },
         {
           "id": 183,
           "subject_id": 14,
           "name": "Hockey",
           "slug": "hockey",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🏒"
         },
         {
           "id": 184,
           "subject_id": 14,
           "name": "Olympics",
           "slug": "olympics",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🥇"
         },
         {
           "id": 185,
           "subject_id": 14,
           "name": "Sports Personalities",
           "slug": "sports-personalities",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🏃"
         },
         {
           "id": 186,
           "subject_id": 14,
           "name": "Sports Records",
           "slug": "sports-records",
-          "isActive": true
+          "isActive": true,
+          "emoji": "⏱️"
         },
         {
           "id": 187,
           "subject_id": 14,
           "name": "Sports Rules",
           "slug": "sports-rules",
-          "isActive": true
+          "isActive": true,
+          "emoji": "📋"
         },
         {
           "id": 188,
           "subject_id": 14,
           "name": "Tennis",
           "slug": "tennis",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🎾"
         },
         {
           "id": 189,
           "subject_id": 14,
           "name": "Tournaments and Cups",
           "slug": "tournaments-and-cups",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🏆"
         }
-      ]
+      ],
+      "emoji": "🏆"
     },
     {
       "id": 15,
@@ -1462,100 +1665,115 @@
           "subject_id": 15,
           "name": "3D Printing",
           "slug": "3d-printing",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🖨️"
         },
         {
           "id": 191,
           "subject_id": 15,
           "name": "Artificial Intelligence",
           "slug": "artificial-intelligence",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🤖"
         },
         {
           "id": 192,
           "subject_id": 15,
           "name": "Augmented Reality",
           "slug": "augmented-reality",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🥽"
         },
         {
           "id": 193,
           "subject_id": 15,
           "name": "Biotechnology",
           "slug": "biotechnology",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🧬"
         },
         {
           "id": 194,
           "subject_id": 15,
           "name": "Blockchain",
           "slug": "blockchain",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🔗"
         },
         {
           "id": 195,
           "subject_id": 15,
           "name": "Cyber Security",
           "slug": "cyber-security",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🛡️"
         },
         {
           "id": 196,
           "subject_id": 15,
           "name": "Electric Vehicles",
           "slug": "electric-vehicles",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🔋"
         },
         {
           "id": 197,
           "subject_id": 15,
           "name": "Emerging Technology",
           "slug": "emerging-technology",
-          "isActive": true
+          "isActive": true,
+          "emoji": "✨"
         },
         {
           "id": 198,
           "subject_id": 15,
           "name": "Gadgets",
           "slug": "gadgets",
-          "isActive": true
+          "isActive": true,
+          "emoji": "⌚"
         },
         {
           "id": 199,
           "subject_id": 15,
           "name": "Internet of Things",
           "slug": "internet-of-things",
-          "isActive": true
+          "isActive": true,
+          "emoji": "📶"
         },
         {
           "id": 200,
           "subject_id": 15,
           "name": "Robotics",
           "slug": "robotics",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🦾"
         },
         {
           "id": 201,
           "subject_id": 15,
           "name": "Smartphones",
           "slug": "smartphones",
-          "isActive": true
+          "isActive": true,
+          "emoji": "📱"
         },
         {
           "id": 202,
           "subject_id": 15,
           "name": "Space Technology",
           "slug": "space-technology",
-          "isActive": true
+          "isActive": true,
+          "emoji": "📡"
         },
         {
           "id": 203,
           "subject_id": 15,
           "name": "Virtual Reality",
           "slug": "virtual-reality",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🎮"
         }
-      ]
+      ],
+      "emoji": "🤖"
     },
     {
       "id": 16,
@@ -1569,93 +1787,107 @@
           "subject_id": 16,
           "name": "Aircraft",
           "slug": "aircraft",
-          "isActive": true
+          "isActive": true,
+          "emoji": "✈️"
         },
         {
           "id": 205,
           "subject_id": 16,
           "name": "Automobiles",
           "slug": "automobiles",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🚙"
         },
         {
           "id": 206,
           "subject_id": 16,
           "name": "Automotive Technology",
           "slug": "automotive-technology",
-          "isActive": true
+          "isActive": true,
+          "emoji": "⚙️"
         },
         {
           "id": 207,
           "subject_id": 16,
           "name": "Aviation",
           "slug": "aviation",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🛩️"
         },
         {
           "id": 208,
           "subject_id": 16,
           "name": "Cars",
           "slug": "cars",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🚕"
         },
         {
           "id": 209,
           "subject_id": 16,
           "name": "Electric Vehicles",
           "slug": "electric-vehicles",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🔋"
         },
         {
           "id": 210,
           "subject_id": 16,
           "name": "Famous Vehicles",
           "slug": "famous-vehicles",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🚒"
         },
         {
           "id": 211,
           "subject_id": 16,
           "name": "Motorcycles",
           "slug": "motorcycles",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🏍️"
         },
         {
           "id": 212,
           "subject_id": 16,
           "name": "Railways",
           "slug": "railways",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🚂"
         },
         {
           "id": 213,
           "subject_id": 16,
           "name": "Road Transport",
           "slug": "road-transport",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🚌"
         },
         {
           "id": 214,
           "subject_id": 16,
           "name": "Ships and Boats",
           "slug": "ships-and-boats",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🚢"
         },
         {
           "id": 215,
           "subject_id": 16,
           "name": "Traffic and Road Safety",
           "slug": "traffic-and-road-safety",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🚦"
         },
         {
           "id": 216,
           "subject_id": 16,
           "name": "Transport History",
           "slug": "transport-history",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🛴"
         }
-      ]
+      ],
+      "emoji": "🚗"
     }
   ]
 }

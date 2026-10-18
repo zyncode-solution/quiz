@@ -13,93 +13,107 @@
           "subject_id": 1,
           "name": "સરેરાશ",
           "slug": "average",
-          "isActive": true
+          "isActive": true,
+          "emoji": "⚖️"
         },
         {
           "id": 2,
           "subject_id": 1,
           "name": "ડેટા અર્થઘટન",
           "slug": "data-interpretation",
-          "isActive": true
+          "isActive": true,
+          "emoji": "📊"
         },
         {
           "id": 3,
           "subject_id": 1,
           "name": "ડેટા પર્યાપ્તતા",
           "slug": "data-sufficiency",
-          "isActive": true
+          "isActive": true,
+          "emoji": "✅"
         },
         {
           "id": 4,
           "subject_id": 1,
           "name": "સંખ્યાત્મક ક્ષમતા",
           "slug": "numerical-ability",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🔢"
         },
         {
           "id": 5,
           "subject_id": 1,
           "name": "ટકાવારી",
           "slug": "percentage",
-          "isActive": true
+          "isActive": true,
+          "emoji": "📉"
         },
         {
           "id": 6,
           "subject_id": 1,
           "name": "ક્રમચય અને સંચય",
           "slug": "permutation-and-combination",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🎲"
         },
         {
           "id": 7,
           "subject_id": 1,
           "name": "સંભાવના",
           "slug": "probability",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🎯"
         },
         {
           "id": 8,
           "subject_id": 1,
           "name": "નફો અને નુકસાન",
           "slug": "profit-and-loss",
-          "isActive": true
+          "isActive": true,
+          "emoji": "💰"
         },
         {
           "id": 9,
           "subject_id": 1,
           "name": "પરિમાણાત્મક યોગ્યતા",
           "slug": "quantitative-aptitude",
-          "isActive": true
+          "isActive": true,
+          "emoji": "📏"
         },
         {
           "id": 10,
           "subject_id": 1,
           "name": "ગુણોત્તર અને પ્રમાણ",
           "slug": "ratio-and-proportion",
-          "isActive": true
+          "isActive": true,
+          "emoji": "⚖️"
         },
         {
           "id": 11,
           "subject_id": 1,
           "name": "સાદું અને ચક્રવૃદ્ધિ વ્યાજ",
           "slug": "simple-and-compound-interest",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🏦"
         },
         {
           "id": 12,
           "subject_id": 1,
           "name": "સમય અને અંતર",
           "slug": "time-and-distance",
-          "isActive": true
+          "isActive": true,
+          "emoji": "⏱️"
         },
         {
           "id": 13,
           "subject_id": 1,
           "name": "સમય અને કાર્ય",
           "slug": "time-and-work",
-          "isActive": true
+          "isActive": true,
+          "emoji": "⏳"
         }
-      ]
+      ],
+      "emoji": "🧠"
     },
     {
       "id": 2,
@@ -113,100 +127,115 @@
           "subject_id": 2,
           "name": "સ્થાપત્ય",
           "slug": "architecture",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🏛️"
         },
         {
           "id": 15,
           "subject_id": 2,
           "name": "સિનેમા",
           "slug": "cinema",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🎬"
         },
         {
           "id": 16,
           "subject_id": 2,
           "name": "શાસ્ત્રીય નૃત્ય",
           "slug": "classical-dance",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🩰"
         },
         {
           "id": 17,
           "subject_id": 2,
           "name": "સાંસ્કૃતિક વારસો",
           "slug": "cultural-heritage",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🛕"
         },
         {
           "id": 18,
           "subject_id": 2,
           "name": "તહેવારો",
           "slug": "festivals",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🎉"
         },
         {
           "id": 19,
           "subject_id": 2,
           "name": "લોકનૃત્ય",
           "slug": "folk-dance",
-          "isActive": true
+          "isActive": true,
+          "emoji": "💃"
         },
         {
           "id": 20,
           "subject_id": 2,
           "name": "સંગીત",
           "slug": "music",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🎵"
         },
         {
           "id": 21,
           "subject_id": 2,
           "name": "સંગીતનાં વાદ્યો",
           "slug": "musical-instruments",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🎸"
         },
         {
           "id": 22,
           "subject_id": 2,
           "name": "ચિત્રકળા",
           "slug": "paintings",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🖼️"
         },
         {
           "id": 23,
           "subject_id": 2,
           "name": "શિલ્પકળા",
           "slug": "sculpture",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🗿"
         },
         {
           "id": 24,
           "subject_id": 2,
           "name": "નાટ્યમંચ",
           "slug": "theater",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🎭"
         },
         {
           "id": 25,
           "subject_id": 2,
           "name": "વિશ્વ કળા",
           "slug": "world-art",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🎨"
         },
         {
           "id": 26,
           "subject_id": 2,
           "name": "વિશ્વ સંસ્કૃતિ",
           "slug": "world-culture",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🎪"
         },
         {
           "id": 27,
           "subject_id": 2,
           "name": "વિશ્વ સાહિત્ય",
           "slug": "world-literature",
-          "isActive": true
+          "isActive": true,
+          "emoji": "📚"
         }
-      ]
+      ],
+      "emoji": "🎨"
     },
     {
       "id": 3,
@@ -220,114 +249,131 @@
           "subject_id": 3,
           "name": "કૃત્રિમ બુદ્ધિમત્તા (AI)",
           "slug": "artificial-intelligence",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🤖"
         },
         {
           "id": 29,
           "subject_id": 3,
           "name": "ક્લાઉડ કમ્પ્યુટિંગ",
           "slug": "cloud-computing",
-          "isActive": true
+          "isActive": true,
+          "emoji": "☁️"
         },
         {
           "id": 30,
           "subject_id": 3,
           "name": "કમ્પ્યુટર મૂળભૂત બાબતો",
           "slug": "computer-fundamentals",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🖥️"
         },
         {
           "id": 31,
           "subject_id": 3,
           "name": "કમ્પ્યુટર સામાન્ય જ્ઞાન",
           "slug": "computer-general-knowledge",
-          "isActive": true
+          "isActive": true,
+          "emoji": "💾"
         },
         {
           "id": 32,
           "subject_id": 3,
           "name": "કમ્પ્યુટર હાર્ડવેર",
           "slug": "computer-hardware",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🖲️"
         },
         {
           "id": 33,
           "subject_id": 3,
           "name": "કમ્પ્યુટરનો ઇતિહાસ",
           "slug": "computer-history",
-          "isActive": true
+          "isActive": true,
+          "emoji": "📼"
         },
         {
           "id": 34,
           "subject_id": 3,
           "name": "કમ્પ્યુટર નેટવર્ક્સ",
           "slug": "computer-networks",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🌐"
         },
         {
           "id": 35,
           "subject_id": 3,
           "name": "કમ્પ્યુટર સોફ્ટવેર",
           "slug": "computer-software",
-          "isActive": true
+          "isActive": true,
+          "emoji": "⚙️"
         },
         {
           "id": 36,
           "subject_id": 3,
           "name": "સાયબર સુરક્ષા",
           "slug": "cyber-security",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🔒"
         },
         {
           "id": 37,
           "subject_id": 3,
           "name": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સ",
           "slug": "data-structures-and-algorithms",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🌳"
         },
         {
           "id": 38,
           "subject_id": 3,
           "name": "ડેટાબેઝ",
           "slug": "database",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🗄️"
         },
         {
           "id": 39,
           "subject_id": 3,
           "name": "માહિતી ટેકનોલોજી (IT)",
           "slug": "information-technology",
-          "isActive": true
+          "isActive": true,
+          "emoji": "📱"
         },
         {
           "id": 40,
           "subject_id": 3,
           "name": "ઇન્ટરનેટ અને વેબ",
           "slug": "internet-and-web",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🕸️"
         },
         {
           "id": 41,
           "subject_id": 3,
           "name": "મશીન લર્નિંગ",
           "slug": "machine-learning",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🧠"
         },
         {
           "id": 42,
           "subject_id": 3,
           "name": "ઓપરેટિંગ સિસ્ટમ્સ",
           "slug": "operating-systems",
-          "isActive": true
+          "isActive": true,
+          "emoji": "💻"
         },
         {
           "id": 43,
           "subject_id": 3,
           "name": "પ્રોગ્રામિંગ",
           "slug": "programming",
-          "isActive": true
+          "isActive": true,
+          "emoji": "⌨️"
         }
-      ]
+      ],
+      "emoji": "💻"
     },
     {
       "id": 4,
@@ -341,86 +387,99 @@
           "subject_id": 4,
           "name": "બેંકિંગ",
           "slug": "banking",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🏦"
         },
         {
           "id": 45,
           "subject_id": 4,
           "name": "વેપાર અને વાણિજ્ય",
           "slug": "business-and-commerce",
-          "isActive": true
+          "isActive": true,
+          "emoji": "💼"
         },
         {
           "id": 46,
           "subject_id": 4,
           "name": "અર્થશાસ્ત્રના મૂળભૂત સિદ્ધાંતો",
           "slug": "economics-fundamentals",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🪙"
         },
         {
           "id": 47,
           "subject_id": 4,
           "name": "નાણાકીય બજારો",
           "slug": "financial-markets",
-          "isActive": true
+          "isActive": true,
+          "emoji": "📉"
         },
         {
           "id": 48,
           "subject_id": 4,
           "name": "જીડીપી અને આર્થિક સૂચકાંકો",
           "slug": "gdp-and-economic-indicators",
-          "isActive": true
+          "isActive": true,
+          "emoji": "📊"
         },
         {
           "id": 49,
           "subject_id": 4,
           "name": "વૈશ્વિક અર્થતંત્ર",
           "slug": "global-economy",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🌐"
         },
         {
           "id": 50,
           "subject_id": 4,
           "name": "મોંઘવારી અને ફુગાવો",
           "slug": "inflation",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🎈"
         },
         {
           "id": 51,
           "subject_id": 4,
           "name": "આંતરરાષ્ટ્રીય વેપાર",
           "slug": "international-trade",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🚢"
         },
         {
           "id": 52,
           "subject_id": 4,
           "name": "રોકાણના મૂળભૂત સિદ્ધાંતો",
           "slug": "investment-fundamentals",
-          "isActive": true
+          "isActive": true,
+          "emoji": "💎"
         },
         {
           "id": 53,
           "subject_id": 4,
           "name": "નાણું અને ચલણ",
           "slug": "money-and-currency",
-          "isActive": true
+          "isActive": true,
+          "emoji": "💵"
         },
         {
           "id": 54,
           "subject_id": 4,
           "name": "વ્યક્તિગત નાણાં વ્યવસ્થાપન",
           "slug": "personal-finance",
-          "isActive": true
+          "isActive": true,
+          "emoji": "💳"
         },
         {
           "id": 55,
           "subject_id": 4,
           "name": "માંગ અને પુરવઠો",
           "slug": "supply-and-demand",
-          "isActive": true
+          "isActive": true,
+          "emoji": "⚖️"
         }
-      ]
+      ],
+      "emoji": "📈"
     },
     {
       "id": 5,
@@ -434,86 +493,99 @@
           "subject_id": 5,
           "name": "જૈવવિવિધતા",
           "slug": "biodiversity",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🦋"
         },
         {
           "id": 57,
           "subject_id": 5,
           "name": "આબોહવા પરિવર્તન",
           "slug": "climate-change",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🌡️"
         },
         {
           "id": 58,
           "subject_id": 5,
           "name": "સંરક્ષણ",
           "slug": "conservation",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🌲"
         },
         {
           "id": 59,
           "subject_id": 5,
           "name": "ઇકોલોજી (પારિસ્થિતિકી)",
           "slug": "ecology",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🍀"
         },
         {
           "id": 60,
           "subject_id": 5,
           "name": "પર્યાવરણીય તંત્ર",
           "slug": "ecosystems",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🌿"
         },
         {
           "id": 61,
           "subject_id": 5,
           "name": "જંગલો અને વનો",
           "slug": "forests",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🌳"
         },
         {
           "id": 62,
           "subject_id": 5,
           "name": "ગ્લોબલ વોર્મિંગ",
           "slug": "global-warming",
-          "isActive": true
+          "isActive": true,
+          "emoji": "☀️"
         },
         {
           "id": 63,
           "subject_id": 5,
           "name": "કુદરતી આપત્તિઓ",
           "slug": "natural-disasters",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🌪️"
         },
         {
           "id": 64,
           "subject_id": 5,
           "name": "પ્રદૂષણ",
           "slug": "pollution",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🏭"
         },
         {
           "id": 65,
           "subject_id": 5,
           "name": "બિનપરંપરાગત ઊર્જા",
           "slug": "renewable-energy",
-          "isActive": true
+          "isActive": true,
+          "emoji": "⚡"
         },
         {
           "id": 66,
           "subject_id": 5,
           "name": "ટકાઉ વિકાસ",
           "slug": "sustainable-development",
-          "isActive": true
+          "isActive": true,
+          "emoji": "♻️"
         },
         {
           "id": 67,
           "subject_id": 5,
           "name": "વન્યજીવન",
           "slug": "wildlife",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🐅"
         }
-      ]
+      ],
+      "emoji": "🌱"
     },
     {
       "id": 6,
@@ -527,93 +599,107 @@
           "subject_id": 6,
           "name": "પુરસ્કારો અને સન્માન",
           "slug": "awards-and-honors",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🏅"
         },
         {
           "id": 69,
           "subject_id": 6,
           "name": "પુસ્તકો અને લેખકો",
           "slug": "books-and-authors",
-          "isActive": true
+          "isActive": true,
+          "emoji": "📖"
         },
         {
           "id": 70,
           "subject_id": 6,
           "name": "દેશો અને રાજધાનીઓ",
           "slug": "countries-and-capitals",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🚩"
         },
         {
           "id": 71,
           "subject_id": 6,
           "name": "વિશ્વના ચલણો",
           "slug": "currencies",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🪙"
         },
         {
           "id": 72,
           "subject_id": 6,
           "name": "વર્તમાન પ્રવાહો",
           "slug": "current-affairs",
-          "isActive": true
+          "isActive": true,
+          "emoji": "📰"
         },
         {
           "id": 73,
           "subject_id": 6,
           "name": "પ્રખ્યાત વ્યક્તિત્વ",
           "slug": "famous-personalities",
-          "isActive": true
+          "isActive": true,
+          "emoji": "⭐"
         },
         {
           "id": 74,
           "subject_id": 6,
           "name": "પ્રખ્યાત સ્થળો",
           "slug": "famous-places",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🗽"
         },
         {
           "id": 75,
           "subject_id": 6,
           "name": "ઐતિહાસિક ઘટનાઓ",
           "slug": "historical-events",
-          "isActive": true
+          "isActive": true,
+          "emoji": "📅"
         },
         {
           "id": 76,
           "subject_id": 6,
           "name": "મહત્વપૂર્ણ દિવસો",
           "slug": "important-days",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🗓️"
         },
         {
           "id": 77,
           "subject_id": 6,
           "name": "આંતરરાષ્ટ્રીય સંગઠનો",
           "slug": "international-organizations",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🌐"
         },
         {
           "id": 78,
           "subject_id": 6,
           "name": "શોધો અને સંશોધનો",
           "slug": "inventions-and-discoveries",
-          "isActive": true
+          "isActive": true,
+          "emoji": "💡"
         },
         {
           "id": 79,
           "subject_id": 6,
           "name": "વિશ્વ સામાન્ય જ્ઞાન",
           "slug": "world-general-knowledge",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🔍"
         },
         {
           "id": 80,
           "subject_id": 6,
           "name": "વિશ્વ વિક્રમો",
           "slug": "world-records",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🎖️"
         }
-      ]
+      ],
+      "emoji": "💡"
     },
     {
       "id": 7,
@@ -627,93 +713,107 @@
           "subject_id": 7,
           "name": "કૃષિ અને ખેતી",
           "slug": "agriculture",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🌾"
         },
         {
           "id": 82,
           "subject_id": 7,
           "name": "આબોહવા",
           "slug": "climate",
-          "isActive": true
+          "isActive": true,
+          "emoji": "⛅"
         },
         {
           "id": 83,
           "subject_id": 7,
           "name": "ખંડો અને મહાસાગરો",
           "slug": "continents-and-oceans",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🌊"
         },
         {
           "id": 84,
           "subject_id": 7,
           "name": "દેશો અને ભૌગોલિક સ્થાનો",
           "slug": "countries-and-locations",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🗺️"
         },
         {
           "id": 85,
           "subject_id": 7,
           "name": "ભૂમિ સ્વરૂપો",
           "slug": "landforms",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🏜️"
         },
         {
           "id": 86,
           "subject_id": 7,
           "name": "નકશા અને નકશા નિર્માણ",
           "slug": "maps-and-cartography",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🧭"
         },
         {
           "id": 87,
           "subject_id": 7,
           "name": "પર્વતો અને શિખરો",
           "slug": "mountains-and-peaks",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🏔️"
         },
         {
           "id": 88,
           "subject_id": 7,
           "name": "કુદરતી આપત્તિઓ",
           "slug": "natural-disasters",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🌋"
         },
         {
           "id": 89,
           "subject_id": 7,
           "name": "કુદરતી સંસાધનો",
           "slug": "natural-resources",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🛢️"
         },
         {
           "id": 90,
           "subject_id": 7,
           "name": "વસ્તી અને વસ્તીવિષયક",
           "slug": "population-and-demographics",
-          "isActive": true
+          "isActive": true,
+          "emoji": "👥"
         },
         {
           "id": 91,
           "subject_id": 7,
           "name": "નદીઓ અને સરોવરો",
           "slug": "rivers-and-lakes",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🏞️"
         },
         {
           "id": 92,
           "subject_id": 7,
           "name": "હવામાન",
           "slug": "weather",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🌧️"
         },
         {
           "id": 93,
           "subject_id": 7,
           "name": "વિશ્વ ભૂગોળ",
           "slug": "world-geography",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🌎"
         }
-      ]
+      ],
+      "emoji": "🌍"
     },
     {
       "id": 8,
@@ -727,86 +827,99 @@
           "subject_id": 8,
           "name": "શરીરરચના શાસ્ત્ર",
           "slug": "anatomy",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🫀"
         },
         {
           "id": 95,
           "subject_id": 8,
           "name": "રોગો અને બીમારીઓ",
           "slug": "diseases",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🦠"
         },
         {
           "id": 96,
           "subject_id": 8,
           "name": "પ્રાથમિક સારવાર",
           "slug": "first-aid",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🩹"
         },
         {
           "id": 97,
           "subject_id": 8,
           "name": "સ્વાસ્થ્ય અને ફિટનેસ",
           "slug": "health-and-fitness",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🏋️"
         },
         {
           "id": 98,
           "subject_id": 8,
           "name": "માનવ શરીર",
           "slug": "human-body",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🦴"
         },
         {
           "id": 99,
           "subject_id": 8,
           "name": "ચિકિત્સાનો ઇતિહાસ",
           "slug": "medical-history",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🩸"
         },
         {
           "id": 100,
           "subject_id": 8,
           "name": "તબીબી વિજ્ઞાન",
           "slug": "medical-science",
-          "isActive": true
+          "isActive": true,
+          "emoji": "💉"
         },
         {
           "id": 101,
           "subject_id": 8,
           "name": "માનસિક સ્વાસ્થ્ય",
           "slug": "mental-health",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🧠"
         },
         {
           "id": 102,
           "subject_id": 8,
           "name": "પોષણ આહાર",
           "slug": "nutrition",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🍏"
         },
         {
           "id": 103,
           "subject_id": 8,
           "name": "ઔષધશાસ્ત્ર",
           "slug": "pharmacology",
-          "isActive": true
+          "isActive": true,
+          "emoji": "💊"
         },
         {
           "id": 104,
           "subject_id": 8,
           "name": "જાહેર આરોગ્ય",
           "slug": "public-health",
-          "isActive": true
+          "isActive": true,
+          "emoji": "😷"
         },
         {
           "id": 105,
           "subject_id": 8,
           "name": "વિટામિન્સ અને મિનરલ્સ",
           "slug": "vitamins-and-minerals",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🍊"
         }
-      ]
+      ],
+      "emoji": "🩺"
     },
     {
       "id": 9,
@@ -820,86 +933,99 @@
           "subject_id": 9,
           "name": "પ્રાચીન સંસ્કૃતિઓ",
           "slug": "ancient-civilizations",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🏺"
         },
         {
           "id": 107,
           "subject_id": 9,
           "name": "પ્રાચીન ઇતિહાસ",
           "slug": "ancient-history",
-          "isActive": true
+          "isActive": true,
+          "emoji": "📜"
         },
         {
           "id": 108,
           "subject_id": 9,
           "name": "પુરાતત્વ શાસ્ત્ર",
           "slug": "archaeology",
-          "isActive": true
+          "isActive": true,
+          "emoji": "⛏️"
         },
         {
           "id": 109,
           "subject_id": 9,
           "name": "સામ્રાજ્યો અને રાજવંશો",
           "slug": "empires-and-dynasties",
-          "isActive": true
+          "isActive": true,
+          "emoji": "👑"
         },
         {
           "id": 110,
           "subject_id": 9,
           "name": "ઐતિહાસિક ઘટનાઓ",
           "slug": "historical-events",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🗓️"
         },
         {
           "id": 111,
           "subject_id": 9,
           "name": "ઐતિહાસિક મહાનુભાવો",
           "slug": "historical-personalities",
-          "isActive": true
+          "isActive": true,
+          "emoji": "👤"
         },
         {
           "id": 112,
           "subject_id": 9,
           "name": "માનવ સંસ્કૃતિનો ઇતિહાસ",
           "slug": "history-of-civilization",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🏰"
         },
         {
           "id": 113,
           "subject_id": 9,
           "name": "મહત્વપૂર્ણ યુદ્ધો",
           "slug": "important-battles",
-          "isActive": true
+          "isActive": true,
+          "emoji": "⚔️"
         },
         {
           "id": 114,
           "subject_id": 9,
           "name": "મધ્યકાલીન ઇતિહાસ",
           "slug": "medieval-history",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🛡️"
         },
         {
           "id": 115,
           "subject_id": 9,
           "name": "આધુનિક ઇતિહાસ",
           "slug": "modern-history",
-          "isActive": true
+          "isActive": true,
+          "emoji": "⏰"
         },
         {
           "id": 116,
           "subject_id": 9,
           "name": "વિશ્વ ઇતિહાસ",
           "slug": "world-history",
-          "isActive": true
+          "isActive": true,
+          "emoji": "⌛"
         },
         {
           "id": 117,
           "subject_id": 9,
           "name": "વિશ્વ યુદ્ધો",
           "slug": "world-wars",
-          "isActive": true
+          "isActive": true,
+          "emoji": "💣"
         }
-      ]
+      ],
+      "emoji": "🏛️"
     },
     {
       "id": 10,
@@ -913,114 +1039,131 @@
           "subject_id": 10,
           "name": "બીજગણિત",
           "slug": "algebra",
-          "isActive": true
+          "isActive": true,
+          "emoji": "✖️"
         },
         {
           "id": 119,
           "subject_id": 10,
           "name": "અંકગણિત",
           "slug": "arithmetic",
-          "isActive": true
+          "isActive": true,
+          "emoji": "➕"
         },
         {
           "id": 120,
           "subject_id": 10,
           "name": "મૂળભૂત ગણિત",
           "slug": "basic-mathematics",
-          "isActive": true
+          "isActive": true,
+          "emoji": "📐"
         },
         {
           "id": 121,
           "subject_id": 10,
           "name": "ભૂમિતિ",
           "slug": "geometry",
-          "isActive": true
+          "isActive": true,
+          "emoji": "📏"
         },
         {
           "id": 122,
           "subject_id": 10,
           "name": "ક્ષેત્રમિતિ",
           "slug": "mensuration",
-          "isActive": true
+          "isActive": true,
+          "emoji": "📐"
         },
         {
           "id": 123,
           "subject_id": 10,
           "name": "સંખ્યા પદ્ધતિ",
           "slug": "number-system",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🔟"
         },
         {
           "id": 124,
           "subject_id": 10,
           "name": "ટકાવારી",
           "slug": "percentage",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🔣"
         },
         {
           "id": 125,
           "subject_id": 10,
           "name": "ક્રમચય અને સંચય",
           "slug": "permutation-and-combination",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🎲"
         },
         {
           "id": 126,
           "subject_id": 10,
           "name": "સંભાવના",
           "slug": "probability",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🪄"
         },
         {
           "id": 127,
           "subject_id": 10,
           "name": "નફો અને નુકસાન",
           "slug": "profit-and-loss",
-          "isActive": true
+          "isActive": true,
+          "emoji": "📈"
         },
         {
           "id": 128,
           "subject_id": 10,
           "name": "ગુણોત્તર અને પ્રમાણ",
           "slug": "ratio-and-proportion",
-          "isActive": true
+          "isActive": true,
+          "emoji": "⚖️"
         },
         {
           "id": 129,
           "subject_id": 10,
           "name": "સાદું અને ચક્રવૃદ્ધિ વ્યાજ",
           "slug": "simple-and-compound-interest",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🪙"
         },
         {
           "id": 130,
           "subject_id": 10,
           "name": "ઝડપ, સમય અને અંતર",
           "slug": "speed-time-and-distance",
-          "isActive": true
+          "isActive": true,
+          "emoji": "⏱️"
         },
         {
           "id": 131,
           "subject_id": 10,
           "name": "આંકડાશાસ્ત્ર",
           "slug": "statistics",
-          "isActive": true
+          "isActive": true,
+          "emoji": "📊"
         },
         {
           "id": 132,
           "subject_id": 10,
           "name": "સમય અને કાર્ય",
           "slug": "time-and-work",
-          "isActive": true
+          "isActive": true,
+          "emoji": "⏲️"
         },
         {
           "id": 133,
           "subject_id": 10,
           "name": "ત્રિકોણમિતિ",
           "slug": "trigonometry",
-          "isActive": true
+          "isActive": true,
+          "emoji": "📐"
         }
-      ]
+      ],
+      "emoji": "📐"
     },
     {
       "id": 11,
@@ -1034,107 +1177,123 @@
           "subject_id": 11,
           "name": "મૂળાક્ષર શ્રેણી",
           "slug": "alphabet-series",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🔤"
         },
         {
           "id": 135,
           "subject_id": 11,
           "name": "સમાનતા (એનાલોજી)",
           "slug": "analogy",
-          "isActive": true
+          "isActive": true,
+          "emoji": "✨"
         },
         {
           "id": 136,
           "subject_id": 11,
           "name": "લોહીના સંબંધો",
           "slug": "blood-relations",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🤝"
         },
         {
           "id": 137,
           "subject_id": 11,
           "name": "વર્ગીકરણ",
           "slug": "classification",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🗃️"
         },
         {
           "id": 138,
           "subject_id": 11,
           "name": "કોડિંગ અને ડીકોડિંગ",
           "slug": "coding-and-decoding",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🔐"
         },
         {
           "id": 139,
           "subject_id": 11,
           "name": "દિશા જ્ઞાન કસોટી",
           "slug": "direction-sense",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🧭"
         },
         {
           "id": 140,
           "subject_id": 11,
           "name": "તાર્કિક યોગ્યતા",
           "slug": "logical-reasoning",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🧠"
         },
         {
           "id": 141,
           "subject_id": 11,
           "name": "શાબ્દિક સિવાયનું તર્ક",
           "slug": "non-verbal-reasoning",
-          "isActive": true
+          "isActive": true,
+          "emoji": "👁️"
         },
         {
           "id": 142,
           "subject_id": 11,
           "name": "સંખ્યા શ્રેણી",
           "slug": "number-series",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🔢"
         },
         {
           "id": 143,
           "subject_id": 11,
           "name": "પેટર્ન ઓળખ",
           "slug": "pattern-recognition",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🎯"
         },
         {
           "id": 144,
           "subject_id": 11,
           "name": "ઉખાણાં અને કોયડા",
           "slug": "puzzles",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🧩"
         },
         {
           "id": 145,
           "subject_id": 11,
           "name": "બેઠક વ્યવસ્થા",
           "slug": "seating-arrangement",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🪑"
         },
         {
           "id": 146,
           "subject_id": 11,
           "name": "વિધાન અને તારણ",
           "slug": "statement-and-conclusion",
-          "isActive": true
+          "isActive": true,
+          "emoji": "📝"
         },
         {
           "id": 147,
           "subject_id": 11,
           "name": "ન્યાય નિગમન (સિલોગિઝમ)",
           "slug": "syllogism",
-          "isActive": true
+          "isActive": true,
+          "emoji": "💭"
         },
         {
           "id": 148,
           "subject_id": 11,
           "name": "શાબ્દિક તર્કશક્તિ",
           "slug": "verbal-reasoning",
-          "isActive": true
+          "isActive": true,
+          "emoji": "💬"
         }
-      ]
+      ],
+      "emoji": "🧩"
     },
     {
       "id": 12,
@@ -1148,93 +1307,107 @@
           "subject_id": 12,
           "name": "ખગોળશાસ્ત્ર",
           "slug": "astronomy",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🔭"
         },
         {
           "id": 150,
           "subject_id": 12,
           "name": "જીવવિજ્ઞાન",
           "slug": "biology",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🧬"
         },
         {
           "id": 151,
           "subject_id": 12,
           "name": "વનસ્પતિશાસ્ત્ર",
           "slug": "botany",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🌺"
         },
         {
           "id": 152,
           "subject_id": 12,
           "name": "રસાયણશાસ્ત્ર",
           "slug": "chemistry",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🧪"
         },
         {
           "id": 153,
           "subject_id": 12,
           "name": "પૃથ્વી વિજ્ઞાન",
           "slug": "earth-science",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🌋"
         },
         {
           "id": 154,
           "subject_id": 12,
           "name": "પર્યાવરણ વિજ્ઞાન",
           "slug": "environmental-science",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🌿"
         },
         {
           "id": 155,
           "subject_id": 12,
           "name": "સામાન્ય વિજ્ઞાન",
           "slug": "general-science",
-          "isActive": true
+          "isActive": true,
+          "emoji": "⚗️"
         },
         {
           "id": 156,
           "subject_id": 12,
           "name": "જનીનવિદ્યા",
           "slug": "genetics",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🧬"
         },
         {
           "id": 157,
           "subject_id": 12,
           "name": "માનવ જીવવિજ્ઞાન",
           "slug": "human-biology",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🫁"
         },
         {
           "id": 158,
           "subject_id": 12,
           "name": "સૂક્ષ્મજીવવિજ્ઞાન",
           "slug": "microbiology",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🦠"
         },
         {
           "id": 159,
           "subject_id": 12,
           "name": "ભૌતિકશાસ્ત્ર",
           "slug": "physics",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🧲"
         },
         {
           "id": 160,
           "subject_id": 12,
           "name": "વિજ્ઞાન અને ટેકનોલોજી",
           "slug": "science-and-technology",
-          "isActive": true
+          "isActive": true,
+          "emoji": "⚙️"
         },
         {
           "id": 161,
           "subject_id": 12,
           "name": "પ્રાણીશાસ્ત્ર",
           "slug": "zoology",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🦁"
         }
-      ]
+      ],
+      "emoji": "🔬"
     },
     {
       "id": 13,
@@ -1248,93 +1421,107 @@
           "subject_id": 13,
           "name": "ખગોળશાસ્ત્રનો ઇતિહાસ",
           "slug": "astronomy-history",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🔭"
         },
         {
           "id": 163,
           "subject_id": 13,
           "name": "બ્લેક હોલ્સ",
           "slug": "black-holes",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🕳️"
         },
         {
           "id": 164,
           "subject_id": 13,
           "name": "બ્રહ્માંડ વિજ્ઞાન",
           "slug": "cosmology",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🌌"
         },
         {
           "id": 165,
           "subject_id": 13,
           "name": "આકાશગંગાઓ",
           "slug": "galaxies",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🌟"
         },
         {
           "id": 166,
           "subject_id": 13,
           "name": "ગ્રહો",
           "slug": "planets",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🪐"
         },
         {
           "id": 167,
           "subject_id": 13,
           "name": "ઉપગ્રહો",
           "slug": "satellites",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🛰️"
         },
         {
           "id": 168,
           "subject_id": 13,
           "name": "સૂર્યમંડળ",
           "slug": "solar-system",
-          "isActive": true
+          "isActive": true,
+          "emoji": "☀️"
         },
         {
           "id": 169,
           "subject_id": 13,
           "name": "અંતરિક્ષ સંસ્થાઓ",
           "slug": "space-agencies",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🛸"
         },
         {
           "id": 170,
           "subject_id": 13,
           "name": "અંતરિક્ષ સંશોધન",
           "slug": "space-exploration",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🚀"
         },
         {
           "id": 171,
           "subject_id": 13,
           "name": "અંતરિક્ષ મિશનો",
           "slug": "space-missions",
-          "isActive": true
+          "isActive": true,
+          "emoji": "👨‍🚀"
         },
         {
           "id": 172,
           "subject_id": 13,
           "name": "અંતરિક્ષ વૈજ્ઞાનિકો",
           "slug": "space-scientists",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🔭"
         },
         {
           "id": 173,
           "subject_id": 13,
           "name": "તારાઓ",
           "slug": "stars",
-          "isActive": true
+          "isActive": true,
+          "emoji": "⭐"
         },
         {
           "id": 174,
           "subject_id": 13,
           "name": "બ્રહ્માંડ",
           "slug": "universe",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🌠"
         }
-      ]
+      ],
+      "emoji": "🪐"
     },
     {
       "id": 14,
@@ -1348,107 +1535,123 @@
           "subject_id": 14,
           "name": "એથ્લેટિક્સ",
           "slug": "athletics",
-          "isActive": true
+          "isActive": true,
+          "emoji": "👟"
         },
         {
           "id": 176,
           "subject_id": 14,
           "name": "બેડમિન્ટન",
           "slug": "badminton",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🏸"
         },
         {
           "id": 177,
           "subject_id": 14,
           "name": "બાસ્કેટબોલ",
           "slug": "basketball",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🏀"
         },
         {
           "id": 178,
           "subject_id": 14,
           "name": "શતરંજ (ચેસ)",
           "slug": "chess",
-          "isActive": true
+          "isActive": true,
+          "emoji": "♟️"
         },
         {
           "id": 179,
           "subject_id": 14,
           "name": "ક્રિકેટ",
           "slug": "cricket",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🏏"
         },
         {
           "id": 180,
           "subject_id": 14,
           "name": "સાહસિક રમતો",
           "slug": "extreme-sports",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🪂"
         },
         {
           "id": 181,
           "subject_id": 14,
           "name": "ફૂટબોલ",
           "slug": "football",
-          "isActive": true
+          "isActive": true,
+          "emoji": "⚽"
         },
         {
           "id": 182,
           "subject_id": 14,
           "name": "ફોર્મ્યુલા વન",
           "slug": "formula-1",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🏎️"
         },
         {
           "id": 183,
           "subject_id": 14,
           "name": "હોકી",
           "slug": "hockey",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🏒"
         },
         {
           "id": 184,
           "subject_id": 14,
           "name": "ઓલિમ્પિક્સ",
           "slug": "olympics",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🥇"
         },
         {
           "id": 185,
           "subject_id": 14,
           "name": "રમતગમતની હસ્તીઓ",
           "slug": "sports-personalities",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🏃"
         },
         {
           "id": 186,
           "subject_id": 14,
           "name": "રમતગમતના વિક્રમો",
           "slug": "sports-records",
-          "isActive": true
+          "isActive": true,
+          "emoji": "⏱️"
         },
         {
           "id": 187,
           "subject_id": 14,
           "name": "રમતોના નિયમો",
           "slug": "sports-rules",
-          "isActive": true
+          "isActive": true,
+          "emoji": "📋"
         },
         {
           "id": 188,
           "subject_id": 14,
           "name": "ટેનિસ",
           "slug": "tennis",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🎾"
         },
         {
           "id": 189,
           "subject_id": 14,
           "name": "ટુર્નામેન્ટ્સ અને કપ",
           "slug": "tournaments-and-cups",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🏆"
         }
-      ]
+      ],
+      "emoji": "🏆"
     },
     {
       "id": 15,
@@ -1462,100 +1665,115 @@
           "subject_id": 15,
           "name": "3D પ્રિન્ટિંગ",
           "slug": "3d-printing",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🖨️"
         },
         {
           "id": 191,
           "subject_id": 15,
           "name": "કૃત્રિમ બુદ્ધિમત્તા (AI)",
           "slug": "artificial-intelligence",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🤖"
         },
         {
           "id": 192,
           "subject_id": 15,
           "name": "ઓગમેન્ટેડ રિયાલિટી (AR)",
           "slug": "augmented-reality",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🥽"
         },
         {
           "id": 193,
           "subject_id": 15,
           "name": "બાયોટેકનોલોજી",
           "slug": "biotechnology",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🧬"
         },
         {
           "id": 194,
           "subject_id": 15,
           "name": "બ્લોકચેન",
           "slug": "blockchain",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🔗"
         },
         {
           "id": 195,
           "subject_id": 15,
           "name": "સાયબર સુરક્ષા",
           "slug": "cyber-security",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🛡️"
         },
         {
           "id": 196,
           "subject_id": 15,
           "name": "ઇલેક્ટ્રિક વાહનો",
           "slug": "electric-vehicles",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🔋"
         },
         {
           "id": 197,
           "subject_id": 15,
           "name": "નવીનતમ ટેકનોલોજી",
           "slug": "emerging-technology",
-          "isActive": true
+          "isActive": true,
+          "emoji": "✨"
         },
         {
           "id": 198,
           "subject_id": 15,
           "name": "ગેજેટ્સ અને ઉપકરણો",
           "slug": "gadgets",
-          "isActive": true
+          "isActive": true,
+          "emoji": "⌚"
         },
         {
           "id": 199,
           "subject_id": 15,
           "name": "ઇન્ટરનેટ ઓફ થિંગ્સ (IoT)",
           "slug": "internet-of-things",
-          "isActive": true
+          "isActive": true,
+          "emoji": "📶"
         },
         {
           "id": 200,
           "subject_id": 15,
           "name": "રોબોટિક્સ",
           "slug": "robotics",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🦾"
         },
         {
           "id": 201,
           "subject_id": 15,
           "name": "સ્માર્ટફોન",
           "slug": "smartphones",
-          "isActive": true
+          "isActive": true,
+          "emoji": "📱"
         },
         {
           "id": 202,
           "subject_id": 15,
           "name": "અંતરિક્ષ ટેકનોલોજી",
           "slug": "space-technology",
-          "isActive": true
+          "isActive": true,
+          "emoji": "📡"
         },
         {
           "id": 203,
           "subject_id": 15,
           "name": "વર્ચ્યુઅલ રિયાલિટી (VR)",
           "slug": "virtual-reality",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🎮"
         }
-      ]
+      ],
+      "emoji": "🤖"
     },
     {
       "id": 16,
@@ -1569,93 +1787,107 @@
           "subject_id": 16,
           "name": "વિમાનો",
           "slug": "aircraft",
-          "isActive": true
+          "isActive": true,
+          "emoji": "✈️"
         },
         {
           "id": 205,
           "subject_id": 16,
           "name": "ઓટોમોબાઇલ્સ",
           "slug": "automobiles",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🚙"
         },
         {
           "id": 206,
           "subject_id": 16,
           "name": "ઓટોમોટિવ ટેકનોલોજી",
           "slug": "automotive-technology",
-          "isActive": true
+          "isActive": true,
+          "emoji": "⚙️"
         },
         {
           "id": 207,
           "subject_id": 16,
           "name": "ઉડ્ડયન ક્ષેત્ર (એવિએશન)",
           "slug": "aviation",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🛩️"
         },
         {
           "id": 208,
           "subject_id": 16,
           "name": "કારો",
           "slug": "cars",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🚕"
         },
         {
           "id": 209,
           "subject_id": 16,
           "name": "ઇલેક્ટ્રિક વાહનો",
           "slug": "electric-vehicles",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🔋"
         },
         {
           "id": 210,
           "subject_id": 16,
           "name": "પ્રખ્યાત વાહનો",
           "slug": "famous-vehicles",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🚒"
         },
         {
           "id": 211,
           "subject_id": 16,
           "name": "મોટરસાઇકલ",
           "slug": "motorcycles",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🏍️"
         },
         {
           "id": 212,
           "subject_id": 16,
           "name": "રેલવે",
           "slug": "railways",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🚂"
         },
         {
           "id": 213,
           "subject_id": 16,
           "name": "માર્ગ પરિવહન",
           "slug": "road-transport",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🚌"
         },
         {
           "id": 214,
           "subject_id": 16,
           "name": "જહાજો અને બોટ",
           "slug": "ships-and-boats",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🚢"
         },
         {
           "id": 215,
           "subject_id": 16,
           "name": "ટ્રાફિક અને માર્ગ સુરક્ષા",
           "slug": "traffic-and-road-safety",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🚦"
         },
         {
           "id": 216,
           "subject_id": 16,
           "name": "પરિવહનનો ઇતિહાસ",
           "slug": "transport-history",
-          "isActive": true
+          "isActive": true,
+          "emoji": "🛴"
         }
-      ]
+      ],
+      "emoji": "🚗"
     }
   ]
 }
