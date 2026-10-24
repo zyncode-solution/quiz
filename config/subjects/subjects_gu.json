@@ -5,6 +5,7 @@
       "id": 1,
       "name": "યોગ્યતા",
       "slug": "aptitude",
+      "path": "subjects/aptitude/",
       "sub_subjects_length": 13,
       "isActive": true,
       "sub_subjects": [
@@ -13,6 +14,7 @@
           "subject_id": 1,
           "name": "સરેરાશ",
           "slug": "average",
+          "path": "subjects/aptitude/average/average_gu.json",
           "isActive": true,
           "emoji": "⚖️"
         },
@@ -21,6 +23,7 @@
           "subject_id": 1,
           "name": "ડેટા અર્થઘટન",
           "slug": "data-interpretation",
+          "path": "subjects/aptitude/data-interpretation/data-interpretation_gu.json",
           "isActive": true,
           "emoji": "📊"
         },
@@ -29,6 +32,7 @@
           "subject_id": 1,
           "name": "ડેટા પર્યાપ્તતા",
           "slug": "data-sufficiency",
+          "path": "subjects/aptitude/data-sufficiency/data-sufficiency_gu.json",
           "isActive": true,
           "emoji": "✅"
         },
@@ -37,6 +41,7 @@
           "subject_id": 1,
           "name": "સંખ્યાત્મક ક્ષમતા",
           "slug": "numerical-ability",
+          "path": "subjects/aptitude/numerical-ability/numerical-ability_gu.json",
           "isActive": true,
           "emoji": "🔢"
         },
@@ -45,6 +50,7 @@
           "subject_id": 1,
           "name": "ટકાવારી",
           "slug": "percentage",
+          "path": "subjects/aptitude/percentage/percentage_gu.json",
           "isActive": true,
           "emoji": "📉"
         },
@@ -53,6 +59,7 @@
           "subject_id": 1,
           "name": "ક્રમચય અને સંચય",
           "slug": "permutation-and-combination",
+          "path": "subjects/aptitude/permutation-and-combination/permutation-and-combination_gu.json",
           "isActive": true,
           "emoji": "🎲"
         },
@@ -61,6 +68,7 @@
           "subject_id": 1,
           "name": "સંભાવના",
           "slug": "probability",
+          "path": "subjects/aptitude/probability/probability_gu.json",
           "isActive": true,
           "emoji": "🎯"
         },
@@ -69,6 +77,7 @@
           "subject_id": 1,
           "name": "નફો અને નુકસાન",
           "slug": "profit-and-loss",
+          "path": "subjects/aptitude/profit-and-loss/profit-and-loss_gu.json",
           "isActive": true,
           "emoji": "💰"
         },
@@ -77,6 +86,7 @@
           "subject_id": 1,
           "name": "પરિમાણાત્મક યોગ્યતા",
           "slug": "quantitative-aptitude",
+          "path": "subjects/aptitude/quantitative-aptitude/quantitative-aptitude_gu.json",
           "isActive": true,
           "emoji": "📏"
         },
@@ -85,6 +95,7 @@
           "subject_id": 1,
           "name": "ગુણોત્તર અને પ્રમાણ",
           "slug": "ratio-and-proportion",
+          "path": "subjects/aptitude/ratio-and-proportion/ratio-and-proportion_gu.json",
           "isActive": true,
           "emoji": "⚖️"
         },
@@ -93,6 +104,7 @@
           "subject_id": 1,
           "name": "સાદું અને ચક્રવૃદ્ધિ વ્યાજ",
           "slug": "simple-and-compound-interest",
+          "path": "subjects/aptitude/simple-and-compound-interest/simple-and-compound-interest_gu.json",
           "isActive": true,
           "emoji": "🏦"
         },
@@ -101,6 +113,7 @@
           "subject_id": 1,
           "name": "સમય અને અંતર",
           "slug": "time-and-distance",
+          "path": "subjects/aptitude/time-and-distance/time-and-distance_gu.json",
           "isActive": true,
           "emoji": "⏱️"
         },
@@ -109,6 +122,7 @@
           "subject_id": 1,
           "name": "સમય અને કાર્ય",
           "slug": "time-and-work",
+          "path": "subjects/aptitude/time-and-work/time-and-work_gu.json",
           "isActive": true,
           "emoji": "⏳"
         }
@@ -119,6 +133,7 @@
       "id": 2,
       "name": "કળા અને સંસ્કૃતિ",
       "slug": "arts-and-culture",
+      "path": "subjects/arts-and-culture/",
       "sub_subjects_length": 14,
       "isActive": true,
       "sub_subjects": [
@@ -127,6 +142,7 @@
           "subject_id": 2,
           "name": "સ્થાપત્ય",
           "slug": "architecture",
+          "path": "subjects/arts-and-culture/architecture/architecture_gu.json",
           "isActive": true,
           "emoji": "🏛️"
         },
@@ -135,6 +151,7 @@
           "subject_id": 2,
           "name": "સિનેમા",
           "slug": "cinema",
+          "path": "subjects/arts-and-culture/cinema/cinema_gu.json",
           "isActive": true,
           "emoji": "🎬"
         },
@@ -143,6 +160,7 @@
           "subject_id": 2,
           "name": "શાસ્ત્રીય નૃત્ય",
           "slug": "classical-dance",
+          "path": "subjects/arts-and-culture/classical-dance/classical-dance_gu.json",
           "isActive": true,
           "emoji": "🩰"
         },
@@ -151,6 +169,7 @@
           "subject_id": 2,
           "name": "સાંસ્કૃતિક વારસો",
           "slug": "cultural-heritage",
+          "path": "subjects/arts-and-culture/cultural-heritage/cultural-heritage_gu.json",
           "isActive": true,
           "emoji": "🛕"
         },
@@ -159,6 +178,7 @@
           "subject_id": 2,
           "name": "તહેવારો",
           "slug": "festivals",
+          "path": "subjects/arts-and-culture/festivals/festivals_gu.json",
           "isActive": true,
           "emoji": "🎉"
         },
@@ -167,6 +187,7 @@
           "subject_id": 2,
           "name": "લોકનૃત્ય",
           "slug": "folk-dance",
+          "path": "subjects/arts-and-culture/folk-dance/folk-dance_gu.json",
           "isActive": true,
           "emoji": "💃"
         },
@@ -175,6 +196,7 @@
           "subject_id": 2,
           "name": "સંગીત",
           "slug": "music",
+          "path": "subjects/arts-and-culture/music/music_gu.json",
           "isActive": true,
           "emoji": "🎵"
         },
@@ -183,6 +205,7 @@
           "subject_id": 2,
           "name": "સંગીતનાં વાદ્યો",
           "slug": "musical-instruments",
+          "path": "subjects/arts-and-culture/musical-instruments/musical-instruments_gu.json",
           "isActive": true,
           "emoji": "🎸"
         },
@@ -191,6 +214,7 @@
           "subject_id": 2,
           "name": "ચિત્રકળા",
           "slug": "paintings",
+          "path": "subjects/arts-and-culture/paintings/paintings_gu.json",
           "isActive": true,
           "emoji": "🖼️"
         },
@@ -199,6 +223,7 @@
           "subject_id": 2,
           "name": "શિલ્પકળા",
           "slug": "sculpture",
+          "path": "subjects/arts-and-culture/sculpture/sculpture_gu.json",
           "isActive": true,
           "emoji": "🗿"
         },
@@ -207,6 +232,7 @@
           "subject_id": 2,
           "name": "નાટ્યમંચ",
           "slug": "theater",
+          "path": "subjects/arts-and-culture/theater/theater_gu.json",
           "isActive": true,
           "emoji": "🎭"
         },
@@ -215,6 +241,7 @@
           "subject_id": 2,
           "name": "વિશ્વ કળા",
           "slug": "world-art",
+          "path": "subjects/arts-and-culture/world-art/world-art_gu.json",
           "isActive": true,
           "emoji": "🎨"
         },
@@ -223,6 +250,7 @@
           "subject_id": 2,
           "name": "વિશ્વ સંસ્કૃતિ",
           "slug": "world-culture",
+          "path": "subjects/arts-and-culture/world-culture/world-culture_gu.json",
           "isActive": true,
           "emoji": "🎪"
         },
@@ -231,6 +259,7 @@
           "subject_id": 2,
           "name": "વિશ્વ સાહિત્ય",
           "slug": "world-literature",
+          "path": "subjects/arts-and-culture/world-literature/world-literature_gu.json",
           "isActive": true,
           "emoji": "📚"
         }
@@ -241,6 +270,7 @@
       "id": 3,
       "name": "કમ્પ્યુટર",
       "slug": "computer",
+      "path": "subjects/computer/",
       "sub_subjects_length": 16,
       "isActive": true,
       "sub_subjects": [
@@ -249,6 +279,7 @@
           "subject_id": 3,
           "name": "કૃત્રિમ બુદ્ધિમત્તા (AI)",
           "slug": "artificial-intelligence",
+          "path": "subjects/computer/artificial-intelligence/artificial-intelligence_gu.json",
           "isActive": true,
           "emoji": "🤖"
         },
@@ -257,6 +288,7 @@
           "subject_id": 3,
           "name": "ક્લાઉડ કમ્પ્યુટિંગ",
           "slug": "cloud-computing",
+          "path": "subjects/computer/cloud-computing/cloud-computing_gu.json",
           "isActive": true,
           "emoji": "☁️"
         },
@@ -265,6 +297,7 @@
           "subject_id": 3,
           "name": "કમ્પ્યુટર મૂળભૂત બાબતો",
           "slug": "computer-fundamentals",
+          "path": "subjects/computer/computer-fundamentals/computer-fundamentals_gu.json",
           "isActive": true,
           "emoji": "🖥️"
         },
@@ -273,6 +306,7 @@
           "subject_id": 3,
           "name": "કમ્પ્યુટર સામાન્ય જ્ઞાન",
           "slug": "computer-general-knowledge",
+          "path": "subjects/computer/computer-general-knowledge/computer-general-knowledge_gu.json",
           "isActive": true,
           "emoji": "💾"
         },
@@ -281,6 +315,7 @@
           "subject_id": 3,
           "name": "કમ્પ્યુટર હાર્ડવેર",
           "slug": "computer-hardware",
+          "path": "subjects/computer/computer-hardware/computer-hardware_gu.json",
           "isActive": true,
           "emoji": "🖲️"
         },
@@ -289,6 +324,7 @@
           "subject_id": 3,
           "name": "કમ્પ્યુટરનો ઇતિહાસ",
           "slug": "computer-history",
+          "path": "subjects/computer/computer-history/computer-history_gu.json",
           "isActive": true,
           "emoji": "📼"
         },
@@ -297,6 +333,7 @@
           "subject_id": 3,
           "name": "કમ્પ્યુટર નેટવર્ક્સ",
           "slug": "computer-networks",
+          "path": "subjects/computer/computer-networks/computer-networks_gu.json",
           "isActive": true,
           "emoji": "🌐"
         },
@@ -305,6 +342,7 @@
           "subject_id": 3,
           "name": "કમ્પ્યુટર સોફ્ટવેર",
           "slug": "computer-software",
+          "path": "subjects/computer/computer-software/computer-software_gu.json",
           "isActive": true,
           "emoji": "⚙️"
         },
@@ -313,6 +351,7 @@
           "subject_id": 3,
           "name": "સાયબર સુરક્ષા",
           "slug": "cyber-security",
+          "path": "subjects/computer/cyber-security/cyber-security_gu.json",
           "isActive": true,
           "emoji": "🔒"
         },
@@ -321,6 +360,7 @@
           "subject_id": 3,
           "name": "ડેટા સ્ટ્રક્ચર્સ અને અલ્ગોરિધમ્સ",
           "slug": "data-structures-and-algorithms",
+          "path": "subjects/computer/data-structures-and-algorithms/data-structures-and-algorithms_gu.json",
           "isActive": true,
           "emoji": "🌳"
         },
@@ -329,6 +369,7 @@
           "subject_id": 3,
           "name": "ડેટાબેઝ",
           "slug": "database",
+          "path": "subjects/computer/database/database_gu.json",
           "isActive": true,
           "emoji": "🗄️"
         },
@@ -337,6 +378,7 @@
           "subject_id": 3,
           "name": "માહિતી ટેકનોલોજી (IT)",
           "slug": "information-technology",
+          "path": "subjects/computer/information-technology/information-technology_gu.json",
           "isActive": true,
           "emoji": "📱"
         },
@@ -345,6 +387,7 @@
           "subject_id": 3,
           "name": "ઇન્ટરનેટ અને વેબ",
           "slug": "internet-and-web",
+          "path": "subjects/computer/internet-and-web/internet-and-web_gu.json",
           "isActive": true,
           "emoji": "🕸️"
         },
@@ -353,6 +396,7 @@
           "subject_id": 3,
           "name": "મશીન લર્નિંગ",
           "slug": "machine-learning",
+          "path": "subjects/computer/machine-learning/machine-learning_gu.json",
           "isActive": true,
           "emoji": "🧠"
         },
@@ -361,6 +405,7 @@
           "subject_id": 3,
           "name": "ઓપરેટિંગ સિસ્ટમ્સ",
           "slug": "operating-systems",
+          "path": "subjects/computer/operating-systems/operating-systems_gu.json",
           "isActive": true,
           "emoji": "💻"
         },
@@ -369,6 +414,7 @@
           "subject_id": 3,
           "name": "પ્રોગ્રામિંગ",
           "slug": "programming",
+          "path": "subjects/computer/programming/programming_gu.json",
           "isActive": true,
           "emoji": "⌨️"
         }
@@ -379,6 +425,7 @@
       "id": 4,
       "name": "અર્થશાસ્ત્ર",
       "slug": "economics",
+      "path": "subjects/economics/",
       "sub_subjects_length": 12,
       "isActive": true,
       "sub_subjects": [
@@ -387,6 +434,7 @@
           "subject_id": 4,
           "name": "બેંકિંગ",
           "slug": "banking",
+          "path": "subjects/economics/banking/banking_gu.json",
           "isActive": true,
           "emoji": "🏦"
         },
@@ -395,6 +443,7 @@
           "subject_id": 4,
           "name": "વેપાર અને વાણિજ્ય",
           "slug": "business-and-commerce",
+          "path": "subjects/economics/business-and-commerce/business-and-commerce_gu.json",
           "isActive": true,
           "emoji": "💼"
         },
@@ -403,6 +452,7 @@
           "subject_id": 4,
           "name": "અર્થશાસ્ત્રના મૂળભૂત સિદ્ધાંતો",
           "slug": "economics-fundamentals",
+          "path": "subjects/economics/economics-fundamentals/economics-fundamentals_gu.json",
           "isActive": true,
           "emoji": "🪙"
         },
@@ -411,6 +461,7 @@
           "subject_id": 4,
           "name": "નાણાકીય બજારો",
           "slug": "financial-markets",
+          "path": "subjects/economics/financial-markets/financial-markets_gu.json",
           "isActive": true,
           "emoji": "📉"
         },
@@ -419,6 +470,7 @@
           "subject_id": 4,
           "name": "જીડીપી અને આર્થિક સૂચકાંકો",
           "slug": "gdp-and-economic-indicators",
+          "path": "subjects/economics/gdp-and-economic-indicators/gdp-and-economic-indicators_gu.json",
           "isActive": true,
           "emoji": "📊"
         },
@@ -427,6 +479,7 @@
           "subject_id": 4,
           "name": "વૈશ્વિક અર્થતંત્ર",
           "slug": "global-economy",
+          "path": "subjects/economics/global-economy/global-economy_gu.json",
           "isActive": true,
           "emoji": "🌐"
         },
@@ -435,6 +488,7 @@
           "subject_id": 4,
           "name": "મોંઘવારી અને ફુગાવો",
           "slug": "inflation",
+          "path": "subjects/economics/inflation/inflation_gu.json",
           "isActive": true,
           "emoji": "🎈"
         },
@@ -443,6 +497,7 @@
           "subject_id": 4,
           "name": "આંતરરાષ્ટ્રીય વેપાર",
           "slug": "international-trade",
+          "path": "subjects/economics/international-trade/international-trade_gu.json",
           "isActive": true,
           "emoji": "🚢"
         },
@@ -451,6 +506,7 @@
           "subject_id": 4,
           "name": "રોકાણના મૂળભૂત સિદ્ધાંતો",
           "slug": "investment-fundamentals",
+          "path": "subjects/economics/investment-fundamentals/investment-fundamentals_gu.json",
           "isActive": true,
           "emoji": "💎"
         },
@@ -459,6 +515,7 @@
           "subject_id": 4,
           "name": "નાણું અને ચલણ",
           "slug": "money-and-currency",
+          "path": "subjects/economics/money-and-currency/money-and-currency_gu.json",
           "isActive": true,
           "emoji": "💵"
         },
@@ -467,6 +524,7 @@
           "subject_id": 4,
           "name": "વ્યક્તિગત નાણાં વ્યવસ્થાપન",
           "slug": "personal-finance",
+          "path": "subjects/economics/personal-finance/personal-finance_gu.json",
           "isActive": true,
           "emoji": "💳"
         },
@@ -475,6 +533,7 @@
           "subject_id": 4,
           "name": "માંગ અને પુરવઠો",
           "slug": "supply-and-demand",
+          "path": "subjects/economics/supply-and-demand/supply-and-demand_gu.json",
           "isActive": true,
           "emoji": "⚖️"
         }
@@ -485,6 +544,7 @@
       "id": 5,
       "name": "પર્યાવરણ",
       "slug": "environment",
+      "path": "subjects/environment/",
       "sub_subjects_length": 12,
       "isActive": true,
       "sub_subjects": [
@@ -493,6 +553,7 @@
           "subject_id": 5,
           "name": "જૈવવિવિધતા",
           "slug": "biodiversity",
+          "path": "subjects/environment/biodiversity/biodiversity_gu.json",
           "isActive": true,
           "emoji": "🦋"
         },
@@ -501,6 +562,7 @@
           "subject_id": 5,
           "name": "આબોહવા પરિવર્તન",
           "slug": "climate-change",
+          "path": "subjects/environment/climate-change/climate-change_gu.json",
           "isActive": true,
           "emoji": "🌡️"
         },
@@ -509,6 +571,7 @@
           "subject_id": 5,
           "name": "સંરક્ષણ",
           "slug": "conservation",
+          "path": "subjects/environment/conservation/conservation_gu.json",
           "isActive": true,
           "emoji": "🌲"
         },
@@ -517,6 +580,7 @@
           "subject_id": 5,
           "name": "ઇકોલોજી (પારિસ્થિતિકી)",
           "slug": "ecology",
+          "path": "subjects/environment/ecology/ecology_gu.json",
           "isActive": true,
           "emoji": "🍀"
         },
@@ -525,6 +589,7 @@
           "subject_id": 5,
           "name": "પર્યાવરણીય તંત્ર",
           "slug": "ecosystems",
+          "path": "subjects/environment/ecosystems/ecosystems_gu.json",
           "isActive": true,
           "emoji": "🌿"
         },
@@ -533,6 +598,7 @@
           "subject_id": 5,
           "name": "જંગલો અને વનો",
           "slug": "forests",
+          "path": "subjects/environment/forests/forests_gu.json",
           "isActive": true,
           "emoji": "🌳"
         },
@@ -541,6 +607,7 @@
           "subject_id": 5,
           "name": "ગ્લોબલ વોર્મિંગ",
           "slug": "global-warming",
+          "path": "subjects/environment/global-warming/global-warming_gu.json",
           "isActive": true,
           "emoji": "☀️"
         },
@@ -549,6 +616,7 @@
           "subject_id": 5,
           "name": "કુદરતી આપત્તિઓ",
           "slug": "natural-disasters",
+          "path": "subjects/environment/natural-disasters/natural-disasters_gu.json",
           "isActive": true,
           "emoji": "🌪️"
         },
@@ -557,6 +625,7 @@
           "subject_id": 5,
           "name": "પ્રદૂષણ",
           "slug": "pollution",
+          "path": "subjects/environment/pollution/pollution_gu.json",
           "isActive": true,
           "emoji": "🏭"
         },
@@ -565,6 +634,7 @@
           "subject_id": 5,
           "name": "બિનપરંપરાગત ઊર્જા",
           "slug": "renewable-energy",
+          "path": "subjects/environment/renewable-energy/renewable-energy_gu.json",
           "isActive": true,
           "emoji": "⚡"
         },
@@ -573,6 +643,7 @@
           "subject_id": 5,
           "name": "ટકાઉ વિકાસ",
           "slug": "sustainable-development",
+          "path": "subjects/environment/sustainable-development/sustainable-development_gu.json",
           "isActive": true,
           "emoji": "♻️"
         },
@@ -581,6 +652,7 @@
           "subject_id": 5,
           "name": "વન્યજીવન",
           "slug": "wildlife",
+          "path": "subjects/environment/wildlife/wildlife_gu.json",
           "isActive": true,
           "emoji": "🐅"
         }
@@ -591,6 +663,7 @@
       "id": 6,
       "name": "સામાન્ય જ્ઞાન",
       "slug": "general-knowledge",
+      "path": "subjects/general-knowledge/",
       "sub_subjects_length": 13,
       "isActive": true,
       "sub_subjects": [
@@ -599,6 +672,7 @@
           "subject_id": 6,
           "name": "પુરસ્કારો અને સન્માન",
           "slug": "awards-and-honors",
+          "path": "subjects/general-knowledge/awards-and-honors/awards-and-honors_gu.json",
           "isActive": true,
           "emoji": "🏅"
         },
@@ -607,6 +681,7 @@
           "subject_id": 6,
           "name": "પુસ્તકો અને લેખકો",
           "slug": "books-and-authors",
+          "path": "subjects/general-knowledge/books-and-authors/books-and-authors_gu.json",
           "isActive": true,
           "emoji": "📖"
         },
@@ -615,6 +690,7 @@
           "subject_id": 6,
           "name": "દેશો અને રાજધાનીઓ",
           "slug": "countries-and-capitals",
+          "path": "subjects/general-knowledge/countries-and-capitals/countries-and-capitals_gu.json",
           "isActive": true,
           "emoji": "🚩"
         },
@@ -623,6 +699,7 @@
           "subject_id": 6,
           "name": "વિશ્વના ચલણો",
           "slug": "currencies",
+          "path": "subjects/general-knowledge/currencies/currencies_gu.json",
           "isActive": true,
           "emoji": "🪙"
         },
@@ -631,6 +708,7 @@
           "subject_id": 6,
           "name": "વર્તમાન પ્રવાહો",
           "slug": "current-affairs",
+          "path": "subjects/general-knowledge/current-affairs/current-affairs_gu.json",
           "isActive": true,
           "emoji": "📰"
         },
@@ -639,6 +717,7 @@
           "subject_id": 6,
           "name": "પ્રખ્યાત વ્યક્તિત્વ",
           "slug": "famous-personalities",
+          "path": "subjects/general-knowledge/famous-personalities/famous-personalities_gu.json",
           "isActive": true,
           "emoji": "⭐"
         },
@@ -647,6 +726,7 @@
           "subject_id": 6,
           "name": "પ્રખ્યાત સ્થળો",
           "slug": "famous-places",
+          "path": "subjects/general-knowledge/famous-places/famous-places_gu.json",
           "isActive": true,
           "emoji": "🗽"
         },
@@ -655,6 +735,7 @@
           "subject_id": 6,
           "name": "ઐતિહાસિક ઘટનાઓ",
           "slug": "historical-events",
+          "path": "subjects/general-knowledge/historical-events/historical-events_gu.json",
           "isActive": true,
           "emoji": "📅"
         },
@@ -663,6 +744,7 @@
           "subject_id": 6,
           "name": "મહત્વપૂર્ણ દિવસો",
           "slug": "important-days",
+          "path": "subjects/general-knowledge/important-days/important-days_gu.json",
           "isActive": true,
           "emoji": "🗓️"
         },
@@ -671,6 +753,7 @@
           "subject_id": 6,
           "name": "આંતરરાષ્ટ્રીય સંગઠનો",
           "slug": "international-organizations",
+          "path": "subjects/general-knowledge/international-organizations/international-organizations_gu.json",
           "isActive": true,
           "emoji": "🌐"
         },
@@ -679,6 +762,7 @@
           "subject_id": 6,
           "name": "શોધો અને સંશોધનો",
           "slug": "inventions-and-discoveries",
+          "path": "subjects/general-knowledge/inventions-and-discoveries/inventions-and-discoveries_gu.json",
           "isActive": true,
           "emoji": "💡"
         },
@@ -687,6 +771,7 @@
           "subject_id": 6,
           "name": "વિશ્વ સામાન્ય જ્ઞાન",
           "slug": "world-general-knowledge",
+          "path": "subjects/general-knowledge/world-general-knowledge/world-general-knowledge_gu.json",
           "isActive": true,
           "emoji": "🔍"
         },
@@ -695,6 +780,7 @@
           "subject_id": 6,
           "name": "વિશ્વ વિક્રમો",
           "slug": "world-records",
+          "path": "subjects/general-knowledge/world-records/world-records_gu.json",
           "isActive": true,
           "emoji": "🎖️"
         }
@@ -705,6 +791,7 @@
       "id": 7,
       "name": "ભૂગોળ",
       "slug": "geography",
+      "path": "subjects/geography/",
       "sub_subjects_length": 13,
       "isActive": true,
       "sub_subjects": [
@@ -713,6 +800,7 @@
           "subject_id": 7,
           "name": "કૃષિ અને ખેતી",
           "slug": "agriculture",
+          "path": "subjects/geography/agriculture/agriculture_gu.json",
           "isActive": true,
           "emoji": "🌾"
         },
@@ -721,6 +809,7 @@
           "subject_id": 7,
           "name": "આબોહવા",
           "slug": "climate",
+          "path": "subjects/geography/climate/climate_gu.json",
           "isActive": true,
           "emoji": "⛅"
         },
@@ -729,6 +818,7 @@
           "subject_id": 7,
           "name": "ખંડો અને મહાસાગરો",
           "slug": "continents-and-oceans",
+          "path": "subjects/geography/continents-and-oceans/continents-and-oceans_gu.json",
           "isActive": true,
           "emoji": "🌊"
         },
@@ -737,6 +827,7 @@
           "subject_id": 7,
           "name": "દેશો અને ભૌગોલિક સ્થાનો",
           "slug": "countries-and-locations",
+          "path": "subjects/geography/countries-and-locations/countries-and-locations_gu.json",
           "isActive": true,
           "emoji": "🗺️"
         },
@@ -745,6 +836,7 @@
           "subject_id": 7,
           "name": "ભૂમિ સ્વરૂપો",
           "slug": "landforms",
+          "path": "subjects/geography/landforms/landforms_gu.json",
           "isActive": true,
           "emoji": "🏜️"
         },
@@ -753,6 +845,7 @@
           "subject_id": 7,
           "name": "નકશા અને નકશા નિર્માણ",
           "slug": "maps-and-cartography",
+          "path": "subjects/geography/maps-and-cartography/maps-and-cartography_gu.json",
           "isActive": true,
           "emoji": "🧭"
         },
@@ -761,6 +854,7 @@
           "subject_id": 7,
           "name": "પર્વતો અને શિખરો",
           "slug": "mountains-and-peaks",
+          "path": "subjects/geography/mountains-and-peaks/mountains-and-peaks_gu.json",
           "isActive": true,
           "emoji": "🏔️"
         },
@@ -769,6 +863,7 @@
           "subject_id": 7,
           "name": "કુદરતી આપત્તિઓ",
           "slug": "natural-disasters",
+          "path": "subjects/geography/natural-disasters/natural-disasters_gu.json",
           "isActive": true,
           "emoji": "🌋"
         },
@@ -777,6 +872,7 @@
           "subject_id": 7,
           "name": "કુદરતી સંસાધનો",
           "slug": "natural-resources",
+          "path": "subjects/geography/natural-resources/natural-resources_gu.json",
           "isActive": true,
           "emoji": "🛢️"
         },
@@ -785,6 +881,7 @@
           "subject_id": 7,
           "name": "વસ્તી અને વસ્તીવિષયક",
           "slug": "population-and-demographics",
+          "path": "subjects/geography/population-and-demographics/population-and-demographics_gu.json",
           "isActive": true,
           "emoji": "👥"
         },
@@ -793,6 +890,7 @@
           "subject_id": 7,
           "name": "નદીઓ અને સરોવરો",
           "slug": "rivers-and-lakes",
+          "path": "subjects/geography/rivers-and-lakes/rivers-and-lakes_gu.json",
           "isActive": true,
           "emoji": "🏞️"
         },
@@ -801,6 +899,7 @@
           "subject_id": 7,
           "name": "હવામાન",
           "slug": "weather",
+          "path": "subjects/geography/weather/weather_gu.json",
           "isActive": true,
           "emoji": "🌧️"
         },
@@ -809,6 +908,7 @@
           "subject_id": 7,
           "name": "વિશ્વ ભૂગોળ",
           "slug": "world-geography",
+          "path": "subjects/geography/world-geography/world-geography_gu.json",
           "isActive": true,
           "emoji": "🌎"
         }
@@ -819,6 +919,7 @@
       "id": 8,
       "name": "સ્વાસ્થ્ય અને ચિકિત્સા",
       "slug": "health-and-medicine",
+      "path": "subjects/health-and-medicine/",
       "sub_subjects_length": 12,
       "isActive": true,
       "sub_subjects": [
@@ -827,6 +928,7 @@
           "subject_id": 8,
           "name": "શરીરરચના શાસ્ત્ર",
           "slug": "anatomy",
+          "path": "subjects/health-and-medicine/anatomy/anatomy_gu.json",
           "isActive": true,
           "emoji": "🫀"
         },
@@ -835,6 +937,7 @@
           "subject_id": 8,
           "name": "રોગો અને બીમારીઓ",
           "slug": "diseases",
+          "path": "subjects/health-and-medicine/diseases/diseases_gu.json",
           "isActive": true,
           "emoji": "🦠"
         },
@@ -843,6 +946,7 @@
           "subject_id": 8,
           "name": "પ્રાથમિક સારવાર",
           "slug": "first-aid",
+          "path": "subjects/health-and-medicine/first-aid/first-aid_gu.json",
           "isActive": true,
           "emoji": "🩹"
         },
@@ -851,6 +955,7 @@
           "subject_id": 8,
           "name": "સ્વાસ્થ્ય અને ફિટનેસ",
           "slug": "health-and-fitness",
+          "path": "subjects/health-and-medicine/health-and-fitness/health-and-fitness_gu.json",
           "isActive": true,
           "emoji": "🏋️"
         },
@@ -859,6 +964,7 @@
           "subject_id": 8,
           "name": "માનવ શરીર",
           "slug": "human-body",
+          "path": "subjects/health-and-medicine/human-body/human-body_gu.json",
           "isActive": true,
           "emoji": "🦴"
         },
@@ -867,6 +973,7 @@
           "subject_id": 8,
           "name": "ચિકિત્સાનો ઇતિહાસ",
           "slug": "medical-history",
+          "path": "subjects/health-and-medicine/medical-history/medical-history_gu.json",
           "isActive": true,
           "emoji": "🩸"
         },
@@ -875,6 +982,7 @@
           "subject_id": 8,
           "name": "તબીબી વિજ્ઞાન",
           "slug": "medical-science",
+          "path": "subjects/health-and-medicine/medical-science/medical-science_gu.json",
           "isActive": true,
           "emoji": "💉"
         },
@@ -883,6 +991,7 @@
           "subject_id": 8,
           "name": "માનસિક સ્વાસ્થ્ય",
           "slug": "mental-health",
+          "path": "subjects/health-and-medicine/mental-health/mental-health_gu.json",
           "isActive": true,
           "emoji": "🧠"
         },
@@ -891,6 +1000,7 @@
           "subject_id": 8,
           "name": "પોષણ આહાર",
           "slug": "nutrition",
+          "path": "subjects/health-and-medicine/nutrition/nutrition_gu.json",
           "isActive": true,
           "emoji": "🍏"
         },
@@ -899,6 +1009,7 @@
           "subject_id": 8,
           "name": "ઔષધશાસ્ત્ર",
           "slug": "pharmacology",
+          "path": "subjects/health-and-medicine/pharmacology/pharmacology_gu.json",
           "isActive": true,
           "emoji": "💊"
         },
@@ -907,6 +1018,7 @@
           "subject_id": 8,
           "name": "જાહેર આરોગ્ય",
           "slug": "public-health",
+          "path": "subjects/health-and-medicine/public-health/public-health_gu.json",
           "isActive": true,
           "emoji": "😷"
         },
@@ -915,6 +1027,7 @@
           "subject_id": 8,
           "name": "વિટામિન્સ અને મિનરલ્સ",
           "slug": "vitamins-and-minerals",
+          "path": "subjects/health-and-medicine/vitamins-and-minerals/vitamins-and-minerals_gu.json",
           "isActive": true,
           "emoji": "🍊"
         }
@@ -925,6 +1038,7 @@
       "id": 9,
       "name": "ઇતિહાસ",
       "slug": "history",
+      "path": "subjects/history/",
       "sub_subjects_length": 12,
       "isActive": true,
       "sub_subjects": [
@@ -933,6 +1047,7 @@
           "subject_id": 9,
           "name": "પ્રાચીન સંસ્કૃતિઓ",
           "slug": "ancient-civilizations",
+          "path": "subjects/history/ancient-civilizations/ancient-civilizations_gu.json",
           "isActive": true,
           "emoji": "🏺"
         },
@@ -941,6 +1056,7 @@
           "subject_id": 9,
           "name": "પ્રાચીન ઇતિહાસ",
           "slug": "ancient-history",
+          "path": "subjects/history/ancient-history/ancient-history_gu.json",
           "isActive": true,
           "emoji": "📜"
         },
@@ -949,6 +1065,7 @@
           "subject_id": 9,
           "name": "પુરાતત્વ શાસ્ત્ર",
           "slug": "archaeology",
+          "path": "subjects/history/archaeology/archaeology_gu.json",
           "isActive": true,
           "emoji": "⛏️"
         },
@@ -957,6 +1074,7 @@
           "subject_id": 9,
           "name": "સામ્રાજ્યો અને રાજવંશો",
           "slug": "empires-and-dynasties",
+          "path": "subjects/history/empires-and-dynasties/empires-and-dynasties_gu.json",
           "isActive": true,
           "emoji": "👑"
         },
@@ -965,6 +1083,7 @@
           "subject_id": 9,
           "name": "ઐતિહાસિક ઘટનાઓ",
           "slug": "historical-events",
+          "path": "subjects/history/historical-events/historical-events_gu.json",
           "isActive": true,
           "emoji": "🗓️"
         },
@@ -973,6 +1092,7 @@
           "subject_id": 9,
           "name": "ઐતિહાસિક મહાનુભાવો",
           "slug": "historical-personalities",
+          "path": "subjects/history/historical-personalities/historical-personalities_gu.json",
           "isActive": true,
           "emoji": "👤"
         },
@@ -981,6 +1101,7 @@
           "subject_id": 9,
           "name": "માનવ સંસ્કૃતિનો ઇતિહાસ",
           "slug": "history-of-civilization",
+          "path": "subjects/history/history-of-civilization/history-of-civilization_gu.json",
           "isActive": true,
           "emoji": "🏰"
         },
@@ -989,6 +1110,7 @@
           "subject_id": 9,
           "name": "મહત્વપૂર્ણ યુદ્ધો",
           "slug": "important-battles",
+          "path": "subjects/history/important-battles/important-battles_gu.json",
           "isActive": true,
           "emoji": "⚔️"
         },
@@ -997,6 +1119,7 @@
           "subject_id": 9,
           "name": "મધ્યકાલીન ઇતિહાસ",
           "slug": "medieval-history",
+          "path": "subjects/history/medieval-history/medieval-history_gu.json",
           "isActive": true,
           "emoji": "🛡️"
         },
@@ -1005,6 +1128,7 @@
           "subject_id": 9,
           "name": "આધુનિક ઇતિહાસ",
           "slug": "modern-history",
+          "path": "subjects/history/modern-history/modern-history_gu.json",
           "isActive": true,
           "emoji": "⏰"
         },
@@ -1013,6 +1137,7 @@
           "subject_id": 9,
           "name": "વિશ્વ ઇતિહાસ",
           "slug": "world-history",
+          "path": "subjects/history/world-history/world-history_gu.json",
           "isActive": true,
           "emoji": "⌛"
         },
@@ -1021,6 +1146,7 @@
           "subject_id": 9,
           "name": "વિશ્વ યુદ્ધો",
           "slug": "world-wars",
+          "path": "subjects/history/world-wars/world-wars_gu.json",
           "isActive": true,
           "emoji": "💣"
         }
@@ -1031,6 +1157,7 @@
       "id": 10,
       "name": "ગણિત",
       "slug": "mathematics",
+      "path": "subjects/mathematics/",
       "sub_subjects_length": 16,
       "isActive": true,
       "sub_subjects": [
@@ -1039,6 +1166,7 @@
           "subject_id": 10,
           "name": "બીજગણિત",
           "slug": "algebra",
+          "path": "subjects/mathematics/algebra/algebra_gu.json",
           "isActive": true,
           "emoji": "✖️"
         },
@@ -1047,6 +1175,7 @@
           "subject_id": 10,
           "name": "અંકગણિત",
           "slug": "arithmetic",
+          "path": "subjects/mathematics/arithmetic/arithmetic_gu.json",
           "isActive": true,
           "emoji": "➕"
         },
@@ -1055,6 +1184,7 @@
           "subject_id": 10,
           "name": "મૂળભૂત ગણિત",
           "slug": "basic-mathematics",
+          "path": "subjects/mathematics/basic-mathematics/basic-mathematics_gu.json",
           "isActive": true,
           "emoji": "📐"
         },
@@ -1063,6 +1193,7 @@
           "subject_id": 10,
           "name": "ભૂમિતિ",
           "slug": "geometry",
+          "path": "subjects/mathematics/geometry/geometry_gu.json",
           "isActive": true,
           "emoji": "📏"
         },
@@ -1071,6 +1202,7 @@
           "subject_id": 10,
           "name": "ક્ષેત્રમિતિ",
           "slug": "mensuration",
+          "path": "subjects/mathematics/mensuration/mensuration_gu.json",
           "isActive": true,
           "emoji": "📐"
         },
@@ -1079,6 +1211,7 @@
           "subject_id": 10,
           "name": "સંખ્યા પદ્ધતિ",
           "slug": "number-system",
+          "path": "subjects/mathematics/number-system/number-system_gu.json",
           "isActive": true,
           "emoji": "🔟"
         },
@@ -1087,6 +1220,7 @@
           "subject_id": 10,
           "name": "ટકાવારી",
           "slug": "percentage",
+          "path": "subjects/mathematics/percentage/percentage_gu.json",
           "isActive": true,
           "emoji": "🔣"
         },
@@ -1095,6 +1229,7 @@
           "subject_id": 10,
           "name": "ક્રમચય અને સંચય",
           "slug": "permutation-and-combination",
+          "path": "subjects/mathematics/permutation-and-combination/permutation-and-combination_gu.json",
           "isActive": true,
           "emoji": "🎲"
         },
@@ -1103,6 +1238,7 @@
           "subject_id": 10,
           "name": "સંભાવના",
           "slug": "probability",
+          "path": "subjects/mathematics/probability/probability_gu.json",
           "isActive": true,
           "emoji": "🪄"
         },
@@ -1111,6 +1247,7 @@
           "subject_id": 10,
           "name": "નફો અને નુકસાન",
           "slug": "profit-and-loss",
+          "path": "subjects/mathematics/profit-and-loss/profit-and-loss_gu.json",
           "isActive": true,
           "emoji": "📈"
         },
@@ -1119,6 +1256,7 @@
           "subject_id": 10,
           "name": "ગુણોત્તર અને પ્રમાણ",
           "slug": "ratio-and-proportion",
+          "path": "subjects/mathematics/ratio-and-proportion/ratio-and-proportion_gu.json",
           "isActive": true,
           "emoji": "⚖️"
         },
@@ -1127,6 +1265,7 @@
           "subject_id": 10,
           "name": "સાદું અને ચક્રવૃદ્ધિ વ્યાજ",
           "slug": "simple-and-compound-interest",
+          "path": "subjects/mathematics/simple-and-compound-interest/simple-and-compound-interest_gu.json",
           "isActive": true,
           "emoji": "🪙"
         },
@@ -1135,6 +1274,7 @@
           "subject_id": 10,
           "name": "ઝડપ, સમય અને અંતર",
           "slug": "speed-time-and-distance",
+          "path": "subjects/mathematics/speed-time-and-distance/speed-time-and-distance_gu.json",
           "isActive": true,
           "emoji": "⏱️"
         },
@@ -1143,6 +1283,7 @@
           "subject_id": 10,
           "name": "આંકડાશાસ્ત્ર",
           "slug": "statistics",
+          "path": "subjects/mathematics/statistics/statistics_gu.json",
           "isActive": true,
           "emoji": "📊"
         },
@@ -1151,6 +1292,7 @@
           "subject_id": 10,
           "name": "સમય અને કાર્ય",
           "slug": "time-and-work",
+          "path": "subjects/mathematics/time-and-work/time-and-work_gu.json",
           "isActive": true,
           "emoji": "⏲️"
         },
@@ -1159,6 +1301,7 @@
           "subject_id": 10,
           "name": "ત્રિકોણમિતિ",
           "slug": "trigonometry",
+          "path": "subjects/mathematics/trigonometry/trigonometry_gu.json",
           "isActive": true,
           "emoji": "📐"
         }
@@ -1169,6 +1312,7 @@
       "id": 11,
       "name": "તર્કશક્તિ",
       "slug": "reasoning",
+      "path": "subjects/reasoning/",
       "sub_subjects_length": 15,
       "isActive": true,
       "sub_subjects": [
@@ -1177,6 +1321,7 @@
           "subject_id": 11,
           "name": "મૂળાક્ષર શ્રેણી",
           "slug": "alphabet-series",
+          "path": "subjects/reasoning/alphabet-series/alphabet-series_gu.json",
           "isActive": true,
           "emoji": "🔤"
         },
@@ -1185,6 +1330,7 @@
           "subject_id": 11,
           "name": "સમાનતા (એનાલોજી)",
           "slug": "analogy",
+          "path": "subjects/reasoning/analogy/analogy_gu.json",
           "isActive": true,
           "emoji": "✨"
         },
@@ -1193,6 +1339,7 @@
           "subject_id": 11,
           "name": "લોહીના સંબંધો",
           "slug": "blood-relations",
+          "path": "subjects/reasoning/blood-relations/blood-relations_gu.json",
           "isActive": true,
           "emoji": "🤝"
         },
@@ -1201,6 +1348,7 @@
           "subject_id": 11,
           "name": "વર્ગીકરણ",
           "slug": "classification",
+          "path": "subjects/reasoning/classification/classification_gu.json",
           "isActive": true,
           "emoji": "🗃️"
         },
@@ -1209,6 +1357,7 @@
           "subject_id": 11,
           "name": "કોડિંગ અને ડીકોડિંગ",
           "slug": "coding-and-decoding",
+          "path": "subjects/reasoning/coding-and-decoding/coding-and-decoding_gu.json",
           "isActive": true,
           "emoji": "🔐"
         },
@@ -1217,6 +1366,7 @@
           "subject_id": 11,
           "name": "દિશા જ્ઞાન કસોટી",
           "slug": "direction-sense",
+          "path": "subjects/reasoning/direction-sense/direction-sense_gu.json",
           "isActive": true,
           "emoji": "🧭"
         },
@@ -1225,6 +1375,7 @@
           "subject_id": 11,
           "name": "તાર્કિક યોગ્યતા",
           "slug": "logical-reasoning",
+          "path": "subjects/reasoning/logical-reasoning/logical-reasoning_gu.json",
           "isActive": true,
           "emoji": "🧠"
         },
@@ -1233,6 +1384,7 @@
           "subject_id": 11,
           "name": "શાબ્દિક સિવાયનું તર્ક",
           "slug": "non-verbal-reasoning",
+          "path": "subjects/reasoning/non-verbal-reasoning/non-verbal-reasoning_gu.json",
           "isActive": true,
           "emoji": "👁️"
         },
@@ -1241,6 +1393,7 @@
           "subject_id": 11,
           "name": "સંખ્યા શ્રેણી",
           "slug": "number-series",
+          "path": "subjects/reasoning/number-series/number-series_gu.json",
           "isActive": true,
           "emoji": "🔢"
         },
@@ -1249,6 +1402,7 @@
           "subject_id": 11,
           "name": "પેટર્ન ઓળખ",
           "slug": "pattern-recognition",
+          "path": "subjects/reasoning/pattern-recognition/pattern-recognition_gu.json",
           "isActive": true,
           "emoji": "🎯"
         },
@@ -1257,6 +1411,7 @@
           "subject_id": 11,
           "name": "ઉખાણાં અને કોયડા",
           "slug": "puzzles",
+          "path": "subjects/reasoning/puzzles/puzzles_gu.json",
           "isActive": true,
           "emoji": "🧩"
         },
@@ -1265,6 +1420,7 @@
           "subject_id": 11,
           "name": "બેઠક વ્યવસ્થા",
           "slug": "seating-arrangement",
+          "path": "subjects/reasoning/seating-arrangement/seating-arrangement_gu.json",
           "isActive": true,
           "emoji": "🪑"
         },
@@ -1273,6 +1429,7 @@
           "subject_id": 11,
           "name": "વિધાન અને તારણ",
           "slug": "statement-and-conclusion",
+          "path": "subjects/reasoning/statement-and-conclusion/statement-and-conclusion_gu.json",
           "isActive": true,
           "emoji": "📝"
         },
@@ -1281,6 +1438,7 @@
           "subject_id": 11,
           "name": "ન્યાય નિગમન (સિલોગિઝમ)",
           "slug": "syllogism",
+          "path": "subjects/reasoning/syllogism/syllogism_gu.json",
           "isActive": true,
           "emoji": "💭"
         },
@@ -1289,6 +1447,7 @@
           "subject_id": 11,
           "name": "શાબ્દિક તર્કશક્તિ",
           "slug": "verbal-reasoning",
+          "path": "subjects/reasoning/verbal-reasoning/verbal-reasoning_gu.json",
           "isActive": true,
           "emoji": "💬"
         }
@@ -1299,6 +1458,7 @@
       "id": 12,
       "name": "વિજ્ઞાન",
       "slug": "science",
+      "path": "subjects/science/",
       "sub_subjects_length": 13,
       "isActive": true,
       "sub_subjects": [
@@ -1307,6 +1467,7 @@
           "subject_id": 12,
           "name": "ખગોળશાસ્ત્ર",
           "slug": "astronomy",
+          "path": "subjects/science/astronomy/astronomy_gu.json",
           "isActive": true,
           "emoji": "🔭"
         },
@@ -1315,6 +1476,7 @@
           "subject_id": 12,
           "name": "જીવવિજ્ઞાન",
           "slug": "biology",
+          "path": "subjects/science/biology/biology_gu.json",
           "isActive": true,
           "emoji": "🧬"
         },
@@ -1323,6 +1485,7 @@
           "subject_id": 12,
           "name": "વનસ્પતિશાસ્ત્ર",
           "slug": "botany",
+          "path": "subjects/science/botany/botany_gu.json",
           "isActive": true,
           "emoji": "🌺"
         },
@@ -1331,6 +1494,7 @@
           "subject_id": 12,
           "name": "રસાયણશાસ્ત્ર",
           "slug": "chemistry",
+          "path": "subjects/science/chemistry/chemistry_gu.json",
           "isActive": true,
           "emoji": "🧪"
         },
@@ -1339,6 +1503,7 @@
           "subject_id": 12,
           "name": "પૃથ્વી વિજ્ઞાન",
           "slug": "earth-science",
+          "path": "subjects/science/earth-science/earth-science_gu.json",
           "isActive": true,
           "emoji": "🌋"
         },
@@ -1347,6 +1512,7 @@
           "subject_id": 12,
           "name": "પર્યાવરણ વિજ્ઞાન",
           "slug": "environmental-science",
+          "path": "subjects/science/environmental-science/environmental-science_gu.json",
           "isActive": true,
           "emoji": "🌿"
         },
@@ -1355,6 +1521,7 @@
           "subject_id": 12,
           "name": "સામાન્ય વિજ્ઞાન",
           "slug": "general-science",
+          "path": "subjects/science/general-science/general-science_gu.json",
           "isActive": true,
           "emoji": "⚗️"
         },
@@ -1363,6 +1530,7 @@
           "subject_id": 12,
           "name": "જનીનવિદ્યા",
           "slug": "genetics",
+          "path": "subjects/science/genetics/genetics_gu.json",
           "isActive": true,
           "emoji": "🧬"
         },
@@ -1371,6 +1539,7 @@
           "subject_id": 12,
           "name": "માનવ જીવવિજ્ઞાન",
           "slug": "human-biology",
+          "path": "subjects/science/human-biology/human-biology_gu.json",
           "isActive": true,
           "emoji": "🫁"
         },
@@ -1379,6 +1548,7 @@
           "subject_id": 12,
           "name": "સૂક્ષ્મજીવવિજ્ઞાન",
           "slug": "microbiology",
+          "path": "subjects/science/microbiology/microbiology_gu.json",
           "isActive": true,
           "emoji": "🦠"
         },
@@ -1387,6 +1557,7 @@
           "subject_id": 12,
           "name": "ભૌતિકશાસ્ત્ર",
           "slug": "physics",
+          "path": "subjects/science/physics/physics_gu.json",
           "isActive": true,
           "emoji": "🧲"
         },
@@ -1395,6 +1566,7 @@
           "subject_id": 12,
           "name": "વિજ્ઞાન અને ટેકનોલોજી",
           "slug": "science-and-technology",
+          "path": "subjects/science/science-and-technology/science-and-technology_gu.json",
           "isActive": true,
           "emoji": "⚙️"
         },
@@ -1403,6 +1575,7 @@
           "subject_id": 12,
           "name": "પ્રાણીશાસ્ત્ર",
           "slug": "zoology",
+          "path": "subjects/science/zoology/zoology_gu.json",
           "isActive": true,
           "emoji": "🦁"
         }
@@ -1413,6 +1586,7 @@
       "id": 13,
       "name": "અંતરિક્ષ અને ખગોળશાસ્ત્ર",
       "slug": "space-and-astronomy",
+      "path": "subjects/space-and-astronomy/",
       "sub_subjects_length": 13,
       "isActive": true,
       "sub_subjects": [
@@ -1421,6 +1595,7 @@
           "subject_id": 13,
           "name": "ખગોળશાસ્ત્રનો ઇતિહાસ",
           "slug": "astronomy-history",
+          "path": "subjects/space-and-astronomy/astronomy-history/astronomy-history_gu.json",
           "isActive": true,
           "emoji": "🔭"
         },
@@ -1429,6 +1604,7 @@
           "subject_id": 13,
           "name": "બ્લેક હોલ્સ",
           "slug": "black-holes",
+          "path": "subjects/space-and-astronomy/black-holes/black-holes_gu.json",
           "isActive": true,
           "emoji": "🕳️"
         },
@@ -1437,6 +1613,7 @@
           "subject_id": 13,
           "name": "બ્રહ્માંડ વિજ્ઞાન",
           "slug": "cosmology",
+          "path": "subjects/space-and-astronomy/cosmology/cosmology_gu.json",
           "isActive": true,
           "emoji": "🌌"
         },
@@ -1445,6 +1622,7 @@
           "subject_id": 13,
           "name": "આકાશગંગાઓ",
           "slug": "galaxies",
+          "path": "subjects/space-and-astronomy/galaxies/galaxies_gu.json",
           "isActive": true,
           "emoji": "🌟"
         },
@@ -1453,6 +1631,7 @@
           "subject_id": 13,
           "name": "ગ્રહો",
           "slug": "planets",
+          "path": "subjects/space-and-astronomy/planets/planets_gu.json",
           "isActive": true,
           "emoji": "🪐"
         },
@@ -1461,6 +1640,7 @@
           "subject_id": 13,
           "name": "ઉપગ્રહો",
           "slug": "satellites",
+          "path": "subjects/space-and-astronomy/satellites/satellites_gu.json",
           "isActive": true,
           "emoji": "🛰️"
         },
@@ -1469,6 +1649,7 @@
           "subject_id": 13,
           "name": "સૂર્યમંડળ",
           "slug": "solar-system",
+          "path": "subjects/space-and-astronomy/solar-system/solar-system_gu.json",
           "isActive": true,
           "emoji": "☀️"
         },
@@ -1477,6 +1658,7 @@
           "subject_id": 13,
           "name": "અંતરિક્ષ સંસ્થાઓ",
           "slug": "space-agencies",
+          "path": "subjects/space-and-astronomy/space-agencies/space-agencies_gu.json",
           "isActive": true,
           "emoji": "🛸"
         },
@@ -1485,6 +1667,7 @@
           "subject_id": 13,
           "name": "અંતરિક્ષ સંશોધન",
           "slug": "space-exploration",
+          "path": "subjects/space-and-astronomy/space-exploration/space-exploration_gu.json",
           "isActive": true,
           "emoji": "🚀"
         },
@@ -1493,6 +1676,7 @@
           "subject_id": 13,
           "name": "અંતરિક્ષ મિશનો",
           "slug": "space-missions",
+          "path": "subjects/space-and-astronomy/space-missions/space-missions_gu.json",
           "isActive": true,
           "emoji": "👨‍🚀"
         },
@@ -1501,6 +1685,7 @@
           "subject_id": 13,
           "name": "અંતરિક્ષ વૈજ્ઞાનિકો",
           "slug": "space-scientists",
+          "path": "subjects/space-and-astronomy/space-scientists/space-scientists_gu.json",
           "isActive": true,
           "emoji": "🔭"
         },
@@ -1509,6 +1694,7 @@
           "subject_id": 13,
           "name": "તારાઓ",
           "slug": "stars",
+          "path": "subjects/space-and-astronomy/stars/stars_gu.json",
           "isActive": true,
           "emoji": "⭐"
         },
@@ -1517,6 +1703,7 @@
           "subject_id": 13,
           "name": "બ્રહ્માંડ",
           "slug": "universe",
+          "path": "subjects/space-and-astronomy/universe/universe_gu.json",
           "isActive": true,
           "emoji": "🌠"
         }
@@ -1527,6 +1714,7 @@
       "id": 14,
       "name": "રમતગમત",
       "slug": "sports",
+      "path": "subjects/sports/",
       "sub_subjects_length": 15,
       "isActive": true,
       "sub_subjects": [
@@ -1535,6 +1723,7 @@
           "subject_id": 14,
           "name": "એથ્લેટિક્સ",
           "slug": "athletics",
+          "path": "subjects/sports/athletics/athletics_gu.json",
           "isActive": true,
           "emoji": "👟"
         },
@@ -1543,6 +1732,7 @@
           "subject_id": 14,
           "name": "બેડમિન્ટન",
           "slug": "badminton",
+          "path": "subjects/sports/badminton/badminton_gu.json",
           "isActive": true,
           "emoji": "🏸"
         },
@@ -1551,6 +1741,7 @@
           "subject_id": 14,
           "name": "બાસ્કેટબોલ",
           "slug": "basketball",
+          "path": "subjects/sports/basketball/basketball_gu.json",
           "isActive": true,
           "emoji": "🏀"
         },
@@ -1559,6 +1750,7 @@
           "subject_id": 14,
           "name": "શતરંજ (ચેસ)",
           "slug": "chess",
+          "path": "subjects/sports/chess/chess_gu.json",
           "isActive": true,
           "emoji": "♟️"
         },
@@ -1567,6 +1759,7 @@
           "subject_id": 14,
           "name": "ક્રિકેટ",
           "slug": "cricket",
+          "path": "subjects/sports/cricket/cricket_gu.json",
           "isActive": true,
           "emoji": "🏏"
         },
@@ -1575,6 +1768,7 @@
           "subject_id": 14,
           "name": "સાહસિક રમતો",
           "slug": "extreme-sports",
+          "path": "subjects/sports/extreme-sports/extreme-sports_gu.json",
           "isActive": true,
           "emoji": "🪂"
         },
@@ -1583,6 +1777,7 @@
           "subject_id": 14,
           "name": "ફૂટબોલ",
           "slug": "football",
+          "path": "subjects/sports/football/football_gu.json",
           "isActive": true,
           "emoji": "⚽"
         },
@@ -1591,6 +1786,7 @@
           "subject_id": 14,
           "name": "ફોર્મ્યુલા વન",
           "slug": "formula-1",
+          "path": "subjects/sports/formula-1/formula-1_gu.json",
           "isActive": true,
           "emoji": "🏎️"
         },
@@ -1599,6 +1795,7 @@
           "subject_id": 14,
           "name": "હોકી",
           "slug": "hockey",
+          "path": "subjects/sports/hockey/hockey_gu.json",
           "isActive": true,
           "emoji": "🏒"
         },
@@ -1607,6 +1804,7 @@
           "subject_id": 14,
           "name": "ઓલિમ્પિક્સ",
           "slug": "olympics",
+          "path": "subjects/sports/olympics/olympics_gu.json",
           "isActive": true,
           "emoji": "🥇"
         },
@@ -1615,6 +1813,7 @@
           "subject_id": 14,
           "name": "રમતગમતની હસ્તીઓ",
           "slug": "sports-personalities",
+          "path": "subjects/sports/sports-personalities/sports-personalities_gu.json",
           "isActive": true,
           "emoji": "🏃"
         },
@@ -1623,6 +1822,7 @@
           "subject_id": 14,
           "name": "રમતગમતના વિક્રમો",
           "slug": "sports-records",
+          "path": "subjects/sports/sports-records/sports-records_gu.json",
           "isActive": true,
           "emoji": "⏱️"
         },
@@ -1631,6 +1831,7 @@
           "subject_id": 14,
           "name": "રમતોના નિયમો",
           "slug": "sports-rules",
+          "path": "subjects/sports/sports-rules/sports-rules_gu.json",
           "isActive": true,
           "emoji": "📋"
         },
@@ -1639,6 +1840,7 @@
           "subject_id": 14,
           "name": "ટેનિસ",
           "slug": "tennis",
+          "path": "subjects/sports/tennis/tennis_gu.json",
           "isActive": true,
           "emoji": "🎾"
         },
@@ -1647,6 +1849,7 @@
           "subject_id": 14,
           "name": "ટુર્નામેન્ટ્સ અને કપ",
           "slug": "tournaments-and-cups",
+          "path": "subjects/sports/tournaments-and-cups/tournaments-and-cups_gu.json",
           "isActive": true,
           "emoji": "🏆"
         }
@@ -1657,6 +1860,7 @@
       "id": 15,
       "name": "ટેકનોલોજી",
       "slug": "technology",
+      "path": "subjects/technology/",
       "sub_subjects_length": 14,
       "isActive": true,
       "sub_subjects": [
@@ -1665,6 +1869,7 @@
           "subject_id": 15,
           "name": "3D પ્રિન્ટિંગ",
           "slug": "3d-printing",
+          "path": "subjects/technology/3d-printing/3d-printing_gu.json",
           "isActive": true,
           "emoji": "🖨️"
         },
@@ -1673,6 +1878,7 @@
           "subject_id": 15,
           "name": "કૃત્રિમ બુદ્ધિમત્તા (AI)",
           "slug": "artificial-intelligence",
+          "path": "subjects/technology/artificial-intelligence/artificial-intelligence_gu.json",
           "isActive": true,
           "emoji": "🤖"
         },
@@ -1681,6 +1887,7 @@
           "subject_id": 15,
           "name": "ઓગમેન્ટેડ રિયાલિટી (AR)",
           "slug": "augmented-reality",
+          "path": "subjects/technology/augmented-reality/augmented-reality_gu.json",
           "isActive": true,
           "emoji": "🥽"
         },
@@ -1689,6 +1896,7 @@
           "subject_id": 15,
           "name": "બાયોટેકનોલોજી",
           "slug": "biotechnology",
+          "path": "subjects/technology/biotechnology/biotechnology_gu.json",
           "isActive": true,
           "emoji": "🧬"
         },
@@ -1697,6 +1905,7 @@
           "subject_id": 15,
           "name": "બ્લોકચેન",
           "slug": "blockchain",
+          "path": "subjects/technology/blockchain/blockchain_gu.json",
           "isActive": true,
           "emoji": "🔗"
         },
@@ -1705,6 +1914,7 @@
           "subject_id": 15,
           "name": "સાયબર સુરક્ષા",
           "slug": "cyber-security",
+          "path": "subjects/technology/cyber-security/cyber-security_gu.json",
           "isActive": true,
           "emoji": "🛡️"
         },
@@ -1713,6 +1923,7 @@
           "subject_id": 15,
           "name": "ઇલેક્ટ્રિક વાહનો",
           "slug": "electric-vehicles",
+          "path": "subjects/technology/electric-vehicles/electric-vehicles_gu.json",
           "isActive": true,
           "emoji": "🔋"
         },
@@ -1721,6 +1932,7 @@
           "subject_id": 15,
           "name": "નવીનતમ ટેકનોલોજી",
           "slug": "emerging-technology",
+          "path": "subjects/technology/emerging-technology/emerging-technology_gu.json",
           "isActive": true,
           "emoji": "✨"
         },
@@ -1729,6 +1941,7 @@
           "subject_id": 15,
           "name": "ગેજેટ્સ અને ઉપકરણો",
           "slug": "gadgets",
+          "path": "subjects/technology/gadgets/gadgets_gu.json",
           "isActive": true,
           "emoji": "⌚"
         },
@@ -1737,6 +1950,7 @@
           "subject_id": 15,
           "name": "ઇન્ટરનેટ ઓફ થિંગ્સ (IoT)",
           "slug": "internet-of-things",
+          "path": "subjects/technology/internet-of-things/internet-of-things_gu.json",
           "isActive": true,
           "emoji": "📶"
         },
@@ -1745,6 +1959,7 @@
           "subject_id": 15,
           "name": "રોબોટિક્સ",
           "slug": "robotics",
+          "path": "subjects/technology/robotics/robotics_gu.json",
           "isActive": true,
           "emoji": "🦾"
         },
@@ -1753,6 +1968,7 @@
           "subject_id": 15,
           "name": "સ્માર્ટફોન",
           "slug": "smartphones",
+          "path": "subjects/technology/smartphones/smartphones_gu.json",
           "isActive": true,
           "emoji": "📱"
         },
@@ -1761,6 +1977,7 @@
           "subject_id": 15,
           "name": "અંતરિક્ષ ટેકનોલોજી",
           "slug": "space-technology",
+          "path": "subjects/technology/space-technology/space-technology_gu.json",
           "isActive": true,
           "emoji": "📡"
         },
@@ -1769,6 +1986,7 @@
           "subject_id": 15,
           "name": "વર્ચ્યુઅલ રિયાલિટી (VR)",
           "slug": "virtual-reality",
+          "path": "subjects/technology/virtual-reality/virtual-reality_gu.json",
           "isActive": true,
           "emoji": "🎮"
         }
@@ -1779,6 +1997,7 @@
       "id": 16,
       "name": "વાહનો અને પરિવહન",
       "slug": "vehicles-and-transport",
+      "path": "subjects/vehicles-and-transport/",
       "sub_subjects_length": 13,
       "isActive": true,
       "sub_subjects": [
@@ -1787,6 +2006,7 @@
           "subject_id": 16,
           "name": "વિમાનો",
           "slug": "aircraft",
+          "path": "subjects/vehicles-and-transport/aircraft/aircraft_gu.json",
           "isActive": true,
           "emoji": "✈️"
         },
@@ -1795,6 +2015,7 @@
           "subject_id": 16,
           "name": "ઓટોમોબાઇલ્સ",
           "slug": "automobiles",
+          "path": "subjects/vehicles-and-transport/automobiles/automobiles_gu.json",
           "isActive": true,
           "emoji": "🚙"
         },
@@ -1803,6 +2024,7 @@
           "subject_id": 16,
           "name": "ઓટોમોટિવ ટેકનોલોજી",
           "slug": "automotive-technology",
+          "path": "subjects/vehicles-and-transport/automotive-technology/automotive-technology_gu.json",
           "isActive": true,
           "emoji": "⚙️"
         },
@@ -1811,6 +2033,7 @@
           "subject_id": 16,
           "name": "ઉડ્ડયન ક્ષેત્ર (એવિએશન)",
           "slug": "aviation",
+          "path": "subjects/vehicles-and-transport/aviation/aviation_gu.json",
           "isActive": true,
           "emoji": "🛩️"
         },
@@ -1819,6 +2042,7 @@
           "subject_id": 16,
           "name": "કારો",
           "slug": "cars",
+          "path": "subjects/vehicles-and-transport/cars/cars_gu.json",
           "isActive": true,
           "emoji": "🚕"
         },
@@ -1827,6 +2051,7 @@
           "subject_id": 16,
           "name": "ઇલેક્ટ્રિક વાહનો",
           "slug": "electric-vehicles",
+          "path": "subjects/vehicles-and-transport/electric-vehicles/electric-vehicles_gu.json",
           "isActive": true,
           "emoji": "🔋"
         },
@@ -1835,6 +2060,7 @@
           "subject_id": 16,
           "name": "પ્રખ્યાત વાહનો",
           "slug": "famous-vehicles",
+          "path": "subjects/vehicles-and-transport/famous-vehicles/famous-vehicles_gu.json",
           "isActive": true,
           "emoji": "🚒"
         },
@@ -1843,6 +2069,7 @@
           "subject_id": 16,
           "name": "મોટરસાઇકલ",
           "slug": "motorcycles",
+          "path": "subjects/vehicles-and-transport/motorcycles/motorcycles_gu.json",
           "isActive": true,
           "emoji": "🏍️"
         },
@@ -1851,6 +2078,7 @@
           "subject_id": 16,
           "name": "રેલવે",
           "slug": "railways",
+          "path": "subjects/vehicles-and-transport/railways/railways_gu.json",
           "isActive": true,
           "emoji": "🚂"
         },
@@ -1859,6 +2087,7 @@
           "subject_id": 16,
           "name": "માર્ગ પરિવહન",
           "slug": "road-transport",
+          "path": "subjects/vehicles-and-transport/road-transport/road-transport_gu.json",
           "isActive": true,
           "emoji": "🚌"
         },
@@ -1867,6 +2096,7 @@
           "subject_id": 16,
           "name": "જહાજો અને બોટ",
           "slug": "ships-and-boats",
+          "path": "subjects/vehicles-and-transport/ships-and-boats/ships-and-boats_gu.json",
           "isActive": true,
           "emoji": "🚢"
         },
@@ -1875,6 +2105,7 @@
           "subject_id": 16,
           "name": "ટ્રાફિક અને માર્ગ સુરક્ષા",
           "slug": "traffic-and-road-safety",
+          "path": "subjects/vehicles-and-transport/traffic-and-road-safety/traffic-and-road-safety_gu.json",
           "isActive": true,
           "emoji": "🚦"
         },
@@ -1883,6 +2114,7 @@
           "subject_id": 16,
           "name": "પરિવહનનો ઇતિહાસ",
           "slug": "transport-history",
+          "path": "subjects/vehicles-and-transport/transport-history/transport-history_gu.json",
           "isActive": true,
           "emoji": "🛴"
         }
